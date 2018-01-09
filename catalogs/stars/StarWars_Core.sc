@@ -428,7 +428,7 @@ Star "Coruscant Prime/Coruscant System" // Star name / system name
     RA         0.087333
     Dec        24.585874347736027
     Dist       382999443.88510805
-    Class      "B5 V" //"G7 V"
+    Class      "B7 VI" //"G7 V"
 }
 
 // http://starwars.wikia.com/wiki/Cuvacia
