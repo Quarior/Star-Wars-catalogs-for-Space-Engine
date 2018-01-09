@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Naboo
+// Region : Mid Rim
+// Sector : Chommel Sector
+// Grid location : O17
+// X : 5016.62, Y : -10608.46, Z : 545.398828227475
 Planet "Naboo/Naboo Planet"
 {
 	ParentBody "Naboo System"

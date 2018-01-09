@@ -2178,7 +2178,7 @@ Star "Kashyyyk System" // system name
 // Sector : Mytaranor Sector
 // Grid location : P9
 // X : 7105.42, Y : 196.89, Z : -497.9894297592896
-Star "Kashyyyk System" // system name
+Star "Trandosha System" // system name
 {
     RA         0.08726213663215264
     Dec        24.585903801039578

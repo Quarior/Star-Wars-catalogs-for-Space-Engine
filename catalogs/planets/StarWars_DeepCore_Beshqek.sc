@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Byss
+// Region : Deep Core
+// Sector : 
+// Grid location : K11
+// X : -721.1, Y : -2731.02, Z : -274.4621174514146
 Planet	"Chel"
 {
 	ParentBody     "Beshqek"

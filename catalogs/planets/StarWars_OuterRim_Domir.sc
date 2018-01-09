@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Dathomir
+// Region : Outer Rim
+// Sector : Quelii Sector
+// Grid location : O6
+// X : 4716.6, Y : 5436.59, Z : 111.46904432322435
 Planet	"Arro"
 {
 	ParentBody     "Domir"

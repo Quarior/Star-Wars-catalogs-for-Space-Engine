@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Corellia
+// Region : Core
+// Sector : Corellian
+// Grid location : M11
+// X : 2363.29, Y : -2790.57, Z : 60.15683476185836
 Planet    "Corellia"
 { 
      ParentBody      "Corell"

@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Geonosis
+// Region : Outer Rim
+// Sector : Arkanis Sector
+// Grid location : R16
+// X : 9674.4, Y : -10099.46, Z : -120.62305587004028
 Planet	"Geriss"
 {
 	ParentBody     "Ea"

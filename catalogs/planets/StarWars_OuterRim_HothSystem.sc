@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Hoth
+// Region : Outer Rim
+// Sector : Anoat Sector
+// Grid location : K18
+// X : -1421.32, Y : -12880.35, Z : 253.66398066000374
 Planet	"Shron"
 {
 	ParentBody     "Hoth System"

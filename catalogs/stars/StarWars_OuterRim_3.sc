@@ -436,7 +436,7 @@ Star "Malrev System" // system name
 // Sector : Mandalore Sector
 // Grid location : O7
 // X : 5266.23, Y : 4271.92, Z : 263.95989003279874
-Star "Mandalore System" // system name
+Star "Kalevala System" // system name
 {
     RA         0.08728047903204915
     Dec        24.58651341578281

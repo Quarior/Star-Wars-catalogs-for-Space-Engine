@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Mygeeto
+// Region : Outer Rim
+// Sector : Albarrio Sector
+// Grid location : K5
+// X : -763.84, Y : 7409.65, Z : -547.9929537703749
 Planet	"Reerez"
 {
 	ParentBody     "Malola"

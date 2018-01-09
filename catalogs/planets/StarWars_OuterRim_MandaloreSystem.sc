@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Mandalore
+// Region : Outer Rim
+// Sector : Mandalore Sector
+// Grid location : O7
+// X : 5451.78, Y : 4083.17, Z : -123.77429073543857
 DwarfPlanet	"Nog"
 {
 	ParentBody     "Mandalore System"

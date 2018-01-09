@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Kessel
+// Region : Outer Rim
+// Sector : Kessel Sector
+// Grid location : T10
+// X : 12545.08, Y : -170.54, Z : -558.8218393371664
 Planet	"Senna"
 {
 	ParentBody     "Kessa"

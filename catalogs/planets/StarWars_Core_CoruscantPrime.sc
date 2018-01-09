@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Coruscant
+// Region : Core
+// Sector : Corusca/Coruscant Subsector
+// Grid location : L9
+// X : 0, Y : 0, Z : 556.1208224106006
 Planet	"Revisse"
 {
 	ParentBody     "Coruscant Prime"

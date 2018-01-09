@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Endor
+// Region : Outer Rim
+// Sector : Zuma/Moddell Sector
+// Grid location : H16
+// X : -5148.29, Y : -10245.37, Z : 44.071762501709145
 Planet	"Endor"
 {
 	ParentBody     "Ibleam"

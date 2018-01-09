@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Dagobah
+// Region : Outer Rim
+// Sector : Sluis Sector
+// Grid location : M19
+// X : 2460.87, Y : -14267.52, Z : -337.2718411166642
 Planet	"Ness"
 {
 	ParentBody     "Darlo"

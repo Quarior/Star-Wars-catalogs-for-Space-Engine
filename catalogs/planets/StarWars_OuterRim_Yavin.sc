@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Yavin
+// Region : Outer Rim
+// Sector : Gordian Reach Sector
+// Grid location : P6
+// X : 6875.92, Y : 5980.07, Z : -275.6262981450567
 Planet	"Fiddanl"
 {
 	ParentBody     "Yavin"

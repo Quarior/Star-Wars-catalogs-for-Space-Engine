@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Mustafar
+// Region : Outer Rim
+// Sector : Atravis Sector
+// Grid location : L19
+// X : 267.85, Y : -14770.12, Z : 528.8424721481081
 Planet	"Schada"
 {
 	ParentBody     "Priate"

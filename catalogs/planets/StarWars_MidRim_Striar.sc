@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Malastare
+// Region : Mid Rim
+// Sector : Dustig Sector
+// Grid location : N16
+// X : 3124.93, Y : -10253.47, Z : 217.48959317312188
 Planet	"Saba Reese"
 {
 	ParentBody     "Striar"

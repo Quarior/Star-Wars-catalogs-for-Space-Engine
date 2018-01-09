@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Bespin
+// Region : Outer Rim
+// Sector : Anoat Sector
+// Grid location : K18
+// X : -1429.96, Y : -12747.85, Z : 290.8022723685475
 Planet	"Miser"
 {
 	ParentBody     "Bespin System"

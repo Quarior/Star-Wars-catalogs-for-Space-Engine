@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Dantooine
+// Region : Outer Rim
+// Sector : Raioballo Sector
+// Grid location : L4
+// X : 14.7, Y : 8378.27, Z : 571.2186377739656
 Planet	"Doma"
 {
 	ParentBody     "Dina"

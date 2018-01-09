@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Ansion
+// Region : Mid Rim
+// Sector : Churnis Sector
+// Grid location : I6
+// X : -3099.74, Y : 4500.71, Z : -532.0865474495138
 Planet	"Fahariyn"
 {
 	ParentBody     "Ansion System"

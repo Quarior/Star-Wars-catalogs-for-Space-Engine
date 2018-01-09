@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Kashyyyk
+// Region : Mid Rim
+// Sector : Mytaranor Sector
+// Grid location : P9
+// X : 7087.76, Y : 167.46, Z : -427.3491654564043
 Planet	"Taakarroo"
 {
 	ParentBody     "Kashyyyk System"

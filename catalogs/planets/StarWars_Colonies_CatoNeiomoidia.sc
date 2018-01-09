@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Cato_Neimoidia
+// Region : Colonies
+// Sector : 
+// Grid location : N11
+// X : 3244.57, Y : -2027.38, Z : 252.5448387834124
 Planet	"Cato Neimoidia/Cato Neimoidia Planet"
 {
 	ParentBody     "Cato Neimoidia System"

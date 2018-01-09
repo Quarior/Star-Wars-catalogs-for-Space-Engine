@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Bogden/Legends
+// Region : Inner Rim
+// Sector : 
+// Grid location : M8
+// X : 1588.65, Y : 2669.82, Z : -268.1054535091305
 Planet	"Bogden/Bogden Planet/Bogg"
 {
 	ParentBody     "Bogden System"

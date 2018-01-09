@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Kamino
+// Region : Outer Rim
+// Sector : 
+// Grid location : S15
+// X : 10657.33, Y : -7961.67, Z : -81.29159611949729
 Planet	"Kas"
 {
 	ParentBody     "Kamino System"

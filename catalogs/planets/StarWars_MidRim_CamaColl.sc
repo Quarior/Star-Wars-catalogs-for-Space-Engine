@@ -1,116 +1,56 @@
-Planet	"Coccia"
+// http://starwars.wikia.com/wiki/Boz_Pity
+// Region : Mid Rim
+// Sector : Halla Sector
+// Grid location : S9
+// X : 10564.2, Y : 897.09, Z : 557.5383785703177
+Planet	"Bruss"
 {
-	ParentBody     "Felix"
+	ParentBody     "Cama Coll"
 	Class          "Selena"
 
-    Radius         2743      // Radius in km  
-	Mass            0.25
-    RotationPeriod  59        // Rotation period in hours 
+    Radius          2153      // Radius in km  
+	Mass            0.34
+    RotationPeriod  45        // Rotation period in hours 
 
 	Orbit
 	{
 		Epoch          2454762
-		//Period         0.4     // Orbital period in years 
-		SemiMajorAxis  0.11234
+		//Period         0.591632     // Orbital period in years 
+		SemiMajorAxis  0.52432
 		Inclination    0.1
 		Eccentricity   0.03
 		ArgOfPericen   9.2
 	}
 }
 
-DwarfMoon	"Coccia 1"
+Barycenter	"Boz Pity-Mourn"
 {
-	ParentBody      "Coccia"
-	Albedo          0.0014
-	Radius          89
-	RotationOffset  282
-
+	ParentBody     "Cama Coll"
 	Orbit
 	{
-		//Period         0.00153421
-		SemiMajorAxis  0.00332
-		Eccentricity   0.0002
-		Inclination    0.731
-		AscendingNode  334.279
-		ArgOfPericen   133.891
-		MeanAnomaly    349.678
+		SemiMajorAxis   0.742
+		//Period          2.13	// 778 days
+		Eccentricity    0.005
+		Inclination     0.0
+		AscendingNode   0
+		ArgOfPericen    117.2
+		MeanAnomaly     236.5
 	}
 }
 
-Planet	"Brembo"
-{
-	ParentBody     "Felix"
-	Class          "Desert"
-
-    Radius         3629      // Radius in km  
-	Mass            0.742
-    RotationPeriod  26        // Rotation period in hours 
-
-	Orbit
-	{
-		Epoch          2454762
-		//Period         0.7     // Orbital period in years 
-		SemiMajorAxis  0.28234
-		Inclination    0.1
-		Eccentricity   0.03
-		ArgOfPericen   9.2
-	}
-}
-
-Planet	"Albata Ing"
-{
-	ParentBody     "Felix"
-	Class          "Terra"
-
-    Radius         4272      // Radius in km  
-	Mass            1.148
-    RotationPeriod  29        // Rotation period in hours 
-
-	Life
-	{
-		Class   "Organic"
-		Type    "Multicellular"
-		Biome   "Terrestrial"
-	}
-
-	Atmosphere
-	{
-		Greenhouse	10.0
-		
-		Composition // values in percent
-		{
-			N2  77.7729
-			O2  20.8625
-			Ar  0.9303
-			H2O 0.4000
-			CO2 0.0398
-		}
-	}
-
-	Orbit
-	{
-		Epoch          2454762
-		//Period         0.48927     // Orbital period in years 
-		SemiMajorAxis  0.825
-		Inclination    0.1
-		Eccentricity   0.03
-		ArgOfPericen   9.2
-	}
-}
-
-Planet    "Felucia"
+Planet    "Boz Pity"
 { 
-     ParentBody      "Felix"
+     ParentBody      "Boz Pity-Mourn"
      Class           "Terra"
 
-     Radius          4550
-     Mass            0.96
+     Radius          5216
+     Mass            0.93
      Oblateness      0.0
 
      Albedo          0.32                   // Albedo 
      Color          (0.768, 0.898, 1.000 )  // Color of a particle 
 
-     RotationPeriod  34        // Rotation period in hours 
+     RotationPeriod  55        // Rotation period in hours 
      RotationOffset  243.455
      RotationEpoch   2451545.0
      Obliquity       16.58
@@ -121,9 +61,9 @@ Planet    "Felucia"
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Terrestrial"
+		Biome   "Marine/Terrestrial"
 	}
- 
+      
      Surface         // Surface tag 
      { 
          BumpHeight      14.114
@@ -137,12 +77,12 @@ Planet    "Felucia"
 
          // Next are parameters for procedural surface generation 
    Style           0.675
-   Randomize      (0.675, 0.636, 0.698) 
+   Randomize      (0.395, 0.281, 0.764) 
    colorDistMagn   0.076  // Magnitude of detail textures distortion 
    colorDistFreq   1291.550    // Frequency of detail textures distortion 
    detailScale     37490.168    // Scale of detail textures 
    colorConversion true        // Perform textures color conversion 
-   seaLevel        6.341   // Sea level height (0...1) 
+   seaLevel        5.341   // Sea level height (0...1) 
    snowLevel       0.333   // Snow line level (0...1) 
    tropicLatitude  0.302   // Latitude of tropics 
    icecapLatitude  5.0000000   // Latitude of ice caps boundaries 
@@ -182,7 +122,7 @@ Planet    "Felucia"
    colorSea       (0.040, 0.100, 0.200, 1.000) // Color of seas 
    colorShelf     (0.150, 0.480, 0.460, 1.000) // Color of shelf areas 
    colorBeach     (0.282, 0.250, 0.031, 0.000) // Color of beach lines 
-   colorDesert    (0.505, 0.447, 0.113, 0.000) // Color of deserts 
+   colorDesert    (0.309, 0.392, 0.098, 0.000) // Color of deserts 
    colorLowland   (0.211, 0.298, 0.066, 0.000) // Color of lower lands 
    colorUpland    (0.309, 0.392, 0.098, 0.000) // Color of upper lands 
    colorRock      (0.231, 0.313, 0.090, 0.000) // Color of rocks 
@@ -193,7 +133,7 @@ Planet    "Felucia"
 
      Clouds      // Clouds layer tag 
      { 
-         BumpHeight      0.57     // Max height of "cloud landscape" in km 
+         BumpHeight      0.5     // Max height of "cloud landscape" in km 
          BumpOffset      0.0     // Offset of zero height level 
          DayAmbient      2.0     // Brightness of fake daytime ambient light 
          Lommel          0.2     // Lambert to Lommel-Seeliger lighting model ratio 
@@ -206,8 +146,8 @@ Planet    "Felucia"
          mainFreq        0.9     // Main noise frequency 
          mainOctaves     10      // Number of octaves of main noise 
          Coverage        0.1     // Clouds coverage (0...1) 
-         twistZones      4.18    // Number of Jupiter-like zones or strips 
-         twistMagn       2.33    // Strength of twist 
+         twistZones      2.68    // Number of Jupiter-like zones or strips 
+         twistMagn       2.53    // Strength of twist 
   } 
 
   Ocean 
@@ -221,12 +161,12 @@ Planet    "Felucia"
 
      Atmosphere      // Atmosphere tag 
      { 
-         Model          "Venus"  // Model of the atmosphere 
+         Model          "Earth"  // Model of the atmosphere 
          Height          80.0    // Height of the top boundary in km 
          Pressure        1.2     // Surface pressure in bars 
          Density         1.83    // Surface density in kg/m^3 
-         Greenhouse      10.0    // Greenhouse effect in degrees Kelvin
-         Bright          7.50    // Brightness (rendering parameter) 
+         Greenhouse      18.0    // Greenhouse effect in degrees 
+         Bright          10.0    // Brightness (rendering parameter) 
          Opacity         1.0     // Opacity (rendering parameter) 
          SkyLight        1.0     // Brightness of skylight on terrain 
          EclipseBright   250.0               // Brightness of solar eclipse shadow 
@@ -242,198 +182,102 @@ Planet    "Felucia"
 		}
      } 
 
-	NoRings		true
-
-  Orbit
+	Orbit
 	{
-		Epoch          2454762
-		//Period         0.63245704     // Orbital period in years 
-		SemiMajorAxis  1.4
-		Inclination    0.1
-		Eccentricity   0.03
-		ArgOfPericen   9.2
+		// 493000/2 km with mass ratio 0.84:0.98
+		SemiMajorAxis   0.0015206
+		//Period          0.0772	// 28.2 days
+		Eccentricity    0.02	// no data
+		Inclination     24.5	// no data
+		AscendingNode   28.6	// no data
+		ArgOfPericen    68.5	// no data
+		MeanAnomaly     233.2	// no data
 	}
 }
 
-Moon	"Felix 1"
+Planet	"Mourn"
 {
-	ParentBody     "Felucia"
+	ParentBody     "Boz Pity-Mourn"
+	Class          "Terra"
+
+    Radius          5136      // Radius in km  
+	Mass            0.34
+    RotationPeriod  53        // Rotation period in hours 
+
+	Life
+	{
+		Class   "Organic"
+		Type    "Multicellular"
+		Biome   "Marine/Terrestrial"
+	}
+	
+	Atmosphere
+	{
+		Composition // values in percent
+		{
+			N2  77.7729
+			O2  20.8625
+			Ar  0.9303
+			H2O 0.4000
+			CO2 0.0398
+		}
+	}
+
+	Orbit
+	{
+		// 493000/2 km with mass ratio 0.84:0.98
+		SemiMajorAxis   0.0017745
+		//Period          0.0772	// 28.2 days
+		Eccentricity    0.02	// no data
+		Inclination     24.5	// no data
+		AscendingNode   28.6	// no data
+		ArgOfPericen    248.5	// no data
+		MeanAnomaly     233.2	// no data
+	}
+}
+
+Planet	"Pine"
+{
+	ParentBody     "Cama Coll"
 	Class          "Selena"
 
-    Radius         3819      // Radius in km  
-	Mass            0.672
-    RotationPeriod  144        // Rotation period in hours 
+    Radius          3245      // Radius in km  
+	Mass            0.34
+    RotationPeriod  67        // Rotation period in hours 
 
-	NoAtmosphere	true
+	NoAtmosphere    true
 
 	Orbit
 	{
 		Epoch          2454762
-		//Period         0.0164274556     // Orbital period in years 
-		SemiMajorAxis  0.000213906788
+		//Period         4.3202     // Orbital period in years 
+		SemiMajorAxis  1.2343
 		Inclination    0.1
 		Eccentricity   0.03
 		ArgOfPericen   9.2
 	}
 }
 
-Moon	"Felix 2"
+Planet	"Nyss"
 {
-	ParentBody     "Felucia"
-	Class          "Selena"
-
-    Radius         4537      // Radius in km  
-	Mass            0.4912
-    RotationPeriod  144        // Rotation period in hours 
-
-	NoAtmosphere	true
-
-	Orbit
-	{
-		Epoch          2454762
-		//Period         0.0164298556     // Orbital period in years 
-		SemiMajorAxis  0.00030698743
-		Inclination    0.1
-		Eccentricity   0.03
-		ArgOfPericen   9.2
-	}
-}
-
-Planet	"Farasu"
-{
-	ParentBody     "Felix"
-	Class          "GasGiant"
-
-    Radius         70000      // Radius in km  
-	Mass            174
-    RotationPeriod  10        // Rotation period in hours 
-
-	Orbit
-	{
-		Epoch          2454762
-		//Period         0.821     // Orbital period in years 
-		SemiMajorAxis  1.632
-		Inclination    0.1
-		Eccentricity   0.03
-		ArgOfPericen   9.2
-	}
-}
-
-Planet	"Yamime"
-{
-	ParentBody     "Felix"
-	Class          "GasGiant"
-
-    Radius         125000      // Radius in km  
-	Mass            274
-    RotationPeriod  12        // Rotation period in hours 
-
-	Orbit
-	{
-		Epoch          2454762
-		//Period         1.23     // Orbital period in years 
-		SemiMajorAxis  1.743
-		Inclination    0.1
-		Eccentricity   0.03
-		ArgOfPericen   9.2
-	}
-}
-
-Planet	"Tsutai"
-{
-	ParentBody     "Felix"
-	Class          "GasGiant"
-
-    Radius         82000      // Radius in km  
-	Mass            200
-    RotationPeriod  16        // Rotation period in hours 
-
-	Orbit
-	{
-		Epoch          2454762
-		//Period         1.63     // Orbital period in years 
-		SemiMajorAxis  2.1042
-		Inclination    0.1
-		Eccentricity   0.03
-		ArgOfPericen   9.2
-	}
-}
-
-Planet	"Imei"
-{
-	ParentBody     "Felix"
+	ParentBody     "Cama Coll"
 	Class          "IceWorld"
 
-    Radius         2814      // Radius in km  
-	Mass            0.572
-    RotationPeriod  49        // Rotation period in hours 
+    Radius         4280      // Radius in km  
+	Mass            0.34
+    RotationPeriod  67        // Rotation period in hours 
 
-	NoAtmosphere	true
+	NoAtmosphere    true
+
+	NoClouds        true
 
 	Orbit
 	{
 		Epoch          2454762
-		//Period         2.53     // Orbital period in years 
-		SemiMajorAxis  2.539
+		//Period         7.322     // Orbital period in years 
+		SemiMajorAxis  1.6343
 		Inclination    0.1
 		Eccentricity   0.03
 		ArgOfPericen   9.2
-	}
-}
-
-DwarfMoon	"Imei 1"
-{
-	ParentBody      "Imei"
-	Albedo          0.0014
-	Radius          97
-	RotationOffset  282
-
-	Orbit
-	{
-		//Period         0.00153421
-		SemiMajorAxis  0.00098432
-		Eccentricity   0.0002
-		Inclination    0.531
-		AscendingNode  334.279
-		ArgOfPericen   133.891
-		MeanAnomaly    349.678
-	}
-}
-
-DwarfMoon	"Imei 2"
-{
-	ParentBody      "Imei"
-	Albedo          0.0014
-	Radius          64
-	RotationOffset  282
-
-	Orbit
-	{
-		//Period         0.001245
-		SemiMajorAxis  0.00332
-		Eccentricity   0.0002
-		Inclination    6.32
-		AscendingNode  334.279
-		ArgOfPericen   133.891
-		MeanAnomaly    349.678
-	}
-}
-
-DwarfMoon	"Imei 3"
-{
-	ParentBody      "Imei"
-	Albedo          0.0014
-	Radius          25
-	RotationOffset  282
-
-	Orbit
-	{
-		//Period         0.001924
-		SemiMajorAxis  0.00332
-		Eccentricity   0.0005
-		Inclination    40.00
-		AscendingNode  334.279
-		ArgOfPericen   133.891
-		MeanAnomaly    349.678
 	}
 }

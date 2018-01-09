@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Alderaan
+// Region : Core
+// Sector : Alderaan
+// Grid location : M10
+// X : 1942.44, Y : -89.52, Z : -572.8131505600868
 Planet	"Raisa"
 {
 	ParentBody     "Alderaan System"

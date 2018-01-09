@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Ryloth
+// Region : Outer Rim
+// Sector : Gaulus Sector
+// Grid location : R17
+// X : 10069.18, Y : -11430.32, Z : -273.5942109440851
 Planet	"Mon Bala"
 {
 	ParentBody     "Ryloth System"

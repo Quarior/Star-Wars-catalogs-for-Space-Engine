@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Iego
+// Region : Outer Rim
+// Sector : Ash Worlds Sector
+// Grid location : T7
+// X : 12414.74, Y : 3743.37, Z : -55.83242692112992
 Planet	"Iego/Iego Planet"
 {
 	ParentBody     "Iego System"

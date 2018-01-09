@@ -1,3 +1,8 @@
+// http://starwars.wikia.com/wiki/Korriban
+// Region : Outer Rim
+// Sector : Sith Worlds Sector
+// Grid location : R5
+// X : 9254.62, Y : 6991.44, Z : -28.79846208902734
 Planet	"Korriban/Moraband/Pesegam"
 {
 	ParentBody     "Horuset"

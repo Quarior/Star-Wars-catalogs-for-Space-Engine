@@ -1,6 +1,11 @@
+// http://starwars.wikia.com/wiki/Tatooine
+// Region : Outer Rim
+// Sector : Arkanis Sector
+// Grid location : R16
+// X : 9665.78, Y : -10099.11, Z : -340.74835054541865
 Star	"Tatoo I"
 {
-	ParentBody     "Tatoo system"
+	ParentBody     "Tatoo System"
 	Class	       "G1 V"
 	
 	Orbit
@@ -18,7 +23,7 @@ Star	"Tatoo I"
 
 Star	"Tatoo II"
 {
-	ParentBody     "Tatoo system"
+	ParentBody     "Tatoo System"
 	Class	       "G2 V"
 	
 	Orbit
@@ -36,7 +41,7 @@ Star	"Tatoo II"
 
 Planet	"Tatooine"
 {
-	ParentBody     "Tatoo system"
+	ParentBody     "Tatoo System"
 	Class	       "Desert"
 
 	Mass            0.7981451
@@ -521,7 +526,7 @@ Moon	"Chenini"
 
 Planet	"Ohann"
 {
-	ParentBody     "Tatoo system"
+	ParentBody     "Tatoo System"
 	Class	       "GasGiant"
 
 	Mass            434.6856
@@ -882,7 +887,7 @@ DwarfMoon	"Ohann III"
 
 Planet	"Adriana"
 {
-	ParentBody     "Tatoo system"
+	ParentBody     "Tatoo System"
 	Class	       "IceGiant"
 
 	Mass            30.50166
