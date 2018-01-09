@@ -930,12 +930,12 @@ Star "Gargon System" // system name
 // Sector : Bozhnee Sector
 // Grid location : L18
 // X : 739.67, Y : -12230.05, Z : 583.1946514545252
-StarBarycenter "Garnib System" // system name
+Star "Garnib (S)/Garnib System" // system name
 {
     RA         0.0873256231446885
     Dec        24.584044762079444
     Dist       382999416.9392006
-    Class      "02 V"
+    Class      "O9 V"
 }
 
 // http://starwars.wikia.com/wiki/Garqi
