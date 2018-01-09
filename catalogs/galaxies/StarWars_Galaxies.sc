@@ -38,3 +38,18 @@ Galaxy	"Rishi Maze/Companion Aurek"
 	AbsMagn -20.38
 	Axis ( 281.1476, 0.4828483, 0.8238676, -0.2968164 )
 }
+
+// http://starwars.wikia.com/wiki/Firefist
+Galaxy	"Firefist/Companion Besh"
+{
+	Type    "Sa"
+	RA         0.08736076645343194
+    Dec        24.587131841144693
+    Dist       383007000.15507394
+	Radius   2000
+	AbsMagn -20.38
+    	//Pitch       0 //-45.05019
+    	//Roll        90 //43.35823
+		Axis ( 151.2355, 0.7726607, 0.07577215, -0.6302811) // face the sun, easier to place systems
+    	//Quat ( 0.9770048, 0.2111951, -0.01530767, -0.02498069 )
+}
