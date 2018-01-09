@@ -12,7 +12,5 @@ Nebula    "Stygian Caldera"
     Dist       383000000.2383515
     Radius   798
     AbsMagn  -13.1
-    Yaw       90
-    Pitch      0
-    Roll      45
+    Axis (201.6196, -0.7081141, 0.4208594, 0.5669672)
 }
