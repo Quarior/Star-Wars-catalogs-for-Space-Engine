@@ -656,12 +656,12 @@ Star "Asation System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R5
-// X : 9327.99, Y : 7379.36, Z : -499.93361725090404
+// X : 9327.99, Y : 7379.36, Z : -79.53104933374063
 Star "Ashas Ree System" // system name
 {
-    RA         0.08723997062478557
-    Dec        24.586978278009614
-    Dist       383000500.16529495
+    RA         0.08723997052267125
+    Dec        24.586978279571337
+    Dist       383000079.7627273
     Class      "M1 V" // random
 }
 
@@ -1722,12 +1722,12 @@ Star "Cezith System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R4
-// X : 9456.4, Y : 7700.56, Z : -270.1107886613161
+// X : 9456.4, Y : 7700.56, Z : -86.38358145596065
 Star "Ch'hodos System" // system name
 {
-    RA         0.08723868991694259
-    Dec        24.587026329493625
-    Dist       383000270.35372627
+    RA         0.08723868987170152
+    Dec        24.58702633019919
+    Dist       383000086.62651914
     Class      "M4 IV" // random
 }
 
@@ -1956,12 +1956,12 @@ Star "Cophrigin System" // system name
 // Region : Outer Rim
 // Sector : Esstran Sector
 // Grid location : R5
-// X : 9069.99, Y : 6789.76, Z : -549.8847736880291
+// X : 9069.99, Y : 6789.76, Z : -47.61532078465932
 Star "Corbos System" // system name
 {
-    RA         0.08724254370739414
-    Dec        24.586890075361705
-    Dist       383000550.0960674
+    RA         0.087242543588769
+    Dec        24.586890077111878
+    Dist       383000047.82661486
     Class      "K4 V" // random
 }
 

@@ -227,12 +227,12 @@ Star "Lola Sayu System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R4
-// X : 9251.08, Y : 7895.3, Z : -380.0903903384051
+// X : 9251.08, Y : 7895.3, Z : -74.17854018357718
 Star "Loro Babis System" // system name
 {
-    RA         0.08724073763031955
-    Dec        24.587055461627465
-    Dist       383000380.33336216
+    RA         0.08724073755662726
+    Dec        24.58705546282552
+    Dist       383000074.4215122
     Class      "M7 III" // random
 }
 
@@ -368,7 +368,7 @@ Star "Makem System" // system name
 
 // http://starwars.wikia.com/wiki/Malachor
 // Region : Outer Rim
-// Sector : 
+// Sector : Chorlian sector
 // Grid location : S4
 // X : 10801.71, Y : 7867.55, Z : 160.07926076441845
 Star "Malachor System" // system name
@@ -1076,12 +1076,12 @@ Star "Nez Peron System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R4
-// X : 9733.55, Y : 7754.54, Z : -544.5179509971694
+// X : 9733.55, Y : 7754.54, Z : -88.17636944288776
 Star "Nfolgai System" // system name
 {
-    RA         0.08723592592834101
-    Dec        24.58703440369251
-    Dist       383000544.7692212
+    RA         0.08723592581267801
+    Dec        24.587034405454613
+    Dist       383000088.4276399
     Class      "M1 V" // random
 }
 
@@ -1102,12 +1102,12 @@ Star "Nharl/Nharl System" // Star name / system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R5
-// X : 9110.47, Y : 7305.96, Z : -239.38352938160648
+// X : 9110.47, Y : 7305.96, Z : -35.462939570328466
 Star "Nicht Ka System" // system name
 {
-    RA         0.08724213992097023
-    Dec        24.586967298539953
-    Dist       383000239.60815567
+    RA         0.08724213987259362
+    Dec        24.586967299291636
+    Dist       383000035.687566
     Class      "M6 V" // random
 }
 
@@ -2337,12 +2337,12 @@ Star "Revyia System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R5
-// X : 9828.18, Y : 7216.64, Z : -478.8872594962468
+// X : 9828.18, Y : 7216.64, Z : -40.58913277973779
 Star "Rhelg System" // system name
 {
-    RA         0.08723498215316296
-    Dec        24.58695393563981
-    Dist       383000479.12743986
+    RA         0.08723498204099314
+    Dec        24.586953937240153
+    Dist       383000040.82931346
     Class      "M8 V" // random
 }
 

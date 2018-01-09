@@ -58,12 +58,12 @@ Star "Drog System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R5
-// X : 9530.63, Y : 7255.16, Z : -471.6139707892511
+// X : 9530.63, Y : 7255.16, Z : -61.05338433150048
 Star "Dromund System" // system name
 {
-    RA         0.08723794966012496
-    Dec        24.586959698148632
-    Dist       383000471.84757346
+    RA         0.08723794955823484
+    Dec        24.586959699653878
+    Dist       383000061.2869872
     Class      "G9 III" // random
 }
 
@@ -1544,12 +1544,12 @@ Star "Ileenium System" // system name
 // Region : Outer Rim
 // Sector : Mortex Sector
 // Grid location : R4
-// X : 10145.24, Y : 7868.84, Z : 79.49440846927644
+// X : 10145.24, Y : 7868.84, Z : -85.31808938250087
 Star "Iliabath System" // system name
 {
-    RA         0.08723181992085985
-    Dec        24.587051505081043
-    Dist       382999920.77051336
+    RA         0.08723181996439965
+    Dec        24.58705150443728
+    Dist       383000085.5830111
     Class      "M9 III" // random
 }
 
@@ -1765,12 +1765,12 @@ Star "Jaga’s Cluster System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R5
-// X : 9590.06, Y : 7353.96, Z : 237.39910861327837
+// X : 9590.06, Y : 7353.96, Z : -76.53046902197003
 Star "Jaguada System" // system name
 {
-    RA         0.08723735677915637
-    Dec        24.586974480974003
-    Dist       382999762.8384121
+    RA         0.08723735685755123
+    Dec        24.586974479810923
+    Dist       383000076.7679895
     Class      "M4 IV" // random
 }
 
@@ -2038,12 +2038,12 @@ Star "Kalla System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R5
-// X : 9210.91, Y : 7448.15, Z : -268.7416390987651
+// X : 9210.91, Y : 7448.15, Z : -79.48925656263492
 Star "Kalsunor System" // system name
 {
-    RA         0.08724113822487957
-    Dec        24.586988569661937
-    Dist       383000268.9721977
+    RA         0.08724113817948778
+    Dec        24.58698857037006
+    Dist       383000079.7198153
     Class      "M3 V" // random
 }
 
@@ -2272,12 +2272,12 @@ Star "Ketaris System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R5
-// X : 9905.97, Y : 7401.58, Z : -133.20335593019223
+// X : 9905.97, Y : 7401.58, Z : -43.38553840132856
 Star "Khar Delba System" // system name
 {
-    RA         0.08723420625318333
-    Dec        24.58698160342359
-    Dist       383000133.4500992
+    RA         0.08723420623001509
+    Dec        24.586981603758026
+    Dist       383000043.63228166
     Class      "K2 III" // random
 }
 
@@ -2467,12 +2467,12 @@ Star "Korphir System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R4
-// X : 9080.69, Y : 7855.08, Z : 227.74391750841494
+// X : 9080.69, Y : 7855.08, Z : -74.71758964845243
 Star "Korriz System" // system name
 {
-    RA         0.08724243681090559
-    Dec        24.587049447199547
-    Dist       382999772.4939261
+    RA         0.08724054926331815
+    Dec        24.5870378447534
+    Dist       383000073.7311431
     Class      "M9 III" // random
 }
 
@@ -2493,12 +2493,12 @@ Star "Kowak System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R4
-// X : 9795.99, Y : 7592.61, Z : -179.15816367436992
+// X : 9795.99, Y : 7592.61, Z : -63.080141315566905
 Star "Krayiss System" // system name
 {
-    RA         0.08723530311218763
-    Dec        24.5870101808181
-    Dist       383000179.40688056
+    RA         0.08723530308257807
+    Dec        24.58701018125898
+    Dist       383000063.32885826
     Class      "M7 V" // random
 }
 

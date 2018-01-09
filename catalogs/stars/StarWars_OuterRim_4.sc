@@ -656,12 +656,12 @@ Star "Svivren System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R4
-// X : 9624.68, Y : 7909.05, Z : -544.272937470666
+// X : 9624.68, Y : 7909.05, Z : -59.01394499977772
 Star "Svolten System" // system name
 {
-    RA         0.08723701170419662
-    Dec        24.58705751794491
-    Dist       383000544.5254756
+    RA         0.08723701158257996
+    Dec        24.587057519847956
+    Dist       383000059.2664835
     Class      "M5 V" // random
 }
 
@@ -2567,12 +2567,12 @@ Star "Zhar System" // system name
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R4
-// X : 9269.96, Y : 7777.53, Z : -317.01209629858
+// X : 9269.96, Y : 7777.53, Z : -73.49077961557947
 Star "Ziost System" // system name
 {
-    RA         0.08724054932210067
-    Dec        24.58703784381089
-    Dist       383000317.2524596
+    RA         0.08724054926331815
+    Dec        24.5870378447534
+    Dist       383000073.7311431
     Class      "M7 V" // random
 }
 
