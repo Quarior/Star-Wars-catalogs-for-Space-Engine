@@ -2077,12 +2077,12 @@ Star "Kamdon System" // system name
 // Region : Outer Rim
 // Sector : 
 // Grid location : S15
-// X : 10657.33, Y : -7961.67, Z : 5000 // Kamino is above the galactic planet very close to the edge of Rishi Maze (12 parsecs away)
+// X : 10657.33, Y : -7961.67, Z : 5788 // Kamino is above the galactic plane very close to the edge of Rishi Maze (12 parsecs away)
 Star "Kamino System" // system name
 {
     RA         0.08722671140098076
     Dec        24.584683291268114
-    Dist       382995000.1926541
+    Dist       382994212
     Class      "K1 V"
 }
 
