@@ -2343,7 +2343,7 @@ Star "Dellalt System" // system name
     RA         0.08720918856067082
     Dec        24.586592908966054
     Dist       382999700.74333364
-    Class      "M5 V" // random
+    Class      "K5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Delphon
