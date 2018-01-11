@@ -29,8 +29,7 @@ Planet	"Tion/Proper Tion/Tion Planet"
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Terrestrial"
-		Panspermia "false"
+		Biome   "Marine/Terrestrial"
 	}
 
 	Surface
