@@ -231,10 +231,280 @@ Planet	"Dellalt/Dellalt Planet"
 	}
 }
 
+Moon	"Dellalt Moon 1"
+{
+	ParentBody     "Dellalt"
+	Class	       "Desert"
+
+	Mass            0.00609613
+	Radius          1502.86
+	InertiaMoment   0.386537
+
+	Oblateness      0.0101266
+
+	Obliquity       -0.591104
+	EqAscendNode    -68.4798
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      2
+	Color          (0.865 0.617 0.398)
+
+	Surface
+	{
+		SurfStyle       0.74278
+		OceanStyle      0.734556
+		Randomize      (-0.945, 0.758, -0.849)
+		colorDistMagn   0.0651441
+		colorDistFreq   199.623
+		detailScale     3865.43
+		colorConversion true
+		seaLevel        0.126046
+		snowLevel       2
+		tropicLatitude  0.0170578
+		icecapLatitude  0.874972
+		icecapHeight    0.138351
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.495702
+		venusFreq       0.859031
+		venusMagn       0.342231
+		mareFreq        0.336794
+		mareDensity     0.00242715
+		terraceProb     0.26464
+		erosion         0
+		montesMagn      0.0483852
+		montesFreq      77.9523
+		montesSpiky     0.925267
+		montesFraction  0.0380251
+		dunesMagn       0.0419283
+		dunesFreq       12.0845
+		dunesFraction   0.961411
+		hillsMagn       0.155819
+		hillsFreq       161.65
+		hillsFraction   0
+		hills2Fraction  0
+		riversMagn      66.3977
+		riversFreq      3.93523
+		riversSin       6.57257
+		riversOctaves   0
+		canyonsMagn     0.0320633
+		canyonsFreq     37.2238
+		canyonFraction  0
+		cracksMagn      0.108668
+		cracksFreq      0.138442
+		cracksOctaves   0
+		craterMagn      0.501182
+		craterFreq      4.3852
+		craterDensity   0.307508
+		craterOctaves   3.85137
+		volcanoMagn     0.197698
+		volcanoFreq     0.635086
+		volcanoDensity  0.4
+		volcanoOctaves  3
+		volcanoActivity 2
+		volcanoFlows    0.961652
+		volcanoRadius   0.157148
+		volcanoTemp     1780.06
+		lavaCoverTidal  0.362768
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.640, 0.620, 0.420, 0.000)
+		colorShelf     (0.680, 0.620, 0.470, 0.000)
+		colorBeach     (0.400, 0.380, 0.270, 0.000)
+		colorDesert    (0.800, 0.680, 0.500, 0.000)
+		colorLowland   (0.670, 0.600, 0.490, 0.000)
+		colorUpland    (0.580, 0.490, 0.350, 0.000)
+		colorRock      (0.220, 0.210, 0.210, 0.000)
+		colorSnow      (1.000, 1.000, 1.000, 0.769)
+		colorLowPlants (0.670, 0.600, 0.490, 0.000)
+		colorUpPlants  (0.580, 0.490, 0.350, 0.000)
+		BumpHeight      20
+		DiffMapAlpha   "Ice"
+		SpecBrightWater 0.5
+		SpecBrightIce   0.5
+		SpecularPower   30
+		Hapke           0.51489
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	Atmosphere
+	{
+		Model          "Neptune"
+		Height          75.1428
+		Density         0.048511
+		Pressure        0.0275705
+		Greenhouse      0.737586
+		Bright          8.65303
+		Opacity         1
+		SkyLight        2.88434
+		Hue             0
+		Saturation      1
+
+		Composition
+		{
+			CO2   	73.3599
+			CH4   	11.9141
+			H2S   	6.17523
+			NH3   	5.54277
+			SO2   	1.71479
+			C2H2  	0.518956
+			H2O   	0.345478
+			C2H6  	0.1806
+			N2    	0.166597
+			C2H4  	0.0672328
+			C3H8  	0.0118216
+			CO    	0.00247954
+			Ne    	4.97382e-005
+			Ar    	2.25079e-005
+			Cl2   	1.41995e-005
+		}
+	}
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.000191333
+		Period          0.00254927
+		Eccentricity    0.041601
+		Inclination     -0.591104
+		AscendingNode   -68.4797
+		ArgOfPericenter -41.983
+		MeanAnomaly     -86.1684
+	}
+}
+
+DwarfMoon	"Dellalt Moon 2"
+{
+	ParentBody     "Dellalt"
+	Class	       "Asteroid"
+
+	Mass            3.85888e-007
+	Radius          91.6261
+	InertiaMoment   0.397767
+
+	RotationPeriod  499.91
+	Obliquity       63.4608
+	EqAscendNode    98.5925
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.524 0.518 0.511)
+
+	Surface
+	{
+		SurfStyle       0.351016
+		OceanStyle      0.331014
+		Randomize      (-0.245, 0.262, -0.940)
+		colorDistMagn   0.297388
+		colorDistFreq   4.69751
+		detailScale     2502
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.947682
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.317761
+		terraceProb     0.14138
+		erosion         0
+		montesMagn      0.438455
+		montesFreq      2.95205
+		montesSpiky     0.960121
+		montesFraction  0.231823
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       17.8047
+		hillsFraction   0.691014
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.209251
+		craterFreq      0.287266
+		craterDensity   1.01853
+		craterOctaves   15
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.477821
+		volcanoTemp     1803.3
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.210, 0.207, 0.204, 0.000)
+		colorShelf     (0.223, 0.220, 0.217, 0.000)
+		colorBeach     (0.236, 0.233, 0.230, 0.000)
+		colorDesert    (0.249, 0.246, 0.243, 0.000)
+		colorLowland   (0.262, 0.259, 0.256, 0.000)
+		colorUpland    (0.275, 0.272, 0.268, 0.000)
+		colorRock      (0.288, 0.285, 0.281, 0.000)
+		colorSnow      (0.301, 0.298, 0.294, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.00124686
+		Period          0.0427722
+		Eccentricity    0.471282
+		Inclination     63.4608
+		AscendingNode   98.5925
+		ArgOfPericenter 122.647
+		MeanAnomaly     105.213
+	}
+}
+
 ///////////////
 // GENERATED //
 ///////////////
-Planet	"1"
+Planet	"Dellalt System 1"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Desert"
@@ -465,9 +735,9 @@ Planet	"1"
 	}
 }
 
-DwarfMoon	"1.D1"
+DwarfMoon	"Dellalt System 1.D1"
 {
-	ParentBody     "1"
+	ParentBody     "Dellalt System 1"
 	Class	       "Asteroid"
 
 	Mass            1.40146e-007
@@ -574,9 +844,9 @@ DwarfMoon	"1.D1"
 	}
 }
 
-DwarfMoon	"1.D2"
+DwarfMoon	"Dellalt System 1.D2"
 {
-	ParentBody     "1"
+	ParentBody     "Dellalt System 1"
 	Class	       "Asteroid"
 
 	Mass            1.92611e-007
@@ -683,9 +953,9 @@ DwarfMoon	"1.D2"
 	}
 }
 
-DwarfMoon	"1.D3"
+DwarfMoon	"Dellalt System 1.D3"
 {
-	ParentBody     "1"
+	ParentBody     "Dellalt System 1"
 	Class	       "Asteroid"
 
 	Mass            2.66207e-007
@@ -792,7 +1062,7 @@ DwarfMoon	"1.D3"
 	}
 }
 
-Planet	"2"
+Planet	"Dellalt System 2"
 {
 	ParentBody     "Dellalt System"
 	Class	       "IceGiant"
@@ -936,9 +1206,9 @@ Planet	"2"
 	}
 }
 
-DwarfMoon	"2.D1"
+DwarfMoon	"Dellalt System 2.D1"
 {
-	ParentBody     "2"
+	ParentBody     "Dellalt System 2"
 	Class	       "Asteroid"
 
 	Mass            2.39959e-011
@@ -1045,9 +1315,9 @@ DwarfMoon	"2.D1"
 	}
 }
 
-DwarfMoon	"2.D2"
+DwarfMoon	"Dellalt System 2.D2"
 {
-	ParentBody     "2"
+	ParentBody     "Dellalt System 2"
 	Class	       "Asteroid"
 
 	Mass            4.4709e-011
@@ -1154,9 +1424,9 @@ DwarfMoon	"2.D2"
 	}
 }
 
-DwarfMoon	"2.D3"
+DwarfMoon	"Dellalt System 2.D3"
 {
-	ParentBody     "2"
+	ParentBody     "Dellalt System 2"
 	Class	       "Asteroid"
 
 	Mass            7.77869e-011
@@ -1263,9 +1533,9 @@ DwarfMoon	"2.D3"
 	}
 }
 
-DwarfMoon	"2.D4"
+DwarfMoon	"Dellalt System 2.D4"
 {
-	ParentBody     "2"
+	ParentBody     "Dellalt System 2"
 	Class	       "Asteroid"
 
 	Mass            1.28652e-010
@@ -1372,9 +1642,9 @@ DwarfMoon	"2.D4"
 	}
 }
 
-DwarfMoon	"2.D5"
+DwarfMoon	"Dellalt System 2.D5"
 {
-	ParentBody     "2"
+	ParentBody     "Dellalt System 2"
 	Class	       "Asteroid"
 
 	Mass            2.04661e-010
@@ -1481,9 +1751,9 @@ DwarfMoon	"2.D5"
 	}
 }
 
-DwarfMoon	"2.D6"
+DwarfMoon	"Dellalt System 2.D6"
 {
-	ParentBody     "2"
+	ParentBody     "Dellalt System 2"
 	Class	       "Asteroid"
 
 	Mass            3.15743e-010
@@ -1590,7 +1860,7 @@ DwarfMoon	"2.D6"
 	}
 }
 
-Planet	"3"
+Planet	"Dellalt System 3"
 {
 	ParentBody     "Dellalt System"
 	Class	       "IceGiant"
@@ -1717,9 +1987,9 @@ Planet	"3"
 	}
 }
 
-DwarfMoon	"3.D1"
+DwarfMoon	"Dellalt System 3.D1"
 {
-	ParentBody     "3"
+	ParentBody     "Dellalt System 3"
 	Class	       "Asteroid"
 
 	Mass            9.04301e-009
@@ -1826,9 +2096,9 @@ DwarfMoon	"3.D1"
 	}
 }
 
-DwarfMoon	"3.D2"
+DwarfMoon	"Dellalt System 3.D2"
 {
-	ParentBody     "3"
+	ParentBody     "Dellalt System 3"
 	Class	       "Asteroid"
 
 	Mass            1.23395e-008
@@ -1935,9 +2205,9 @@ DwarfMoon	"3.D2"
 	}
 }
 
-DwarfMoon	"3.D3"
+DwarfMoon	"Dellalt System 3.D3"
 {
-	ParentBody     "3"
+	ParentBody     "Dellalt System 3"
 	Class	       "Asteroid"
 
 	Mass            1.67918e-008
@@ -2044,9 +2314,9 @@ DwarfMoon	"3.D3"
 	}
 }
 
-DwarfMoon	"3.D4"
+DwarfMoon	"Dellalt System 3.D4"
 {
-	ParentBody     "3"
+	ParentBody     "Dellalt System 3"
 	Class	       "Asteroid"
 
 	Mass            2.28095e-008
@@ -2153,9 +2423,9 @@ DwarfMoon	"3.D4"
 	}
 }
 
-DwarfMoon	"3.D5"
+DwarfMoon	"Dellalt System 3.D5"
 {
-	ParentBody     "3"
+	ParentBody     "Dellalt System 3"
 	Class	       "Asteroid"
 
 	Mass            3.09552e-008
@@ -2260,9 +2530,9 @@ DwarfMoon	"3.D5"
 	}
 }
 
-DwarfMoon	"3.D6"
+DwarfMoon	"Dellalt System 3.D6"
 {
-	ParentBody     "3"
+	ParentBody     "Dellalt System 3"
 	Class	       "Asteroid"
 
 	Mass            4.20073e-008
@@ -2367,9 +2637,9 @@ DwarfMoon	"3.D6"
 	}
 }
 
-DwarfMoon	"3.D7"
+DwarfMoon	"Dellalt System 3.D7"
 {
-	ParentBody     "3"
+	ParentBody     "Dellalt System 3"
 	Class	       "Asteroid"
 
 	Mass            5.70511e-008
@@ -2474,7 +2744,7 @@ DwarfMoon	"3.D7"
 	}
 }
 
-Planet	"4"
+Planet	"Dellalt System 4"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Selena"
@@ -2623,9 +2893,9 @@ Planet	"4"
 	}
 }
 
-DwarfMoon	"4.D1"
+DwarfMoon	"Dellalt System 4.D1"
 {
-	ParentBody     "4"
+	ParentBody     "Dellalt System 4"
 	Class	       "Asteroid"
 
 	Mass            1.35291e-006
@@ -2732,9 +3002,9 @@ DwarfMoon	"4.D1"
 	}
 }
 
-DwarfMoon	"4.D2"
+DwarfMoon	"Dellalt System 4.D2"
 {
-	ParentBody     "4"
+	ParentBody     "Dellalt System 4"
 	Class	       "Asteroid"
 
 	Mass            1.99065e-006
@@ -2839,7 +3109,7 @@ DwarfMoon	"4.D2"
 	}
 }
 
-Planet	"5"
+Planet	"Dellalt System 5"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Desert"
@@ -3029,9 +3299,9 @@ Planet	"5"
 	}
 }
 
-DwarfMoon	"5.D1"
+DwarfMoon	"Dellalt System 5.D1"
 {
-	ParentBody     "5"
+	ParentBody     "Dellalt System 5"
 	Class	       "Asteroid"
 
 	Mass            4.15056e-010
@@ -3138,9 +3408,9 @@ DwarfMoon	"5.D1"
 	}
 }
 
-DwarfMoon	"5.D2"
+DwarfMoon	"Dellalt System 5.D2"
 {
-	ParentBody     "5"
+	ParentBody     "Dellalt System 5"
 	Class	       "Asteroid"
 
 	Mass            6.16155e-010
@@ -3247,9 +3517,9 @@ DwarfMoon	"5.D2"
 	}
 }
 
-Moon	"5.1"
+Moon	"Dellalt System 5.1"
 {
-	ParentBody     "5"
+	ParentBody     "Dellalt System 5"
 	Class	       "Selena"
 
 	Mass            0.000269169
@@ -3378,9 +3648,9 @@ Moon	"5.1"
 	}
 }
 
-DwarfMoon	"5.D3"
+DwarfMoon	"Dellalt System 5.D3"
 {
-	ParentBody     "5"
+	ParentBody     "Dellalt System 5"
 	Class	       "Asteroid"
 
 	Mass            1.29138e-009
@@ -3485,9 +3755,9 @@ DwarfMoon	"5.D3"
 	}
 }
 
-DwarfMoon	"5.D4"
+DwarfMoon	"Dellalt System 5.D4"
 {
-	ParentBody     "5"
+	ParentBody     "Dellalt System 5"
 	Class	       "Asteroid"
 
 	Mass            1.83319e-009
@@ -3592,9 +3862,9 @@ DwarfMoon	"5.D4"
 	}
 }
 
-DwarfMoon	"5.D5"
+DwarfMoon	"Dellalt System 5.D5"
 {
-	ParentBody     "5"
+	ParentBody     "Dellalt System 5"
 	Class	       "Asteroid"
 
 	Mass            2.57579e-009
@@ -3699,7 +3969,7 @@ DwarfMoon	"5.D5"
 	}
 }
 
-/*Planet	"6"
+/*Planet	"Dellalt System 6"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Desert"
@@ -3894,9 +4164,9 @@ DwarfMoon	"5.D5"
 	}
 }
 
-DwarfMoon	"6.D1"
+DwarfMoon	"Dellalt System 6.D1"
 {
-	ParentBody     "6"
+	ParentBody     "Dellalt System 6"
 	Class	       "Asteroid"
 
 	Mass            5.14496e-008
@@ -4003,9 +4273,9 @@ DwarfMoon	"6.D1"
 	}
 }
 
-DwarfMoon	"6.D2"
+DwarfMoon	"Dellalt System 6.D2"
 {
-	ParentBody     "6"
+	ParentBody     "Dellalt System 6"
 	Class	       "Asteroid"
 
 	Mass            6.99458e-008
@@ -4112,9 +4382,9 @@ DwarfMoon	"6.D2"
 	}
 }
 
-DwarfMoon	"6.D3"
+DwarfMoon	"Dellalt System 6.D3"
 {
-	ParentBody     "6"
+	ParentBody     "Dellalt System 6"
 	Class	       "Asteroid"
 
 	Mass            9.53081e-008
@@ -4221,9 +4491,9 @@ DwarfMoon	"6.D3"
 	}
 }
 
-DwarfMoon	"6.D4"
+DwarfMoon	"Dellalt System 6.D4"
 {
-	ParentBody     "6"
+	ParentBody     "Dellalt System 6"
 	Class	       "Asteroid"
 
 	Mass            1.30286e-007
@@ -4328,9 +4598,9 @@ DwarfMoon	"6.D4"
 	}
 }
 
-DwarfMoon	"6.D5"
+DwarfMoon	"Dellalt System 6.D5"
 {
-	ParentBody     "6"
+	ParentBody     "Dellalt System 6"
 	Class	       "Asteroid"
 
 	Mass            1.78857e-007
@@ -4435,9 +4705,9 @@ DwarfMoon	"6.D5"
 	}
 }
 
-DwarfMoon	"6.D6"
+DwarfMoon	"Dellalt System 6.D6"
 {
-	ParentBody     "6"
+	ParentBody     "Dellalt System 6"
 	Class	       "Asteroid"
 
 	Mass            2.4685e-007
@@ -4542,9 +4812,9 @@ DwarfMoon	"6.D6"
 	}
 }
 
-DwarfMoon	"6.D7"
+DwarfMoon	"Dellalt System 6.D7"
 {
-	ParentBody     "6"
+	ParentBody     "Dellalt System 6"
 	Class	       "Asteroid"
 
 	Mass            3.42939e-007
@@ -4649,9 +4919,9 @@ DwarfMoon	"6.D7"
 	}
 }
 
-DwarfMoon	"6.D8"
+DwarfMoon	"Dellalt System 6.D8"
 {
-	ParentBody     "6"
+	ParentBody     "Dellalt System 6"
 	Class	       "Asteroid"
 
 	Mass            4.80243e-007
@@ -4756,9 +5026,9 @@ DwarfMoon	"6.D8"
 	}
 }
 
-DwarfMoon	"6.D9"
+DwarfMoon	"Dellalt System 6.D9"
 {
-	ParentBody     "6"
+	ParentBody     "Dellalt System 6"
 	Class	       "Asteroid"
 
 	Mass            6.78997e-007
@@ -4863,9 +5133,9 @@ DwarfMoon	"6.D9"
 	}
 }
 
-DwarfMoon	"6.D10"
+DwarfMoon	"Dellalt System 6.D10"
 {
-	ParentBody     "6"
+	ParentBody     "Dellalt System 6"
 	Class	       "Asteroid"
 
 	Mass            9.71092e-007
@@ -4970,9 +5240,9 @@ DwarfMoon	"6.D10"
 	}
 }
 
-DwarfMoon	"6.D11"
+DwarfMoon	"Dellalt System 6.D11"
 {
-	ParentBody     "6"
+	ParentBody     "Dellalt System 6"
 	Class	       "Asteroid"
 
 	Mass            1.40808e-006
@@ -5077,7 +5347,7 @@ DwarfMoon	"6.D11"
 	}
 }*/
 
-Planet	"7"
+Planet	"Dellalt System 7"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Oceania"
@@ -5303,9 +5573,9 @@ Planet	"7"
 	}
 }
 
-DwarfMoon	"7.D1"
+DwarfMoon	"Dellalt System 7.D1"
 {
-	ParentBody     "7"
+	ParentBody     "Dellalt System 7"
 	Class	       "Asteroid"
 
 	Mass            2.86266e-010
@@ -5412,9 +5682,9 @@ DwarfMoon	"7.D1"
 	}
 }
 
-DwarfMoon	"7.D2"
+DwarfMoon	"Dellalt System 7.D2"
 {
-	ParentBody     "7"
+	ParentBody     "Dellalt System 7"
 	Class	       "Asteroid"
 
 	Mass            4.33147e-010
@@ -5521,9 +5791,9 @@ DwarfMoon	"7.D2"
 	}
 }
 
-DwarfMoon	"7.D3"
+DwarfMoon	"Dellalt System 7.D3"
 {
-	ParentBody     "7"
+	ParentBody     "Dellalt System 7"
 	Class	       "Asteroid"
 
 	Mass            6.41701e-010
@@ -5630,9 +5900,9 @@ DwarfMoon	"7.D3"
 	}
 }
 
-Moon	"7.1"
+Moon	"Dellalt System 7.1"
 {
-	ParentBody     "7"
+	ParentBody     "Dellalt System 7"
 	Class	       "Selena"
 
 	Mass            0.0063167
@@ -5761,9 +6031,9 @@ Moon	"7.1"
 	}
 }
 
-Moon	"7.2"
+Moon	"Dellalt System 7.2"
 {
-	ParentBody     "7"
+	ParentBody     "Dellalt System 7"
 	Class	       "IceWorld"
 
 	Mass            0.00761975
@@ -5895,7 +6165,7 @@ Moon	"7.2"
 	}
 }
 
-Planet	"8"
+Planet	"Dellalt System 8"
 {
 	ParentBody     "Dellalt System"
 	Class	       "GasGiant"
@@ -6065,9 +6335,9 @@ Planet	"8"
 	}
 }
 
-DwarfMoon	"8.D1"
+DwarfMoon	"Dellalt System 8.D1"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Asteroid"
 
 	Mass            2.88431e-008
@@ -6174,9 +6444,9 @@ DwarfMoon	"8.D1"
 	}
 }
 
-DwarfMoon	"8.D2"
+DwarfMoon	"Dellalt System 8.D2"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Asteroid"
 
 	Mass            3.91387e-008
@@ -6283,9 +6553,9 @@ DwarfMoon	"8.D2"
 	}
 }
 
-DwarfMoon	"8.D3"
+DwarfMoon	"Dellalt System 8.D3"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Asteroid"
 
 	Mass            5.31412e-008
@@ -6392,9 +6662,9 @@ DwarfMoon	"8.D3"
 	}
 }
 
-Moon	"8.1"
+Moon	"Dellalt System 8.1"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Desert"
 
 	Mass            0.382797
@@ -6607,9 +6877,9 @@ Moon	"8.1"
 	}
 }
 
-Moon	"8.2"
+Moon	"Dellalt System 8.2"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Desert"
 
 	Mass            4.4432
@@ -6832,9 +7102,9 @@ Moon	"8.2"
 	}
 }
 
-DwarfMoon	"8.D4"
+DwarfMoon	"Dellalt System 8.D4"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Asteroid"
 
 	Mass            1.3469e-007
@@ -6941,9 +7211,9 @@ DwarfMoon	"8.D4"
 	}
 }
 
-Moon	"8.3"
+Moon	"Dellalt System 8.3"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Desert"
 
 	Mass            0.603307
@@ -7140,9 +7410,9 @@ Moon	"8.3"
 	}
 }
 
-Moon	"8.4"
+Moon	"Dellalt System 8.4"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Selena"
 
 	Mass            0.706894
@@ -7310,9 +7580,9 @@ Moon	"8.4"
 	}
 }
 
-Moon	"8.5"
+Moon	"Dellalt System 8.5"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Desert"
 
 	Mass            0.832391
@@ -7480,9 +7750,9 @@ Moon	"8.5"
 	}
 }
 
-Moon	"8.6"
+Moon	"Dellalt System 8.6"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Oceania"
 
 	Mass            9.86235
@@ -7694,9 +7964,9 @@ Moon	"8.6"
 	}
 }
 
-DwarfMoon	"8.D5"
+DwarfMoon	"Dellalt System 8.D5"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Asteroid"
 
 	Mass            7.04734e-007
@@ -7801,9 +8071,9 @@ DwarfMoon	"8.D5"
 	}
 }
 
-DwarfMoon	"8.D6"
+DwarfMoon	"Dellalt System 8.D6"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Asteroid"
 
 	Mass            1.00925e-006
@@ -7908,9 +8178,9 @@ DwarfMoon	"8.D6"
 	}
 }
 
-DwarfMoon	"8.D7"
+DwarfMoon	"Dellalt System 8.D7"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Asteroid"
 
 	Mass            1.46576e-006
@@ -8015,9 +8285,9 @@ DwarfMoon	"8.D7"
 	}
 }
 
-DwarfMoon	"8.D8"
+DwarfMoon	"Dellalt System 8.D8"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Asteroid"
 
 	Mass            2.16497e-006
@@ -8122,9 +8392,9 @@ DwarfMoon	"8.D8"
 	}
 }
 
-Moon	"8.7"
+Moon	"Dellalt System 8.7"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "IceWorld"
 
 	Mass            2.71185
@@ -8297,9 +8567,9 @@ Moon	"8.7"
 	}
 }
 
-Moon	"8.8"
+Moon	"Dellalt System 8.8"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "IceWorld"
 
 	Mass            5.04516e-006
@@ -8429,9 +8699,9 @@ Moon	"8.8"
 	}
 }
 
-DwarfMoon	"8.D9"
+DwarfMoon	"Dellalt System 8.D9"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Asteroid"
 
 	Mass            1.48664e-011
@@ -8536,9 +8806,9 @@ DwarfMoon	"8.D9"
 	}
 }
 
-Moon	"8.9"
+Moon	"Dellalt System 8.9"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "IceWorld"
 
 	Mass            0.00435579
@@ -8668,9 +8938,9 @@ Moon	"8.9"
 	}
 }
 
-DwarfMoon	"8.D10"
+DwarfMoon	"Dellalt System 8.D10"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Asteroid"
 
 	Mass            5.3625e-011
@@ -8775,9 +9045,9 @@ DwarfMoon	"8.D10"
 	}
 }
 
-DwarfMoon	"8.D11"
+DwarfMoon	"Dellalt System 8.D11"
 {
-	ParentBody     "8"
+	ParentBody     "Dellalt System 8"
 	Class	       "Asteroid"
 
 	Mass            9.16697e-011
@@ -8882,7 +9152,7 @@ DwarfMoon	"8.D11"
 	}
 }
 
-DwarfPlanet	"9"
+DwarfPlanet	"Dellalt System 9"
 {
 	ParentBody     "Dellalt System"
 	Class	       "IceWorld"
@@ -9016,9 +9286,9 @@ DwarfPlanet	"9"
 	}
 }
 
-Moon	"9.1"
+Moon	"Dellalt System 9.1"
 {
-	ParentBody     "9"
+	ParentBody     "Dellalt System 9"
 	Class	       "IceWorld"
 
 	Mass            2.54931e-005
@@ -9150,9 +9420,9 @@ Moon	"9.1"
 	}
 }
 
-Moon	"9.2"
+Moon	"Dellalt System 9.2"
 {
-	ParentBody     "9"
+	ParentBody     "Dellalt System 9"
 	Class	       "IceWorld"
 
 	Mass            2.98655e-005
@@ -9282,9 +9552,9 @@ Moon	"9.2"
 	}
 }
 
-Moon	"9.3"
+Moon	"Dellalt System 9.3"
 {
-	ParentBody     "9"
+	ParentBody     "Dellalt System 9"
 	Class	       "IceWorld"
 
 	Mass            3.48507e-005
@@ -9414,9 +9684,9 @@ Moon	"9.3"
 	}
 }
 
-Moon	"9.4"
+Moon	"Dellalt System 9.4"
 {
-	ParentBody     "9"
+	ParentBody     "Dellalt System 9"
 	Class	       "IceWorld"
 
 	Mass            4.0543e-005
@@ -9546,9 +9816,9 @@ Moon	"9.4"
 	}
 }
 
-Moon	"9.5"
+Moon	"Dellalt System 9.5"
 {
-	ParentBody     "9"
+	ParentBody     "Dellalt System 9"
 	Class	       "IceWorld"
 
 	Mass            4.70557e-005
@@ -9678,7 +9948,7 @@ Moon	"9.5"
 	}
 }
 
-Planet	"10"
+Planet	"Dellalt System 10"
 {
 	ParentBody     "Dellalt System"
 	Class	       "IceGiant"
@@ -9837,9 +10107,9 @@ Planet	"10"
 	}
 }
 
-DwarfMoon	"10.D1"
+DwarfMoon	"Dellalt System 10.D1"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            2.64442e-007
@@ -9946,9 +10216,9 @@ DwarfMoon	"10.D1"
 	}
 }
 
-DwarfMoon	"10.D2"
+DwarfMoon	"Dellalt System 10.D2"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            3.67952e-007
@@ -10055,9 +10325,9 @@ DwarfMoon	"10.D2"
 	}
 }
 
-DwarfMoon	"10.D3"
+DwarfMoon	"Dellalt System 10.D3"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            5.16242e-007
@@ -10164,9 +10434,9 @@ DwarfMoon	"10.D3"
 	}
 }
 
-DwarfMoon	"10.D4"
+DwarfMoon	"Dellalt System 10.D4"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            7.31543e-007
@@ -10273,9 +10543,9 @@ DwarfMoon	"10.D4"
 	}
 }
 
-DwarfMoon	"10.D5"
+DwarfMoon	"Dellalt System 10.D5"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            1.04907e-006
@@ -10382,9 +10652,9 @@ DwarfMoon	"10.D5"
 	}
 }
 
-DwarfMoon	"10.D6"
+DwarfMoon	"Dellalt System 10.D6"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            1.52608e-006
@@ -10491,9 +10761,9 @@ DwarfMoon	"10.D6"
 	}
 }
 
-Moon	"10.1"
+Moon	"Dellalt System 10.1"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Desert"
 
 	Mass            0.036174
@@ -10643,9 +10913,9 @@ Moon	"10.1"
 	}
 }
 
-Moon	"10.2"
+Moon	"Dellalt System 10.2"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Selena"
 
 	Mass            0.0458441
@@ -10799,9 +11069,9 @@ Moon	"10.2"
 	}
 }
 
-Moon	"10.3"
+Moon	"Dellalt System 10.3"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Desert"
 
 	Mass            0.597731
@@ -11020,9 +11290,9 @@ Moon	"10.3"
 	}
 }
 
-Moon	"10.4"
+Moon	"Dellalt System 10.4"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "IceWorld"
 
 	Mass            2.99344e-005
@@ -11152,9 +11422,9 @@ Moon	"10.4"
 	}
 }
 
-DwarfMoon	"10.D7"
+DwarfMoon	"Dellalt System 10.D7"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            3.15193e-011
@@ -11259,9 +11529,9 @@ DwarfMoon	"10.D7"
 	}
 }
 
-Moon	"10.5"
+Moon	"Dellalt System 10.5"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "IceWorld"
 
 	Mass            0.000132289
@@ -11391,9 +11661,9 @@ Moon	"10.5"
 	}
 }
 
-Moon	"10.6"
+Moon	"Dellalt System 10.6"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "IceWorld"
 
 	Mass            0.000196875
@@ -11523,9 +11793,9 @@ Moon	"10.6"
 	}
 }
 
-Moon	"10.7"
+Moon	"Dellalt System 10.7"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "IceWorld"
 
 	Mass            0.00271858
@@ -11655,9 +11925,9 @@ Moon	"10.7"
 	}
 }
 
-DwarfMoon	"10.D8"
+DwarfMoon	"Dellalt System 10.D8"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            2.46619e-010
@@ -11762,9 +12032,9 @@ DwarfMoon	"10.D8"
 	}
 }
 
-DwarfMoon	"10.D9"
+DwarfMoon	"Dellalt System 10.D9"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            3.76288e-010
@@ -11869,9 +12139,9 @@ DwarfMoon	"10.D9"
 	}
 }
 
-DwarfMoon	"10.D10"
+DwarfMoon	"Dellalt System 10.D10"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            5.6129e-010
@@ -11976,9 +12246,9 @@ DwarfMoon	"10.D10"
 	}
 }
 
-DwarfMoon	"10.D11"
+DwarfMoon	"Dellalt System 10.D11"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            8.21842e-010
@@ -12083,9 +12353,9 @@ DwarfMoon	"10.D11"
 	}
 }
 
-DwarfMoon	"10.D12"
+DwarfMoon	"Dellalt System 10.D12"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            1.18497e-009
@@ -12190,9 +12460,9 @@ DwarfMoon	"10.D12"
 	}
 }
 
-DwarfMoon	"10.D13"
+DwarfMoon	"Dellalt System 10.D13"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            1.68677e-009
@@ -12297,9 +12567,9 @@ DwarfMoon	"10.D13"
 	}
 }
 
-DwarfMoon	"10.D14"
+DwarfMoon	"Dellalt System 10.D14"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            2.37551e-009
@@ -12404,9 +12674,9 @@ DwarfMoon	"10.D14"
 	}
 }
 
-DwarfMoon	"10.D15"
+DwarfMoon	"Dellalt System 10.D15"
 {
-	ParentBody     "10"
+	ParentBody     "Dellalt System 10"
 	Class	       "Asteroid"
 
 	Mass            3.31574e-009
@@ -12511,7 +12781,7 @@ DwarfMoon	"10.D15"
 	}
 }
 
-Barycenter	"11-11.1"
+Barycenter	"Dellalt System 11-11.1"
 {
 	ParentBody     "Dellalt System"
 	Mass            0.509878
@@ -12534,9 +12804,9 @@ Barycenter	"11-11.1"
 	}
 }
 
-Planet	"11"
+Planet	"Dellalt System 11"
 {
-	ParentBody     "11-11.1"
+	ParentBody     "Dellalt System 11-11.1"
 	Class	       "IceWorld"
 
 	Mass            0.299419
@@ -12707,9 +12977,9 @@ Planet	"11"
 	}
 }
 
-Moon	"11.1"
+Moon	"Dellalt System 11.1"
 {
-	ParentBody     "11-11.1"
+	ParentBody     "Dellalt System 11-11.1"
 	Class	       "IceWorld"
 
 	Mass            0.210459
@@ -12859,7 +13129,7 @@ Moon	"11.1"
 	}
 }
 
-Comet	"C1"
+Comet	"Dellalt System C1"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -12979,7 +13249,7 @@ Comet	"C1"
 	}
 }
 
-Comet	"C2"
+Comet	"Dellalt System C2"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -13099,7 +13369,7 @@ Comet	"C2"
 	}
 }
 
-Comet	"C3"
+Comet	"Dellalt System C3"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -13219,7 +13489,7 @@ Comet	"C3"
 	}
 }
 
-Comet	"C4"
+Comet	"Dellalt System C4"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -13339,7 +13609,7 @@ Comet	"C4"
 	}
 }
 
-Comet	"C5"
+Comet	"Dellalt System C5"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -13459,7 +13729,7 @@ Comet	"C5"
 	}
 }
 
-Comet	"C6"
+Comet	"Dellalt System C6"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -13579,7 +13849,7 @@ Comet	"C6"
 	}
 }
 
-Comet	"C7"
+Comet	"Dellalt System C7"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -13699,7 +13969,7 @@ Comet	"C7"
 	}
 }
 
-Comet	"C8"
+Comet	"Dellalt System C8"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -13819,7 +14089,7 @@ Comet	"C8"
 	}
 }
 
-Comet	"C9"
+Comet	"Dellalt System C9"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -13939,7 +14209,7 @@ Comet	"C9"
 	}
 }
 
-Comet	"C10"
+Comet	"Dellalt System C10"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -14059,7 +14329,7 @@ Comet	"C10"
 	}
 }
 
-Comet	"C11"
+Comet	"Dellalt System C11"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -14179,7 +14449,7 @@ Comet	"C11"
 	}
 }
 
-Comet	"C12"
+Comet	"Dellalt System C12"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -14299,7 +14569,7 @@ Comet	"C12"
 	}
 }
 
-Comet	"C13"
+Comet	"Dellalt System C13"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -14419,7 +14689,7 @@ Comet	"C13"
 	}
 }
 
-Comet	"C14"
+Comet	"Dellalt System C14"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -14539,7 +14809,7 @@ Comet	"C14"
 	}
 }
 
-Comet	"C15"
+Comet	"Dellalt System C15"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -14659,7 +14929,7 @@ Comet	"C15"
 	}
 }
 
-Comet	"C16"
+Comet	"Dellalt System C16"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -14779,7 +15049,7 @@ Comet	"C16"
 	}
 }
 
-Comet	"C17"
+Comet	"Dellalt System C17"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -14899,7 +15169,7 @@ Comet	"C17"
 	}
 }
 
-Comet	"C18"
+Comet	"Dellalt System C18"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -15019,7 +15289,7 @@ Comet	"C18"
 	}
 }
 
-Comet	"C19"
+Comet	"Dellalt System C19"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -15139,7 +15409,7 @@ Comet	"C19"
 	}
 }
 
-Comet	"C20"
+Comet	"Dellalt System C20"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -15259,7 +15529,7 @@ Comet	"C20"
 	}
 }
 
-Comet	"C21"
+Comet	"Dellalt System C21"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -15379,7 +15649,7 @@ Comet	"C21"
 	}
 }
 
-Comet	"C22"
+Comet	"Dellalt System C22"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -15499,7 +15769,7 @@ Comet	"C22"
 	}
 }
 
-Comet	"C23"
+Comet	"Dellalt System C23"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -15619,7 +15889,7 @@ Comet	"C23"
 	}
 }
 
-Comet	"C24"
+Comet	"Dellalt System C24"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -15739,7 +16009,7 @@ Comet	"C24"
 	}
 }
 
-Comet	"C25"
+Comet	"Dellalt System C25"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -15859,7 +16129,7 @@ Comet	"C25"
 	}
 }
 
-Comet	"C26"
+Comet	"Dellalt System C26"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -15979,7 +16249,7 @@ Comet	"C26"
 	}
 }
 
-Comet	"C27"
+Comet	"Dellalt System C27"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -16099,7 +16369,7 @@ Comet	"C27"
 	}
 }
 
-Comet	"C28"
+Comet	"Dellalt System C28"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -16219,7 +16489,7 @@ Comet	"C28"
 	}
 }
 
-Comet	"C29"
+Comet	"Dellalt System C29"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -16339,7 +16609,7 @@ Comet	"C29"
 	}
 }
 
-Comet	"C30"
+Comet	"Dellalt System C30"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -16459,7 +16729,7 @@ Comet	"C30"
 	}
 }
 
-Comet	"C31"
+Comet	"Dellalt System C31"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -16579,7 +16849,7 @@ Comet	"C31"
 	}
 }
 
-Comet	"C32"
+Comet	"Dellalt System C32"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -16699,7 +16969,7 @@ Comet	"C32"
 	}
 }
 
-Comet	"C33"
+Comet	"Dellalt System C33"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -16819,7 +17089,7 @@ Comet	"C33"
 	}
 }
 
-Comet	"C34"
+Comet	"Dellalt System C34"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -16939,7 +17209,7 @@ Comet	"C34"
 	}
 }
 
-Comet	"C35"
+Comet	"Dellalt System C35"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -17059,7 +17329,7 @@ Comet	"C35"
 	}
 }
 
-Comet	"C36"
+Comet	"Dellalt System C36"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -17179,7 +17449,7 @@ Comet	"C36"
 	}
 }
 
-Comet	"C37"
+Comet	"Dellalt System C37"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -17299,7 +17569,7 @@ Comet	"C37"
 	}
 }
 
-Comet	"C38"
+Comet	"Dellalt System C38"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -17419,7 +17689,7 @@ Comet	"C38"
 	}
 }
 
-Comet	"C39"
+Comet	"Dellalt System C39"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -17539,7 +17809,7 @@ Comet	"C39"
 	}
 }
 
-Comet	"C40"
+Comet	"Dellalt System C40"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -17659,7 +17929,7 @@ Comet	"C40"
 	}
 }
 
-Comet	"C41"
+Comet	"Dellalt System C41"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -17779,7 +18049,7 @@ Comet	"C41"
 	}
 }
 
-Comet	"C42"
+Comet	"Dellalt System C42"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -17899,7 +18169,7 @@ Comet	"C42"
 	}
 }
 
-Comet	"C43"
+Comet	"Dellalt System C43"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -18019,7 +18289,7 @@ Comet	"C43"
 	}
 }
 
-Comet	"C44"
+Comet	"Dellalt System C44"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -18139,7 +18409,7 @@ Comet	"C44"
 	}
 }
 
-Comet	"C45"
+Comet	"Dellalt System C45"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -18259,7 +18529,7 @@ Comet	"C45"
 	}
 }
 
-Comet	"C46"
+Comet	"Dellalt System C46"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -18379,7 +18649,7 @@ Comet	"C46"
 	}
 }
 
-Comet	"C47"
+Comet	"Dellalt System C47"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -18499,7 +18769,7 @@ Comet	"C47"
 	}
 }
 
-Comet	"C48"
+Comet	"Dellalt System C48"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -18619,7 +18889,7 @@ Comet	"C48"
 	}
 }
 
-Comet	"C49"
+Comet	"Dellalt System C49"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -18739,7 +19009,7 @@ Comet	"C49"
 	}
 }
 
-Comet	"C50"
+Comet	"Dellalt System C50"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -18859,7 +19129,7 @@ Comet	"C50"
 	}
 }
 
-Comet	"C51"
+Comet	"Dellalt System C51"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -18979,7 +19249,7 @@ Comet	"C51"
 	}
 }
 
-Comet	"C52"
+Comet	"Dellalt System C52"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -19099,7 +19369,7 @@ Comet	"C52"
 	}
 }
 
-Comet	"C53"
+Comet	"Dellalt System C53"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -19219,7 +19489,7 @@ Comet	"C53"
 	}
 }
 
-Comet	"C54"
+Comet	"Dellalt System C54"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -19339,7 +19609,7 @@ Comet	"C54"
 	}
 }
 
-Comet	"C55"
+Comet	"Dellalt System C55"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -19459,7 +19729,7 @@ Comet	"C55"
 	}
 }
 
-Comet	"C56"
+Comet	"Dellalt System C56"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -19579,7 +19849,7 @@ Comet	"C56"
 	}
 }
 
-Comet	"C57"
+Comet	"Dellalt System C57"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -19699,7 +19969,7 @@ Comet	"C57"
 	}
 }
 
-Comet	"C58"
+Comet	"Dellalt System C58"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -19819,7 +20089,7 @@ Comet	"C58"
 	}
 }
 
-Comet	"C59"
+Comet	"Dellalt System C59"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -19939,7 +20209,7 @@ Comet	"C59"
 	}
 }
 
-Comet	"C60"
+Comet	"Dellalt System C60"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -20059,7 +20329,7 @@ Comet	"C60"
 	}
 }
 
-Comet	"C61"
+Comet	"Dellalt System C61"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -20179,7 +20449,7 @@ Comet	"C61"
 	}
 }
 
-Comet	"C62"
+Comet	"Dellalt System C62"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -20299,7 +20569,7 @@ Comet	"C62"
 	}
 }
 
-Comet	"C63"
+Comet	"Dellalt System C63"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -20419,7 +20689,7 @@ Comet	"C63"
 	}
 }
 
-Comet	"C64"
+Comet	"Dellalt System C64"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -20539,7 +20809,7 @@ Comet	"C64"
 	}
 }
 
-Comet	"C65"
+Comet	"Dellalt System C65"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -20659,7 +20929,7 @@ Comet	"C65"
 	}
 }
 
-Comet	"C66"
+Comet	"Dellalt System C66"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -20779,7 +21049,7 @@ Comet	"C66"
 	}
 }
 
-Comet	"C67"
+Comet	"Dellalt System C67"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -20899,7 +21169,7 @@ Comet	"C67"
 	}
 }
 
-Comet	"C68"
+Comet	"Dellalt System C68"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -21019,7 +21289,7 @@ Comet	"C68"
 	}
 }
 
-Comet	"C69"
+Comet	"Dellalt System C69"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -21139,7 +21409,7 @@ Comet	"C69"
 	}
 }
 
-Comet	"C70"
+Comet	"Dellalt System C70"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -21259,7 +21529,7 @@ Comet	"C70"
 	}
 }
 
-Comet	"C71"
+Comet	"Dellalt System C71"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -21379,7 +21649,7 @@ Comet	"C71"
 	}
 }
 
-Comet	"C72"
+Comet	"Dellalt System C72"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -21499,7 +21769,7 @@ Comet	"C72"
 	}
 }
 
-Comet	"C73"
+Comet	"Dellalt System C73"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -21619,7 +21889,7 @@ Comet	"C73"
 	}
 }
 
-Comet	"C74"
+Comet	"Dellalt System C74"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -21739,7 +22009,7 @@ Comet	"C74"
 	}
 }
 
-Comet	"C75"
+Comet	"Dellalt System C75"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -21859,7 +22129,7 @@ Comet	"C75"
 	}
 }
 
-Comet	"C76"
+Comet	"Dellalt System C76"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -21979,7 +22249,7 @@ Comet	"C76"
 	}
 }
 
-Comet	"C77"
+Comet	"Dellalt System C77"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -22099,7 +22369,7 @@ Comet	"C77"
 	}
 }
 
-Comet	"C78"
+Comet	"Dellalt System C78"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -22219,7 +22489,7 @@ Comet	"C78"
 	}
 }
 
-Comet	"C79"
+Comet	"Dellalt System C79"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -22339,7 +22609,7 @@ Comet	"C79"
 	}
 }
 
-Comet	"C80"
+Comet	"Dellalt System C80"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -22459,7 +22729,7 @@ Comet	"C80"
 	}
 }
 
-Comet	"C81"
+Comet	"Dellalt System C81"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -22579,7 +22849,7 @@ Comet	"C81"
 	}
 }
 
-Comet	"C82"
+Comet	"Dellalt System C82"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -22699,7 +22969,7 @@ Comet	"C82"
 	}
 }
 
-Comet	"C83"
+Comet	"Dellalt System C83"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -22819,7 +23089,7 @@ Comet	"C83"
 	}
 }
 
-Comet	"C84"
+Comet	"Dellalt System C84"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -22939,7 +23209,7 @@ Comet	"C84"
 	}
 }
 
-Comet	"C85"
+Comet	"Dellalt System C85"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -23059,7 +23329,7 @@ Comet	"C85"
 	}
 }
 
-Comet	"C86"
+Comet	"Dellalt System C86"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -23179,7 +23449,7 @@ Comet	"C86"
 	}
 }
 
-Comet	"C87"
+Comet	"Dellalt System C87"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -23299,7 +23569,7 @@ Comet	"C87"
 	}
 }
 
-Comet	"C88"
+Comet	"Dellalt System C88"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -23419,7 +23689,7 @@ Comet	"C88"
 	}
 }
 
-Comet	"C89"
+Comet	"Dellalt System C89"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -23539,7 +23809,7 @@ Comet	"C89"
 	}
 }
 
-Comet	"C90"
+Comet	"Dellalt System C90"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -23659,7 +23929,7 @@ Comet	"C90"
 	}
 }
 
-Comet	"C91"
+Comet	"Dellalt System C91"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -23779,7 +24049,7 @@ Comet	"C91"
 	}
 }
 
-Comet	"C92"
+Comet	"Dellalt System C92"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -23899,7 +24169,7 @@ Comet	"C92"
 	}
 }
 
-Comet	"C93"
+Comet	"Dellalt System C93"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -24019,7 +24289,7 @@ Comet	"C93"
 	}
 }
 
-Comet	"C94"
+Comet	"Dellalt System C94"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -24139,7 +24409,7 @@ Comet	"C94"
 	}
 }
 
-Comet	"C95"
+Comet	"Dellalt System C95"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -24259,7 +24529,7 @@ Comet	"C95"
 	}
 }
 
-Comet	"C96"
+Comet	"Dellalt System C96"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -24379,7 +24649,7 @@ Comet	"C96"
 	}
 }
 
-Comet	"C97"
+Comet	"Dellalt System C97"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -24499,7 +24769,7 @@ Comet	"C97"
 	}
 }
 
-Comet	"C98"
+Comet	"Dellalt System C98"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -24619,7 +24889,7 @@ Comet	"C98"
 	}
 }
 
-Comet	"C99"
+Comet	"Dellalt System C99"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -24739,7 +25009,7 @@ Comet	"C99"
 	}
 }
 
-Comet	"C100"
+Comet	"Dellalt System C100"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -24859,7 +25129,7 @@ Comet	"C100"
 	}
 }
 
-Comet	"C101"
+Comet	"Dellalt System C101"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -24979,7 +25249,7 @@ Comet	"C101"
 	}
 }
 
-Comet	"C102"
+Comet	"Dellalt System C102"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -25099,7 +25369,7 @@ Comet	"C102"
 	}
 }
 
-Comet	"C103"
+Comet	"Dellalt System C103"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -25219,7 +25489,7 @@ Comet	"C103"
 	}
 }
 
-Comet	"C104"
+Comet	"Dellalt System C104"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -25339,7 +25609,7 @@ Comet	"C104"
 	}
 }
 
-Comet	"C105"
+Comet	"Dellalt System C105"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -25459,7 +25729,7 @@ Comet	"C105"
 	}
 }
 
-Comet	"C106"
+Comet	"Dellalt System C106"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -25579,7 +25849,7 @@ Comet	"C106"
 	}
 }
 
-Comet	"C107"
+Comet	"Dellalt System C107"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -25699,7 +25969,7 @@ Comet	"C107"
 	}
 }
 
-Comet	"C108"
+Comet	"Dellalt System C108"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -25819,7 +26089,7 @@ Comet	"C108"
 	}
 }
 
-Comet	"C109"
+Comet	"Dellalt System C109"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -25939,7 +26209,7 @@ Comet	"C109"
 	}
 }
 
-Comet	"C110"
+Comet	"Dellalt System C110"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -26059,7 +26329,7 @@ Comet	"C110"
 	}
 }
 
-Comet	"C111"
+Comet	"Dellalt System C111"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -26179,7 +26449,7 @@ Comet	"C111"
 	}
 }
 
-Comet	"C112"
+Comet	"Dellalt System C112"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -26299,7 +26569,7 @@ Comet	"C112"
 	}
 }
 
-Comet	"C113"
+Comet	"Dellalt System C113"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -26419,7 +26689,7 @@ Comet	"C113"
 	}
 }
 
-Comet	"C114"
+Comet	"Dellalt System C114"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -26539,7 +26809,7 @@ Comet	"C114"
 	}
 }
 
-Comet	"C115"
+Comet	"Dellalt System C115"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
@@ -26659,7 +26929,7 @@ Comet	"C115"
 	}
 }
 
-Comet	"C116"
+Comet	"Dellalt System C116"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Asteroid"
