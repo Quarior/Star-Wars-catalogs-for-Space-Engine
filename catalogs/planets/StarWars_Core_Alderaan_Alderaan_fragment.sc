@@ -51,7 +51,7 @@ Asteroid "Alderaan fragment 1"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-24.06219572074889	//in km
+	Radius		24.06219572074889	//in km
 	RotationPeriod	13.287327217412745	//in hours
 	Obliquity		302.0858781436786
 
@@ -135,7 +135,7 @@ Asteroid "Alderaan fragment 5"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-43.33693988737263	//in km
+	Radius		43.33693988737263	//in km
 	RotationPeriod	13.429937406380427	//in hours
 	Obliquity		123.01583564760634
 
@@ -156,7 +156,7 @@ Asteroid "Alderaan fragment 6"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-12.398273285635195	//in km
+	Radius		12.398273285635195	//in km
 	RotationPeriod	13.98440284368294	//in hours
 	Obliquity		106.0307192486475
 
@@ -177,7 +177,7 @@ Asteroid "Alderaan fragment 7"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-7.674709500994407	//in km
+	Radius		7.674709500994407	//in km
 	RotationPeriod	6.980810306422872	//in hours
 	Obliquity		173.15728390226926
 
@@ -198,7 +198,7 @@ Asteroid "Alderaan fragment 8"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-169.68972939513796	//in km
+	Radius		169.68972939513796	//in km
 	RotationPeriod	19.252062477455773	//in hours
 	Obliquity		1.1645927934966416
 
@@ -219,7 +219,7 @@ Asteroid "Alderaan fragment 9"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-89.83208745194986	//in km
+	Radius		89.83208745194986	//in km
 	RotationPeriod	13.186769907440109	//in hours
 	Obliquity		329.08201432302275
 
@@ -345,7 +345,7 @@ Asteroid "Alderaan fragment 15"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-9.935115958475581	//in km
+	Radius		9.935115958475581	//in km
 	RotationPeriod	15.385780117590029	//in hours
 	Obliquity		11.119122805059982
 
@@ -429,7 +429,7 @@ Asteroid "Alderaan fragment 19"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-186.30829581289865	//in km
+	Radius		186.30829581289865	//in km
 	RotationPeriod	19.969387773620628	//in hours
 	Obliquity		284.58742838336565
 
@@ -471,7 +471,7 @@ Asteroid "Alderaan fragment 21"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-81.85359636310454	//in km
+	Radius		81.85359636310454	//in km
 	RotationPeriod	20.28144268777466	//in hours
 	Obliquity		307.4580439384147
 
@@ -492,7 +492,7 @@ Asteroid "Alderaan fragment 22"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-25.322342617658723	//in km
+	Radius		25.322342617658723	//in km
 	RotationPeriod	12.484341045254896	//in hours
 	Obliquity		346.1949067377144
 
@@ -513,7 +513,7 @@ Asteroid "Alderaan fragment 23"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-58.290604719072675	//in km
+	Radius		58.290604719072675	//in km
 	RotationPeriod	11.39697433129766	//in hours
 	Obliquity		196.2776330772971
 
@@ -555,7 +555,7 @@ Asteroid "Alderaan fragment 25"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-130.61636298670967	//in km
+	Radius		130.61636298670967	//in km
 	RotationPeriod	5.022674622653472	//in hours
 	Obliquity		192.01538299738675
 
@@ -576,7 +576,7 @@ Asteroid "Alderaan fragment 26"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-105.92847784065196	//in km
+	Radius		105.92847784065196	//in km
 	RotationPeriod	11.946033926886136	//in hours
 	Obliquity		257.44970965069007
 
@@ -597,7 +597,7 @@ Asteroid "Alderaan fragment 27"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-45.81818827611948	//in km
+	Radius		45.81818827611948	//in km
 	RotationPeriod	18.82580379320563	//in hours
 	Obliquity		34.44657544971021
 
@@ -639,7 +639,7 @@ Asteroid "Alderaan fragment 29"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-98.58390619400477	//in km
+	Radius		98.58390619400477	//in km
 	RotationPeriod	10.930694034318464	//in hours
 	Obliquity		250.39247765915619
 
@@ -681,7 +681,7 @@ Asteroid "Alderaan fragment 31"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-47.535782855614585	//in km
+	Radius		47.535782855614585	//in km
 	RotationPeriod	9.941331861995135	//in hours
 	Obliquity		308.3518855507249
 
@@ -723,7 +723,7 @@ Asteroid "Alderaan fragment 33"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-31.02521245094875	//in km
+	Radius		31.02521245094875	//in km
 	RotationPeriod	20.273048702341097	//in hours
 	Obliquity		134.52547403845057
 
@@ -744,7 +744,7 @@ Asteroid "Alderaan fragment 34"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-61.747461729507464	//in km
+	Radius		61.747461729507464	//in km
 	RotationPeriod	9.091147434005201	//in hours
 	Obliquity		141.72594853820638
 
@@ -765,7 +765,7 @@ Asteroid "Alderaan fragment 35"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-37.81780688951436	//in km
+	Radius		37.81780688951436	//in km
 	RotationPeriod	16.43716732838931	//in hours
 	Obliquity		86.77529839582607
 
@@ -807,7 +807,7 @@ Asteroid "Alderaan fragment 37"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-88.82153409393796	//in km
+	Radius		88.82153409393796	//in km
 	RotationPeriod	9.340833188446878	//in hours
 	Obliquity		274.584221501087
 
@@ -828,7 +828,7 @@ Asteroid "Alderaan fragment 38"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-50.72642409962462	//in km
+	Radius		50.72642409962462	//in km
 	RotationPeriod	15.613173326668555	//in hours
 	Obliquity		73.78961851333247
 
@@ -891,7 +891,7 @@ Asteroid "Alderaan fragment 41"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-93.12106169730369	//in km
+	Radius		93.12106169730369	//in km
 	RotationPeriod	19.061251400045716	//in hours
 	Obliquity		319.5313018962928
 
@@ -912,7 +912,7 @@ Asteroid "Alderaan fragment 42"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-132.62278810584272	//in km
+	Radius		132.62278810584272	//in km
 	RotationPeriod	11.238617050059498	//in hours
 	Obliquity		139.15404924343596
 
@@ -975,7 +975,7 @@ Asteroid "Alderaan fragment 45"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-3.032514232107488	//in km
+	Radius		3.032514232107488	//in km
 	RotationPeriod	16.839105799379666	//in hours
 	Obliquity		290.8087730422013
 
@@ -1059,7 +1059,7 @@ Asteroid "Alderaan fragment 49"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-104.1153194660494	//in km
+	Radius		104.1153194660494	//in km
 	RotationPeriod	12.047993072299075	//in hours
 	Obliquity		4.952094901885937
 
@@ -1122,7 +1122,7 @@ Asteroid "Alderaan fragment 52"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-25.245485509228487	//in km
+	Radius		25.245485509228487	//in km
 	RotationPeriod	16.08304251272832	//in hours
 	Obliquity		219.15772828879673
 
@@ -1143,7 +1143,7 @@ Asteroid "Alderaan fragment 53"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-50.94480316394823	//in km
+	Radius		50.94480316394823	//in km
 	RotationPeriod	6.82033690331041	//in hours
 	Obliquity		166.6307303672685
 
@@ -1185,7 +1185,7 @@ Asteroid "Alderaan fragment 55"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-22.233312938853384	//in km
+	Radius		22.233312938853384	//in km
 	RotationPeriod	10.358216971678045	//in hours
 	Obliquity		39.154511922608336
 
@@ -1269,7 +1269,7 @@ Asteroid "Alderaan fragment 59"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-17.576248841006443	//in km
+	Radius		17.576248841006443	//in km
 	RotationPeriod	13.26591942437903	//in hours
 	Obliquity		253.69487716660643
 
@@ -1290,7 +1290,7 @@ Asteroid "Alderaan fragment 60"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-7.6338155376157495	//in km
+	Radius		7.6338155376157495	//in km
 	RotationPeriod	9.707588113114477	//in hours
 	Obliquity		30.808345594920592
 
@@ -1311,7 +1311,7 @@ Asteroid "Alderaan fragment 61"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-117.56244458331582	//in km
+	Radius		117.56244458331582	//in km
 	RotationPeriod	14.980728557697809	//in hours
 	Obliquity		95.86912413765175
 
@@ -1353,7 +1353,7 @@ Asteroid "Alderaan fragment 63"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-84.93697952094918	//in km
+	Radius		84.93697952094918	//in km
 	RotationPeriod	5.079708674198044	//in hours
 	Obliquity		83.59325457312642
 
@@ -1374,7 +1374,7 @@ Asteroid "Alderaan fragment 64"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-37.179478000827565	//in km
+	Radius		37.179478000827565	//in km
 	RotationPeriod	17.415307464168258	//in hours
 	Obliquity		202.2509398907079
 
@@ -1458,7 +1458,7 @@ Asteroid "Alderaan fragment 68"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-27.0838060324389	//in km
+	Radius		27.0838060324389	//in km
 	RotationPeriod	9.843875064921548	//in hours
 	Obliquity		3.991716468465123
 
@@ -1479,7 +1479,7 @@ Asteroid "Alderaan fragment 69"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-36.673038872319786	//in km
+	Radius		36.673038872319786	//in km
 	RotationPeriod	8.859666712231228	//in hours
 	Obliquity		316.52865436016157
 
@@ -1521,7 +1521,7 @@ Asteroid "Alderaan fragment 71"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-171.1561646506426	//in km
+	Radius		171.1561646506426	//in km
 	RotationPeriod	7.912140040217521	//in hours
 	Obliquity		282.33788820391993
 
@@ -1542,7 +1542,7 @@ Asteroid "Alderaan fragment 72"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-34.23746121842083	//in km
+	Radius		34.23746121842083	//in km
 	RotationPeriod	10.378065363677178	//in hours
 	Obliquity		89.06690490670593
 
@@ -1584,7 +1584,7 @@ Asteroid "Alderaan fragment 74"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-78.8919193649969	//in km
+	Radius		78.8919193649969	//in km
 	RotationPeriod	7.171842494173161	//in hours
 	Obliquity		4.264376252326132
 
@@ -1605,7 +1605,7 @@ Asteroid "Alderaan fragment 75"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-142.5444792223458	//in km
+	Radius		142.5444792223458	//in km
 	RotationPeriod	15.116321373540371	//in hours
 	Obliquity		88.430154157802
 
@@ -1626,7 +1626,7 @@ Asteroid "Alderaan fragment 76"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-79.5620303044755	//in km
+	Radius		79.5620303044755	//in km
 	RotationPeriod	5.090427029060557	//in hours
 	Obliquity		340.191673512608
 
@@ -1668,7 +1668,7 @@ Asteroid "Alderaan fragment 78"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-3.785110373976819	//in km
+	Radius		3.785110373976819	//in km
 	RotationPeriod	12.342543589611392	//in hours
 	Obliquity		359.572495266573
 
@@ -1710,7 +1710,7 @@ Asteroid "Alderaan fragment 80"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-9.380628634970293	//in km
+	Radius		9.380628634970293	//in km
 	RotationPeriod	13.557529299306564	//in hours
 	Obliquity		33.81370258460271
 
@@ -1731,7 +1731,7 @@ Asteroid "Alderaan fragment 81"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-208.0451430716707	//in km
+	Radius		208.0451430716707	//in km
 	RotationPeriod	10.533874674183476	//in hours
 	Obliquity		262.6833389368995
 
@@ -1773,7 +1773,7 @@ Asteroid "Alderaan fragment 83"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-165.19319075972223	//in km
+	Radius		165.19319075972223	//in km
 	RotationPeriod	12.089404487583744	//in hours
 	Obliquity		132.05025749554434
 
@@ -1794,7 +1794,7 @@ Asteroid "Alderaan fragment 84"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-113.43810645017048	//in km
+	Radius		113.43810645017048	//in km
 	RotationPeriod	9.720327555128938	//in hours
 	Obliquity		315.29775943782846
 
@@ -1815,7 +1815,7 @@ Asteroid "Alderaan fragment 85"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-30.01043947919885	//in km
+	Radius		30.01043947919885	//in km
 	RotationPeriod	19.029795727363847	//in hours
 	Obliquity		34.60680436792424
 
@@ -1836,7 +1836,7 @@ Asteroid "Alderaan fragment 86"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-25.989877464338807	//in km
+	Radius		25.989877464338807	//in km
 	RotationPeriod	15.37732117340322	//in hours
 	Obliquity		128.81924980030743
 
@@ -1962,7 +1962,7 @@ Asteroid "Alderaan fragment 92"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-200.1270146157698	//in km
+	Radius		200.1270146157698	//in km
 	RotationPeriod	13.381322529439934	//in hours
 	Obliquity		290.72500518334414
 
@@ -2046,7 +2046,7 @@ Asteroid "Alderaan fragment 96"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-99.47474136576504	//in km
+	Radius		99.47474136576504	//in km
 	RotationPeriod	12.95666417489308	//in hours
 	Obliquity		45.84999695256279
 
@@ -2151,7 +2151,7 @@ Asteroid "Alderaan fragment 101"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-76.6526925930793	//in km
+	Radius		76.6526925930793	//in km
 	RotationPeriod	15.29819705041945	//in hours
 	Obliquity		7.418189925337533
 
@@ -2193,7 +2193,7 @@ Asteroid "Alderaan fragment 103"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-121.70168060158736	//in km
+	Radius		121.70168060158736	//in km
 	RotationPeriod	6.254809493722279	//in hours
 	Obliquity		84.22151250458823
 
@@ -2214,7 +2214,7 @@ Asteroid "Alderaan fragment 104"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-127.4822438510198	//in km
+	Radius		127.4822438510198	//in km
 	RotationPeriod	12.833267618169852	//in hours
 	Obliquity		268.8952661294854
 
@@ -2235,7 +2235,7 @@ Asteroid "Alderaan fragment 105"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-26.69709102460058	//in km
+	Radius		26.69709102460058	//in km
 	RotationPeriod	4.646340032688787	//in hours
 	Obliquity		181.40753855276165
 
@@ -2256,7 +2256,7 @@ Asteroid "Alderaan fragment 106"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-48.953585885076365	//in km
+	Radius		48.953585885076365	//in km
 	RotationPeriod	13.575403326579682	//in hours
 	Obliquity		155.6937862268162
 
@@ -2277,7 +2277,7 @@ Asteroid "Alderaan fragment 107"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-92.00850013143415	//in km
+	Radius		92.00850013143415	//in km
 	RotationPeriod	13.249379746589282	//in hours
 	Obliquity		274.96574211292597
 
@@ -2298,7 +2298,7 @@ Asteroid "Alderaan fragment 108"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-125.33878351717397	//in km
+	Radius		125.33878351717397	//in km
 	RotationPeriod	7.451024592354347	//in hours
 	Obliquity		251.07855971714065
 
@@ -2403,7 +2403,7 @@ Asteroid "Alderaan fragment 113"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-22.41551439896733	//in km
+	Radius		22.41551439896733	//in km
 	RotationPeriod	13.53864232536597	//in hours
 	Obliquity		256.7218569736782
 
@@ -2508,7 +2508,7 @@ Asteroid "Alderaan fragment 118"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-47.10993605216964	//in km
+	Radius		47.10993605216964	//in km
 	RotationPeriod	12.489661019074646	//in hours
 	Obliquity		319.7797342151386
 
@@ -2529,7 +2529,7 @@ Asteroid "Alderaan fragment 119"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-76.49351932782109	//in km
+	Radius		76.49351932782109	//in km
 	RotationPeriod	8.512863429064147	//in hours
 	Obliquity		70.81164861474298
 
@@ -2571,7 +2571,7 @@ Asteroid "Alderaan fragment 121"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-62.588373250791335	//in km
+	Radius		62.588373250791335	//in km
 	RotationPeriod	21.62814568010871	//in hours
 	Obliquity		173.4108164937191
 
@@ -2613,7 +2613,7 @@ Asteroid "Alderaan fragment 123"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-134.4491668152967	//in km
+	Radius		134.4491668152967	//in km
 	RotationPeriod	21.314799041064077	//in hours
 	Obliquity		220.0171421082091
 
@@ -2655,7 +2655,7 @@ Asteroid "Alderaan fragment 125"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-247.81692365756476	//in km
+	Radius		247.81692365756476	//in km
 	RotationPeriod	7.390051527561768	//in hours
 	Obliquity		157.62688375418065
 
@@ -2676,7 +2676,7 @@ Asteroid "Alderaan fragment 126"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-42.86664004854473	//in km
+	Radius		42.86664004854473	//in km
 	RotationPeriod	12.2341174417334	//in hours
 	Obliquity		228.58235062786795
 
@@ -2739,7 +2739,7 @@ Asteroid "Alderaan fragment 129"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-161.04148169299958	//in km
+	Radius		161.04148169299958	//in km
 	RotationPeriod	11.845942523894125	//in hours
 	Obliquity		25.1302448750741
 
@@ -2760,7 +2760,7 @@ Asteroid "Alderaan fragment 130"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-126.10954216221495	//in km
+	Radius		126.10954216221495	//in km
 	RotationPeriod	12.187725702300149	//in hours
 	Obliquity		349.9422428522085
 
@@ -2781,7 +2781,7 @@ Asteroid "Alderaan fragment 131"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-70.93438143898764	//in km
+	Radius		70.93438143898764	//in km
 	RotationPeriod	5.32321586471372	//in hours
 	Obliquity		178.48301398339964
 
@@ -2823,7 +2823,7 @@ Asteroid "Alderaan fragment 133"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-51.08246350502983	//in km
+	Radius		51.08246350502983	//in km
 	RotationPeriod	17.083792943932437	//in hours
 	Obliquity		169.5276334320176
 
@@ -2844,7 +2844,7 @@ Asteroid "Alderaan fragment 134"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-197.60301344435453	//in km
+	Radius		197.60301344435453	//in km
 	RotationPeriod	18.182958510736505	//in hours
 	Obliquity		156.6499117410311
 
@@ -2886,7 +2886,7 @@ Asteroid "Alderaan fragment 136"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-201.51596352685982	//in km
+	Radius		201.51596352685982	//in km
 	RotationPeriod	8.098414183687828	//in hours
 	Obliquity		33.14732702199197
 
@@ -2928,7 +2928,7 @@ Asteroid "Alderaan fragment 138"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-157.59154328923276	//in km
+	Radius		157.59154328923276	//in km
 	RotationPeriod	13.663018416729043	//in hours
 	Obliquity		331.206801035282
 
@@ -2949,7 +2949,7 @@ Asteroid "Alderaan fragment 139"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-77.94812167155354	//in km
+	Radius		77.94812167155354	//in km
 	RotationPeriod	11.525318147102547	//in hours
 	Obliquity		303.87192765793685
 
@@ -2970,7 +2970,7 @@ Asteroid "Alderaan fragment 140"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-24.223657839807217	//in km
+	Radius		24.223657839807217	//in km
 	RotationPeriod	15.73096172510628	//in hours
 	Obliquity		281.33888713896386
 
@@ -3012,7 +3012,7 @@ Asteroid "Alderaan fragment 142"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-95.27197085938347	//in km
+	Radius		95.27197085938347	//in km
 	RotationPeriod	11.915770304256334	//in hours
 	Obliquity		323.02242435844715
 
@@ -3033,7 +3033,7 @@ Asteroid "Alderaan fragment 143"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-20.447120685227137	//in km
+	Radius		20.447120685227137	//in km
 	RotationPeriod	15.235955847871228	//in hours
 	Obliquity		206.9606433583301
 
@@ -3054,7 +3054,7 @@ Asteroid "Alderaan fragment 144"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-128.08517998661634	//in km
+	Radius		128.08517998661634	//in km
 	RotationPeriod	15.658953064809683	//in hours
 	Obliquity		19.05498857744499
 
@@ -3075,7 +3075,7 @@ Asteroid "Alderaan fragment 145"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-38.58694566954081	//in km
+	Radius		38.58694566954081	//in km
 	RotationPeriod	21.590321863438408	//in hours
 	Obliquity		316.7891720470013
 
@@ -3138,7 +3138,7 @@ Asteroid "Alderaan fragment 148"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-85.40582663927462	//in km
+	Radius		85.40582663927462	//in km
 	RotationPeriod	14.774766516724606	//in hours
 	Obliquity		153.0697023531007
 
@@ -3159,7 +3159,7 @@ Asteroid "Alderaan fragment 149"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-12.916141449302785	//in km
+	Radius		12.916141449302785	//in km
 	RotationPeriod	14.483235348931279	//in hours
 	Obliquity		248.82591534275727
 
@@ -3264,7 +3264,7 @@ Asteroid "Alderaan fragment 154"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-41.570760714232634	//in km
+	Radius		41.570760714232634	//in km
 	RotationPeriod	14.685116518836738	//in hours
 	Obliquity		109.69975655294445
 
@@ -3306,7 +3306,7 @@ Asteroid "Alderaan fragment 156"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-3.657661655841247	//in km
+	Radius		3.657661655841247	//in km
 	RotationPeriod	17.22350324836203	//in hours
 	Obliquity		306.3290689622446
 
@@ -3327,7 +3327,7 @@ Asteroid "Alderaan fragment 157"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-73.04697311067065	//in km
+	Radius		73.04697311067065	//in km
 	RotationPeriod	18.22273821471786	//in hours
 	Obliquity		81.55744933609901
 
@@ -3390,7 +3390,7 @@ Asteroid "Alderaan fragment 160"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-124.11931784173683	//in km
+	Radius		124.11931784173683	//in km
 	RotationPeriod	7.348315226296181	//in hours
 	Obliquity		83.31997178085018
 
@@ -3474,7 +3474,7 @@ Asteroid "Alderaan fragment 164"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-92.45143924145574	//in km
+	Radius		92.45143924145574	//in km
 	RotationPeriod	13.989827141161058	//in hours
 	Obliquity		43.38289107927692
 
@@ -3537,7 +3537,7 @@ Asteroid "Alderaan fragment 167"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-60.36881062522018	//in km
+	Radius		60.36881062522018	//in km
 	RotationPeriod	12.085317007442823	//in hours
 	Obliquity		179.18109781218647
 
@@ -3579,7 +3579,7 @@ Asteroid "Alderaan fragment 169"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-1.1450220735324903	//in km
+	Radius		1.1450220735324903	//in km
 	RotationPeriod	6.552643171440724	//in hours
 	Obliquity		60.96828242868945
 
@@ -3726,7 +3726,7 @@ Asteroid "Alderaan fragment 176"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-87.33290645749945	//in km
+	Radius		87.33290645749945	//in km
 	RotationPeriod	17.84978000769826	//in hours
 	Obliquity		4.317463082756765
 
@@ -3789,7 +3789,7 @@ Asteroid "Alderaan fragment 179"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-99.22563212453981	//in km
+	Radius		99.22563212453981	//in km
 	RotationPeriod	12.580939602483378	//in hours
 	Obliquity		179.40677537010853
 
@@ -3810,7 +3810,7 @@ Asteroid "Alderaan fragment 180"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-50.90085114920917	//in km
+	Radius		50.90085114920917	//in km
 	RotationPeriod	14.70876469839606	//in hours
 	Obliquity		264.72388718788324
 
@@ -3915,7 +3915,7 @@ Asteroid "Alderaan fragment 185"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-65.6922419434777	//in km
+	Radius		65.6922419434777	//in km
 	RotationPeriod	17.484558273597784	//in hours
 	Obliquity		2.494184083279052
 
@@ -3936,7 +3936,7 @@ Asteroid "Alderaan fragment 186"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-196.25757250167587	//in km
+	Radius		196.25757250167587	//in km
 	RotationPeriod	19.067314521267235	//in hours
 	Obliquity		319.64552363041247
 
@@ -3978,7 +3978,7 @@ Asteroid "Alderaan fragment 188"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-7.847723484158308	//in km
+	Radius		7.847723484158308	//in km
 	RotationPeriod	10.953169134543025	//in hours
 	Obliquity		358.17960530610094
 
@@ -4041,7 +4041,7 @@ Asteroid "Alderaan fragment 191"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-132.86637602900726	//in km
+	Radius		132.86637602900726	//in km
 	RotationPeriod	11.0843405646096	//in hours
 	Obliquity		43.638213741954885
 
@@ -4188,7 +4188,7 @@ Asteroid "Alderaan fragment 198"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-40.79953098673223	//in km
+	Radius		40.79953098673223	//in km
 	RotationPeriod	20.787109733626952	//in hours
 	Obliquity		258.3921489209939
 
@@ -4209,7 +4209,7 @@ Asteroid "Alderaan fragment 199"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-6.740438326010928	//in km
+	Radius		6.740438326010928	//in km
 	RotationPeriod	9.198625096204166	//in hours
 	Obliquity		275.8728311081636
 
@@ -4251,7 +4251,7 @@ Asteroid "Alderaan fragment 201"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-98.00841072198519	//in km
+	Radius		98.00841072198519	//in km
 	RotationPeriod	10.314654268484988	//in hours
 	Obliquity		236.60939105294662
 
@@ -4335,7 +4335,7 @@ Asteroid "Alderaan fragment 205"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-21.759877932619215	//in km
+	Radius		21.759877932619215	//in km
 	RotationPeriod	12.391013251714622	//in hours
 	Obliquity		358.3764582702279
 
@@ -4356,7 +4356,7 @@ Asteroid "Alderaan fragment 206"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-84.02320947170767	//in km
+	Radius		84.02320947170767	//in km
 	RotationPeriod	8.513740538720349	//in hours
 	Obliquity		151.29112111182314
 
@@ -4461,7 +4461,7 @@ Asteroid "Alderaan fragment 211"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-14.82273132821749	//in km
+	Radius		14.82273132821749	//in km
 	RotationPeriod	15.214089802160043	//in hours
 	Obliquity		96.29406707742936
 
@@ -4482,7 +4482,7 @@ Asteroid "Alderaan fragment 212"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-101.22945131942201	//in km
+	Radius		101.22945131942201	//in km
 	RotationPeriod	10.231281589442382	//in hours
 	Obliquity		269.7419222103603
 
@@ -4629,7 +4629,7 @@ Asteroid "Alderaan fragment 219"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-52.612011062231424	//in km
+	Radius		52.612011062231424	//in km
 	RotationPeriod	2.997049833948042	//in hours
 	Obliquity		67.68262157281693
 
@@ -4692,7 +4692,7 @@ Asteroid "Alderaan fragment 222"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-192.7765012794184	//in km
+	Radius		192.7765012794184	//in km
 	RotationPeriod	15.436814105399748	//in hours
 	Obliquity		196.73428260888198
 
@@ -4755,7 +4755,7 @@ Asteroid "Alderaan fragment 225"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-37.42283323163014	//in km
+	Radius		37.42283323163014	//in km
 	RotationPeriod	11.079522508481698	//in hours
 	Obliquity		98.4729385650527
 
@@ -4776,7 +4776,7 @@ Asteroid "Alderaan fragment 226"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-1.1423746566315067	//in km
+	Radius		1.1423746566315067	//in km
 	RotationPeriod	13.095580930835219	//in hours
 	Obliquity		93.46151267302861
 
@@ -4860,7 +4860,7 @@ Asteroid "Alderaan fragment 230"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-47.979023196587555	//in km
+	Radius		47.979023196587555	//in km
 	RotationPeriod	19.711711232165275	//in hours
 	Obliquity		282.3150927783253
 
@@ -4881,7 +4881,7 @@ Asteroid "Alderaan fragment 231"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-131.60936963336405	//in km
+	Radius		131.60936963336405	//in km
 	RotationPeriod	8.235315283897998	//in hours
 	Obliquity		110.98735821040897
 
@@ -4965,7 +4965,7 @@ Asteroid "Alderaan fragment 235"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-99.53177986777925	//in km
+	Radius		99.53177986777925	//in km
 	RotationPeriod	16.333563875549938	//in hours
 	Obliquity		277.3975968772601
 
@@ -4986,7 +4986,7 @@ Asteroid "Alderaan fragment 236"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-25.25412360528517	//in km
+	Radius		25.25412360528517	//in km
 	RotationPeriod	7.174518104238192	//in hours
 	Obliquity		293.16394885962524
 
@@ -5049,7 +5049,7 @@ Asteroid "Alderaan fragment 239"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-28.068676933725058	//in km
+	Radius		28.068676933725058	//in km
 	RotationPeriod	14.8042153914418	//in hours
 	Obliquity		77.15308019287419
 
@@ -5154,7 +5154,7 @@ Asteroid "Alderaan fragment 244"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-20.396334513234862	//in km
+	Radius		20.396334513234862	//in km
 	RotationPeriod	19.842313668566806	//in hours
 	Obliquity		217.37455826776988
 
@@ -5175,7 +5175,7 @@ Asteroid "Alderaan fragment 245"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-100.54674147507588	//in km
+	Radius		100.54674147507588	//in km
 	RotationPeriod	10.182641544428947	//in hours
 	Obliquity		184.47412947635013
 
@@ -5196,7 +5196,7 @@ Asteroid "Alderaan fragment 246"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-193.03127549697345	//in km
+	Radius		193.03127549697345	//in km
 	RotationPeriod	10.691012529505608	//in hours
 	Obliquity		272.90634240501726
 
@@ -5238,7 +5238,7 @@ Asteroid "Alderaan fragment 248"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-87.68833151710116	//in km
+	Radius		87.68833151710116	//in km
 	RotationPeriod	17.61088883870934	//in hours
 	Obliquity		298.1665967507994
 
@@ -5259,7 +5259,7 @@ Asteroid "Alderaan fragment 249"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-160.54411597620222	//in km
+	Radius		160.54411597620222	//in km
 	RotationPeriod	14.98762352690932	//in hours
 	Obliquity		201.90488499541124
 
@@ -5280,7 +5280,7 @@ Asteroid "Alderaan fragment 250"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-32.37028617035871	//in km
+	Radius		32.37028617035871	//in km
 	RotationPeriod	11.643159228563942	//in hours
 	Obliquity		236.55384611345224
 
@@ -5301,7 +5301,7 @@ Asteroid "Alderaan fragment 251"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-49.47057410764446	//in km
+	Radius		49.47057410764446	//in km
 	RotationPeriod	12.03394008510168	//in hours
 	Obliquity		43.845056960922605
 
@@ -5322,7 +5322,7 @@ Asteroid "Alderaan fragment 252"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-38.55334223812485	//in km
+	Radius		38.55334223812485	//in km
 	RotationPeriod	12.907817046911028	//in hours
 	Obliquity		118.36659151011212
 
@@ -5343,7 +5343,7 @@ Asteroid "Alderaan fragment 253"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-57.242752471633466	//in km
+	Radius		57.242752471633466	//in km
 	RotationPeriod	8.656347065696561	//in hours
 	Obliquity		184.85839997866935
 
@@ -5364,7 +5364,7 @@ Asteroid "Alderaan fragment 254"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-35.52948629722069	//in km
+	Radius		35.52948629722069	//in km
 	RotationPeriod	11.07147917451303	//in hours
 	Obliquity		323.96723991097844
 
@@ -5385,7 +5385,7 @@ Asteroid "Alderaan fragment 255"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-84.5457361318761	//in km
+	Radius		84.5457361318761	//in km
 	RotationPeriod	16.877941930033554	//in hours
 	Obliquity		156.29780736667456
 
@@ -5406,7 +5406,7 @@ Asteroid "Alderaan fragment 256"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-72.70409818366588	//in km
+	Radius		72.70409818366588	//in km
 	RotationPeriod	10.113423661432016	//in hours
 	Obliquity		324.8408927846586
 
@@ -5532,7 +5532,7 @@ Asteroid "Alderaan fragment 262"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-51.175728234726776	//in km
+	Radius		51.175728234726776	//in km
 	RotationPeriod	9.517239457226337	//in hours
 	Obliquity		98.17702686465175
 
@@ -5574,7 +5574,7 @@ Asteroid "Alderaan fragment 264"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-36.575910722178705	//in km
+	Radius		36.575910722178705	//in km
 	RotationPeriod	19.43911853294023	//in hours
 	Obliquity		113.97877606374304
 
@@ -5658,7 +5658,7 @@ Asteroid "Alderaan fragment 268"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-100.81427605150819	//in km
+	Radius		100.81427605150819	//in km
 	RotationPeriod	19.552584310490424	//in hours
 	Obliquity		216.43379637264363
 
@@ -5679,7 +5679,7 @@ Asteroid "Alderaan fragment 269"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-85.28899858148213	//in km
+	Radius		85.28899858148213	//in km
 	RotationPeriod	13.802704751132499	//in hours
 	Obliquity		163.18354220392678
 
@@ -5721,7 +5721,7 @@ Asteroid "Alderaan fragment 271"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-94.41979441401006	//in km
+	Radius		94.41979441401006	//in km
 	RotationPeriod	7.383108345172162	//in hours
 	Obliquity		353.35355096544777
 
@@ -5784,7 +5784,7 @@ Asteroid "Alderaan fragment 274"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-8.530484165105069	//in km
+	Radius		8.530484165105069	//in km
 	RotationPeriod	16.46456943051541	//in hours
 	Obliquity		289.18657049852436
 
@@ -5805,7 +5805,7 @@ Asteroid "Alderaan fragment 275"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-8.655113356435162	//in km
+	Radius		8.655113356435162	//in km
 	RotationPeriod	13.670741767446433	//in hours
 	Obliquity		8.864285364714455
 
@@ -5826,7 +5826,7 @@ Asteroid "Alderaan fragment 276"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-12.090882604178521	//in km
+	Radius		12.090882604178521	//in km
 	RotationPeriod	14.12734218177852	//in hours
 	Obliquity		351.71389685254366
 
@@ -5847,7 +5847,7 @@ Asteroid "Alderaan fragment 277"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-38.697006899784874	//in km
+	Radius		38.697006899784874	//in km
 	RotationPeriod	9.681609547590504	//in hours
 	Obliquity		244.51298799231512
 
@@ -5910,7 +5910,7 @@ Asteroid "Alderaan fragment 280"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-226.45652731946603	//in km
+	Radius		226.45652731946603	//in km
 	RotationPeriod	6.578359763290622	//in hours
 	Obliquity		108.04491201342445
 
@@ -5931,7 +5931,7 @@ Asteroid "Alderaan fragment 281"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-103.86177961672053	//in km
+	Radius		103.86177961672053	//in km
 	RotationPeriod	15.366818161937491	//in hours
 	Obliquity		244.5985957481868
 
@@ -5952,7 +5952,7 @@ Asteroid "Alderaan fragment 282"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-66.01919224574652	//in km
+	Radius		66.01919224574652	//in km
 	RotationPeriod	9.14212826203095	//in hours
 	Obliquity		262.8513113095876
 
@@ -6078,7 +6078,7 @@ Asteroid "Alderaan fragment 288"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-105.51590108177945	//in km
+	Radius		105.51590108177945	//in km
 	RotationPeriod	12.376051492518533	//in hours
 	Obliquity		148.9158985302678
 
@@ -6225,7 +6225,7 @@ Asteroid "Alderaan fragment 295"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-168.64645658465446	//in km
+	Radius		168.64645658465446	//in km
 	RotationPeriod	19.1895846196974	//in hours
 	Obliquity		289.27292082125086
 
@@ -6267,7 +6267,7 @@ Asteroid "Alderaan fragment 297"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-95.2135941056195	//in km
+	Radius		95.2135941056195	//in km
 	RotationPeriod	13.199100081026918	//in hours
 	Obliquity		164.47159562089902
 
@@ -6288,7 +6288,7 @@ Asteroid "Alderaan fragment 298"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-70.88249112842105	//in km
+	Radius		70.88249112842105	//in km
 	RotationPeriod	11.184516385890271	//in hours
 	Obliquity		226.91618309217316
 
@@ -6309,7 +6309,7 @@ Asteroid "Alderaan fragment 299"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-100.55676169492752	//in km
+	Radius		100.55676169492752	//in km
 	RotationPeriod	9.750212680716235	//in hours
 	Obliquity		110.40167172085665
 
@@ -6456,7 +6456,7 @@ Asteroid "Alderaan fragment 306"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-91.21554002587426	//in km
+	Radius		91.21554002587426	//in km
 	RotationPeriod	18.323057311158152	//in hours
 	Obliquity		215.73258034609242
 
@@ -6498,7 +6498,7 @@ Asteroid "Alderaan fragment 308"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-60.605245173927315	//in km
+	Radius		60.605245173927315	//in km
 	RotationPeriod	11.948477677238163	//in hours
 	Obliquity		54.364114450193995
 
@@ -6519,7 +6519,7 @@ Asteroid "Alderaan fragment 309"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-34.89543613029417	//in km
+	Radius		34.89543613029417	//in km
 	RotationPeriod	15.49272915523663	//in hours
 	Obliquity		355.51855798428596
 
@@ -6540,7 +6540,7 @@ Asteroid "Alderaan fragment 310"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-67.68032340620805	//in km
+	Radius		67.68032340620805	//in km
 	RotationPeriod	13.082814333874442	//in hours
 	Obliquity		212.5366598507329
 
@@ -6582,7 +6582,7 @@ Asteroid "Alderaan fragment 312"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-7.609959453362537	//in km
+	Radius		7.609959453362537	//in km
 	RotationPeriod	10.585182249854832	//in hours
 	Obliquity		100.30844447881294
 
@@ -6645,7 +6645,7 @@ Asteroid "Alderaan fragment 315"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-90.53602213038602	//in km
+	Radius		90.53602213038602	//in km
 	RotationPeriod	19.471966978005938	//in hours
 	Obliquity		353.29733476364004
 
@@ -6729,7 +6729,7 @@ Asteroid "Alderaan fragment 319"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-91.46493439456924	//in km
+	Radius		91.46493439456924	//in km
 	RotationPeriod	10.01612977085075	//in hours
 	Obliquity		337.08224257906346
 
@@ -6792,7 +6792,7 @@ Asteroid "Alderaan fragment 322"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-77.27661275377014	//in km
+	Radius		77.27661275377014	//in km
 	RotationPeriod	12.374476258405844	//in hours
 	Obliquity		258.4710925490188
 
@@ -6813,7 +6813,7 @@ Asteroid "Alderaan fragment 323"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-4.345942426623324	//in km
+	Radius		4.345942426623324	//in km
 	RotationPeriod	13.576382294590056	//in hours
 	Obliquity		210.0423999061763
 
@@ -6834,7 +6834,7 @@ Asteroid "Alderaan fragment 324"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-29.191296181240773	//in km
+	Radius		29.191296181240773	//in km
 	TidalLocked	true
 	Orbit
 	{
@@ -6853,7 +6853,7 @@ Asteroid "Alderaan fragment 325"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-177.32750009673424	//in km
+	Radius		177.32750009673424	//in km
 	RotationPeriod	13.798310581738635	//in hours
 	Obliquity		78.4994210569497
 
@@ -6874,7 +6874,7 @@ Asteroid "Alderaan fragment 326"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-45.07549120818448	//in km
+	Radius		45.07549120818448	//in km
 	RotationPeriod	6.690262642602326	//in hours
 	Obliquity		220.8733870686805
 
@@ -6895,7 +6895,7 @@ Asteroid "Alderaan fragment 327"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-26.931421463415894	//in km
+	Radius		26.931421463415894	//in km
 	RotationPeriod	16.650526915240352	//in hours
 	Obliquity		333.3656057779763
 
@@ -6958,7 +6958,7 @@ Asteroid "Alderaan fragment 330"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-66.63722497764282	//in km
+	Radius		66.63722497764282	//in km
 	RotationPeriod	9.924641299723332	//in hours
 	Obliquity		123.29856071851174
 
@@ -6979,7 +6979,7 @@ Asteroid "Alderaan fragment 331"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-84.3871884787068	//in km
+	Radius		84.3871884787068	//in km
 	RotationPeriod	11.175559315984382	//in hours
 	Obliquity		33.703454913393166
 
@@ -7021,7 +7021,7 @@ Asteroid "Alderaan fragment 333"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-36.61497462596457	//in km
+	Radius		36.61497462596457	//in km
 	RotationPeriod	10.408406901591114	//in hours
 	Obliquity		185.234238856344
 
@@ -7063,7 +7063,7 @@ Asteroid "Alderaan fragment 335"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-203.97985698729278	//in km
+	Radius		203.97985698729278	//in km
 	RotationPeriod	11.685544105497954	//in hours
 	Obliquity		272.58201531497576
 
@@ -7084,7 +7084,7 @@ Asteroid "Alderaan fragment 336"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-75.93133078375783	//in km
+	Radius		75.93133078375783	//in km
 	RotationPeriod	8.656494741584096	//in hours
 	Obliquity		336.5478283270094
 
@@ -7231,7 +7231,7 @@ Asteroid "Alderaan fragment 343"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-24.528351622221404	//in km
+	Radius		24.528351622221404	//in km
 	RotationPeriod	7.781547824843892	//in hours
 	Obliquity		175.63466875437175
 
@@ -7252,7 +7252,7 @@ Asteroid "Alderaan fragment 344"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-47.080162701826424	//in km
+	Radius		47.080162701826424	//in km
 	RotationPeriod	9.591705560787544	//in hours
 	Obliquity		154.02092048524196
 
@@ -7294,7 +7294,7 @@ Asteroid "Alderaan fragment 346"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-46.992813297173576	//in km
+	Radius		46.992813297173576	//in km
 	RotationPeriod	10.103225691403864	//in hours
 	Obliquity		52.650377872675506
 
@@ -7336,7 +7336,7 @@ Asteroid "Alderaan fragment 348"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-190.27869420788352	//in km
+	Radius		190.27869420788352	//in km
 	RotationPeriod	14.71330397432964	//in hours
 	Obliquity		141.17003846200188
 
@@ -7378,7 +7378,7 @@ Asteroid "Alderaan fragment 350"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-97.82361704780192	//in km
+	Radius		97.82361704780192	//in km
 	RotationPeriod	8.306603885806943	//in hours
 	Obliquity		9.022352519552221
 
@@ -7441,7 +7441,7 @@ Asteroid "Alderaan fragment 353"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-71.27481103588889	//in km
+	Radius		71.27481103588889	//in km
 	RotationPeriod	6.834066083439492	//in hours
 	Obliquity		137.36623757947052
 
@@ -7462,7 +7462,7 @@ Asteroid "Alderaan fragment 354"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-8.780200591569162	//in km
+	Radius		8.780200591569162	//in km
 	RotationPeriod	11.277319506213232	//in hours
 	Obliquity		112.49694296013483
 
@@ -7504,7 +7504,7 @@ Asteroid "Alderaan fragment 356"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-39.82631482519311	//in km
+	Radius		39.82631482519311	//in km
 	RotationPeriod	9.723109796424797	//in hours
 	Obliquity		307.07796471485557
 
@@ -7525,7 +7525,7 @@ Asteroid "Alderaan fragment 357"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-45.20204537134712	//in km
+	Radius		45.20204537134712	//in km
 	RotationPeriod	16.207564731176262	//in hours
 	Obliquity		280.8997464352063
 
@@ -7546,7 +7546,7 @@ Asteroid "Alderaan fragment 358"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-81.44366126450691	//in km
+	Radius		81.44366126450691	//in km
 	RotationPeriod	12.828126235551359	//in hours
 	Obliquity		122.57672480218186
 
@@ -7609,7 +7609,7 @@ Asteroid "Alderaan fragment 361"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-58.26910687717172	//in km
+	Radius		58.26910687717172	//in km
 	RotationPeriod	12.273586895547913	//in hours
 	Obliquity		276.05826773854113
 
@@ -7630,7 +7630,7 @@ Asteroid "Alderaan fragment 362"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-96.47845505392222	//in km
+	Radius		96.47845505392222	//in km
 	RotationPeriod	18.682915828220047	//in hours
 	Obliquity		233.4518747715728
 
@@ -7651,7 +7651,7 @@ Asteroid "Alderaan fragment 363"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-8.961120296257123	//in km
+	Radius		8.961120296257123	//in km
 	RotationPeriod	15.03173857253625	//in hours
 	Obliquity		195.86423791830376
 
@@ -7714,7 +7714,7 @@ Asteroid "Alderaan fragment 366"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-27.927528510807846	//in km
+	Radius		27.927528510807846	//in km
 	RotationPeriod	14.188845726795462	//in hours
 	Obliquity		84.58962954221892
 
@@ -7903,7 +7903,7 @@ Asteroid "Alderaan fragment 375"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-62.60344504511072	//in km
+	Radius		62.60344504511072	//in km
 	RotationPeriod	5.325929897441637	//in hours
 	Obliquity		207.29781484247
 
@@ -7924,7 +7924,7 @@ Asteroid "Alderaan fragment 376"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-7.859397362613025	//in km
+	Radius		7.859397362613025	//in km
 	RotationPeriod	3.888692435432093	//in hours
 	Obliquity		40.74385212005433
 
@@ -7945,7 +7945,7 @@ Asteroid "Alderaan fragment 377"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-100.44102830048764	//in km
+	Radius		100.44102830048764	//in km
 	RotationPeriod	7.293807597791023	//in hours
 	Obliquity		261.6557615721472
 
@@ -7966,7 +7966,7 @@ Asteroid "Alderaan fragment 378"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-14.161650890996992	//in km
+	Radius		14.161650890996992	//in km
 	RotationPeriod	10.443527068782789	//in hours
 	Obliquity		39.19599968958817
 
@@ -7987,7 +7987,7 @@ Asteroid "Alderaan fragment 379"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-86.15087871481532	//in km
+	Radius		86.15087871481532	//in km
 	RotationPeriod	8.135952291834831	//in hours
 	Obliquity		309.82005329131897
 
@@ -8050,7 +8050,7 @@ Asteroid "Alderaan fragment 382"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-20.966311466041976	//in km
+	Radius		20.966311466041976	//in km
 	RotationPeriod	6.234058488882796	//in hours
 	Obliquity		161.05426014695425
 
@@ -8092,7 +8092,7 @@ Asteroid "Alderaan fragment 384"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-37.91840262413164	//in km
+	Radius		37.91840262413164	//in km
 	RotationPeriod	12.230692728747634	//in hours
 	Obliquity		3.13725357201851
 
@@ -8113,7 +8113,7 @@ Asteroid "Alderaan fragment 385"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-73.44638272577048	//in km
+	Radius		73.44638272577048	//in km
 	RotationPeriod	16.284889422056033	//in hours
 	Obliquity		105.01307293995882
 
@@ -8176,7 +8176,7 @@ Asteroid "Alderaan fragment 388"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-151.7075944281931	//in km
+	Radius		151.7075944281931	//in km
 	RotationPeriod	6.261903173041774	//in hours
 	Obliquity		212.28639491746517
 
@@ -8281,7 +8281,7 @@ Asteroid "Alderaan fragment 393"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-32.382951201820404	//in km
+	Radius		32.382951201820404	//in km
 	RotationPeriod	15.227829894885119	//in hours
 	Obliquity		349.76370784117717
 
@@ -8302,7 +8302,7 @@ Asteroid "Alderaan fragment 394"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-142.15968243707584	//in km
+	Radius		142.15968243707584	//in km
 	RotationPeriod	7.335184337965576	//in hours
 	Obliquity		22.903549566256626
 
@@ -8365,7 +8365,7 @@ Asteroid "Alderaan fragment 397"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-55.17216809088146	//in km
+	Radius		55.17216809088146	//in km
 	RotationPeriod	14.019957553956772	//in hours
 	Obliquity		5.78781314299424
 
@@ -8491,7 +8491,7 @@ Asteroid "Alderaan fragment 403"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-89.7949341203092	//in km
+	Radius		89.7949341203092	//in km
 	RotationPeriod	11.813997245272951	//in hours
 	Obliquity		322.6362448637858
 
@@ -8533,7 +8533,7 @@ Asteroid "Alderaan fragment 405"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-107.09194754353236	//in km
+	Radius		107.09194754353236	//in km
 	RotationPeriod	10.948542408448352	//in hours
 	Obliquity		202.9968561296683
 
@@ -8575,7 +8575,7 @@ Asteroid "Alderaan fragment 407"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-87.983852807666	//in km
+	Radius		87.983852807666	//in km
 	RotationPeriod	11.506900891014201	//in hours
 	Obliquity		176.8707275902294
 
@@ -8659,7 +8659,7 @@ Asteroid "Alderaan fragment 411"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-3.971827669601371	//in km
+	Radius		3.971827669601371	//in km
 	RotationPeriod	7.481609290102324	//in hours
 	Obliquity		348.43287178403614
 
@@ -8806,7 +8806,7 @@ Asteroid "Alderaan fragment 418"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-23.711183882398206	//in km
+	Radius		23.711183882398206	//in km
 	RotationPeriod	12.58596237929598	//in hours
 	Obliquity		174.52864921088974
 
@@ -8827,7 +8827,7 @@ Asteroid "Alderaan fragment 419"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-4.07902442995649	//in km
+	Radius		4.07902442995649	//in km
 	RotationPeriod	10.92102495336686	//in hours
 	Obliquity		344.73179106304934
 
@@ -8911,7 +8911,7 @@ Asteroid "Alderaan fragment 423"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-69.34473719599906	//in km
+	Radius		69.34473719599906	//in km
 	RotationPeriod	13.122387154054698	//in hours
 	Obliquity		111.83523544740034
 
@@ -9079,7 +9079,7 @@ Asteroid "Alderaan fragment 431"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-149.08637996912952	//in km
+	Radius		149.08637996912952	//in km
 	RotationPeriod	13.925236268377674	//in hours
 	Obliquity		168.57638710383648
 
@@ -9100,7 +9100,7 @@ Asteroid "Alderaan fragment 432"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-13.275032426434205	//in km
+	Radius		13.275032426434205	//in km
 	RotationPeriod	7.550834144912133	//in hours
 	Obliquity		202.1696772371719
 
@@ -9163,7 +9163,7 @@ Asteroid "Alderaan fragment 435"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-101.63650154848904	//in km
+	Radius		101.63650154848904	//in km
 	RotationPeriod	5.340051907476525	//in hours
 	Obliquity		160.46836507467742
 
@@ -9184,7 +9184,7 @@ Asteroid "Alderaan fragment 436"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-108.53923476119398	//in km
+	Radius		108.53923476119398	//in km
 	RotationPeriod	12.669782399824927	//in hours
 	Obliquity		91.83110442858167
 
@@ -9310,7 +9310,7 @@ Asteroid "Alderaan fragment 442"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-65.2502949692936	//in km
+	Radius		65.2502949692936	//in km
 	RotationPeriod	9.561568548792007	//in hours
 	Obliquity		151.24660214713572
 
@@ -9394,7 +9394,7 @@ Asteroid "Alderaan fragment 446"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-48.57107965895474	//in km
+	Radius		48.57107965895474	//in km
 	RotationPeriod	14.4276999494101	//in hours
 	Obliquity		256.0329216154809
 
@@ -9478,7 +9478,7 @@ Asteroid "Alderaan fragment 450"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-42.3053549773358	//in km
+	Radius		42.3053549773358	//in km
 	RotationPeriod	10.605918411997415	//in hours
 	Obliquity		121.59066932459386
 
@@ -9541,7 +9541,7 @@ Asteroid "Alderaan fragment 453"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-129.2878783746305	//in km
+	Radius		129.2878783746305	//in km
 	RotationPeriod	7.522515739119894	//in hours
 	Obliquity		190.67911146089173
 
@@ -9583,7 +9583,7 @@ Asteroid "Alderaan fragment 455"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-20.424470759575165	//in km
+	Radius		20.424470759575165	//in km
 	RotationPeriod	19.30061432219109	//in hours
 	Obliquity		264.2745623572977
 
@@ -9604,7 +9604,7 @@ Asteroid "Alderaan fragment 456"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-89.21727504999542	//in km
+	Radius		89.21727504999542	//in km
 	RotationPeriod	13.678060602973147	//in hours
 	Obliquity		3.7639435131907684
 
@@ -9625,7 +9625,7 @@ Asteroid "Alderaan fragment 457"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-8.447477771297477	//in km
+	Radius		8.447477771297477	//in km
 	RotationPeriod	15.350930610221067	//in hours
 	Obliquity		348.1470029824146
 
@@ -9646,7 +9646,7 @@ Asteroid "Alderaan fragment 458"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-75.20447924865883	//in km
+	Radius		75.20447924865883	//in km
 	RotationPeriod	19.738173800717423	//in hours
 	Obliquity		82.07689020402707
 
@@ -9709,7 +9709,7 @@ Asteroid "Alderaan fragment 461"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-31.819251905751095	//in km
+	Radius		31.819251905751095	//in km
 	RotationPeriod	11.100469605113677	//in hours
 	Obliquity		70.75722740561541
 
@@ -9772,7 +9772,7 @@ Asteroid "Alderaan fragment 464"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-9.402637278629943	//in km
+	Radius		9.402637278629943	//in km
 	RotationPeriod	19.43456872587398	//in hours
 	Obliquity		199.74430204435214
 
@@ -9793,7 +9793,7 @@ Asteroid "Alderaan fragment 465"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-202.63612553916315	//in km
+	Radius		202.63612553916315	//in km
 	RotationPeriod	18.53264779750059	//in hours
 	Obliquity		319.32896982954907
 
@@ -9856,7 +9856,7 @@ Asteroid "Alderaan fragment 468"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-176.14662110824153	//in km
+	Radius		176.14662110824153	//in km
 	RotationPeriod	8.204470845222465	//in hours
 	Obliquity		119.3439106169229
 
@@ -9877,7 +9877,7 @@ Asteroid "Alderaan fragment 469"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-14.945783925756611	//in km
+	Radius		14.945783925756611	//in km
 	RotationPeriod	13.802005494356266	//in hours
 	Obliquity		158.6526051787437
 
@@ -9919,7 +9919,7 @@ Asteroid "Alderaan fragment 471"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-28.36235629547508	//in km
+	Radius		28.36235629547508	//in km
 	RotationPeriod	16.559706371310586	//in hours
 	Obliquity		31.588726752897887
 
@@ -9940,7 +9940,7 @@ Asteroid "Alderaan fragment 472"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-120.57066970089404	//in km
+	Radius		120.57066970089404	//in km
 	RotationPeriod	10.872124843598948	//in hours
 	Obliquity		59.90165359939367
 
@@ -9961,7 +9961,7 @@ Asteroid "Alderaan fragment 473"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-8.83182168623229	//in km
+	Radius		8.83182168623229	//in km
 	RotationPeriod	11.634677806655302	//in hours
 	Obliquity		216.088640979125
 
@@ -10024,7 +10024,7 @@ Asteroid "Alderaan fragment 476"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-41.71392008435058	//in km
+	Radius		41.71392008435058	//in km
 	RotationPeriod	13.83393025608745	//in hours
 	Obliquity		231.1665676104244
 
@@ -10066,7 +10066,7 @@ Asteroid "Alderaan fragment 478"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-110.18727393481383	//in km
+	Radius		110.18727393481383	//in km
 	RotationPeriod	17.030833793933695	//in hours
 	Obliquity		232.06680281672004
 
@@ -10234,7 +10234,7 @@ Asteroid "Alderaan fragment 486"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-65.11746827201686	//in km
+	Radius		65.11746827201686	//in km
 	RotationPeriod	9.127675524771895	//in hours
 	Obliquity		334.536995447902
 
@@ -10255,7 +10255,7 @@ Asteroid "Alderaan fragment 487"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-32.30558777815012	//in km
+	Radius		32.30558777815012	//in km
 	RotationPeriod	10.431047095419702	//in hours
 	Obliquity		163.1752412474092
 
@@ -10297,7 +10297,7 @@ Asteroid "Alderaan fragment 489"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-61.37837209517873	//in km
+	Radius		61.37837209517873	//in km
 	RotationPeriod	3.966302812044084	//in hours
 	Obliquity		61.08088480303315
 
@@ -10360,7 +10360,7 @@ Asteroid "Alderaan fragment 492"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-10.553741697287762	//in km
+	Radius		10.553741697287762	//in km
 	RotationPeriod	10.720437203620802	//in hours
 	Obliquity		320.6417177691013
 
@@ -10402,7 +10402,7 @@ Asteroid "Alderaan fragment 494"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-176.53769020104133	//in km
+	Radius		176.53769020104133	//in km
 	RotationPeriod	12.04246821773252	//in hours
 	Obliquity		299.23906254185175
 
@@ -10465,7 +10465,7 @@ Asteroid "Alderaan fragment 497"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-117.10597117313333	//in km
+	Radius		117.10597117313333	//in km
 	RotationPeriod	5.348988854924906	//in hours
 	Obliquity		92.7170919778794
 
@@ -10486,7 +10486,7 @@ Asteroid "Alderaan fragment 498"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-124.27737655148056	//in km
+	Radius		124.27737655148056	//in km
 	RotationPeriod	19.754580964263585	//in hours
 	Obliquity		289.66217302880307
 
@@ -10549,7 +10549,7 @@ Asteroid "Alderaan fragment 501"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-78.11601463014138	//in km
+	Radius		78.11601463014138	//in km
 	RotationPeriod	14.666893880635607	//in hours
 	Obliquity		162.03544858314953
 
@@ -10570,7 +10570,7 @@ Asteroid "Alderaan fragment 502"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-16.889556336242837	//in km
+	Radius		16.889556336242837	//in km
 	RotationPeriod	17.056600912985072	//in hours
 	Obliquity		88.3824928804672
 
@@ -10633,7 +10633,7 @@ Asteroid "Alderaan fragment 505"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-29.3161023258643	//in km
+	Radius		29.3161023258643	//in km
 	RotationPeriod	10.569083074776943	//in hours
 	Obliquity		91.96231109134459
 
@@ -10654,7 +10654,7 @@ Asteroid "Alderaan fragment 506"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-57.83181143205448	//in km
+	Radius		57.83181143205448	//in km
 	RotationPeriod	16.87384902164104	//in hours
 	Obliquity		171.30212110212537
 
@@ -10675,7 +10675,7 @@ Asteroid "Alderaan fragment 507"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-49.76510646077499	//in km
+	Radius		49.76510646077499	//in km
 	RotationPeriod	10.486352155790655	//in hours
 	Obliquity		82.78758579708035
 
@@ -10759,7 +10759,7 @@ Asteroid "Alderaan fragment 511"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-3.3403891458513453	//in km
+	Radius		3.3403891458513453	//in km
 	RotationPeriod	11.395998066764195	//in hours
 	Obliquity		57.755515933220174
 
@@ -10843,7 +10843,7 @@ Asteroid "Alderaan fragment 515"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-18.46740421132385	//in km
+	Radius		18.46740421132385	//in km
 	RotationPeriod	16.953521260693986	//in hours
 	Obliquity		121.45854231106019
 
@@ -10948,7 +10948,7 @@ Asteroid "Alderaan fragment 520"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-109.88398243805669	//in km
+	Radius		109.88398243805669	//in km
 	RotationPeriod	14.414714581131076	//in hours
 	Obliquity		89.62592182910068
 
@@ -10969,7 +10969,7 @@ Asteroid "Alderaan fragment 521"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-34.77790389287113	//in km
+	Radius		34.77790389287113	//in km
 	RotationPeriod	11.036444531376802	//in hours
 	Obliquity		26.07040276852254
 
@@ -11116,7 +11116,7 @@ Asteroid "Alderaan fragment 528"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-63.358937537155896	//in km
+	Radius		63.358937537155896	//in km
 	RotationPeriod	7.70875424341085	//in hours
 	Obliquity		148.000197342376
 
@@ -11179,7 +11179,7 @@ Asteroid "Alderaan fragment 531"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-144.59823884333844	//in km
+	Radius		144.59823884333844	//in km
 	RotationPeriod	12.202061941928909	//in hours
 	Obliquity		254.19252252906537
 
@@ -11200,7 +11200,7 @@ Asteroid "Alderaan fragment 532"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-41.39560138981767	//in km
+	Radius		41.39560138981767	//in km
 	RotationPeriod	9.663523253899086	//in hours
 	Obliquity		151.55022699516914
 
@@ -11242,7 +11242,7 @@ Asteroid "Alderaan fragment 534"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-81.60001711196352	//in km
+	Radius		81.60001711196352	//in km
 	RotationPeriod	16.90736464016261	//in hours
 	Obliquity		283.3147687014241
 
@@ -11305,7 +11305,7 @@ Asteroid "Alderaan fragment 537"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-17.441440133037414	//in km
+	Radius		17.441440133037414	//in km
 	RotationPeriod	20.26478574937611	//in hours
 	Obliquity		354.4723090841561
 
@@ -11389,7 +11389,7 @@ Asteroid "Alderaan fragment 541"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-47.417910036115885	//in km
+	Radius		47.417910036115885	//in km
 	RotationPeriod	22.160076828426966	//in hours
 	Obliquity		319.29169298430213
 
@@ -11431,7 +11431,7 @@ Asteroid "Alderaan fragment 543"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-205.8466635925855	//in km
+	Radius		205.8466635925855	//in km
 	RotationPeriod	10.277657540244995	//in hours
 	Obliquity		136.81996493150933
 
@@ -11452,7 +11452,7 @@ Asteroid "Alderaan fragment 544"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-18.700028488388007	//in km
+	Radius		18.700028488388007	//in km
 	RotationPeriod	6.974010891245544	//in hours
 	Obliquity		91.47716073950679
 
@@ -11494,7 +11494,7 @@ Asteroid "Alderaan fragment 546"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-49.60380295413075	//in km
+	Radius		49.60380295413075	//in km
 	RotationPeriod	15.002711522679823	//in hours
 	Obliquity		89.22723338898807
 
@@ -11557,7 +11557,7 @@ Asteroid "Alderaan fragment 549"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-13.418922250249139	//in km
+	Radius		13.418922250249139	//in km
 	RotationPeriod	12.20344598408573	//in hours
 	Obliquity		212.23867681295783
 
@@ -11578,7 +11578,7 @@ Asteroid "Alderaan fragment 550"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-136.521912772211	//in km
+	Radius		136.521912772211	//in km
 	RotationPeriod	16.691565622417738	//in hours
 	Obliquity		242.64383215602712
 
@@ -11641,7 +11641,7 @@ Asteroid "Alderaan fragment 553"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-41.323378181989206	//in km
+	Radius		41.323378181989206	//in km
 	RotationPeriod	11.145825132984902	//in hours
 	Obliquity		243.0977729932944
 
@@ -11662,7 +11662,7 @@ Asteroid "Alderaan fragment 554"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-111.22146974618596	//in km
+	Radius		111.22146974618596	//in km
 	RotationPeriod	11.250932584252464	//in hours
 	Obliquity		167.20065172637825
 
@@ -11704,7 +11704,7 @@ Asteroid "Alderaan fragment 556"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-82.33252310356204	//in km
+	Radius		82.33252310356204	//in km
 	RotationPeriod	20.772773420376765	//in hours
 	Obliquity		198.8133777675792
 
@@ -11725,7 +11725,7 @@ Asteroid "Alderaan fragment 557"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-33.621279356492195	//in km
+	Radius		33.621279356492195	//in km
 	RotationPeriod	20.839453989658914	//in hours
 	Obliquity		294.799486462588
 
@@ -11767,7 +11767,7 @@ Asteroid "Alderaan fragment 559"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-116.0377491798916	//in km
+	Radius		116.0377491798916	//in km
 	RotationPeriod	10.157794722119343	//in hours
 	Obliquity		146.07078425020575
 
@@ -11809,7 +11809,7 @@ Asteroid "Alderaan fragment 561"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-28.316926175550094	//in km
+	Radius		28.316926175550094	//in km
 	RotationPeriod	18.902735722897937	//in hours
 	Obliquity		326.98885716252
 
@@ -11851,7 +11851,7 @@ Asteroid "Alderaan fragment 563"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-127.05565697021757	//in km
+	Radius		127.05565697021757	//in km
 	RotationPeriod	9.865173197275316	//in hours
 	Obliquity		341.2385071811309
 
@@ -11956,7 +11956,7 @@ Asteroid "Alderaan fragment 568"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-50.07498473527987	//in km
+	Radius		50.07498473527987	//in km
 	TidalLocked	true
 	Orbit
 	{
@@ -12017,7 +12017,7 @@ Asteroid "Alderaan fragment 571"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-9.58096149073317	//in km
+	Radius		9.58096149073317	//in km
 	RotationPeriod	7.269975133246002	//in hours
 	Obliquity		279.44224990399834
 
@@ -12080,7 +12080,7 @@ Asteroid "Alderaan fragment 574"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-52.57692706242626	//in km
+	Radius		52.57692706242626	//in km
 	RotationPeriod	11.757207026301312	//in hours
 	Obliquity		269.84239176447227
 
@@ -12101,7 +12101,7 @@ Asteroid "Alderaan fragment 575"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-42.83322365985915	//in km
+	Radius		42.83322365985915	//in km
 	RotationPeriod	16.32139099972886	//in hours
 	Obliquity		126.66519857003469
 
@@ -12122,7 +12122,7 @@ Asteroid "Alderaan fragment 576"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-157.210460381148	//in km
+	Radius		157.210460381148	//in km
 	RotationPeriod	17.301959793374678	//in hours
 	Obliquity		189.28967937594197
 
@@ -12164,7 +12164,7 @@ Asteroid "Alderaan fragment 578"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-15.896021570736316	//in km
+	Radius		15.896021570736316	//in km
 	RotationPeriod	12.751270928564423	//in hours
 	Obliquity		101.07609917693492
 
@@ -12227,7 +12227,7 @@ Asteroid "Alderaan fragment 581"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-33.468998028884094	//in km
+	Radius		33.468998028884094	//in km
 	RotationPeriod	12.187698728354528	//in hours
 	Obliquity		357.58913062008287
 
@@ -12248,7 +12248,7 @@ Asteroid "Alderaan fragment 582"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-114.61342013893912	//in km
+	Radius		114.61342013893912	//in km
 	RotationPeriod	18.394959514948518	//in hours
 	Obliquity		153.15020467466766
 
@@ -12269,7 +12269,7 @@ Asteroid "Alderaan fragment 583"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-78.63674653171182	//in km
+	Radius		78.63674653171182	//in km
 	RotationPeriod	12.080200307549294	//in hours
 	Obliquity		249.93438687968523
 
@@ -12332,7 +12332,7 @@ Asteroid "Alderaan fragment 586"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-5.567357757505764	//in km
+	Radius		5.567357757505764	//in km
 	RotationPeriod	10.148776583133309	//in hours
 	Obliquity		69.08392770049237
 
@@ -12437,7 +12437,7 @@ Asteroid "Alderaan fragment 591"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-67.32167089844967	//in km
+	Radius		67.32167089844967	//in km
 	RotationPeriod	13.747108249912445	//in hours
 	Obliquity		42.16879377136619
 
@@ -12458,7 +12458,7 @@ Asteroid "Alderaan fragment 592"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-125.16765015307777	//in km
+	Radius		125.16765015307777	//in km
 	RotationPeriod	14.112445303487691	//in hours
 	Obliquity		145.37484953084132
 
@@ -12479,7 +12479,7 @@ Asteroid "Alderaan fragment 593"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-69.87090313307534	//in km
+	Radius		69.87090313307534	//in km
 	RotationPeriod	9.767108077414242	//in hours
 	Obliquity		19.193613439249116
 
@@ -12521,7 +12521,7 @@ Asteroid "Alderaan fragment 595"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-6.326748736926351	//in km
+	Radius		6.326748736926351	//in km
 	RotationPeriod	12.06657207270519	//in hours
 	Obliquity		336.56899848390475
 
@@ -12584,7 +12584,7 @@ Asteroid "Alderaan fragment 598"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-120.63345209602089	//in km
+	Radius		120.63345209602089	//in km
 	RotationPeriod	15.41911239992003	//in hours
 	Obliquity		343.8762440310866
 
@@ -12626,7 +12626,7 @@ Asteroid "Alderaan fragment 600"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-38.290456583557	//in km
+	Radius		38.290456583557	//in km
 	RotationPeriod	15.204810736542097	//in hours
 	Obliquity		85.31781404124547
 
@@ -12731,7 +12731,7 @@ Asteroid "Alderaan fragment 605"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-48.46121621420808	//in km
+	Radius		48.46121621420808	//in km
 	RotationPeriod	6.852582229650401	//in hours
 	Obliquity		344.21602295383656
 
@@ -12752,7 +12752,7 @@ Asteroid "Alderaan fragment 606"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-86.99473380890413	//in km
+	Radius		86.99473380890413	//in km
 	RotationPeriod	15.767143510470657	//in hours
 	Obliquity		27.957168708189435
 
@@ -12794,7 +12794,7 @@ Asteroid "Alderaan fragment 608"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-84.63783982094728	//in km
+	Radius		84.63783982094728	//in km
 	RotationPeriod	14.6379413911433	//in hours
 	Obliquity		257.55467857652394
 
@@ -12836,7 +12836,7 @@ Asteroid "Alderaan fragment 610"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-22.533149902387787	//in km
+	Radius		22.533149902387787	//in km
 	RotationPeriod	8.907121584631085	//in hours
 	Obliquity		58.93109686157758
 
@@ -12857,7 +12857,7 @@ Asteroid "Alderaan fragment 611"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-203.9392687432939	//in km
+	Radius		203.9392687432939	//in km
 	RotationPeriod	9.22447172933586	//in hours
 	Obliquity		105.70548368720581
 
@@ -12878,7 +12878,7 @@ Asteroid "Alderaan fragment 612"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-103.67830587491538	//in km
+	Radius		103.67830587491538	//in km
 	RotationPeriod	16.882309027293868	//in hours
 	Obliquity		216.3466256138871
 
@@ -12920,7 +12920,7 @@ Asteroid "Alderaan fragment 614"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-113.51588395207608	//in km
+	Radius		113.51588395207608	//in km
 	RotationPeriod	9.863080981327686	//in hours
 	Obliquity		10.162867659796756
 
@@ -12941,7 +12941,7 @@ Asteroid "Alderaan fragment 615"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-6.826203829009371	//in km
+	Radius		6.826203829009371	//in km
 	RotationPeriod	9.575100691459534	//in hours
 	Obliquity		254.9429190760852
 
@@ -12962,7 +12962,7 @@ Asteroid "Alderaan fragment 616"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-13.819041746917325	//in km
+	Radius		13.819041746917325	//in km
 	RotationPeriod	5.760034491843469	//in hours
 	Obliquity		90.99750784254763
 
@@ -13025,7 +13025,7 @@ Asteroid "Alderaan fragment 619"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-68.05153472111539	//in km
+	Radius		68.05153472111539	//in km
 	RotationPeriod	14.978954521253383	//in hours
 	Obliquity		91.6286729143755
 
@@ -13067,7 +13067,7 @@ Asteroid "Alderaan fragment 621"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-70.5639781681206	//in km
+	Radius		70.5639781681206	//in km
 	RotationPeriod	12.012315799038031	//in hours
 	Obliquity		277.8682485795608
 
@@ -13109,7 +13109,7 @@ Asteroid "Alderaan fragment 623"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-59.88057028432368	//in km
+	Radius		59.88057028432368	//in km
 	RotationPeriod	9.23276664260723	//in hours
 	Obliquity		218.9024208564004
 
@@ -13151,7 +13151,7 @@ Asteroid "Alderaan fragment 625"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-4.880580736708838	//in km
+	Radius		4.880580736708838	//in km
 	RotationPeriod	14.758155406070825	//in hours
 	Obliquity		29.477618544213833
 
@@ -13172,7 +13172,7 @@ Asteroid "Alderaan fragment 626"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-49.64999705239756	//in km
+	Radius		49.64999705239756	//in km
 	RotationPeriod	9.623339367700595	//in hours
 	Obliquity		101.24674675400156
 
@@ -13193,7 +13193,7 @@ Asteroid "Alderaan fragment 627"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-49.2052245527698	//in km
+	Radius		49.2052245527698	//in km
 	RotationPeriod	8.763192806928556	//in hours
 	Obliquity		60.304739530944346
 
@@ -13235,7 +13235,7 @@ Asteroid "Alderaan fragment 629"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-40.628250770174624	//in km
+	Radius		40.628250770174624	//in km
 	RotationPeriod	10.685612147209685	//in hours
 	Obliquity		184.43492464986363
 
@@ -13277,7 +13277,7 @@ Asteroid "Alderaan fragment 631"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-135.49701272403385	//in km
+	Radius		135.49701272403385	//in km
 	RotationPeriod	16.649466583073274	//in hours
 	Obliquity		25.041618901758103
 
@@ -13298,7 +13298,7 @@ Asteroid "Alderaan fragment 632"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-52.267732945568795	//in km
+	Radius		52.267732945568795	//in km
 	RotationPeriod	11.274444656030685	//in hours
 	Obliquity		99.97127575797363
 
@@ -13319,7 +13319,7 @@ Asteroid "Alderaan fragment 633"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-0.22753508078881968	//in km
+	Radius		0.22753508078881968	//in km
 	RotationPeriod	9.97790493762125	//in hours
 	Obliquity		118.88211209535248
 
@@ -13340,7 +13340,7 @@ Asteroid "Alderaan fragment 634"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-119.15646623255401	//in km
+	Radius		119.15646623255401	//in km
 	RotationPeriod	14.641089134604067	//in hours
 	Obliquity		50.091898277468346
 
@@ -13382,7 +13382,7 @@ Asteroid "Alderaan fragment 636"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-118.04209745341323	//in km
+	Radius		118.04209745341323	//in km
 	RotationPeriod	8.716542619996702	//in hours
 	Obliquity		233.74043857864132
 
@@ -13424,7 +13424,7 @@ Asteroid "Alderaan fragment 638"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-247.708067880912	//in km
+	Radius		247.708067880912	//in km
 	RotationPeriod	8.801156785792745	//in hours
 	Obliquity		193.04504588294517
 
@@ -13445,7 +13445,7 @@ Asteroid "Alderaan fragment 639"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-41.21518558800764	//in km
+	Radius		41.21518558800764	//in km
 	RotationPeriod	9.933775677644975	//in hours
 	Obliquity		116.92438395543545
 
@@ -13487,7 +13487,7 @@ Asteroid "Alderaan fragment 641"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-165.69073660633532	//in km
+	Radius		165.69073660633532	//in km
 	RotationPeriod	10.372424935524416	//in hours
 	Obliquity		6.769134195850652
 
@@ -13571,7 +13571,7 @@ Asteroid "Alderaan fragment 645"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-154.3765852710571	//in km
+	Radius		154.3765852710571	//in km
 	RotationPeriod	12.111035624976353	//in hours
 	Obliquity		144.0064612053036
 
@@ -13655,7 +13655,7 @@ Asteroid "Alderaan fragment 649"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-183.55984737190278	//in km
+	Radius		183.55984737190278	//in km
 	RotationPeriod	7.782626807716314	//in hours
 	Obliquity		316.9635822869368
 
@@ -13718,7 +13718,7 @@ Asteroid "Alderaan fragment 652"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-42.25359771038613	//in km
+	Radius		42.25359771038613	//in km
 	RotationPeriod	15.665982939652869	//in hours
 	Obliquity		20.615073026618674
 
@@ -13760,7 +13760,7 @@ Asteroid "Alderaan fragment 654"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-65.03151624997705	//in km
+	Radius		65.03151624997705	//in km
 	RotationPeriod	7.370426108687949	//in hours
 	Obliquity		287.82730809691657
 
@@ -13781,7 +13781,7 @@ Asteroid "Alderaan fragment 655"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-70.9323155506738	//in km
+	Radius		70.9323155506738	//in km
 	RotationPeriod	7.246587245315355	//in hours
 	Obliquity		121.48440302464944
 
@@ -13823,7 +13823,7 @@ Asteroid "Alderaan fragment 657"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-45.64207795766693	//in km
+	Radius		45.64207795766693	//in km
 	RotationPeriod	21.549352952804696	//in hours
 	Obliquity		339.09534294275636
 
@@ -13886,7 +13886,7 @@ Asteroid "Alderaan fragment 660"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-77.4256670028754	//in km
+	Radius		77.4256670028754	//in km
 	RotationPeriod	13.059614427338602	//in hours
 	Obliquity		350.1440901186788
 
@@ -13907,7 +13907,7 @@ Asteroid "Alderaan fragment 661"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-113.43934276199981	//in km
+	Radius		113.43934276199981	//in km
 	RotationPeriod	9.618678119412937	//in hours
 	Obliquity		255.09818442461966
 
@@ -13928,7 +13928,7 @@ Asteroid "Alderaan fragment 662"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-32.80092986636341	//in km
+	Radius		32.80092986636341	//in km
 	RotationPeriod	14.540843138349691	//in hours
 	Obliquity		279.37048097324197
 
@@ -14012,7 +14012,7 @@ Asteroid "Alderaan fragment 666"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-18.28234609158659	//in km
+	Radius		18.28234609158659	//in km
 	RotationPeriod	7.057650780537418	//in hours
 	Obliquity		41.8378076685262
 
@@ -14075,7 +14075,7 @@ Asteroid "Alderaan fragment 669"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-0.7729468359082992	//in km
+	Radius		0.7729468359082992	//in km
 	RotationPeriod	9.612308400258513	//in hours
 	Obliquity		193.6126036546223
 
@@ -14138,7 +14138,7 @@ Asteroid "Alderaan fragment 672"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-29.17485484964017	//in km
+	Radius		29.17485484964017	//in km
 	RotationPeriod	17.13712923520495	//in hours
 	Obliquity		148.08525353940115
 
@@ -14159,7 +14159,7 @@ Asteroid "Alderaan fragment 673"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-214.61587851322793	//in km
+	Radius		214.61587851322793	//in km
 	RotationPeriod	8.574500539588774	//in hours
 	Obliquity		11.24561949504435
 
@@ -14243,7 +14243,7 @@ Asteroid "Alderaan fragment 677"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-239.2452506612026	//in km
+	Radius		239.2452506612026	//in km
 	RotationPeriod	11.07479841253388	//in hours
 	Obliquity		342.2771683743238
 
@@ -14264,7 +14264,7 @@ Asteroid "Alderaan fragment 678"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-99.04933006292678	//in km
+	Radius		99.04933006292678	//in km
 	RotationPeriod	15.22395626514226	//in hours
 	Obliquity		239.10475477603094
 
@@ -14348,7 +14348,7 @@ Asteroid "Alderaan fragment 682"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-26.254859767744698	//in km
+	Radius		26.254859767744698	//in km
 	RotationPeriod	13.656835950554123	//in hours
 	Obliquity		332.74751572091986
 
@@ -14369,7 +14369,7 @@ Asteroid "Alderaan fragment 683"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-160.64808628413567	//in km
+	Radius		160.64808628413567	//in km
 	RotationPeriod	13.27500208175197	//in hours
 	Obliquity		215.18924601158162
 
@@ -14390,7 +14390,7 @@ Asteroid "Alderaan fragment 684"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-122.90133613744925	//in km
+	Radius		122.90133613744925	//in km
 	RotationPeriod	17.833554155531324	//in hours
 	Obliquity		143.1920599670013
 
@@ -14411,7 +14411,7 @@ Asteroid "Alderaan fragment 685"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-124.6878605507278	//in km
+	Radius		124.6878605507278	//in km
 	RotationPeriod	9.184935192503218	//in hours
 	Obliquity		165.52846699229818
 
@@ -14516,7 +14516,7 @@ Asteroid "Alderaan fragment 690"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-44.84736349914106	//in km
+	Radius		44.84736349914106	//in km
 	RotationPeriod	11.751456321609929	//in hours
 	Obliquity		122.42319981794094
 
@@ -14537,7 +14537,7 @@ Asteroid "Alderaan fragment 691"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-68.39229184498866	//in km
+	Radius		68.39229184498866	//in km
 	RotationPeriod	13.304211412196251	//in hours
 	Obliquity		53.998794363094255
 
@@ -14600,7 +14600,7 @@ Asteroid "Alderaan fragment 694"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-89.00768169423267	//in km
+	Radius		89.00768169423267	//in km
 	RotationPeriod	10.822915697274874	//in hours
 	Obliquity		272.9727168919342
 
@@ -14684,7 +14684,7 @@ Asteroid "Alderaan fragment 698"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-183.35952032676863	//in km
+	Radius		183.35952032676863	//in km
 	RotationPeriod	9.504382629687733	//in hours
 	Obliquity		257.7840805658594
 
@@ -14705,7 +14705,7 @@ Asteroid "Alderaan fragment 699"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-164.1682227249655	//in km
+	Radius		164.1682227249655	//in km
 	RotationPeriod	11.517655944473404	//in hours
 	Obliquity		248.18925500854783
 
@@ -14726,7 +14726,7 @@ Asteroid "Alderaan fragment 700"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-146.75514728642315	//in km
+	Radius		146.75514728642315	//in km
 	RotationPeriod	7.338183249104953	//in hours
 	Obliquity		271.3782755681883
 
@@ -14747,7 +14747,7 @@ Asteroid "Alderaan fragment 701"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-137.3945302552796	//in km
+	Radius		137.3945302552796	//in km
 	RotationPeriod	14.175716695609212	//in hours
 	Obliquity		327.9759323861807
 
@@ -14768,7 +14768,7 @@ Asteroid "Alderaan fragment 702"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-46.940590487772425	//in km
+	Radius		46.940590487772425	//in km
 	RotationPeriod	6.410392715354925	//in hours
 	Obliquity		319.3125967702802
 
@@ -14831,7 +14831,7 @@ Asteroid "Alderaan fragment 705"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-45.315607611921564	//in km
+	Radius		45.315607611921564	//in km
 	RotationPeriod	10.613605463228335	//in hours
 	Obliquity		40.65614816269815
 
@@ -14873,7 +14873,7 @@ Asteroid "Alderaan fragment 707"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-19.21487906556235	//in km
+	Radius		19.21487906556235	//in km
 	RotationPeriod	10.866326873832433	//in hours
 	Obliquity		20.551508392684532
 
@@ -14894,7 +14894,7 @@ Asteroid "Alderaan fragment 708"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-71.21955680032262	//in km
+	Radius		71.21955680032262	//in km
 	RotationPeriod	8.631057032788181	//in hours
 	Obliquity		240.9516844182678
 
@@ -14915,7 +14915,7 @@ Asteroid "Alderaan fragment 709"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-116.19487747159417	//in km
+	Radius		116.19487747159417	//in km
 	RotationPeriod	17.05098228784657	//in hours
 	Obliquity		121.05023908557152
 
@@ -14936,7 +14936,7 @@ Asteroid "Alderaan fragment 710"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-16.74908796177837	//in km
+	Radius		16.74908796177837	//in km
 	RotationPeriod	13.733685213943273	//in hours
 	Obliquity		222.4403015586022
 
@@ -14978,7 +14978,7 @@ Asteroid "Alderaan fragment 712"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-63.49904946263358	//in km
+	Radius		63.49904946263358	//in km
 	RotationPeriod	8.16986656592296	//in hours
 	Obliquity		340.54039361313664
 
@@ -15018,7 +15018,7 @@ Asteroid "Alderaan fragment 714"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-56.621089329146976	//in km
+	Radius		56.621089329146976	//in km
 	RotationPeriod	13.861409193021759	//in hours
 	Obliquity		178.01641705209911
 
@@ -15039,7 +15039,7 @@ Asteroid "Alderaan fragment 715"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-182.27799710205628	//in km
+	Radius		182.27799710205628	//in km
 	RotationPeriod	14.482732892034262	//in hours
 	Obliquity		60.02279166404189
 
@@ -15060,7 +15060,7 @@ Asteroid "Alderaan fragment 716"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-6.463153258579203	//in km
+	Radius		6.463153258579203	//in km
 	RotationPeriod	3.5704421260223604	//in hours
 	Obliquity		103.6052372702915
 
@@ -15081,7 +15081,7 @@ Asteroid "Alderaan fragment 717"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-115.59792749377952	//in km
+	Radius		115.59792749377952	//in km
 	RotationPeriod	14.631407547430639	//in hours
 	Obliquity		19.16853372681434
 
@@ -15102,7 +15102,7 @@ Asteroid "Alderaan fragment 718"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-0.21781292202665625	//in km
+	Radius		0.21781292202665625	//in km
 	RotationPeriod	14.442483373967532	//in hours
 	Obliquity		301.0595117685135
 
@@ -15165,7 +15165,7 @@ Asteroid "Alderaan fragment 721"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-6.934578774173483	//in km
+	Radius		6.934578774173483	//in km
 	RotationPeriod	10.392136142385944	//in hours
 	Obliquity		287.350260013884
 
@@ -15207,7 +15207,7 @@ Asteroid "Alderaan fragment 723"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-163.21659966770707	//in km
+	Radius		163.21659966770707	//in km
 	RotationPeriod	6.512052499567967	//in hours
 	Obliquity		139.5104086896053
 
@@ -15228,7 +15228,7 @@ Asteroid "Alderaan fragment 724"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-194.87344263812741	//in km
+	Radius		194.87344263812741	//in km
 	RotationPeriod	10.737387088893048	//in hours
 	Obliquity		24.953004655196033
 
@@ -15249,7 +15249,7 @@ Asteroid "Alderaan fragment 725"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-120.51766817108951	//in km
+	Radius		120.51766817108951	//in km
 	RotationPeriod	15.248146894038223	//in hours
 	Obliquity		247.5299218656108
 
@@ -15270,7 +15270,7 @@ Asteroid "Alderaan fragment 726"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-151.0513823872354	//in km
+	Radius		151.0513823872354	//in km
 	RotationPeriod	15.152990416103545	//in hours
 	Obliquity		153.9268086720507
 
@@ -15354,7 +15354,7 @@ Asteroid "Alderaan fragment 730"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-3.333276301567924	//in km
+	Radius		3.333276301567924	//in km
 	RotationPeriod	8.663290508785416	//in hours
 	Obliquity		194.4442000024977
 
@@ -15501,7 +15501,7 @@ Asteroid "Alderaan fragment 737"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-56.90269040241518	//in km
+	Radius		56.90269040241518	//in km
 	RotationPeriod	8.698116939445462	//in hours
 	Obliquity		276.72426558932153
 
@@ -15522,7 +15522,7 @@ Asteroid "Alderaan fragment 738"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-8.358883997574539	//in km
+	Radius		8.358883997574539	//in km
 	RotationPeriod	15.641911254559972	//in hours
 	Obliquity		326.3373238963187
 
@@ -15627,7 +15627,7 @@ Asteroid "Alderaan fragment 743"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-19.457369912382767	//in km
+	Radius		19.457369912382767	//in km
 	RotationPeriod	11.862810555315122	//in hours
 	Obliquity		335.9402504384479
 
@@ -15711,7 +15711,7 @@ Asteroid "Alderaan fragment 747"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-162.5648769288421	//in km
+	Radius		162.5648769288421	//in km
 	RotationPeriod	14.305948953080055	//in hours
 	Obliquity		261.14038449261466
 
@@ -15816,7 +15816,7 @@ Asteroid "Alderaan fragment 752"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-192.67798607750876	//in km
+	Radius		192.67798607750876	//in km
 	RotationPeriod	8.022573535182225	//in hours
 	Obliquity		164.05102186739825
 
@@ -15837,7 +15837,7 @@ Asteroid "Alderaan fragment 753"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-138.94575414699975	//in km
+	Radius		138.94575414699975	//in km
 	RotationPeriod	15.703110582197317	//in hours
 	Obliquity		331.2622793009208
 
@@ -15984,7 +15984,7 @@ Asteroid "Alderaan fragment 760"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-116.65124067658623	//in km
+	Radius		116.65124067658623	//in km
 	RotationPeriod	13.436047318178568	//in hours
 	Obliquity		246.0270783253843
 
@@ -16068,7 +16068,7 @@ Asteroid "Alderaan fragment 764"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-113.34001800229149	//in km
+	Radius		113.34001800229149	//in km
 	RotationPeriod	12.070664939422713	//in hours
 	Obliquity		52.18747255656456
 
@@ -16131,7 +16131,7 @@ Asteroid "Alderaan fragment 767"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-35.1026351893849	//in km
+	Radius		35.1026351893849	//in km
 	RotationPeriod	15.46247164410088	//in hours
 	Obliquity		167.55431977429063
 
@@ -16173,7 +16173,7 @@ Asteroid "Alderaan fragment 769"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-22.74510370069041	//in km
+	Radius		22.74510370069041	//in km
 	RotationPeriod	10.961661673278268	//in hours
 	Obliquity		144.6169441814339
 
@@ -16194,7 +16194,7 @@ Asteroid "Alderaan fragment 770"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-51.77806103244457	//in km
+	Radius		51.77806103244457	//in km
 	RotationPeriod	11.505268857662863	//in hours
 	Obliquity		118.56112064789517
 
@@ -16236,7 +16236,7 @@ Asteroid "Alderaan fragment 772"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-178.0178031859647	//in km
+	Radius		178.0178031859647	//in km
 	RotationPeriod	11.515202329300509	//in hours
 	Obliquity		3.172252893617724
 
@@ -16278,7 +16278,7 @@ Asteroid "Alderaan fragment 774"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-150.9775085233893	//in km
+	Radius		150.9775085233893	//in km
 	RotationPeriod	7.704540495542801	//in hours
 	Obliquity		13.500920819360832
 
@@ -16299,7 +16299,7 @@ Asteroid "Alderaan fragment 775"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-51.97735699145663	//in km
+	Radius		51.97735699145663	//in km
 	RotationPeriod	15.940495530488114	//in hours
 	Obliquity		265.7428167527064
 
@@ -16320,7 +16320,7 @@ Asteroid "Alderaan fragment 776"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-38.31304987884956	//in km
+	Radius		38.31304987884956	//in km
 	RotationPeriod	9.340640625430147	//in hours
 	Obliquity		139.57448734706765
 
@@ -16341,7 +16341,7 @@ Asteroid "Alderaan fragment 777"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-16.324344335860395	//in km
+	Radius		16.324344335860395	//in km
 	RotationPeriod	11.40308528893542	//in hours
 	Obliquity		211.32623717630722
 
@@ -16362,7 +16362,7 @@ Asteroid "Alderaan fragment 778"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-213.96662641206424	//in km
+	Radius		213.96662641206424	//in km
 	RotationPeriod	4.890525311507332	//in hours
 	Obliquity		126.4983617955594
 
@@ -16383,7 +16383,7 @@ Asteroid "Alderaan fragment 779"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-72.99986000135638	//in km
+	Radius		72.99986000135638	//in km
 	RotationPeriod	12.22483486367685	//in hours
 	Obliquity		34.735477632457446
 
@@ -16404,7 +16404,7 @@ Asteroid "Alderaan fragment 780"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-3.3367629141018433	//in km
+	Radius		3.3367629141018433	//in km
 	RotationPeriod	13.985025324332884	//in hours
 	Obliquity		166.81893906729934
 
@@ -16446,7 +16446,7 @@ Asteroid "Alderaan fragment 782"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-91.36595652993708	//in km
+	Radius		91.36595652993708	//in km
 	RotationPeriod	14.741330909485056	//in hours
 	Obliquity		248.87455309441688
 
@@ -16467,7 +16467,7 @@ Asteroid "Alderaan fragment 783"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-27.939145474993623	//in km
+	Radius		27.939145474993623	//in km
 	RotationPeriod	11.390156306838263	//in hours
 	Obliquity		249.64598605516562
 
@@ -16488,7 +16488,7 @@ Asteroid "Alderaan fragment 784"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-84.29576610867397	//in km
+	Radius		84.29576610867397	//in km
 	RotationPeriod	11.269500667667701	//in hours
 	Obliquity		155.80552648042115
 
@@ -16509,7 +16509,7 @@ Asteroid "Alderaan fragment 785"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-52.44951627259984	//in km
+	Radius		52.44951627259984	//in km
 	RotationPeriod	10.166465542224795	//in hours
 	Obliquity		353.48566200962114
 
@@ -16614,7 +16614,7 @@ Asteroid "Alderaan fragment 790"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-92.70139887763045	//in km
+	Radius		92.70139887763045	//in km
 	RotationPeriod	8.713954063695967	//in hours
 	Obliquity		192.44672728773926
 
@@ -16635,7 +16635,7 @@ Asteroid "Alderaan fragment 791"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-82.30524327188388	//in km
+	Radius		82.30524327188388	//in km
 	RotationPeriod	10.433155383150993	//in hours
 	Obliquity		68.86136314132018
 
@@ -16656,7 +16656,7 @@ Asteroid "Alderaan fragment 792"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-103.52674186647124	//in km
+	Radius		103.52674186647124	//in km
 	RotationPeriod	8.562491330308015	//in hours
 	Obliquity		152.47324177941437
 
@@ -16677,7 +16677,7 @@ Asteroid "Alderaan fragment 793"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-26.855356813791325	//in km
+	Radius		26.855356813791325	//in km
 	RotationPeriod	15.353161061741044	//in hours
 	Obliquity		203.26349099540687
 
@@ -16761,7 +16761,7 @@ Asteroid "Alderaan fragment 797"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-190.62958269508738	//in km
+	Radius		190.62958269508738	//in km
 	RotationPeriod	12.789059417091465	//in hours
 	Obliquity		223.66505978931215
 
@@ -16803,7 +16803,7 @@ Asteroid "Alderaan fragment 799"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-54.963811003331166	//in km
+	Radius		54.963811003331166	//in km
 	RotationPeriod	7.346066224119606	//in hours
 	Obliquity		215.29192390444626
 
@@ -16866,7 +16866,7 @@ Asteroid "Alderaan fragment 802"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-57.542481988271824	//in km
+	Radius		57.542481988271824	//in km
 	RotationPeriod	6.002773214289443	//in hours
 	Obliquity		300.4274934169529
 
@@ -16887,7 +16887,7 @@ Asteroid "Alderaan fragment 803"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-84.78623069639559	//in km
+	Radius		84.78623069639559	//in km
 	RotationPeriod	21.46488194985904	//in hours
 	Obliquity		61.069916003150766
 
@@ -16908,7 +16908,7 @@ Asteroid "Alderaan fragment 804"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-14.077086231251876	//in km
+	Radius		14.077086231251876	//in km
 	RotationPeriod	7.0226305079645694	//in hours
 	Obliquity		38.06961578516629
 
@@ -16971,7 +16971,7 @@ Asteroid "Alderaan fragment 807"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-14.324741958321294	//in km
+	Radius		14.324741958321294	//in km
 	RotationPeriod	12.156553752193368	//in hours
 	Obliquity		269.1243793436527
 
@@ -16992,7 +16992,7 @@ Asteroid "Alderaan fragment 808"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-209.02164891234247	//in km
+	Radius		209.02164891234247	//in km
 	RotationPeriod	15.751036757122307	//in hours
 	Obliquity		144.00965621596956
 
@@ -17034,7 +17034,7 @@ Asteroid "Alderaan fragment 810"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-15.65894925407903	//in km
+	Radius		15.65894925407903	//in km
 	RotationPeriod	7.797350760085855	//in hours
 	Obliquity		230.3070258854482
 
@@ -17097,7 +17097,7 @@ Asteroid "Alderaan fragment 813"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-93.21745633727498	//in km
+	Radius		93.21745633727498	//in km
 	RotationPeriod	11.728824426760267	//in hours
 	Obliquity		123.91683400634264
 
@@ -17118,7 +17118,7 @@ Asteroid "Alderaan fragment 814"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-19.04925740656954	//in km
+	Radius		19.04925740656954	//in km
 	RotationPeriod	14.359080659456328	//in hours
 	Obliquity		132.18967007473802
 
@@ -17160,7 +17160,7 @@ Asteroid "Alderaan fragment 816"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-14.311763627223346	//in km
+	Radius		14.311763627223346	//in km
 	RotationPeriod	10.840583100211912	//in hours
 	Obliquity		301.58640049117463
 
@@ -17265,7 +17265,7 @@ Asteroid "Alderaan fragment 821"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-55.629930886962384	//in km
+	Radius		55.629930886962384	//in km
 	RotationPeriod	4.474298236022049	//in hours
 	Obliquity		123.59113381551127
 
@@ -17328,7 +17328,7 @@ Asteroid "Alderaan fragment 824"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-67.09067728105258	//in km
+	Radius		67.09067728105258	//in km
 	RotationPeriod	12.017803193266888	//in hours
 	Obliquity		354.620460816034
 
@@ -17370,7 +17370,7 @@ Asteroid "Alderaan fragment 826"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-148.516089741736	//in km
+	Radius		148.516089741736	//in km
 	RotationPeriod	12.103902588785113	//in hours
 	Obliquity		297.85897219816127
 
@@ -17454,7 +17454,7 @@ Asteroid "Alderaan fragment 830"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-44.28211650179336	//in km
+	Radius		44.28211650179336	//in km
 	RotationPeriod	13.70355359578837	//in hours
 	Obliquity		249.48420264149112
 
@@ -17517,7 +17517,7 @@ Asteroid "Alderaan fragment 833"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-201.13400106184363	//in km
+	Radius		201.13400106184363	//in km
 	RotationPeriod	9.860154016188261	//in hours
 	Obliquity		23.43785994487757
 
@@ -17538,7 +17538,7 @@ Asteroid "Alderaan fragment 834"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-130.56216283346234	//in km
+	Radius		130.56216283346234	//in km
 	RotationPeriod	13.284176570335223	//in hours
 	Obliquity		189.28187339135366
 
@@ -17559,7 +17559,7 @@ Asteroid "Alderaan fragment 835"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-19.7927602463673	//in km
+	Radius		19.7927602463673	//in km
 	RotationPeriod	4.6760959396547115	//in hours
 	Obliquity		315.7341420517981
 
@@ -17580,7 +17580,7 @@ Asteroid "Alderaan fragment 836"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-45.643691834312875	//in km
+	Radius		45.643691834312875	//in km
 	RotationPeriod	13.53875725726876	//in hours
 	Obliquity		33.238868378225646
 
@@ -17601,7 +17601,7 @@ Asteroid "Alderaan fragment 837"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-115.45386264635584	//in km
+	Radius		115.45386264635584	//in km
 	RotationPeriod	7.970511027593112	//in hours
 	Obliquity		33.23290116982073
 
@@ -17662,7 +17662,7 @@ Asteroid "Alderaan fragment 840"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-30.75396641120608	//in km
+	Radius		30.75396641120608	//in km
 	RotationPeriod	13.629614507786174	//in hours
 	Obliquity		141.89964350926738
 
@@ -17683,7 +17683,7 @@ Asteroid "Alderaan fragment 841"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-191.25223686987368	//in km
+	Radius		191.25223686987368	//in km
 	RotationPeriod	8.104729969683723	//in hours
 	Obliquity		335.3976885574085
 
@@ -17725,7 +17725,7 @@ Asteroid "Alderaan fragment 843"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-18.24302435773523	//in km
+	Radius		18.24302435773523	//in km
 	RotationPeriod	14.736202712995501	//in hours
 	Obliquity		141.80445054227917
 
@@ -17788,7 +17788,7 @@ Asteroid "Alderaan fragment 846"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-14.27452703447696	//in km
+	Radius		14.27452703447696	//in km
 	RotationPeriod	16.383984435456174	//in hours
 	Obliquity		313.55282912331796
 
@@ -17809,7 +17809,7 @@ Asteroid "Alderaan fragment 847"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-92.4321534092691	//in km
+	Radius		92.4321534092691	//in km
 	RotationPeriod	5.639098661520746	//in hours
 	Obliquity		265.26239723553647
 
@@ -17830,7 +17830,7 @@ Asteroid "Alderaan fragment 848"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-24.663373828548487	//in km
+	Radius		24.663373828548487	//in km
 	RotationPeriod	12.594529083716628	//in hours
 	Obliquity		270.9702716421138
 
@@ -17851,7 +17851,7 @@ Asteroid "Alderaan fragment 849"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-95.27623364445837	//in km
+	Radius		95.27623364445837	//in km
 	RotationPeriod	10.893454810188093	//in hours
 	Obliquity		216.98460865351723
 
@@ -17893,7 +17893,7 @@ Asteroid "Alderaan fragment 851"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-50.86185877947814	//in km
+	Radius		50.86185877947814	//in km
 	RotationPeriod	10.756577211587494	//in hours
 	Obliquity		233.13436793853637
 
@@ -17914,7 +17914,7 @@ Asteroid "Alderaan fragment 852"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-4.8198076388208	//in km
+	Radius		4.8198076388208	//in km
 	RotationPeriod	12.917832210295416	//in hours
 	Obliquity		118.82740503803188
 
@@ -17935,7 +17935,7 @@ Asteroid "Alderaan fragment 853"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-6.200980510056381	//in km
+	Radius		6.200980510056381	//in km
 	RotationPeriod	9.264598807538402	//in hours
 	Obliquity		279.3500434330236
 
@@ -17956,7 +17956,7 @@ Asteroid "Alderaan fragment 854"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-36.588323670445384	//in km
+	Radius		36.588323670445384	//in km
 	RotationPeriod	10.568661798665275	//in hours
 	Obliquity		143.44295815963474
 
@@ -17998,7 +17998,7 @@ Asteroid "Alderaan fragment 856"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-4.193900699394572	//in km
+	Radius		4.193900699394572	//in km
 	RotationPeriod	10.08928764786552	//in hours
 	Obliquity		88.30324895201888
 
@@ -18019,7 +18019,7 @@ Asteroid "Alderaan fragment 857"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-59.0029839335877	//in km
+	Radius		59.0029839335877	//in km
 	RotationPeriod	19.644263956754646	//in hours
 	Obliquity		143.8248466051177
 
@@ -18040,7 +18040,7 @@ Asteroid "Alderaan fragment 858"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-121.75473498451251	//in km
+	Radius		121.75473498451251	//in km
 	RotationPeriod	12.525449864699507	//in hours
 	Obliquity		258.6804855006559
 
@@ -18082,7 +18082,7 @@ Asteroid "Alderaan fragment 860"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-87.78494877098406	//in km
+	Radius		87.78494877098406	//in km
 	RotationPeriod	20.939863372184256	//in hours
 	Obliquity		203.65736954035597
 
@@ -18124,7 +18124,7 @@ Asteroid "Alderaan fragment 862"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-60.39033342219872	//in km
+	Radius		60.39033342219872	//in km
 	RotationPeriod	16.745030804445747	//in hours
 	Obliquity		226.59114574987584
 
@@ -18145,7 +18145,7 @@ Asteroid "Alderaan fragment 863"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-194.4449677130076	//in km
+	Radius		194.4449677130076	//in km
 	RotationPeriod	14.802004221258048	//in hours
 	Obliquity		289.43820969929334
 
@@ -18187,7 +18187,7 @@ Asteroid "Alderaan fragment 865"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-40.034001714272556	//in km
+	Radius		40.034001714272556	//in km
 	RotationPeriod	6.90975562036355	//in hours
 	Obliquity		162.7898340922545
 
@@ -18208,7 +18208,7 @@ Asteroid "Alderaan fragment 866"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-105.73237749465962	//in km
+	Radius		105.73237749465962	//in km
 	RotationPeriod	17.870196719909057	//in hours
 	Obliquity		262.3262938780746
 
@@ -18250,7 +18250,7 @@ Asteroid "Alderaan fragment 868"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-13.442243923894239	//in km
+	Radius		13.442243923894239	//in km
 	RotationPeriod	16.16793237540069	//in hours
 	Obliquity		268.8813768799258
 
@@ -18271,7 +18271,7 @@ Asteroid "Alderaan fragment 869"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-119.99445357249293	//in km
+	Radius		119.99445357249293	//in km
 	RotationPeriod	8.159913250169994	//in hours
 	Obliquity		167.85406148459072
 
@@ -18355,7 +18355,7 @@ Asteroid "Alderaan fragment 873"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-112.31426724926625	//in km
+	Radius		112.31426724926625	//in km
 	RotationPeriod	12.498994748129638	//in hours
 	Obliquity		288.43242947100265
 
@@ -18376,7 +18376,7 @@ Asteroid "Alderaan fragment 874"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-167.91248314381534	//in km
+	Radius		167.91248314381534	//in km
 	RotationPeriod	8.540022555373614	//in hours
 	Obliquity		219.62721254442252
 
@@ -18418,7 +18418,7 @@ Asteroid "Alderaan fragment 876"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-12.312823230222879	//in km
+	Radius		12.312823230222879	//in km
 	RotationPeriod	7.584457599059639	//in hours
 	Obliquity		96.63081505834812
 
@@ -18439,7 +18439,7 @@ Asteroid "Alderaan fragment 877"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-21.542586519758192	//in km
+	Radius		21.542586519758192	//in km
 	RotationPeriod	13.11065692985905	//in hours
 	Obliquity		165.1621978655689
 
@@ -18481,7 +18481,7 @@ Asteroid "Alderaan fragment 879"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-78.65779598823774	//in km
+	Radius		78.65779598823774	//in km
 	RotationPeriod	12.86420698722851	//in hours
 	Obliquity		213.53023530473874
 
@@ -18523,7 +18523,7 @@ Asteroid "Alderaan fragment 881"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-0.4040585323111925	//in km
+	Radius		0.4040585323111925	//in km
 	RotationPeriod	14.241442862719852	//in hours
 	Obliquity		25.334138325997756
 
@@ -18544,7 +18544,7 @@ Asteroid "Alderaan fragment 882"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-84.82581887156157	//in km
+	Radius		84.82581887156157	//in km
 	RotationPeriod	14.389962969067396	//in hours
 	Obliquity		305.39206142410296
 
@@ -18565,7 +18565,7 @@ Asteroid "Alderaan fragment 883"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-24.123098429530025	//in km
+	Radius		24.123098429530025	//in km
 	RotationPeriod	8.506175721445574	//in hours
 	Obliquity		236.59175057768456
 
@@ -18586,7 +18586,7 @@ Asteroid "Alderaan fragment 884"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-83.19727980598027	//in km
+	Radius		83.19727980598027	//in km
 	RotationPeriod	15.938285989212746	//in hours
 	Obliquity		33.044393625518154
 
@@ -18607,7 +18607,7 @@ Asteroid "Alderaan fragment 885"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-45.704582667919425	//in km
+	Radius		45.704582667919425	//in km
 	RotationPeriod	11.671630964447795	//in hours
 	Obliquity		5.454635074476926
 
@@ -18628,7 +18628,7 @@ Asteroid "Alderaan fragment 886"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-94.37141466084852	//in km
+	Radius		94.37141466084852	//in km
 	RotationPeriod	18.738982887703337	//in hours
 	Obliquity		81.68178380015983
 
@@ -18670,7 +18670,7 @@ Asteroid "Alderaan fragment 888"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-4.975228482916089	//in km
+	Radius		4.975228482916089	//in km
 	RotationPeriod	17.8006453810671	//in hours
 	Obliquity		171.43163834276785
 
@@ -18733,7 +18733,7 @@ Asteroid "Alderaan fragment 891"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-7.25341845268961	//in km
+	Radius		7.25341845268961	//in km
 	RotationPeriod	9.094674662210963	//in hours
 	Obliquity		179.66487733272982
 
@@ -18754,7 +18754,7 @@ Asteroid "Alderaan fragment 892"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-7.893779532593289	//in km
+	Radius		7.893779532593289	//in km
 	RotationPeriod	10.733040787243795	//in hours
 	Obliquity		352.19991072963353
 
@@ -18775,7 +18775,7 @@ Asteroid "Alderaan fragment 893"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-3.744524938290896	//in km
+	Radius		3.744524938290896	//in km
 	RotationPeriod	12.35678872774991	//in hours
 	Obliquity		196.00096804388915
 
@@ -18817,7 +18817,7 @@ Asteroid "Alderaan fragment 895"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-15.410433883726096	//in km
+	Radius		15.410433883726096	//in km
 	RotationPeriod	13.419267649479131	//in hours
 	Obliquity		52.02459576313228
 
@@ -19027,7 +19027,7 @@ Asteroid "Alderaan fragment 905"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-4.345942941917645	//in km
+	Radius		4.345942941917645	//in km
 	RotationPeriod	14.026346922517169	//in hours
 	Obliquity		70.92095856259328
 
@@ -19048,7 +19048,7 @@ Asteroid "Alderaan fragment 906"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-177.75760055112082	//in km
+	Radius		177.75760055112082	//in km
 	RotationPeriod	14.20103049481942	//in hours
 	Obliquity		175.6032991601548
 
@@ -19195,7 +19195,7 @@ Asteroid "Alderaan fragment 913"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-15.704459880793625	//in km
+	Radius		15.704459880793625	//in km
 	RotationPeriod	8.742506411618551	//in hours
 	Obliquity		52.2967298809956
 
@@ -19237,7 +19237,7 @@ Asteroid "Alderaan fragment 915"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-48.044061884878595	//in km
+	Radius		48.044061884878595	//in km
 	RotationPeriod	11.500747995200905	//in hours
 	Obliquity		138.45859008700273
 
@@ -19258,7 +19258,7 @@ Asteroid "Alderaan fragment 916"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-114.06003090882528	//in km
+	Radius		114.06003090882528	//in km
 	RotationPeriod	20.224043185442596	//in hours
 	Obliquity		93.30491842792206
 
@@ -19342,7 +19342,7 @@ Asteroid "Alderaan fragment 920"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-27.10460020964728	//in km
+	Radius		27.10460020964728	//in km
 	RotationPeriod	10.839948159331808	//in hours
 	Obliquity		254.41479017793765
 
@@ -19363,7 +19363,7 @@ Asteroid "Alderaan fragment 921"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-38.49567871751768	//in km
+	Radius		38.49567871751768	//in km
 	RotationPeriod	10.356878551019301	//in hours
 	Obliquity		51.898115425498425
 
@@ -19384,7 +19384,7 @@ Asteroid "Alderaan fragment 922"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-57.60714698664645	//in km
+	Radius		57.60714698664645	//in km
 	RotationPeriod	13.18395607739711	//in hours
 	Obliquity		230.15034074614306
 
@@ -19426,7 +19426,7 @@ Asteroid "Alderaan fragment 924"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-26.910181381323888	//in km
+	Radius		26.910181381323888	//in km
 	RotationPeriod	12.605221356130942	//in hours
 	Obliquity		310.7881514639409
 
@@ -19468,7 +19468,7 @@ Asteroid "Alderaan fragment 926"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-48.62745276979343	//in km
+	Radius		48.62745276979343	//in km
 	RotationPeriod	5.773187697224426	//in hours
 	Obliquity		245.32186073027776
 
@@ -19489,7 +19489,7 @@ Asteroid "Alderaan fragment 927"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-70.35491305252042	//in km
+	Radius		70.35491305252042	//in km
 	RotationPeriod	11.00261036178088	//in hours
 	Obliquity		39.69872160369447
 
@@ -19531,7 +19531,7 @@ Asteroid "Alderaan fragment 929"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-175.66456306105258	//in km
+	Radius		175.66456306105258	//in km
 	RotationPeriod	10.06738842219405	//in hours
 	Obliquity		73.26238482558038
 
@@ -19573,7 +19573,7 @@ Asteroid "Alderaan fragment 931"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-0.49465985863468287	//in km
+	Radius		0.49465985863468287	//in km
 	RotationPeriod	19.828210296989443	//in hours
 	Obliquity		73.99336788126166
 
@@ -19594,7 +19594,7 @@ Asteroid "Alderaan fragment 932"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-65.98451447708338	//in km
+	Radius		65.98451447708338	//in km
 	RotationPeriod	16.127809979128482	//in hours
 	Obliquity		328.4592938690322
 
@@ -19615,7 +19615,7 @@ Asteroid "Alderaan fragment 933"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-14.477763181039013	//in km
+	Radius		14.477763181039013	//in km
 	RotationPeriod	8.79236383300369	//in hours
 	Obliquity		23.79196522874156
 
@@ -19678,7 +19678,7 @@ Asteroid "Alderaan fragment 936"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-17.712088837037406	//in km
+	Radius		17.712088837037406	//in km
 	RotationPeriod	18.327542416476376	//in hours
 	Obliquity		110.75942049831824
 
@@ -19741,7 +19741,7 @@ Asteroid "Alderaan fragment 939"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-1.1729906996113657	//in km
+	Radius		1.1729906996113657	//in km
 	RotationPeriod	10.2733843901384	//in hours
 	Obliquity		242.00616194935276
 
@@ -19762,7 +19762,7 @@ Asteroid "Alderaan fragment 940"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-93.11612982097886	//in km
+	Radius		93.11612982097886	//in km
 	RotationPeriod	10.483032200593845	//in hours
 	Obliquity		42.56253899963422
 
@@ -19846,7 +19846,7 @@ Asteroid "Alderaan fragment 944"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-92.69164156117027	//in km
+	Radius		92.69164156117027	//in km
 	RotationPeriod	7.271376333899932	//in hours
 	Obliquity		92.70394426891438
 
@@ -19867,7 +19867,7 @@ Asteroid "Alderaan fragment 945"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-18.815278118169086	//in km
+	Radius		18.815278118169086	//in km
 	RotationPeriod	11.467675859495438	//in hours
 	Obliquity		61.06583124265732
 
@@ -19909,7 +19909,7 @@ Asteroid "Alderaan fragment 947"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-74.40453222323477	//in km
+	Radius		74.40453222323477	//in km
 	RotationPeriod	12.84422090686937	//in hours
 	Obliquity		2.965814761387837
 
@@ -19993,7 +19993,7 @@ Asteroid "Alderaan fragment 951"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-5.449309864049805	//in km
+	Radius		5.449309864049805	//in km
 	RotationPeriod	17.35749716454832	//in hours
 	Obliquity		54.398609170224205
 
@@ -20035,7 +20035,7 @@ Asteroid "Alderaan fragment 953"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-82.62162686226445	//in km
+	Radius		82.62162686226445	//in km
 	RotationPeriod	10.624324585839645	//in hours
 	Obliquity		285.3623901173752
 
@@ -20119,7 +20119,7 @@ Asteroid "Alderaan fragment 957"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-41.62692566223371	//in km
+	Radius		41.62692566223371	//in km
 	RotationPeriod	11.475416318616952	//in hours
 	Obliquity		174.85383110598605
 
@@ -20140,7 +20140,7 @@ Asteroid "Alderaan fragment 958"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-59.94381682424549	//in km
+	Radius		59.94381682424549	//in km
 	RotationPeriod	11.607302104391852	//in hours
 	Obliquity		252.9270783466506
 
@@ -20161,7 +20161,7 @@ Asteroid "Alderaan fragment 959"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-53.566724303786735	//in km
+	Radius		53.566724303786735	//in km
 	TidalLocked	true
 	Orbit
 	{
@@ -20201,7 +20201,7 @@ Asteroid "Alderaan fragment 961"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-27.905600748487444	//in km
+	Radius		27.905600748487444	//in km
 	RotationPeriod	9.997038933588739	//in hours
 	Obliquity		92.66388694035638
 
@@ -20222,7 +20222,7 @@ Asteroid "Alderaan fragment 962"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-122.59407833596882	//in km
+	Radius		122.59407833596882	//in km
 	RotationPeriod	17.29546973143753	//in hours
 	Obliquity		221.47074772349842
 
@@ -20243,7 +20243,7 @@ Asteroid "Alderaan fragment 963"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-92.60883792630744	//in km
+	Radius		92.60883792630744	//in km
 	RotationPeriod	10.713061879424087	//in hours
 	Obliquity		311.4363830835764
 
@@ -20264,7 +20264,7 @@ Asteroid "Alderaan fragment 964"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-53.30556534486954	//in km
+	Radius		53.30556534486954	//in km
 	RotationPeriod	11.222251607457434	//in hours
 	Obliquity		97.40158674390084
 
@@ -20369,7 +20369,7 @@ Asteroid "Alderaan fragment 969"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-153.57798028908675	//in km
+	Radius		153.57798028908675	//in km
 	RotationPeriod	11.777724365581673	//in hours
 	Obliquity		69.40045974428477
 
@@ -20390,7 +20390,7 @@ Asteroid "Alderaan fragment 970"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-27.14896412590148	//in km
+	Radius		27.14896412590148	//in km
 	RotationPeriod	14.150282698373204	//in hours
 	Obliquity		103.18283634135659
 
@@ -20432,7 +20432,7 @@ Asteroid "Alderaan fragment 972"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-160.2799926486684	//in km
+	Radius		160.2799926486684	//in km
 	RotationPeriod	10.454343995353396	//in hours
 	Obliquity		103.77033958217154
 
@@ -20558,7 +20558,7 @@ Asteroid "Alderaan fragment 978"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-30.912705523676756	//in km
+	Radius		30.912705523676756	//in km
 	RotationPeriod	11.676313174145537	//in hours
 	Obliquity		249.73763109930883
 
@@ -20579,7 +20579,7 @@ Asteroid "Alderaan fragment 979"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-193.66012179819975	//in km
+	Radius		193.66012179819975	//in km
 	RotationPeriod	7.84764794317946	//in hours
 	Obliquity		218.9842845902158
 
@@ -20621,7 +20621,7 @@ Asteroid "Alderaan fragment 981"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-253.2896956162914	//in km
+	Radius		253.2896956162914	//in km
 	RotationPeriod	6.473301405189214	//in hours
 	Obliquity		36.2374562036221
 
@@ -20684,7 +20684,7 @@ Asteroid "Alderaan fragment 984"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-19.60298323989866	//in km
+	Radius		19.60298323989866	//in km
 	RotationPeriod	10.421692572836955	//in hours
 	Obliquity		56.0227623325376
 
@@ -20705,7 +20705,7 @@ Asteroid "Alderaan fragment 985"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-85.73450237900647	//in km
+	Radius		85.73450237900647	//in km
 	RotationPeriod	7.9124153610038706	//in hours
 	Obliquity		210.5470318672693
 
@@ -20894,7 +20894,7 @@ Asteroid "Alderaan fragment 994"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-160.47712930380374	//in km
+	Radius		160.47712930380374	//in km
 	RotationPeriod	14.755536144659132	//in hours
 	Obliquity		6.8300184716045464
 
@@ -20957,7 +20957,7 @@ Asteroid "Alderaan fragment 997"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		-87.28306469671708	//in km
+	Radius		87.28306469671708	//in km
 	RotationPeriod	16.782937721067405	//in hours
 	Obliquity		121.82373707515052
 
