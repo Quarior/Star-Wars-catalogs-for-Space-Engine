@@ -292,12 +292,13 @@ Planet	"Alderaan/Alderaan Planet"
 
 	Orbit
 	{
+		Epoch 0
 		SemiMajorAxis   2.129104
 		//Period          0.998
 		Eccentricity    0.007662492
 		Inclination     127.8381
 		AscendingNode   241.0947
-		ArgOfPericenter 127.5128
+		ArgOfPericenter 0
 		MeanAnomaly     118.5491
 		RefPlane       "Ecliptic"
 	}
@@ -322,6 +323,7 @@ DwarfMoon	"Alderaan I"
 
 	Orbit
 	{
+		Epoch 0
 		SemiMajorAxis   0.002151685
 		//Period          0.004088049
 		Eccentricity    0.01574797
@@ -329,7 +331,7 @@ DwarfMoon	"Alderaan I"
 		AscendingNode   56.27245
 		ArgOfPericenter 281.2602
 		MeanAnomaly     24.96962
-		RefPlane       "Equator"
+		RefPlane       "Ecliptic"
 	}
 }
 
@@ -552,7 +554,7 @@ Moon	"Avirandel I"
 		AscendingNode   307.3703
 		ArgOfPericenter 220.0401
 		MeanAnomaly     80.19204
-		RefPlane       "Equator"
+		RefPlane       "Ecliptic"
 	}
 }
 
