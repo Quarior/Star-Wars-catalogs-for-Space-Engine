@@ -293,12 +293,12 @@ Star "Pesfavri System" // system name
 // Sector : 
 // Grid location : G11
 // X : -6901.12, Y : -2785.07, Z : 148.16788570193444
-Star "Abo/Rakata Prime Syetem/Lehon System/Star Forge System" // Star name / system name
+Star "Abo/Rakata Prime System/Lehon System/Star Forge System" // Star name / system name
 {
     RA         0.08740182597090296
     Dec        24.585457708183924
     Dist       382999851.8948464
-    Class      "M9 V" // random
+    Class      "K9 V"
 }
 
 // http://starwars.wikia.com/wiki/Rentor
