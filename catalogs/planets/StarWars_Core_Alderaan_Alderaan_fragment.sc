@@ -44,25 +44,25 @@ Asteroid "Alderaan I"
 }
 
 // Asteroids made with AsteroidsRingMaker
-// 2018-01-12 16:08:48.886627
+// 2018-01-12 16:47:29.839446
 
 
 Asteroid "Alderaan fragment 1"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.06219572074889	//in km
-	RotationPeriod	13.287327217412745	//in hours
-	Obliquity		302.0858781436786
+	Radius		116.18845820917167	//in km
+	RotationPeriod	16.526401269312572	//in hours
+	Obliquity		32.549122219415636
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6887770397846764	//in AU
-		Eccentricity	0.20783523611605306
+		SemiMajorAxis	2.7448569148118405	//in AU
+		Eccentricity	0.13439313864970803
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2055844784920382
-		ArgOfPericenter	0.3508829592279943
+		AscendingNode	242.00495488781957
+		ArgOfPericenter	-0.2785016100215727
 		RefPlane		"Ecliptic"
 	}
 }
@@ -72,18 +72,18 @@ Asteroid "Alderaan fragment 2"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		42.03281119480235	//in km
-	RotationPeriod	10.016135876211937	//in hours
-	Obliquity		151.11430183935536
+	Radius		197.23520366025502	//in km
+	RotationPeriod	7.739273562085609	//in hours
+	Obliquity		153.2034006909402
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7449147968163357	//in AU
-		Eccentricity	0.16191795044697985
+		SemiMajorAxis	2.8772981770669817	//in AU
+		Eccentricity	0.1716220641719343
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4872547278753494
-		ArgOfPericenter	-0.4206623492042697
+		AscendingNode	242.05297676161464
+		ArgOfPericenter	0.06327384902370281
 		RefPlane		"Ecliptic"
 	}
 }
@@ -93,18 +93,18 @@ Asteroid "Alderaan fragment 3"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		40.240357325411914	//in km
-	RotationPeriod	13.952229638369715	//in hours
-	Obliquity		116.01271418781316
+	Radius		149.52784424326217	//in km
+	RotationPeriod	11.82405810477257	//in hours
+	Obliquity		128.61495735840091
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4897306272868316	//in AU
-		Eccentricity	0.14453276694523298
+		SemiMajorAxis	2.800278620244441	//in AU
+		Eccentricity	0.19956496269460658
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4642027057151592
-		ArgOfPericenter	0.38414917119922065
+		AscendingNode	242.12704708541153
+		ArgOfPericenter	0.238828945627385
 		RefPlane		"Ecliptic"
 	}
 }
@@ -114,18 +114,18 @@ Asteroid "Alderaan fragment 4"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		55.343622461005715	//in km
-	RotationPeriod	11.149174979017017	//in hours
-	Obliquity		255.49320686093327
+	Radius		24.50022127622097	//in km
+	RotationPeriod	13.008135286084325	//in hours
+	Obliquity		249.17007688636176
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6105592419877044	//in AU
-		Eccentricity	0.15858858769012266
+		SemiMajorAxis	2.516887213705782	//in AU
+		Eccentricity	0.12880746078070085
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.06764332925792882
-		ArgOfPericenter	-0.3169648179361899
+		AscendingNode	242.40223839720176
+		ArgOfPericenter	0.2915076526372561
 		RefPlane		"Ecliptic"
 	}
 }
@@ -135,18 +135,18 @@ Asteroid "Alderaan fragment 5"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		43.33693988737263	//in km
-	RotationPeriod	13.429937406380427	//in hours
-	Obliquity		123.01583564760634
+	Radius		64.96388304332427	//in km
+	RotationPeriod	13.579987487389202	//in hours
+	Obliquity		250.1098672199103
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4070325709897635	//in AU
-		Eccentricity	0.1461482664595064
+		SemiMajorAxis	2.3851662152557225	//in AU
+		Eccentricity	0.18303030889947683
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2783755654554686
-		ArgOfPericenter	-0.22372300000220846
+		AscendingNode	241.92986812461996
+		ArgOfPericenter	-0.0034226964554630035
 		RefPlane		"Ecliptic"
 	}
 }
@@ -156,18 +156,18 @@ Asteroid "Alderaan fragment 6"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		12.398273285635195	//in km
-	RotationPeriod	13.98440284368294	//in hours
-	Obliquity		106.0307192486475
+	Radius		153.86079732761084	//in km
+	RotationPeriod	14.706703882055939	//in hours
+	Obliquity		264.8954389967027
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.102584533867384	//in AU
-		Eccentricity	0.13978852966895394
+		SemiMajorAxis	2.368174699385335	//in AU
+		Eccentricity	0.19434543840931284
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.10097817956736643
-		ArgOfPericenter	-0.25887014332318103
+		AscendingNode	242.26133927648087
+		ArgOfPericenter	0.2881459863490624
 		RefPlane		"Ecliptic"
 	}
 }
@@ -177,18 +177,18 @@ Asteroid "Alderaan fragment 7"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.674709500994407	//in km
-	RotationPeriod	6.980810306422872	//in hours
-	Obliquity		173.15728390226926
+	Radius		81.85064337020648	//in km
+	RotationPeriod	10.828356600648007	//in hours
+	Obliquity		21.741739907120916
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7172162045893695	//in AU
-		Eccentricity	0.14867408724713418
+		SemiMajorAxis	2.9165738955395004	//in AU
+		Eccentricity	0.12293786603558876
 		Inclination		131.0	//in degrees
-		AscendingNode	0.24905999361071807
-		ArgOfPericenter	0.232221542349054
+		AscendingNode	242.38001597976486
+		ArgOfPericenter	-0.05392943906304548
 		RefPlane		"Ecliptic"
 	}
 }
@@ -198,18 +198,18 @@ Asteroid "Alderaan fragment 8"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		169.68972939513796	//in km
-	RotationPeriod	19.252062477455773	//in hours
-	Obliquity		1.1645927934966416
+	Radius		177.843347515661	//in km
+	RotationPeriod	10.059576121605751	//in hours
+	Obliquity		265.5903507468377
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.479850579190909	//in AU
-		Eccentricity	0.19675417911437004
+		SemiMajorAxis	2.7696588674111267	//in AU
+		Eccentricity	0.17349051161217197
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.39032390642926496
-		ArgOfPericenter	-0.2173019492754803
+		AscendingNode	242.18951511657875
+		ArgOfPericenter	-0.42561589925892074
 		RefPlane		"Ecliptic"
 	}
 }
@@ -219,18 +219,18 @@ Asteroid "Alderaan fragment 9"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		89.83208745194986	//in km
-	RotationPeriod	13.186769907440109	//in hours
-	Obliquity		329.08201432302275
+	Radius		147.2805092451605	//in km
+	RotationPeriod	13.81586425668771	//in hours
+	Obliquity		34.02712777885887
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2387540682771294	//in AU
-		Eccentricity	0.2059413526583835
+		SemiMajorAxis	2.65669417137715	//in AU
+		Eccentricity	0.18013515969243238
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4659737929460528
-		ArgOfPericenter	0.2582807637446215
+		AscendingNode	241.85288573690556
+		ArgOfPericenter	0.09048590359974629
 		RefPlane		"Ecliptic"
 	}
 }
@@ -240,18 +240,18 @@ Asteroid "Alderaan fragment 10"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		5.180329780149858	//in km
-	RotationPeriod	12.878851015845154	//in hours
-	Obliquity		176.3124450146997
+	Radius		161.54068164246624	//in km
+	RotationPeriod	8.98143593037443	//in hours
+	Obliquity		94.72726755041062
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6201907681569017	//in AU
-		Eccentricity	0.13959935875501817
+		SemiMajorAxis	2.5222368028461304	//in AU
+		Eccentricity	0.1901296491868464
 		Inclination		131.0	//in degrees
-		AscendingNode	0.47536396379537627
-		ArgOfPericenter	-0.37489650557145027
+		AscendingNode	242.1324388106143
+		ArgOfPericenter	0.3684671850627037
 		RefPlane		"Ecliptic"
 	}
 }
@@ -261,18 +261,18 @@ Asteroid "Alderaan fragment 11"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		50.38690518551411	//in km
-	RotationPeriod	17.6718240174512	//in hours
-	Obliquity		147.00084839508767
+	Radius		149.6417302867877	//in km
+	RotationPeriod	7.433008752523851	//in hours
+	Obliquity		103.56929229967004
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.9802816117146864	//in AU
-		Eccentricity	0.19755434173720154
+		SemiMajorAxis	2.3967848828692455	//in AU
+		Eccentricity	0.13766316861741615
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2953907350039592
-		ArgOfPericenter	0.1407571981622875
+		AscendingNode	241.60688304879517
+		ArgOfPericenter	-0.013931384016866666
 		RefPlane		"Ecliptic"
 	}
 }
@@ -282,18 +282,18 @@ Asteroid "Alderaan fragment 12"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		67.68558601099744	//in km
-	RotationPeriod	14.317879605584913	//in hours
-	Obliquity		209.91085214402545
+	Radius		204.2481574362133	//in km
+	RotationPeriod	12.228079473581428	//in hours
+	Obliquity		317.8050614905127
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.596732565033676	//in AU
-		Eccentricity	0.1411308797243549
+		SemiMajorAxis	2.6459689152289947	//in AU
+		Eccentricity	0.17246370203634726
 		Inclination		131.0	//in degrees
-		AscendingNode	0.16441748447230564
-		ArgOfPericenter	-0.457089709586203
+		AscendingNode	241.62658499366813
+		ArgOfPericenter	0.4227271657258945
 		RefPlane		"Ecliptic"
 	}
 }
@@ -303,18 +303,18 @@ Asteroid "Alderaan fragment 13"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		110.00944363778004	//in km
-	RotationPeriod	8.62959066553283	//in hours
-	Obliquity		284.7706840539024
+	Radius		175.02635215218712	//in km
+	RotationPeriod	9.996880482290416	//in hours
+	Obliquity		80.26728431415752
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8659813573808135	//in AU
-		Eccentricity	0.15582619293225702
+		SemiMajorAxis	1.8461828757045478	//in AU
+		Eccentricity	0.17132380970384378
 		Inclination		131.0	//in degrees
-		AscendingNode	0.046585662140632755
-		ArgOfPericenter	-0.1774621821602964
+		AscendingNode	241.6559910539167
+		ArgOfPericenter	0.35159273259659074
 		RefPlane		"Ecliptic"
 	}
 }
@@ -324,18 +324,18 @@ Asteroid "Alderaan fragment 14"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		85.03166525672786	//in km
-	RotationPeriod	5.725603954211457	//in hours
-	Obliquity		308.30805441894813
+	Radius		118.89344473962441	//in km
+	RotationPeriod	14.125384301976815	//in hours
+	Obliquity		347.9778081156879
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.894766204539213	//in AU
-		Eccentricity	0.14433171125157648
+		SemiMajorAxis	2.447497381453842	//in AU
+		Eccentricity	0.1745000483820272
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.29576201528995394
-		ArgOfPericenter	0.4068003367008035
+		AscendingNode	241.71254485238762
+		ArgOfPericenter	0.08230786530717493
 		RefPlane		"Ecliptic"
 	}
 }
@@ -345,18 +345,18 @@ Asteroid "Alderaan fragment 15"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		9.935115958475581	//in km
-	RotationPeriod	15.385780117590029	//in hours
-	Obliquity		11.119122805059982
+	Radius		187.1734726614908	//in km
+	RotationPeriod	16.90086000180439	//in hours
+	Obliquity		198.8644808333305
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5301896288582544	//in AU
-		Eccentricity	0.2028288293247204
+		SemiMajorAxis	2.689807143627878	//in AU
+		Eccentricity	0.2106012089017016
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1980147688016355
-		ArgOfPericenter	0.29056146526351334
+		AscendingNode	242.08315557248713
+		ArgOfPericenter	-0.4919627304896912
 		RefPlane		"Ecliptic"
 	}
 }
@@ -366,18 +366,18 @@ Asteroid "Alderaan fragment 16"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		264.9675467268913	//in km
-	RotationPeriod	17.31862675850988	//in hours
-	Obliquity		270.3499159931294
+	Radius		191.32219708386262	//in km
+	RotationPeriod	17.256317015405685	//in hours
+	Obliquity		28.88718820041261
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.577319737673375	//in AU
-		Eccentricity	0.14648432450533272
+		SemiMajorAxis	2.8409225802812497	//in AU
+		Eccentricity	0.1802570867503435
 		Inclination		131.0	//in degrees
-		AscendingNode	0.23617910247873197
-		ArgOfPericenter	-0.12004839690135527
+		AscendingNode	241.57870454254694
+		ArgOfPericenter	0.44370546407931444
 		RefPlane		"Ecliptic"
 	}
 }
@@ -387,18 +387,18 @@ Asteroid "Alderaan fragment 17"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		90.29516330699185	//in km
-	RotationPeriod	11.202934064046602	//in hours
-	Obliquity		209.725367176026
+	Radius		163.06548128624186	//in km
+	RotationPeriod	5.048219137343941	//in hours
+	Obliquity		196.51081833373914
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3260803492720785	//in AU
-		Eccentricity	0.1685309425383038
+		SemiMajorAxis	2.7562516267649815	//in AU
+		Eccentricity	0.1794404122560151
 		Inclination		131.0	//in degrees
-		AscendingNode	0.39935546939838107
-		ArgOfPericenter	-0.0017849791051670616
+		AscendingNode	241.7885975928473
+		ArgOfPericenter	-0.4238639198948937
 		RefPlane		"Ecliptic"
 	}
 }
@@ -408,18 +408,18 @@ Asteroid "Alderaan fragment 18"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		178.80242519439184	//in km
-	RotationPeriod	17.019150410270562	//in hours
-	Obliquity		84.16241028091369
+	Radius		111.34311865855676	//in km
+	RotationPeriod	8.142746492650108	//in hours
+	Obliquity		147.33550706997173
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2676300260160978	//in AU
-		Eccentricity	0.14853921555257424
+		SemiMajorAxis	2.405745874226486	//in AU
+		Eccentricity	0.15969449945262168
 		Inclination		131.0	//in degrees
-		AscendingNode	0.37124141831847235
-		ArgOfPericenter	0.09411366202971272
+		AscendingNode	242.2297769022756
+		ArgOfPericenter	-0.12426877815552029
 		RefPlane		"Ecliptic"
 	}
 }
@@ -429,18 +429,18 @@ Asteroid "Alderaan fragment 19"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		186.30829581289865	//in km
-	RotationPeriod	19.969387773620628	//in hours
-	Obliquity		284.58742838336565
+	Radius		152.3958149465938	//in km
+	RotationPeriod	16.989027997692727	//in hours
+	Obliquity		67.61238865426122
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.809305202579355	//in AU
-		Eccentricity	0.17682971919237309
+		SemiMajorAxis	2.8908568214889807	//in AU
+		Eccentricity	0.16513632145531787
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2768878770958334
-		ArgOfPericenter	-0.38487489436280775
+		AscendingNode	242.26575000207313
+		ArgOfPericenter	-0.18871917603966093
 		RefPlane		"Ecliptic"
 	}
 }
@@ -450,18 +450,18 @@ Asteroid "Alderaan fragment 20"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		59.36894015464565	//in km
-	RotationPeriod	16.599562249640638	//in hours
-	Obliquity		349.84394283205006
+	Radius		136.5085904315077	//in km
+	RotationPeriod	13.611064007049787	//in hours
+	Obliquity		206.93179235972508
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4053260120677877	//in AU
-		Eccentricity	0.144808031756198
+		SemiMajorAxis	2.691257740045777	//in AU
+		Eccentricity	0.165468904688975
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.47357810513370224
-		ArgOfPericenter	-0.4020275408777879
+		AscendingNode	241.80576595636128
+		ArgOfPericenter	-0.27837106416486035
 		RefPlane		"Ecliptic"
 	}
 }
@@ -471,18 +471,18 @@ Asteroid "Alderaan fragment 21"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		81.85359636310454	//in km
-	RotationPeriod	20.28144268777466	//in hours
-	Obliquity		307.4580439384147
+	Radius		159.34432836097182	//in km
+	RotationPeriod	14.607271964750591	//in hours
+	Obliquity		210.89813464887447
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2185084496840024	//in AU
-		Eccentricity	0.16626894502105294
+		SemiMajorAxis	3.0061648810145765	//in AU
+		Eccentricity	0.17917622886417886
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.27328645873941015
-		ArgOfPericenter	-0.3138978947567662
+		AscendingNode	242.42674376249
+		ArgOfPericenter	-0.32398427231046745
 		RefPlane		"Ecliptic"
 	}
 }
@@ -492,18 +492,18 @@ Asteroid "Alderaan fragment 22"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		25.322342617658723	//in km
-	RotationPeriod	12.484341045254896	//in hours
-	Obliquity		346.1949067377144
+	Radius		236.76486619564818	//in km
+	RotationPeriod	12.371236892658038	//in hours
+	Obliquity		224.72844950925995
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.496301402375573	//in AU
-		Eccentricity	0.1856436036660421
+		SemiMajorAxis	2.503395325770044	//in AU
+		Eccentricity	0.16877668810831603
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.0806081889765774
-		ArgOfPericenter	-0.4362351750300806
+		AscendingNode	241.76672418797094
+		ArgOfPericenter	0.2849612730937383
 		RefPlane		"Ecliptic"
 	}
 }
@@ -513,18 +513,18 @@ Asteroid "Alderaan fragment 23"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		58.290604719072675	//in km
-	RotationPeriod	11.39697433129766	//in hours
-	Obliquity		196.2776330772971
+	Radius		148.56917319110542	//in km
+	RotationPeriod	13.26291723890578	//in hours
+	Obliquity		274.04216494049865
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.862749608970088	//in AU
-		Eccentricity	0.1825774404525598
+		SemiMajorAxis	2.5691573232398617	//in AU
+		Eccentricity	0.14067944154525708
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4733273512840688
-		ArgOfPericenter	-0.06015677459929891
+		AscendingNode	241.91905702549053
+		ArgOfPericenter	-0.22319666072048916
 		RefPlane		"Ecliptic"
 	}
 }
@@ -534,18 +534,18 @@ Asteroid "Alderaan fragment 24"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.697072091865715	//in km
-	RotationPeriod	23.952	//in hours
-	Obliquity		324.50867793970406
+	Radius		87.53012697724881	//in km
+	RotationPeriod	18.590232485855303	//in hours
+	Obliquity		18.8146368481604
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4771790818259456	//in AU
-		Eccentricity	0.1751779887116364
+		SemiMajorAxis	2.6906928080881127	//in AU
+		Eccentricity	0.1482252480548357
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1400054723050903
-		ArgOfPericenter	-0.21020496766024555
+		AscendingNode	241.73327412571
+		ArgOfPericenter	-0.49713700946408057
 		RefPlane		"Ecliptic"
 	}
 }
@@ -555,18 +555,18 @@ Asteroid "Alderaan fragment 25"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		130.61636298670967	//in km
-	RotationPeriod	5.022674622653472	//in hours
-	Obliquity		192.01538299738675
+	Radius		153.84209228143573	//in km
+	RotationPeriod	14.125600367090781	//in hours
+	Obliquity		295.1054067218862
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.004635318130032	//in AU
-		Eccentricity	0.14379631173677557
+		SemiMajorAxis	2.9643477985246243	//in AU
+		Eccentricity	0.17060883872582708
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.384932618166722
-		ArgOfPericenter	0.030845872349942738
+		AscendingNode	242.2406494908932
+		ArgOfPericenter	0.1463166649869827
 		RefPlane		"Ecliptic"
 	}
 }
@@ -576,18 +576,18 @@ Asteroid "Alderaan fragment 26"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		105.92847784065196	//in km
-	RotationPeriod	11.946033926886136	//in hours
-	Obliquity		257.44970965069007
+	Radius		266.4987202030302	//in km
+	RotationPeriod	23.952	//in hours
+	Obliquity		227.97336210320535
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1294522709794927	//in AU
-		Eccentricity	0.1697761454765142
+		SemiMajorAxis	2.5714806888224846	//in AU
+		Eccentricity	0.1826804288420375
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.08673261067965043
-		ArgOfPericenter	0.43214014409250645
+		AscendingNode	241.6515313936337
+		ArgOfPericenter	-0.18811761240164215
 		RefPlane		"Ecliptic"
 	}
 }
@@ -597,18 +597,18 @@ Asteroid "Alderaan fragment 27"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		45.81818827611948	//in km
-	RotationPeriod	18.82580379320563	//in hours
-	Obliquity		34.44657544971021
+	Radius		184.0290884529286	//in km
+	RotationPeriod	7.437004000331995	//in hours
+	Obliquity		12.64279480925266
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.8786764096762045	//in AU
-		Eccentricity	0.15553558596311592
+		SemiMajorAxis	2.350010934779902	//in AU
+		Eccentricity	0.17684602703953056
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2962712741213043
-		ArgOfPericenter	-0.19132285313783093
+		AscendingNode	241.9658945315152
+		ArgOfPericenter	0.048654787404752486
 		RefPlane		"Ecliptic"
 	}
 }
@@ -618,18 +618,18 @@ Asteroid "Alderaan fragment 28"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		218.37287444920827	//in km
-	RotationPeriod	9.243642304302984	//in hours
-	Obliquity		336.9787375065426
+	Radius		155.59686516229579	//in km
+	RotationPeriod	9.930545236111637	//in hours
+	Obliquity		263.2452588490836
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4433589458432587	//in AU
-		Eccentricity	0.2134356607550936
+		SemiMajorAxis	2.6565379344554114	//in AU
+		Eccentricity	0.18821851674372794
 		Inclination		131.0	//in degrees
-		AscendingNode	0.29021342599803135
-		ArgOfPericenter	-0.23398082661539688
+		AscendingNode	242.07120804523754
+		ArgOfPericenter	-0.19331699408020075
 		RefPlane		"Ecliptic"
 	}
 }
@@ -639,18 +639,18 @@ Asteroid "Alderaan fragment 29"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		98.58390619400477	//in km
-	RotationPeriod	10.930694034318464	//in hours
-	Obliquity		250.39247765915619
+	Radius		220.1337424256222	//in km
+	RotationPeriod	16.06432226114781	//in hours
+	Obliquity		128.48835485857998
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0026172485579568	//in AU
-		Eccentricity	0.18570073889020977
+		SemiMajorAxis	2.538650900781706	//in AU
+		Eccentricity	0.21063329048949342
 		Inclination		131.0	//in degrees
-		AscendingNode	0.35849767678361955
-		ArgOfPericenter	0.3323582861294673
+		AscendingNode	242.03368715007923
+		ArgOfPericenter	0.022662626605235436
 		RefPlane		"Ecliptic"
 	}
 }
@@ -660,18 +660,18 @@ Asteroid "Alderaan fragment 30"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.7570057242569694	//in km
-	RotationPeriod	18.177246063634104	//in hours
-	Obliquity		236.18909697448768
+	Radius		124.84166133667046	//in km
+	RotationPeriod	15.28121828699762	//in hours
+	Obliquity		4.013193513925835
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.757430650303561	//in AU
-		Eccentricity	0.16156997156559216
+		SemiMajorAxis	2.996877366518493	//in AU
+		Eccentricity	0.14722600674564396
 		Inclination		131.0	//in degrees
-		AscendingNode	0.19568380503577865
-		ArgOfPericenter	0.46295084234501827
+		AscendingNode	242.0996360292288
+		ArgOfPericenter	-0.408594591908378
 		RefPlane		"Ecliptic"
 	}
 }
@@ -681,18 +681,18 @@ Asteroid "Alderaan fragment 31"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.535782855614585	//in km
-	RotationPeriod	9.941331861995135	//in hours
-	Obliquity		308.3518855507249
+	Radius		115.42570986809372	//in km
+	RotationPeriod	14.033178846160428	//in hours
+	Obliquity		298.74685257040426
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5603535684611933	//in AU
-		Eccentricity	0.17582382895998078
+		SemiMajorAxis	2.3388631154541693	//in AU
+		Eccentricity	0.1866563667247682
 		Inclination		131.0	//in degrees
-		AscendingNode	0.37018227979118934
-		ArgOfPericenter	-0.31559834780084417
+		AscendingNode	242.48360735867112
+		ArgOfPericenter	-0.09690482703043302
 		RefPlane		"Ecliptic"
 	}
 }
@@ -702,18 +702,18 @@ Asteroid "Alderaan fragment 32"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		82.80249477964463	//in km
-	RotationPeriod	12.763745268721953	//in hours
-	Obliquity		95.83939930148811
+	Radius		254.9825028597198	//in km
+	RotationPeriod	6.41407360985304	//in hours
+	Obliquity		348.48604452249
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.203951542832473	//in AU
-		Eccentricity	0.15192437912116868
+		SemiMajorAxis	2.4347375924499834	//in AU
+		Eccentricity	0.1726693492421847
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.08014960223569856
-		ArgOfPericenter	0.21597694102907317
+		AscendingNode	242.24420168071512
+		ArgOfPericenter	0.1909169999431396
 		RefPlane		"Ecliptic"
 	}
 }
@@ -723,18 +723,18 @@ Asteroid "Alderaan fragment 33"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		31.02521245094875	//in km
-	RotationPeriod	20.273048702341097	//in hours
-	Obliquity		134.52547403845057
+	Radius		162.12782947885978	//in km
+	RotationPeriod	12.684731667370365	//in hours
+	Obliquity		193.62734708428937
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.418540960596022	//in AU
-		Eccentricity	0.14482488297973617
+		SemiMajorAxis	2.104534371801136	//in AU
+		Eccentricity	0.13768518453900874
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.05117949149442658
-		ArgOfPericenter	-0.19111835704503244
+		AscendingNode	242.4304844721145
+		ArgOfPericenter	0.15643999127867247
 		RefPlane		"Ecliptic"
 	}
 }
@@ -744,18 +744,18 @@ Asteroid "Alderaan fragment 34"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		61.747461729507464	//in km
-	RotationPeriod	9.091147434005201	//in hours
-	Obliquity		141.72594853820638
+	Radius		48.86274688353541	//in km
+	RotationPeriod	9.901083968810099	//in hours
+	Obliquity		157.6181772321306
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0299441493349466	//in AU
-		Eccentricity	0.16192763925091078
+		SemiMajorAxis	2.4756534392350984	//in AU
+		Eccentricity	0.18415345376208714
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.020337000812109873
-		ArgOfPericenter	0.1781386617329911
+		AscendingNode	242.49417298908963
+		ArgOfPericenter	-0.42735033031559244
 		RefPlane		"Ecliptic"
 	}
 }
@@ -765,18 +765,18 @@ Asteroid "Alderaan fragment 35"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		37.81780688951436	//in km
-	RotationPeriod	16.43716732838931	//in hours
-	Obliquity		86.77529839582607
+	Radius		144.33082557692222	//in km
+	RotationPeriod	7.427456313066569	//in hours
+	Obliquity		354.88413653654555
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3326441401128237	//in AU
-		Eccentricity	0.17741438505377494
+		SemiMajorAxis	2.8833674797405924	//in AU
+		Eccentricity	0.18497061965068382
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.09093298664780325
-		ArgOfPericenter	0.4290001343588148
+		AscendingNode	242.12733729726762
+		ArgOfPericenter	0.2071611559440104
 		RefPlane		"Ecliptic"
 	}
 }
@@ -786,18 +786,18 @@ Asteroid "Alderaan fragment 36"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.90383920515874	//in km
-	RotationPeriod	9.030883154665688	//in hours
-	Obliquity		96.712447180493
+	Radius		168.6394384857909	//in km
+	RotationPeriod	12.17021645876193	//in hours
+	Obliquity		85.87618966853216
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.548410741510463	//in AU
-		Eccentricity	0.15214535584282715
+		SemiMajorAxis	2.9441795839150107	//in AU
+		Eccentricity	0.1
 		Inclination		131.0	//in degrees
-		AscendingNode	0.11221970471520781
-		ArgOfPericenter	-0.465538606803824
+		AscendingNode	242.46674908759934
+		ArgOfPericenter	-0.45878248907047436
 		RefPlane		"Ecliptic"
 	}
 }
@@ -807,18 +807,18 @@ Asteroid "Alderaan fragment 37"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		88.82153409393796	//in km
-	RotationPeriod	9.340833188446878	//in hours
-	Obliquity		274.584221501087
+	Radius		91.7163498186438	//in km
+	RotationPeriod	17.199209637662573	//in hours
+	Obliquity		199.55793611492584
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.952113200422263	//in AU
-		Eccentricity	0.14679664079405103
+		SemiMajorAxis	3.1140060023605365	//in AU
+		Eccentricity	0.21454048683274246
 		Inclination		131.0	//in degrees
-		AscendingNode	0.257748983541249
-		ArgOfPericenter	-0.1500658058633928
+		AscendingNode	241.83344191096944
+		ArgOfPericenter	0.19805867207720307
 		RefPlane		"Ecliptic"
 	}
 }
@@ -828,18 +828,18 @@ Asteroid "Alderaan fragment 38"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		50.72642409962462	//in km
-	RotationPeriod	15.613173326668555	//in hours
-	Obliquity		73.78961851333247
+	Radius		153.66944060931024	//in km
+	RotationPeriod	14.768292815910835	//in hours
+	Obliquity		355.9539968172697
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6519782368133975	//in AU
-		Eccentricity	0.1606265244838086
+		SemiMajorAxis	3.3451374002237633	//in AU
+		Eccentricity	0.18033032878271307
 		Inclination		131.0	//in degrees
-		AscendingNode	0.24961990095155984
-		ArgOfPericenter	0.2568040229296287
+		AscendingNode	241.59648755026595
+		ArgOfPericenter	-0.28312252247495073
 		RefPlane		"Ecliptic"
 	}
 }
@@ -849,18 +849,18 @@ Asteroid "Alderaan fragment 39"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		130.5161239549733	//in km
-	RotationPeriod	14.711475641175303	//in hours
-	Obliquity		329.71459915511304
+	Radius		116.50196908600563	//in km
+	RotationPeriod	14.03513986883807	//in hours
+	Obliquity		285.7765137378192
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6285208597471574	//in AU
-		Eccentricity	0.19162096032803627
+		SemiMajorAxis	2.4975293287397142	//in AU
+		Eccentricity	0.167744376891446
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3247367562599045
-		ArgOfPericenter	0.09790468630304194
+		AscendingNode	242.04454730496
+		ArgOfPericenter	0.23646163785399998
 		RefPlane		"Ecliptic"
 	}
 }
@@ -870,18 +870,18 @@ Asteroid "Alderaan fragment 40"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		6.521438053926939	//in km
-	RotationPeriod	16.071588426360485	//in hours
-	Obliquity		23.50830943164116
+	Radius		264.1438836829871	//in km
+	RotationPeriod	3.1744281023271803	//in hours
+	Obliquity		175.29966710273604
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.840224403051524	//in AU
-		Eccentricity	0.15292273516316035
+		SemiMajorAxis	2.8418288188566967	//in AU
+		Eccentricity	0.16388901387880422
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3764043321687407
-		ArgOfPericenter	-0.21374695479085837
+		AscendingNode	241.79383229507383
+		ArgOfPericenter	0.25857582683942526
 		RefPlane		"Ecliptic"
 	}
 }
@@ -891,18 +891,18 @@ Asteroid "Alderaan fragment 41"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		93.12106169730369	//in km
-	RotationPeriod	19.061251400045716	//in hours
-	Obliquity		319.5313018962928
+	Radius		79.7515636501051	//in km
+	RotationPeriod	13.999822460941484	//in hours
+	Obliquity		237.61924210771454
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3520631400310177	//in AU
-		Eccentricity	0.14980615976864822
+		SemiMajorAxis	2.825770960574516	//in AU
+		Eccentricity	0.18798766207668013
 		Inclination		131.0	//in degrees
-		AscendingNode	0.11753614269290369
-		ArgOfPericenter	0.45175444015268995
+		AscendingNode	241.7099202169816
+		ArgOfPericenter	-0.042531728514614175
 		RefPlane		"Ecliptic"
 	}
 }
@@ -912,18 +912,18 @@ Asteroid "Alderaan fragment 42"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		132.62278810584272	//in km
-	RotationPeriod	11.238617050059498	//in hours
-	Obliquity		139.15404924343596
+	Radius		265.7758747337136	//in km
+	RotationPeriod	17.096737500375593	//in hours
+	Obliquity		155.9062146057231
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2094749147698174	//in AU
-		Eccentricity	0.19671349286394718
+		SemiMajorAxis	2.528520412457193	//in AU
+		Eccentricity	0.14532385822932714
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4495784923921915
-		ArgOfPericenter	0.027702699582983437
+		AscendingNode	241.9756270442494
+		ArgOfPericenter	0.06960217914228961
 		RefPlane		"Ecliptic"
 	}
 }
@@ -933,18 +933,18 @@ Asteroid "Alderaan fragment 43"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		54.90711032989428	//in km
-	RotationPeriod	11.233705436586947	//in hours
-	Obliquity		309.43188819526176
+	Radius		126.10887570363369	//in km
+	RotationPeriod	17.026709151492206	//in hours
+	Obliquity		202.08394977974217
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7931189069740974	//in AU
-		Eccentricity	0.11612320281544886
+		SemiMajorAxis	2.8697181172648505	//in AU
+		Eccentricity	0.18748620788876863
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1518847992282153
-		ArgOfPericenter	0.2825445332913846
+		AscendingNode	241.86888347607032
+		ArgOfPericenter	-0.03613443134431238
 		RefPlane		"Ecliptic"
 	}
 }
@@ -954,18 +954,18 @@ Asteroid "Alderaan fragment 44"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		44.35358909774174	//in km
-	RotationPeriod	11.42251360844794	//in hours
-	Obliquity		254.82662973539811
+	Radius		95.22925623105247	//in km
+	RotationPeriod	10.15094255627669	//in hours
+	Obliquity		112.37715456238253
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4197797959710847	//in AU
-		Eccentricity	0.1301641166762626
+		SemiMajorAxis	2.8378287132342828	//in AU
+		Eccentricity	0.13276801782702485
 		Inclination		131.0	//in degrees
-		AscendingNode	0.042712053099656644
-		ArgOfPericenter	0.03563378633084202
+		AscendingNode	241.86308080342852
+		ArgOfPericenter	-0.03455481403929017
 		RefPlane		"Ecliptic"
 	}
 }
@@ -975,18 +975,18 @@ Asteroid "Alderaan fragment 45"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.032514232107488	//in km
-	RotationPeriod	16.839105799379666	//in hours
-	Obliquity		290.8087730422013
+	Radius		117.03966507362398	//in km
+	RotationPeriod	12.057123253041352	//in hours
+	Obliquity		275.221306439255
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6056122121287366	//in AU
-		Eccentricity	0.1696212785915861
+		SemiMajorAxis	2.205069123535626	//in AU
+		Eccentricity	0.14812384812877816
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.03898051963797
-		ArgOfPericenter	0.15587994638624025
+		AscendingNode	241.79434235005482
+		ArgOfPericenter	0.3524898456060117
 		RefPlane		"Ecliptic"
 	}
 }
@@ -996,18 +996,18 @@ Asteroid "Alderaan fragment 46"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		81.98073176525439	//in km
-	RotationPeriod	12.960481732827738	//in hours
-	Obliquity		0.8993415937202442
+	Radius		228.94216430441418	//in km
+	RotationPeriod	18.162441223514797	//in hours
+	Obliquity		43.069019709485744
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0563849898715185	//in AU
-		Eccentricity	0.169257356827464
+		SemiMajorAxis	2.6327381656402413	//in AU
+		Eccentricity	0.21071310888898842
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4711456451133258
-		ArgOfPericenter	0.1203202224777794
+		AscendingNode	242.48413541413285
+		ArgOfPericenter	0.06009883231707225
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1017,18 +1017,18 @@ Asteroid "Alderaan fragment 47"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		253.13740427851945	//in km
-	RotationPeriod	12.94078848752992	//in hours
-	Obliquity		201.56032059352384
+	Radius		227.35039712285777	//in km
+	RotationPeriod	11.637787483381548	//in hours
+	Obliquity		312.81066221822044
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5620440118575796	//in AU
-		Eccentricity	0.19010823813266672
+		SemiMajorAxis	2.730343091626746	//in AU
+		Eccentricity	0.14856765905680652
 		Inclination		131.0	//in degrees
-		AscendingNode	0.41752761508910896
-		ArgOfPericenter	-0.2692184540370882
+		AscendingNode	241.66639242955665
+		ArgOfPericenter	0.2616573318986568
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1038,18 +1038,18 @@ Asteroid "Alderaan fragment 48"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		101.66819430379394	//in km
-	RotationPeriod	15.040254417161428	//in hours
-	Obliquity		111.56189818306221
+	Radius		134.7526846369486	//in km
+	RotationPeriod	10.735742857078312	//in hours
+	Obliquity		190.55849079688502
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6800805721204526	//in AU
-		Eccentricity	0.16089845090019528
+		SemiMajorAxis	2.401148947837287	//in AU
+		Eccentricity	0.15779006297402895
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.27843961952301355
-		ArgOfPericenter	-0.4302624426563928
+		AscendingNode	242.2401614071827
+		ArgOfPericenter	-0.16611291994141797
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1059,18 +1059,18 @@ Asteroid "Alderaan fragment 49"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		104.1153194660494	//in km
-	RotationPeriod	12.047993072299075	//in hours
-	Obliquity		4.952094901885937
+	Radius		121.8852144128555	//in km
+	RotationPeriod	10.709564297723789	//in hours
+	Obliquity		184.13134686438113
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.863840721227056	//in AU
-		Eccentricity	0.12921915190506017
+		SemiMajorAxis	2.3619565862497858	//in AU
+		Eccentricity	0.1733069305137082
 		Inclination		131.0	//in degrees
-		AscendingNode	0.149006128385204
-		ArgOfPericenter	0.04379655882105227
+		AscendingNode	241.90543908818583
+		ArgOfPericenter	-0.3619172124503487
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1080,18 +1080,18 @@ Asteroid "Alderaan fragment 50"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		196.96880460138956	//in km
-	RotationPeriod	11.736023180595112	//in hours
-	Obliquity		147.58963434451914
+	Radius		147.8000094537603	//in km
+	RotationPeriod	7.6970392614384915	//in hours
+	Obliquity		306.9459809837833
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.802011818606718	//in AU
-		Eccentricity	0.16841938045443566
+		SemiMajorAxis	2.246543282442883	//in AU
+		Eccentricity	0.1729707163089599
 		Inclination		131.0	//in degrees
-		AscendingNode	0.03088213318150035
-		ArgOfPericenter	-0.11729131744304266
+		AscendingNode	242.32910835046235
+		ArgOfPericenter	0.2056644748508245
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1101,18 +1101,18 @@ Asteroid "Alderaan fragment 51"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		69.75285083507538	//in km
-	RotationPeriod	12.11184556127914	//in hours
-	Obliquity		100.06568869108646
+	Radius		185.46273821546197	//in km
+	RotationPeriod	9.202381490288577	//in hours
+	Obliquity		268.91233810791016
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6622980675044547	//in AU
-		Eccentricity	0.1662379962787512
+		SemiMajorAxis	1.878540381487786	//in AU
+		Eccentricity	0.17218251232168474
 		Inclination		131.0	//in degrees
-		AscendingNode	0.34884366770082165
-		ArgOfPericenter	0.42306827463090013
+		AscendingNode	242.25671268042913
+		ArgOfPericenter	-0.3442814358923584
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1122,18 +1122,18 @@ Asteroid "Alderaan fragment 52"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		25.245485509228487	//in km
-	RotationPeriod	16.08304251272832	//in hours
-	Obliquity		219.15772828879673
+	Radius		141.91293401819541	//in km
+	RotationPeriod	13.308226761390538	//in hours
+	Obliquity		16.88767933866568
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6983613154773614	//in AU
-		Eccentricity	0.1787347614480136
+		SemiMajorAxis	2.53401561269553	//in AU
+		Eccentricity	0.1708486899310851
 		Inclination		131.0	//in degrees
-		AscendingNode	0.03143703219143701
-		ArgOfPericenter	0.41859312635158563
+		AscendingNode	242.40194461000186
+		ArgOfPericenter	-0.17061185895550557
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1143,18 +1143,18 @@ Asteroid "Alderaan fragment 53"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		50.94480316394823	//in km
-	RotationPeriod	6.82033690331041	//in hours
-	Obliquity		166.6307303672685
+	Radius		131.39534621001516	//in km
+	RotationPeriod	17.130562937614478	//in hours
+	Obliquity		61.795292415379066
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.16846619609772	//in AU
-		Eccentricity	0.18120484305859294
+		SemiMajorAxis	2.8751429007123743	//in AU
+		Eccentricity	0.1458200090699076
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.11673868306241353
-		ArgOfPericenter	0.3837902866821774
+		AscendingNode	242.3282695653988
+		ArgOfPericenter	-0.11585114474270597
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1164,18 +1164,16 @@ Asteroid "Alderaan fragment 54"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		58.976593126476	//in km
-	RotationPeriod	15.288267372215675	//in hours
-	Obliquity		47.8860841365124
-
+	Radius		66.50830737042959	//in km
+	TidalLocked	true
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5850191804784934	//in AU
-		Eccentricity	0.12462120165970675
+		SemiMajorAxis	2.632733137912088	//in AU
+		Eccentricity	0.172222209500267
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2707206349552381
-		ArgOfPericenter	0.13274521145026497
+		AscendingNode	242.3929516580994
+		ArgOfPericenter	-0.08268072628961065
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1185,18 +1183,18 @@ Asteroid "Alderaan fragment 55"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		22.233312938853384	//in km
-	RotationPeriod	10.358216971678045	//in hours
-	Obliquity		39.154511922608336
+	Radius		212.4400234623555	//in km
+	RotationPeriod	11.71700664110527	//in hours
+	Obliquity		146.67912627590084
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.991209973723283	//in AU
-		Eccentricity	0.15385747486694154
+		SemiMajorAxis	2.5343016032895402	//in AU
+		Eccentricity	0.18523660919021354
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4435618597067146
-		ArgOfPericenter	-0.4847967272609278
+		AscendingNode	241.92126708672416
+		ArgOfPericenter	-0.1716762496780403
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1206,18 +1204,18 @@ Asteroid "Alderaan fragment 56"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		291.17541076704146	//in km
-	RotationPeriod	13.051068796430203	//in hours
-	Obliquity		11.942783595048546
+	Radius		177.28986866898526	//in km
+	RotationPeriod	6.436003976858915	//in hours
+	Obliquity		310.06455999458944
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7165548168730393	//in AU
-		Eccentricity	0.20385321035649367
+		SemiMajorAxis	2.7524124470226115	//in AU
+		Eccentricity	0.15518588869017808
 		Inclination		131.0	//in degrees
-		AscendingNode	0.23851841640851135
-		ArgOfPericenter	0.24839938085822155
+		AscendingNode	241.78063230464005
+		ArgOfPericenter	-0.006405567677125967
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1227,18 +1225,18 @@ Asteroid "Alderaan fragment 57"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		187.7124191438564	//in km
-	RotationPeriod	4.800483214793512	//in hours
-	Obliquity		341.53779107115395
+	Radius		178.50022244588865	//in km
+	RotationPeriod	12.74343062525842	//in hours
+	Obliquity		186.43087828411242
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6555324794238957	//in AU
-		Eccentricity	0.1797954695253225
+		SemiMajorAxis	2.583256246998669	//in AU
+		Eccentricity	0.16823848268891167
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.015666658291680124
-		ArgOfPericenter	0.21141225523423268
+		AscendingNode	241.70875534128942
+		ArgOfPericenter	0.3406018650428414
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1248,18 +1246,18 @@ Asteroid "Alderaan fragment 58"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		251.64448850584415	//in km
-	RotationPeriod	16.177926065556264	//in hours
-	Obliquity		60.05501168891434
+	Radius		102.52341599505053	//in km
+	RotationPeriod	19.60410647379809	//in hours
+	Obliquity		142.68433790204753
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.134449930008825	//in AU
-		Eccentricity	0.19097667927890538
+		SemiMajorAxis	3.1207767203240637	//in AU
+		Eccentricity	0.16079355510374993
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2256522436867473
-		ArgOfPericenter	0.3205377848493791
+		AscendingNode	242.4611406084858
+		ArgOfPericenter	-0.47086436815780486
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1269,18 +1267,18 @@ Asteroid "Alderaan fragment 59"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		17.576248841006443	//in km
-	RotationPeriod	13.26591942437903	//in hours
-	Obliquity		253.69487716660643
+	Radius		175.07286441690584	//in km
+	RotationPeriod	12.102140145167164	//in hours
+	Obliquity		151.53764189267952
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1090154931481955	//in AU
-		Eccentricity	0.14320011758330836
+		SemiMajorAxis	2.6152332178580653	//in AU
+		Eccentricity	0.157833801892646
 		Inclination		131.0	//in degrees
-		AscendingNode	0.296757468742444
-		ArgOfPericenter	-0.2572029933640546
+		AscendingNode	241.9009999010825
+		ArgOfPericenter	0.16600473742061228
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1290,18 +1288,18 @@ Asteroid "Alderaan fragment 60"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.6338155376157495	//in km
-	RotationPeriod	9.707588113114477	//in hours
-	Obliquity		30.808345594920592
+	Radius		101.89480605793095	//in km
+	RotationPeriod	12.421828955104537	//in hours
+	Obliquity		240.65666956762786
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.127468209999666	//in AU
-		Eccentricity	0.17650635926415795
+		SemiMajorAxis	2.427959054843355	//in AU
+		Eccentricity	0.15392558828678785
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.040348184885579785
-		ArgOfPericenter	-0.26549404934576215
+		AscendingNode	241.81366587726123
+		ArgOfPericenter	0.23177537490735778
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1311,18 +1309,18 @@ Asteroid "Alderaan fragment 61"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		117.56244458331582	//in km
-	RotationPeriod	14.980728557697809	//in hours
-	Obliquity		95.86912413765175
+	Radius		186.82033216834984	//in km
+	RotationPeriod	13.637489104929099	//in hours
+	Obliquity		103.12372988635607
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.400709196913309	//in AU
-		Eccentricity	0.17813445072981282
+		SemiMajorAxis	2.828411790711363	//in AU
+		Eccentricity	0.1438528923548524
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.06633549444965059
-		ArgOfPericenter	0.06642683073842526
+		AscendingNode	241.88317955931558
+		ArgOfPericenter	-0.005730623025263615
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1332,18 +1330,18 @@ Asteroid "Alderaan fragment 62"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.600529806743978	//in km
-	RotationPeriod	4.716527186905043	//in hours
-	Obliquity		84.81585384093988
+	Radius		147.92593954159855	//in km
+	RotationPeriod	6.113505510133189	//in hours
+	Obliquity		204.6502389406031
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7735150479732935	//in AU
-		Eccentricity	0.10226894273129791
+		SemiMajorAxis	2.639133097849633	//in AU
+		Eccentricity	0.1576850497603584
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.009704841382895624
-		ArgOfPericenter	0.16156768043020941
+		AscendingNode	242.40128179229905
+		ArgOfPericenter	-0.374959626553811
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1353,18 +1351,18 @@ Asteroid "Alderaan fragment 63"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		84.93697952094918	//in km
-	RotationPeriod	5.079708674198044	//in hours
-	Obliquity		83.59325457312642
+	Radius		215.29420055537304	//in km
+	RotationPeriod	12.015754464274629	//in hours
+	Obliquity		315.3390213377876
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0426576884389807	//in AU
-		Eccentricity	0.17319056895618148
+		SemiMajorAxis	2.3885996931532327	//in AU
+		Eccentricity	0.17764703893485317
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3031078834478913
-		ArgOfPericenter	0.46895998375891457
+		AscendingNode	242.3010852569467
+		ArgOfPericenter	-0.11601535587818779
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1374,18 +1372,18 @@ Asteroid "Alderaan fragment 64"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		37.179478000827565	//in km
-	RotationPeriod	17.415307464168258	//in hours
-	Obliquity		202.2509398907079
+	Radius		83.22492618704975	//in km
+	RotationPeriod	15.34917494758368	//in hours
+	Obliquity		350.5044781560276
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.436588379088434	//in AU
-		Eccentricity	0.15402166514644147
+		SemiMajorAxis	2.3422042104117913	//in AU
+		Eccentricity	0.13709633446382866
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2678615129565919
-		ArgOfPericenter	-0.2329369467863357
+		AscendingNode	241.73759046089188
+		ArgOfPericenter	0.28394001342769315
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1395,18 +1393,18 @@ Asteroid "Alderaan fragment 65"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		187.88639293092507	//in km
-	RotationPeriod	14.622674303493156	//in hours
-	Obliquity		210.29409562782985
+	Radius		147.20460872042727	//in km
+	RotationPeriod	9.291684848593057	//in hours
+	Obliquity		110.0739963831121
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.425433175704875	//in AU
-		Eccentricity	0.18427167024504737
+		SemiMajorAxis	2.4467689493639835	//in AU
+		Eccentricity	0.1355241754419596
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.20613800959821793
-		ArgOfPericenter	-0.029363591422642443
+		AscendingNode	242.26365517147505
+		ArgOfPericenter	0.4180744617454426
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1416,18 +1414,18 @@ Asteroid "Alderaan fragment 66"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		51.698861716609166	//in km
-	RotationPeriod	9.755348371679885	//in hours
-	Obliquity		268.76887324419386
+	Radius		151.58410018770863	//in km
+	RotationPeriod	9.225585572820824	//in hours
+	Obliquity		161.009214277838
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.46490048968719	//in AU
-		Eccentricity	0.18036477316596677
+		SemiMajorAxis	2.7298758348286634	//in AU
+		Eccentricity	0.16531665360228082
 		Inclination		131.0	//in degrees
-		AscendingNode	0.27638125391215906
-		ArgOfPericenter	-0.17807162077906658
+		AscendingNode	242.04529204595332
+		ArgOfPericenter	-0.056627491047754774
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1437,18 +1435,18 @@ Asteroid "Alderaan fragment 67"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		205.68228050473732	//in km
-	RotationPeriod	12.936818087277734	//in hours
-	Obliquity		339.3060955449239
+	Radius		222.92316982793557	//in km
+	RotationPeriod	16.157629814080586	//in hours
+	Obliquity		53.47483781871125
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.682042656282508	//in AU
-		Eccentricity	0.18063897147955799
+		SemiMajorAxis	2.513637744825489	//in AU
+		Eccentricity	0.19870911029114766
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.055642111731679544
-		ArgOfPericenter	-0.08926282329396551
+		AscendingNode	242.29722628688285
+		ArgOfPericenter	0.1255693378129762
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1458,18 +1456,18 @@ Asteroid "Alderaan fragment 68"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.0838060324389	//in km
-	RotationPeriod	9.843875064921548	//in hours
-	Obliquity		3.991716468465123
+	Radius		183.47642183896235	//in km
+	RotationPeriod	7.351602359320891	//in hours
+	Obliquity		344.2898037829615
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7018914813510357	//in AU
-		Eccentricity	0.17834658844261905
+		SemiMajorAxis	2.4563091242136545	//in AU
+		Eccentricity	0.12209248221453126
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.003813252963464575
-		ArgOfPericenter	0.0381812552982963
+		AscendingNode	241.5568846009191
+		ArgOfPericenter	-0.2817178318908241
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1479,18 +1477,18 @@ Asteroid "Alderaan fragment 69"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		36.673038872319786	//in km
-	RotationPeriod	8.859666712231228	//in hours
-	Obliquity		316.52865436016157
+	Radius		127.36358068978966	//in km
+	RotationPeriod	8.164908752254775	//in hours
+	Obliquity		334.48471415224367
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0462469637448213	//in AU
-		Eccentricity	0.14876810892187448
+		SemiMajorAxis	2.1852993878537994	//in AU
+		Eccentricity	0.16486248541239779
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4133311477384394
-		ArgOfPericenter	0.3145238286906211
+		AscendingNode	242.3569667952084
+		ArgOfPericenter	-0.11213177488184889
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1500,18 +1498,18 @@ Asteroid "Alderaan fragment 70"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		122.50328968996868	//in km
-	RotationPeriod	10.912668800015645	//in hours
-	Obliquity		243.1767246021044
+	Radius		100.40914299688725	//in km
+	RotationPeriod	14.494990099263159	//in hours
+	Obliquity		173.18506275069385
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6533351606858995	//in AU
-		Eccentricity	0.1914366737312636
+		SemiMajorAxis	2.364639907401246	//in AU
+		Eccentricity	0.16549389956489113
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.48288121533818873
-		ArgOfPericenter	-0.047991952984064334
+		AscendingNode	242.1604644308617
+		ArgOfPericenter	0.21142012175726543
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1521,18 +1519,18 @@ Asteroid "Alderaan fragment 71"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		171.1561646506426	//in km
-	RotationPeriod	7.912140040217521	//in hours
-	Obliquity		282.33788820391993
+	Radius		56.1445467065402	//in km
+	RotationPeriod	14.510465493535637	//in hours
+	Obliquity		112.23259113566702
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.412478511630265	//in AU
-		Eccentricity	0.16230103327817177
+		SemiMajorAxis	2.760860902258233	//in AU
+		Eccentricity	0.14008312105867998
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.23195335744815027
-		ArgOfPericenter	-0.19356596336593712
+		AscendingNode	241.74054600648938
+		ArgOfPericenter	-0.01123921321674437
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1542,18 +1540,18 @@ Asteroid "Alderaan fragment 72"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		34.23746121842083	//in km
-	RotationPeriod	10.378065363677178	//in hours
-	Obliquity		89.06690490670593
+	Radius		121.32020136284171	//in km
+	RotationPeriod	13.66756089706993	//in hours
+	Obliquity		243.84660678700226
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.411545407186166	//in AU
-		Eccentricity	0.15909794451025663
+		SemiMajorAxis	2.926512674015064	//in AU
+		Eccentricity	0.18433206931121096
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2643070257769615
-		ArgOfPericenter	0.4999008421119091
+		AscendingNode	242.21904940854733
+		ArgOfPericenter	-0.2309501040912324
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1563,18 +1561,18 @@ Asteroid "Alderaan fragment 73"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		74.58317836000873	//in km
-	RotationPeriod	10.777745508550652	//in hours
-	Obliquity		295.3384785017104
+	Radius		146.30221878922407	//in km
+	RotationPeriod	16.681704789323312	//in hours
+	Obliquity		189.17654391352693
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.644472688440865	//in AU
-		Eccentricity	0.19606887064238915
+		SemiMajorAxis	2.4143266313271026	//in AU
+		Eccentricity	0.15875596996878993
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.01842270286308656
-		ArgOfPericenter	-0.03228863192530984
+		AscendingNode	241.51871489634348
+		ArgOfPericenter	0.015979909167360806
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1584,18 +1582,18 @@ Asteroid "Alderaan fragment 74"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		78.8919193649969	//in km
-	RotationPeriod	7.171842494173161	//in hours
-	Obliquity		4.264376252326132
+	Radius		148.70236160303742	//in km
+	RotationPeriod	15.074183362543152	//in hours
+	Obliquity		278.64784957467737
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8563642509613576	//in AU
-		Eccentricity	0.16393824534616314
+		SemiMajorAxis	2.7364630071167677	//in AU
+		Eccentricity	0.17656015432446331
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.25762845172596316
-		ArgOfPericenter	-0.3840446158466164
+		AscendingNode	241.64412661274474
+		ArgOfPericenter	0.43059261969378837
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1605,18 +1603,18 @@ Asteroid "Alderaan fragment 75"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		142.5444792223458	//in km
-	RotationPeriod	15.116321373540371	//in hours
-	Obliquity		88.430154157802
+	Radius		128.65122384484485	//in km
+	RotationPeriod	13.20487486722712	//in hours
+	Obliquity		212.37847680608755
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3055981511023598	//in AU
-		Eccentricity	0.20127323886801135
+		SemiMajorAxis	2.242880341852113	//in AU
+		Eccentricity	0.19659047432984003
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3518346714840057
-		ArgOfPericenter	0.07902338436488099
+		AscendingNode	242.0760450266293
+		ArgOfPericenter	-0.4697123874542588
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1626,18 +1624,18 @@ Asteroid "Alderaan fragment 76"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		79.5620303044755	//in km
-	RotationPeriod	5.090427029060557	//in hours
-	Obliquity		340.191673512608
+	Radius		223.77428945287522	//in km
+	RotationPeriod	15.24496413980133	//in hours
+	Obliquity		72.52925701329637
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.131187768293743	//in AU
-		Eccentricity	0.14827073732719565
+		SemiMajorAxis	2.2536617724084214	//in AU
+		Eccentricity	0.13564265418304247
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1667517196146575
-		ArgOfPericenter	0.37669579634642714
+		AscendingNode	242.49391563940665
+		ArgOfPericenter	-0.40765077292239127
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1647,18 +1645,18 @@ Asteroid "Alderaan fragment 77"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		25.361412225294274	//in km
-	RotationPeriod	12.955050297832596	//in hours
-	Obliquity		143.46461899322705
+	Radius		92.53714691479712	//in km
+	RotationPeriod	14.325450741655127	//in hours
+	Obliquity		119.300569464676
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.515151609644063	//in AU
-		Eccentricity	0.1644183321774952
+		SemiMajorAxis	2.7554134412698628	//in AU
+		Eccentricity	0.17267536065479847
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.004827890017616521
-		ArgOfPericenter	0.15433701727345828
+		AscendingNode	242.48159038834663
+		ArgOfPericenter	0.10105085936738767
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1668,18 +1666,18 @@ Asteroid "Alderaan fragment 78"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.785110373976819	//in km
-	RotationPeriod	12.342543589611392	//in hours
-	Obliquity		359.572495266573
+	Radius		180.8084952045169	//in km
+	RotationPeriod	13.851573925740146	//in hours
+	Obliquity		292.96614582207053
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.510156385711731	//in AU
-		Eccentricity	0.14363864738796892
+		SemiMajorAxis	2.6198078581851356	//in AU
+		Eccentricity	0.16440944726062962
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3616451438892475
-		ArgOfPericenter	-0.258327514408346
+		AscendingNode	241.9462765580314
+		ArgOfPericenter	-0.36492977194598686
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1689,18 +1687,18 @@ Asteroid "Alderaan fragment 79"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.4957112515127386	//in km
-	RotationPeriod	2.7085041927026605	//in hours
-	Obliquity		338.8793103531519
+	Radius		211.66214755117855	//in km
+	RotationPeriod	11.801348804756318	//in hours
+	Obliquity		355.3746633275351
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.853332221173316	//in AU
-		Eccentricity	0.18408029835825276
+		SemiMajorAxis	2.5432068525244276	//in AU
+		Eccentricity	0.19573534164320658
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3810572907567533
-		ArgOfPericenter	0.1946088558936907
+		AscendingNode	242.20645013607623
+		ArgOfPericenter	0.057084084919179934
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1710,18 +1708,18 @@ Asteroid "Alderaan fragment 80"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		9.380628634970293	//in km
-	RotationPeriod	13.557529299306564	//in hours
-	Obliquity		33.81370258460271
+	Radius		207.9867854153273	//in km
+	RotationPeriod	15.968931957654272	//in hours
+	Obliquity		247.6033650459462
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.601058761869892	//in AU
-		Eccentricity	0.14995048577355408
+		SemiMajorAxis	2.398181286738964	//in AU
+		Eccentricity	0.16968189720597088
 		Inclination		131.0	//in degrees
-		AscendingNode	0.29334356784895055
-		ArgOfPericenter	-0.19641374927527622
+		AscendingNode	241.65276072948032
+		ArgOfPericenter	0.24907506337527285
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1731,18 +1729,18 @@ Asteroid "Alderaan fragment 81"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		208.0451430716707	//in km
-	RotationPeriod	10.533874674183476	//in hours
-	Obliquity		262.6833389368995
+	Radius		182.5592184102283	//in km
+	RotationPeriod	9.870712917931037	//in hours
+	Obliquity		172.24988067764403
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.970782612482785	//in AU
-		Eccentricity	0.13557897893066154
+		SemiMajorAxis	1.923760332533945	//in AU
+		Eccentricity	0.1711048934401984
 		Inclination		131.0	//in degrees
-		AscendingNode	0.052795901986782745
-		ArgOfPericenter	0.041088368780581974
+		AscendingNode	242.26086994628255
+		ArgOfPericenter	-0.37343257501291804
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1752,18 +1750,16 @@ Asteroid "Alderaan fragment 82"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		108.90481276004219	//in km
-	RotationPeriod	12.7258959978338	//in hours
-	Obliquity		160.46707147260105
-
+	Radius		166.05457134214743	//in km
+	TidalLocked	true
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.52539102686977	//in AU
-		Eccentricity	0.1314572462727045
+		SemiMajorAxis	3.169647907010319	//in AU
+		Eccentricity	0.19267156917047873
 		Inclination		131.0	//in degrees
-		AscendingNode	0.12077657711748169
-		ArgOfPericenter	-0.43813734380767433
+		AscendingNode	241.62287588044273
+		ArgOfPericenter	-0.4693350551765434
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1773,18 +1769,18 @@ Asteroid "Alderaan fragment 83"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		165.19319075972223	//in km
-	RotationPeriod	12.089404487583744	//in hours
-	Obliquity		132.05025749554434
+	Radius		93.64943958777887	//in km
+	RotationPeriod	10.04948284566578	//in hours
+	Obliquity		75.34010821171063
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.691069424785298	//in AU
-		Eccentricity	0.15013827535140128
+		SemiMajorAxis	2.3561800845377943	//in AU
+		Eccentricity	0.132043676320093
 		Inclination		131.0	//in degrees
-		AscendingNode	0.25509121546131885
-		ArgOfPericenter	0.398581628309265
+		AscendingNode	242.1604030135143
+		ArgOfPericenter	-0.47042116346521057
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1794,18 +1790,18 @@ Asteroid "Alderaan fragment 84"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		113.43810645017048	//in km
-	RotationPeriod	9.720327555128938	//in hours
-	Obliquity		315.29775943782846
+	Radius		190.8625939659412	//in km
+	RotationPeriod	14.516321191776033	//in hours
+	Obliquity		235.79737451353003
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6190509094213112	//in AU
-		Eccentricity	0.16027033376286018
+		SemiMajorAxis	2.733857152692637	//in AU
+		Eccentricity	0.18456777445865274
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4584330104022678
-		ArgOfPericenter	-0.326143708229779
+		AscendingNode	242.3678757638504
+		ArgOfPericenter	0.033918858161174015
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1815,18 +1811,18 @@ Asteroid "Alderaan fragment 85"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		30.01043947919885	//in km
-	RotationPeriod	19.029795727363847	//in hours
-	Obliquity		34.60680436792424
+	Radius		197.82082178426901	//in km
+	RotationPeriod	8.278528673740686	//in hours
+	Obliquity		89.31674539099757
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3086925986065787	//in AU
-		Eccentricity	0.16433098105825172
+		SemiMajorAxis	2.4843638336204017	//in AU
+		Eccentricity	0.16719848967205625
 		Inclination		131.0	//in degrees
-		AscendingNode	0.04100510604617036
-		ArgOfPericenter	0.42849334728625366
+		AscendingNode	242.41739156547604
+		ArgOfPericenter	0.08702884174089809
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1836,18 +1832,18 @@ Asteroid "Alderaan fragment 86"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		25.989877464338807	//in km
-	RotationPeriod	15.37732117340322	//in hours
-	Obliquity		128.81924980030743
+	Radius		162.23313157697038	//in km
+	RotationPeriod	13.92932950792608	//in hours
+	Obliquity		121.06572830941053
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4810067702511254	//in AU
-		Eccentricity	0.15815042518703587
+		SemiMajorAxis	2.3718389834074847	//in AU
+		Eccentricity	0.1569104013617669
 		Inclination		131.0	//in degrees
-		AscendingNode	0.04232933758565727
-		ArgOfPericenter	0.1124361117971795
+		AscendingNode	241.51840701263592
+		ArgOfPericenter	-0.4088901712336509
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1857,18 +1853,18 @@ Asteroid "Alderaan fragment 87"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		19.76438124545327	//in km
-	RotationPeriod	8.458372493584234	//in hours
-	Obliquity		78.2430955691306
+	Radius		155.56681094142013	//in km
+	RotationPeriod	0.427	//in hours
+	Obliquity		321.6987871642894
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.138106723802493	//in AU
-		Eccentricity	0.14711428329551873
+		SemiMajorAxis	2.0383289257749264	//in AU
+		Eccentricity	0.11310748122648824
 		Inclination		131.0	//in degrees
-		AscendingNode	0.0723977753811531
-		ArgOfPericenter	0.39859126284796764
+		AscendingNode	241.99273174429285
+		ArgOfPericenter	0.14845795687802732
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1878,18 +1874,18 @@ Asteroid "Alderaan fragment 88"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		21.749979383863653	//in km
-	RotationPeriod	12.195686742063435	//in hours
-	Obliquity		296.41463420099404
+	Radius		111.93375238089403	//in km
+	RotationPeriod	10.085585835067764	//in hours
+	Obliquity		21.02730768623927
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7070826180066296	//in AU
-		Eccentricity	0.16648627523931986
+		SemiMajorAxis	2.6940241609145814	//in AU
+		Eccentricity	0.15768345257074204
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.07882612464043603
-		ArgOfPericenter	-0.11914204470804102
+		AscendingNode	242.25635153679127
+		ArgOfPericenter	0.3756655514112841
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1899,18 +1895,18 @@ Asteroid "Alderaan fragment 89"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		1.7955590091966833	//in km
-	RotationPeriod	12.08266269722509	//in hours
-	Obliquity		69.38221029422469
+	Radius		237.80850902752306	//in km
+	RotationPeriod	13.757077970131725	//in hours
+	Obliquity		329.95453877696815
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.2542857468310284	//in AU
-		Eccentricity	0.1607276673026012
+		SemiMajorAxis	2.2447443164682785	//in AU
+		Eccentricity	0.1696456896693171
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1637073492833997
-		ArgOfPericenter	0.12992980651897545
+		AscendingNode	241.78517722639356
+		ArgOfPericenter	-0.3365975984421218
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1920,18 +1916,18 @@ Asteroid "Alderaan fragment 90"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		98.13995074434833	//in km
-	RotationPeriod	22.137161800172542	//in hours
-	Obliquity		135.2525858434737
+	Radius		139.20553460030393	//in km
+	RotationPeriod	23.73027747813165	//in hours
+	Obliquity		51.466487271145624
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.482347040425783	//in AU
-		Eccentricity	0.12215590379711641
+		SemiMajorAxis	2.2541167710693206	//in AU
+		Eccentricity	0.16405935363696406
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2428913450653697
-		ArgOfPericenter	0.13133097418011164
+		AscendingNode	241.61805666210716
+		ArgOfPericenter	0.21506503567404878
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1941,18 +1937,18 @@ Asteroid "Alderaan fragment 91"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		32.50276346513576	//in km
-	RotationPeriod	15.366952353718691	//in hours
-	Obliquity		31.077998893354547
+	Radius		176.8311453970181	//in km
+	RotationPeriod	14.367386897226773	//in hours
+	Obliquity		26.818979589338237
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.961569943718818	//in AU
-		Eccentricity	0.10777972369701994
+		SemiMajorAxis	2.937854644861328	//in AU
+		Eccentricity	0.13482578380208646
 		Inclination		131.0	//in degrees
-		AscendingNode	0.060945782105650714
-		ArgOfPericenter	0.16435843996793897
+		AscendingNode	242.2485030188009
+		ArgOfPericenter	-0.21156021867079733
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1962,18 +1958,18 @@ Asteroid "Alderaan fragment 92"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		200.1270146157698	//in km
-	RotationPeriod	13.381322529439934	//in hours
-	Obliquity		290.72500518334414
+	Radius		232.30625690171627	//in km
+	RotationPeriod	9.578207634183368	//in hours
+	Obliquity		35.70036147574356
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.530360429553997	//in AU
-		Eccentricity	0.20269860055199498
+		SemiMajorAxis	2.2806655894145287	//in AU
+		Eccentricity	0.16815705744748496
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4215353092284526
-		ArgOfPericenter	-0.2811461359975852
+		AscendingNode	242.4164324923556
+		ArgOfPericenter	-0.49254580469077036
 		RefPlane		"Ecliptic"
 	}
 }
@@ -1983,18 +1979,18 @@ Asteroid "Alderaan fragment 93"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		136.13871145840886	//in km
-	RotationPeriod	10.327465688149934	//in hours
-	Obliquity		41.52202935703228
+	Radius		153.2440224093795	//in km
+	RotationPeriod	8.685938715761715	//in hours
+	Obliquity		160.7324718135554
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.368822028997458	//in AU
-		Eccentricity	0.20724876469639647
+		SemiMajorAxis	2.7363833653803944	//in AU
+		Eccentricity	0.19006182438989766
 		Inclination		131.0	//in degrees
-		AscendingNode	0.13985586885623025
-		ArgOfPericenter	-0.3822441832288934
+		AscendingNode	242.26531763933886
+		ArgOfPericenter	0.34461573004613766
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2004,18 +2000,18 @@ Asteroid "Alderaan fragment 94"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		119.32040802568868	//in km
-	RotationPeriod	7.97759071013196	//in hours
-	Obliquity		247.43626417375754
+	Radius		171.99082124667567	//in km
+	RotationPeriod	10.849882935925907	//in hours
+	Obliquity		217.18964648084096
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0714052407534873	//in AU
-		Eccentricity	0.21844736592544103
+		SemiMajorAxis	2.7409184408060785	//in AU
+		Eccentricity	0.1484741556315994
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1324651131448472
-		ArgOfPericenter	0.44707860579235215
+		AscendingNode	242.36615716579314
+		ArgOfPericenter	0.023451575683699155
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2025,18 +2021,18 @@ Asteroid "Alderaan fragment 95"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		49.65450721808869	//in km
-	RotationPeriod	15.32249173839391	//in hours
-	Obliquity		88.32933361337217
+	Radius		156.36451279990214	//in km
+	RotationPeriod	16.06766765069057	//in hours
+	Obliquity		79.83919974603214
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3461056426433977	//in AU
-		Eccentricity	0.13652533251349447
+		SemiMajorAxis	2.6955357099674098	//in AU
+		Eccentricity	0.18361796853558338
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.0598191820410201
-		ArgOfPericenter	0.4551473724733067
+		AscendingNode	242.305729817713
+		ArgOfPericenter	-0.3334283646836329
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2046,18 +2042,18 @@ Asteroid "Alderaan fragment 96"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		99.47474136576504	//in km
-	RotationPeriod	12.95666417489308	//in hours
-	Obliquity		45.84999695256279
+	Radius		92.24390192037757	//in km
+	RotationPeriod	13.549679061084632	//in hours
+	Obliquity		247.2538278358463
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5538186200087356	//in AU
-		Eccentricity	0.15663991247682393
+		SemiMajorAxis	2.5425087543710254	//in AU
+		Eccentricity	0.1865522797390551
 		Inclination		131.0	//in degrees
-		AscendingNode	0.12873592347099072
-		ArgOfPericenter	-0.26115313571100107
+		AscendingNode	242.46861882872776
+		ArgOfPericenter	-0.3640075795666038
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2067,18 +2063,18 @@ Asteroid "Alderaan fragment 97"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		41.809015644152254	//in km
-	RotationPeriod	11.477292844329087	//in hours
-	Obliquity		284.88439903736963
+	Radius		260.6636170237985	//in km
+	RotationPeriod	12.748270215432877	//in hours
+	Obliquity		231.60219198924378
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.8877343278240153	//in AU
-		Eccentricity	0.19302070101399676
+		SemiMajorAxis	2.6998244400784612	//in AU
+		Eccentricity	0.17899777040326542
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.21551326981467211
-		ArgOfPericenter	-0.25167893893264504
+		AscendingNode	242.39032864871953
+		ArgOfPericenter	-0.41842968136019376
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2088,18 +2084,18 @@ Asteroid "Alderaan fragment 98"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.975383669697635	//in km
-	RotationPeriod	9.842392640515973	//in hours
-	Obliquity		284.6291846144199
+	Radius		134.41757420273103	//in km
+	RotationPeriod	12.177298038126404	//in hours
+	Obliquity		150.2321353556673
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.70451464974471	//in AU
-		Eccentricity	0.1627810628660513
+		SemiMajorAxis	2.6267637322888633	//in AU
+		Eccentricity	0.19939736216278317
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.45237921282464133
-		ArgOfPericenter	0.4153936431452525
+		AscendingNode	242.3362696306084
+		ArgOfPericenter	-0.0060133138206576175
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2109,18 +2105,18 @@ Asteroid "Alderaan fragment 99"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.93501466314987	//in km
-	RotationPeriod	11.24472709334901	//in hours
-	Obliquity		44.200362324715705
+	Radius		140.51934186638692	//in km
+	RotationPeriod	8.18011370504463	//in hours
+	Obliquity		294.2871769171
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5741987987692485	//in AU
-		Eccentricity	0.17352276218662294
+		SemiMajorAxis	2.2655206893970923	//in AU
+		Eccentricity	0.19384226626117587
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2642848066155381
-		ArgOfPericenter	0.3493688547009167
+		AscendingNode	242.1578006293124
+		ArgOfPericenter	0.14778698802350543
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2130,18 +2126,18 @@ Asteroid "Alderaan fragment 100"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		53.485711427704395	//in km
-	RotationPeriod	12.419081089340478	//in hours
-	Obliquity		244.35549533411083
+	Radius		146.06561890882753	//in km
+	RotationPeriod	15.647885680016529	//in hours
+	Obliquity		324.03205576312126
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8011029496221607	//in AU
-		Eccentricity	0.22661446636723603
+		SemiMajorAxis	2.5690720956413786	//in AU
+		Eccentricity	0.1558374853577207
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4106796467117301
-		ArgOfPericenter	-0.3843365942559388
+		AscendingNode	242.18072574818416
+		ArgOfPericenter	0.3244351833701824
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2151,18 +2147,18 @@ Asteroid "Alderaan fragment 101"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		76.6526925930793	//in km
-	RotationPeriod	15.29819705041945	//in hours
-	Obliquity		7.418189925337533
+	Radius		98.08529619777593	//in km
+	RotationPeriod	20.668055963524864	//in hours
+	Obliquity		311.17620154458245
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4242864639704735	//in AU
-		Eccentricity	0.1676791222630077
+		SemiMajorAxis	2.0934381974997054	//in AU
+		Eccentricity	0.14758694213886422
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19663171258876
-		ArgOfPericenter	0.04383764777960508
+		AscendingNode	242.16344874438647
+		ArgOfPericenter	0.36932590190271664
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2172,18 +2168,18 @@ Asteroid "Alderaan fragment 102"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.227087502727953	//in km
-	RotationPeriod	6.613841646717318	//in hours
-	Obliquity		12.965317266128054
+	Radius		168.99656076861652	//in km
+	RotationPeriod	20.78685601524711	//in hours
+	Obliquity		296.5268275667968
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.880945924307665	//in AU
-		Eccentricity	0.14441091761575314
+		SemiMajorAxis	2.637343577186448	//in AU
+		Eccentricity	0.14835513676090656
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.33314155833337833
-		ArgOfPericenter	-0.4996582947033408
+		AscendingNode	241.69692028912038
+		ArgOfPericenter	0.446893724450929
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2193,18 +2189,18 @@ Asteroid "Alderaan fragment 103"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		121.70168060158736	//in km
-	RotationPeriod	6.254809493722279	//in hours
-	Obliquity		84.22151250458823
+	Radius		178.39057249892355	//in km
+	RotationPeriod	12.045870002300775	//in hours
+	Obliquity		263.8044218529827
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.522425225549658	//in AU
-		Eccentricity	0.1828910393852543
+		SemiMajorAxis	2.2816176390036014	//in AU
+		Eccentricity	0.18201982666921465
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3396528090516997
-		ArgOfPericenter	0.3543349487777693
+		AscendingNode	242.4648126232732
+		ArgOfPericenter	0.445096697556318
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2214,18 +2210,18 @@ Asteroid "Alderaan fragment 104"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		127.4822438510198	//in km
-	RotationPeriod	12.833267618169852	//in hours
-	Obliquity		268.8952661294854
+	Radius		141.8353899387319	//in km
+	RotationPeriod	9.165841168717318	//in hours
+	Obliquity		301.955699072164
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7599373814036583	//in AU
-		Eccentricity	0.1624390545596797
+		SemiMajorAxis	2.6994115936695824	//in AU
+		Eccentricity	0.1445806392955355
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3964279383845265
-		ArgOfPericenter	0.4349544832598079
+		AscendingNode	242.32063101203863
+		ArgOfPericenter	0.21264446110087531
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2235,18 +2231,18 @@ Asteroid "Alderaan fragment 105"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		26.69709102460058	//in km
-	RotationPeriod	4.646340032688787	//in hours
-	Obliquity		181.40753855276165
+	Radius		157.19873739261942	//in km
+	RotationPeriod	9.4853262870787	//in hours
+	Obliquity		99.70782574956425
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.705082256915347	//in AU
-		Eccentricity	0.17042177531744188
+		SemiMajorAxis	2.7049578903810043	//in AU
+		Eccentricity	0.1684417804324731
 		Inclination		131.0	//in degrees
-		AscendingNode	0.12020959101020823
-		ArgOfPericenter	-0.4113986617509259
+		AscendingNode	242.35317753239744
+		ArgOfPericenter	-0.3116528113691579
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2256,18 +2252,18 @@ Asteroid "Alderaan fragment 106"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		48.953585885076365	//in km
-	RotationPeriod	13.575403326579682	//in hours
-	Obliquity		155.6937862268162
+	Radius		130.75414598226288	//in km
+	RotationPeriod	16.078384537653925	//in hours
+	Obliquity		322.05163618636476
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4873253943760187	//in AU
-		Eccentricity	0.15363938927451792
+		SemiMajorAxis	3.0543495713984345	//in AU
+		Eccentricity	0.1423645210063088
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.009994289982452331
-		ArgOfPericenter	0.25939068197627124
+		AscendingNode	241.77556227517368
+		ArgOfPericenter	0.4532467035593085
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2277,18 +2273,18 @@ Asteroid "Alderaan fragment 107"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		92.00850013143415	//in km
-	RotationPeriod	13.249379746589282	//in hours
-	Obliquity		274.96574211292597
+	Radius		175.1734313732107	//in km
+	RotationPeriod	11.552515660556246	//in hours
+	Obliquity		357.923513060788
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.779555117415637	//in AU
-		Eccentricity	0.13701543088945795
+		SemiMajorAxis	2.8162867052877187	//in AU
+		Eccentricity	0.1484885018872661
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1318524662801347
-		ArgOfPericenter	-0.17800123728394202
+		AscendingNode	242.08532803255986
+		ArgOfPericenter	0.4912641762640788
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2298,18 +2294,18 @@ Asteroid "Alderaan fragment 108"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		125.33878351717397	//in km
-	RotationPeriod	7.451024592354347	//in hours
-	Obliquity		251.07855971714065
+	Radius		212.66658023461184	//in km
+	RotationPeriod	12.456660145086238	//in hours
+	Obliquity		38.62253566970278
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8372937403159417	//in AU
-		Eccentricity	0.16411210040498173
+		SemiMajorAxis	2.6152916726731905	//in AU
+		Eccentricity	0.1792005077768545
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4305742714163615
-		ArgOfPericenter	-0.42011262554335693
+		AscendingNode	241.99571992085336
+		ArgOfPericenter	0.19279200191663504
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2319,18 +2315,18 @@ Asteroid "Alderaan fragment 109"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		118.56817572352517	//in km
-	RotationPeriod	8.450930588959483	//in hours
-	Obliquity		51.39951657440549
+	Radius		182.8019279566342	//in km
+	RotationPeriod	14.094447729922845	//in hours
+	Obliquity		91.69358349998762
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.513104030889189	//in AU
-		Eccentricity	0.18721447118904677
+		SemiMajorAxis	2.7871382717871245	//in AU
+		Eccentricity	0.13015012827340247
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.45916216397452814
-		ArgOfPericenter	0.4316521617220107
+		AscendingNode	241.57312910639934
+		ArgOfPericenter	-0.24163446102735886
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2340,18 +2336,18 @@ Asteroid "Alderaan fragment 110"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		169.46439560880071	//in km
-	RotationPeriod	10.128923290886988	//in hours
-	Obliquity		20.344415300981787
+	Radius		121.26418668641318	//in km
+	RotationPeriod	14.671948569330448	//in hours
+	Obliquity		114.8557024334098
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4787561730009307	//in AU
-		Eccentricity	0.13118093955300256
+		SemiMajorAxis	1.8414229785364769	//in AU
+		Eccentricity	0.16232804397029968
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.27595944787601867
-		ArgOfPericenter	-0.35187538573663824
+		AscendingNode	242.16254766099965
+		ArgOfPericenter	-0.39880422905589175
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2361,18 +2357,18 @@ Asteroid "Alderaan fragment 111"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		18.13487408597966	//in km
-	RotationPeriod	5.302568826060509	//in hours
-	Obliquity		325.54805382384495
+	Radius		193.89118538189007	//in km
+	RotationPeriod	14.762503701747786	//in hours
+	Obliquity		203.79937420688708
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4155431240915544	//in AU
-		Eccentricity	0.13343887596770065
+		SemiMajorAxis	2.8378039852705115	//in AU
+		Eccentricity	0.15362169785684152
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.297184431470751
-		ArgOfPericenter	0.3818407082118349
+		AscendingNode	242.20810565439157
+		ArgOfPericenter	0.37999047154562293
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2382,18 +2378,18 @@ Asteroid "Alderaan fragment 112"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		40.35852941528747	//in km
-	RotationPeriod	8.995850055665894	//in hours
-	Obliquity		30.375148054754288
+	Radius		153.22852309687516	//in km
+	RotationPeriod	18.328341905944505	//in hours
+	Obliquity		2.9759500180419396
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.536549345016546	//in AU
-		Eccentricity	0.13268156891859045
+		SemiMajorAxis	2.111570570485486	//in AU
+		Eccentricity	0.17466674396613677
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4918444844028659
-		ArgOfPericenter	-0.43907391757302383
+		AscendingNode	242.1307004585152
+		ArgOfPericenter	-0.20878469007746403
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2403,18 +2399,18 @@ Asteroid "Alderaan fragment 113"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		22.41551439896733	//in km
-	RotationPeriod	13.53864232536597	//in hours
-	Obliquity		256.7218569736782
+	Radius		96.11986602984979	//in km
+	RotationPeriod	15.37308836924968	//in hours
+	Obliquity		245.57591196189003
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5997729473084976	//in AU
-		Eccentricity	0.1544311929162657
+		SemiMajorAxis	2.107245172105062	//in AU
+		Eccentricity	0.19041415411417104
 		Inclination		131.0	//in degrees
-		AscendingNode	0.18268802590810695
-		ArgOfPericenter	-0.4736403956085986
+		AscendingNode	241.70182436173127
+		ArgOfPericenter	-0.4088707196476533
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2424,18 +2420,18 @@ Asteroid "Alderaan fragment 114"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		224.2735061778474	//in km
-	RotationPeriod	6.738910604134786	//in hours
-	Obliquity		193.63031840615875
+	Radius		148.7415384392344	//in km
+	RotationPeriod	6.330557246274565	//in hours
+	Obliquity		184.71928730513574
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3460374285677332	//in AU
-		Eccentricity	0.1586822845544045
+		SemiMajorAxis	2.8615220506025456	//in AU
+		Eccentricity	0.19521848510968504
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.04121060796625653
-		ArgOfPericenter	0.06537248985901889
+		AscendingNode	242.38052227592158
+		ArgOfPericenter	-0.20028013426031366
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2445,18 +2441,18 @@ Asteroid "Alderaan fragment 115"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		52.56674964105193	//in km
-	RotationPeriod	14.729675985030502	//in hours
-	Obliquity		123.64352004468202
+	Radius		167.68341294101003	//in km
+	RotationPeriod	21.017105201390905	//in hours
+	Obliquity		20.116073424806842
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3838619796880915	//in AU
-		Eccentricity	0.1864788285515892
+		SemiMajorAxis	3.121603392746998	//in AU
+		Eccentricity	0.1569356358891923
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1747384314460102
-		ArgOfPericenter	0.33227078964048873
+		AscendingNode	242.25184401080452
+		ArgOfPericenter	-0.21804586271080217
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2466,18 +2462,18 @@ Asteroid "Alderaan fragment 116"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		53.629603158491726	//in km
-	RotationPeriod	12.71063778434569	//in hours
-	Obliquity		298.542385963533
+	Radius		112.40199515770661	//in km
+	RotationPeriod	14.451849676171658	//in hours
+	Obliquity		263.5583441966653
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4268720118808313	//in AU
-		Eccentricity	0.1842381828218362
+		SemiMajorAxis	2.5113739178835908	//in AU
+		Eccentricity	0.16079558500620214
 		Inclination		131.0	//in degrees
-		AscendingNode	0.09879865535941301
-		ArgOfPericenter	-0.3616738186526497
+		AscendingNode	241.63495192446604
+		ArgOfPericenter	0.48083355528673943
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2487,18 +2483,18 @@ Asteroid "Alderaan fragment 117"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		207.66127067299598	//in km
-	RotationPeriod	11.924046952427448	//in hours
-	Obliquity		170.42022577521143
+	Radius		139.6512885576355	//in km
+	RotationPeriod	8.620446289320274	//in hours
+	Obliquity		330.166291673902
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4792354893360815	//in AU
-		Eccentricity	0.1762409680524224
+		SemiMajorAxis	2.4018881874748854	//in AU
+		Eccentricity	0.11309133836827898
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2115574269602507
-		ArgOfPericenter	-0.12214964425633179
+		AscendingNode	241.8772631608967
+		ArgOfPericenter	0.10254092086988931
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2508,18 +2504,18 @@ Asteroid "Alderaan fragment 118"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.10993605216964	//in km
-	RotationPeriod	12.489661019074646	//in hours
-	Obliquity		319.7797342151386
+	Radius		64.41807593801819	//in km
+	RotationPeriod	7.73865017007413	//in hours
+	Obliquity		115.92762401659235
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2964541715455375	//in AU
-		Eccentricity	0.17915393346147684
+		SemiMajorAxis	2.430283047929586	//in AU
+		Eccentricity	0.18421351999129612
 		Inclination		131.0	//in degrees
-		AscendingNode	0.029043265402215246
-		ArgOfPericenter	-0.1797760453112054
+		AscendingNode	241.5404052890962
+		ArgOfPericenter	0.15556039653651743
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2529,18 +2525,18 @@ Asteroid "Alderaan fragment 119"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		76.49351932782109	//in km
-	RotationPeriod	8.512863429064147	//in hours
-	Obliquity		70.81164861474298
+	Radius		87.81886157650568	//in km
+	RotationPeriod	7.200752509373185	//in hours
+	Obliquity		303.00830208204485
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.032551049168189	//in AU
-		Eccentricity	0.169228577537657
+		SemiMajorAxis	2.7740425727868705	//in AU
+		Eccentricity	0.12326298570848968
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4659449660314334
-		ArgOfPericenter	0.0842282689048297
+		AscendingNode	242.38791751638124
+		ArgOfPericenter	-0.3186896320495549
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2550,18 +2546,18 @@ Asteroid "Alderaan fragment 120"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		144.7013599738923	//in km
-	RotationPeriod	4.978184686235531	//in hours
-	Obliquity		300.8930128291396
+	Radius		88.19459547692766	//in km
+	RotationPeriod	10.238471951237768	//in hours
+	Obliquity		288.74230497784475
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.386816523790775	//in AU
-		Eccentricity	0.17458140133482852
+		SemiMajorAxis	2.8882573313259323	//in AU
+		Eccentricity	0.17059649141461794
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4076479799599205
-		ArgOfPericenter	-0.22338187124234854
+		AscendingNode	242.04150508818765
+		ArgOfPericenter	-0.03292500383231245
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2571,18 +2567,16 @@ Asteroid "Alderaan fragment 121"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		62.588373250791335	//in km
-	RotationPeriod	21.62814568010871	//in hours
-	Obliquity		173.4108164937191
-
+	Radius		149.2330117455999	//in km
+	TidalLocked	true
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.598477384122864	//in AU
-		Eccentricity	0.15274636738943667
+		SemiMajorAxis	2.910174583731709	//in AU
+		Eccentricity	0.14986448584652054
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4588917617448921
-		ArgOfPericenter	-0.3358998292824923
+		AscendingNode	241.7135043167701
+		ArgOfPericenter	0.4866005932398879
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2592,18 +2586,18 @@ Asteroid "Alderaan fragment 122"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		23.323886230856253	//in km
-	RotationPeriod	7.384587091588189	//in hours
-	Obliquity		307.7202536624697
+	Radius		137.26961420117357	//in km
+	RotationPeriod	15.862562105396432	//in hours
+	Obliquity		334.0260027666192
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2501938901359844	//in AU
-		Eccentricity	0.16004904756673866
+		SemiMajorAxis	2.208084635880442	//in AU
+		Eccentricity	0.14998152636327422
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4355572559048654
-		ArgOfPericenter	0.09454227829100359
+		AscendingNode	242.28247580026894
+		ArgOfPericenter	0.40510220242733386
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2613,18 +2607,18 @@ Asteroid "Alderaan fragment 123"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		134.4491668152967	//in km
-	RotationPeriod	21.314799041064077	//in hours
-	Obliquity		220.0171421082091
+	Radius		172.15633622656185	//in km
+	RotationPeriod	13.831119434163812	//in hours
+	Obliquity		59.780347746204896
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1851396122450937	//in AU
-		Eccentricity	0.16966429700029917
+		SemiMajorAxis	2.7903956485812484	//in AU
+		Eccentricity	0.12179791551982098
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2872865980648237
-		ArgOfPericenter	0.3589031059601333
+		AscendingNode	241.93952178577126
+		ArgOfPericenter	0.13075772261752372
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2634,18 +2628,18 @@ Asteroid "Alderaan fragment 124"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		46.69755843999108	//in km
-	RotationPeriod	5.157672778447826	//in hours
-	Obliquity		66.79669209689737
+	Radius		125.79709434015722	//in km
+	RotationPeriod	14.452288351749573	//in hours
+	Obliquity		342.9842362077865
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7775847118931667	//in AU
-		Eccentricity	0.18336727459462163
+		SemiMajorAxis	2.4382095378359683	//in AU
+		Eccentricity	0.1835920838236779
 		Inclination		131.0	//in degrees
-		AscendingNode	0.138052412202609
-		ArgOfPericenter	-0.04462899756919858
+		AscendingNode	242.28960182364662
+		ArgOfPericenter	-0.03673216839885851
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2655,18 +2649,18 @@ Asteroid "Alderaan fragment 125"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		247.81692365756476	//in km
-	RotationPeriod	7.390051527561768	//in hours
-	Obliquity		157.62688375418065
+	Radius		90.4081675125515	//in km
+	RotationPeriod	13.153249753811641	//in hours
+	Obliquity		144.97118046787506
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.9894661400761362	//in AU
-		Eccentricity	0.20031210327246782
+		SemiMajorAxis	2.7933879658663137	//in AU
+		Eccentricity	0.15384479757974187
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.26453009531297944
-		ArgOfPericenter	0.03454297289307795
+		AscendingNode	242.35090967427237
+		ArgOfPericenter	-0.15750001637456024
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2676,18 +2670,18 @@ Asteroid "Alderaan fragment 126"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		42.86664004854473	//in km
-	RotationPeriod	12.2341174417334	//in hours
-	Obliquity		228.58235062786795
+	Radius		160.3252702349145	//in km
+	RotationPeriod	7.132574657191182	//in hours
+	Obliquity		239.73338675015881
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4359263827910618	//in AU
-		Eccentricity	0.14212152507588027
+		SemiMajorAxis	2.9719706277211646	//in AU
+		Eccentricity	0.1820202265958751
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4603458188347379
-		ArgOfPericenter	-0.44027826747966703
+		AscendingNode	242.06731614459466
+		ArgOfPericenter	-0.26635762763032
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2697,18 +2691,18 @@ Asteroid "Alderaan fragment 127"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		17.396097661283022	//in km
-	RotationPeriod	7.496317727879146	//in hours
-	Obliquity		58.42614807867219
+	Radius		172.14870774914604	//in km
+	RotationPeriod	10.904526033365823	//in hours
+	Obliquity		71.53658571308802
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9196817411029508	//in AU
-		Eccentricity	0.17897485375625946
+		SemiMajorAxis	3.4	//in AU
+		Eccentricity	0.15683942295776127
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.37421235100337014
-		ArgOfPericenter	0.3533155466974168
+		AscendingNode	241.82733471946293
+		ArgOfPericenter	0.2782462825734531
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2718,18 +2712,18 @@ Asteroid "Alderaan fragment 128"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		43.47403872172033	//in km
-	RotationPeriod	9.859416028491017	//in hours
-	Obliquity		103.39854996730263
+	Radius		158.35239990999185	//in km
+	RotationPeriod	10.627862953091139	//in hours
+	Obliquity		261.0511772688979
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.154553136222143	//in AU
-		Eccentricity	0.1728003877905718
+		SemiMajorAxis	1.8195380762111824	//in AU
+		Eccentricity	0.15204388807488278
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.30432103076752137
-		ArgOfPericenter	-0.30338700383089556
+		AscendingNode	242.06800559502182
+		ArgOfPericenter	-0.15296430490052404
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2739,18 +2733,18 @@ Asteroid "Alderaan fragment 129"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		161.04148169299958	//in km
-	RotationPeriod	11.845942523894125	//in hours
-	Obliquity		25.1302448750741
+	Radius		138.80412019173485	//in km
+	RotationPeriod	9.25843892824251	//in hours
+	Obliquity		94.65331414562326
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.445181502514876	//in AU
-		Eccentricity	0.14209783169498164
+		SemiMajorAxis	2.7302383614360313	//in AU
+		Eccentricity	0.1363207531150142
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.15350823384177392
-		ArgOfPericenter	-0.05913610187140739
+		AscendingNode	241.89950457342212
+		ArgOfPericenter	-0.3795731099891636
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2760,18 +2754,18 @@ Asteroid "Alderaan fragment 130"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		126.10954216221495	//in km
-	RotationPeriod	12.187725702300149	//in hours
-	Obliquity		349.9422428522085
+	Radius		161.700416190319	//in km
+	RotationPeriod	18.70953930778802	//in hours
+	Obliquity		179.72111032131366
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7258925809572054	//in AU
-		Eccentricity	0.1457751055867857
+		SemiMajorAxis	2.9416064036342178	//in AU
+		Eccentricity	0.17597466286957097
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4968684391513549
-		ArgOfPericenter	0.15539992417704107
+		AscendingNode	241.82277522892073
+		ArgOfPericenter	0.2139002445178262
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2781,18 +2775,18 @@ Asteroid "Alderaan fragment 131"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		70.93438143898764	//in km
-	RotationPeriod	5.32321586471372	//in hours
-	Obliquity		178.48301398339964
+	Radius		95.32000355300374	//in km
+	RotationPeriod	15.604563471133353	//in hours
+	Obliquity		15.602001063529558
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.290771428640195	//in AU
-		Eccentricity	0.1476253642818677
+		SemiMajorAxis	2.8133269458652186	//in AU
+		Eccentricity	0.1796681691540036
 		Inclination		131.0	//in degrees
-		AscendingNode	0.14318779193888875
-		ArgOfPericenter	-0.12224669009625289
+		AscendingNode	241.67680714013483
+		ArgOfPericenter	0.4980499013348987
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2802,18 +2796,18 @@ Asteroid "Alderaan fragment 132"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		137.80521601078783	//in km
-	RotationPeriod	8.845670262644827	//in hours
-	Obliquity		146.79978828345293
+	Radius		232.84683276880244	//in km
+	RotationPeriod	14.90425783716673	//in hours
+	Obliquity		123.84765007066561
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.710576496667233	//in AU
-		Eccentricity	0.1238927211800441
+		SemiMajorAxis	2.0127635875834233	//in AU
+		Eccentricity	0.13444399713844146
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.14527158202805057
-		ArgOfPericenter	-0.18764852073973792
+		AscendingNode	242.07465643995795
+		ArgOfPericenter	0.32824075486547444
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2823,18 +2817,18 @@ Asteroid "Alderaan fragment 133"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		51.08246350502983	//in km
-	RotationPeriod	17.083792943932437	//in hours
-	Obliquity		169.5276334320176
+	Radius		193.0568201385612	//in km
+	RotationPeriod	6.472772580056936	//in hours
+	Obliquity		332.03928405358823
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3179133043182705	//in AU
-		Eccentricity	0.1938701932362235
+		SemiMajorAxis	2.3533450169895254	//in AU
+		Eccentricity	0.16396681134614746
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2530603035155895
-		ArgOfPericenter	-0.04305454392368746
+		AscendingNode	241.58050543518667
+		ArgOfPericenter	0.08761965988828535
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2844,18 +2838,18 @@ Asteroid "Alderaan fragment 134"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		197.60301344435453	//in km
-	RotationPeriod	18.182958510736505	//in hours
-	Obliquity		156.6499117410311
+	Radius		196.1824709829546	//in km
+	RotationPeriod	18.005380140207972	//in hours
+	Obliquity		304.58956321048254
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5496867662386564	//in AU
-		Eccentricity	0.1634614787823232
+		SemiMajorAxis	2.5061554679425426	//in AU
+		Eccentricity	0.14287421129066244
 		Inclination		131.0	//in degrees
-		AscendingNode	0.15959866254163602
-		ArgOfPericenter	0.3035222108069301
+		AscendingNode	241.9753565008343
+		ArgOfPericenter	-0.15335612947175337
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2865,18 +2859,18 @@ Asteroid "Alderaan fragment 135"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		40.16195668127994	//in km
-	RotationPeriod	7.752223735028341	//in hours
-	Obliquity		161.0105106425714
+	Radius		111.03684837634073	//in km
+	RotationPeriod	10.825568710602978	//in hours
+	Obliquity		182.9851115449335
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4597453102560802	//in AU
-		Eccentricity	0.14069857829210813
+		SemiMajorAxis	2.5791949946111528	//in AU
+		Eccentricity	0.18783023449570455
 		Inclination		131.0	//in degrees
-		AscendingNode	0.046741420962117086
-		ArgOfPericenter	-0.06854513019176789
+		AscendingNode	241.9911996767921
+		ArgOfPericenter	0.2523754725885029
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2886,18 +2880,18 @@ Asteroid "Alderaan fragment 136"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		201.51596352685982	//in km
-	RotationPeriod	8.098414183687828	//in hours
-	Obliquity		33.14732702199197
+	Radius		182.39959166092615	//in km
+	RotationPeriod	7.217011830670894	//in hours
+	Obliquity		300.8624769208439
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2188218310663914	//in AU
-		Eccentricity	0.19705816116808406
+		SemiMajorAxis	2.1766522286228596	//in AU
+		Eccentricity	0.15811079615039209
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.08243584310390517
-		ArgOfPericenter	-0.15552335185526445
+		AscendingNode	242.32856778240023
+		ArgOfPericenter	-0.4889383555244442
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2907,18 +2901,18 @@ Asteroid "Alderaan fragment 137"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		128.23122750416184	//in km
-	RotationPeriod	15.021069669066502	//in hours
-	Obliquity		156.82487507297517
+	Radius		119.13828978143559	//in km
+	RotationPeriod	7.098409435145765	//in hours
+	Obliquity		8.408692056846396
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5718518543039726	//in AU
-		Eccentricity	0.16092252495943818
+		SemiMajorAxis	2.2253468770012916	//in AU
+		Eccentricity	0.17139155449474242
 		Inclination		131.0	//in degrees
-		AscendingNode	0.07635151686006814
-		ArgOfPericenter	-0.3946075768489582
+		AscendingNode	241.51015337176963
+		ArgOfPericenter	0.21715626824479173
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2928,18 +2922,18 @@ Asteroid "Alderaan fragment 138"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		157.59154328923276	//in km
-	RotationPeriod	13.663018416729043	//in hours
-	Obliquity		331.206801035282
+	Radius		121.19287753313023	//in km
+	RotationPeriod	4.657198993256496	//in hours
+	Obliquity		45.88264132260596
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3569638774995254	//in AU
-		Eccentricity	0.17838276695748295
+		SemiMajorAxis	2.1746421964117726	//in AU
+		Eccentricity	0.12483401808732783
 		Inclination		131.0	//in degrees
-		AscendingNode	0.056123350241358394
-		ArgOfPericenter	0.29413983074487815
+		AscendingNode	242.23361563396054
+		ArgOfPericenter	-0.0803196222272421
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2949,18 +2943,18 @@ Asteroid "Alderaan fragment 139"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		77.94812167155354	//in km
-	RotationPeriod	11.525318147102547	//in hours
-	Obliquity		303.87192765793685
+	Radius		224.08919831779357	//in km
+	RotationPeriod	12.314909696597864	//in hours
+	Obliquity		62.597574506713855
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.605838475045394	//in AU
-		Eccentricity	0.1761168251637248
+		SemiMajorAxis	2.4352437139966057	//in AU
+		Eccentricity	0.18106781361130841
 		Inclination		131.0	//in degrees
-		AscendingNode	0.0493885172255033
-		ArgOfPericenter	-0.2802142026704355
+		AscendingNode	241.78319610884665
+		ArgOfPericenter	0.46604395290239864
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2970,18 +2964,18 @@ Asteroid "Alderaan fragment 140"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.223657839807217	//in km
-	RotationPeriod	15.73096172510628	//in hours
-	Obliquity		281.33888713896386
+	Radius		137.9650018637411	//in km
+	RotationPeriod	15.53120403169434	//in hours
+	Obliquity		149.62549626284087
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.480645544674129	//in AU
-		Eccentricity	0.15695910000921776
+		SemiMajorAxis	2.360624642113758	//in AU
+		Eccentricity	0.16226750188840583
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.15512873165281027
-		ArgOfPericenter	-0.39029198922701724
+		AscendingNode	241.6632320648718
+		ArgOfPericenter	0.11254562636130827
 		RefPlane		"Ecliptic"
 	}
 }
@@ -2991,18 +2985,18 @@ Asteroid "Alderaan fragment 141"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		52.08861560214225	//in km
-	RotationPeriod	10.798036481602644	//in hours
-	Obliquity		192.41097124481294
+	Radius		188.21583535047472	//in km
+	RotationPeriod	9.798464405624578	//in hours
+	Obliquity		122.34476437339409
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.283169335820649	//in AU
-		Eccentricity	0.1619433783550049
+		SemiMajorAxis	2.2765925062916432	//in AU
+		Eccentricity	0.17818424573022093
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2641846576108303
-		ArgOfPericenter	-0.40457907814350524
+		AscendingNode	241.80634680308333
+		ArgOfPericenter	-0.09283241579764501
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3012,18 +3006,18 @@ Asteroid "Alderaan fragment 142"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		95.27197085938347	//in km
-	RotationPeriod	11.915770304256334	//in hours
-	Obliquity		323.02242435844715
+	Radius		244.1251944313724	//in km
+	RotationPeriod	4.674629902354667	//in hours
+	Obliquity		257.786703777958
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5691628207819375	//in AU
-		Eccentricity	0.15858276976560173
+		SemiMajorAxis	2.575591834822261	//in AU
+		Eccentricity	0.16917007163142272
 		Inclination		131.0	//in degrees
-		AscendingNode	0.02612069711330889
-		ArgOfPericenter	-0.15969161509956808
+		AscendingNode	242.35210346572035
+		ArgOfPericenter	0.31596627031349667
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3033,18 +3027,18 @@ Asteroid "Alderaan fragment 143"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		20.447120685227137	//in km
-	RotationPeriod	15.235955847871228	//in hours
-	Obliquity		206.9606433583301
+	Radius		256.51556469802773	//in km
+	RotationPeriod	8.14682652900791	//in hours
+	Obliquity		2.8905603903935573
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.333716722823106	//in AU
-		Eccentricity	0.17252178736156762
+		SemiMajorAxis	2.143477659180255	//in AU
+		Eccentricity	0.17968427399822234
 		Inclination		131.0	//in degrees
-		AscendingNode	0.48846724932136776
-		ArgOfPericenter	-0.0714592532863535
+		AscendingNode	241.7614304572611
+		ArgOfPericenter	0.32641765276932744
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3054,18 +3048,18 @@ Asteroid "Alderaan fragment 144"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		128.08517998661634	//in km
-	RotationPeriod	15.658953064809683	//in hours
-	Obliquity		19.05498857744499
+	Radius		236.9125434799372	//in km
+	RotationPeriod	13.42714902522675	//in hours
+	Obliquity		99.0015647158981
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7722126211311036	//in AU
-		Eccentricity	0.19649355073844096
+		SemiMajorAxis	2.9449874240309195	//in AU
+		Eccentricity	0.15456866250394558
 		Inclination		131.0	//in degrees
-		AscendingNode	0.05063348465776507
-		ArgOfPericenter	-0.0442916583397861
+		AscendingNode	242.46304506589846
+		ArgOfPericenter	0.36771501579078536
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3075,18 +3069,18 @@ Asteroid "Alderaan fragment 145"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.58694566954081	//in km
-	RotationPeriod	21.590321863438408	//in hours
-	Obliquity		316.7891720470013
+	Radius		184.82470426508013	//in km
+	RotationPeriod	13.021992029695545	//in hours
+	Obliquity		51.85545606668296
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2255413933552353	//in AU
-		Eccentricity	0.12091545229111433
+		SemiMajorAxis	2.7848020990482083	//in AU
+		Eccentricity	0.1441286134671032
 		Inclination		131.0	//in degrees
-		AscendingNode	0.36378760435259416
-		ArgOfPericenter	-0.23019016614371224
+		AscendingNode	242.459663778556
+		ArgOfPericenter	0.1464232323017497
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3096,18 +3090,18 @@ Asteroid "Alderaan fragment 146"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		10.616600987872921	//in km
-	RotationPeriod	16.107427577573336	//in hours
-	Obliquity		278.005195385807
+	Radius		5.98379	//in km
+	RotationPeriod	13.942356153727768	//in hours
+	Obliquity		38.11722591100462
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2212073351205874	//in AU
-		Eccentricity	0.14501367827554265
+		SemiMajorAxis	2.035771452052237	//in AU
+		Eccentricity	0.18052727467678742
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.014202718664492964
-		ArgOfPericenter	-0.30039681456674416
+		AscendingNode	241.64788330328818
+		ArgOfPericenter	-0.15011403798802525
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3117,18 +3111,18 @@ Asteroid "Alderaan fragment 147"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		85.53809166835048	//in km
-	RotationPeriod	10.657607791138213	//in hours
-	Obliquity		317.7419635755187
+	Radius		124.72335384939704	//in km
+	RotationPeriod	5.22788044723017	//in hours
+	Obliquity		50.021117456628104
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3687961800520583	//in AU
-		Eccentricity	0.15584017874138864
+		SemiMajorAxis	2.9674817441946564	//in AU
+		Eccentricity	0.12884633064051645
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3098035434518214
-		ArgOfPericenter	-0.026405865743667878
+		AscendingNode	242.06232383633775
+		ArgOfPericenter	0.3376869339199252
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3138,18 +3132,18 @@ Asteroid "Alderaan fragment 148"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		85.40582663927462	//in km
-	RotationPeriod	14.774766516724606	//in hours
-	Obliquity		153.0697023531007
+	Radius		116.71853075292697	//in km
+	RotationPeriod	18.48615704488415	//in hours
+	Obliquity		256.49179120639934
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.319987282029962	//in AU
-		Eccentricity	0.19454130100999661
+		SemiMajorAxis	2.607532629533831	//in AU
+		Eccentricity	0.12487748310968104
 		Inclination		131.0	//in degrees
-		AscendingNode	0.27586860831053783
-		ArgOfPericenter	0.37189886732420085
+		AscendingNode	242.2923240238239
+		ArgOfPericenter	-0.4055479542322199
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3159,18 +3153,18 @@ Asteroid "Alderaan fragment 149"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		12.916141449302785	//in km
-	RotationPeriod	14.483235348931279	//in hours
-	Obliquity		248.82591534275727
+	Radius		167.13996410927288	//in km
+	RotationPeriod	6.435645401837008	//in hours
+	Obliquity		144.06462289690305
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.903838697370987	//in AU
-		Eccentricity	0.14611266994793565
+		SemiMajorAxis	2.6164216353194374	//in AU
+		Eccentricity	0.1577122068538793
 		Inclination		131.0	//in degrees
-		AscendingNode	0.35821115847297136
-		ArgOfPericenter	-0.2669752493407396
+		AscendingNode	242.05419819632607
+		ArgOfPericenter	0.482646754496851
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3180,18 +3174,18 @@ Asteroid "Alderaan fragment 150"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		197.17542699612903	//in km
-	RotationPeriod	5.755580321779358	//in hours
-	Obliquity		187.01518486715457
+	Radius		54.479947171697646	//in km
+	RotationPeriod	17.18648084575592	//in hours
+	Obliquity		198.7579765668187
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.615241823419979	//in AU
-		Eccentricity	0.1451862664155477
+		SemiMajorAxis	2.3196000508484813	//in AU
+		Eccentricity	0.17794095135036606
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.06456447822697309
-		ArgOfPericenter	0.35279224833490186
+		AscendingNode	241.87968763619298
+		ArgOfPericenter	0.08317371898869974
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3201,18 +3195,18 @@ Asteroid "Alderaan fragment 151"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		197.7435309943629	//in km
-	RotationPeriod	12.024739217641105	//in hours
-	Obliquity		65.72779699523615
+	Radius		158.05040146056467	//in km
+	RotationPeriod	10.061208679437543	//in hours
+	Obliquity		234.05139466547945
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.815285586699904	//in AU
-		Eccentricity	0.12649664947529873
+		SemiMajorAxis	3.00585893021423	//in AU
+		Eccentricity	0.15901265192149916
 		Inclination		131.0	//in degrees
-		AscendingNode	0.10869660627884892
-		ArgOfPericenter	0.34927676191431356
+		AscendingNode	242.27412305881248
+		ArgOfPericenter	-0.21829414990556428
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3222,18 +3216,18 @@ Asteroid "Alderaan fragment 152"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		55.81870777759813	//in km
-	RotationPeriod	12.768175833336265	//in hours
-	Obliquity		89.2963369733721
+	Radius		151.92996806566038	//in km
+	RotationPeriod	12.945920159198716	//in hours
+	Obliquity		47.4786805717777
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7568450625804823	//in AU
-		Eccentricity	0.1614412579792077
+		SemiMajorAxis	3.012778671397445	//in AU
+		Eccentricity	0.1470217535382439
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4867857890470628
-		ArgOfPericenter	-0.23509766358506168
+		AscendingNode	242.23295038694528
+		ArgOfPericenter	0.33147746561606906
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3243,18 +3237,18 @@ Asteroid "Alderaan fragment 153"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		128.06157663292203	//in km
-	RotationPeriod	17.145345930910864	//in hours
-	Obliquity		158.1146938243308
+	Radius		192.22749571655737	//in km
+	RotationPeriod	8.082420699674806	//in hours
+	Obliquity		326.89480547217073
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6799810670489905	//in AU
-		Eccentricity	0.13340050152366306
+		SemiMajorAxis	2.5601850332411007	//in AU
+		Eccentricity	0.1507000863690148
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3348123360898858
-		ArgOfPericenter	-0.012843489551614073
+		AscendingNode	241.75041531663246
+		ArgOfPericenter	-0.3199319889941886
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3264,18 +3258,18 @@ Asteroid "Alderaan fragment 154"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		41.570760714232634	//in km
-	RotationPeriod	14.685116518836738	//in hours
-	Obliquity		109.69975655294445
+	Radius		172.53999163491002	//in km
+	RotationPeriod	11.384923338315064	//in hours
+	Obliquity		49.908365572081465
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.964510182637223	//in AU
-		Eccentricity	0.14912484786869673
+		SemiMajorAxis	2.262538095748405	//in AU
+		Eccentricity	0.2149325443176331
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19919459436467035
-		ArgOfPericenter	0.13400492931107333
+		AscendingNode	242.3652802003679
+		ArgOfPericenter	0.47673898897050027
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3285,18 +3279,18 @@ Asteroid "Alderaan fragment 155"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		10.955010578033804	//in km
-	RotationPeriod	7.922276884511663	//in hours
-	Obliquity		125.96625767774164
+	Radius		267.4884477181481	//in km
+	RotationPeriod	10.371443157417561	//in hours
+	Obliquity		181.12742967414235
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.354275247947646	//in AU
-		Eccentricity	0.20508645193826036
+		SemiMajorAxis	2.9660448307106866	//in AU
+		Eccentricity	0.1634333966705567
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3869616033507842
-		ArgOfPericenter	0.44607127587705697
+		AscendingNode	241.60108186882047
+		ArgOfPericenter	0.17643757358810264
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3306,18 +3300,18 @@ Asteroid "Alderaan fragment 156"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.657661655841247	//in km
-	RotationPeriod	17.22350324836203	//in hours
-	Obliquity		306.3290689622446
+	Radius		171.0118157002227	//in km
+	RotationPeriod	12.557534119610056	//in hours
+	Obliquity		303.43347082266837
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2562655490903523	//in AU
-		Eccentricity	0.14025734180976385
+		SemiMajorAxis	2.7229430908075893	//in AU
+		Eccentricity	0.1805767321448215
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.48191587559537763
-		ArgOfPericenter	0.18298697145312004
+		AscendingNode	241.585297556092
+		ArgOfPericenter	0.29462388837005593
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3327,18 +3321,18 @@ Asteroid "Alderaan fragment 157"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		73.04697311067065	//in km
-	RotationPeriod	18.22273821471786	//in hours
-	Obliquity		81.55744933609901
+	Radius		181.7818918913363	//in km
+	RotationPeriod	8.520014581999693	//in hours
+	Obliquity		330.8706517512537
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6728576699755315	//in AU
-		Eccentricity	0.11729637703319465
+		SemiMajorAxis	2.5277492686159913	//in AU
+		Eccentricity	0.14666997091456851
 		Inclination		131.0	//in degrees
-		AscendingNode	0.45255671011738996
-		ArgOfPericenter	0.17466859273116753
+		AscendingNode	241.6023277592509
+		ArgOfPericenter	0.44474167681292454
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3348,18 +3342,18 @@ Asteroid "Alderaan fragment 158"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		58.311825821725016	//in km
-	RotationPeriod	14.720980848891902	//in hours
-	Obliquity		253.1193804615806
+	Radius		137.1740742184347	//in km
+	RotationPeriod	11.748065865740411	//in hours
+	Obliquity		124.39239360647346
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0191738121012603	//in AU
-		Eccentricity	0.16346297296931472
+		SemiMajorAxis	2.644766825332649	//in AU
+		Eccentricity	0.17629841619326733
 		Inclination		131.0	//in degrees
-		AscendingNode	0.0008018316199713826
-		ArgOfPericenter	0.4179210959591605
+		AscendingNode	242.48189379503003
+		ArgOfPericenter	0.09212654958097655
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3369,18 +3363,18 @@ Asteroid "Alderaan fragment 159"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		53.93555681253985	//in km
-	RotationPeriod	11.925018161313288	//in hours
-	Obliquity		144.81786622112807
+	Radius		175.70965102464646	//in km
+	RotationPeriod	12.057158615830918	//in hours
+	Obliquity		217.3013847534326
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.529139368862085	//in AU
-		Eccentricity	0.12475983652895804
+		SemiMajorAxis	1.9663437692595227	//in AU
+		Eccentricity	0.16855258337186188
 		Inclination		131.0	//in degrees
-		AscendingNode	0.28149866827659775
-		ArgOfPericenter	0.14851302958075419
+		AscendingNode	242.04332605004288
+		ArgOfPericenter	0.31262138700208597
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3390,18 +3384,18 @@ Asteroid "Alderaan fragment 160"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		124.11931784173683	//in km
-	RotationPeriod	7.348315226296181	//in hours
-	Obliquity		83.31997178085018
+	Radius		113.55337091950486	//in km
+	RotationPeriod	13.946830285699797	//in hours
+	Obliquity		349.5055752172581
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5497170873129136	//in AU
-		Eccentricity	0.15090651177618825
+		SemiMajorAxis	2.8937679274921932	//in AU
+		Eccentricity	0.15973322561846615
 		Inclination		131.0	//in degrees
-		AscendingNode	0.33662516673503473
-		ArgOfPericenter	-0.04019941611588762
+		AscendingNode	242.29989476051463
+		ArgOfPericenter	0.4239001619570587
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3411,18 +3405,18 @@ Asteroid "Alderaan fragment 161"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		173.1083112122495	//in km
-	RotationPeriod	18.312666172139096	//in hours
-	Obliquity		137.0869933714123
+	Radius		188.5750829790049	//in km
+	RotationPeriod	12.895525583165158	//in hours
+	Obliquity		259.8747860094007
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.23881026477412	//in AU
-		Eccentricity	0.1897052820268363
+		SemiMajorAxis	2.544381202860345	//in AU
+		Eccentricity	0.16690110637392466
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3793496508237213
-		ArgOfPericenter	-0.04219110442496443
+		AscendingNode	241.89948200894247
+		ArgOfPericenter	0.061477514637514274
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3432,18 +3426,18 @@ Asteroid "Alderaan fragment 162"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		131.8419806087246	//in km
-	RotationPeriod	10.541774950445708	//in hours
-	Obliquity		3.0143050864587773
+	Radius		144.93285811934973	//in km
+	RotationPeriod	9.719619811906806	//in hours
+	Obliquity		286.9577764857973
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0586745547963696	//in AU
-		Eccentricity	0.17504968109086008
+		SemiMajorAxis	3.0420901360963164	//in AU
+		Eccentricity	0.15942204018316733
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2794607663212165
-		ArgOfPericenter	0.10432332090007412
+		AscendingNode	242.21646272189057
+		ArgOfPericenter	-0.024423377543657754
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3453,18 +3447,18 @@ Asteroid "Alderaan fragment 163"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		105.81851084497268	//in km
-	RotationPeriod	16.621530131184933	//in hours
-	Obliquity		213.73345434934868
+	Radius		29.479198807537827	//in km
+	RotationPeriod	9.012066517481935	//in hours
+	Obliquity		304.7755500818564
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5901416622667695	//in AU
-		Eccentricity	0.16603143215796257
+		SemiMajorAxis	2.424385833233699	//in AU
+		Eccentricity	0.1902872549997664
 		Inclination		131.0	//in degrees
-		AscendingNode	0.16223883378724469
-		ArgOfPericenter	-0.11778698682116817
+		AscendingNode	241.63980881574986
+		ArgOfPericenter	0.47891651997740314
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3474,18 +3468,18 @@ Asteroid "Alderaan fragment 164"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		92.45143924145574	//in km
-	RotationPeriod	13.989827141161058	//in hours
-	Obliquity		43.38289107927692
+	Radius		109.07249104463568	//in km
+	RotationPeriod	14.993485584710182	//in hours
+	Obliquity		244.9051156640624
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.285607135993984	//in AU
-		Eccentricity	0.16154012382487723
+		SemiMajorAxis	2.444305044531979	//in AU
+		Eccentricity	0.1692382811367603
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.24252833834105203
-		ArgOfPericenter	0.12938563720618979
+		AscendingNode	241.7852619752014
+		ArgOfPericenter	-0.0947355626654417
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3495,18 +3489,18 @@ Asteroid "Alderaan fragment 165"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		5.955951892513786	//in km
-	RotationPeriod	8.754167396279811	//in hours
-	Obliquity		333.2041409987093
+	Radius		131.82114129886196	//in km
+	RotationPeriod	7.284416235153718	//in hours
+	Obliquity		131.8180321523052
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4693450956971943	//in AU
-		Eccentricity	0.14859440982157035
+		SemiMajorAxis	2.5490321302936847	//in AU
+		Eccentricity	0.1745220959199931
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4417946875213403
-		ArgOfPericenter	0.2443548546797495
+		AscendingNode	242.02009867370703
+		ArgOfPericenter	-0.10349485196412167
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3516,18 +3510,18 @@ Asteroid "Alderaan fragment 166"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		108.30406769907623	//in km
-	RotationPeriod	9.005268072938186	//in hours
-	Obliquity		348.9029591134578
+	Radius		146.32537459098705	//in km
+	RotationPeriod	10.872470082643089	//in hours
+	Obliquity		18.851093831091013
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.542875506534547	//in AU
-		Eccentricity	0.17866581018864458
+		SemiMajorAxis	2.6317353055678554	//in AU
+		Eccentricity	0.1642599006571126
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3893006707053821
-		ArgOfPericenter	0.16198388107220185
+		AscendingNode	241.79810402705996
+		ArgOfPericenter	-0.20578756152499933
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3537,18 +3531,18 @@ Asteroid "Alderaan fragment 167"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		60.36881062522018	//in km
-	RotationPeriod	12.085317007442823	//in hours
-	Obliquity		179.18109781218647
+	Radius		82.97716365038745	//in km
+	RotationPeriod	12.774286100114796	//in hours
+	Obliquity		83.48519134619329
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3326336851021607	//in AU
-		Eccentricity	0.14737852667573637
+		SemiMajorAxis	2.6742281479061303	//in AU
+		Eccentricity	0.14564109291555852
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3495073003197412
-		ArgOfPericenter	0.10328786169853976
+		AscendingNode	242.28905861020965
+		ArgOfPericenter	0.019794354299213945
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3558,18 +3552,18 @@ Asteroid "Alderaan fragment 168"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		13.010000743754109	//in km
-	RotationPeriod	6.318040164812407	//in hours
-	Obliquity		142.57387011415346
+	Radius		101.58742395990785	//in km
+	RotationPeriod	13.802843870980293	//in hours
+	Obliquity		259.93089663225004
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.442563163665122	//in AU
-		Eccentricity	0.2062105631039482
+		SemiMajorAxis	2.3334371419378286	//in AU
+		Eccentricity	0.13350212193967986
 		Inclination		131.0	//in degrees
-		AscendingNode	0.148491979596597
-		ArgOfPericenter	-0.4727668359834266
+		AscendingNode	241.90773254376936
+		ArgOfPericenter	0.21764412478667972
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3579,18 +3573,18 @@ Asteroid "Alderaan fragment 169"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		1.1450220735324903	//in km
-	RotationPeriod	6.552643171440724	//in hours
-	Obliquity		60.96828242868945
+	Radius		268.7597969248088	//in km
+	RotationPeriod	11.894456672109353	//in hours
+	Obliquity		163.30508111403148
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5168833647434568	//in AU
-		Eccentricity	0.17020170883483618
+		SemiMajorAxis	2.8237406893402883	//in AU
+		Eccentricity	0.16135607588091083
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.021242355447052996
-		ArgOfPericenter	-0.2042904134750243
+		AscendingNode	242.36262486172606
+		ArgOfPericenter	-0.3539012932632477
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3600,18 +3594,18 @@ Asteroid "Alderaan fragment 170"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.172075501677227	//in km
-	RotationPeriod	18.61142295179672	//in hours
-	Obliquity		168.51147395839
+	Radius		171.22836863994553	//in km
+	RotationPeriod	3.3590126063337014	//in hours
+	Obliquity		11.188117025432657
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0188555003128412	//in AU
-		Eccentricity	0.15026248117872198
+		SemiMajorAxis	2.4981539231801513	//in AU
+		Eccentricity	0.13199770940836092
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3814365727658481
-		ArgOfPericenter	-0.18170615816416547
+		AscendingNode	241.5028204803392
+		ArgOfPericenter	0.35441126358936825
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3621,18 +3615,18 @@ Asteroid "Alderaan fragment 171"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		62.8159429982314	//in km
-	RotationPeriod	12.309833379623651	//in hours
-	Obliquity		48.0973657246354
+	Radius		155.4377291964592	//in km
+	RotationPeriod	10.050863925328581	//in hours
+	Obliquity		269.87122162752314
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0977436047586733	//in AU
-		Eccentricity	0.21097825263188558
+		SemiMajorAxis	2.4056163968661837	//in AU
+		Eccentricity	0.16570801863986342
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4542028495157394
-		ArgOfPericenter	-0.13795249078773175
+		AscendingNode	241.7917770604835
+		ArgOfPericenter	-0.4164575288224558
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3642,18 +3636,18 @@ Asteroid "Alderaan fragment 172"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		69.63117867059142	//in km
-	RotationPeriod	16.672213661850094	//in hours
-	Obliquity		36.57481750500685
+	Radius		143.77610918995055	//in km
+	RotationPeriod	8.783142974966076	//in hours
+	Obliquity		281.21150443423846
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9380616782893427	//in AU
-		Eccentricity	0.1665927175362454
+		SemiMajorAxis	3.02908332442711	//in AU
+		Eccentricity	0.20328522010598749
 		Inclination		131.0	//in degrees
-		AscendingNode	0.019087254833692113
-		ArgOfPericenter	0.18116545575856757
+		AscendingNode	242.35674261054243
+		ArgOfPericenter	0.08364677890599659
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3663,18 +3657,18 @@ Asteroid "Alderaan fragment 173"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		98.74057948901391	//in km
-	RotationPeriod	10.349581016575485	//in hours
-	Obliquity		122.54943492210873
+	Radius		184.31091708308097	//in km
+	RotationPeriod	7.423420268433075	//in hours
+	Obliquity		311.75255461083407
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.571960581241046	//in AU
-		Eccentricity	0.1353966284271926
+		SemiMajorAxis	2.6731116385869953	//in AU
+		Eccentricity	0.16111828074941237
 		Inclination		131.0	//in degrees
-		AscendingNode	0.001620998104482796
-		ArgOfPericenter	-0.48070196706075563
+		AscendingNode	241.73082767861501
+		ArgOfPericenter	0.44075779122792724
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3684,18 +3678,18 @@ Asteroid "Alderaan fragment 174"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.42888434469702	//in km
-	RotationPeriod	17.915582898553573	//in hours
-	Obliquity		105.9273761455716
+	Radius		219.89858763806427	//in km
+	RotationPeriod	19.883228405448147	//in hours
+	Obliquity		261.2734494264439
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.113478945606599	//in AU
-		Eccentricity	0.18846566152123223
+		SemiMajorAxis	2.676387623427647	//in AU
+		Eccentricity	0.1547834947440505
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4643941225631847
-		ArgOfPericenter	-0.1493511111001723
+		AscendingNode	241.91181253500883
+		ArgOfPericenter	0.08824980480500277
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3705,18 +3699,18 @@ Asteroid "Alderaan fragment 175"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		58.00823885528335	//in km
-	RotationPeriod	19.894690275782384	//in hours
-	Obliquity		114.8390699863331
+	Radius		169.06692776916177	//in km
+	RotationPeriod	15.284018020183336	//in hours
+	Obliquity		126.67542061196696
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.822127197765261	//in AU
-		Eccentricity	0.14411398617189725
+		SemiMajorAxis	2.289659001397017	//in AU
+		Eccentricity	0.12071964442525325
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4462059588463986
-		ArgOfPericenter	0.050112519001364375
+		AscendingNode	242.4579439633042
+		ArgOfPericenter	-0.4035503277903617
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3726,18 +3720,18 @@ Asteroid "Alderaan fragment 176"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		87.33290645749945	//in km
-	RotationPeriod	17.84978000769826	//in hours
-	Obliquity		4.317463082756765
+	Radius		162.01967897053217	//in km
+	RotationPeriod	14.308132349294112	//in hours
+	Obliquity		83.2093398747144
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.9993636306855835	//in AU
-		Eccentricity	0.15718871820379496
+		SemiMajorAxis	3.076453916878907	//in AU
+		Eccentricity	0.1424283977333731
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.34782212100552734
-		ArgOfPericenter	0.2856115691392517
+		AscendingNode	241.77252648293978
+		ArgOfPericenter	-0.08371766352371701
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3747,18 +3741,18 @@ Asteroid "Alderaan fragment 177"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		52.791819490085544	//in km
-	RotationPeriod	15.090765834975542	//in hours
-	Obliquity		201.86462632357257
+	Radius		113.43886491817398	//in km
+	RotationPeriod	15.578182405639456	//in hours
+	Obliquity		250.7143252729357
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.529550360172781	//in AU
-		Eccentricity	0.14958994750672486
+		SemiMajorAxis	2.7822016733576804	//in AU
+		Eccentricity	0.17914164664756724
 		Inclination		131.0	//in degrees
-		AscendingNode	0.25292415142360714
-		ArgOfPericenter	-0.23594822096799284
+		AscendingNode	242.12849347480426
+		ArgOfPericenter	0.4200864783279229
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3768,18 +3762,18 @@ Asteroid "Alderaan fragment 178"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		16.424693344281696	//in km
-	RotationPeriod	17.130258326339778	//in hours
-	Obliquity		257.43657040622793
+	Radius		130.28533654451255	//in km
+	RotationPeriod	15.762869834258982	//in hours
+	Obliquity		303.8879813646272
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.253384630724841	//in AU
-		Eccentricity	0.19849248879811204
+		SemiMajorAxis	2.5321668655056726	//in AU
+		Eccentricity	0.15370217935511535
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.017586929333711865
-		ArgOfPericenter	-0.012059910389015327
+		AscendingNode	241.80698995374667
+		ArgOfPericenter	-0.2959005694942791
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3789,18 +3783,18 @@ Asteroid "Alderaan fragment 179"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		99.22563212453981	//in km
-	RotationPeriod	12.580939602483378	//in hours
-	Obliquity		179.40677537010853
+	Radius		244.39016177641537	//in km
+	RotationPeriod	6.83373996092247	//in hours
+	Obliquity		149.0370347168829
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.104827601413187	//in AU
-		Eccentricity	0.21230154037190724
+		SemiMajorAxis	2.5968451242947044	//in AU
+		Eccentricity	0.15284314267214485
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3607731598056835
-		ArgOfPericenter	0.32652711380803834
+		AscendingNode	242.23485777907686
+		ArgOfPericenter	0.2666245404520289
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3810,18 +3804,18 @@ Asteroid "Alderaan fragment 180"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		50.90085114920917	//in km
-	RotationPeriod	14.70876469839606	//in hours
-	Obliquity		264.72388718788324
+	Radius		99.5546508957944	//in km
+	RotationPeriod	10.07674254392898	//in hours
+	Obliquity		334.2973859681728
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.214243328263276	//in AU
-		Eccentricity	0.12681315883259028
+		SemiMajorAxis	2.5572042949849108	//in AU
+		Eccentricity	0.14358084825365486
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.0644276241567755
-		ArgOfPericenter	-0.24846969534577246
+		AscendingNode	241.65486569156
+		ArgOfPericenter	-0.44143548798597665
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3831,18 +3825,18 @@ Asteroid "Alderaan fragment 181"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		156.31733658525383	//in km
-	RotationPeriod	12.583007636411198	//in hours
-	Obliquity		356.60597876337994
+	Radius		120.8560695320399	//in km
+	RotationPeriod	13.153378574210215	//in hours
+	Obliquity		65.14954662454701
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.811526531666109	//in AU
-		Eccentricity	0.13180908076471703
+		SemiMajorAxis	2.661163699041356	//in AU
+		Eccentricity	0.18638940414278898
 		Inclination		131.0	//in degrees
-		AscendingNode	0.47857200408940437
-		ArgOfPericenter	-0.4020846445531351
+		AscendingNode	242.25664179805236
+		ArgOfPericenter	-0.36303520259570965
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3852,18 +3846,18 @@ Asteroid "Alderaan fragment 182"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		129.2297162297722	//in km
-	RotationPeriod	9.900424957068783	//in hours
-	Obliquity		224.0293911402262
+	Radius		176.0436129206622	//in km
+	RotationPeriod	19.409226393272213	//in hours
+	Obliquity		154.3681417518921
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2065683851344597	//in AU
-		Eccentricity	0.17085111082106955
+		SemiMajorAxis	2.5499834358063644	//in AU
+		Eccentricity	0.19861621552895464
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3458650122486553
-		ArgOfPericenter	-0.27844069183202813
+		AscendingNode	241.67641205412764
+		ArgOfPericenter	-0.30360343487172303
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3873,18 +3867,18 @@ Asteroid "Alderaan fragment 183"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		43.4854584205124	//in km
-	RotationPeriod	15.732576066434994	//in hours
-	Obliquity		306.4924550672208
+	Radius		103.7260300073313	//in km
+	RotationPeriod	15.201501171617116	//in hours
+	Obliquity		203.03605902550055
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2528689659832133	//in AU
-		Eccentricity	0.15716965889646367
+		SemiMajorAxis	2.8233881618821206	//in AU
+		Eccentricity	0.16845621941960245
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4904328315046821
-		ArgOfPericenter	-0.3646169515600839
+		AscendingNode	242.04467622320658
+		ArgOfPericenter	-0.28332039671845843
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3894,18 +3888,18 @@ Asteroid "Alderaan fragment 184"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		119.41668820746905	//in km
-	RotationPeriod	7.275834666733849	//in hours
-	Obliquity		21.77761783336365
+	Radius		275.17718223362	//in km
+	RotationPeriod	10.3085440851437	//in hours
+	Obliquity		121.39421616960524
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.970484511367728	//in AU
-		Eccentricity	0.1543147314550646
+		SemiMajorAxis	2.2281910820626414	//in AU
+		Eccentricity	0.17390363512029208
 		Inclination		131.0	//in degrees
-		AscendingNode	0.08356402508167693
-		ArgOfPericenter	0.3435045513085151
+		AscendingNode	242.001974822041
+		ArgOfPericenter	-0.06488800227569824
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3915,18 +3909,18 @@ Asteroid "Alderaan fragment 185"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		65.6922419434777	//in km
-	RotationPeriod	17.484558273597784	//in hours
-	Obliquity		2.494184083279052
+	Radius		224.76094331319436	//in km
+	RotationPeriod	6.5322618105100005	//in hours
+	Obliquity		131.12429198779174
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3914430951204535	//in AU
-		Eccentricity	0.17356938241165712
+		SemiMajorAxis	2.8679545086913487	//in AU
+		Eccentricity	0.17941946355715835
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.07481573666753383
-		ArgOfPericenter	-0.14474175947263168
+		AscendingNode	242.38740252421417
+		ArgOfPericenter	-0.39553597307707755
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3936,18 +3930,18 @@ Asteroid "Alderaan fragment 186"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		196.25757250167587	//in km
-	RotationPeriod	19.067314521267235	//in hours
-	Obliquity		319.64552363041247
+	Radius		163.97863859656482	//in km
+	RotationPeriod	14.76676493820798	//in hours
+	Obliquity		353.6793672948038
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7184105188620222	//in AU
-		Eccentricity	0.1360834489808876
+		SemiMajorAxis	3.1650738726642746	//in AU
+		Eccentricity	0.17932405501358814
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.16061747466169007
-		ArgOfPericenter	0.034431809824978066
+		AscendingNode	242.34070718735822
+		ArgOfPericenter	0.35798960751944486
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3957,18 +3951,18 @@ Asteroid "Alderaan fragment 187"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		88.99350456719894	//in km
-	RotationPeriod	18.738263941333674	//in hours
-	Obliquity		324.34804987397916
+	Radius		145.23759097030347	//in km
+	RotationPeriod	15.312450428217979	//in hours
+	Obliquity		144.37950497001043
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.175477508804689	//in AU
-		Eccentricity	0.1915470157139264
+		SemiMajorAxis	2.2900920669066913	//in AU
+		Eccentricity	0.17165894821894143
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.37179638352354205
-		ArgOfPericenter	0.32173366058489705
+		AscendingNode	241.95432972101358
+		ArgOfPericenter	0.0018398193847715127
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3978,18 +3972,18 @@ Asteroid "Alderaan fragment 188"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.847723484158308	//in km
-	RotationPeriod	10.953169134543025	//in hours
-	Obliquity		358.17960530610094
+	Radius		112.46926330181887	//in km
+	RotationPeriod	11.86817098245024	//in hours
+	Obliquity		250.07530396942738
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.63286592029902	//in AU
-		Eccentricity	0.14855872433697292
+		SemiMajorAxis	2.704388313798042	//in AU
+		Eccentricity	0.15902376650811875
 		Inclination		131.0	//in degrees
-		AscendingNode	0.38387780155056705
-		ArgOfPericenter	-0.3140345458138578
+		AscendingNode	242.1075237646953
+		ArgOfPericenter	0.030671174877941798
 		RefPlane		"Ecliptic"
 	}
 }
@@ -3999,18 +3993,18 @@ Asteroid "Alderaan fragment 189"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		62.25182908868416	//in km
-	RotationPeriod	12.469960642833422	//in hours
-	Obliquity		37.29730897305352
+	Radius		193.11723086869395	//in km
+	RotationPeriod	14.872788372170813	//in hours
+	Obliquity		226.28221375869612
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0631883673845453	//in AU
-		Eccentricity	0.17489770892346787
+		SemiMajorAxis	2.596282667805262	//in AU
+		Eccentricity	0.11597053862764914
 		Inclination		131.0	//in degrees
-		AscendingNode	0.22632748178022566
-		ArgOfPericenter	0.021599935155803163
+		AscendingNode	241.78778712420092
+		ArgOfPericenter	-0.1917648578416492
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4020,18 +4014,18 @@ Asteroid "Alderaan fragment 190"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		63.33139698315079	//in km
-	RotationPeriod	8.771981353994297	//in hours
-	Obliquity		188.26419405460376
+	Radius		160.70000907441374	//in km
+	RotationPeriod	5.072184719326016	//in hours
+	Obliquity		186.41303374327262
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.3073941671240807	//in AU
-		Eccentricity	0.17215703698129156
+		SemiMajorAxis	2.3400604244413925	//in AU
+		Eccentricity	0.1585468935713692
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2360328606584312
-		ArgOfPericenter	-0.1916809368105935
+		AscendingNode	241.6991123277285
+		ArgOfPericenter	-0.44975263389525233
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4041,18 +4035,18 @@ Asteroid "Alderaan fragment 191"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		132.86637602900726	//in km
-	RotationPeriod	11.0843405646096	//in hours
-	Obliquity		43.638213741954885
+	Radius		124.66047685441015	//in km
+	RotationPeriod	10.949623027263339	//in hours
+	Obliquity		309.2961028503645
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.593650168816968	//in AU
-		Eccentricity	0.17215813821870374
+		SemiMajorAxis	2.657260898516835	//in AU
+		Eccentricity	0.17017616030926402
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3720749078678397
-		ArgOfPericenter	-0.023606081167364956
+		AscendingNode	242.26629277408364
+		ArgOfPericenter	-0.05617451257863881
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4062,18 +4056,18 @@ Asteroid "Alderaan fragment 192"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		167.4785617362029	//in km
-	RotationPeriod	9.404623369186025	//in hours
-	Obliquity		29.224905545059585
+	Radius		170.57390569742884	//in km
+	RotationPeriod	11.570852713351995	//in hours
+	Obliquity		330.7211664208275
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.619919578994691	//in AU
-		Eccentricity	0.20230321800167392
+		SemiMajorAxis	2.510547951532344	//in AU
+		Eccentricity	0.12163614321181551
 		Inclination		131.0	//in degrees
-		AscendingNode	0.17344494140979694
-		ArgOfPericenter	-0.33674218608695894
+		AscendingNode	241.71305336421997
+		ArgOfPericenter	-0.1668983710217261
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4083,18 +4077,18 @@ Asteroid "Alderaan fragment 193"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		99.68174866152415	//in km
-	RotationPeriod	10.713459147745125	//in hours
-	Obliquity		23.48320747724695
+	Radius		144.98294931477508	//in km
+	RotationPeriod	12.461806974359575	//in hours
+	Obliquity		89.98399596357677
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.01033527224361	//in AU
-		Eccentricity	0.1986435404948375
+		SemiMajorAxis	2.8015645567539247	//in AU
+		Eccentricity	0.16526763434330724
 		Inclination		131.0	//in degrees
-		AscendingNode	0.24892911737157053
-		ArgOfPericenter	0.1995902187582166
+		AscendingNode	241.73054861407113
+		ArgOfPericenter	0.28910708992284817
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4104,18 +4098,18 @@ Asteroid "Alderaan fragment 194"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		57.20406893044612	//in km
-	RotationPeriod	14.101670772349353	//in hours
-	Obliquity		64.46321711158896
+	Radius		197.62785855698752	//in km
+	RotationPeriod	13.32299757170726	//in hours
+	Obliquity		197.97858872523824
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5752242857867955	//in AU
-		Eccentricity	0.15427406830749102
+		SemiMajorAxis	2.5529487201606385	//in AU
+		Eccentricity	0.1694835683949594
 		Inclination		131.0	//in degrees
-		AscendingNode	0.47105259961532353
-		ArgOfPericenter	-0.32808868673705105
+		AscendingNode	242.3197054724577
+		ArgOfPericenter	0.31904913901960763
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4125,18 +4119,18 @@ Asteroid "Alderaan fragment 195"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		61.47960981152058	//in km
-	RotationPeriod	19.751440494677166	//in hours
-	Obliquity		330.59229406179276
+	Radius		129.85698924969032	//in km
+	RotationPeriod	9.036394689461055	//in hours
+	Obliquity		267.6121982507053
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4566569234193474	//in AU
-		Eccentricity	0.20154585258931065
+		SemiMajorAxis	3.0834319643462416	//in AU
+		Eccentricity	0.14952022080144992
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4214123661721676
-		ArgOfPericenter	0.4146867175204578
+		AscendingNode	242.276195849239
+		ArgOfPericenter	-0.27043226173350954
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4146,18 +4140,18 @@ Asteroid "Alderaan fragment 196"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		74.08597237769152	//in km
-	RotationPeriod	14.735707138645799	//in hours
-	Obliquity		76.14124131776035
+	Radius		210.03073271646943	//in km
+	RotationPeriod	13.054951727314219	//in hours
+	Obliquity		194.07093578763119
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3389790110020336	//in AU
-		Eccentricity	0.1510552904419272
+		SemiMajorAxis	1.900302251378387	//in AU
+		Eccentricity	0.17689255325207065
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.33992070655803963
-		ArgOfPericenter	0.08387021128989525
+		AscendingNode	242.14435337757797
+		ArgOfPericenter	-0.23955343882726698
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4167,18 +4161,18 @@ Asteroid "Alderaan fragment 197"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.784181317480582	//in km
-	RotationPeriod	10.095904131506447	//in hours
-	Obliquity		8.661728187038333
+	Radius		113.79098327577195	//in km
+	RotationPeriod	13.697052573753654	//in hours
+	Obliquity		99.68257434607074
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5933038467611054	//in AU
-		Eccentricity	0.16113974174450563
+		SemiMajorAxis	2.2662489581004572	//in AU
+		Eccentricity	0.1729582427275013
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.20110210340338874
-		ArgOfPericenter	0.31678818728251346
+		AscendingNode	241.55912826670564
+		ArgOfPericenter	-0.4256373829169966
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4188,18 +4182,18 @@ Asteroid "Alderaan fragment 198"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		40.79953098673223	//in km
-	RotationPeriod	20.787109733626952	//in hours
-	Obliquity		258.3921489209939
+	Radius		177.26162850338196	//in km
+	RotationPeriod	10.489205914730174	//in hours
+	Obliquity		140.5578341833636
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.759051413302253	//in AU
-		Eccentricity	0.16248628720419647
+		SemiMajorAxis	2.174839771134156	//in AU
+		Eccentricity	0.17565219012697936
 		Inclination		131.0	//in degrees
-		AscendingNode	0.03483930628063503
-		ArgOfPericenter	0.1919072728197182
+		AscendingNode	241.55166052495338
+		ArgOfPericenter	0.14650211704658056
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4209,18 +4203,18 @@ Asteroid "Alderaan fragment 199"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		6.740438326010928	//in km
-	RotationPeriod	9.198625096204166	//in hours
-	Obliquity		275.8728311081636
+	Radius		97.10965271953927	//in km
+	RotationPeriod	7.973177861516602	//in hours
+	Obliquity		260.7228980275912
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.593193157057159	//in AU
-		Eccentricity	0.12844726045888044
+		SemiMajorAxis	2.7197824595101627	//in AU
+		Eccentricity	0.17601830659874443
 		Inclination		131.0	//in degrees
-		AscendingNode	0.14272820170735712
-		ArgOfPericenter	0.15622602463101753
+		AscendingNode	241.71854936439186
+		ArgOfPericenter	-0.4635296003784468
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4230,18 +4224,18 @@ Asteroid "Alderaan fragment 200"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		297.1077318791856	//in km
-	RotationPeriod	17.867164704935814	//in hours
-	Obliquity		170.60617673095877
+	Radius		172.0114209156817	//in km
+	RotationPeriod	18.982124986083285	//in hours
+	Obliquity		239.41545608172294
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4591593319640404	//in AU
-		Eccentricity	0.14646879350712763
+		SemiMajorAxis	2.4709142675853193	//in AU
+		Eccentricity	0.10680705347831994
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3133051582719738
-		ArgOfPericenter	-0.0032129827043831938
+		AscendingNode	242.3667145954473
+		ArgOfPericenter	0.3979199696287712
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4251,18 +4245,18 @@ Asteroid "Alderaan fragment 201"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		98.00841072198519	//in km
-	RotationPeriod	10.314654268484988	//in hours
-	Obliquity		236.60939105294662
+	Radius		135.2171331159737	//in km
+	RotationPeriod	16.573370675972715	//in hours
+	Obliquity		171.9486874450431
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.586183920676053	//in AU
-		Eccentricity	0.20260664599237693
+		SemiMajorAxis	2.6172610639660783	//in AU
+		Eccentricity	0.1651848012174794
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.22915069905562757
-		ArgOfPericenter	-0.29953660033993734
+		AscendingNode	242.45542226233528
+		ArgOfPericenter	0.46644067811316947
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4272,18 +4266,18 @@ Asteroid "Alderaan fragment 202"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		124.14696891125811	//in km
-	RotationPeriod	14.944939818775923	//in hours
-	Obliquity		179.79554261967397
+	Radius		180.5928983045882	//in km
+	RotationPeriod	22.603312748438103	//in hours
+	Obliquity		84.55351063746912
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4471073564157844	//in AU
-		Eccentricity	0.20422173934662285
+		SemiMajorAxis	1.8810193809386737	//in AU
+		Eccentricity	0.13427328890357176
 		Inclination		131.0	//in degrees
-		AscendingNode	0.49798187795605975
-		ArgOfPericenter	-0.21387634255710952
+		AscendingNode	241.51997063397602
+		ArgOfPericenter	-0.40300472532780707
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4293,18 +4287,18 @@ Asteroid "Alderaan fragment 203"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		69.88864747118112	//in km
-	RotationPeriod	2.5924202533291947	//in hours
-	Obliquity		205.05968629306773
+	Radius		150.12236196471366	//in km
+	RotationPeriod	16.191209957561327	//in hours
+	Obliquity		254.9906894813395
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6622701584332296	//in AU
-		Eccentricity	0.17806073127998967
+		SemiMajorAxis	2.4831924958377645	//in AU
+		Eccentricity	0.17121276359363266
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2864713375277086
-		ArgOfPericenter	0.4035272738771082
+		AscendingNode	242.4754275303417
+		ArgOfPericenter	-0.10207272132266199
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4314,18 +4308,18 @@ Asteroid "Alderaan fragment 204"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		37.656590073764995	//in km
-	RotationPeriod	5.926294761610036	//in hours
-	Obliquity		79.42229211796135
+	Radius		179.43495276775582	//in km
+	RotationPeriod	14.627062240845365	//in hours
+	Obliquity		119.99560773075622
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6613723839795993	//in AU
-		Eccentricity	0.18201318879771114
+		SemiMajorAxis	3.0256311834194856	//in AU
+		Eccentricity	0.1674600409458232
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1342418670164789
-		ArgOfPericenter	-0.43112018619048054
+		AscendingNode	242.23683433135676
+		ArgOfPericenter	-0.389768159940598
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4335,18 +4329,18 @@ Asteroid "Alderaan fragment 205"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		21.759877932619215	//in km
-	RotationPeriod	12.391013251714622	//in hours
-	Obliquity		358.3764582702279
+	Radius		89.59593480244021	//in km
+	RotationPeriod	13.168704282863615	//in hours
+	Obliquity		93.37093767064107
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6371664588351584	//in AU
-		Eccentricity	0.18319120911648631
+		SemiMajorAxis	2.500112775120206	//in AU
+		Eccentricity	0.16797204711136582
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.35685465956155926
-		ArgOfPericenter	-0.2834617135324191
+		AscendingNode	241.60037593060105
+		ArgOfPericenter	-0.08131306314786924
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4356,18 +4350,18 @@ Asteroid "Alderaan fragment 206"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		84.02320947170767	//in km
-	RotationPeriod	8.513740538720349	//in hours
-	Obliquity		151.29112111182314
+	Radius		208.95179734269956	//in km
+	RotationPeriod	10.78362722061421	//in hours
+	Obliquity		151.65584564741926
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2050569684285937	//in AU
-		Eccentricity	0.1275810870516051
+		SemiMajorAxis	2.3575441780914335	//in AU
+		Eccentricity	0.16807154025575402
 		Inclination		131.0	//in degrees
-		AscendingNode	0.45508484539131977
-		ArgOfPericenter	0.4289748170909955
+		AscendingNode	241.99874949031084
+		ArgOfPericenter	-0.4730120501698538
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4377,18 +4371,18 @@ Asteroid "Alderaan fragment 207"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.757135253012414	//in km
-	RotationPeriod	15.115742253802097	//in hours
-	Obliquity		115.9304284636361
+	Radius		67.06034615186613	//in km
+	RotationPeriod	8.995110202713041	//in hours
+	Obliquity		207.2508976342165
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3568703780244395	//in AU
-		Eccentricity	0.1841070918040713
+		SemiMajorAxis	2.854535272701647	//in AU
+		Eccentricity	0.13998019526031497
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.44798668114249574
-		ArgOfPericenter	0.20201681415467176
+		AscendingNode	241.69782495644563
+		ArgOfPericenter	-0.3417951032028351
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4398,18 +4392,18 @@ Asteroid "Alderaan fragment 208"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		171.03405627109976	//in km
-	RotationPeriod	13.400061038087031	//in hours
-	Obliquity		214.80150965394972
+	Radius		139.50790345486473	//in km
+	RotationPeriod	14.722135663517317	//in hours
+	Obliquity		30.204035735504267
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4644208564809915	//in AU
-		Eccentricity	0.1730514510368187
+		SemiMajorAxis	2.5766233382792896	//in AU
+		Eccentricity	0.1577448025164648
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.09783741272464719
-		ArgOfPericenter	-0.3987009134148587
+		AscendingNode	241.59261889914075
+		ArgOfPericenter	-0.027984251687202644
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4419,18 +4413,18 @@ Asteroid "Alderaan fragment 209"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		116.46436858244779	//in km
-	RotationPeriod	10.861806045485915	//in hours
-	Obliquity		182.4245420077726
+	Radius		120.32566168313122	//in km
+	RotationPeriod	10.67524271689932	//in hours
+	Obliquity		31.580991226259325
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.1351590897202226	//in AU
-		Eccentricity	0.16807845526909698
+		SemiMajorAxis	2.161704712087154	//in AU
+		Eccentricity	0.14732059305236378
 		Inclination		131.0	//in degrees
-		AscendingNode	0.21420996784132773
-		ArgOfPericenter	-0.2611466111281634
+		AscendingNode	241.8294339978889
+		ArgOfPericenter	-0.2811608706448394
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4440,18 +4434,18 @@ Asteroid "Alderaan fragment 210"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		134.23700641482588	//in km
-	RotationPeriod	14.561149103848546	//in hours
-	Obliquity		24.149728886558602
+	Radius		227.5138682899335	//in km
+	RotationPeriod	23.32961291182342	//in hours
+	Obliquity		15.138903458005979
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7574454285642744	//in AU
-		Eccentricity	0.1525052308415223
+		SemiMajorAxis	2.3327406417300414	//in AU
+		Eccentricity	0.17054472645407995
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.000347509679652358
-		ArgOfPericenter	-0.005010142617746571
+		AscendingNode	242.01296120003863
+		ArgOfPericenter	0.3927625079977727
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4461,18 +4455,18 @@ Asteroid "Alderaan fragment 211"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		14.82273132821749	//in km
-	RotationPeriod	15.214089802160043	//in hours
-	Obliquity		96.29406707742936
+	Radius		165.0267477737837	//in km
+	RotationPeriod	5.233944826787029	//in hours
+	Obliquity		54.86758872223405
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4065641434871945	//in AU
-		Eccentricity	0.17257137185785598
+		SemiMajorAxis	2.174340068463177	//in AU
+		Eccentricity	0.15983248120054608
 		Inclination		131.0	//in degrees
-		AscendingNode	0.07958415468901059
-		ArgOfPericenter	-0.045321005310995255
+		AscendingNode	241.97967569789233
+		ArgOfPericenter	-0.4772906105729192
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4482,18 +4476,18 @@ Asteroid "Alderaan fragment 212"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		101.22945131942201	//in km
-	RotationPeriod	10.231281589442382	//in hours
-	Obliquity		269.7419222103603
+	Radius		141.69693359039795	//in km
+	RotationPeriod	16.374257878451537	//in hours
+	Obliquity		157.33516534926136
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4825824829588976	//in AU
-		Eccentricity	0.1921837913442015
+		SemiMajorAxis	2.7657833640804945	//in AU
+		Eccentricity	0.13527326386873256
 		Inclination		131.0	//in degrees
-		AscendingNode	0.352315296718798
-		ArgOfPericenter	-0.28739294200611243
+		AscendingNode	242.01780587651328
+		ArgOfPericenter	0.10214442602363727
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4503,18 +4497,18 @@ Asteroid "Alderaan fragment 213"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		46.21249035411035	//in km
-	RotationPeriod	8.45006592298495	//in hours
-	Obliquity		83.0352973398
+	Radius		156.50609219703784	//in km
+	RotationPeriod	11.878884055467646	//in hours
+	Obliquity		290.073748029555
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6867528471440933	//in AU
-		Eccentricity	0.16260218449854566
+		SemiMajorAxis	2.533710532835712	//in AU
+		Eccentricity	0.1572303817734842
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4768530875041368
-		ArgOfPericenter	0.2298491777521373
+		AscendingNode	241.5249388097948
+		ArgOfPericenter	-0.36757833787745287
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4524,18 +4518,18 @@ Asteroid "Alderaan fragment 214"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		34.59673080445303	//in km
-	RotationPeriod	20.727940156323047	//in hours
-	Obliquity		68.33473338001546
+	Radius		125.62514419503745	//in km
+	RotationPeriod	16.655863373670613	//in hours
+	Obliquity		54.2700959048795
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.467075377478941	//in AU
-		Eccentricity	0.20899289138064953
+		SemiMajorAxis	2.8015652643935818	//in AU
+		Eccentricity	0.16799298726536205
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4798437481596033
-		ArgOfPericenter	-0.33164906037630304
+		AscendingNode	242.16732063001245
+		ArgOfPericenter	0.40764418113245904
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4545,18 +4539,16 @@ Asteroid "Alderaan fragment 215"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		45.9049518723957	//in km
-	RotationPeriod	16.623941622817775	//in hours
-	Obliquity		59.92219343380785
-
+	Radius		126.0531874673668	//in km
+	TidalLocked	true
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5753695925105746	//in AU
-		Eccentricity	0.16457709173184082
+		SemiMajorAxis	3.184001584866147	//in AU
+		Eccentricity	0.18458470003497363
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19570343172951976
-		ArgOfPericenter	-0.15574445075461596
+		AscendingNode	242.4454982829505
+		ArgOfPericenter	0.06021202409226445
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4566,18 +4558,18 @@ Asteroid "Alderaan fragment 216"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		177.08827105995212	//in km
-	RotationPeriod	23.952	//in hours
-	Obliquity		262.59230808449297
+	Radius		157.73506916986165	//in km
+	RotationPeriod	14.596311973911526	//in hours
+	Obliquity		163.1399023643296
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.692663885260531	//in AU
-		Eccentricity	0.17274486669143396
+		SemiMajorAxis	2.28565937670491	//in AU
+		Eccentricity	0.20975659707466232
 		Inclination		131.0	//in degrees
-		AscendingNode	0.21535233005434085
-		ArgOfPericenter	-0.2410129580941337
+		AscendingNode	242.14194206042953
+		ArgOfPericenter	-0.40142354156952564
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4587,18 +4579,18 @@ Asteroid "Alderaan fragment 217"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		15.881449691236678	//in km
-	RotationPeriod	11.164826701823856	//in hours
-	Obliquity		134.4729169001503
+	Radius		184.29848891172304	//in km
+	RotationPeriod	8.510087445203277	//in hours
+	Obliquity		346.424709681945
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6217345346279397	//in AU
-		Eccentricity	0.11977262099515257
+		SemiMajorAxis	2.0742311701779483	//in AU
+		Eccentricity	0.16102184298559355
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4978782759245388
-		ArgOfPericenter	-0.015988233877477276
+		AscendingNode	241.5297026495098
+		ArgOfPericenter	-0.0035646043691258678
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4608,18 +4600,18 @@ Asteroid "Alderaan fragment 218"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		6.249888700870453	//in km
-	RotationPeriod	9.497723075640547	//in hours
-	Obliquity		119.91840919315328
+	Radius		136.52155943102295	//in km
+	RotationPeriod	12.155515776927047	//in hours
+	Obliquity		24.023956277224073
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5144269163846005	//in AU
-		Eccentricity	0.1581267783486476
+		SemiMajorAxis	2.400071840403367	//in AU
+		Eccentricity	0.16863395532131664
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1153080902735597
-		ArgOfPericenter	0.10157349738200505
+		AscendingNode	242.2306066048903
+		ArgOfPericenter	0.2149303340057005
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4629,18 +4621,18 @@ Asteroid "Alderaan fragment 219"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		52.612011062231424	//in km
-	RotationPeriod	2.997049833948042	//in hours
-	Obliquity		67.68262157281693
+	Radius		62.34606841640914	//in km
+	RotationPeriod	9.737973420308222	//in hours
+	Obliquity		12.775601453048125
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.489593985467961	//in AU
-		Eccentricity	0.16941944159846267
+		SemiMajorAxis	2.50404246963328	//in AU
+		Eccentricity	0.14820841716025784
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1895029660692138
-		ArgOfPericenter	0.38631425399013
+		AscendingNode	242.21600028456757
+		ArgOfPericenter	-0.1251014437865856
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4650,18 +4642,18 @@ Asteroid "Alderaan fragment 220"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		170.96585565501826	//in km
-	RotationPeriod	12.676991165491078	//in hours
-	Obliquity		347.1432653391026
+	Radius		208.64443673356766	//in km
+	RotationPeriod	18.271194319047872	//in hours
+	Obliquity		71.7448758791876
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6650610408835442	//in AU
-		Eccentricity	0.15337551509893171
+		SemiMajorAxis	2.724026578295552	//in AU
+		Eccentricity	0.17064463078968606
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.07053901577849842
-		ArgOfPericenter	-0.42832809154349394
+		AscendingNode	242.27646229864928
+		ArgOfPericenter	-0.36613708200182793
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4671,18 +4663,18 @@ Asteroid "Alderaan fragment 221"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		103.64457596614535	//in km
-	RotationPeriod	13.898775269103385	//in hours
-	Obliquity		72.22803677442027
+	Radius		126.49531281368262	//in km
+	RotationPeriod	12.469194509384074	//in hours
+	Obliquity		257.43808861178115
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.556522743121851	//in AU
-		Eccentricity	0.18591579980850162
+		SemiMajorAxis	2.447415686651608	//in AU
+		Eccentricity	0.14387867834602533
 		Inclination		131.0	//in degrees
-		AscendingNode	0.29069765538825565
-		ArgOfPericenter	0.12568146850653883
+		AscendingNode	241.7728241861939
+		ArgOfPericenter	0.037894802103466185
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4692,18 +4684,18 @@ Asteroid "Alderaan fragment 222"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		192.7765012794184	//in km
-	RotationPeriod	15.436814105399748	//in hours
-	Obliquity		196.73428260888198
+	Radius		128.48628548020162	//in km
+	RotationPeriod	16.01679483756704	//in hours
+	Obliquity		157.9420153946439
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.192464857055036	//in AU
-		Eccentricity	0.16875021603364582
+		SemiMajorAxis	2.673122872910628	//in AU
+		Eccentricity	0.19224133395275333
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4206557459326954
-		ArgOfPericenter	0.270908070962524
+		AscendingNode	242.14196658270893
+		ArgOfPericenter	0.23292350156932295
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4713,18 +4705,18 @@ Asteroid "Alderaan fragment 223"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		123.26864739310011	//in km
-	RotationPeriod	6.653049300960408	//in hours
-	Obliquity		212.04664465007795
+	Radius		123.87694336737445	//in km
+	RotationPeriod	13.264699422269269	//in hours
+	Obliquity		28.983399157338408
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.734680775548586	//in AU
-		Eccentricity	0.1567264950889574
+		SemiMajorAxis	2.571043746378987	//in AU
+		Eccentricity	0.14976193923583292
 		Inclination		131.0	//in degrees
-		AscendingNode	0.12430546274769205
-		ArgOfPericenter	-0.27704075911129256
+		AscendingNode	241.55351170993876
+		ArgOfPericenter	0.2147552119233599
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4734,18 +4726,18 @@ Asteroid "Alderaan fragment 224"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		126.3488215022336	//in km
-	RotationPeriod	6.6318990292017475	//in hours
-	Obliquity		157.18913316013843
+	Radius		141.44335365328513	//in km
+	RotationPeriod	22.80665206724707	//in hours
+	Obliquity		137.87983192214332
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.939047526503146	//in AU
-		Eccentricity	0.16522141428689952
+		SemiMajorAxis	2.671339587458711	//in AU
+		Eccentricity	0.18589407653113235
 		Inclination		131.0	//in degrees
-		AscendingNode	0.20308513732388234
-		ArgOfPericenter	0.3140489452307872
+		AscendingNode	241.90764760879628
+		ArgOfPericenter	-0.07410180477807393
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4755,18 +4747,18 @@ Asteroid "Alderaan fragment 225"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		37.42283323163014	//in km
-	RotationPeriod	11.079522508481698	//in hours
-	Obliquity		98.4729385650527
+	Radius		176.4209279540661	//in km
+	RotationPeriod	14.3743150475205	//in hours
+	Obliquity		171.80201096856212
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1019070243186246	//in AU
-		Eccentricity	0.17214717146452874
+		SemiMajorAxis	2.3676345008958957	//in AU
+		Eccentricity	0.15914534216472068
 		Inclination		131.0	//in degrees
-		AscendingNode	0.40622204981248333
-		ArgOfPericenter	-0.4865647168929673
+		AscendingNode	242.33006702493833
+		ArgOfPericenter	-0.04883311106652033
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4776,18 +4768,18 @@ Asteroid "Alderaan fragment 226"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		1.1423746566315067	//in km
-	RotationPeriod	13.095580930835219	//in hours
-	Obliquity		93.46151267302861
+	Radius		63.94834677806931	//in km
+	RotationPeriod	18.070534103691504	//in hours
+	Obliquity		315.4484238326608
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4482544545801717	//in AU
-		Eccentricity	0.1530838161593161
+		SemiMajorAxis	2.4037596510179955	//in AU
+		Eccentricity	0.17231829794910664
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.30963338929614903
-		ArgOfPericenter	0.49412586355387567
+		AscendingNode	242.13589405612834
+		ArgOfPericenter	0.23938696115134617
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4797,18 +4789,18 @@ Asteroid "Alderaan fragment 227"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		68.16002851320386	//in km
-	RotationPeriod	16.628314615685305	//in hours
-	Obliquity		280.21728326700594
+	Radius		147.63040005968705	//in km
+	RotationPeriod	6.857869523015349	//in hours
+	Obliquity		195.53715379422937
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6384071227585935	//in AU
-		Eccentricity	0.1876108328788843
+		SemiMajorAxis	3.028562116064164	//in AU
+		Eccentricity	0.17244424008524303
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2723563285468875
-		ArgOfPericenter	-0.37238798053777833
+		AscendingNode	242.05081334499525
+		ArgOfPericenter	-0.49394748929252763
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4818,18 +4810,18 @@ Asteroid "Alderaan fragment 228"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		87.85905925007091	//in km
-	RotationPeriod	12.541958746521697	//in hours
-	Obliquity		168.29262972221397
+	Radius		86.62370157804224	//in km
+	RotationPeriod	18.63040431431519	//in hours
+	Obliquity		85.88422684602438
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4842948985606217	//in AU
-		Eccentricity	0.1694921002364455
+		SemiMajorAxis	2.848961272800329	//in AU
+		Eccentricity	0.1597894446838662
 		Inclination		131.0	//in degrees
-		AscendingNode	0.14144875679618518
-		ArgOfPericenter	0.1542155170892725
+		AscendingNode	241.82089352828757
+		ArgOfPericenter	0.43113434420030416
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4839,18 +4831,18 @@ Asteroid "Alderaan fragment 229"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		140.63537059106002	//in km
-	RotationPeriod	12.038442701008021	//in hours
-	Obliquity		112.59399728954972
+	Radius		206.42939056642237	//in km
+	RotationPeriod	10.89951190765929	//in hours
+	Obliquity		311.4941195967581
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5278053596171146	//in AU
-		Eccentricity	0.1550086287392054
+		SemiMajorAxis	2.701931191104901	//in AU
+		Eccentricity	0.12659230372807062
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2907884133634524
-		ArgOfPericenter	0.09125889914844498
+		AscendingNode	242.43271475860118
+		ArgOfPericenter	-0.31153478479392227
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4860,18 +4852,18 @@ Asteroid "Alderaan fragment 230"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.979023196587555	//in km
-	RotationPeriod	19.711711232165275	//in hours
-	Obliquity		282.3150927783253
+	Radius		123.68350268934168	//in km
+	RotationPeriod	16.51027280777896	//in hours
+	Obliquity		164.70199691320082
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.9998721541084632	//in AU
-		Eccentricity	0.17204927238166587
+		SemiMajorAxis	2.9738600682172835	//in AU
+		Eccentricity	0.22263563764948185
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.31089454715524567
-		ArgOfPericenter	0.32044166305450883
+		AscendingNode	241.58516971458806
+		ArgOfPericenter	-0.23657119594892284
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4881,18 +4873,18 @@ Asteroid "Alderaan fragment 231"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		131.60936963336405	//in km
-	RotationPeriod	8.235315283897998	//in hours
-	Obliquity		110.98735821040897
+	Radius		228.30802542848622	//in km
+	RotationPeriod	15.216211548671543	//in hours
+	Obliquity		338.72281007660473
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.184696666843419	//in AU
-		Eccentricity	0.14615146021455458
+		SemiMajorAxis	2.3449223066282494	//in AU
+		Eccentricity	0.1883812379710264
 		Inclination		131.0	//in degrees
-		AscendingNode	0.40082241079471104
-		ArgOfPericenter	0.49655029894241154
+		AscendingNode	241.83830955753643
+		ArgOfPericenter	-0.3576435221999006
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4902,18 +4894,18 @@ Asteroid "Alderaan fragment 232"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		10.70248248906688	//in km
-	RotationPeriod	13.30565168057554	//in hours
-	Obliquity		357.6856544624192
+	Radius		94.50432203386866	//in km
+	RotationPeriod	17.835101125693814	//in hours
+	Obliquity		343.7874028945996
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.04504076195586	//in AU
-		Eccentricity	0.15809953182058534
+		SemiMajorAxis	2.4936140529558983	//in AU
+		Eccentricity	0.15750916262467812
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.18083088130705205
-		ArgOfPericenter	-0.4931257109457292
+		AscendingNode	241.9589810894552
+		ArgOfPericenter	-0.04214034685406054
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4923,18 +4915,18 @@ Asteroid "Alderaan fragment 233"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		85.11652375107609	//in km
-	RotationPeriod	14.220257843973368	//in hours
-	Obliquity		195.41495378103144
+	Radius		130.02501671199863	//in km
+	RotationPeriod	13.635247705934857	//in hours
+	Obliquity		197.61374780236721
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7007570824515654	//in AU
-		Eccentricity	0.14085564133822384
+		SemiMajorAxis	2.7306379774337337	//in AU
+		Eccentricity	0.12949414881802013
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1739448936196787
-		ArgOfPericenter	0.15612615924637607
+		AscendingNode	241.63210634641825
+		ArgOfPericenter	-0.004431926177945522
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4944,18 +4936,18 @@ Asteroid "Alderaan fragment 234"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		100.84986185431903	//in km
-	RotationPeriod	13.86508254817889	//in hours
-	Obliquity		41.81650267131789
+	Radius		168.40975126788055	//in km
+	RotationPeriod	10.754198462990129	//in hours
+	Obliquity		39.79174321669112
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4034176640232006	//in AU
-		Eccentricity	0.1652285017793729
+		SemiMajorAxis	2.7471370025714346	//in AU
+		Eccentricity	0.17205345842343994
 		Inclination		131.0	//in degrees
-		AscendingNode	0.18421459440279742
-		ArgOfPericenter	-0.49355885319877835
+		AscendingNode	241.92115334978797
+		ArgOfPericenter	-0.3657892251820267
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4965,18 +4957,18 @@ Asteroid "Alderaan fragment 235"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		99.53177986777925	//in km
-	RotationPeriod	16.333563875549938	//in hours
-	Obliquity		277.3975968772601
+	Radius		121.85841734776608	//in km
+	RotationPeriod	12.022206107968579	//in hours
+	Obliquity		277.3474738723852
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.268481355312601	//in AU
-		Eccentricity	0.14141773387560036
+		SemiMajorAxis	3.133037925294389	//in AU
+		Eccentricity	0.14453029193450362
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4349583675874992
-		ArgOfPericenter	0.3820685600444491
+		AscendingNode	242.16431622546196
+		ArgOfPericenter	0.0655482419282325
 		RefPlane		"Ecliptic"
 	}
 }
@@ -4986,18 +4978,18 @@ Asteroid "Alderaan fragment 236"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		25.25412360528517	//in km
-	RotationPeriod	7.174518104238192	//in hours
-	Obliquity		293.16394885962524
+	Radius		51.94322437692638	//in km
+	RotationPeriod	8.1022838766462	//in hours
+	Obliquity		114.41493516836277
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6124980273291807	//in AU
-		Eccentricity	0.18945708557697882
+		SemiMajorAxis	2.8550918600906474	//in AU
+		Eccentricity	0.1401028932851273
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.41735685501358777
-		ArgOfPericenter	0.13516368439817317
+		AscendingNode	242.4377598126586
+		ArgOfPericenter	0.24103320789925575
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5007,18 +4999,18 @@ Asteroid "Alderaan fragment 237"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		167.72346527950023	//in km
-	RotationPeriod	12.234640718914925	//in hours
-	Obliquity		156.41768203005068
+	Radius		178.1283075462379	//in km
+	RotationPeriod	19.732377661460237	//in hours
+	Obliquity		210.58490754839823
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0170691276325488	//in AU
-		Eccentricity	0.1763370597018285
+		SemiMajorAxis	1.7112649582897466	//in AU
+		Eccentricity	0.1743483778475696
 		Inclination		131.0	//in degrees
-		AscendingNode	0.08946799523367399
-		ArgOfPericenter	-0.4855010050525689
+		AscendingNode	241.97510021102764
+		ArgOfPericenter	0.4727107376337727
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5028,18 +5020,18 @@ Asteroid "Alderaan fragment 238"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.072863889833879	//in km
-	RotationPeriod	7.387401291939153	//in hours
-	Obliquity		307.39794103752075
+	Radius		197.9024709896704	//in km
+	RotationPeriod	15.98782686445071	//in hours
+	Obliquity		324.9425231505589
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6465111850741345	//in AU
-		Eccentricity	0.2154251108966012
+		SemiMajorAxis	2.576085060234205	//in AU
+		Eccentricity	0.13137622967416857
 		Inclination		131.0	//in degrees
-		AscendingNode	0.30539300433145244
-		ArgOfPericenter	0.31823934267725673
+		AscendingNode	242.05179112432563
+		ArgOfPericenter	-0.053222430123782694
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5049,18 +5041,18 @@ Asteroid "Alderaan fragment 239"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		28.068676933725058	//in km
-	RotationPeriod	14.8042153914418	//in hours
-	Obliquity		77.15308019287419
+	Radius		88.22577398529918	//in km
+	RotationPeriod	8.686764410877842	//in hours
+	Obliquity		311.7048171129417
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5195728376344446	//in AU
-		Eccentricity	0.15939106666106526
+		SemiMajorAxis	2.6386801030137317	//in AU
+		Eccentricity	0.14041380220494298
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.261184004805857
-		ArgOfPericenter	-0.25237149503836986
+		AscendingNode	241.62751642122635
+		ArgOfPericenter	0.3792570418818494
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5070,18 +5062,18 @@ Asteroid "Alderaan fragment 240"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		99.45798546801178	//in km
-	RotationPeriod	13.499608635760785	//in hours
-	Obliquity		14.323647891363906
+	Radius		62.574183010901606	//in km
+	RotationPeriod	15.152895466194133	//in hours
+	Obliquity		144.81910778261937
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.501946978853905	//in AU
-		Eccentricity	0.1818293194256145
+		SemiMajorAxis	2.1550237364285114	//in AU
+		Eccentricity	0.16628139270053643
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2684935365252431
-		ArgOfPericenter	0.4141217194806782
+		AscendingNode	241.73934614949417
+		ArgOfPericenter	-0.23899468852851502
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5091,18 +5083,18 @@ Asteroid "Alderaan fragment 241"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.361948481771314	//in km
-	RotationPeriod	11.382506131868132	//in hours
-	Obliquity		83.58051097002364
+	Radius		109.55157893138696	//in km
+	RotationPeriod	12.956080475678913	//in hours
+	Obliquity		205.69691736595297
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5103676904034913	//in AU
-		Eccentricity	0.1710357524893761
+		SemiMajorAxis	2.660072486715959	//in AU
+		Eccentricity	0.1966808846447067
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.04590410147295132
-		ArgOfPericenter	-0.05777372918815138
+		AscendingNode	241.79686436018565
+		ArgOfPericenter	0.3276224573466181
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5112,18 +5104,18 @@ Asteroid "Alderaan fragment 242"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		72.55667358970868	//in km
-	RotationPeriod	10.392544148074405	//in hours
-	Obliquity		123.63461546058245
+	Radius		197.4075257134607	//in km
+	RotationPeriod	13.168984411304796	//in hours
+	Obliquity		165.98434144669545
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5965277954685955	//in AU
-		Eccentricity	0.16557015958509647
+		SemiMajorAxis	2.576855112560911	//in AU
+		Eccentricity	0.16477679058668715
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.050342656380480744
-		ArgOfPericenter	-0.3237841319811846
+		AscendingNode	242.08243004132737
+		ArgOfPericenter	-0.3308114424211811
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5133,18 +5125,18 @@ Asteroid "Alderaan fragment 243"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		87.21524664905355	//in km
-	RotationPeriod	20.072685494857474	//in hours
-	Obliquity		267.06949790415814
+	Radius		140.57325998529933	//in km
+	RotationPeriod	10.845748457665897	//in hours
+	Obliquity		83.4221814395756
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.715183925439098	//in AU
-		Eccentricity	0.15524137962494836
+		SemiMajorAxis	2.634379432444964	//in AU
+		Eccentricity	0.1635772555266279
 		Inclination		131.0	//in degrees
-		AscendingNode	0.05562407661281632
-		ArgOfPericenter	-0.1364368660291725
+		AscendingNode	241.8303795725595
+		ArgOfPericenter	-0.02217511996980448
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5154,18 +5146,18 @@ Asteroid "Alderaan fragment 244"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		20.396334513234862	//in km
-	RotationPeriod	19.842313668566806	//in hours
-	Obliquity		217.37455826776988
+	Radius		58.674217803251366	//in km
+	RotationPeriod	12.588925269828295	//in hours
+	Obliquity		96.68636159557173
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3419202815544	//in AU
-		Eccentricity	0.18735621250831652
+		SemiMajorAxis	2.919578410564543	//in AU
+		Eccentricity	0.1798850259931391
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.07152138522235885
-		ArgOfPericenter	0.13280543370442188
+		AscendingNode	242.16750402818732
+		ArgOfPericenter	-0.3640302733953178
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5175,18 +5167,18 @@ Asteroid "Alderaan fragment 245"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		100.54674147507588	//in km
-	RotationPeriod	10.182641544428947	//in hours
-	Obliquity		184.47412947635013
+	Radius		80.18604900168854	//in km
+	RotationPeriod	11.571916213528093	//in hours
+	Obliquity		217.17930424918646
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4753614715470618	//in AU
-		Eccentricity	0.21061464202613356
+		SemiMajorAxis	2.6527640776930013	//in AU
+		Eccentricity	0.19842769563762488
 		Inclination		131.0	//in degrees
-		AscendingNode	0.44222379563240743
-		ArgOfPericenter	-0.43774405841679886
+		AscendingNode	241.9681879997486
+		ArgOfPericenter	-0.1431199475179964
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5196,18 +5188,18 @@ Asteroid "Alderaan fragment 246"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		193.03127549697345	//in km
-	RotationPeriod	10.691012529505608	//in hours
-	Obliquity		272.90634240501726
+	Radius		94.97521494314208	//in km
+	RotationPeriod	12.452283032151481	//in hours
+	Obliquity		45.99602118319361
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5238347487218338	//in AU
-		Eccentricity	0.19338001649140052
+		SemiMajorAxis	2.5036336283436973	//in AU
+		Eccentricity	0.15275618962671372
 		Inclination		131.0	//in degrees
-		AscendingNode	0.45013461747711747
-		ArgOfPericenter	0.4918960206704668
+		AscendingNode	242.27593867807173
+		ArgOfPericenter	-0.352151644958808
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5217,18 +5209,18 @@ Asteroid "Alderaan fragment 247"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		62.33597367054199	//in km
-	RotationPeriod	10.308734498351386	//in hours
-	Obliquity		166.49140488595359
+	Radius		190.57382218207258	//in km
+	RotationPeriod	9.870191093228534	//in hours
+	Obliquity		240.18528633764268
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6253301480382913	//in AU
-		Eccentricity	0.17409561075231464
+		SemiMajorAxis	2.5169305697062145	//in AU
+		Eccentricity	0.15734595413170485
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4311514076828613
-		ArgOfPericenter	0.3876700061974503
+		AscendingNode	242.43723148702787
+		ArgOfPericenter	-0.16314852543541936
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5238,18 +5230,18 @@ Asteroid "Alderaan fragment 248"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		87.68833151710116	//in km
-	RotationPeriod	17.61088883870934	//in hours
-	Obliquity		298.1665967507994
+	Radius		191.43799824396658	//in km
+	RotationPeriod	10.253634609690339	//in hours
+	Obliquity		79.61686300211444
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.447260585651561	//in AU
-		Eccentricity	0.15346698556222166
+		SemiMajorAxis	2.8699144767991402	//in AU
+		Eccentricity	0.18329871440250423
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.17340104218830688
-		ArgOfPericenter	-0.3471837762589076
+		AscendingNode	242.09858420505932
+		ArgOfPericenter	-0.3685714362192183
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5259,18 +5251,18 @@ Asteroid "Alderaan fragment 249"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		160.54411597620222	//in km
-	RotationPeriod	14.98762352690932	//in hours
-	Obliquity		201.90488499541124
+	Radius		165.31632304170225	//in km
+	RotationPeriod	9.599010022623933	//in hours
+	Obliquity		289.99579279740635
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.531415176569596	//in AU
-		Eccentricity	0.19617473977716995
+		SemiMajorAxis	3.0383949845689737	//in AU
+		Eccentricity	0.20123514246874494
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.32115024211546306
-		ArgOfPericenter	0.14430218901240133
+		AscendingNode	241.66324991416985
+		ArgOfPericenter	-0.31431036947228586
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5280,18 +5272,18 @@ Asteroid "Alderaan fragment 250"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		32.37028617035871	//in km
-	RotationPeriod	11.643159228563942	//in hours
-	Obliquity		236.55384611345224
+	Radius		152.40110597363315	//in km
+	RotationPeriod	9.024340603610225	//in hours
+	Obliquity		206.27344594410715
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3936925071075263	//in AU
-		Eccentricity	0.12092414423864489
+		SemiMajorAxis	2.3778559572711813	//in AU
+		Eccentricity	0.14759972866548382
 		Inclination		131.0	//in degrees
-		AscendingNode	0.23067657636270655
-		ArgOfPericenter	0.3557260544471611
+		AscendingNode	242.19863118876916
+		ArgOfPericenter	0.09533657809042106
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5301,18 +5293,18 @@ Asteroid "Alderaan fragment 251"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		49.47057410764446	//in km
-	RotationPeriod	12.03394008510168	//in hours
-	Obliquity		43.845056960922605
+	Radius		192.74215246040907	//in km
+	RotationPeriod	11.272120988767188	//in hours
+	Obliquity		267.3586731091383
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2398920407069087	//in AU
-		Eccentricity	0.12082284111849662
+		SemiMajorAxis	2.455045776621698	//in AU
+		Eccentricity	0.14232691205713568
 		Inclination		131.0	//in degrees
-		AscendingNode	0.23118858154448507
-		ArgOfPericenter	0.35968340383298547
+		AscendingNode	241.8617447553156
+		ArgOfPericenter	-0.32006021501202864
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5322,18 +5314,18 @@ Asteroid "Alderaan fragment 252"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.55334223812485	//in km
-	RotationPeriod	12.907817046911028	//in hours
-	Obliquity		118.36659151011212
+	Radius		235.21108569548898	//in km
+	RotationPeriod	8.822334011298478	//in hours
+	Obliquity		273.2064174817728
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1861664769577565	//in AU
-		Eccentricity	0.20262833918046827
+		SemiMajorAxis	2.1607637091301055	//in AU
+		Eccentricity	0.15681115091536424
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4928618636546461
-		ArgOfPericenter	0.43883459039369543
+		AscendingNode	241.84312803067863
+		ArgOfPericenter	-0.1274838873944366
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5343,18 +5335,18 @@ Asteroid "Alderaan fragment 253"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		57.242752471633466	//in km
-	RotationPeriod	8.656347065696561	//in hours
-	Obliquity		184.85839997866935
+	Radius		194.35986433897267	//in km
+	RotationPeriod	10.08889479150658	//in hours
+	Obliquity		134.43857744091807
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8807591187738515	//in AU
-		Eccentricity	0.14532788479398567
+		SemiMajorAxis	2.6720679088736614	//in AU
+		Eccentricity	0.11591277048464131
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.10052104548582963
-		ArgOfPericenter	-0.2683844841565265
+		AscendingNode	242.00332454560638
+		ArgOfPericenter	0.29445608569712034
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5364,18 +5356,18 @@ Asteroid "Alderaan fragment 254"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		35.52948629722069	//in km
-	RotationPeriod	11.07147917451303	//in hours
-	Obliquity		323.96723991097844
+	Radius		98.13121890978906	//in km
+	RotationPeriod	10.46261176119767	//in hours
+	Obliquity		172.19390822020537
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6944780524852647	//in AU
-		Eccentricity	0.16354429796079376
+		SemiMajorAxis	2.9759091021162396	//in AU
+		Eccentricity	0.19827093446586322
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1601678034109434
-		ArgOfPericenter	0.19982745204563113
+		AscendingNode	241.5868037098138
+		ArgOfPericenter	-0.4948385012061034
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5385,18 +5377,18 @@ Asteroid "Alderaan fragment 255"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		84.5457361318761	//in km
-	RotationPeriod	16.877941930033554	//in hours
-	Obliquity		156.29780736667456
+	Radius		195.42015009918225	//in km
+	RotationPeriod	12.821924000261134	//in hours
+	Obliquity		158.85323465031482
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9491622548808882	//in AU
-		Eccentricity	0.15672852944609997
+		SemiMajorAxis	2.3628944562430236	//in AU
+		Eccentricity	0.1433619326862826
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.34752444283712447
-		ArgOfPericenter	0.43633649949327213
+		AscendingNode	241.97267973938392
+		ArgOfPericenter	0.46541101481337066
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5406,18 +5398,18 @@ Asteroid "Alderaan fragment 256"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		72.70409818366588	//in km
-	RotationPeriod	10.113423661432016	//in hours
-	Obliquity		324.8408927846586
+	Radius		172.49836439246536	//in km
+	RotationPeriod	18.791325728304137	//in hours
+	Obliquity		133.73468754570115
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.579894950477683	//in AU
-		Eccentricity	0.20417021057491666
+		SemiMajorAxis	2.89996964009483	//in AU
+		Eccentricity	0.181487135602901
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2516817481154816
-		ArgOfPericenter	0.09087559729849648
+		AscendingNode	242.25311903472868
+		ArgOfPericenter	-0.032433893698179395
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5427,18 +5419,18 @@ Asteroid "Alderaan fragment 257"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		51.095433446982476	//in km
-	RotationPeriod	11.517579835307101	//in hours
-	Obliquity		323.38890014711745
+	Radius		148.92595895574982	//in km
+	RotationPeriod	9.201347281832486	//in hours
+	Obliquity		204.99896244391627
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.529137432239334	//in AU
-		Eccentricity	0.14128992970586127
+		SemiMajorAxis	2.444512224105912	//in AU
+		Eccentricity	0.18036152961199597
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.21426817481660976
-		ArgOfPericenter	-0.06234106269273554
+		AscendingNode	242.20038132143748
+		ArgOfPericenter	0.4986850180607182
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5448,18 +5440,18 @@ Asteroid "Alderaan fragment 258"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		173.79696643515246	//in km
-	RotationPeriod	7.985545218980176	//in hours
-	Obliquity		342.0205387113493
+	Radius		239.84769645061743	//in km
+	RotationPeriod	12.784020404097326	//in hours
+	Obliquity		34.22899930905084
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.651747546589427	//in AU
-		Eccentricity	0.17161989537427313
+		SemiMajorAxis	2.53336343007947	//in AU
+		Eccentricity	0.1740693400998549
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3650972808200874
-		ArgOfPericenter	0.12225274063712144
+		AscendingNode	242.14528131155345
+		ArgOfPericenter	-0.3325871306299316
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5469,18 +5461,18 @@ Asteroid "Alderaan fragment 259"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		33.875083054480996	//in km
-	RotationPeriod	15.50915888376868	//in hours
-	Obliquity		265.3054944258918
+	Radius		150.37045692333743	//in km
+	RotationPeriod	11.234984098422071	//in hours
+	Obliquity		187.5606676304647
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3748759901684986	//in AU
-		Eccentricity	0.17764462991424598
+		SemiMajorAxis	2.539511037570573	//in AU
+		Eccentricity	0.1816171597009447
 		Inclination		131.0	//in degrees
-		AscendingNode	0.10965320321566607
-		ArgOfPericenter	-0.38310276019698875
+		AscendingNode	242.28516346614992
+		ArgOfPericenter	-0.10080188507810672
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5490,18 +5482,18 @@ Asteroid "Alderaan fragment 260"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		265.47332389388123	//in km
-	RotationPeriod	13.159817941021666	//in hours
-	Obliquity		209.84662007953793
+	Radius		83.91760903152397	//in km
+	RotationPeriod	16.44355179162544	//in hours
+	Obliquity		18.85614833914216
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.307313469359259	//in AU
-		Eccentricity	0.14099354535644865
+		SemiMajorAxis	2.2268211645980194	//in AU
+		Eccentricity	0.16104541091827546
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.25255975836113165
-		ArgOfPericenter	-0.046105633044992156
+		AscendingNode	241.9762944136924
+		ArgOfPericenter	0.010484336746555467
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5511,18 +5503,18 @@ Asteroid "Alderaan fragment 261"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		275.41553065193335	//in km
-	RotationPeriod	7.635067836784686	//in hours
-	Obliquity		241.20967152143206
+	Radius		143.01731211462933	//in km
+	RotationPeriod	14.020834063894911	//in hours
+	Obliquity		215.14123585899046
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.097842005773007	//in AU
-		Eccentricity	0.1326442085199288
+		SemiMajorAxis	2.1607500767992684	//in AU
+		Eccentricity	0.15544704718415772
 		Inclination		131.0	//in degrees
-		AscendingNode	0.15989380147237375
-		ArgOfPericenter	0.13246254980139505
+		AscendingNode	242.1960596142914
+		ArgOfPericenter	0.1941695230015672
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5532,18 +5524,18 @@ Asteroid "Alderaan fragment 262"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		51.175728234726776	//in km
-	RotationPeriod	9.517239457226337	//in hours
-	Obliquity		98.17702686465175
+	Radius		146.55860454331662	//in km
+	RotationPeriod	12.736001029336972	//in hours
+	Obliquity		133.60870804798893
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5521670267362997	//in AU
-		Eccentricity	0.18194927715996279
+		SemiMajorAxis	2.824818884402589	//in AU
+		Eccentricity	0.17817365396562998
 		Inclination		131.0	//in degrees
-		AscendingNode	0.28763801279043355
-		ArgOfPericenter	-0.07649850981712913
+		AscendingNode	241.7139127822961
+		ArgOfPericenter	-0.28762567155125274
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5553,18 +5545,18 @@ Asteroid "Alderaan fragment 263"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		9.669214779125092	//in km
-	RotationPeriod	4.393630573684185	//in hours
-	Obliquity		284.00582140581935
+	Radius		117.96795567598664	//in km
+	RotationPeriod	19.273313239624407	//in hours
+	Obliquity		275.66948160828827
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7601131060636197	//in AU
-		Eccentricity	0.1762497760266023
+		SemiMajorAxis	2.408335687293668	//in AU
+		Eccentricity	0.20397619506381676
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1340149518529079
-		ArgOfPericenter	-0.157685217425644
+		AscendingNode	242.15484799080104
+		ArgOfPericenter	-0.38372029057700485
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5574,18 +5566,18 @@ Asteroid "Alderaan fragment 264"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		36.575910722178705	//in km
-	RotationPeriod	19.43911853294023	//in hours
-	Obliquity		113.97877606374304
+	Radius		101.84750312180836	//in km
+	RotationPeriod	12.058964574836034	//in hours
+	Obliquity		152.22238130248962
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.373718391522411	//in AU
-		Eccentricity	0.1525652172001549
+		SemiMajorAxis	2.917649263952841	//in AU
+		Eccentricity	0.10699074057924601
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3607586237718393
-		ArgOfPericenter	-0.2007241815816685
+		AscendingNode	242.2286824770951
+		ArgOfPericenter	-0.3401833326437509
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5595,18 +5587,18 @@ Asteroid "Alderaan fragment 265"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		50.074119477631456	//in km
-	RotationPeriod	12.728295645268052	//in hours
-	Obliquity		92.86804157953281
+	Radius		184.3592527052913	//in km
+	RotationPeriod	15.466758564669584	//in hours
+	Obliquity		231.09667776164656
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5167433967485984	//in AU
-		Eccentricity	0.1403824711676619
+		SemiMajorAxis	2.4996774181542385	//in AU
+		Eccentricity	0.16133304664644474
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.14569308263591074
-		ArgOfPericenter	-0.3186701174215978
+		AscendingNode	241.61923174858012
+		ArgOfPericenter	0.46123485203799053
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5616,18 +5608,18 @@ Asteroid "Alderaan fragment 266"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		91.21033034981117	//in km
-	RotationPeriod	15.820156750704484	//in hours
-	Obliquity		131.81997711055885
+	Radius		142.5462615503152	//in km
+	RotationPeriod	13.260156964975216	//in hours
+	Obliquity		172.70634536174757
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.330707006175189	//in AU
-		Eccentricity	0.1461663096777872
+		SemiMajorAxis	2.7685545159591523	//in AU
+		Eccentricity	0.18383147960059598
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1518496963019389
-		ArgOfPericenter	-0.32636655422558525
+		AscendingNode	241.6996767503581
+		ArgOfPericenter	0.235059034514702
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5637,18 +5629,18 @@ Asteroid "Alderaan fragment 267"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.433887116101076	//in km
-	RotationPeriod	11.509717998339028	//in hours
-	Obliquity		336.2740209677695
+	Radius		191.50065063050627	//in km
+	RotationPeriod	15.439611033417206	//in hours
+	Obliquity		215.5103275396893
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.1541455291676734	//in AU
-		Eccentricity	0.16897391341955714
+		SemiMajorAxis	2.574808880056235	//in AU
+		Eccentricity	0.11350666908973069
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.48828825067336445
-		ArgOfPericenter	-0.39400342593855064
+		AscendingNode	241.5558551034704
+		ArgOfPericenter	-0.46830432909894426
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5658,18 +5650,18 @@ Asteroid "Alderaan fragment 268"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		100.81427605150819	//in km
-	RotationPeriod	19.552584310490424	//in hours
-	Obliquity		216.43379637264363
+	Radius		165.51902739428	//in km
+	RotationPeriod	22.270649162082705	//in hours
+	Obliquity		71.1032053299577
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5269384885460515	//in AU
-		Eccentricity	0.17175563181290213
+		SemiMajorAxis	2.7000528662568994	//in AU
+		Eccentricity	0.13095710235188063
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.15246380333370113
-		ArgOfPericenter	0.41768962408395294
+		AscendingNode	242.0426794290516
+		ArgOfPericenter	0.06043698346911652
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5679,18 +5671,18 @@ Asteroid "Alderaan fragment 269"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		85.28899858148213	//in km
-	RotationPeriod	13.802704751132499	//in hours
-	Obliquity		163.18354220392678
+	Radius		138.0750382824728	//in km
+	RotationPeriod	12.18166320557478	//in hours
+	Obliquity		58.915107417967555
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.508988609609374	//in AU
-		Eccentricity	0.1753979014761544
+		SemiMajorAxis	2.689948809110116	//in AU
+		Eccentricity	0.15822669737940703
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.32915564394752495
-		ArgOfPericenter	-0.2697364189960473
+		AscendingNode	242.3582984095588
+		ArgOfPericenter	-0.021828610096932266
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5700,18 +5692,18 @@ Asteroid "Alderaan fragment 270"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		52.820308839609105	//in km
-	RotationPeriod	9.80310377452803	//in hours
-	Obliquity		173.00767455659718
+	Radius		92.24505854030468	//in km
+	RotationPeriod	16.247651839666936	//in hours
+	Obliquity		344.68112311558167
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3044035571730466	//in AU
-		Eccentricity	0.1979099178615464
+		SemiMajorAxis	2.6864385695565067	//in AU
+		Eccentricity	0.175359031764312
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.41749810406639354
-		ArgOfPericenter	-0.2390829868562605
+		AscendingNode	241.93988979277376
+		ArgOfPericenter	0.36173528819949097
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5721,18 +5713,18 @@ Asteroid "Alderaan fragment 271"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		94.41979441401006	//in km
-	RotationPeriod	7.383108345172162	//in hours
-	Obliquity		353.35355096544777
+	Radius		225.19987859603538	//in km
+	RotationPeriod	8.492224665915295	//in hours
+	Obliquity		70.22996716283608
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3394853611080073	//in AU
-		Eccentricity	0.17930115706787633
+		SemiMajorAxis	2.894432806505173	//in AU
+		Eccentricity	0.19772041738087082
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.24054523805577155
-		ArgOfPericenter	0.3199242368198818
+		AscendingNode	242.23970239729243
+		ArgOfPericenter	0.24729167570007415
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5742,18 +5734,18 @@ Asteroid "Alderaan fragment 272"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		161.87587589378217	//in km
-	RotationPeriod	13.68886370764029	//in hours
-	Obliquity		177.54231612573824
+	Radius		164.6709264318822	//in km
+	RotationPeriod	8.924082206217118	//in hours
+	Obliquity		19.717135159290955
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5067846932954034	//in AU
-		Eccentricity	0.17798805293785205
+		SemiMajorAxis	2.8380196855169557	//in AU
+		Eccentricity	0.16025474276458015
 		Inclination		131.0	//in degrees
-		AscendingNode	0.17849385905484227
-		ArgOfPericenter	-0.0468622325899144
+		AscendingNode	242.2161031012168
+		ArgOfPericenter	-0.19095702125681224
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5763,18 +5755,18 @@ Asteroid "Alderaan fragment 273"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		72.2403470189865	//in km
-	RotationPeriod	13.752660210518174	//in hours
-	Obliquity		281.271950492737
+	Radius		103.33463476109333	//in km
+	RotationPeriod	14.44558199338436	//in hours
+	Obliquity		320.26086650264114
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.548813487196503	//in AU
-		Eccentricity	0.1931062854006518
+		SemiMajorAxis	2.2254690881586776	//in AU
+		Eccentricity	0.1816593473381027
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.09738142778266734
-		ArgOfPericenter	-0.4330918731991673
+		AscendingNode	242.47886250551258
+		ArgOfPericenter	-0.11735694224614501
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5784,18 +5776,18 @@ Asteroid "Alderaan fragment 274"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		8.530484165105069	//in km
-	RotationPeriod	16.46456943051541	//in hours
-	Obliquity		289.18657049852436
+	Radius		270.9967162786192	//in km
+	RotationPeriod	18.28096353588212	//in hours
+	Obliquity		221.67849698154805
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5782450904889203	//in AU
-		Eccentricity	0.19208361234891325
+		SemiMajorAxis	2.7585952615817053	//in AU
+		Eccentricity	0.16938652923351663
 		Inclination		131.0	//in degrees
-		AscendingNode	0.32725837961241155
-		ArgOfPericenter	0.06659483148635681
+		AscendingNode	241.6296804394888
+		ArgOfPericenter	0.1439619711395409
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5805,18 +5797,18 @@ Asteroid "Alderaan fragment 275"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		8.655113356435162	//in km
-	RotationPeriod	13.670741767446433	//in hours
-	Obliquity		8.864285364714455
+	Radius		122.33930419517054	//in km
+	RotationPeriod	14.27122151390355	//in hours
+	Obliquity		214.82626536617602
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0048842250121193	//in AU
-		Eccentricity	0.20052393729355297
+		SemiMajorAxis	3.041195086554422	//in AU
+		Eccentricity	0.14355061757526238
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.39233743037322644
-		ArgOfPericenter	-0.36122417868838796
+		AscendingNode	242.0535042060108
+		ArgOfPericenter	-0.4522609281261706
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5826,18 +5818,18 @@ Asteroid "Alderaan fragment 276"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		12.090882604178521	//in km
-	RotationPeriod	14.12734218177852	//in hours
-	Obliquity		351.71389685254366
+	Radius		245.55139143997945	//in km
+	RotationPeriod	15.20965664620929	//in hours
+	Obliquity		298.9139763470789
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8768745680522265	//in AU
-		Eccentricity	0.19732338808112396
+		SemiMajorAxis	2.7772880213488422	//in AU
+		Eccentricity	0.20480554992512
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3406447597772173
-		ArgOfPericenter	0.29574705398921364
+		AscendingNode	242.3041450871691
+		ArgOfPericenter	0.26526911417006604
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5847,18 +5839,18 @@ Asteroid "Alderaan fragment 277"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.697006899784874	//in km
-	RotationPeriod	9.681609547590504	//in hours
-	Obliquity		244.51298799231512
+	Radius		172.8243385517671	//in km
+	RotationPeriod	6.860782137217499	//in hours
+	Obliquity		89.65722208960294
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4160509876234433	//in AU
-		Eccentricity	0.16759933578413422
+		SemiMajorAxis	2.627808212820122	//in AU
+		Eccentricity	0.1403600895592569
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.49696065324052896
-		ArgOfPericenter	-0.14699830688469007
+		AscendingNode	242.46663718399074
+		ArgOfPericenter	-0.20077202965815855
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5868,18 +5860,18 @@ Asteroid "Alderaan fragment 278"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		12.51754458600558	//in km
-	RotationPeriod	12.899156272755965	//in hours
-	Obliquity		328.2756067241009
+	Radius		121.31292310227539	//in km
+	RotationPeriod	9.400456728756371	//in hours
+	Obliquity		102.14949729540439
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5117652293898174	//in AU
-		Eccentricity	0.1429395227920189
+		SemiMajorAxis	3.130180180123926	//in AU
+		Eccentricity	0.15580187551117397
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4202597250479495
-		ArgOfPericenter	-0.3163656210450848
+		AscendingNode	242.11332847372321
+		ArgOfPericenter	0.4485711109059596
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5889,18 +5881,18 @@ Asteroid "Alderaan fragment 279"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		205.4598408830188	//in km
-	RotationPeriod	12.61614454515864	//in hours
-	Obliquity		203.09274594150997
+	Radius		84.66996431473945	//in km
+	RotationPeriod	12.617533926999846	//in hours
+	Obliquity		257.0137541875499
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5592668906021956	//in AU
-		Eccentricity	0.17898048256010407
+		SemiMajorAxis	2.6530072842595938	//in AU
+		Eccentricity	0.14855702106385416
 		Inclination		131.0	//in degrees
-		AscendingNode	0.024417571212019817
-		ArgOfPericenter	0.4177459844847079
+		AscendingNode	241.7568273927023
+		ArgOfPericenter	0.1877094710886379
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5910,18 +5902,18 @@ Asteroid "Alderaan fragment 280"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		226.45652731946603	//in km
-	RotationPeriod	6.578359763290622	//in hours
-	Obliquity		108.04491201342445
+	Radius		233.69021104561654	//in km
+	RotationPeriod	15.273974090732416	//in hours
+	Obliquity		356.0017963911919
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.678616855213215	//in AU
-		Eccentricity	0.1708620591025783
+		SemiMajorAxis	2.6354552830825013	//in AU
+		Eccentricity	0.1551063643781032
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2205176551055522
-		ArgOfPericenter	-0.48900561043421653
+		AscendingNode	241.93244497380098
+		ArgOfPericenter	0.23326152196322858
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5931,18 +5923,18 @@ Asteroid "Alderaan fragment 281"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		103.86177961672053	//in km
-	RotationPeriod	15.366818161937491	//in hours
-	Obliquity		244.5985957481868
+	Radius		200.49912480109865	//in km
+	RotationPeriod	7.510387737910175	//in hours
+	Obliquity		42.53845150040532
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3052762031762892	//in AU
-		Eccentricity	0.1788015217303832
+		SemiMajorAxis	2.3582682085767717	//in AU
+		Eccentricity	0.17862350293697182
 		Inclination		131.0	//in degrees
-		AscendingNode	0.49532618537488915
-		ArgOfPericenter	0.1309285995604591
+		AscendingNode	242.33278578385335
+		ArgOfPericenter	-0.29962029293294534
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5952,18 +5944,18 @@ Asteroid "Alderaan fragment 282"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		66.01919224574652	//in km
-	RotationPeriod	9.14212826203095	//in hours
-	Obliquity		262.8513113095876
+	Radius		190.1541319078139	//in km
+	RotationPeriod	15.49373342949458	//in hours
+	Obliquity		353.5928979690371
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5492243313753016	//in AU
-		Eccentricity	0.143043027768501
+		SemiMajorAxis	2.2072385553644747	//in AU
+		Eccentricity	0.1612002438313423
 		Inclination		131.0	//in degrees
-		AscendingNode	0.20787045154923123
-		ArgOfPericenter	0.285336958885301
+		AscendingNode	242.4664810401649
+		ArgOfPericenter	0.4346639889104885
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5973,18 +5965,18 @@ Asteroid "Alderaan fragment 283"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		113.25160384364551	//in km
-	RotationPeriod	9.103560583802597	//in hours
-	Obliquity		72.15219741068086
+	Radius		153.99327780631864	//in km
+	RotationPeriod	10.99906808628876	//in hours
+	Obliquity		173.94072962567427
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6867420687846746	//in AU
-		Eccentricity	0.13089009076104716
+		SemiMajorAxis	2.5795589283210925	//in AU
+		Eccentricity	0.1478666738495585
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.13373005169436702
-		ArgOfPericenter	0.21327890145540773
+		AscendingNode	242.25401182778023
+		ArgOfPericenter	-0.20452954828738468
 		RefPlane		"Ecliptic"
 	}
 }
@@ -5994,18 +5986,18 @@ Asteroid "Alderaan fragment 284"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		154.4992093240941	//in km
-	RotationPeriod	6.92481572837344	//in hours
-	Obliquity		216.97738769892672
+	Radius		119.84672088540975	//in km
+	RotationPeriod	12.447366503042634	//in hours
+	Obliquity		312.20796708826407
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6508041552449204	//in AU
-		Eccentricity	0.1309060124514571
+		SemiMajorAxis	2.5424722642881714	//in AU
+		Eccentricity	0.21907393854901985
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3563710941481002
-		ArgOfPericenter	0.4150241407198766
+		AscendingNode	242.35746254248897
+		ArgOfPericenter	-0.33217683811261045
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6015,18 +6007,18 @@ Asteroid "Alderaan fragment 285"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		26.184201545177213	//in km
-	RotationPeriod	12.655194206393126	//in hours
-	Obliquity		202.6986886670111
+	Radius		211.9692762896523	//in km
+	RotationPeriod	9.140788263416606	//in hours
+	Obliquity		125.97872624985682
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.701748101955684	//in AU
-		Eccentricity	0.22364266045307277
+		SemiMajorAxis	2.926173436298552	//in AU
+		Eccentricity	0.16269611982939047
 		Inclination		131.0	//in degrees
-		AscendingNode	0.21109064269567146
-		ArgOfPericenter	0.3666762710237027
+		AscendingNode	242.39502782391793
+		ArgOfPericenter	-0.4077475636232468
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6036,18 +6028,18 @@ Asteroid "Alderaan fragment 286"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		68.30302966854998	//in km
-	RotationPeriod	14.845664534595066	//in hours
-	Obliquity		309.0854287100948
+	Radius		182.37426139104562	//in km
+	RotationPeriod	3.882329807576882	//in hours
+	Obliquity		26.91941847606841
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.550319338472022	//in AU
-		Eccentricity	0.16342773907973088
+		SemiMajorAxis	2.51610013456312	//in AU
+		Eccentricity	0.1595070951469914
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4261202578844303
-		ArgOfPericenter	-0.28379363356159926
+		AscendingNode	241.89784954486043
+		ArgOfPericenter	-0.014539911381712067
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6057,18 +6049,18 @@ Asteroid "Alderaan fragment 287"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		104.55494204733087	//in km
-	RotationPeriod	11.011925941236356	//in hours
-	Obliquity		199.683564618502
+	Radius		107.84775532086303	//in km
+	RotationPeriod	9.929633733654223	//in hours
+	Obliquity		342.60559067257464
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.383870714131426	//in AU
-		Eccentricity	0.18926618379067442
+		SemiMajorAxis	2.3656418646374076	//in AU
+		Eccentricity	0.14785980278650818
 		Inclination		131.0	//in degrees
-		AscendingNode	0.10679290998988167
-		ArgOfPericenter	0.4399613113591173
+		AscendingNode	242.34966560219814
+		ArgOfPericenter	-0.059321418997667075
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6078,18 +6070,18 @@ Asteroid "Alderaan fragment 288"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		105.51590108177945	//in km
-	RotationPeriod	12.376051492518533	//in hours
-	Obliquity		148.9158985302678
+	Radius		171.14919137258758	//in km
+	RotationPeriod	11.851957331345838	//in hours
+	Obliquity		77.31994284662447
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3255082320289553	//in AU
-		Eccentricity	0.17315386577528485
+		SemiMajorAxis	2.6061047032705194	//in AU
+		Eccentricity	0.16553306588856045
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.47757601196639454
-		ArgOfPericenter	-0.4689784890827178
+		AscendingNode	242.03790627678097
+		ArgOfPericenter	0.4728819628406169
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6099,18 +6091,18 @@ Asteroid "Alderaan fragment 289"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		73.66062218262968	//in km
-	RotationPeriod	12.806624909820615	//in hours
-	Obliquity		217.99273129431984
+	Radius		142.11145425590237	//in km
+	RotationPeriod	13.949636798683777	//in hours
+	Obliquity		93.70918968937592
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.268850371936404	//in AU
-		Eccentricity	0.13722507212221735
+		SemiMajorAxis	2.4197793336098514	//in AU
+		Eccentricity	0.15782068264840626
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.47620729233356374
-		ArgOfPericenter	0.4886980678852729
+		AscendingNode	241.6375943256422
+		ArgOfPericenter	0.46298837874366483
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6120,18 +6112,18 @@ Asteroid "Alderaan fragment 290"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.29779927363356	//in km
-	RotationPeriod	15.881265994692683	//in hours
-	Obliquity		47.9878095457192
+	Radius		130.28638301151517	//in km
+	RotationPeriod	11.347799307468975	//in hours
+	Obliquity		7.777525563797711
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3302904701768434	//in AU
-		Eccentricity	0.15545166986250525
+		SemiMajorAxis	3.1463771963922826	//in AU
+		Eccentricity	0.19466683483504665
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3090532156734217
-		ArgOfPericenter	-0.010786032803885792
+		AscendingNode	241.69956721611223
+		ArgOfPericenter	-0.12265736601927524
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6141,18 +6133,18 @@ Asteroid "Alderaan fragment 291"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		62.24116518003453	//in km
-	RotationPeriod	12.585189977934387	//in hours
-	Obliquity		259.53713481659264
+	Radius		193.77577196622553	//in km
+	RotationPeriod	10.99606573453088	//in hours
+	Obliquity		228.08297760601414
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2064249440208084	//in AU
-		Eccentricity	0.11648305762528177
+		SemiMajorAxis	2.421344705434514	//in AU
+		Eccentricity	0.18852789203271772
 		Inclination		131.0	//in degrees
-		AscendingNode	0.27508424345264326
-		ArgOfPericenter	-0.06471820343595103
+		AscendingNode	241.7852108651607
+		ArgOfPericenter	-0.16811660784840077
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6162,18 +6154,18 @@ Asteroid "Alderaan fragment 292"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		112.17902789719378	//in km
-	RotationPeriod	13.840082545990773	//in hours
-	Obliquity		97.99881018456635
+	Radius		108.58067393246549	//in km
+	RotationPeriod	16.396812898243343	//in hours
+	Obliquity		187.96841262502215
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.9646614605992347	//in AU
-		Eccentricity	0.14972970001966768
+		SemiMajorAxis	2.857688409708566	//in AU
+		Eccentricity	0.13222729229375402
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.32460503927726114
-		ArgOfPericenter	-0.29460005662320654
+		AscendingNode	242.21531685546918
+		ArgOfPericenter	-0.2047918688629763
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6183,18 +6175,18 @@ Asteroid "Alderaan fragment 293"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		167.19589418307288	//in km
-	RotationPeriod	22.410958599256766	//in hours
-	Obliquity		117.49322104079816
+	Radius		151.00101790241777	//in km
+	RotationPeriod	13.951993664311178	//in hours
+	Obliquity		330.7644656761283
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.969306858502673	//in AU
-		Eccentricity	0.18234630396416338
+		SemiMajorAxis	2.6455487431415627	//in AU
+		Eccentricity	0.14829324646766945
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3777865555519283
-		ArgOfPericenter	0.07189362081024653
+		AscendingNode	242.0437183625701
+		ArgOfPericenter	0.22239309174838406
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6204,18 +6196,18 @@ Asteroid "Alderaan fragment 294"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		16.87279225044226	//in km
-	RotationPeriod	9.936766932734383	//in hours
-	Obliquity		204.79509687882882
+	Radius		112.39179552853682	//in km
+	RotationPeriod	18.076660637686928	//in hours
+	Obliquity		349.27690538012024
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4643583739790116	//in AU
-		Eccentricity	0.1416296972271244
+		SemiMajorAxis	2.4089441998531598	//in AU
+		Eccentricity	0.10054375204145792
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.08551713662725247
-		ArgOfPericenter	-0.13515381018688277
+		AscendingNode	242.26558338653788
+		ArgOfPericenter	0.34530592818403283
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6225,18 +6217,18 @@ Asteroid "Alderaan fragment 295"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		168.64645658465446	//in km
-	RotationPeriod	19.1895846196974	//in hours
-	Obliquity		289.27292082125086
+	Radius		181.46770576720013	//in km
+	RotationPeriod	14.485071104472457	//in hours
+	Obliquity		216.3683571774735
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.230604314232002	//in AU
-		Eccentricity	0.13661052035385784
+		SemiMajorAxis	2.4686365016329206	//in AU
+		Eccentricity	0.17639432061261634
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.37719710706121556
-		ArgOfPericenter	-0.17523659934883917
+		AscendingNode	242.11049475224112
+		ArgOfPericenter	-0.362695736251483
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6246,18 +6238,18 @@ Asteroid "Alderaan fragment 296"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		62.681665994964554	//in km
-	RotationPeriod	8.753479049392872	//in hours
-	Obliquity		292.42842136944
+	Radius		214.9678037683316	//in km
+	RotationPeriod	9.106528619085228	//in hours
+	Obliquity		19.86946091010931
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3052502999188604	//in AU
-		Eccentricity	0.16905975474930957
+		SemiMajorAxis	2.879757042470112	//in AU
+		Eccentricity	0.13234033606439444
 		Inclination		131.0	//in degrees
-		AscendingNode	0.19573076107595788
-		ArgOfPericenter	0.19239563483944255
+		AscendingNode	242.08488819025814
+		ArgOfPericenter	0.05788880807470631
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6267,18 +6259,18 @@ Asteroid "Alderaan fragment 297"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		95.2135941056195	//in km
-	RotationPeriod	13.199100081026918	//in hours
-	Obliquity		164.47159562089902
+	Radius		76.15180945334178	//in km
+	RotationPeriod	10.791644962446266	//in hours
+	Obliquity		270.7452063869685
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2843852317069238	//in AU
-		Eccentricity	0.16564147765298382
+		SemiMajorAxis	2.7648807012952976	//in AU
+		Eccentricity	0.1333650863723907
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.15749436931463878
-		ArgOfPericenter	-0.30660293857159027
+		AscendingNode	241.83727145724956
+		ArgOfPericenter	0.06185019618139209
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6288,18 +6280,18 @@ Asteroid "Alderaan fragment 298"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		70.88249112842105	//in km
-	RotationPeriod	11.184516385890271	//in hours
-	Obliquity		226.91618309217316
+	Radius		168.31880465742336	//in km
+	RotationPeriod	10.928522564297294	//in hours
+	Obliquity		127.68911543304722
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.30585324082631	//in AU
-		Eccentricity	0.1855005655067334
+		SemiMajorAxis	2.4384974353524886	//in AU
+		Eccentricity	0.15825234444032737
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2619004293900865
-		ArgOfPericenter	-0.2010258014980768
+		AscendingNode	242.08586477338343
+		ArgOfPericenter	-0.43477445894885824
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6309,18 +6301,18 @@ Asteroid "Alderaan fragment 299"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		100.55676169492752	//in km
-	RotationPeriod	9.750212680716235	//in hours
-	Obliquity		110.40167172085665
+	Radius		102.4693002550154	//in km
+	RotationPeriod	13.372430142874615	//in hours
+	Obliquity		306.76312510239865
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2796888325879303	//in AU
-		Eccentricity	0.12568705582016243
+		SemiMajorAxis	2.649819262409202	//in AU
+		Eccentricity	0.15440130117782258
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1159423410820799
-		ArgOfPericenter	-0.06825412474784986
+		AscendingNode	242.26665616359014
+		ArgOfPericenter	-0.24394798813063112
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6330,18 +6322,18 @@ Asteroid "Alderaan fragment 300"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		120.59846434591131	//in km
-	RotationPeriod	14.85503450776833	//in hours
-	Obliquity		286.9084789844146
+	Radius		63.58476416725847	//in km
+	RotationPeriod	11.128215457134937	//in hours
+	Obliquity		134.62029460326053
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2329249295261526	//in AU
-		Eccentricity	0.17375226893614526
+		SemiMajorAxis	2.4462055493946266	//in AU
+		Eccentricity	0.1854868963275688
 		Inclination		131.0	//in degrees
-		AscendingNode	0.20502569587983943
-		ArgOfPericenter	-0.25352037845888487
+		AscendingNode	242.15762939369515
+		ArgOfPericenter	-0.16639739120995767
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6351,18 +6343,18 @@ Asteroid "Alderaan fragment 301"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.685949449901855	//in km
-	RotationPeriod	13.258663203932926	//in hours
-	Obliquity		235.62947338796852
+	Radius		155.7375094816353	//in km
+	RotationPeriod	14.265043803126892	//in hours
+	Obliquity		110.86430495616467
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.686310912093548	//in AU
-		Eccentricity	0.18173472856604844
+		SemiMajorAxis	2.7554007123662014	//in AU
+		Eccentricity	0.16635271193836648
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4737152098428685
-		ArgOfPericenter	-0.4142434872998132
+		AscendingNode	241.5012658373336
+		ArgOfPericenter	0.11710290138379709
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6372,18 +6364,18 @@ Asteroid "Alderaan fragment 302"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		204.6796076615149	//in km
-	RotationPeriod	7.355442364989774	//in hours
-	Obliquity		16.310010884448516
+	Radius		241.85440262445405	//in km
+	RotationPeriod	16.66999104762505	//in hours
+	Obliquity		153.07205639739257
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.081422100790312	//in AU
-		Eccentricity	0.1948833540475383
+		SemiMajorAxis	1.956598099558791	//in AU
+		Eccentricity	0.17516330198433208
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.44332255031028545
-		ArgOfPericenter	-0.42943493936575117
+		AscendingNode	241.8665351828943
+		ArgOfPericenter	0.29037800159782123
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6393,18 +6385,18 @@ Asteroid "Alderaan fragment 303"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.087271262591663	//in km
-	RotationPeriod	12.798569724564107	//in hours
-	Obliquity		49.233730701370526
+	Radius		166.28951405490278	//in km
+	RotationPeriod	13.202815890928555	//in hours
+	Obliquity		98.56027233400859
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3892841654283368	//in AU
-		Eccentricity	0.19663761989166206
+		SemiMajorAxis	2.584062374522488	//in AU
+		Eccentricity	0.14397297884822094
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1515416320247015
-		ArgOfPericenter	-0.462060066715807
+		AscendingNode	242.217233732065
+		ArgOfPericenter	-0.49216523343113217
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6414,18 +6406,18 @@ Asteroid "Alderaan fragment 304"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.694958005685757	//in km
-	RotationPeriod	4.991689327269284	//in hours
-	Obliquity		60.37269298143518
+	Radius		140.01374579443814	//in km
+	RotationPeriod	12.417330143644765	//in hours
+	Obliquity		200.95856027764194
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.093784742693295	//in AU
-		Eccentricity	0.19632369351497714
+		SemiMajorAxis	2.360070186739171	//in AU
+		Eccentricity	0.174041284615208
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.26812591481842296
-		ArgOfPericenter	0.29086320807032995
+		AscendingNode	241.5293346300746
+		ArgOfPericenter	0.18639575965440258
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6435,18 +6427,18 @@ Asteroid "Alderaan fragment 305"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		119.22991361113964	//in km
-	RotationPeriod	9.541157557250703	//in hours
-	Obliquity		156.37865391802413
+	Radius		138.63795015894902	//in km
+	RotationPeriod	10.845436829126024	//in hours
+	Obliquity		11.766014993836556
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.232250913562068	//in AU
-		Eccentricity	0.13794979750357436
+		SemiMajorAxis	2.602882744116918	//in AU
+		Eccentricity	0.17443934578556555
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2352684903524631
-		ArgOfPericenter	-0.412834834038037
+		AscendingNode	242.10548268883193
+		ArgOfPericenter	0.35482654154878457
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6456,18 +6448,18 @@ Asteroid "Alderaan fragment 306"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		91.21554002587426	//in km
-	RotationPeriod	18.323057311158152	//in hours
-	Obliquity		215.73258034609242
+	Radius		183.59933125379786	//in km
+	RotationPeriod	17.120855871757573	//in hours
+	Obliquity		39.127764589743975
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2282260926358655	//in AU
-		Eccentricity	0.14650641779459417
+		SemiMajorAxis	2.677287126208649	//in AU
+		Eccentricity	0.1713597708537313
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.07528352240300451
-		ArgOfPericenter	0.07704927667271444
+		AscendingNode	241.70410022345015
+		ArgOfPericenter	-0.007151070455692077
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6477,18 +6469,18 @@ Asteroid "Alderaan fragment 307"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		132.13970297676053	//in km
-	RotationPeriod	4.4738245098047775	//in hours
-	Obliquity		86.24369292745506
+	Radius		168.13442599669324	//in km
+	RotationPeriod	12.27933013765171	//in hours
+	Obliquity		61.94778643652022
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.979496095858675	//in AU
-		Eccentricity	0.20554378513802865
+		SemiMajorAxis	2.9619293907974766	//in AU
+		Eccentricity	0.1769408069088711
 		Inclination		131.0	//in degrees
-		AscendingNode	0.43444981187540044
-		ArgOfPericenter	0.15221649618651834
+		AscendingNode	241.76282150158553
+		ArgOfPericenter	-0.4961732485345459
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6498,18 +6490,18 @@ Asteroid "Alderaan fragment 308"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		60.605245173927315	//in km
-	RotationPeriod	11.948477677238163	//in hours
-	Obliquity		54.364114450193995
+	Radius		123.99843335158823	//in km
+	RotationPeriod	8.653331075772257	//in hours
+	Obliquity		97.42645691932199
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9470680387357855	//in AU
-		Eccentricity	0.18280196471650706
+		SemiMajorAxis	2.7959516981540844	//in AU
+		Eccentricity	0.13237376672283419
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4913882479128222
-		ArgOfPericenter	-0.2575497422665197
+		AscendingNode	241.59212253909658
+		ArgOfPericenter	0.2236658528654314
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6519,18 +6511,18 @@ Asteroid "Alderaan fragment 309"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		34.89543613029417	//in km
-	RotationPeriod	15.49272915523663	//in hours
-	Obliquity		355.51855798428596
+	Radius		224.6218914335127	//in km
+	RotationPeriod	7.796563763989217	//in hours
+	Obliquity		122.27963606310914
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.1331046788656214	//in AU
-		Eccentricity	0.17064965420642972
+		SemiMajorAxis	2.08367009227089	//in AU
+		Eccentricity	0.1907746254620607
 		Inclination		131.0	//in degrees
-		AscendingNode	0.09935926246770344
-		ArgOfPericenter	0.08779472201749294
+		AscendingNode	241.97219889093978
+		ArgOfPericenter	-0.20215559197659316
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6540,18 +6532,18 @@ Asteroid "Alderaan fragment 310"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		67.68032340620805	//in km
-	RotationPeriod	13.082814333874442	//in hours
-	Obliquity		212.5366598507329
+	Radius		75.14013322010243	//in km
+	RotationPeriod	13.903708247627225	//in hours
+	Obliquity		75.81611517783472
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.497191601245557	//in AU
-		Eccentricity	0.14975699168116444
+		SemiMajorAxis	2.6499446733873904	//in AU
+		Eccentricity	0.1716013720074891
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.03753295176604776
-		ArgOfPericenter	0.42939801259275845
+		AscendingNode	241.98520207663776
+		ArgOfPericenter	-0.38870997905419913
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6561,18 +6553,18 @@ Asteroid "Alderaan fragment 311"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		107.88285929480236	//in km
-	RotationPeriod	12.133268327440636	//in hours
-	Obliquity		90.1593824040051
+	Radius		175.46005957861777	//in km
+	RotationPeriod	14.25727620700129	//in hours
+	Obliquity		239.25238976635828
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4213322784449747	//in AU
-		Eccentricity	0.11357775012444046
+		SemiMajorAxis	2.466953399215841	//in AU
+		Eccentricity	0.18527655182951552
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.25827659878251974
-		ArgOfPericenter	0.36854927111660574
+		AscendingNode	242.2729082888961
+		ArgOfPericenter	-0.3125819742210243
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6582,18 +6574,18 @@ Asteroid "Alderaan fragment 312"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.609959453362537	//in km
-	RotationPeriod	10.585182249854832	//in hours
-	Obliquity		100.30844447881294
+	Radius		206.6132795319527	//in km
+	RotationPeriod	12.114857599484356	//in hours
+	Obliquity		226.33053450662896
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4699972125306235	//in AU
-		Eccentricity	0.19212400882495598
+		SemiMajorAxis	2.7542660698237786	//in AU
+		Eccentricity	0.17058102343704545
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.275067023593602
-		ArgOfPericenter	-0.42293189062929526
+		AscendingNode	242.0700271493668
+		ArgOfPericenter	-0.43102559840167765
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6603,18 +6595,18 @@ Asteroid "Alderaan fragment 313"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		26.99133314331221	//in km
-	RotationPeriod	15.803776964689206	//in hours
-	Obliquity		358.5507519246611
+	Radius		197.47772028754903	//in km
+	RotationPeriod	17.61146643648864	//in hours
+	Obliquity		139.5604051599885
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.037026087836594	//in AU
-		Eccentricity	0.1639953624491957
+		SemiMajorAxis	2.793257151706722	//in AU
+		Eccentricity	0.16218318743935145
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3511015229667004
-		ArgOfPericenter	-0.13792355631036846
+		AscendingNode	241.99783388193399
+		ArgOfPericenter	0.39374767504052
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6624,18 +6616,18 @@ Asteroid "Alderaan fragment 314"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		209.7908801487931	//in km
-	RotationPeriod	11.47334584553078	//in hours
-	Obliquity		222.30754259052642
+	Radius		134.14130933105622	//in km
+	RotationPeriod	11.135213663261805	//in hours
+	Obliquity		54.73267533721056
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.303373388278811	//in AU
-		Eccentricity	0.1094022969030132
+		SemiMajorAxis	2.247995495116723	//in AU
+		Eccentricity	0.1751396933844004
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.08575244523295666
-		ArgOfPericenter	-0.39826219692216636
+		AscendingNode	241.6694502255118
+		ArgOfPericenter	0.07217161300045705
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6645,18 +6637,18 @@ Asteroid "Alderaan fragment 315"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		90.53602213038602	//in km
-	RotationPeriod	19.471966978005938	//in hours
-	Obliquity		353.29733476364004
+	Radius		155.38063684086683	//in km
+	RotationPeriod	16.013572708030377	//in hours
+	Obliquity		12.77903208409137
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.720174152367212	//in AU
-		Eccentricity	0.14215055734933754
+		SemiMajorAxis	2.221621567757569	//in AU
+		Eccentricity	0.13875585212645797
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.47124796212018405
-		ArgOfPericenter	0.23012023506286994
+		AscendingNode	242.00956717266473
+		ArgOfPericenter	-0.13409286427077172
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6666,18 +6658,18 @@ Asteroid "Alderaan fragment 316"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		62.14470067723936	//in km
-	RotationPeriod	19.068661526089986	//in hours
-	Obliquity		188.1395317596557
+	Radius		66.42166200126829	//in km
+	RotationPeriod	12.738065479842405	//in hours
+	Obliquity		53.01942578263984
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8774617445324844	//in AU
-		Eccentricity	0.190037825671128
+		SemiMajorAxis	2.46019240133678	//in AU
+		Eccentricity	0.1833582336941124
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3488007863616486
-		ArgOfPericenter	-0.34070011260189137
+		AscendingNode	241.64135060359158
+		ArgOfPericenter	0.3627318482148989
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6687,18 +6679,18 @@ Asteroid "Alderaan fragment 317"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		63.59111457261621	//in km
-	RotationPeriod	7.957483109684074	//in hours
-	Obliquity		192.246541989723
+	Radius		70.30066598053283	//in km
+	RotationPeriod	9.732460016216452	//in hours
+	Obliquity		272.6108182424591
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.224202523632038	//in AU
-		Eccentricity	0.1952283103396898
+		SemiMajorAxis	2.678427994699053	//in AU
+		Eccentricity	0.14527622986813654
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.20279130280190705
-		ArgOfPericenter	0.20747506257682158
+		AscendingNode	242.23448145380064
+		ArgOfPericenter	0.1201885955511307
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6708,18 +6700,18 @@ Asteroid "Alderaan fragment 318"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.369107609178727	//in km
-	RotationPeriod	12.662157667147785	//in hours
-	Obliquity		341.61274956538585
+	Radius		194.86004895818743	//in km
+	RotationPeriod	4.845599040964968	//in hours
+	Obliquity		114.18950013324829
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8915657788020774	//in AU
-		Eccentricity	0.18758669990745158
+		SemiMajorAxis	2.8664094016383936	//in AU
+		Eccentricity	0.17162044983208585
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4000645683655889
-		ArgOfPericenter	0.4846495041975175
+		AscendingNode	242.33134110036488
+		ArgOfPericenter	0.021294018670295123
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6729,18 +6721,18 @@ Asteroid "Alderaan fragment 319"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		91.46493439456924	//in km
-	RotationPeriod	10.01612977085075	//in hours
-	Obliquity		337.08224257906346
+	Radius		133.8836455042199	//in km
+	RotationPeriod	15.96435534106615	//in hours
+	Obliquity		333.78317918101595
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3766155765984798	//in AU
-		Eccentricity	0.1490364065248061
+		SemiMajorAxis	2.0758473785501166	//in AU
+		Eccentricity	0.14847615357211102
 		Inclination		131.0	//in degrees
-		AscendingNode	0.40534788970858815
-		ArgOfPericenter	0.32654007343341207
+		AscendingNode	242.45069465614358
+		ArgOfPericenter	0.01864351318630919
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6750,18 +6742,18 @@ Asteroid "Alderaan fragment 320"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		71.70239324257865	//in km
-	RotationPeriod	14.301571362159326	//in hours
-	Obliquity		111.75763917807568
+	Radius		148.14291973476512	//in km
+	RotationPeriod	7.309514050682246	//in hours
+	Obliquity		166.55149227470835
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.51008246196138	//in AU
-		Eccentricity	0.15565800657328083
+		SemiMajorAxis	2.689790440386452	//in AU
+		Eccentricity	0.16345033821135727
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.013375214559729454
-		ArgOfPericenter	0.41310269849913583
+		AscendingNode	241.90982921339335
+		ArgOfPericenter	-0.35063504890468344
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6771,18 +6763,18 @@ Asteroid "Alderaan fragment 321"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.37100662041297	//in km
-	RotationPeriod	15.292612104261103	//in hours
-	Obliquity		352.22890455172535
+	Radius		238.89935682642795	//in km
+	RotationPeriod	17.9636426045417	//in hours
+	Obliquity		135.97241360967752
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5187944705914225	//in AU
-		Eccentricity	0.15749940667346043
+		SemiMajorAxis	2.0917377376299062	//in AU
+		Eccentricity	0.1386895529368597
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19559683123790228
-		ArgOfPericenter	-0.02093251838403476
+		AscendingNode	241.58845487295
+		ArgOfPericenter	-0.3712316046659182
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6792,18 +6784,18 @@ Asteroid "Alderaan fragment 322"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		77.27661275377014	//in km
-	RotationPeriod	12.374476258405844	//in hours
-	Obliquity		258.4710925490188
+	Radius		193.1643345977593	//in km
+	RotationPeriod	13.793240179438884	//in hours
+	Obliquity		34.85088847440422
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.266708548992814	//in AU
-		Eccentricity	0.17701007493821228
+		SemiMajorAxis	2.434293194400863	//in AU
+		Eccentricity	0.15297506976824182
 		Inclination		131.0	//in degrees
-		AscendingNode	0.06621284458966004
-		ArgOfPericenter	-0.4699601255647554
+		AscendingNode	242.43738469863308
+		ArgOfPericenter	0.2637214372165354
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6813,18 +6805,18 @@ Asteroid "Alderaan fragment 323"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.345942426623324	//in km
-	RotationPeriod	13.576382294590056	//in hours
-	Obliquity		210.0423999061763
+	Radius		209.4735167999667	//in km
+	RotationPeriod	12.854979975302168	//in hours
+	Obliquity		129.26790025149745
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.235718250669307	//in AU
-		Eccentricity	0.17499960300577974
+		SemiMajorAxis	2.679974581327153	//in AU
+		Eccentricity	0.18664830861135287
 		Inclination		131.0	//in degrees
-		AscendingNode	0.26458951174729506
-		ArgOfPericenter	-0.03475575534100672
+		AscendingNode	241.70018013383677
+		ArgOfPericenter	-0.1290193126336413
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6834,16 +6826,18 @@ Asteroid "Alderaan fragment 324"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		29.191296181240773	//in km
-	TidalLocked	true
+	Radius		93.95038328412033	//in km
+	RotationPeriod	5.602852174086428	//in hours
+	Obliquity		62.52154688007466
+
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.139522458726548	//in AU
-		Eccentricity	0.1891160527221721
+		SemiMajorAxis	2.4101761532877877	//in AU
+		Eccentricity	0.1675493690029417
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.29309943274546624
-		ArgOfPericenter	0.40459447392193526
+		AscendingNode	241.88080812955374
+		ArgOfPericenter	0.24304240326686632
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6853,18 +6847,18 @@ Asteroid "Alderaan fragment 325"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		177.32750009673424	//in km
-	RotationPeriod	13.798310581738635	//in hours
-	Obliquity		78.4994210569497
+	Radius		247.51399756984188	//in km
+	RotationPeriod	4.87464821081831	//in hours
+	Obliquity		175.35238763890533
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.585974097808238	//in AU
-		Eccentricity	0.15579212037077114
+		SemiMajorAxis	2.7720567041563138	//in AU
+		Eccentricity	0.16258795148775876
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3285207279004342
-		ArgOfPericenter	-0.11606537970481601
+		AscendingNode	242.48716551639612
+		ArgOfPericenter	-0.2596079738027106
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6874,18 +6868,18 @@ Asteroid "Alderaan fragment 326"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		45.07549120818448	//in km
-	RotationPeriod	6.690262642602326	//in hours
-	Obliquity		220.8733870686805
+	Radius		165.13824345795885	//in km
+	RotationPeriod	8.708309723125973	//in hours
+	Obliquity		129.39927431570268
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.165906202732613	//in AU
-		Eccentricity	0.1679359848055539
+		SemiMajorAxis	2.582581864357419	//in AU
+		Eccentricity	0.18854434082849597
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.15140146754472905
-		ArgOfPericenter	-0.1541804098598093
+		AscendingNode	242.34349529873467
+		ArgOfPericenter	-0.3575905451764687
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6895,18 +6889,18 @@ Asteroid "Alderaan fragment 327"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		26.931421463415894	//in km
-	RotationPeriod	16.650526915240352	//in hours
-	Obliquity		333.3656057779763
+	Radius		192.5302437730944	//in km
+	RotationPeriod	11.740139432149627	//in hours
+	Obliquity		234.1844733826963
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3975168344151374	//in AU
-		Eccentricity	0.18276487850949458
+		SemiMajorAxis	2.41681414866656	//in AU
+		Eccentricity	0.1397468756451935
 		Inclination		131.0	//in degrees
-		AscendingNode	0.41334442970488017
-		ArgOfPericenter	-0.16639342083674735
+		AscendingNode	242.23464733905973
+		ArgOfPericenter	0.3709164380069724
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6916,18 +6910,18 @@ Asteroid "Alderaan fragment 328"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		46.62733758912991	//in km
-	RotationPeriod	11.495351060841825	//in hours
-	Obliquity		327.74455725295644
+	Radius		211.53444250300694	//in km
+	RotationPeriod	14.33444286731284	//in hours
+	Obliquity		148.15191040402087
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7426376874217038	//in AU
-		Eccentricity	0.11388878771618256
+		SemiMajorAxis	2.8808520328316725	//in AU
+		Eccentricity	0.1860065895021526
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.13759430949761153
-		ArgOfPericenter	0.28445762351440607
+		AscendingNode	241.94394136748494
+		ArgOfPericenter	-0.45976164385010254
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6937,18 +6931,18 @@ Asteroid "Alderaan fragment 329"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		225.62506693676255	//in km
-	RotationPeriod	7.128957222742326	//in hours
-	Obliquity		272.3227853275217
+	Radius		41.24962504390302	//in km
+	RotationPeriod	9.967818833113718	//in hours
+	Obliquity		192.41936877310465
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5030314512895795	//in AU
-		Eccentricity	0.17122618409838808
+		SemiMajorAxis	2.999877036253154	//in AU
+		Eccentricity	0.1562690305000135
 		Inclination		131.0	//in degrees
-		AscendingNode	0.47960915654951275
-		ArgOfPericenter	-0.10619778314461992
+		AscendingNode	241.83509933614306
+		ArgOfPericenter	-0.4576264538600884
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6958,18 +6952,18 @@ Asteroid "Alderaan fragment 330"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		66.63722497764282	//in km
-	RotationPeriod	9.924641299723332	//in hours
-	Obliquity		123.29856071851174
+	Radius		174.08799555997183	//in km
+	RotationPeriod	4.9913973426865	//in hours
+	Obliquity		61.403707869671464
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.1418518944098817	//in AU
-		Eccentricity	0.17437771065253158
+		SemiMajorAxis	2.544369800968406	//in AU
+		Eccentricity	0.1339768395112352
 		Inclination		131.0	//in degrees
-		AscendingNode	0.009792123162432942
-		ArgOfPericenter	-0.4989220637003089
+		AscendingNode	241.66507569483454
+		ArgOfPericenter	-0.21996646693590172
 		RefPlane		"Ecliptic"
 	}
 }
@@ -6979,18 +6973,18 @@ Asteroid "Alderaan fragment 331"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		84.3871884787068	//in km
-	RotationPeriod	11.175559315984382	//in hours
-	Obliquity		33.703454913393166
+	Radius		174.9945321929789	//in km
+	RotationPeriod	14.754849602600643	//in hours
+	Obliquity		3.4585777516169802
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7433329788207432	//in AU
-		Eccentricity	0.10992397261187778
+		SemiMajorAxis	2.7881000537197123	//in AU
+		Eccentricity	0.17715584662950068
 		Inclination		131.0	//in degrees
-		AscendingNode	0.046733100124131455
-		ArgOfPericenter	0.1942226984793478
+		AscendingNode	241.870532052622
+		ArgOfPericenter	-0.23320890248504977
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7000,18 +6994,18 @@ Asteroid "Alderaan fragment 332"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		137.49092497586858	//in km
-	RotationPeriod	11.750962063246064	//in hours
-	Obliquity		277.62449141654196
+	Radius		222.21543362283643	//in km
+	RotationPeriod	19.761227889625157	//in hours
+	Obliquity		259.44829819593105
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2606156254711474	//in AU
-		Eccentricity	0.16218846432030468
+		SemiMajorAxis	2.122542077518923	//in AU
+		Eccentricity	0.16697163235255869
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.48612853627178976
-		ArgOfPericenter	0.13481565760384828
+		AscendingNode	242.3149666756814
+		ArgOfPericenter	0.150162799487765
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7021,18 +7015,18 @@ Asteroid "Alderaan fragment 333"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		36.61497462596457	//in km
-	RotationPeriod	10.408406901591114	//in hours
-	Obliquity		185.234238856344
+	Radius		182.46228049171037	//in km
+	RotationPeriod	12.48018335427195	//in hours
+	Obliquity		223.7101138597156
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2807852475434722	//in AU
-		Eccentricity	0.15649496074253857
+		SemiMajorAxis	2.6943955648755566	//in AU
+		Eccentricity	0.16035817614500533
 		Inclination		131.0	//in degrees
-		AscendingNode	0.08935181996290542
-		ArgOfPericenter	-0.08227173288730727
+		AscendingNode	241.95161243909334
+		ArgOfPericenter	-0.3926087341712027
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7042,18 +7036,18 @@ Asteroid "Alderaan fragment 334"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		52.08060222830524	//in km
-	RotationPeriod	9.812217942256213	//in hours
-	Obliquity		124.58215762443452
+	Radius		155.442131562674	//in km
+	RotationPeriod	5.268731353207714	//in hours
+	Obliquity		13.247368276043993
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.495118094978974	//in AU
-		Eccentricity	0.1825606670976884
+		SemiMajorAxis	2.715086395475164	//in AU
+		Eccentricity	0.17505672300151207
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.15050915427041123
-		ArgOfPericenter	0.3729720144328652
+		AscendingNode	242.3085416613788
+		ArgOfPericenter	-0.47319851932459545
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7063,18 +7057,18 @@ Asteroid "Alderaan fragment 335"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		203.97985698729278	//in km
-	RotationPeriod	11.685544105497954	//in hours
-	Obliquity		272.58201531497576
+	Radius		217.18090674196588	//in km
+	RotationPeriod	17.081661635041755	//in hours
+	Obliquity		334.03400591336606
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.793815889523548	//in AU
-		Eccentricity	0.13178430608751862
+		SemiMajorAxis	2.087242382362362	//in AU
+		Eccentricity	0.13213558305880121
 		Inclination		131.0	//in degrees
-		AscendingNode	0.07525525367694563
-		ArgOfPericenter	0.4877901708285387
+		AscendingNode	241.6237966712055
+		ArgOfPericenter	-0.08601899450215489
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7084,18 +7078,18 @@ Asteroid "Alderaan fragment 336"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		75.93133078375783	//in km
-	RotationPeriod	8.656494741584096	//in hours
-	Obliquity		336.5478283270094
+	Radius		145.2688447536961	//in km
+	RotationPeriod	10.495429424608895	//in hours
+	Obliquity		280.2802098660473
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.62089747882272	//in AU
-		Eccentricity	0.18100284548413748
+		SemiMajorAxis	2.530609848070305	//in AU
+		Eccentricity	0.1563496955233641
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4924237683698969
-		ArgOfPericenter	0.22762381891634476
+		AscendingNode	242.34952437746378
+		ArgOfPericenter	-0.46581150493204615
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7105,18 +7099,18 @@ Asteroid "Alderaan fragment 337"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		31.94098242112624	//in km
-	RotationPeriod	6.216862399731475	//in hours
-	Obliquity		215.14896518581907
+	Radius		125.64723413682643	//in km
+	RotationPeriod	22.11876320113565	//in hours
+	Obliquity		308.5426707554355
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3742089115282403	//in AU
-		Eccentricity	0.17512666201317628
+		SemiMajorAxis	2.8059598828104777	//in AU
+		Eccentricity	0.14121687285171966
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.10513649268031577
-		ArgOfPericenter	-0.4114395605285276
+		AscendingNode	241.51025658296984
+		ArgOfPericenter	0.27220113330430595
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7126,18 +7120,18 @@ Asteroid "Alderaan fragment 338"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		26.910111125269115	//in km
-	RotationPeriod	8.8519275526025	//in hours
-	Obliquity		272.3537189500478
+	Radius		164.6577364059189	//in km
+	RotationPeriod	15.912056352439102	//in hours
+	Obliquity		182.3386755004426
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.484612821567378	//in AU
-		Eccentricity	0.17554029620699527
+		SemiMajorAxis	2.1980567061610468	//in AU
+		Eccentricity	0.19784163326167475
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.334816951185379
-		ArgOfPericenter	0.3891787878824109
+		AscendingNode	242.05888377323663
+		ArgOfPericenter	0.3843055952278771
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7147,18 +7141,18 @@ Asteroid "Alderaan fragment 339"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		131.34805940463315	//in km
-	RotationPeriod	13.370496061876464	//in hours
-	Obliquity		311.5648509494483
+	Radius		166.32116304732455	//in km
+	RotationPeriod	11.438220017564698	//in hours
+	Obliquity		136.90583270691178
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.20596774619939	//in AU
-		Eccentricity	0.20035887450070283
+		SemiMajorAxis	2.883662048876347	//in AU
+		Eccentricity	0.162798789418795
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.12085323065754239
-		ArgOfPericenter	0.07890245717925592
+		AscendingNode	242.41942305541036
+		ArgOfPericenter	-0.037625749095758
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7168,18 +7162,18 @@ Asteroid "Alderaan fragment 340"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		191.62660998249675	//in km
-	RotationPeriod	17.143797088607243	//in hours
-	Obliquity		209.84438215699112
+	Radius		203.68452077433255	//in km
+	RotationPeriod	15.158294607171886	//in hours
+	Obliquity		176.8931212701267
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.41572392907775	//in AU
-		Eccentricity	0.16241642361250264
+		SemiMajorAxis	2.7922587282365248	//in AU
+		Eccentricity	0.20412766505636504
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4150132685090997
-		ArgOfPericenter	-0.2315761792729687
+		AscendingNode	242.48103649457582
+		ArgOfPericenter	0.14924436280397835
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7189,18 +7183,18 @@ Asteroid "Alderaan fragment 341"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		42.45857639041529	//in km
-	RotationPeriod	13.528206161125114	//in hours
-	Obliquity		17.10659926811057
+	Radius		213.79654792851832	//in km
+	RotationPeriod	15.250846127039509	//in hours
+	Obliquity		159.58706025461157
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7082143757536157	//in AU
-		Eccentricity	0.17063085695294206
+		SemiMajorAxis	2.4629427158855375	//in AU
+		Eccentricity	0.16583997821376556
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.15246816417317766
-		ArgOfPericenter	-0.33874679077622316
+		AscendingNode	241.97324639752415
+		ArgOfPericenter	0.273939347638532
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7210,18 +7204,18 @@ Asteroid "Alderaan fragment 342"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		31.214034128776248	//in km
-	RotationPeriod	22.290224606428275	//in hours
-	Obliquity		357.80536887774065
+	Radius		211.81214497664183	//in km
+	RotationPeriod	14.043573022645242	//in hours
+	Obliquity		292.4015310512644
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.108994418654983	//in AU
-		Eccentricity	0.15111322736113375
+		SemiMajorAxis	2.691517096821817	//in AU
+		Eccentricity	0.1606279581581409
 		Inclination		131.0	//in degrees
-		AscendingNode	0.20036384279240005
-		ArgOfPericenter	-0.3188670787897009
+		AscendingNode	241.54910611182584
+		ArgOfPericenter	-0.44636536986480435
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7231,18 +7225,18 @@ Asteroid "Alderaan fragment 343"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.528351622221404	//in km
-	RotationPeriod	7.781547824843892	//in hours
-	Obliquity		175.63466875437175
+	Radius		252.3427170116655	//in km
+	RotationPeriod	19.41753032275316	//in hours
+	Obliquity		277.0795913236466
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.71	//in AU
-		Eccentricity	0.1522229859852927
+		SemiMajorAxis	2.192033448052189	//in AU
+		Eccentricity	0.1928808051240371
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2171159931573028
-		ArgOfPericenter	-0.25382835388172376
+		AscendingNode	241.7773821192018
+		ArgOfPericenter	0.2114286198292018
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7252,18 +7246,18 @@ Asteroid "Alderaan fragment 344"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.080162701826424	//in km
-	RotationPeriod	9.591705560787544	//in hours
-	Obliquity		154.02092048524196
+	Radius		177.51907189776523	//in km
+	RotationPeriod	9.757105232152732	//in hours
+	Obliquity		10.157847471366757
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6025543507135716	//in AU
-		Eccentricity	0.21146541919976125
+		SemiMajorAxis	2.5964336973409696	//in AU
+		Eccentricity	0.16366153004564485
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.39111470119087
-		ArgOfPericenter	0.3523623528808617
+		AscendingNode	241.80097064080832
+		ArgOfPericenter	0.4426301481533611
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7273,18 +7267,18 @@ Asteroid "Alderaan fragment 345"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		131.22738674749638	//in km
-	RotationPeriod	14.230912627734043	//in hours
-	Obliquity		22.331289304324187
+	Radius		212.3701627091806	//in km
+	RotationPeriod	14.032646123681234	//in hours
+	Obliquity		58.93790941207742
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4078176771427175	//in AU
-		Eccentricity	0.15358179934882044
+		SemiMajorAxis	2.827296498191811	//in AU
+		Eccentricity	0.13643899787413008
 		Inclination		131.0	//in degrees
-		AscendingNode	0.06396966763201417
-		ArgOfPericenter	-0.3144143988242396
+		AscendingNode	242.20474912831702
+		ArgOfPericenter	-0.11708655119090638
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7294,18 +7288,18 @@ Asteroid "Alderaan fragment 346"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		46.992813297173576	//in km
-	RotationPeriod	10.103225691403864	//in hours
-	Obliquity		52.650377872675506
+	Radius		110.94607285191299	//in km
+	RotationPeriod	15.804487820868365	//in hours
+	Obliquity		315.01478869862075
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3795803782930336	//in AU
-		Eccentricity	0.15795510660686232
+		SemiMajorAxis	2.638991296924369	//in AU
+		Eccentricity	0.1407737748549294
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4945610728243025
-		ArgOfPericenter	-0.17543058240359888
+		AscendingNode	241.57182253953977
+		ArgOfPericenter	-0.2107941956940318
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7315,18 +7309,18 @@ Asteroid "Alderaan fragment 347"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		32.46965670866203	//in km
-	RotationPeriod	12.377520960901318	//in hours
-	Obliquity		91.43679660310461
+	Radius		137.61508883218406	//in km
+	RotationPeriod	15.665949217158603	//in hours
+	Obliquity		322.4468415313594
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.615558324908964	//in AU
-		Eccentricity	0.1454355643015256
+		SemiMajorAxis	2.344357410690588	//in AU
+		Eccentricity	0.15914109237131221
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.08482769180459282
-		ArgOfPericenter	0.36752878252339605
+		AscendingNode	242.2464388498234
+		ArgOfPericenter	-0.4005566300716171
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7336,18 +7330,18 @@ Asteroid "Alderaan fragment 348"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		190.27869420788352	//in km
-	RotationPeriod	14.71330397432964	//in hours
-	Obliquity		141.17003846200188
+	Radius		98.85525914394016	//in km
+	RotationPeriod	8.206440373478726	//in hours
+	Obliquity		169.93375706634504
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7048638259430775	//in AU
-		Eccentricity	0.12317583565340445
+		SemiMajorAxis	2.2450386592764966	//in AU
+		Eccentricity	0.164951380058499
 		Inclination		131.0	//in degrees
-		AscendingNode	0.35116998964115087
-		ArgOfPericenter	-0.15336647480182675
+		AscendingNode	242.490950861405
+		ArgOfPericenter	0.12221943402402935
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7357,18 +7351,18 @@ Asteroid "Alderaan fragment 349"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		193.86403061318867	//in km
-	RotationPeriod	6.499599950063312	//in hours
-	Obliquity		323.25355136965015
+	Radius		195.35630653383672	//in km
+	RotationPeriod	10.472596303152457	//in hours
+	Obliquity		273.8388343156263
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.079684429442482	//in AU
-		Eccentricity	0.1800211332271596
+		SemiMajorAxis	2.86117700031904	//in AU
+		Eccentricity	0.1640015947773238
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.11664339823673853
-		ArgOfPericenter	0.37400829847680395
+		AscendingNode	241.5028764329931
+		ArgOfPericenter	-0.3392729910989827
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7378,18 +7372,18 @@ Asteroid "Alderaan fragment 350"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		97.82361704780192	//in km
-	RotationPeriod	8.306603885806943	//in hours
-	Obliquity		9.022352519552221
+	Radius		147.2701771112707	//in km
+	RotationPeriod	16.332611801821304	//in hours
+	Obliquity		307.54612890141107
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.523717351332423	//in AU
-		Eccentricity	0.18717571713658798
+		SemiMajorAxis	2.43794556224223	//in AU
+		Eccentricity	0.15787955762005787
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4839040378718642
-		ArgOfPericenter	0.18255794672576509
+		AscendingNode	241.95566534375527
+		ArgOfPericenter	-0.48137622305376004
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7399,18 +7393,18 @@ Asteroid "Alderaan fragment 351"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		113.46743505723343	//in km
-	RotationPeriod	13.557898936003854	//in hours
-	Obliquity		328.9667617852393
+	Radius		115.66263818998112	//in km
+	RotationPeriod	13.010609933393704	//in hours
+	Obliquity		205.27139682366814
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4174796138398644	//in AU
-		Eccentricity	0.14299452223791803
+		SemiMajorAxis	2.3616852125215946	//in AU
+		Eccentricity	0.16805721494469147
 		Inclination		131.0	//in degrees
-		AscendingNode	0.30601984946690297
-		ArgOfPericenter	-0.19196586694962825
+		AscendingNode	241.6139009055571
+		ArgOfPericenter	-0.21638108318943594
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7420,18 +7414,18 @@ Asteroid "Alderaan fragment 352"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		26.869032334491123	//in km
-	RotationPeriod	11.87102210202821	//in hours
-	Obliquity		95.32820743317473
+	Radius		208.0077306826305	//in km
+	RotationPeriod	14.343355706452854	//in hours
+	Obliquity		128.6868199833829
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.610215863760472	//in AU
-		Eccentricity	0.19582569282501458
+		SemiMajorAxis	2.8592041820121956	//in AU
+		Eccentricity	0.15193601032078077
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.007431792642731749
-		ArgOfPericenter	0.4684302133469591
+		AscendingNode	242.30404295159116
+		ArgOfPericenter	-0.3796252866043509
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7441,18 +7435,18 @@ Asteroid "Alderaan fragment 353"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		71.27481103588889	//in km
-	RotationPeriod	6.834066083439492	//in hours
-	Obliquity		137.36623757947052
+	Radius		151.56095523955645	//in km
+	RotationPeriod	8.744060768425387	//in hours
+	Obliquity		302.01355372956164
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1916017672053787	//in AU
-		Eccentricity	0.1568500651074298
+		SemiMajorAxis	2.739602633254391	//in AU
+		Eccentricity	0.14718748924555491
 		Inclination		131.0	//in degrees
-		AscendingNode	0.05097970900627624
-		ArgOfPericenter	0.05688986863105128
+		AscendingNode	242.28045748044136
+		ArgOfPericenter	0.24451594066107396
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7462,18 +7456,18 @@ Asteroid "Alderaan fragment 354"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		8.780200591569162	//in km
-	RotationPeriod	11.277319506213232	//in hours
-	Obliquity		112.49694296013483
+	Radius		177.98334104109455	//in km
+	RotationPeriod	19.094288523860477	//in hours
+	Obliquity		124.93995692452633
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.646350127811928	//in AU
-		Eccentricity	0.1815497608481129
+		SemiMajorAxis	2.483783238618636	//in AU
+		Eccentricity	0.13297741151871295
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3597016990919645
-		ArgOfPericenter	0.2935447115417149
+		AscendingNode	242.13200540439854
+		ArgOfPericenter	-0.14626203760830714
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7483,18 +7477,18 @@ Asteroid "Alderaan fragment 355"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		5.231612060207431	//in km
-	RotationPeriod	10.333382912804744	//in hours
-	Obliquity		76.37534001076114
+	Radius		83.65303217382615	//in km
+	RotationPeriod	10.6826410064782	//in hours
+	Obliquity		300.345215239318
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.707372675898304	//in AU
-		Eccentricity	0.17216650707565279
+		SemiMajorAxis	2.3056891574896854	//in AU
+		Eccentricity	0.19461827883962496
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4312697520350395
-		ArgOfPericenter	0.4188836711239514
+		AscendingNode	242.41970653203384
+		ArgOfPericenter	-0.016548203443192966
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7504,18 +7498,18 @@ Asteroid "Alderaan fragment 356"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		39.82631482519311	//in km
-	RotationPeriod	9.723109796424797	//in hours
-	Obliquity		307.07796471485557
+	Radius		209.29893417445527	//in km
+	RotationPeriod	13.967494841871993	//in hours
+	Obliquity		286.4295165812418
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5195224944358294	//in AU
-		Eccentricity	0.16054026464918908
+		SemiMajorAxis	2.4949131854444047	//in AU
+		Eccentricity	0.16008971160433955
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.30304629345837597
-		ArgOfPericenter	-0.124797998783028
+		AscendingNode	242.00093965458072
+		ArgOfPericenter	-0.17343715991955622
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7525,18 +7519,16 @@ Asteroid "Alderaan fragment 357"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		45.20204537134712	//in km
-	RotationPeriod	16.207564731176262	//in hours
-	Obliquity		280.8997464352063
-
+	Radius		135.34539370328886	//in km
+	TidalLocked	true
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3157948941725937	//in AU
-		Eccentricity	0.16956105217900075
+		SemiMajorAxis	2.832575127249755	//in AU
+		Eccentricity	0.15929845861302602
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1296582537263654
-		ArgOfPericenter	0.2643081353699641
+		AscendingNode	242.0636449245512
+		ArgOfPericenter	-0.421654717588697
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7546,18 +7538,18 @@ Asteroid "Alderaan fragment 358"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		81.44366126450691	//in km
-	RotationPeriod	12.828126235551359	//in hours
-	Obliquity		122.57672480218186
+	Radius		97.86901080679709	//in km
+	RotationPeriod	15.852235637886261	//in hours
+	Obliquity		181.32469023183145
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.218310625215688	//in AU
-		Eccentricity	0.14396422049564045
+		SemiMajorAxis	2.356872053279232	//in AU
+		Eccentricity	0.15736616262296732
 		Inclination		131.0	//in degrees
-		AscendingNode	0.17772387236612397
-		ArgOfPericenter	-0.2803417281922599
+		AscendingNode	242.06545146231616
+		ArgOfPericenter	-0.20984688403251384
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7567,18 +7559,18 @@ Asteroid "Alderaan fragment 359"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		124.9370556095355	//in km
-	RotationPeriod	12.471760375463937	//in hours
-	Obliquity		5.850224577396554
+	Radius		11.246623564410413	//in km
+	RotationPeriod	8.736242614841114	//in hours
+	Obliquity		358.2845744048529
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.655458200084604	//in AU
-		Eccentricity	0.1873740527931103
+		SemiMajorAxis	2.3636366233326784	//in AU
+		Eccentricity	0.1776961309992373
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3540867324511603
-		ArgOfPericenter	-0.01753185430381332
+		AscendingNode	242.13121146664986
+		ArgOfPericenter	0.32165327865416116
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7588,18 +7580,18 @@ Asteroid "Alderaan fragment 360"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		5.901144393257787	//in km
-	RotationPeriod	19.735885349439062	//in hours
-	Obliquity		72.22896162662057
+	Radius		166.72588269811968	//in km
+	RotationPeriod	8.515037079922948	//in hours
+	Obliquity		263.38828606305105
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.579727232546871	//in AU
-		Eccentricity	0.17682509040449043
+		SemiMajorAxis	2.770127979182917	//in AU
+		Eccentricity	0.15852013882014948
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2665775099368439
-		ArgOfPericenter	0.3172677220104706
+		AscendingNode	242.4631348287485
+		ArgOfPericenter	-0.07919881615616409
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7609,18 +7601,18 @@ Asteroid "Alderaan fragment 361"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		58.26910687717172	//in km
-	RotationPeriod	12.273586895547913	//in hours
-	Obliquity		276.05826773854113
+	Radius		181.68392324173732	//in km
+	RotationPeriod	1.3078503411454463	//in hours
+	Obliquity		246.9048819165575
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6398596228167026	//in AU
-		Eccentricity	0.19798080074073193
+		SemiMajorAxis	2.3365396606638345	//in AU
+		Eccentricity	0.13089084414509639
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3513058162040954
-		ArgOfPericenter	-0.3597697621764183
+		AscendingNode	241.5525520099388
+		ArgOfPericenter	-0.3952571430040701
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7630,18 +7622,18 @@ Asteroid "Alderaan fragment 362"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		96.47845505392222	//in km
-	RotationPeriod	18.682915828220047	//in hours
-	Obliquity		233.4518747715728
+	Radius		190.03517052209457	//in km
+	RotationPeriod	12.98996685578415	//in hours
+	Obliquity		341.05398933890467
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.800431245004595	//in AU
-		Eccentricity	0.17084279640483996
+		SemiMajorAxis	2.945467177041273	//in AU
+		Eccentricity	0.13168283667711658
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.31129596404317006
-		ArgOfPericenter	-0.37644677173675134
+		AscendingNode	242.1941354561756
+		ArgOfPericenter	-0.44343685399658417
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7651,18 +7643,18 @@ Asteroid "Alderaan fragment 363"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		8.961120296257123	//in km
-	RotationPeriod	15.03173857253625	//in hours
-	Obliquity		195.86423791830376
+	Radius		89.58355169524081	//in km
+	RotationPeriod	15.770718897963981	//in hours
+	Obliquity		66.83131655852877
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6032181629347737	//in AU
-		Eccentricity	0.20797269743891203
+		SemiMajorAxis	2.886349980313212	//in AU
+		Eccentricity	0.13913358254223082
 		Inclination		131.0	//in degrees
-		AscendingNode	0.37653607478832174
-		ArgOfPericenter	0.057587136493555846
+		AscendingNode	241.58960167806666
+		ArgOfPericenter	0.13191796374295794
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7672,18 +7664,18 @@ Asteroid "Alderaan fragment 364"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		29.14917244044592	//in km
-	RotationPeriod	5.59880282377549	//in hours
-	Obliquity		146.80331280557832
+	Radius		176.60310114649124	//in km
+	RotationPeriod	17.650956209727784	//in hours
+	Obliquity		332.05424264776076
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8035116394555972	//in AU
-		Eccentricity	0.16137811627688023
+		SemiMajorAxis	2.6166951046821976	//in AU
+		Eccentricity	0.1458548346283658
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.24956127981725518
-		ArgOfPericenter	-0.00514791270042203
+		AscendingNode	242.20663085484864
+		ArgOfPericenter	-0.4686790719925761
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7693,18 +7685,18 @@ Asteroid "Alderaan fragment 365"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		61.82257578888777	//in km
-	RotationPeriod	6.89892546769022	//in hours
-	Obliquity		161.00596868730963
+	Radius		222.12517132563613	//in km
+	RotationPeriod	12.808169320777363	//in hours
+	Obliquity		99.27254369759366
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4927678873082675	//in AU
-		Eccentricity	0.1
+		SemiMajorAxis	2.4722982238866624	//in AU
+		Eccentricity	0.17806051916268872
 		Inclination		131.0	//in degrees
-		AscendingNode	0.21647772180709435
-		ArgOfPericenter	-0.08728682791889031
+		AscendingNode	242.0647414278541
+		ArgOfPericenter	-0.34785766259595363
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7714,18 +7706,18 @@ Asteroid "Alderaan fragment 366"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.927528510807846	//in km
-	RotationPeriod	14.188845726795462	//in hours
-	Obliquity		84.58962954221892
+	Radius		183.50068688158106	//in km
+	RotationPeriod	9.344674264756542	//in hours
+	Obliquity		179.76764133078632
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6082334930161166	//in AU
-		Eccentricity	0.1862575425210418
+		SemiMajorAxis	2.6838532069230117	//in AU
+		Eccentricity	0.14240756838901372
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.18423756953963932
-		ArgOfPericenter	0.097150175075845
+		AscendingNode	241.8788953851773
+		ArgOfPericenter	-0.35079476620496597
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7735,18 +7727,18 @@ Asteroid "Alderaan fragment 367"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		104.75212249251422	//in km
-	RotationPeriod	11.02570929284229	//in hours
-	Obliquity		96.52391662438777
+	Radius		147.837281567554	//in km
+	RotationPeriod	10.258919036786102	//in hours
+	Obliquity		271.56528272469336
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1566260699194824	//in AU
-		Eccentricity	0.14927610273502934
+		SemiMajorAxis	2.2521841425417017	//in AU
+		Eccentricity	0.21672354599692906
 		Inclination		131.0	//in degrees
-		AscendingNode	0.34854381717217875
-		ArgOfPericenter	0.11816961143559845
+		AscendingNode	242.0042377360521
+		ArgOfPericenter	0.14414848487652165
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7756,18 +7748,18 @@ Asteroid "Alderaan fragment 368"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.43968450305095	//in km
-	RotationPeriod	11.331765023941607	//in hours
-	Obliquity		205.52114715450398
+	Radius		147.90417330734692	//in km
+	RotationPeriod	16.464365810389623	//in hours
+	Obliquity		3.235599803150917
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.2518136838214176	//in AU
-		Eccentricity	0.1540421390082468
+		SemiMajorAxis	2.692941099202202	//in AU
+		Eccentricity	0.13582750630542884
 		Inclination		131.0	//in degrees
-		AscendingNode	0.005583707181920361
-		ArgOfPericenter	0.4499981146330565
+		AscendingNode	241.72717932652674
+		ArgOfPericenter	0.39209238917394296
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7777,18 +7769,18 @@ Asteroid "Alderaan fragment 369"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		13.49133076708358	//in km
-	RotationPeriod	7.242096011126415	//in hours
-	Obliquity		328.4686164534749
+	Radius		143.4624470103012	//in km
+	RotationPeriod	11.14732971172004	//in hours
+	Obliquity		289.74461135535716
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4780251510017313	//in AU
-		Eccentricity	0.1980612919376003
+		SemiMajorAxis	2.194487926178691	//in AU
+		Eccentricity	0.16098625180427875
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2919278155309529
-		ArgOfPericenter	0.07883626265863075
+		AscendingNode	241.67806273846253
+		ArgOfPericenter	-0.3364702557605477
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7798,18 +7790,18 @@ Asteroid "Alderaan fragment 370"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		22.085081731674396	//in km
-	RotationPeriod	15.41202991732997	//in hours
-	Obliquity		322.81812670353247
+	Radius		82.43570255519842	//in km
+	RotationPeriod	8.22341333160834	//in hours
+	Obliquity		306.12626130622624
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.279359129512528	//in AU
-		Eccentricity	0.13932308937961552
+		SemiMajorAxis	2.489114461634695	//in AU
+		Eccentricity	0.14622695011002637
 		Inclination		131.0	//in degrees
-		AscendingNode	0.27264911020574767
-		ArgOfPericenter	-0.07980337368292834
+		AscendingNode	242.4371380045427
+		ArgOfPericenter	-0.24460055598043373
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7819,18 +7811,18 @@ Asteroid "Alderaan fragment 371"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		59.675466927900985	//in km
-	RotationPeriod	8.980419904852013	//in hours
-	Obliquity		353.6143463843929
+	Radius		220.87185945836424	//in km
+	RotationPeriod	9.98058383717112	//in hours
+	Obliquity		43.858579097773365
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9894389050902395	//in AU
-		Eccentricity	0.14715224792503198
+		SemiMajorAxis	2.542669137385253	//in AU
+		Eccentricity	0.19404222681418493
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.36853848123872257
-		ArgOfPericenter	-0.1822431583852755
+		AscendingNode	241.72770333645803
+		ArgOfPericenter	0.4609257398748431
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7840,18 +7832,18 @@ Asteroid "Alderaan fragment 372"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		34.129185004813706	//in km
-	RotationPeriod	10.76606556896191	//in hours
-	Obliquity		75.20534671673173
+	Radius		39.373757942450254	//in km
+	RotationPeriod	16.681566861439062	//in hours
+	Obliquity		334.7025903198274
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8270776395778863	//in AU
-		Eccentricity	0.16664705663387566
+		SemiMajorAxis	2.7727244668602946	//in AU
+		Eccentricity	0.13604859496564273
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2314794476626474
-		ArgOfPericenter	-0.4101586175680111
+		AscendingNode	241.82446394508284
+		ArgOfPericenter	-0.2586347420769445
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7861,18 +7853,18 @@ Asteroid "Alderaan fragment 373"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		177.85797827386986	//in km
-	RotationPeriod	9.54788501695381	//in hours
-	Obliquity		167.98116023697793
+	Radius		143.59683827236682	//in km
+	RotationPeriod	16.576841897276495	//in hours
+	Obliquity		300.9484323451745
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8547231469178964	//in AU
-		Eccentricity	0.1423404273549591
+		SemiMajorAxis	2.5098561260172847	//in AU
+		Eccentricity	0.18690704237958858
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1209473557606412
-		ArgOfPericenter	-0.47436047989342744
+		AscendingNode	242.16602053334032
+		ArgOfPericenter	0.08368850027223018
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7882,18 +7874,18 @@ Asteroid "Alderaan fragment 374"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		54.68240225531885	//in km
-	RotationPeriod	10.12358828924285	//in hours
-	Obliquity		238.63787403099664
+	Radius		99.78823884254932	//in km
+	RotationPeriod	17.316124742700104	//in hours
+	Obliquity		133.0474652885448
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.600898853865699	//in AU
-		Eccentricity	0.21181479079843504
+		SemiMajorAxis	2.4543864017364787	//in AU
+		Eccentricity	0.16587057852578493
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3095085597131124
-		ArgOfPericenter	0.2369001340546224
+		AscendingNode	242.07893856524413
+		ArgOfPericenter	0.32359817380670297
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7903,18 +7895,18 @@ Asteroid "Alderaan fragment 375"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		62.60344504511072	//in km
-	RotationPeriod	5.325929897441637	//in hours
-	Obliquity		207.29781484247
+	Radius		143.39006103842692	//in km
+	RotationPeriod	13.9328806368199	//in hours
+	Obliquity		319.16692852753687
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5715784886608386	//in AU
-		Eccentricity	0.20979874096841872
+		SemiMajorAxis	2.0671248464807377	//in AU
+		Eccentricity	0.16258088106561347
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.17877944351672526
-		ArgOfPericenter	-0.47056077492149506
+		AscendingNode	242.03476563468908
+		ArgOfPericenter	0.367503096760986
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7924,18 +7916,18 @@ Asteroid "Alderaan fragment 376"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.859397362613025	//in km
-	RotationPeriod	3.888692435432093	//in hours
-	Obliquity		40.74385212005433
+	Radius		229.9101543569941	//in km
+	RotationPeriod	13.21866401049149	//in hours
+	Obliquity		231.6769272197539
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.346737301545723	//in AU
-		Eccentricity	0.15229499506481603
+		SemiMajorAxis	2.154214738040758	//in AU
+		Eccentricity	0.18211654454553178
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3677763717125959
-		ArgOfPericenter	0.16325937712089
+		AscendingNode	242.29664471559184
+		ArgOfPericenter	-0.14185101346573503
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7945,18 +7937,18 @@ Asteroid "Alderaan fragment 377"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		100.44102830048764	//in km
-	RotationPeriod	7.293807597791023	//in hours
-	Obliquity		261.6557615721472
+	Radius		97.19141260795402	//in km
+	RotationPeriod	11.435936786978756	//in hours
+	Obliquity		307.59772762983914
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.199858196964219	//in AU
-		Eccentricity	0.18302146294355287
+		SemiMajorAxis	2.0188037278776485	//in AU
+		Eccentricity	0.16574944269048694
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.22202053098552366
-		ArgOfPericenter	0.3123947930931884
+		AscendingNode	242.4732680598427
+		ArgOfPericenter	-0.1603365844279192
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7966,18 +7958,18 @@ Asteroid "Alderaan fragment 378"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		14.161650890996992	//in km
-	RotationPeriod	10.443527068782789	//in hours
-	Obliquity		39.19599968958817
+	Radius		118.51921023867975	//in km
+	RotationPeriod	7.468690447150034	//in hours
+	Obliquity		351.0921730631456
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1171745818300334	//in AU
-		Eccentricity	0.17390462151915545
+		SemiMajorAxis	2.184156993035255	//in AU
+		Eccentricity	0.11670240880310831
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.43176160344634296
-		ArgOfPericenter	0.327681917607496
+		AscendingNode	241.6840759214921
+		ArgOfPericenter	-0.14040211835941874
 		RefPlane		"Ecliptic"
 	}
 }
@@ -7987,18 +7979,18 @@ Asteroid "Alderaan fragment 379"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		86.15087871481532	//in km
-	RotationPeriod	8.135952291834831	//in hours
-	Obliquity		309.82005329131897
+	Radius		168.26061548001053	//in km
+	RotationPeriod	13.383154860020616	//in hours
+	Obliquity		13.200598030840753
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7533141440787654	//in AU
-		Eccentricity	0.18412782989976778
+		SemiMajorAxis	2.5236122007585653	//in AU
+		Eccentricity	0.18016604720968477
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4884936637007872
-		ArgOfPericenter	-0.19502163979469656
+		AscendingNode	242.29948986355558
+		ArgOfPericenter	0.32367261333941433
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8008,18 +8000,18 @@ Asteroid "Alderaan fragment 380"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		31.069036950896603	//in km
-	RotationPeriod	10.759247093533062	//in hours
-	Obliquity		155.34761848776398
+	Radius		158.2693784550094	//in km
+	RotationPeriod	12.399144115030447	//in hours
+	Obliquity		97.51275431688993
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.955802846848813	//in AU
-		Eccentricity	0.13761345622280657
+		SemiMajorAxis	2.4301708561460416	//in AU
+		Eccentricity	0.1974100352586312
 		Inclination		131.0	//in degrees
-		AscendingNode	0.33197726075892997
-		ArgOfPericenter	-0.2687903685867029
+		AscendingNode	242.10218910105272
+		ArgOfPericenter	0.20350203167232994
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8029,18 +8021,18 @@ Asteroid "Alderaan fragment 381"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		113.27324352181283	//in km
-	RotationPeriod	9.478771152179903	//in hours
-	Obliquity		190.4584398037025
+	Radius		220.42568737313613	//in km
+	RotationPeriod	22.100635073627792	//in hours
+	Obliquity		284.2314934651966
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.637136965050483	//in AU
-		Eccentricity	0.13517287145596982
+		SemiMajorAxis	2.508623059133524	//in AU
+		Eccentricity	0.16803224426948477
 		Inclination		131.0	//in degrees
-		AscendingNode	0.34624136407342276
-		ArgOfPericenter	0.11415167557613048
+		AscendingNode	241.93906345446163
+		ArgOfPericenter	-0.36031088957377255
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8050,18 +8042,18 @@ Asteroid "Alderaan fragment 382"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		20.966311466041976	//in km
-	RotationPeriod	6.234058488882796	//in hours
-	Obliquity		161.05426014695425
+	Radius		139.12087123322405	//in km
+	RotationPeriod	19.26043948593279	//in hours
+	Obliquity		109.40402792916029
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3170438574917345	//in AU
-		Eccentricity	0.17658845932056516
+		SemiMajorAxis	2.168920234608962	//in AU
+		Eccentricity	0.1700952538404621
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.37276074149486305
-		ArgOfPericenter	0.40847168096296627
+		AscendingNode	242.1314662464444
+		ArgOfPericenter	-0.02282645216861645
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8071,18 +8063,18 @@ Asteroid "Alderaan fragment 383"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		41.11528101778621	//in km
-	RotationPeriod	9.73258086990182	//in hours
-	Obliquity		1.5517914374572195
+	Radius		163.22827763722634	//in km
+	RotationPeriod	15.83676804146398	//in hours
+	Obliquity		98.22924856871045
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9863823355951324	//in AU
-		Eccentricity	0.11453718248879857
+		SemiMajorAxis	2.5268559824481187	//in AU
+		Eccentricity	0.18391363914166847
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.10027790240941425
-		ArgOfPericenter	0.3342080929855692
+		AscendingNode	241.6899078157548
+		ArgOfPericenter	-0.13726712417423215
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8092,18 +8084,18 @@ Asteroid "Alderaan fragment 384"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		37.91840262413164	//in km
-	RotationPeriod	12.230692728747634	//in hours
-	Obliquity		3.13725357201851
+	Radius		122.14476275643716	//in km
+	RotationPeriod	12.798955826247509	//in hours
+	Obliquity		146.12922356628673
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4481678181443343	//in AU
-		Eccentricity	0.17466425152941145
+		SemiMajorAxis	2.766499222203993	//in AU
+		Eccentricity	0.128272065085497
 		Inclination		131.0	//in degrees
-		AscendingNode	0.016782005197482852
-		ArgOfPericenter	0.3262165493970818
+		AscendingNode	241.9717781950977
+		ArgOfPericenter	0.18573036576236324
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8113,18 +8105,18 @@ Asteroid "Alderaan fragment 385"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		73.44638272577048	//in km
-	RotationPeriod	16.284889422056033	//in hours
-	Obliquity		105.01307293995882
+	Radius		190.90933931439278	//in km
+	RotationPeriod	14.949960498555381	//in hours
+	Obliquity		352.9366445087437
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5056994047903847	//in AU
-		Eccentricity	0.15935905363779113
+		SemiMajorAxis	2.8523603497267085	//in AU
+		Eccentricity	0.1697831352116858
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4736708200937916
-		ArgOfPericenter	0.08950702578832836
+		AscendingNode	241.57933834249977
+		ArgOfPericenter	-0.37595002722812443
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8134,18 +8126,18 @@ Asteroid "Alderaan fragment 386"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		125.640910670172	//in km
-	RotationPeriod	5.6800409525538775	//in hours
-	Obliquity		232.06125981736648
+	Radius		176.414244437692	//in km
+	RotationPeriod	10.588359122779291	//in hours
+	Obliquity		177.03081352742635
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5364501597076705	//in AU
-		Eccentricity	0.17131473680471276
+		SemiMajorAxis	2.218498965574119	//in AU
+		Eccentricity	0.1537784206992058
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4884558479754363
-		ArgOfPericenter	-0.3176447386285455
+		AscendingNode	241.6069404737364
+		ArgOfPericenter	0.13890380835205873
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8155,18 +8147,18 @@ Asteroid "Alderaan fragment 387"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		52.86593208005096	//in km
-	RotationPeriod	11.929211196714201	//in hours
-	Obliquity		70.95336736593899
+	Radius		108.28729784129807	//in km
+	RotationPeriod	9.972597351798596	//in hours
+	Obliquity		346.98956010023375
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4588405464353835	//in AU
-		Eccentricity	0.14991768692388166
+		SemiMajorAxis	2.657000239945544	//in AU
+		Eccentricity	0.18034084528190839
 		Inclination		131.0	//in degrees
-		AscendingNode	0.22898838627774454
-		ArgOfPericenter	0.4903619482035618
+		AscendingNode	242.1203628987583
+		ArgOfPericenter	-0.42127103720652637
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8176,18 +8168,18 @@ Asteroid "Alderaan fragment 388"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		151.7075944281931	//in km
-	RotationPeriod	6.261903173041774	//in hours
-	Obliquity		212.28639491746517
+	Radius		71.8434619564256	//in km
+	RotationPeriod	8.647174681198985	//in hours
+	Obliquity		200.27189271810238
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.676062073485264	//in AU
-		Eccentricity	0.19384421959072742
+		SemiMajorAxis	2.5420540308957427	//in AU
+		Eccentricity	0.1749249988100105
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3746552892938759
-		ArgOfPericenter	0.401812980512269
+		AscendingNode	242.11958019382385
+		ArgOfPericenter	0.11273745032585192
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8197,18 +8189,18 @@ Asteroid "Alderaan fragment 389"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		90.74069687476334	//in km
-	RotationPeriod	14.312124840720408	//in hours
-	Obliquity		286.55713714172845
+	Radius		175.29898588824832	//in km
+	RotationPeriod	11.444945870132498	//in hours
+	Obliquity		250.84576716291667
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.155164910676334	//in AU
-		Eccentricity	0.13746281059011556
+		SemiMajorAxis	2.904158359557224	//in AU
+		Eccentricity	0.16318214806309767
 		Inclination		131.0	//in degrees
-		AscendingNode	0.13678721163560104
-		ArgOfPericenter	-0.14353334875045798
+		AscendingNode	241.99817755650406
+		ArgOfPericenter	0.33184250210307353
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8218,18 +8210,18 @@ Asteroid "Alderaan fragment 390"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		6.847884674466125	//in km
-	RotationPeriod	9.899314048383381	//in hours
-	Obliquity		87.59621614151577
+	Radius		170.06570810012585	//in km
+	RotationPeriod	9.399524092194886	//in hours
+	Obliquity		340.12484591862597
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3070082652162505	//in AU
-		Eccentricity	0.17629345635912808
+		SemiMajorAxis	2.6713887135461034	//in AU
+		Eccentricity	0.14894558590091392
 		Inclination		131.0	//in degrees
-		AscendingNode	0.13580923775641085
-		ArgOfPericenter	-0.2988950635553168
+		AscendingNode	241.84492503283442
+		ArgOfPericenter	0.11986611626848453
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8239,18 +8231,18 @@ Asteroid "Alderaan fragment 391"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		87.17123384351324	//in km
-	RotationPeriod	16.966379496563174	//in hours
-	Obliquity		213.97086565280503
+	Radius		98.40253100072911	//in km
+	RotationPeriod	16.24887774331843	//in hours
+	Obliquity		355.58677542451386
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.885855401320753	//in AU
-		Eccentricity	0.18800010492062535
+		SemiMajorAxis	2.529454781256592	//in AU
+		Eccentricity	0.2111165441865441
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.060663275689402996
-		ArgOfPericenter	0.41202600165607317
+		AscendingNode	242.04068708718373
+		ArgOfPericenter	0.43965591846076246
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8260,18 +8252,18 @@ Asteroid "Alderaan fragment 392"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		147.62075063443368	//in km
-	RotationPeriod	13.720991928314628	//in hours
-	Obliquity		159.01795114235364
+	Radius		254.38574982724364	//in km
+	RotationPeriod	10.778793396629178	//in hours
+	Obliquity		223.23390101975363
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.22600210190939	//in AU
-		Eccentricity	0.16389823985611013
+		SemiMajorAxis	2.942585025885929	//in AU
+		Eccentricity	0.17020875188494192
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.28270007191238145
-		ArgOfPericenter	0.38713417795503136
+		AscendingNode	241.65630865856372
+		ArgOfPericenter	0.3132242520365357
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8281,18 +8273,18 @@ Asteroid "Alderaan fragment 393"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		32.382951201820404	//in km
-	RotationPeriod	15.227829894885119	//in hours
-	Obliquity		349.76370784117717
+	Radius		157.20584797368042	//in km
+	RotationPeriod	11.11955834780024	//in hours
+	Obliquity		260.6479561232279
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4448495161844463	//in AU
-		Eccentricity	0.1510722265893758
+		SemiMajorAxis	2.395325310309859	//in AU
+		Eccentricity	0.17152451693416393
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.007205113951900155
-		ArgOfPericenter	-0.14385305691032235
+		AscendingNode	242.3503067407296
+		ArgOfPericenter	0.3690600085807709
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8302,18 +8294,18 @@ Asteroid "Alderaan fragment 394"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		142.15968243707584	//in km
-	RotationPeriod	7.335184337965576	//in hours
-	Obliquity		22.903549566256626
+	Radius		178.6774023718719	//in km
+	RotationPeriod	11.381419327356703	//in hours
+	Obliquity		323.54703953795
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.182354100389311	//in AU
-		Eccentricity	0.15327314651947715
+		SemiMajorAxis	2.487298982566103	//in AU
+		Eccentricity	0.17773378243008792
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3092369685188068
-		ArgOfPericenter	0.041783088817778036
+		AscendingNode	242.0392544089524
+		ArgOfPericenter	-0.3826686402142315
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8323,18 +8315,18 @@ Asteroid "Alderaan fragment 395"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		179.98478432197254	//in km
-	RotationPeriod	9.740754731481207	//in hours
-	Obliquity		328.7051074056741
+	Radius		71.74257573451824	//in km
+	RotationPeriod	11.401367473756709	//in hours
+	Obliquity		30.42119606801332
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3890225003660115	//in AU
-		Eccentricity	0.17484220222599672
+		SemiMajorAxis	2.2911604185666183	//in AU
+		Eccentricity	0.1921663525183279
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.027702597149984798
-		ArgOfPericenter	0.06039092907525334
+		AscendingNode	241.55493125961735
+		ArgOfPericenter	-0.27835626485352727
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8344,18 +8336,18 @@ Asteroid "Alderaan fragment 396"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		21.48123277889963	//in km
-	RotationPeriod	10.290468666189543	//in hours
-	Obliquity		137.82972992249708
+	Radius		145.2100399508245	//in km
+	RotationPeriod	9.24457470295812	//in hours
+	Obliquity		242.60556962240997
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.806128263680656	//in AU
-		Eccentricity	0.15452998109743327
+		SemiMajorAxis	2.2840635794811828	//in AU
+		Eccentricity	0.15179730344994585
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4862110718824696
-		ArgOfPericenter	0.028509166293198218
+		AscendingNode	241.82193930522797
+		ArgOfPericenter	0.1326578620915193
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8365,18 +8357,18 @@ Asteroid "Alderaan fragment 397"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		55.17216809088146	//in km
-	RotationPeriod	14.019957553956772	//in hours
-	Obliquity		5.78781314299424
+	Radius		210.24675246645245	//in km
+	RotationPeriod	13.552032476040841	//in hours
+	Obliquity		86.18182156967578
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.9714983795381795	//in AU
-		Eccentricity	0.16818410811120815
+		SemiMajorAxis	2.3300198665708156	//in AU
+		Eccentricity	0.15150287345971808
 		Inclination		131.0	//in degrees
-		AscendingNode	0.46538304364183436
-		ArgOfPericenter	0.3598268346786816
+		AscendingNode	241.7029686698134
+		ArgOfPericenter	0.2982301118853934
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8386,18 +8378,18 @@ Asteroid "Alderaan fragment 398"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		230.61838964400067	//in km
-	RotationPeriod	17.58820203701907	//in hours
-	Obliquity		326.5329434767466
+	Radius		230.07524408967947	//in km
+	RotationPeriod	10.278214188106267	//in hours
+	Obliquity		47.956128149860064
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7520152925952606	//in AU
-		Eccentricity	0.11823922479425475
+		SemiMajorAxis	1.9883412887872134	//in AU
+		Eccentricity	0.16326145097852834
 		Inclination		131.0	//in degrees
-		AscendingNode	0.39680283285652607
-		ArgOfPericenter	-0.40903062156716263
+		AscendingNode	241.77924959443473
+		ArgOfPericenter	0.37304591396228104
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8407,18 +8399,16 @@ Asteroid "Alderaan fragment 399"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		187.14088271997403	//in km
-	RotationPeriod	11.154399089408102	//in hours
-	Obliquity		187.4046080405284
-
+	Radius		161.20270272761658	//in km
+	TidalLocked	true
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8897147509358465	//in AU
-		Eccentricity	0.11883453547342122
+		SemiMajorAxis	2.563306891601255	//in AU
+		Eccentricity	0.12522684112331925
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.479104860051322
-		ArgOfPericenter	0.1621017760061212
+		AscendingNode	241.7829102290721
+		ArgOfPericenter	-0.4226550003543935
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8428,18 +8418,18 @@ Asteroid "Alderaan fragment 400"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		115.95827184668057	//in km
-	RotationPeriod	5.799297978360846	//in hours
-	Obliquity		341.3566055582851
+	Radius		156.96909398226498	//in km
+	RotationPeriod	15.58462469427684	//in hours
+	Obliquity		328.25787096306334
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3239431859605255	//in AU
-		Eccentricity	0.14149966392195643
+		SemiMajorAxis	2.622816165476868	//in AU
+		Eccentricity	0.15379410448171787
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3992761400594733
-		ArgOfPericenter	0.05158836535860667
+		AscendingNode	241.60220185285007
+		ArgOfPericenter	-0.12762575214342908
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8449,18 +8439,18 @@ Asteroid "Alderaan fragment 401"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.7350177298189955	//in km
-	RotationPeriod	14.107831478225666	//in hours
-	Obliquity		313.68822405684824
+	Radius		171.32749278540902	//in km
+	RotationPeriod	9.625895494473081	//in hours
+	Obliquity		322.4014754583978
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5243253088953543	//in AU
-		Eccentricity	0.16278938032822823
+		SemiMajorAxis	2.45437821299812	//in AU
+		Eccentricity	0.13705880126750555
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.35683947571336416
-		ArgOfPericenter	0.3022835352925084
+		AscendingNode	242.46726138909494
+		ArgOfPericenter	-0.49199055022493865
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8470,18 +8460,18 @@ Asteroid "Alderaan fragment 402"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		257.64424021964703	//in km
-	RotationPeriod	11.75441733616277	//in hours
-	Obliquity		152.5615316998149
+	Radius		162.13756263739927	//in km
+	RotationPeriod	14.544520394057546	//in hours
+	Obliquity		73.51231607504192
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4582817516410436	//in AU
-		Eccentricity	0.16767871133123274
+		SemiMajorAxis	2.75447150246956	//in AU
+		Eccentricity	0.16929837163171393
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.48970086257756096
-		ArgOfPericenter	-0.4107611950664595
+		AscendingNode	242.17426880103025
+		ArgOfPericenter	0.08951632355697436
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8491,18 +8481,18 @@ Asteroid "Alderaan fragment 403"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		89.7949341203092	//in km
-	RotationPeriod	11.813997245272951	//in hours
-	Obliquity		322.6362448637858
+	Radius		169.91308180267484	//in km
+	RotationPeriod	17.653989814968917	//in hours
+	Obliquity		69.69739548863001
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.741000517695343	//in AU
-		Eccentricity	0.18182401456688344
+		SemiMajorAxis	2.8410935796033345	//in AU
+		Eccentricity	0.18518869501737184
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.24317412118786652
-		ArgOfPericenter	-0.24534965984271317
+		AscendingNode	242.22230891756962
+		ArgOfPericenter	0.23688737321819164
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8512,18 +8502,18 @@ Asteroid "Alderaan fragment 404"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		281.20879023520433	//in km
-	RotationPeriod	8.42507260672653	//in hours
-	Obliquity		254.1493310598799
+	Radius		220.00611892860996	//in km
+	RotationPeriod	18.0165203979876	//in hours
+	Obliquity		267.27313687943996
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5199990494156213	//in AU
-		Eccentricity	0.1718005679429649
+		SemiMajorAxis	2.9837005073353686	//in AU
+		Eccentricity	0.17126448921425638
 		Inclination		131.0	//in degrees
-		AscendingNode	0.42644209320586746
-		ArgOfPericenter	-0.11911451669345618
+		AscendingNode	241.78802592110665
+		ArgOfPericenter	-0.1024183758656475
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8533,18 +8523,18 @@ Asteroid "Alderaan fragment 405"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		107.09194754353236	//in km
-	RotationPeriod	10.948542408448352	//in hours
-	Obliquity		202.9968561296683
+	Radius		40.57225788981104	//in km
+	RotationPeriod	11.405646379422265	//in hours
+	Obliquity		38.43218933173295
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.245756671588559	//in AU
-		Eccentricity	0.17517503212595334
+		SemiMajorAxis	2.5134203187572224	//in AU
+		Eccentricity	0.14192206786770287
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4099113070421314
-		ArgOfPericenter	-0.4839589285227486
+		AscendingNode	241.7935462541408
+		ArgOfPericenter	-0.26930689939428054
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8554,18 +8544,18 @@ Asteroid "Alderaan fragment 406"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		42.01641267124785	//in km
-	RotationPeriod	12.056754224337007	//in hours
-	Obliquity		34.824966206833025
+	Radius		142.37026365368996	//in km
+	RotationPeriod	11.188528415372007	//in hours
+	Obliquity		110.9245213098045
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.461125576145854	//in AU
-		Eccentricity	0.1554860664758309
+		SemiMajorAxis	2.2942854875544954	//in AU
+		Eccentricity	0.16643320673475492
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3019288786736518
-		ArgOfPericenter	-0.010461225302664023
+		AscendingNode	242.4339510761899
+		ArgOfPericenter	-0.021002391435049783
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8575,18 +8565,18 @@ Asteroid "Alderaan fragment 407"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		87.983852807666	//in km
-	RotationPeriod	11.506900891014201	//in hours
-	Obliquity		176.8707275902294
+	Radius		58.339592435254616	//in km
+	RotationPeriod	9.351257003812696	//in hours
+	Obliquity		2.2721779947263343
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2756615062904655	//in AU
-		Eccentricity	0.18300533474945305
+		SemiMajorAxis	2.702695736695756	//in AU
+		Eccentricity	0.14241672643588327
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.445723186650807
-		ArgOfPericenter	0.13162199171090816
+		AscendingNode	241.69103040522037
+		ArgOfPericenter	-0.3463565229446376
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8596,18 +8586,18 @@ Asteroid "Alderaan fragment 408"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		122.49604259494602	//in km
-	RotationPeriod	8.04782250318074	//in hours
-	Obliquity		86.80044015551745
+	Radius		172.05328270721418	//in km
+	RotationPeriod	11.640741525188808	//in hours
+	Obliquity		317.8715417002631
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.924953152318196	//in AU
-		Eccentricity	0.1498031358882331
+		SemiMajorAxis	2.4985282358498635	//in AU
+		Eccentricity	0.18463475640100047
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1935429716113608
-		ArgOfPericenter	0.4054677161838941
+		AscendingNode	242.1009929057545
+		ArgOfPericenter	0.02079101219748003
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8617,18 +8607,18 @@ Asteroid "Alderaan fragment 409"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		92.29444322026767	//in km
-	RotationPeriod	15.805873216973497	//in hours
-	Obliquity		306.5848076728897
+	Radius		170.53321940117377	//in km
+	RotationPeriod	9.640107940641178	//in hours
+	Obliquity		214.26339934736043
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7529864360629905	//in AU
-		Eccentricity	0.16971082013406427
+		SemiMajorAxis	2.6855450753814236	//in AU
+		Eccentricity	0.15558122314056902
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4611687419555651
-		ArgOfPericenter	0.14427812449061017
+		AscendingNode	241.77059739237876
+		ArgOfPericenter	-0.20759283184301713
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8638,18 +8628,18 @@ Asteroid "Alderaan fragment 410"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		85.72876985370405	//in km
-	RotationPeriod	16.588741349498477	//in hours
-	Obliquity		220.48395615395285
+	Radius		178.95706657091634	//in km
+	RotationPeriod	9.697343771661416	//in hours
+	Obliquity		287.6173667198483
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3567585057182776	//in AU
-		Eccentricity	0.15703486294590863
+		SemiMajorAxis	2.7686034141461695	//in AU
+		Eccentricity	0.19263828767473717
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.04732803750240888
-		ArgOfPericenter	0.2875708124738966
+		AscendingNode	242.02917705382745
+		ArgOfPericenter	0.030068568095192982
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8659,18 +8649,18 @@ Asteroid "Alderaan fragment 411"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.971827669601371	//in km
-	RotationPeriod	7.481609290102324	//in hours
-	Obliquity		348.43287178403614
+	Radius		120.77288637216014	//in km
+	RotationPeriod	14.88098638074477	//in hours
+	Obliquity		221.47717640188657
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7415098968636054	//in AU
-		Eccentricity	0.16641186253596454
+		SemiMajorAxis	2.2328177132782696	//in AU
+		Eccentricity	0.12080339536619925
 		Inclination		131.0	//in degrees
-		AscendingNode	0.23597580162558174
-		ArgOfPericenter	-0.037561056536129844
+		AscendingNode	242.06649490671776
+		ArgOfPericenter	0.30550323101586596
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8680,18 +8670,18 @@ Asteroid "Alderaan fragment 412"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		106.75275578795969	//in km
-	RotationPeriod	8.501083441639402	//in hours
-	Obliquity		120.77338598771124
+	Radius		152.22072345715594	//in km
+	RotationPeriod	10.18062910923542	//in hours
+	Obliquity		198.1753483209156
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6129111164145797	//in AU
-		Eccentricity	0.201984800227975
+		SemiMajorAxis	2.3926115749630936	//in AU
+		Eccentricity	0.20436499736722447
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4062704588547088
-		ArgOfPericenter	-0.033359752757518124
+		AscendingNode	241.8236820605969
+		ArgOfPericenter	-0.1286356560950077
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8701,18 +8691,18 @@ Asteroid "Alderaan fragment 413"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		244.73439230986838	//in km
-	RotationPeriod	10.499184492899879	//in hours
-	Obliquity		78.89052550615695
+	Radius		145.00533774264022	//in km
+	RotationPeriod	13.79250033801433	//in hours
+	Obliquity		262.16955100861344
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3129145988794684	//in AU
-		Eccentricity	0.1756465884792962
+		SemiMajorAxis	2.3420083522331185	//in AU
+		Eccentricity	0.15940999758822263
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.06400389177715837
-		ArgOfPericenter	0.05822848931740976
+		AscendingNode	241.5449304894744
+		ArgOfPericenter	0.37506373415230376
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8722,18 +8712,18 @@ Asteroid "Alderaan fragment 414"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		176.7324633680259	//in km
-	RotationPeriod	15.867709079908819	//in hours
-	Obliquity		312.75166818675507
+	Radius		62.793132220520604	//in km
+	RotationPeriod	10.293787171039646	//in hours
+	Obliquity		223.6461500803935
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3066718080979203	//in AU
-		Eccentricity	0.18397187628956935
+		SemiMajorAxis	2.190337517558456	//in AU
+		Eccentricity	0.16241159259144458
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2004961445106357
-		ArgOfPericenter	-0.23008858152206835
+		AscendingNode	242.41846983722027
+		ArgOfPericenter	0.49654306006207916
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8743,18 +8733,18 @@ Asteroid "Alderaan fragment 415"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		261.9184775038783	//in km
-	RotationPeriod	10.846898527920063	//in hours
-	Obliquity		163.22359707040223
+	Radius		124.15339355875179	//in km
+	RotationPeriod	18.867958330837464	//in hours
+	Obliquity		344.61616360465104
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.520543223071892	//in AU
-		Eccentricity	0.19499171616159403
+		SemiMajorAxis	2.5864669820480377	//in AU
+		Eccentricity	0.14863953675678807
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.0314839303536435
-		ArgOfPericenter	0.479711030476877
+		AscendingNode	242.0415236797679
+		ArgOfPericenter	-0.029192356588060964
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8764,18 +8754,18 @@ Asteroid "Alderaan fragment 416"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		83.85845089136984	//in km
-	RotationPeriod	7.381146703437951	//in hours
-	Obliquity		120.4379484103873
+	Radius		160.63768720971058	//in km
+	RotationPeriod	12.618384526512834	//in hours
+	Obliquity		288.05819147400325
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6501598822931083	//in AU
-		Eccentricity	0.1761013348155957
+		SemiMajorAxis	2.5327653581958667	//in AU
+		Eccentricity	0.16641195973758469
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2387192696365238
-		ArgOfPericenter	0.230798674234017
+		AscendingNode	241.50093249718242
+		ArgOfPericenter	-0.4664400266348968
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8785,18 +8775,18 @@ Asteroid "Alderaan fragment 417"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		121.3780735582458	//in km
-	RotationPeriod	17.92641984998081	//in hours
-	Obliquity		137.42537590627788
+	Radius		192.12201768118427	//in km
+	RotationPeriod	13.136594862024754	//in hours
+	Obliquity		101.36258774116615
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.419582549565762	//in AU
-		Eccentricity	0.1582019718067938
+		SemiMajorAxis	2.542949728522118	//in AU
+		Eccentricity	0.15319131572693404
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.28484602197873643
-		ArgOfPericenter	-0.08547031442247077
+		AscendingNode	242.334587201488
+		ArgOfPericenter	0.42661729011212823
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8806,18 +8796,18 @@ Asteroid "Alderaan fragment 418"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		23.711183882398206	//in km
-	RotationPeriod	12.58596237929598	//in hours
-	Obliquity		174.52864921088974
+	Radius		171.0179911550911	//in km
+	RotationPeriod	17.129412142643897	//in hours
+	Obliquity		155.33325394289324
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.3351677197923717	//in AU
-		Eccentricity	0.12827775754620602
+		SemiMajorAxis	2.456083024141342	//in AU
+		Eccentricity	0.18300465421107265
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3904354818373327
-		ArgOfPericenter	0.04420794214293278
+		AscendingNode	242.22547938877992
+		ArgOfPericenter	0.2443067773198555
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8827,18 +8817,18 @@ Asteroid "Alderaan fragment 419"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.07902442995649	//in km
-	RotationPeriod	10.92102495336686	//in hours
-	Obliquity		344.73179106304934
+	Radius		123.51649574057069	//in km
+	RotationPeriod	17.142127288717056	//in hours
+	Obliquity		238.79050131981967
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.333326501522908	//in AU
-		Eccentricity	0.17549301543171822
+		SemiMajorAxis	2.33540050282567	//in AU
+		Eccentricity	0.15630860203106323
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.12698586893833175
-		ArgOfPericenter	-0.294168817300296
+		AscendingNode	241.85147647359133
+		ArgOfPericenter	0.1196240968094251
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8848,18 +8838,18 @@ Asteroid "Alderaan fragment 420"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		44.412381579020135	//in km
-	RotationPeriod	14.359526567877154	//in hours
-	Obliquity		262.7230824916152
+	Radius		135.68297716328462	//in km
+	RotationPeriod	6.957902651563971	//in hours
+	Obliquity		291.2519035379343
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7049735367502636	//in AU
-		Eccentricity	0.16138496622106097
+		SemiMajorAxis	2.750670601882812	//in AU
+		Eccentricity	0.1576679661128527
 		Inclination		131.0	//in degrees
-		AscendingNode	0.05750854850168852
-		ArgOfPericenter	-0.006411913265881086
+		AscendingNode	242.24536455053732
+		ArgOfPericenter	-0.28347772861133047
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8869,18 +8859,18 @@ Asteroid "Alderaan fragment 421"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		155.5235760838739	//in km
-	RotationPeriod	8.924759077085737	//in hours
-	Obliquity		21.030786132169723
+	Radius		216.48342506338912	//in km
+	RotationPeriod	7.2257528408104905	//in hours
+	Obliquity		319.0115207021404
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2339245944373793	//in AU
-		Eccentricity	0.13239429303513237
+		SemiMajorAxis	2.3484484258143903	//in AU
+		Eccentricity	0.16912241207371972
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4480124676341226
-		ArgOfPericenter	-0.24356849036271588
+		AscendingNode	241.7300297624316
+		ArgOfPericenter	-0.059220609501975496
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8890,18 +8880,18 @@ Asteroid "Alderaan fragment 422"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		120.80731930858833	//in km
-	RotationPeriod	8.753610350656182	//in hours
-	Obliquity		61.426305379794385
+	Radius		147.39756634793434	//in km
+	RotationPeriod	21.02603631351823	//in hours
+	Obliquity		120.67328655093708
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.964767016856068	//in AU
-		Eccentricity	0.16679744822430329
+		SemiMajorAxis	2.507633944170261	//in AU
+		Eccentricity	0.14175598446237328
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3554927604112301
-		ArgOfPericenter	0.11118939720252063
+		AscendingNode	241.539235640526
+		ArgOfPericenter	0.3267991862112021
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8911,18 +8901,18 @@ Asteroid "Alderaan fragment 423"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		69.34473719599906	//in km
-	RotationPeriod	13.122387154054698	//in hours
-	Obliquity		111.83523544740034
+	Radius		170.75135033554648	//in km
+	RotationPeriod	9.369736744025275	//in hours
+	Obliquity		143.16151579776118
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7263949781673666	//in AU
-		Eccentricity	0.15407513948255397
+		SemiMajorAxis	2.304449759401643	//in AU
+		Eccentricity	0.1846110028700255
 		Inclination		131.0	//in degrees
-		AscendingNode	0.21598847352205885
-		ArgOfPericenter	0.4367754081414178
+		AscendingNode	241.87962733262998
+		ArgOfPericenter	0.00462351617192347
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8932,18 +8922,18 @@ Asteroid "Alderaan fragment 424"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		114.94673360927159	//in km
-	RotationPeriod	4.082967543856698	//in hours
-	Obliquity		81.81874557094757
+	Radius		97.45055193831213	//in km
+	RotationPeriod	14.450575078277296	//in hours
+	Obliquity		337.83039705191356
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.56311593385256	//in AU
-		Eccentricity	0.17076636041219054
+		SemiMajorAxis	2.4550759289951625	//in AU
+		Eccentricity	0.2033158912995837
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.340110835601101
-		ArgOfPericenter	0.1818390830080553
+		AscendingNode	241.6360466288171
+		ArgOfPericenter	0.08215354332560576
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8953,18 +8943,18 @@ Asteroid "Alderaan fragment 425"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		97.33016852253607	//in km
-	RotationPeriod	12.749128433674636	//in hours
-	Obliquity		76.83741436579578
+	Radius		210.65282945616855	//in km
+	RotationPeriod	8.048240355217658	//in hours
+	Obliquity		242.95457004643168
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.950415043143586	//in AU
-		Eccentricity	0.1785225035194526
+		SemiMajorAxis	2.7272704740469176	//in AU
+		Eccentricity	0.12383946819305552
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1810963636444518
-		ArgOfPericenter	-0.09872627311156901
+		AscendingNode	242.1763927416804
+		ArgOfPericenter	0.07639453029770515
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8974,18 +8964,18 @@ Asteroid "Alderaan fragment 426"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		75.96004065781334	//in km
-	RotationPeriod	9.542148553938116	//in hours
-	Obliquity		134.6826749835723
+	Radius		230.09403367883766	//in km
+	RotationPeriod	5.189129753787607	//in hours
+	Obliquity		244.22119996887207
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4668785984007	//in AU
-		Eccentricity	0.1798833335287267
+		SemiMajorAxis	2.368937301600642	//in AU
+		Eccentricity	0.17040026382886575
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.35252077641496893
-		ArgOfPericenter	0.23944653976017893
+		AscendingNode	241.76959311549945
+		ArgOfPericenter	-0.31487442825236656
 		RefPlane		"Ecliptic"
 	}
 }
@@ -8995,18 +8985,18 @@ Asteroid "Alderaan fragment 427"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		111.93652503652169	//in km
-	RotationPeriod	13.886213886402873	//in hours
-	Obliquity		221.29115177846896
+	Radius		305.17329	//in km
+	RotationPeriod	6.847087731448739	//in hours
+	Obliquity		214.79874110474313
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.699561348673724	//in AU
-		Eccentricity	0.1596676581980975
+		SemiMajorAxis	2.707332493629387	//in AU
+		Eccentricity	0.14953140770356604
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19883309591750442
-		ArgOfPericenter	-0.2713118209726334
+		AscendingNode	242.14420327041216
+		ArgOfPericenter	0.4751580642092026
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9016,18 +9006,18 @@ Asteroid "Alderaan fragment 428"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		98.90367632188537	//in km
-	RotationPeriod	16.423783721757946	//in hours
-	Obliquity		326.4633657936046
+	Radius		185.69116605129753	//in km
+	RotationPeriod	12.845191626471737	//in hours
+	Obliquity		56.88864688709128
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.55363088053216	//in AU
-		Eccentricity	0.17687073611096213
+		SemiMajorAxis	2.749897947968253	//in AU
+		Eccentricity	0.1827923443811164
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4817131970099252
-		ArgOfPericenter	0.2413431918728267
+		AscendingNode	241.65586650966154
+		ArgOfPericenter	0.050142472096564195
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9037,18 +9027,18 @@ Asteroid "Alderaan fragment 429"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		95.86859431080349	//in km
-	RotationPeriod	12.201450168205557	//in hours
-	Obliquity		193.46920290682198
+	Radius		180.3837650228058	//in km
+	RotationPeriod	9.797643512340104	//in hours
+	Obliquity		226.29018144167887
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9976491255389828	//in AU
-		Eccentricity	0.14316252626487103
+		SemiMajorAxis	2.4046707802956133	//in AU
+		Eccentricity	0.17728209031435496
 		Inclination		131.0	//in degrees
-		AscendingNode	0.29359637848817144
-		ArgOfPericenter	-0.36050183065049257
+		AscendingNode	241.73660243128268
+		ArgOfPericenter	0.13087847778730288
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9058,18 +9048,18 @@ Asteroid "Alderaan fragment 430"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		169.57664034009144	//in km
-	RotationPeriod	4.3835723692973145	//in hours
-	Obliquity		183.12787204751214
+	Radius		245.17635248914746	//in km
+	RotationPeriod	16.80114281635125	//in hours
+	Obliquity		339.31495701748116
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.48225752563272	//in AU
-		Eccentricity	0.1623392393271037
+		SemiMajorAxis	3.3998981901888787	//in AU
+		Eccentricity	0.1577208668859223
 		Inclination		131.0	//in degrees
-		AscendingNode	0.19315031253488968
-		ArgOfPericenter	-0.227590508824147
+		AscendingNode	241.77972614689082
+		ArgOfPericenter	-0.16282958296411243
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9079,18 +9069,18 @@ Asteroid "Alderaan fragment 431"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		149.08637996912952	//in km
-	RotationPeriod	13.925236268377674	//in hours
-	Obliquity		168.57638710383648
+	Radius		88.81188274489645	//in km
+	RotationPeriod	15.883221014871857	//in hours
+	Obliquity		227.01075598078023
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.856764708728524	//in AU
-		Eccentricity	0.15050490334460792
+		SemiMajorAxis	2.067624970480502	//in AU
+		Eccentricity	0.12976127085647216
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.044215586013898744
-		ArgOfPericenter	-0.4890721719554886
+		AscendingNode	242.20527730255878
+		ArgOfPericenter	-0.11252547010920277
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9100,18 +9090,18 @@ Asteroid "Alderaan fragment 432"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		13.275032426434205	//in km
-	RotationPeriod	7.550834144912133	//in hours
-	Obliquity		202.1696772371719
+	Radius		68.13682117228103	//in km
+	RotationPeriod	14.961429096935174	//in hours
+	Obliquity		224.81287970766357
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2696913024484138	//in AU
-		Eccentricity	0.12982788830666608
+		SemiMajorAxis	2.3364915329509977	//in AU
+		Eccentricity	0.18886942946083893
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2578601379786436
-		ArgOfPericenter	0.31142337910599127
+		AscendingNode	241.97026338349968
+		ArgOfPericenter	0.2996585718689243
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9121,18 +9111,18 @@ Asteroid "Alderaan fragment 433"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		105.76069848275482	//in km
-	RotationPeriod	16.003814421761728	//in hours
-	Obliquity		285.55794960573644
+	Radius		102.27362227506579	//in km
+	RotationPeriod	14.317207819913214	//in hours
+	Obliquity		357.8648247944542
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.865214772069157	//in AU
-		Eccentricity	0.18512882824787816
+		SemiMajorAxis	2.3944921500081406	//in AU
+		Eccentricity	0.16311160047021656
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.0032633043811695073
-		ArgOfPericenter	0.44937194577505757
+		AscendingNode	241.5586472473064
+		ArgOfPericenter	0.30179667664723075
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9142,18 +9132,18 @@ Asteroid "Alderaan fragment 434"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		76.24193349709304	//in km
-	RotationPeriod	13.42624417586954	//in hours
-	Obliquity		12.74732558561932
+	Radius		168.9497258112587	//in km
+	RotationPeriod	14.028916062358663	//in hours
+	Obliquity		245.48841108535711
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.11020793039536	//in AU
-		Eccentricity	0.18729661941747458
+		SemiMajorAxis	2.515103337718573	//in AU
+		Eccentricity	0.16808338032868994
 		Inclination		131.0	//in degrees
-		AscendingNode	0.18736381440878114
-		ArgOfPericenter	0.48423571389223874
+		AscendingNode	241.78172803793947
+		ArgOfPericenter	0.30438727375262686
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9163,18 +9153,18 @@ Asteroid "Alderaan fragment 435"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		101.63650154848904	//in km
-	RotationPeriod	5.340051907476525	//in hours
-	Obliquity		160.46836507467742
+	Radius		175.09078050506122	//in km
+	RotationPeriod	12.476550906063839	//in hours
+	Obliquity		239.98837298110027
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7053742425196643	//in AU
-		Eccentricity	0.15890498779510887
+		SemiMajorAxis	2.3166426797149744	//in AU
+		Eccentricity	0.13731300131074847
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4495843674432254
-		ArgOfPericenter	-0.4297629505596007
+		AscendingNode	242.2320599217544
+		ArgOfPericenter	-0.15950581673507613
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9184,18 +9174,18 @@ Asteroid "Alderaan fragment 436"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		108.53923476119398	//in km
-	RotationPeriod	12.669782399824927	//in hours
-	Obliquity		91.83110442858167
+	Radius		133.44066988808947	//in km
+	RotationPeriod	10.782830746062103	//in hours
+	Obliquity		294.26651795803826
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.58576871146048	//in AU
-		Eccentricity	0.150424297721807
+		SemiMajorAxis	2.2610426022841263	//in AU
+		Eccentricity	0.22014487147783704
 		Inclination		131.0	//in degrees
-		AscendingNode	0.011729807815976767
-		ArgOfPericenter	-0.4443584762536752
+		AscendingNode	241.83530580774115
+		ArgOfPericenter	-0.3100407841050542
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9205,18 +9195,18 @@ Asteroid "Alderaan fragment 437"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		86.22848806047992	//in km
-	RotationPeriod	16.989924044594524	//in hours
-	Obliquity		342.3974572675725
+	Radius		269.0625497265755	//in km
+	RotationPeriod	9.464726013351626	//in hours
+	Obliquity		61.959028751733385
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.089589100999001	//in AU
-		Eccentricity	0.15788021684909956
+		SemiMajorAxis	2.5724684094858263	//in AU
+		Eccentricity	0.16824391958131335
 		Inclination		131.0	//in degrees
-		AscendingNode	0.24155060969606423
-		ArgOfPericenter	0.4391157425144847
+		AscendingNode	241.67953114911415
+		ArgOfPericenter	-0.08509410046664612
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9226,18 +9216,18 @@ Asteroid "Alderaan fragment 438"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		143.98238601456768	//in km
-	RotationPeriod	11.098489208343937	//in hours
-	Obliquity		251.11347393930058
+	Radius		211.81114267904633	//in km
+	RotationPeriod	14.50900441283409	//in hours
+	Obliquity		38.396770011923806
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8611361170091025	//in AU
-		Eccentricity	0.13043302531511836
+		SemiMajorAxis	2.119763282764903	//in AU
+		Eccentricity	0.13855597507089984
 		Inclination		131.0	//in degrees
-		AscendingNode	0.131768928706693
-		ArgOfPericenter	-0.42473101148554027
+		AscendingNode	242.06269132687206
+		ArgOfPericenter	0.011821707400356152
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9247,18 +9237,18 @@ Asteroid "Alderaan fragment 439"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		59.47366825544485	//in km
-	RotationPeriod	21.460541068290418	//in hours
-	Obliquity		83.01566511682366
+	Radius		242.93499837673227	//in km
+	RotationPeriod	12.788341877639631	//in hours
+	Obliquity		94.6779219478146
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.78820654489142	//in AU
-		Eccentricity	0.1750664072182397
+		SemiMajorAxis	2.7063847047716254	//in AU
+		Eccentricity	0.12439207673267884
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3964075758883706
-		ArgOfPericenter	0.25356052522404493
+		AscendingNode	241.80602653113988
+		ArgOfPericenter	0.22962720275414295
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9268,18 +9258,18 @@ Asteroid "Alderaan fragment 440"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		30.140783022117734	//in km
-	RotationPeriod	17.84705318332821	//in hours
-	Obliquity		11.83436926893462
+	Radius		112.92685766024202	//in km
+	RotationPeriod	13.507217382850458	//in hours
+	Obliquity		282.3645964286837
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9170873718406156	//in AU
-		Eccentricity	0.16647069846506085
+		SemiMajorAxis	2.1940467093328877	//in AU
+		Eccentricity	0.1830997388522711
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.48006306259279363
-		ArgOfPericenter	0.15075562542118992
+		AscendingNode	242.25177662276707
+		ArgOfPericenter	0.4909485053497543
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9289,18 +9279,18 @@ Asteroid "Alderaan fragment 441"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		105.26550946502762	//in km
-	RotationPeriod	8.564727653082413	//in hours
-	Obliquity		164.428763025534
+	Radius		85.88452845693429	//in km
+	RotationPeriod	16.304818450818242	//in hours
+	Obliquity		30.994639402337647
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.019801653316909	//in AU
-		Eccentricity	0.17700513586027616
+		SemiMajorAxis	2.664132104907772	//in AU
+		Eccentricity	0.18524109875884381
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.10268748755704371
-		ArgOfPericenter	0.2670648200107699
+		AscendingNode	242.36461784720876
+		ArgOfPericenter	0.16310251144741117
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9310,18 +9300,18 @@ Asteroid "Alderaan fragment 442"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		65.2502949692936	//in km
-	RotationPeriod	9.561568548792007	//in hours
-	Obliquity		151.24660214713572
+	Radius		118.92972795988493	//in km
+	RotationPeriod	13.476425788962663	//in hours
+	Obliquity		314.17691378922353
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.682155768675324	//in AU
-		Eccentricity	0.1645148502627002
+		SemiMajorAxis	2.9216260243288596	//in AU
+		Eccentricity	0.17354282706924043
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.18119003527546063
-		ArgOfPericenter	0.3253531562225114
+		AscendingNode	241.88553227723466
+		ArgOfPericenter	0.3880187247720587
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9331,18 +9321,18 @@ Asteroid "Alderaan fragment 443"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		182.8844704341419	//in km
-	RotationPeriod	12.340973095763887	//in hours
-	Obliquity		226.80385448773922
+	Radius		133.88020826851817	//in km
+	RotationPeriod	15.843806735069665	//in hours
+	Obliquity		174.50240694178547
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.78756239001198	//in AU
-		Eccentricity	0.14744597214277533
+		SemiMajorAxis	2.1667089457900057	//in AU
+		Eccentricity	0.17611410833538968
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.16974704885560343
-		ArgOfPericenter	0.08904135228899246
+		AscendingNode	242.25694743730412
+		ArgOfPericenter	0.27750600326868735
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9352,18 +9342,18 @@ Asteroid "Alderaan fragment 444"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		40.71123867222959	//in km
-	RotationPeriod	13.353999243706932	//in hours
-	Obliquity		126.53423666465164
+	Radius		94.41446261403414	//in km
+	RotationPeriod	14.506207542184676	//in hours
+	Obliquity		27.38232059380707
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6377125765281346	//in AU
-		Eccentricity	0.17250883563419542
+		SemiMajorAxis	2.747626757547088	//in AU
+		Eccentricity	0.16377641968606516
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1396752917503309
-		ArgOfPericenter	-0.4030946485903695
+		AscendingNode	242.29023295152706
+		ArgOfPericenter	-0.046732683137925335
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9373,18 +9363,18 @@ Asteroid "Alderaan fragment 445"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		87.68813518836427	//in km
-	RotationPeriod	16.763717794118932	//in hours
-	Obliquity		208.3899673941587
+	Radius		245.55626976733708	//in km
+	RotationPeriod	11.79556913211705	//in hours
+	Obliquity		51.44072458656845
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3445078105275168	//in AU
-		Eccentricity	0.1689670884087615
+		SemiMajorAxis	2.6249559828815876	//in AU
+		Eccentricity	0.1671793783167851
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.42285877615201906
-		ArgOfPericenter	0.4101012562253814
+		AscendingNode	241.69899666892456
+		ArgOfPericenter	-0.2979165961033968
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9394,18 +9384,18 @@ Asteroid "Alderaan fragment 446"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		48.57107965895474	//in km
-	RotationPeriod	14.4276999494101	//in hours
-	Obliquity		256.0329216154809
+	Radius		183.89034454061638	//in km
+	RotationPeriod	13.135210923876068	//in hours
+	Obliquity		275.2673367971193
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5372946090842254	//in AU
-		Eccentricity	0.19097726758428224
+		SemiMajorAxis	2.017201805688934	//in AU
+		Eccentricity	0.18850052811349938
 		Inclination		131.0	//in degrees
-		AscendingNode	0.24782120919623196
-		ArgOfPericenter	0.28229938806151933
+		AscendingNode	242.35939821333398
+		ArgOfPericenter	-0.07353822122573961
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9415,18 +9405,18 @@ Asteroid "Alderaan fragment 447"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		34.42099131677721	//in km
-	RotationPeriod	9.512643710431767	//in hours
-	Obliquity		103.35210013483305
+	Radius		234.40367906585163	//in km
+	RotationPeriod	12.271125999454675	//in hours
+	Obliquity		36.16746930089927
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0924534146642126	//in AU
-		Eccentricity	0.15247646822026695
+		SemiMajorAxis	2.3930946578413863	//in AU
+		Eccentricity	0.17930315704214386
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.0512316288690865
-		ArgOfPericenter	0.2304531408201842
+		AscendingNode	241.87959105366156
+		ArgOfPericenter	0.4406073580773038
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9436,18 +9426,18 @@ Asteroid "Alderaan fragment 448"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		41.08991590542725	//in km
-	RotationPeriod	7.557375049543255	//in hours
-	Obliquity		15.176487921984636
+	Radius		89.36094985602328	//in km
+	RotationPeriod	18.519128808293875	//in hours
+	Obliquity		116.75225634960114
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3953467113316638	//in AU
-		Eccentricity	0.17698290000711653
+		SemiMajorAxis	2.8517120636755147	//in AU
+		Eccentricity	0.16840159415505482
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2800902465680588
-		ArgOfPericenter	0.34942293766793453
+		AscendingNode	241.6502177645431
+		ArgOfPericenter	0.1735963761320326
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9457,18 +9447,18 @@ Asteroid "Alderaan fragment 449"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		12.405514074222442	//in km
-	RotationPeriod	11.596023889992123	//in hours
-	Obliquity		134.21347102793342
+	Radius		186.80151169384658	//in km
+	RotationPeriod	8.959451836760985	//in hours
+	Obliquity		185.5995651278145
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6047542925922134	//in AU
-		Eccentricity	0.1777493422818136
+		SemiMajorAxis	2.890512424214151	//in AU
+		Eccentricity	0.19132424646897886
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.24953755792013232
-		ArgOfPericenter	-0.48889215865069724
+		AscendingNode	241.52985194899654
+		ArgOfPericenter	0.22492967861135904
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9478,18 +9468,18 @@ Asteroid "Alderaan fragment 450"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		42.3053549773358	//in km
-	RotationPeriod	10.605918411997415	//in hours
-	Obliquity		121.59066932459386
+	Radius		103.17163849862581	//in km
+	RotationPeriod	11.074050781794249	//in hours
+	Obliquity		287.28741589033706
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.9383217597337996	//in AU
-		Eccentricity	0.17371223930468893
+		SemiMajorAxis	2.7971796864604284	//in AU
+		Eccentricity	0.1566399188084364
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2634107847708541
-		ArgOfPericenter	0.45254497461634846
+		AscendingNode	241.68412602357657
+		ArgOfPericenter	-0.4581087155539727
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9499,18 +9489,18 @@ Asteroid "Alderaan fragment 451"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		75.34415131466609	//in km
-	RotationPeriod	15.186768688992487	//in hours
-	Obliquity		122.43711900181296
+	Radius		159.300343660111	//in km
+	RotationPeriod	12.984822210773814	//in hours
+	Obliquity		232.90393508763407
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0644720523220617	//in AU
-		Eccentricity	0.15631206077824597
+		SemiMajorAxis	2.808111479605567	//in AU
+		Eccentricity	0.18884628237676546
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.22143321203023736
-		ArgOfPericenter	0.30441990418581877
+		AscendingNode	241.6989793811418
+		ArgOfPericenter	-0.46693345521264606
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9520,18 +9510,18 @@ Asteroid "Alderaan fragment 452"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		196.47209463990114	//in km
-	RotationPeriod	4.719686206502496	//in hours
-	Obliquity		228.26213325022644
+	Radius		117.20314198353653	//in km
+	RotationPeriod	7.4818056961405786	//in hours
+	Obliquity		354.6608530301488
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.9759462554139604	//in AU
-		Eccentricity	0.11069359173127716
+		SemiMajorAxis	2.711923259813606	//in AU
+		Eccentricity	0.1594582146199209
 		Inclination		131.0	//in degrees
-		AscendingNode	0.49384195767441197
-		ArgOfPericenter	-0.07951344862524767
+		AscendingNode	242.08105611889832
+		ArgOfPericenter	0.14458520654700535
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9541,18 +9531,18 @@ Asteroid "Alderaan fragment 453"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		129.2878783746305	//in km
-	RotationPeriod	7.522515739119894	//in hours
-	Obliquity		190.67911146089173
+	Radius		155.3854564627741	//in km
+	RotationPeriod	14.82402368779703	//in hours
+	Obliquity		177.68958266999954
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.873132535115781	//in AU
-		Eccentricity	0.17001464678297976
+		SemiMajorAxis	2.395266086057407	//in AU
+		Eccentricity	0.17601684748402247
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.11899296717844654
-		ArgOfPericenter	-0.49084691860971885
+		AscendingNode	242.34596599220498
+		ArgOfPericenter	0.2380798850353132
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9562,18 +9552,18 @@ Asteroid "Alderaan fragment 454"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		229.3047949540599	//in km
-	RotationPeriod	18.636293142369354	//in hours
-	Obliquity		123.52717760001323
+	Radius		146.4472473873843	//in km
+	RotationPeriod	13.287638875716114	//in hours
+	Obliquity		289.35667507620343
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8407943346435625	//in AU
-		Eccentricity	0.12951540468472608
+		SemiMajorAxis	2.2586088802160837	//in AU
+		Eccentricity	0.2099429363558024
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2687715383799305
-		ArgOfPericenter	-0.4196790843672398
+		AscendingNode	241.56741270062355
+		ArgOfPericenter	0.0584214373241585
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9583,18 +9573,18 @@ Asteroid "Alderaan fragment 455"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		20.424470759575165	//in km
-	RotationPeriod	19.30061432219109	//in hours
-	Obliquity		264.2745623572977
+	Radius		192.91528727484263	//in km
+	RotationPeriod	8.923659630087364	//in hours
+	Obliquity		13.295514654339113
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5708238740203484	//in AU
-		Eccentricity	0.1136093790696093
+		SemiMajorAxis	2.5734109974861448	//in AU
+		Eccentricity	0.20155306826957106
 		Inclination		131.0	//in degrees
-		AscendingNode	0.11590368214179025
-		ArgOfPericenter	0.3682849449301847
+		AscendingNode	241.96429891349925
+		ArgOfPericenter	0.28360758310653833
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9604,18 +9594,18 @@ Asteroid "Alderaan fragment 456"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		89.21727504999542	//in km
-	RotationPeriod	13.678060602973147	//in hours
-	Obliquity		3.7639435131907684
+	Radius		246.79472574167718	//in km
+	RotationPeriod	12.203161155600137	//in hours
+	Obliquity		145.5833055979711
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3554483730504745	//in AU
-		Eccentricity	0.16548780778744765
+		SemiMajorAxis	2.7778678875484	//in AU
+		Eccentricity	0.18121364580156535
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4484633786743428
-		ArgOfPericenter	-0.09042759372140263
+		AscendingNode	241.59956745640994
+		ArgOfPericenter	0.22702151225632272
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9625,18 +9615,18 @@ Asteroid "Alderaan fragment 457"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		8.447477771297477	//in km
-	RotationPeriod	15.350930610221067	//in hours
-	Obliquity		348.1470029824146
+	Radius		72.33921946752287	//in km
+	RotationPeriod	16.297106351419494	//in hours
+	Obliquity		109.65563903053364
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2037122643746163	//in AU
-		Eccentricity	0.16673574047533574
+		SemiMajorAxis	2.609175422480164	//in AU
+		Eccentricity	0.16277050710994018
 		Inclination		131.0	//in degrees
-		AscendingNode	0.03149696798624979
-		ArgOfPericenter	-0.25338758827327035
+		AscendingNode	242.30380297408888
+		ArgOfPericenter	0.19978544288141453
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9646,18 +9636,18 @@ Asteroid "Alderaan fragment 458"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		75.20447924865883	//in km
-	RotationPeriod	19.738173800717423	//in hours
-	Obliquity		82.07689020402707
+	Radius		44.81070931885401	//in km
+	RotationPeriod	9.541243648233099	//in hours
+	Obliquity		121.24412885715012
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5041463992918507	//in AU
-		Eccentricity	0.15399705770887787
+		SemiMajorAxis	2.3981802695489627	//in AU
+		Eccentricity	0.18627340059183528
 		Inclination		131.0	//in degrees
-		AscendingNode	0.22140144530879324
-		ArgOfPericenter	0.051530900508177435
+		AscendingNode	241.9674669111156
+		ArgOfPericenter	-0.08792220151120778
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9667,18 +9657,18 @@ Asteroid "Alderaan fragment 459"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		93.18857117634045	//in km
-	RotationPeriod	10.89263455476402	//in hours
-	Obliquity		191.6223906039503
+	Radius		248.99985079792398	//in km
+	RotationPeriod	11.16212603747859	//in hours
+	Obliquity		213.87720964830464
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.655730193764893	//in AU
-		Eccentricity	0.15206714264170104
+		SemiMajorAxis	3.067906814092689	//in AU
+		Eccentricity	0.14641536737666785
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3994445996199404
-		ArgOfPericenter	-0.021829653472840715
+		AscendingNode	241.76885811311368
+		ArgOfPericenter	-0.14186946315424742
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9688,18 +9678,18 @@ Asteroid "Alderaan fragment 460"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.861451847094806	//in km
-	RotationPeriod	8.65704577869667	//in hours
-	Obliquity		170.8316588681251
+	Radius		149.19672492991845	//in km
+	RotationPeriod	7.889955107883659	//in hours
+	Obliquity		288.4875462665472
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.4	//in AU
-		Eccentricity	0.15399417734668241
+		SemiMajorAxis	3.18243450074711	//in AU
+		Eccentricity	0.1911600859133645
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.00810889703582962
-		ArgOfPericenter	0.0697507081095654
+		AscendingNode	241.96918889384293
+		ArgOfPericenter	-0.09474168519561088
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9709,18 +9699,18 @@ Asteroid "Alderaan fragment 461"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		31.819251905751095	//in km
-	RotationPeriod	11.100469605113677	//in hours
-	Obliquity		70.75722740561541
+	Radius		151.8919363795032	//in km
+	RotationPeriod	9.18911617601005	//in hours
+	Obliquity		15.68643364179188
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.799727590206188	//in AU
-		Eccentricity	0.16902131365907844
+		SemiMajorAxis	2.83868039972735	//in AU
+		Eccentricity	0.20304277176218166
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.388282487795812
-		ArgOfPericenter	0.23526032693584586
+		AscendingNode	241.94684863286483
+		ArgOfPericenter	0.006201416783332969
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9730,18 +9720,18 @@ Asteroid "Alderaan fragment 462"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		11.326258818509217	//in km
-	RotationPeriod	11.868507442858471	//in hours
-	Obliquity		168.6056475874241
+	Radius		201.95973087210757	//in km
+	RotationPeriod	1.785856007016454	//in hours
+	Obliquity		345.7925327800072
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6222308389892053	//in AU
-		Eccentricity	0.17829181906170788
+		SemiMajorAxis	2.2196749624902887	//in AU
+		Eccentricity	0.16918711404170433
 		Inclination		131.0	//in degrees
-		AscendingNode	0.22094474691638266
-		ArgOfPericenter	0.054155263090445604
+		AscendingNode	241.61922079740287
+		ArgOfPericenter	0.07088021811778555
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9751,18 +9741,18 @@ Asteroid "Alderaan fragment 463"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		39.977819147787564	//in km
-	RotationPeriod	13.359517643319755	//in hours
-	Obliquity		191.77163672141606
+	Radius		188.1381393522872	//in km
+	RotationPeriod	14.376678896171661	//in hours
+	Obliquity		198.0882305908664
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.266805318901493	//in AU
-		Eccentricity	0.16782906330419908
+		SemiMajorAxis	2.974607582930587	//in AU
+		Eccentricity	0.17938039228780414
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4133667814177695
-		ArgOfPericenter	-0.21991978706294446
+		AscendingNode	241.63850705605088
+		ArgOfPericenter	0.48905129795604496
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9772,18 +9762,18 @@ Asteroid "Alderaan fragment 464"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		9.402637278629943	//in km
-	RotationPeriod	19.43456872587398	//in hours
-	Obliquity		199.74430204435214
+	Radius		183.55313526040158	//in km
+	RotationPeriod	10.272212006192186	//in hours
+	Obliquity		359.90435195499515
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2972318489033574	//in AU
-		Eccentricity	0.16385384842581405
+		SemiMajorAxis	2.4054173950884286	//in AU
+		Eccentricity	0.12277015803229777
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4799518833604438
-		ArgOfPericenter	0.3046590398185193
+		AscendingNode	242.15929838476623
+		ArgOfPericenter	-0.47634721136170355
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9793,18 +9783,18 @@ Asteroid "Alderaan fragment 465"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		202.63612553916315	//in km
-	RotationPeriod	18.53264779750059	//in hours
-	Obliquity		319.32896982954907
+	Radius		81.88098525575512	//in km
+	RotationPeriod	8.064571428142262	//in hours
+	Obliquity		178.35360081998368
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0005900542650137	//in AU
-		Eccentricity	0.14556540839929016
+		SemiMajorAxis	2.822919956568753	//in AU
+		Eccentricity	0.17919969733706248
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.43688840909711657
-		ArgOfPericenter	0.13857406171317588
+		AscendingNode	242.04955049317135
+		ArgOfPericenter	0.1417126042320308
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9814,18 +9804,18 @@ Asteroid "Alderaan fragment 466"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		139.29728355487313	//in km
-	RotationPeriod	11.921596602488794	//in hours
-	Obliquity		233.39646916051464
+	Radius		192.3310864753645	//in km
+	RotationPeriod	10.76509900244756	//in hours
+	Obliquity		144.7249288351942
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.1047717121932146	//in AU
-		Eccentricity	0.13917098451203264
+		SemiMajorAxis	2.279468761725285	//in AU
+		Eccentricity	0.16427264544610906
 		Inclination		131.0	//in degrees
-		AscendingNode	0.13644922018245398
-		ArgOfPericenter	-0.03231481382943957
+		AscendingNode	241.51391124034583
+		ArgOfPericenter	-0.04878363385586448
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9835,18 +9825,18 @@ Asteroid "Alderaan fragment 467"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		93.95539433172114	//in km
-	RotationPeriod	9.335174958179069	//in hours
-	Obliquity		159.71647690190287
+	Radius		269.53962871036765	//in km
+	RotationPeriod	17.042359690715557	//in hours
+	Obliquity		22.189022159962466
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.595451383402659	//in AU
-		Eccentricity	0.1275919084711249
+		SemiMajorAxis	2.9368361835314847	//in AU
+		Eccentricity	0.16166157178269425
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.0517914349254367
-		ArgOfPericenter	-0.2697181837124768
+		AscendingNode	242.1436955255924
+		ArgOfPericenter	0.4360650338199328
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9856,18 +9846,18 @@ Asteroid "Alderaan fragment 468"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		176.14662110824153	//in km
-	RotationPeriod	8.204470845222465	//in hours
-	Obliquity		119.3439106169229
+	Radius		128.30772782961023	//in km
+	RotationPeriod	20.05009675562455	//in hours
+	Obliquity		354.08939990633417
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4177034054576234	//in AU
-		Eccentricity	0.15964271786830198
+		SemiMajorAxis	2.9857092041079833	//in AU
+		Eccentricity	0.18768173807440652
 		Inclination		131.0	//in degrees
-		AscendingNode	0.11983171898928269
-		ArgOfPericenter	-0.4401695316530697
+		AscendingNode	241.84043919057436
+		ArgOfPericenter	0.15950569136974757
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9877,18 +9867,18 @@ Asteroid "Alderaan fragment 469"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		14.945783925756611	//in km
-	RotationPeriod	13.802005494356266	//in hours
-	Obliquity		158.6526051787437
+	Radius		226.72820631650447	//in km
+	RotationPeriod	10.204012026152151	//in hours
+	Obliquity		58.474607894592765
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6933288390263477	//in AU
-		Eccentricity	0.17400517151003594
+		SemiMajorAxis	2.552487228225627	//in AU
+		Eccentricity	0.16908050729913232
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4012874988617493
-		ArgOfPericenter	0.3054900898059292
+		AscendingNode	242.2282210472694
+		ArgOfPericenter	0.3122990151869328
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9898,18 +9888,18 @@ Asteroid "Alderaan fragment 470"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		80.02490420833925	//in km
-	RotationPeriod	9.447244681998345	//in hours
-	Obliquity		90.02269694355145
+	Radius		228.44766505092207	//in km
+	RotationPeriod	7.910048390549282	//in hours
+	Obliquity		272.823340066727
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8195008319868062	//in AU
-		Eccentricity	0.13351290123018195
+		SemiMajorAxis	3.3356957047888756	//in AU
+		Eccentricity	0.14550388095634298
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19582379517243553
-		ArgOfPericenter	-0.009747854401428557
+		AscendingNode	241.9852218175023
+		ArgOfPericenter	0.4591577686494064
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9919,18 +9909,18 @@ Asteroid "Alderaan fragment 471"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		28.36235629547508	//in km
-	RotationPeriod	16.559706371310586	//in hours
-	Obliquity		31.588726752897887
+	Radius		54.73328437073084	//in km
+	RotationPeriod	15.23989725383299	//in hours
+	Obliquity		204.33918704955545
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5583934930621823	//in AU
-		Eccentricity	0.11160106274181719
+		SemiMajorAxis	2.746831156496251	//in AU
+		Eccentricity	0.17578082172606818
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2822699204656295
-		ArgOfPericenter	0.3620889064564746
+		AscendingNode	242.12780283639034
+		ArgOfPericenter	0.3774029927885937
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9940,18 +9930,18 @@ Asteroid "Alderaan fragment 472"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		120.57066970089404	//in km
-	RotationPeriod	10.872124843598948	//in hours
-	Obliquity		59.90165359939367
+	Radius		174.02725413855825	//in km
+	RotationPeriod	13.658247502049464	//in hours
+	Obliquity		281.5119152810426
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9937820962742663	//in AU
-		Eccentricity	0.17006672053959526
+		SemiMajorAxis	2.6613197594376405	//in AU
+		Eccentricity	0.19006153724179375
 		Inclination		131.0	//in degrees
-		AscendingNode	0.32856070650159863
-		ArgOfPericenter	0.25754470156076714
+		AscendingNode	242.37495952466253
+		ArgOfPericenter	-0.134012140755166
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9961,18 +9951,18 @@ Asteroid "Alderaan fragment 473"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		8.83182168623229	//in km
-	RotationPeriod	11.634677806655302	//in hours
-	Obliquity		216.088640979125
+	Radius		176.74354126921133	//in km
+	RotationPeriod	7.678169080790448	//in hours
+	Obliquity		49.0508615908939
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.286426281427665	//in AU
-		Eccentricity	0.12047674938634162
+		SemiMajorAxis	2.6934332474591014	//in AU
+		Eccentricity	0.19354712245342576
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3739353687519271
-		ArgOfPericenter	0.22335713188699646
+		AscendingNode	242.32390294405715
+		ArgOfPericenter	0.08403402867017917
 		RefPlane		"Ecliptic"
 	}
 }
@@ -9982,18 +9972,18 @@ Asteroid "Alderaan fragment 474"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		90.68905035898158	//in km
-	RotationPeriod	11.80755175263945	//in hours
-	Obliquity		5.502939286509085
+	Radius		173.28462123960398	//in km
+	RotationPeriod	15.779275642504473	//in hours
+	Obliquity		225.22726307931015
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.480237076873558	//in AU
-		Eccentricity	0.16867212854648098
+		SemiMajorAxis	2.870835861300339	//in AU
+		Eccentricity	0.2115945103700579
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.27462274070481585
-		ArgOfPericenter	0.10511545448371196
+		AscendingNode	241.86533978739226
+		ArgOfPericenter	-0.09410146527791452
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10003,18 +9993,18 @@ Asteroid "Alderaan fragment 475"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		20.078558197237356	//in km
-	RotationPeriod	9.734485170058	//in hours
-	Obliquity		106.88148953290165
+	Radius		250.65457958918887	//in km
+	RotationPeriod	10.13512780016188	//in hours
+	Obliquity		259.38830599496197
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5176537564042607	//in AU
-		Eccentricity	0.16225211413755183
+		SemiMajorAxis	2.6202567242895913	//in AU
+		Eccentricity	0.16786413818946702
 		Inclination		131.0	//in degrees
-		AscendingNode	0.07647257676693853
-		ArgOfPericenter	0.41920922860114573
+		AscendingNode	241.74666871150296
+		ArgOfPericenter	-0.30159803660535334
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10024,18 +10014,18 @@ Asteroid "Alderaan fragment 476"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		41.71392008435058	//in km
-	RotationPeriod	13.83393025608745	//in hours
-	Obliquity		231.1665676104244
+	Radius		219.7649545732806	//in km
+	RotationPeriod	6.824716832128903	//in hours
+	Obliquity		205.24600946534247
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.551040726021372	//in AU
-		Eccentricity	0.1419999864771643
+		SemiMajorAxis	2.6209300447930586	//in AU
+		Eccentricity	0.17003852832510583
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4897243780875409
-		ArgOfPericenter	-0.4417721123482675
+		AscendingNode	241.90179266115908
+		ArgOfPericenter	-0.18094989369367342
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10045,18 +10035,18 @@ Asteroid "Alderaan fragment 477"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		124.04795039085772	//in km
-	RotationPeriod	12.135342888689312	//in hours
-	Obliquity		103.10001982863086
+	Radius		116.62023816768749	//in km
+	RotationPeriod	15.798905609423603	//in hours
+	Obliquity		299.88624127559075
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0486496981553324	//in AU
-		Eccentricity	0.1589047395892576
+		SemiMajorAxis	2.842315422209087	//in AU
+		Eccentricity	0.1600337873357586
 		Inclination		131.0	//in degrees
-		AscendingNode	0.12005907261504267
-		ArgOfPericenter	0.3062389360392229
+		AscendingNode	241.53779753862992
+		ArgOfPericenter	-0.12607372435299624
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10066,18 +10056,18 @@ Asteroid "Alderaan fragment 478"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		110.18727393481383	//in km
-	RotationPeriod	17.030833793933695	//in hours
-	Obliquity		232.06680281672004
+	Radius		184.23523670598718	//in km
+	RotationPeriod	2.504504152690963	//in hours
+	Obliquity		242.4474087766935
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.740093964659302	//in AU
-		Eccentricity	0.18282689641312433
+		SemiMajorAxis	2.3360985325754644	//in AU
+		Eccentricity	0.21140587093150395
 		Inclination		131.0	//in degrees
-		AscendingNode	0.45970007925090905
-		ArgOfPericenter	0.21172452848619183
+		AscendingNode	242.38332074401444
+		ArgOfPericenter	-0.4667540355248283
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10087,18 +10077,18 @@ Asteroid "Alderaan fragment 479"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		40.336651033101106	//in km
-	RotationPeriod	17.2075400944764	//in hours
-	Obliquity		147.5020305138457
+	Radius		44.34582318918788	//in km
+	RotationPeriod	11.913021870111622	//in hours
+	Obliquity		19.08802988384639
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2789275046465245	//in AU
-		Eccentricity	0.17424872923036364
+		SemiMajorAxis	2.6791285543327192	//in AU
+		Eccentricity	0.16523206112755492
 		Inclination		131.0	//in degrees
-		AscendingNode	0.11052259555939392
-		ArgOfPericenter	-0.19258954608364875
+		AscendingNode	241.98767892503892
+		ArgOfPericenter	0.44905136482124264
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10108,18 +10098,18 @@ Asteroid "Alderaan fragment 480"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		14.054085504872406	//in km
-	RotationPeriod	10.775826795384512	//in hours
-	Obliquity		339.9013960313583
+	Radius		190.56405238976157	//in km
+	RotationPeriod	9.299248292331836	//in hours
+	Obliquity		269.74839401991346
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0924865535330825	//in AU
-		Eccentricity	0.1747475084566407
+		SemiMajorAxis	2.095277540730218	//in AU
+		Eccentricity	0.16866434039381725
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4332129838840385
-		ArgOfPericenter	-0.4078896509455925
+		AscendingNode	241.9742374366235
+		ArgOfPericenter	0.040741575764277504
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10129,18 +10119,18 @@ Asteroid "Alderaan fragment 481"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.16167951587454	//in km
-	RotationPeriod	13.962947639228545	//in hours
-	Obliquity		354.61725521474307
+	Radius		179.44505926015788	//in km
+	RotationPeriod	12.458090491985976	//in hours
+	Obliquity		333.56576155895095
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.2961720045989567	//in AU
-		Eccentricity	0.17435581330554187
+		SemiMajorAxis	2.34892369564797	//in AU
+		Eccentricity	0.15955477863077838
 		Inclination		131.0	//in degrees
-		AscendingNode	0.21191455390508196
-		ArgOfPericenter	-0.17978737831704594
+		AscendingNode	241.54814154049396
+		ArgOfPericenter	-0.3457731331913251
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10150,18 +10140,18 @@ Asteroid "Alderaan fragment 482"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		30.551331063860466	//in km
-	RotationPeriod	12.51142578443888	//in hours
-	Obliquity		90.48752110681029
+	Radius		148.31242485921769	//in km
+	RotationPeriod	8.669378227546652	//in hours
+	Obliquity		320.0948173218208
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6749562905850484	//in AU
-		Eccentricity	0.16718849729259594
+		SemiMajorAxis	1.8148931469649319	//in AU
+		Eccentricity	0.1915045455341905
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1674480093572298
-		ArgOfPericenter	0.012840273817907977
+		AscendingNode	241.92857643930014
+		ArgOfPericenter	0.12926135694566265
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10171,18 +10161,18 @@ Asteroid "Alderaan fragment 483"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		81.4007452560722	//in km
-	RotationPeriod	5.102220376640328	//in hours
-	Obliquity		38.25810975972179
+	Radius		111.94096547086892	//in km
+	RotationPeriod	11.773149882163082	//in hours
+	Obliquity		21.578004843962105
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5677218451879504	//in AU
-		Eccentricity	0.1589326405085751
+		SemiMajorAxis	2.8759856471332697	//in AU
+		Eccentricity	0.17925397103607982
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.09877312607074296
-		ArgOfPericenter	-0.1557584028101041
+		AscendingNode	241.6910264748938
+		ArgOfPericenter	0.24059273383564217
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10192,18 +10182,18 @@ Asteroid "Alderaan fragment 484"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		118.53274364899112	//in km
-	RotationPeriod	12.278360342627874	//in hours
-	Obliquity		149.0699271315292
+	Radius		133.81344774922172	//in km
+	RotationPeriod	6.081531954389028	//in hours
+	Obliquity		132.51351160213906
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0991629127073104	//in AU
-		Eccentricity	0.1605103557927244
+		SemiMajorAxis	2.546480748674793	//in AU
+		Eccentricity	0.1361264329862683
 		Inclination		131.0	//in degrees
-		AscendingNode	0.15565719020129565
-		ArgOfPericenter	0.14361351960749225
+		AscendingNode	242.37334613409521
+		ArgOfPericenter	0.45751915796026643
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10213,18 +10203,18 @@ Asteroid "Alderaan fragment 485"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		159.10212533654476	//in km
-	RotationPeriod	15.991382900644812	//in hours
-	Obliquity		147.6400596462929
+	Radius		122.10907006625385	//in km
+	RotationPeriod	9.013168315538039	//in hours
+	Obliquity		172.58755077643374
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2045718597866526	//in AU
-		Eccentricity	0.16765427077799577
+		SemiMajorAxis	2.766718956314741	//in AU
+		Eccentricity	0.22507841986238908
 		Inclination		131.0	//in degrees
-		AscendingNode	0.06532638452715778
-		ArgOfPericenter	-0.4301115815797736
+		AscendingNode	241.93670287660066
+		ArgOfPericenter	0.2942869977267809
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10234,18 +10224,18 @@ Asteroid "Alderaan fragment 486"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		65.11746827201686	//in km
-	RotationPeriod	9.127675524771895	//in hours
-	Obliquity		334.536995447902
+	Radius		170.6854496654415	//in km
+	RotationPeriod	14.322702978472584	//in hours
+	Obliquity		113.08328214493987
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.128834194160689	//in AU
-		Eccentricity	0.14718007336427302
+		SemiMajorAxis	2.2355558940667843	//in AU
+		Eccentricity	0.14940152171490004
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.13256470274422727
-		ArgOfPericenter	-0.022733681177589338
+		AscendingNode	242.05507413761867
+		ArgOfPericenter	-0.3449434656956144
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10255,18 +10245,18 @@ Asteroid "Alderaan fragment 487"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		32.30558777815012	//in km
-	RotationPeriod	10.431047095419702	//in hours
-	Obliquity		163.1752412474092
+	Radius		147.79620608204834	//in km
+	RotationPeriod	10.965405436357662	//in hours
+	Obliquity		71.52629320284052
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4145098780748215	//in AU
-		Eccentricity	0.1540269750872647
+		SemiMajorAxis	2.7133672157750235	//in AU
+		Eccentricity	0.13454845134570842
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4520799471965121
-		ArgOfPericenter	0.09387999574982198
+		AscendingNode	241.81459116856578
+		ArgOfPericenter	-0.34884039266509104
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10276,18 +10266,18 @@ Asteroid "Alderaan fragment 488"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		73.9787139375535	//in km
-	RotationPeriod	7.444417443771854	//in hours
-	Obliquity		89.20007258950864
+	Radius		88.76297705541009	//in km
+	RotationPeriod	6.363398643822599	//in hours
+	Obliquity		231.30527470869768
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1835792369021534	//in AU
-		Eccentricity	0.14971479573058827
+		SemiMajorAxis	2.6474125843902616	//in AU
+		Eccentricity	0.15637257202664656
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1768933032580461
-		ArgOfPericenter	0.43288920752278925
+		AscendingNode	242.17481480956687
+		ArgOfPericenter	-0.39300189623229265
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10297,18 +10287,18 @@ Asteroid "Alderaan fragment 489"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		61.37837209517873	//in km
-	RotationPeriod	3.966302812044084	//in hours
-	Obliquity		61.08088480303315
+	Radius		121.36729224199124	//in km
+	RotationPeriod	12.695008023222357	//in hours
+	Obliquity		331.1777713189808
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.830141495593476	//in AU
-		Eccentricity	0.15677263076528933
+		SemiMajorAxis	2.4342309917709417	//in AU
+		Eccentricity	0.21222588037372803
 		Inclination		131.0	//in degrees
-		AscendingNode	0.39963120337548297
-		ArgOfPericenter	0.46656786989822274
+		AscendingNode	242.0478440443553
+		ArgOfPericenter	-0.26424482035318053
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10318,18 +10308,18 @@ Asteroid "Alderaan fragment 490"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		60.62621641446227	//in km
-	RotationPeriod	4.040078785894908	//in hours
-	Obliquity		3.559851148876354
+	Radius		159.49433836934168	//in km
+	RotationPeriod	13.712591958733586	//in hours
+	Obliquity		126.68948322847763
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7997247845530957	//in AU
-		Eccentricity	0.12840898831895353
+		SemiMajorAxis	2.2781636015100943	//in AU
+		Eccentricity	0.15166789804704958
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2326597961616248
-		ArgOfPericenter	0.32155906145165936
+		AscendingNode	241.91561636517324
+		ArgOfPericenter	-0.14125023161442785
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10339,18 +10329,18 @@ Asteroid "Alderaan fragment 491"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		72.52868649540999	//in km
-	RotationPeriod	21.209949349998787	//in hours
-	Obliquity		128.22582697183856
+	Radius		182.06240355522235	//in km
+	RotationPeriod	12.01634691057679	//in hours
+	Obliquity		275.59772991143285
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3879142320913194	//in AU
-		Eccentricity	0.17763580644517457
+		SemiMajorAxis	2.0216701116769076	//in AU
+		Eccentricity	0.15979809222796898
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.11438378092419321
-		ArgOfPericenter	0.04063444832641527
+		AscendingNode	241.9192559904692
+		ArgOfPericenter	0.15375179850225051
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10360,18 +10350,18 @@ Asteroid "Alderaan fragment 492"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		10.553741697287762	//in km
-	RotationPeriod	10.720437203620802	//in hours
-	Obliquity		320.6417177691013
+	Radius		113.08322978509864	//in km
+	RotationPeriod	10.366860539453782	//in hours
+	Obliquity		55.91065743772655
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.102223962637159	//in AU
-		Eccentricity	0.17898138406611078
+		SemiMajorAxis	2.753183752100511	//in AU
+		Eccentricity	0.17799473464452628
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.07003250640046832
-		ArgOfPericenter	0.15274953859684182
+		AscendingNode	242.21292547834605
+		ArgOfPericenter	-0.17691799869913982
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10381,18 +10371,18 @@ Asteroid "Alderaan fragment 493"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		143.47513178804635	//in km
-	RotationPeriod	9.73391548730789	//in hours
-	Obliquity		319.3052371198451
+	Radius		266.2346459711707	//in km
+	RotationPeriod	11.587303543853773	//in hours
+	Obliquity		252.99165067132165
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.531447998390376	//in AU
-		Eccentricity	0.14458388245516626
+		SemiMajorAxis	2.6191611988837096	//in AU
+		Eccentricity	0.15933000704094832
 		Inclination		131.0	//in degrees
-		AscendingNode	0.20456630163435263
-		ArgOfPericenter	0.1877088449022365
+		AscendingNode	242.17816786472835
+		ArgOfPericenter	0.3351722854767746
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10402,18 +10392,18 @@ Asteroid "Alderaan fragment 494"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		176.53769020104133	//in km
-	RotationPeriod	12.04246821773252	//in hours
-	Obliquity		299.23906254185175
+	Radius		123.05734156933138	//in km
+	RotationPeriod	10.195290618678028	//in hours
+	Obliquity		307.2109394705744
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7543007892452778	//in AU
-		Eccentricity	0.16856871125372797
+		SemiMajorAxis	2.2229634193676846	//in AU
+		Eccentricity	0.1544057913470222
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3586256568139876
-		ArgOfPericenter	0.2584952209249294
+		AscendingNode	242.36201451688086
+		ArgOfPericenter	0.4106972415576091
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10423,18 +10413,18 @@ Asteroid "Alderaan fragment 495"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		177.31690058175383	//in km
-	RotationPeriod	8.359448193590612	//in hours
-	Obliquity		338.67071747682996
+	Radius		83.48321101493116	//in km
+	RotationPeriod	10.942312718827756	//in hours
+	Obliquity		8.31394734955111
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.596431260058026	//in AU
-		Eccentricity	0.19091537699322586
+		SemiMajorAxis	2.777194748077563	//in AU
+		Eccentricity	0.16666202516162368
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.32673977713018953
-		ArgOfPericenter	0.396657400616938
+		AscendingNode	241.5431855996505
+		ArgOfPericenter	-0.017963907605546003
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10444,18 +10434,18 @@ Asteroid "Alderaan fragment 496"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		25.934075815212367	//in km
-	RotationPeriod	10.532198268726376	//in hours
-	Obliquity		196.75111711534433
+	Radius		101.64978633729275	//in km
+	RotationPeriod	7.284228480524583	//in hours
+	Obliquity		145.2211928827812
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5803574250216967	//in AU
-		Eccentricity	0.15256707802251523
+		SemiMajorAxis	2.4069339426562277	//in AU
+		Eccentricity	0.19074665350300848
 		Inclination		131.0	//in degrees
-		AscendingNode	0.015267103835185147
-		ArgOfPericenter	0.17174113060122165
+		AscendingNode	241.7055248061413
+		ArgOfPericenter	-0.09852295013297752
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10465,18 +10455,18 @@ Asteroid "Alderaan fragment 497"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		117.10597117313333	//in km
-	RotationPeriod	5.348988854924906	//in hours
-	Obliquity		92.7170919778794
+	Radius		268.03887825874403	//in km
+	RotationPeriod	6.6470408107319425	//in hours
+	Obliquity		220.2924279862428
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.703225669335562	//in AU
-		Eccentricity	0.1713043737324649
+		SemiMajorAxis	2.978294920797275	//in AU
+		Eccentricity	0.15455020020399804
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4044781633137613
-		ArgOfPericenter	-0.32351960792385226
+		AscendingNode	241.69017687123258
+		ArgOfPericenter	0.13730822889748706
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10486,18 +10476,18 @@ Asteroid "Alderaan fragment 498"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		124.27737655148056	//in km
-	RotationPeriod	19.754580964263585	//in hours
-	Obliquity		289.66217302880307
+	Radius		151.25107049818172	//in km
+	RotationPeriod	5.469656817857048	//in hours
+	Obliquity		198.57338706550203
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.889797804098758	//in AU
-		Eccentricity	0.14899223784911003
+		SemiMajorAxis	2.652361222210985	//in AU
+		Eccentricity	0.1594352014478333
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4358300274949175
-		ArgOfPericenter	0.26347896330540954
+		AscendingNode	242.0128599749142
+		ArgOfPericenter	-0.3260243853709409
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10507,18 +10497,18 @@ Asteroid "Alderaan fragment 499"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		66.05072055104537	//in km
-	RotationPeriod	5.231968872939009	//in hours
-	Obliquity		151.736003606835
+	Radius		180.1174901916962	//in km
+	RotationPeriod	11.737275279665544	//in hours
+	Obliquity		274.71721902288584
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.731047604753037	//in AU
-		Eccentricity	0.1475015957974113
+		SemiMajorAxis	2.3597656797735436	//in AU
+		Eccentricity	0.1470746478359962
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3229726569500222
-		ArgOfPericenter	-0.044619812686817806
+		AscendingNode	242.12073790661293
+		ArgOfPericenter	0.308898417231923
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10528,18 +10518,18 @@ Asteroid "Alderaan fragment 500"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		114.52592544578901	//in km
-	RotationPeriod	14.58592841372146	//in hours
-	Obliquity		0.37611337502982956
+	Radius		299.59894528854994	//in km
+	RotationPeriod	12.250862169532184	//in hours
+	Obliquity		240.72873489794887
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.191602210502784	//in AU
-		Eccentricity	0.18874517897485235
+		SemiMajorAxis	2.6144203042027967	//in AU
+		Eccentricity	0.16945831117169147
 		Inclination		131.0	//in degrees
-		AscendingNode	0.12642736562411416
-		ArgOfPericenter	0.3058132585761697
+		AscendingNode	242.39093317836603
+		ArgOfPericenter	0.027701065655779122
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10549,18 +10539,18 @@ Asteroid "Alderaan fragment 501"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		78.11601463014138	//in km
-	RotationPeriod	14.666893880635607	//in hours
-	Obliquity		162.03544858314953
+	Radius		95.22676438170546	//in km
+	RotationPeriod	10.337891594475423	//in hours
+	Obliquity		238.4331603050348
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.717966829752454	//in AU
-		Eccentricity	0.14734974412206978
+		SemiMajorAxis	2.6266256001705526	//in AU
+		Eccentricity	0.14682725691904877
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1596818485979543
-		ArgOfPericenter	-0.031195503549323544
+		AscendingNode	241.70417848830425
+		ArgOfPericenter	0.04611847988557971
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10570,18 +10560,18 @@ Asteroid "Alderaan fragment 502"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		16.889556336242837	//in km
-	RotationPeriod	17.056600912985072	//in hours
-	Obliquity		88.3824928804672
+	Radius		110.10418322332656	//in km
+	RotationPeriod	9.954253792389355	//in hours
+	Obliquity		105.99985538548123
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.2638538704698514	//in AU
-		Eccentricity	0.19848341680676485
+		SemiMajorAxis	2.4842460844006884	//in AU
+		Eccentricity	0.1925564416860325
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1466492272348735
-		ArgOfPericenter	-0.12058958320003854
+		AscendingNode	241.91040813627228
+		ArgOfPericenter	0.411739105167349
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10591,18 +10581,18 @@ Asteroid "Alderaan fragment 503"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		140.8488995727893	//in km
-	RotationPeriod	21.688452290331846	//in hours
-	Obliquity		234.5981007332918
+	Radius		184.00289902799162	//in km
+	RotationPeriod	11.882539100610172	//in hours
+	Obliquity		244.44627832935373
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.626518766561795	//in AU
-		Eccentricity	0.15914574728030198
+		SemiMajorAxis	2.9264127233966106	//in AU
+		Eccentricity	0.18290015801914325
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.20770731496086925
-		ArgOfPericenter	0.3510214515040341
+		AscendingNode	241.88810174362962
+		ArgOfPericenter	-0.2771884396657853
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10612,18 +10602,18 @@ Asteroid "Alderaan fragment 504"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		159.60092612279834	//in km
-	RotationPeriod	12.657474328420506	//in hours
-	Obliquity		232.31364344487693
+	Radius		148.28204537489114	//in km
+	RotationPeriod	13.396466856471104	//in hours
+	Obliquity		235.3229754554243
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.51505500705256	//in AU
-		Eccentricity	0.1541546801121388
+		SemiMajorAxis	2.427432404394515	//in AU
+		Eccentricity	0.157349451766534
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.0816457107598112
-		ArgOfPericenter	-0.12611096461782356
+		AscendingNode	242.26730265997864
+		ArgOfPericenter	0.455061079301595
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10633,18 +10623,18 @@ Asteroid "Alderaan fragment 505"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		29.3161023258643	//in km
-	RotationPeriod	10.569083074776943	//in hours
-	Obliquity		91.96231109134459
+	Radius		144.04130012947792	//in km
+	RotationPeriod	15.634308401500213	//in hours
+	Obliquity		57.10076743351411
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.860356922216377	//in AU
-		Eccentricity	0.16525569454004893
+		SemiMajorAxis	2.50087206692047	//in AU
+		Eccentricity	0.1772227663400345
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3081133213636418
-		ArgOfPericenter	-0.017219972733934497
+		AscendingNode	241.67408561848728
+		ArgOfPericenter	0.17147364964903922
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10654,18 +10644,18 @@ Asteroid "Alderaan fragment 506"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		57.83181143205448	//in km
-	RotationPeriod	16.87384902164104	//in hours
-	Obliquity		171.30212110212537
+	Radius		174.77554638515392	//in km
+	RotationPeriod	14.266923978910372	//in hours
+	Obliquity		198.28046369710157
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.302417637307236	//in AU
-		Eccentricity	0.1656510910361854
+		SemiMajorAxis	2.2060293902205945	//in AU
+		Eccentricity	0.16535809330895324
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.09659320574932317
-		ArgOfPericenter	-0.18748410205195765
+		AscendingNode	241.85554475533434
+		ArgOfPericenter	0.3671488724901316
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10675,18 +10665,18 @@ Asteroid "Alderaan fragment 507"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		49.76510646077499	//in km
-	RotationPeriod	10.486352155790655	//in hours
-	Obliquity		82.78758579708035
+	Radius		202.4150962792781	//in km
+	RotationPeriod	12.421213115226237	//in hours
+	Obliquity		76.96838956250365
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.521913974967388	//in AU
-		Eccentricity	0.11092465523271092
+		SemiMajorAxis	2.7968373839636147	//in AU
+		Eccentricity	0.20002645706822858
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.39552523532870176
-		ArgOfPericenter	0.014204762485289457
+		AscendingNode	242.1708845550253
+		ArgOfPericenter	-0.4584351618878897
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10696,18 +10686,18 @@ Asteroid "Alderaan fragment 508"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		125.41311213900879	//in km
-	RotationPeriod	7.361042492233549	//in hours
-	Obliquity		222.6612440052658
+	Radius		196.6621089341329	//in km
+	RotationPeriod	13.173891298935672	//in hours
+	Obliquity		331.42884914312367
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3878215066889243	//in AU
-		Eccentricity	0.1585789555471824
+		SemiMajorAxis	2.554439953585135	//in AU
+		Eccentricity	0.1873393419813524
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2731652871283585
-		ArgOfPericenter	-0.25928984816327105
+		AscendingNode	241.8378838992566
+		ArgOfPericenter	-0.20142909221748606
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10717,18 +10707,18 @@ Asteroid "Alderaan fragment 509"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		82.25364190396036	//in km
-	RotationPeriod	13.812297382523541	//in hours
-	Obliquity		3.4980967394884743
+	Radius		141.06562628062056	//in km
+	RotationPeriod	3.4151223874334597	//in hours
+	Obliquity		210.94256086366264
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6178226292269753	//in AU
-		Eccentricity	0.14046393262734858
+		SemiMajorAxis	2.856099132144863	//in AU
+		Eccentricity	0.1727193291540072
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2622550224078093
-		ArgOfPericenter	0.07927920201349303
+		AscendingNode	241.62455837652902
+		ArgOfPericenter	0.3952304800432458
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10738,18 +10728,18 @@ Asteroid "Alderaan fragment 510"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		156.60551876886683	//in km
-	RotationPeriod	5.840180868777185	//in hours
-	Obliquity		186.44675318486094
+	Radius		151.50726716322748	//in km
+	RotationPeriod	14.242490570606563	//in hours
+	Obliquity		237.98967558806814
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6229642348999116	//in AU
-		Eccentricity	0.1969123734101246
+		SemiMajorAxis	2.947228001431168	//in AU
+		Eccentricity	0.15395582038810246
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2021366638125558
-		ArgOfPericenter	-0.18076351790132095
+		AscendingNode	241.86950977769197
+		ArgOfPericenter	0.10724605756507333
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10759,18 +10749,18 @@ Asteroid "Alderaan fragment 511"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.3403891458513453	//in km
-	RotationPeriod	11.395998066764195	//in hours
-	Obliquity		57.755515933220174
+	Radius		114.0891651200143	//in km
+	RotationPeriod	7.588328189390549	//in hours
+	Obliquity		275.30399099819005
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.429556561939551	//in AU
-		Eccentricity	0.21638301505690927
+		SemiMajorAxis	2.948351937328076	//in AU
+		Eccentricity	0.16120815443296183
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.13215367197532568
-		ArgOfPericenter	0.16728485590120024
+		AscendingNode	241.8033308377031
+		ArgOfPericenter	-0.4634736335735806
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10780,18 +10770,18 @@ Asteroid "Alderaan fragment 512"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		157.89943534934872	//in km
-	RotationPeriod	9.894926744586364	//in hours
-	Obliquity		17.767991229186258
+	Radius		144.1247888247225	//in km
+	RotationPeriod	14.034998121495711	//in hours
+	Obliquity		53.516401632238264
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.738417867834505	//in AU
-		Eccentricity	0.18938101597712914
+		SemiMajorAxis	2.525320770363207	//in AU
+		Eccentricity	0.19570003417358584
 		Inclination		131.0	//in degrees
-		AscendingNode	0.47957387194061907
-		ArgOfPericenter	-0.3462224618388233
+		AscendingNode	242.22513107552413
+		ArgOfPericenter	0.13364102865548977
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10801,18 +10791,18 @@ Asteroid "Alderaan fragment 513"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		31.661402075807388	//in km
-	RotationPeriod	12.514947061113803	//in hours
-	Obliquity		224.1665521555401
+	Radius		149.3709629076523	//in km
+	RotationPeriod	14.225207138058868	//in hours
+	Obliquity		226.3070416176854
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5260048034522025	//in AU
-		Eccentricity	0.1176581306283972
+		SemiMajorAxis	2.329711553761719	//in AU
+		Eccentricity	0.16468001152689055
 		Inclination		131.0	//in degrees
-		AscendingNode	0.30951898900798813
-		ArgOfPericenter	0.3262525444836659
+		AscendingNode	242.34274815073405
+		ArgOfPericenter	-0.26884663282068344
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10822,18 +10812,18 @@ Asteroid "Alderaan fragment 514"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		40.57363393006958	//in km
-	RotationPeriod	17.634193388647837	//in hours
-	Obliquity		102.64881370529498
+	Radius		107.9893964240845	//in km
+	RotationPeriod	8.017679703904271	//in hours
+	Obliquity		224.80153769620097
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0889608774817985	//in AU
-		Eccentricity	0.1837739393207067
+		SemiMajorAxis	2.396965933619377	//in AU
+		Eccentricity	0.17587673436002654
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.10983502181054738
-		ArgOfPericenter	0.20028755836305356
+		AscendingNode	242.45888148126474
+		ArgOfPericenter	0.16012222771552898
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10843,18 +10833,18 @@ Asteroid "Alderaan fragment 515"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		18.46740421132385	//in km
-	RotationPeriod	16.953521260693986	//in hours
-	Obliquity		121.45854231106019
+	Radius		187.87478347988747	//in km
+	RotationPeriod	11.66501402021	//in hours
+	Obliquity		271.97646789098894
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.588523322828284	//in AU
-		Eccentricity	0.18977494323942684
+		SemiMajorAxis	2.283795728329774	//in AU
+		Eccentricity	0.16873560829363432
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3875948146489815
-		ArgOfPericenter	-0.3957493825465309
+		AscendingNode	242.20100831967332
+		ArgOfPericenter	-0.2945670306544561
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10864,18 +10854,18 @@ Asteroid "Alderaan fragment 516"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		72.4455801157644	//in km
-	RotationPeriod	7.507495881621831	//in hours
-	Obliquity		278.9230736963285
+	Radius		81.41944935471784	//in km
+	RotationPeriod	11.380964523922133	//in hours
+	Obliquity		208.84662700601902
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1070939545837395	//in AU
-		Eccentricity	0.177392863378215
+		SemiMajorAxis	2.5508195133174203	//in AU
+		Eccentricity	0.18093011090324815
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4250464351676312
-		ArgOfPericenter	-0.38320133030711967
+		AscendingNode	241.78191009900314
+		ArgOfPericenter	-0.4322279339302524
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10885,18 +10875,18 @@ Asteroid "Alderaan fragment 517"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.797960760865717	//in km
-	RotationPeriod	11.547520077888208	//in hours
-	Obliquity		156.9573376188697
+	Radius		187.59475409554605	//in km
+	RotationPeriod	17.15146364993109	//in hours
+	Obliquity		238.99794648717304
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4451228543529946	//in AU
-		Eccentricity	0.1626126295296657
+		SemiMajorAxis	2.5276924891623316	//in AU
+		Eccentricity	0.1856336679139353
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2711667864672883
-		ArgOfPericenter	0.22959601375067373
+		AscendingNode	241.96629821542047
+		ArgOfPericenter	0.34432941914126747
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10906,18 +10896,18 @@ Asteroid "Alderaan fragment 518"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		99.56595235273451	//in km
-	RotationPeriod	5.829483266046659	//in hours
-	Obliquity		111.05214520759553
+	Radius		144.5695811692408	//in km
+	RotationPeriod	15.917097766858877	//in hours
+	Obliquity		86.83120704217004
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.326696868629109	//in AU
-		Eccentricity	0.2265480514186472
+		SemiMajorAxis	2.5480024923826763	//in AU
+		Eccentricity	0.1490767559033469
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4874371107230149
-		ArgOfPericenter	-0.3207883094813144
+		AscendingNode	242.49165965917433
+		ArgOfPericenter	-0.43063724949189597
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10927,18 +10917,18 @@ Asteroid "Alderaan fragment 519"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		21.477574578538626	//in km
-	RotationPeriod	12.202862319571588	//in hours
-	Obliquity		117.66351706822688
+	Radius		192.31402952015804	//in km
+	RotationPeriod	11.303519161528092	//in hours
+	Obliquity		237.97191983892347
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.113227108742757	//in AU
-		Eccentricity	0.15991916929515262
+		SemiMajorAxis	2.1441746110609867	//in AU
+		Eccentricity	0.16552567758822742
 		Inclination		131.0	//in degrees
-		AscendingNode	0.034703608574340405
-		ArgOfPericenter	0.25418007693873845
+		AscendingNode	241.8579614482834
+		ArgOfPericenter	0.46907811955227796
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10948,18 +10938,18 @@ Asteroid "Alderaan fragment 520"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		109.88398243805669	//in km
-	RotationPeriod	14.414714581131076	//in hours
-	Obliquity		89.62592182910068
+	Radius		159.69915524740037	//in km
+	RotationPeriod	8.647853090839504	//in hours
+	Obliquity		163.82739652616556
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.45199552089926	//in AU
-		Eccentricity	0.11409529301477485
+		SemiMajorAxis	2.5329330294958323	//in AU
+		Eccentricity	0.1818055275760493
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3971280493545929
-		ArgOfPericenter	-0.06734929321334038
+		AscendingNode	242.11378910520577
+		ArgOfPericenter	0.04813317172374132
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10969,18 +10959,18 @@ Asteroid "Alderaan fragment 521"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		34.77790389287113	//in km
-	RotationPeriod	11.036444531376802	//in hours
-	Obliquity		26.07040276852254
+	Radius		222.85644179724292	//in km
+	RotationPeriod	7.112675951550682	//in hours
+	Obliquity		36.50322025938902
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.041369677392447	//in AU
-		Eccentricity	0.1674696152777109
+		SemiMajorAxis	2.2637631137975527	//in AU
+		Eccentricity	0.14466312189598865
 		Inclination		131.0	//in degrees
-		AscendingNode	0.42857970050290906
-		ArgOfPericenter	0.3781252584641699
+		AscendingNode	241.65999085742982
+		ArgOfPericenter	0.1859797442813088
 		RefPlane		"Ecliptic"
 	}
 }
@@ -10990,18 +10980,18 @@ Asteroid "Alderaan fragment 522"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		134.33019871416568	//in km
-	RotationPeriod	9.477581086879812	//in hours
-	Obliquity		210.19634818104893
+	Radius		78.22875206557364	//in km
+	RotationPeriod	4.540685950287349	//in hours
+	Obliquity		178.2202974003117
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.399242405210953	//in AU
-		Eccentricity	0.1377419190388739
+		SemiMajorAxis	2.622329700676231	//in AU
+		Eccentricity	0.14776410556962946
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2792931147892439
-		ArgOfPericenter	0.10939863961547436
+		AscendingNode	241.7066903525457
+		ArgOfPericenter	-0.2023558921104539
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11011,18 +11001,18 @@ Asteroid "Alderaan fragment 523"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		232.91121255894953	//in km
-	RotationPeriod	11.440224802139038	//in hours
-	Obliquity		279.51045642616964
+	Radius		109.28671917692296	//in km
+	RotationPeriod	17.85295888008624	//in hours
+	Obliquity		265.72526853563096
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.071730761938967	//in AU
-		Eccentricity	0.13731649912853594
+		SemiMajorAxis	2.8030926665618923	//in AU
+		Eccentricity	0.18482967846968523
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1713760047193591
-		ArgOfPericenter	-0.21585059035490528
+		AscendingNode	242.46427654766006
+		ArgOfPericenter	0.14258852697609314
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11032,18 +11022,18 @@ Asteroid "Alderaan fragment 524"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		75.93223149548906	//in km
-	RotationPeriod	11.798043357843994	//in hours
-	Obliquity		62.74414426402023
+	Radius		202.37778839645424	//in km
+	RotationPeriod	11.608031187446757	//in hours
+	Obliquity		358.0045299295161
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5534216045101705	//in AU
-		Eccentricity	0.15476039194072713
+		SemiMajorAxis	2.5405167163259237	//in AU
+		Eccentricity	0.18624656352800734
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1890718151334254
-		ArgOfPericenter	0.08559809213256553
+		AscendingNode	241.68431652699786
+		ArgOfPericenter	-0.23072382609075648
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11053,18 +11043,18 @@ Asteroid "Alderaan fragment 525"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		138.28684380852746	//in km
-	RotationPeriod	15.179749475611532	//in hours
-	Obliquity		136.81625898539676
+	Radius		202.0241062103806	//in km
+	RotationPeriod	17.17503495852805	//in hours
+	Obliquity		302.74215525020566
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8907574813390884	//in AU
-		Eccentricity	0.1152138688874899
+		SemiMajorAxis	2.200035340295969	//in AU
+		Eccentricity	0.16609529592776404
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4860788597731227
-		ArgOfPericenter	0.49363981969073234
+		AscendingNode	242.09681205573025
+		ArgOfPericenter	0.3698092977577929
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11074,18 +11064,18 @@ Asteroid "Alderaan fragment 526"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		10.072595626644201	//in km
-	RotationPeriod	9.61769081058185	//in hours
-	Obliquity		59.71470861185015
+	Radius		96.34594758209752	//in km
+	RotationPeriod	6.159315289543319	//in hours
+	Obliquity		289.689898714581
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.589517749745717	//in AU
-		Eccentricity	0.14703825262885084
+		SemiMajorAxis	3.1273742267066753	//in AU
+		Eccentricity	0.18826675697431255
 		Inclination		131.0	//in degrees
-		AscendingNode	0.06410158362759666
-		ArgOfPericenter	0.04935638496989314
+		AscendingNode	241.78065566816684
+		ArgOfPericenter	-0.3989733473940221
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11095,18 +11085,18 @@ Asteroid "Alderaan fragment 527"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		83.97690934663203	//in km
-	RotationPeriod	6.980488352110001	//in hours
-	Obliquity		8.884632509962692
+	Radius		219.7131997267922	//in km
+	RotationPeriod	12.535837150051693	//in hours
+	Obliquity		353.58453075224503
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7183790188943737	//in AU
-		Eccentricity	0.19462782194712255
+		SemiMajorAxis	2.891291455704212	//in AU
+		Eccentricity	0.15598488131976843
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.09136401680890827
-		ArgOfPericenter	-0.3734040182494336
+		AscendingNode	241.67118000156756
+		ArgOfPericenter	0.4465553628463518
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11116,18 +11106,18 @@ Asteroid "Alderaan fragment 528"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		63.358937537155896	//in km
-	RotationPeriod	7.70875424341085	//in hours
-	Obliquity		148.000197342376
+	Radius		147.76995938005476	//in km
+	RotationPeriod	19.222432415672657	//in hours
+	Obliquity		226.0279207437419
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.749777243060208	//in AU
-		Eccentricity	0.13693959210809659
+		SemiMajorAxis	2.596310035674057	//in AU
+		Eccentricity	0.15496414483628326
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.12564964114093913
-		ArgOfPericenter	-0.40106979639050855
+		AscendingNode	241.75787940577072
+		ArgOfPericenter	0.11840983785967985
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11137,18 +11127,18 @@ Asteroid "Alderaan fragment 529"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		63.91161261407476	//in km
-	RotationPeriod	7.7533016236916765	//in hours
-	Obliquity		308.21414927108225
+	Radius		52.358721334314026	//in km
+	RotationPeriod	13.098312713447223	//in hours
+	Obliquity		200.42145344449716
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.366171147212122	//in AU
-		Eccentricity	0.1679199152549342
+		SemiMajorAxis	2.709104366131903	//in AU
+		Eccentricity	0.1819293572083095
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.029946602177286397
-		ArgOfPericenter	-0.033665623647355813
+		AscendingNode	242.3468748682948
+		ArgOfPericenter	-0.04689937596398375
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11158,18 +11148,18 @@ Asteroid "Alderaan fragment 530"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		28.676957833916738	//in km
-	RotationPeriod	8.449245525912868	//in hours
-	Obliquity		212.33011586212746
+	Radius		137.11978822333572	//in km
+	RotationPeriod	11.438551409778002	//in hours
+	Obliquity		24.202880975157623
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.2369599673343594	//in AU
-		Eccentricity	0.1919083345459595
+		SemiMajorAxis	2.633095451071491	//in AU
+		Eccentricity	0.1511961152228896
 		Inclination		131.0	//in degrees
-		AscendingNode	0.11717073870896533
-		ArgOfPericenter	-0.07782479867973491
+		AscendingNode	241.68795008703495
+		ArgOfPericenter	-0.3135229319027939
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11179,18 +11169,18 @@ Asteroid "Alderaan fragment 531"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		144.59823884333844	//in km
-	RotationPeriod	12.202061941928909	//in hours
-	Obliquity		254.19252252906537
+	Radius		92.8237855979809	//in km
+	RotationPeriod	11.841162524067132	//in hours
+	Obliquity		273.7973012751614
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.603045053875036	//in AU
-		Eccentricity	0.17368872518551476
+		SemiMajorAxis	2.4848433118369493	//in AU
+		Eccentricity	0.16057308275319046
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.03872824537284303
-		ArgOfPericenter	-0.4648072395425935
+		AscendingNode	242.1142746838956
+		ArgOfPericenter	0.27309370723854387
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11200,18 +11190,18 @@ Asteroid "Alderaan fragment 532"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		41.39560138981767	//in km
-	RotationPeriod	9.663523253899086	//in hours
-	Obliquity		151.55022699516914
+	Radius		194.9014545679528	//in km
+	RotationPeriod	11.588467889533941	//in hours
+	Obliquity		112.09854612629539
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.850924202921891	//in AU
-		Eccentricity	0.14382869427607856
+		SemiMajorAxis	2.4711911626982674	//in AU
+		Eccentricity	0.13775952851227252
 		Inclination		131.0	//in degrees
-		AscendingNode	0.065780965071351
-		ArgOfPericenter	-0.2548464470708397
+		AscendingNode	242.26391149112882
+		ArgOfPericenter	-0.44756466678304796
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11221,18 +11211,18 @@ Asteroid "Alderaan fragment 533"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		68.86394852602518	//in km
-	RotationPeriod	7.054145584592971	//in hours
-	Obliquity		134.76437870963807
+	Radius		284.0864370929191	//in km
+	RotationPeriod	11.775790332009647	//in hours
+	Obliquity		46.64471602102737
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9874297550591393	//in AU
-		Eccentricity	0.1479944014128582
+		SemiMajorAxis	2.666174792520024	//in AU
+		Eccentricity	0.15221494793098106
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.354440512493017
-		ArgOfPericenter	0.025270348498401263
+		AscendingNode	242.05098007871183
+		ArgOfPericenter	0.4923110002294714
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11242,18 +11232,18 @@ Asteroid "Alderaan fragment 534"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		81.60001711196352	//in km
-	RotationPeriod	16.90736464016261	//in hours
-	Obliquity		283.3147687014241
+	Radius		84.56154964163903	//in km
+	RotationPeriod	13.015929710095538	//in hours
+	Obliquity		111.21151128345852
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5847041915728006	//in AU
-		Eccentricity	0.14243333125424498
+		SemiMajorAxis	2.6298920437887827	//in AU
+		Eccentricity	0.15494152022156404
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3605717479031605
-		ArgOfPericenter	-0.44240535981273266
+		AscendingNode	241.67445666328487
+		ArgOfPericenter	-0.16932591747636216
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11263,18 +11253,18 @@ Asteroid "Alderaan fragment 535"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		136.18016324643781	//in km
-	RotationPeriod	10.054843406680078	//in hours
-	Obliquity		220.349581002589
+	Radius		123.98001245045178	//in km
+	RotationPeriod	11.607545256218158	//in hours
+	Obliquity		284.34100846570755
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.878955355238384	//in AU
-		Eccentricity	0.20046489447359261
+		SemiMajorAxis	2.7908220751978194	//in AU
+		Eccentricity	0.1400033999784012
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2981075045077536
-		ArgOfPericenter	-0.16014306637237186
+		AscendingNode	241.8409841820317
+		ArgOfPericenter	0.18001162384323932
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11284,18 +11274,18 @@ Asteroid "Alderaan fragment 536"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		45.42981554735976	//in km
-	RotationPeriod	10.379672520526208	//in hours
-	Obliquity		231.1371966264201
+	Radius		125.02843076236266	//in km
+	RotationPeriod	16.068570214806357	//in hours
+	Obliquity		161.9158647074008
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6204390016625365	//in AU
-		Eccentricity	0.11921112643872284
+		SemiMajorAxis	2.464905487778445	//in AU
+		Eccentricity	0.15066753935480912
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4054722112865
-		ArgOfPericenter	0.283322994429418
+		AscendingNode	242.48611585930487
+		ArgOfPericenter	-0.09711380181587315
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11305,18 +11295,18 @@ Asteroid "Alderaan fragment 537"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		17.441440133037414	//in km
-	RotationPeriod	20.26478574937611	//in hours
-	Obliquity		354.4723090841561
+	Radius		162.6946620925926	//in km
+	RotationPeriod	11.09411234079472	//in hours
+	Obliquity		319.6616318834906
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.606455987782648	//in AU
-		Eccentricity	0.1549419083076172
+		SemiMajorAxis	2.2800001616323544	//in AU
+		Eccentricity	0.16929191678616393
 		Inclination		131.0	//in degrees
-		AscendingNode	0.007536323426707736
-		ArgOfPericenter	-0.13497310967671927
+		AscendingNode	241.64072866745104
+		ArgOfPericenter	0.0888682512655139
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11326,18 +11316,18 @@ Asteroid "Alderaan fragment 538"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		81.83245917942268	//in km
-	RotationPeriod	13.181834657327787	//in hours
-	Obliquity		183.10335284798145
+	Radius		137.84058846340398	//in km
+	RotationPeriod	10.66056264610658	//in hours
+	Obliquity		149.28036417972712
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3134525474208756	//in AU
-		Eccentricity	0.1542851416377594
+		SemiMajorAxis	2.4719438075645788	//in AU
+		Eccentricity	0.16185321569648048
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.10310544353311613
-		ArgOfPericenter	0.3185707280236838
+		AscendingNode	241.97438503649627
+		ArgOfPericenter	0.26316296902659564
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11347,18 +11337,18 @@ Asteroid "Alderaan fragment 539"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		159.91064262759377	//in km
-	RotationPeriod	16.36197064601281	//in hours
-	Obliquity		133.29045759081203
+	Radius		249.2383950660306	//in km
+	RotationPeriod	16.980271673551933	//in hours
+	Obliquity		132.2277998296425
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.716353407497665	//in AU
-		Eccentricity	0.18951717668416412
+		SemiMajorAxis	2.70198341138495	//in AU
+		Eccentricity	0.17018718409887268
 		Inclination		131.0	//in degrees
-		AscendingNode	0.04827502215644075
-		ArgOfPericenter	0.38465442188939014
+		AscendingNode	242.02051331161007
+		ArgOfPericenter	-0.21579898268048248
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11368,18 +11358,18 @@ Asteroid "Alderaan fragment 540"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		44.753980099037356	//in km
-	RotationPeriod	10.88849946789621	//in hours
-	Obliquity		261.4310007604928
+	Radius		185.77637587025015	//in km
+	RotationPeriod	14.344539622085904	//in hours
+	Obliquity		104.63953612436552
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.660137045537647	//in AU
-		Eccentricity	0.16842071215401233
+		SemiMajorAxis	2.229860970230226	//in AU
+		Eccentricity	0.12865814722867927
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.032556616111593994
-		ArgOfPericenter	-0.10318068039755934
+		AscendingNode	241.80925710613272
+		ArgOfPericenter	-0.45256018514255236
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11389,18 +11379,18 @@ Asteroid "Alderaan fragment 541"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.417910036115885	//in km
-	RotationPeriod	22.160076828426966	//in hours
-	Obliquity		319.29169298430213
+	Radius		120.24208121773907	//in km
+	RotationPeriod	15.975349940348151	//in hours
+	Obliquity		87.42387879195898
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.101431297574318	//in AU
-		Eccentricity	0.17160293073833774
+		SemiMajorAxis	2.459672714390313	//in AU
+		Eccentricity	0.16740505067283615
 		Inclination		131.0	//in degrees
-		AscendingNode	0.07611228514735002
-		ArgOfPericenter	-0.3064983089571496
+		AscendingNode	242.1330819882992
+		ArgOfPericenter	0.37886440820130574
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11410,18 +11400,18 @@ Asteroid "Alderaan fragment 542"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		106.7747656564676	//in km
-	RotationPeriod	13.531382405222812	//in hours
-	Obliquity		140.57461001767044
+	Radius		150.4463629955856	//in km
+	RotationPeriod	18.974152987509473	//in hours
+	Obliquity		245.69368831596566
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.657731554216004	//in AU
-		Eccentricity	0.17295655203073787
+		SemiMajorAxis	2.306987639073035	//in AU
+		Eccentricity	0.15262138524780428
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.338072939737059
-		ArgOfPericenter	0.2350151765279167
+		AscendingNode	241.59568685125464
+		ArgOfPericenter	-0.47335923462500595
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11431,18 +11421,18 @@ Asteroid "Alderaan fragment 543"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		205.8466635925855	//in km
-	RotationPeriod	10.277657540244995	//in hours
-	Obliquity		136.81996493150933
+	Radius		106.3477238290758	//in km
+	RotationPeriod	6.243869940688665	//in hours
+	Obliquity		189.56054023005365
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4842776448484782	//in AU
-		Eccentricity	0.14665202381852718
+		SemiMajorAxis	2.3564592917112317	//in AU
+		Eccentricity	0.17716180353248834
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.38008069104380926
-		ArgOfPericenter	0.001702449338708334
+		AscendingNode	242.29025075840448
+		ArgOfPericenter	-0.16914837423111495
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11452,18 +11442,18 @@ Asteroid "Alderaan fragment 544"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		18.700028488388007	//in km
-	RotationPeriod	6.974010891245544	//in hours
-	Obliquity		91.47716073950679
+	Radius		132.383944546274	//in km
+	RotationPeriod	8.13291865301024	//in hours
+	Obliquity		6.759271360828363
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7099374409287273	//in AU
-		Eccentricity	0.20163758897929832
+		SemiMajorAxis	2.673759824081236	//in AU
+		Eccentricity	0.1638975181043883
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4477179293223341
-		ArgOfPericenter	-0.290034133587021
+		AscendingNode	242.43493945889819
+		ArgOfPericenter	0.37078783928745673
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11473,18 +11463,18 @@ Asteroid "Alderaan fragment 545"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		13.389983838773784	//in km
-	RotationPeriod	13.358857457141525	//in hours
-	Obliquity		46.824992294213196
+	Radius		100.28364577305203	//in km
+	RotationPeriod	8.152907116175616	//in hours
+	Obliquity		32.742273044799
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9499545962345834	//in AU
-		Eccentricity	0.16496372282677002
+		SemiMajorAxis	2.421071917606745	//in AU
+		Eccentricity	0.14795212538405472
 		Inclination		131.0	//in degrees
-		AscendingNode	0.09492569189756206
-		ArgOfPericenter	0.33990635536270253
+		AscendingNode	241.92760668714712
+		ArgOfPericenter	-0.3438512780038223
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11494,18 +11484,18 @@ Asteroid "Alderaan fragment 546"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		49.60380295413075	//in km
-	RotationPeriod	15.002711522679823	//in hours
-	Obliquity		89.22723338898807
+	Radius		66.64960160265832	//in km
+	RotationPeriod	5.907809266464133	//in hours
+	Obliquity		47.33469000807694
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.305868759288802	//in AU
-		Eccentricity	0.16957283911409315
+		SemiMajorAxis	2.858551069525878	//in AU
+		Eccentricity	0.15636681401758942
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.034345178284323374
-		ArgOfPericenter	0.07476067872930547
+		AscendingNode	242.43555497297555
+		ArgOfPericenter	-0.17542588593283837
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11515,18 +11505,18 @@ Asteroid "Alderaan fragment 547"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		14.048782858897685	//in km
-	RotationPeriod	9.455395439793953	//in hours
-	Obliquity		75.15259563019818
+	Radius		238.84122101396164	//in km
+	RotationPeriod	12.892968239568045	//in hours
+	Obliquity		187.07203828402388
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.470247221781277	//in AU
-		Eccentricity	0.18521450997634667
+		SemiMajorAxis	2.66716453589348	//in AU
+		Eccentricity	0.1705471696368319
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.12916831611533242
-		ArgOfPericenter	-0.4086116318578803
+		AscendingNode	242.15138937898212
+		ArgOfPericenter	0.12477794480679971
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11536,18 +11526,18 @@ Asteroid "Alderaan fragment 548"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		171.22745459627632	//in km
-	RotationPeriod	14.268043123171068	//in hours
-	Obliquity		104.00240762714684
+	Radius		131.66310347061776	//in km
+	RotationPeriod	14.171204746056357	//in hours
+	Obliquity		63.618232499993205
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.694963851694461	//in AU
-		Eccentricity	0.17889006923366688
+		SemiMajorAxis	2.0155270851753597	//in AU
+		Eccentricity	0.20486810131897046
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19975776499430098
-		ArgOfPericenter	-0.3423129637694301
+		AscendingNode	241.67900057873138
+		ArgOfPericenter	0.2213276166157251
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11557,18 +11547,18 @@ Asteroid "Alderaan fragment 549"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		13.418922250249139	//in km
-	RotationPeriod	12.20344598408573	//in hours
-	Obliquity		212.23867681295783
+	Radius		211.27794165701005	//in km
+	RotationPeriod	15.272318422018223	//in hours
+	Obliquity		322.21456050412587
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0375445268834858	//in AU
-		Eccentricity	0.1828813530690201
+		SemiMajorAxis	2.159016732029651	//in AU
+		Eccentricity	0.18210730020876667
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.23927474639525026
-		ArgOfPericenter	0.2536504188634572
+		AscendingNode	242.39037237630035
+		ArgOfPericenter	0.2910500447676049
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11578,18 +11568,18 @@ Asteroid "Alderaan fragment 550"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		136.521912772211	//in km
-	RotationPeriod	16.691565622417738	//in hours
-	Obliquity		242.64383215602712
+	Radius		206.05852668107707	//in km
+	RotationPeriod	11.450633484027948	//in hours
+	Obliquity		89.95815847387695
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8182714779274542	//in AU
-		Eccentricity	0.17602742344407382
+		SemiMajorAxis	2.4339541007150984	//in AU
+		Eccentricity	0.1767850960926384
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.26492749056085185
-		ArgOfPericenter	-0.1504766446966962
+		AscendingNode	241.54450124641787
+		ArgOfPericenter	-0.325345500813509
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11599,18 +11589,18 @@ Asteroid "Alderaan fragment 551"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		91.96768527635523	//in km
-	RotationPeriod	10.878152666849457	//in hours
-	Obliquity		119.99464377354637
+	Radius		139.79687472894952	//in km
+	RotationPeriod	11.656544834708514	//in hours
+	Obliquity		341.5691048768152
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2607465821703756	//in AU
-		Eccentricity	0.15357231600692958
+		SemiMajorAxis	2.522659506934189	//in AU
+		Eccentricity	0.15773308178274237
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.08541499090459514
-		ArgOfPericenter	0.4671444627728111
+		AscendingNode	242.32995132929884
+		ArgOfPericenter	-0.3237453268167373
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11620,18 +11610,18 @@ Asteroid "Alderaan fragment 552"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.896730388254793	//in km
-	RotationPeriod	16.57164588252372	//in hours
-	Obliquity		246.11682013874412
+	Radius		178.79513655127317	//in km
+	RotationPeriod	9.813320234492645	//in hours
+	Obliquity		73.42929423901778
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.108477291366358	//in AU
-		Eccentricity	0.17149995438836224
+		SemiMajorAxis	2.586870523345474	//in AU
+		Eccentricity	0.1488135464174387
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.24512757611823266
-		ArgOfPericenter	0.07173977474097049
+		AscendingNode	242.4142318928015
+		ArgOfPericenter	-0.4171856110487526
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11641,18 +11631,18 @@ Asteroid "Alderaan fragment 553"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		41.323378181989206	//in km
-	RotationPeriod	11.145825132984902	//in hours
-	Obliquity		243.0977729932944
+	Radius		168.48948368425974	//in km
+	RotationPeriod	6.548231162872073	//in hours
+	Obliquity		297.6604839151974
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.542146098874811	//in AU
-		Eccentricity	0.1879352603006774
+		SemiMajorAxis	2.7779175458375573	//in AU
+		Eccentricity	0.1710861113905641
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4230822385856813
-		ArgOfPericenter	0.4586890285371459
+		AscendingNode	242.1931123527768
+		ArgOfPericenter	0.2848599059324991
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11662,18 +11652,18 @@ Asteroid "Alderaan fragment 554"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		111.22146974618596	//in km
-	RotationPeriod	11.250932584252464	//in hours
-	Obliquity		167.20065172637825
+	Radius		205.72582931030237	//in km
+	RotationPeriod	10.223586039916635	//in hours
+	Obliquity		137.4230061067014
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7559839538103605	//in AU
-		Eccentricity	0.12777960722375514
+		SemiMajorAxis	2.8580071643145386	//in AU
+		Eccentricity	0.16070662062961308
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2391142313477116
-		ArgOfPericenter	-0.03770677423411051
+		AscendingNode	241.50807059500352
+		ArgOfPericenter	-0.23155914429770696
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11683,18 +11673,18 @@ Asteroid "Alderaan fragment 555"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		35.405131935930044	//in km
-	RotationPeriod	10.245412839606496	//in hours
-	Obliquity		203.61428254529167
+	Radius		202.9624206328358	//in km
+	RotationPeriod	15.289509555932115	//in hours
+	Obliquity		85.2231716408925
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5460544006599153	//in AU
-		Eccentricity	0.1612338995303114
+		SemiMajorAxis	2.86476281432615	//in AU
+		Eccentricity	0.17315738134423675
 		Inclination		131.0	//in degrees
-		AscendingNode	0.23785334137771663
-		ArgOfPericenter	-0.33317202482697206
+		AscendingNode	242.39448426766373
+		ArgOfPericenter	-0.18196544436826
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11704,18 +11694,18 @@ Asteroid "Alderaan fragment 556"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		82.33252310356204	//in km
-	RotationPeriod	20.772773420376765	//in hours
-	Obliquity		198.8133777675792
+	Radius		68.97420616889171	//in km
+	RotationPeriod	8.624959426815517	//in hours
+	Obliquity		98.80118564550108
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3530449678453498	//in AU
-		Eccentricity	0.15182960634757356
+		SemiMajorAxis	3.1997694231560914	//in AU
+		Eccentricity	0.1522867250788039
 		Inclination		131.0	//in degrees
-		AscendingNode	0.16925382686363222
-		ArgOfPericenter	0.3214415041931008
+		AscendingNode	241.5040653900153
+		ArgOfPericenter	0.014718357078676636
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11725,18 +11715,18 @@ Asteroid "Alderaan fragment 557"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		33.621279356492195	//in km
-	RotationPeriod	20.839453989658914	//in hours
-	Obliquity		294.799486462588
+	Radius		224.32173432634707	//in km
+	RotationPeriod	9.376993416784359	//in hours
+	Obliquity		206.8016843455774
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.444518724342492	//in AU
-		Eccentricity	0.1748530565155632
+		SemiMajorAxis	2.4572155960729964	//in AU
+		Eccentricity	0.1848599771044742
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.12888429225171116
-		ArgOfPericenter	0.009855410684952104
+		AscendingNode	242.24182953666227
+		ArgOfPericenter	0.06630548014375381
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11746,18 +11736,18 @@ Asteroid "Alderaan fragment 558"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		94.75129416412918	//in km
-	RotationPeriod	14.716445923416948	//in hours
-	Obliquity		242.63447786770647
+	Radius		112.42526746245319	//in km
+	RotationPeriod	12.868935396025984	//in hours
+	Obliquity		101.21630540868289
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1336105353940544	//in AU
-		Eccentricity	0.19124370356814552
+		SemiMajorAxis	2.744591546226533	//in AU
+		Eccentricity	0.18069314085878846
 		Inclination		131.0	//in degrees
-		AscendingNode	0.37720142286107117
-		ArgOfPericenter	0.41326547083863996
+		AscendingNode	242.01716266753425
+		ArgOfPericenter	-0.38423785094074947
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11767,18 +11757,18 @@ Asteroid "Alderaan fragment 559"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		116.0377491798916	//in km
-	RotationPeriod	10.157794722119343	//in hours
-	Obliquity		146.07078425020575
+	Radius		177.31087523341384	//in km
+	RotationPeriod	13.42859563460277	//in hours
+	Obliquity		328.3212304323931
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3450422427029647	//in AU
-		Eccentricity	0.17005266412149722
+		SemiMajorAxis	2.616610519809536	//in AU
+		Eccentricity	0.16620888924232483
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2370692671153638
-		ArgOfPericenter	-0.30983096552591527
+		AscendingNode	241.70505260306282
+		ArgOfPericenter	-0.48857822907308257
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11788,18 +11778,18 @@ Asteroid "Alderaan fragment 560"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.351909671731377	//in km
-	RotationPeriod	5.732904853225707	//in hours
-	Obliquity		288.1019445459322
+	Radius		116.7164878959776	//in km
+	RotationPeriod	7.76126848670069	//in hours
+	Obliquity		130.529526973108
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7866346172720924	//in AU
-		Eccentricity	0.21014748805145922
+		SemiMajorAxis	3.0698769972862636	//in AU
+		Eccentricity	0.16562344376614924
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.11210069917908683
-		ArgOfPericenter	-0.41331340638313263
+		AscendingNode	242.45935081675034
+		ArgOfPericenter	-0.2298022429134009
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11809,18 +11799,18 @@ Asteroid "Alderaan fragment 561"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		28.316926175550094	//in km
-	RotationPeriod	18.902735722897937	//in hours
-	Obliquity		326.98885716252
+	Radius		243.61837159834252	//in km
+	RotationPeriod	12.335853865498757	//in hours
+	Obliquity		130.25356116192117
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.417290042175111	//in AU
-		Eccentricity	0.1622174861557176
+		SemiMajorAxis	2.562178808141767	//in AU
+		Eccentricity	0.13189506909382342
 		Inclination		131.0	//in degrees
-		AscendingNode	0.08009549412433803
-		ArgOfPericenter	-0.20382571842609365
+		AscendingNode	241.89185722332994
+		ArgOfPericenter	0.40292646538286636
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11830,18 +11820,18 @@ Asteroid "Alderaan fragment 562"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		117.47032467535342	//in km
-	RotationPeriod	10.642638849751599	//in hours
-	Obliquity		39.84062443865044
+	Radius		220.1429541017593	//in km
+	RotationPeriod	14.076278473186166	//in hours
+	Obliquity		120.52034404189203
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4470163006004784	//in AU
-		Eccentricity	0.1805297517060938
+		SemiMajorAxis	2.300816642580144	//in AU
+		Eccentricity	0.17737000944815265
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19083469845404422
-		ArgOfPericenter	-0.41812447991855073
+		AscendingNode	241.5776104210088
+		ArgOfPericenter	0.024375390925443496
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11851,18 +11841,18 @@ Asteroid "Alderaan fragment 563"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		127.05565697021757	//in km
-	RotationPeriod	9.865173197275316	//in hours
-	Obliquity		341.2385071811309
+	Radius		242.5149141105564	//in km
+	RotationPeriod	6.551620707125045	//in hours
+	Obliquity		223.80900141123445
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2076426025373546	//in AU
-		Eccentricity	0.16371088917084162
+		SemiMajorAxis	2.6875046190319134	//in AU
+		Eccentricity	0.11573968941072146
 		Inclination		131.0	//in degrees
-		AscendingNode	0.39093235455750386
-		ArgOfPericenter	0.20272786275952814
+		AscendingNode	241.73664697254048
+		ArgOfPericenter	-0.025652369876969283
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11872,18 +11862,18 @@ Asteroid "Alderaan fragment 564"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		198.9249988523063	//in km
-	RotationPeriod	10.47939523402457	//in hours
-	Obliquity		9.007089485345986
+	Radius		147.82943473439678	//in km
+	RotationPeriod	4.165566271189485	//in hours
+	Obliquity		21.659399785503467
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.414244365355834	//in AU
-		Eccentricity	0.17264855615905633
+		SemiMajorAxis	2.5393326374659697	//in AU
+		Eccentricity	0.1813001769033078
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4394486259353866
-		ArgOfPericenter	-0.4838559431593633
+		AscendingNode	241.59185611134342
+		ArgOfPericenter	0.13818759546016013
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11893,18 +11883,18 @@ Asteroid "Alderaan fragment 565"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		11.694168373003617	//in km
-	RotationPeriod	13.283589804175683	//in hours
-	Obliquity		77.78129746351479
+	Radius		203.870912436652	//in km
+	RotationPeriod	7.831009559384358	//in hours
+	Obliquity		276.69056876532863
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.325140228853552	//in AU
-		Eccentricity	0.1480832355265092
+		SemiMajorAxis	2.5591707493966624	//in AU
+		Eccentricity	0.16771082048072916
 		Inclination		131.0	//in degrees
-		AscendingNode	0.16144655262922303
-		ArgOfPericenter	-0.4213965075760404
+		AscendingNode	242.0790705180889
+		ArgOfPericenter	-0.11754307354350713
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11914,18 +11904,18 @@ Asteroid "Alderaan fragment 566"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		90.13626903489663	//in km
-	RotationPeriod	5.218325995486209	//in hours
-	Obliquity		129.13210047487217
+	Radius		197.85315922442572	//in km
+	RotationPeriod	10.381478498538867	//in hours
+	Obliquity		6.357945078899059
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.364450940306479	//in AU
-		Eccentricity	0.14685070358840258
+		SemiMajorAxis	2.7873984221438635	//in AU
+		Eccentricity	0.15929797700048545
 		Inclination		131.0	//in degrees
-		AscendingNode	0.47441264251591353
-		ArgOfPericenter	0.2099548882907516
+		AscendingNode	242.21353896401826
+		ArgOfPericenter	-0.2976183211601373
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11935,18 +11925,18 @@ Asteroid "Alderaan fragment 567"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		13.981539067206004	//in km
-	RotationPeriod	4.467110037993632	//in hours
-	Obliquity		229.21031925803177
+	Radius		120.30870162197824	//in km
+	RotationPeriod	9.340844271080321	//in hours
+	Obliquity		50.11348137282609
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3563520581295543	//in AU
-		Eccentricity	0.13632266043636343
+		SemiMajorAxis	2.420541193246066	//in AU
+		Eccentricity	0.1722368858778989
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4590225202034647
-		ArgOfPericenter	0.3766325598372332
+		AscendingNode	242.45260612447004
+		ArgOfPericenter	-0.2671902493558622
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11956,16 +11946,18 @@ Asteroid "Alderaan fragment 568"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		50.07498473527987	//in km
-	TidalLocked	true
+	Radius		166.55098900855754	//in km
+	RotationPeriod	10.144138565261667	//in hours
+	Obliquity		283.86529026267874
+
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6102783953381543	//in AU
-		Eccentricity	0.18157376333331357
+		SemiMajorAxis	2.754611894693837	//in AU
+		Eccentricity	0.15068826780107417
 		Inclination		131.0	//in degrees
-		AscendingNode	0.48316974429401893
-		ArgOfPericenter	0.4780046510794469
+		AscendingNode	242.49908532336505
+		ArgOfPericenter	0.006124520189971561
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11975,18 +11967,18 @@ Asteroid "Alderaan fragment 569"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		291.15887359094853	//in km
-	RotationPeriod	15.080841678699151	//in hours
-	Obliquity		299.3126666307884
+	Radius		67.93820641706252	//in km
+	RotationPeriod	14.235158504255017	//in hours
+	Obliquity		208.76347495174718
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9954845523849034	//in AU
-		Eccentricity	0.1433465649432974
+		SemiMajorAxis	3.0651566806664157	//in AU
+		Eccentricity	0.15350064522802842
 		Inclination		131.0	//in degrees
-		AscendingNode	0.38786562204435227
-		ArgOfPericenter	0.31951430368825606
+		AscendingNode	241.99285947027997
+		ArgOfPericenter	0.25080078512354376
 		RefPlane		"Ecliptic"
 	}
 }
@@ -11996,18 +11988,18 @@ Asteroid "Alderaan fragment 570"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.4384501269855683	//in km
-	RotationPeriod	4.899581208416308	//in hours
-	Obliquity		277.7478311109356
+	Radius		90.92812753825947	//in km
+	RotationPeriod	6.012386241613464	//in hours
+	Obliquity		225.76952855196689
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2009073428475396	//in AU
-		Eccentricity	0.1516191576800645
+		SemiMajorAxis	2.652380181886366	//in AU
+		Eccentricity	0.12371898988039506
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2698063656550771
-		ArgOfPericenter	0.18327608051896094
+		AscendingNode	242.04118952569215
+		ArgOfPericenter	-0.12074343907091656
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12017,18 +12009,18 @@ Asteroid "Alderaan fragment 571"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		9.58096149073317	//in km
-	RotationPeriod	7.269975133246002	//in hours
-	Obliquity		279.44224990399834
+	Radius		135.61774854037733	//in km
+	RotationPeriod	19.314658381891082	//in hours
+	Obliquity		343.2701348552613
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.204006456333699	//in AU
-		Eccentricity	0.18189841051771455
+		SemiMajorAxis	2.7169633976389576	//in AU
+		Eccentricity	0.15491065677867621
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2697711190169285
-		ArgOfPericenter	-0.4123163820576995
+		AscendingNode	242.45319725542973
+		ArgOfPericenter	0.37303080237974484
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12038,18 +12030,18 @@ Asteroid "Alderaan fragment 572"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		126.88851635518273	//in km
-	RotationPeriod	8.383954913265148	//in hours
-	Obliquity		117.569559443744
+	Radius		186.6523457070866	//in km
+	RotationPeriod	11.681832413090616	//in hours
+	Obliquity		87.76554935990555
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6312295292619408	//in AU
-		Eccentricity	0.1182850040295308
+		SemiMajorAxis	2.2850430117505693	//in AU
+		Eccentricity	0.20057953995043357
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.22365397229953798
-		ArgOfPericenter	-0.18751537589699774
+		AscendingNode	242.213437284147
+		ArgOfPericenter	-0.4279617340338885
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12059,18 +12051,18 @@ Asteroid "Alderaan fragment 573"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		75.91371594738399	//in km
-	RotationPeriod	7.89246899582877	//in hours
-	Obliquity		161.37429600790034
+	Radius		102.47702910658735	//in km
+	RotationPeriod	11.17975664396688	//in hours
+	Obliquity		193.35566879675474
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4113784338347535	//in AU
-		Eccentricity	0.17365364720695967
+		SemiMajorAxis	2.0089492205480646	//in AU
+		Eccentricity	0.15684457940144222
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.481662264229322
-		ArgOfPericenter	-0.46217155655529363
+		AscendingNode	242.00596643359142
+		ArgOfPericenter	0.4446006615276201
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12080,18 +12072,18 @@ Asteroid "Alderaan fragment 574"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		52.57692706242626	//in km
-	RotationPeriod	11.757207026301312	//in hours
-	Obliquity		269.84239176447227
+	Radius		139.97795821186205	//in km
+	RotationPeriod	7.305295672976682	//in hours
+	Obliquity		181.48435209013647
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.806418200471902	//in AU
-		Eccentricity	0.1746573118561876
+		SemiMajorAxis	2.467958494558091	//in AU
+		Eccentricity	0.1894379166776518
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4323942015984543
-		ArgOfPericenter	0.1398379195281979
+		AscendingNode	241.98421574297987
+		ArgOfPericenter	-0.08975477608674276
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12101,18 +12093,18 @@ Asteroid "Alderaan fragment 575"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		42.83322365985915	//in km
-	RotationPeriod	16.32139099972886	//in hours
-	Obliquity		126.66519857003469
+	Radius		184.39448471071643	//in km
+	RotationPeriod	4.24776351948119	//in hours
+	Obliquity		353.7309123799221
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3385941048506487	//in AU
-		Eccentricity	0.13894271004924474
+		SemiMajorAxis	2.9190913983088334	//in AU
+		Eccentricity	0.17009845621402672
 		Inclination		131.0	//in degrees
-		AscendingNode	0.15801476961585692
-		ArgOfPericenter	0.4329395734499851
+		AscendingNode	241.64805648140137
+		ArgOfPericenter	0.34406204031210275
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12122,18 +12114,18 @@ Asteroid "Alderaan fragment 576"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		157.210460381148	//in km
-	RotationPeriod	17.301959793374678	//in hours
-	Obliquity		189.28967937594197
+	Radius		189.21553060333207	//in km
+	RotationPeriod	19.15032779604707	//in hours
+	Obliquity		187.03217751593283
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4600326957523393	//in AU
-		Eccentricity	0.176386421667706
+		SemiMajorAxis	2.2593999492328027	//in AU
+		Eccentricity	0.15987950571656329
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3029770463473206
-		ArgOfPericenter	0.2865132465050565
+		AscendingNode	242.16182357638746
+		ArgOfPericenter	-0.34722907699349137
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12143,18 +12135,18 @@ Asteroid "Alderaan fragment 577"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		212.46520245978178	//in km
-	RotationPeriod	16.2018193497169	//in hours
-	Obliquity		53.03327117670324
+	Radius		134.47657210561152	//in km
+	RotationPeriod	10.09989341011395	//in hours
+	Obliquity		167.3670646002477
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1755261130724155	//in AU
-		Eccentricity	0.17677681130157624
+		SemiMajorAxis	2.6154961948185895	//in AU
+		Eccentricity	0.13446984328114892
 		Inclination		131.0	//in degrees
-		AscendingNode	0.36811051406544604
-		ArgOfPericenter	-0.26646150111406164
+		AscendingNode	241.62183260109444
+		ArgOfPericenter	0.1147884580892028
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12164,18 +12156,18 @@ Asteroid "Alderaan fragment 578"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		15.896021570736316	//in km
-	RotationPeriod	12.751270928564423	//in hours
-	Obliquity		101.07609917693492
+	Radius		201.47467212686985	//in km
+	RotationPeriod	10.84793841460214	//in hours
+	Obliquity		68.25939192424275
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5627894548835215	//in AU
-		Eccentricity	0.18584003243073027
+		SemiMajorAxis	2.5233447454671873	//in AU
+		Eccentricity	0.172755586270446
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.32859713603847884
-		ArgOfPericenter	-0.012740697852587135
+		AscendingNode	241.5976693546578
+		ArgOfPericenter	-0.26750479090637225
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12185,18 +12177,18 @@ Asteroid "Alderaan fragment 579"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		114.13821746872416	//in km
-	RotationPeriod	13.760798332328282	//in hours
-	Obliquity		97.6468810848716
+	Radius		106.3774641210285	//in km
+	RotationPeriod	16.82447758003369	//in hours
+	Obliquity		176.3306935499259
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.1086283315469423	//in AU
-		Eccentricity	0.18333972155658537
+		SemiMajorAxis	2.087940934350581	//in AU
+		Eccentricity	0.1288424673557384
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2230608446600273
-		ArgOfPericenter	0.27436253184933546
+		AscendingNode	242.097845792058
+		ArgOfPericenter	-0.16378862336802225
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12206,18 +12198,18 @@ Asteroid "Alderaan fragment 580"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		59.03438438068105	//in km
-	RotationPeriod	12.395166977104674	//in hours
-	Obliquity		290.0203821992797
+	Radius		230.34866581168785	//in km
+	RotationPeriod	14.754864597170268	//in hours
+	Obliquity		164.52845579733375
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.196906730681867	//in AU
-		Eccentricity	0.17549861608554096
+		SemiMajorAxis	2.8566670059570756	//in AU
+		Eccentricity	0.1627518860303599
 		Inclination		131.0	//in degrees
-		AscendingNode	0.24277109067435032
-		ArgOfPericenter	-0.4317350902846331
+		AscendingNode	241.54149707187412
+		ArgOfPericenter	-0.4309596843770199
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12227,18 +12219,18 @@ Asteroid "Alderaan fragment 581"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		33.468998028884094	//in km
-	RotationPeriod	12.187698728354528	//in hours
-	Obliquity		357.58913062008287
+	Radius		97.9086063668633	//in km
+	RotationPeriod	13.959334544130277	//in hours
+	Obliquity		320.9714247541603
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.423767239173407	//in AU
-		Eccentricity	0.16744762654393083
+		SemiMajorAxis	2.9452557488825875	//in AU
+		Eccentricity	0.18877586784425285
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4002535347806023
-		ArgOfPericenter	0.2578170456843504
+		AscendingNode	242.30027100202847
+		ArgOfPericenter	0.07571780008277174
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12248,18 +12240,18 @@ Asteroid "Alderaan fragment 582"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		114.61342013893912	//in km
-	RotationPeriod	18.394959514948518	//in hours
-	Obliquity		153.15020467466766
+	Radius		90.11133095802711	//in km
+	RotationPeriod	20.372412213268106	//in hours
+	Obliquity		73.65773976913368
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2280683228406164	//in AU
-		Eccentricity	0.1842048129435304
+		SemiMajorAxis	2.818160817360065	//in AU
+		Eccentricity	0.1804012825373071
 		Inclination		131.0	//in degrees
-		AscendingNode	0.13424305884785093
-		ArgOfPericenter	-0.3421241793893389
+		AscendingNode	241.64096602450587
+		ArgOfPericenter	0.1844666956173846
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12269,18 +12261,18 @@ Asteroid "Alderaan fragment 583"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		78.63674653171182	//in km
-	RotationPeriod	12.080200307549294	//in hours
-	Obliquity		249.93438687968523
+	Radius		134.6627031965381	//in km
+	RotationPeriod	12.711985522869425	//in hours
+	Obliquity		15.01149989951928
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.71411677865358	//in AU
-		Eccentricity	0.17394041454444445
+		SemiMajorAxis	2.557357538803745	//in AU
+		Eccentricity	0.18320384292141426
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19843624872456922
-		ArgOfPericenter	-0.0626076322938901
+		AscendingNode	241.98289814689656
+		ArgOfPericenter	0.23436123681828036
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12290,18 +12282,18 @@ Asteroid "Alderaan fragment 584"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		272.4884307996559	//in km
-	RotationPeriod	17.946429561672456	//in hours
-	Obliquity		218.44881426943135
+	Radius		133.35772911965262	//in km
+	RotationPeriod	16.86414463372259	//in hours
+	Obliquity		148.59477411001637
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0087784646813645	//in AU
-		Eccentricity	0.14860004577772873
+		SemiMajorAxis	2.7328880595211773	//in AU
+		Eccentricity	0.10936459577956262
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2315966550496863
-		ArgOfPericenter	-0.2826467121757943
+		AscendingNode	241.9956308505022
+		ArgOfPericenter	-0.004280668042143998
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12311,18 +12303,18 @@ Asteroid "Alderaan fragment 585"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		56.42156011778865	//in km
-	RotationPeriod	11.607418971969828	//in hours
-	Obliquity		150.23133717116613
+	Radius		179.140466238351	//in km
+	RotationPeriod	19.5589606884469	//in hours
+	Obliquity		181.57725269127585
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2873291260387654	//in AU
-		Eccentricity	0.14933097970191037
+		SemiMajorAxis	2.9765642357316824	//in AU
+		Eccentricity	0.1856476060478246
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4854726257754025
-		ArgOfPericenter	0.23881891965236612
+		AscendingNode	242.2916411305556
+		ArgOfPericenter	0.40414505511683074
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12332,18 +12324,18 @@ Asteroid "Alderaan fragment 586"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		5.567357757505764	//in km
-	RotationPeriod	10.148776583133309	//in hours
-	Obliquity		69.08392770049237
+	Radius		189.46722438844068	//in km
+	RotationPeriod	5.963042132547101	//in hours
+	Obliquity		349.5980895015215
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2499877216518183	//in AU
-		Eccentricity	0.1379090697169697
+		SemiMajorAxis	2.4781766012161555	//in AU
+		Eccentricity	0.11065877576808593
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1150448469272235
-		ArgOfPericenter	0.04331181075404955
+		AscendingNode	241.53552514849358
+		ArgOfPericenter	0.4423897440442902
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12353,18 +12345,18 @@ Asteroid "Alderaan fragment 587"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		45.25419845611082	//in km
-	RotationPeriod	10.671928787135379	//in hours
-	Obliquity		230.0641133983657
+	Radius		166.9392932850867	//in km
+	RotationPeriod	6.654808422932694	//in hours
+	Obliquity		353.001376696419
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.515208864361583	//in AU
-		Eccentricity	0.1734803676165805
+		SemiMajorAxis	2.575003955925457	//in AU
+		Eccentricity	0.1667370792919496
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.31699743640615086
-		ArgOfPericenter	0.18612413027222907
+		AscendingNode	241.91477171198338
+		ArgOfPericenter	0.42567096098459134
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12374,18 +12366,18 @@ Asteroid "Alderaan fragment 588"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		6.985940962456258	//in km
-	RotationPeriod	5.665242173464405	//in hours
-	Obliquity		195.40678962503614
+	Radius		107.65127371680128	//in km
+	RotationPeriod	21.08999652582665	//in hours
+	Obliquity		87.97462118449188
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6158135136287717	//in AU
-		Eccentricity	0.15340399156503193
+		SemiMajorAxis	2.665542528813445	//in AU
+		Eccentricity	0.14885711409029917
 		Inclination		131.0	//in degrees
-		AscendingNode	0.43756470310979145
-		ArgOfPericenter	0.19650074717507093
+		AscendingNode	241.8619230149646
+		ArgOfPericenter	-0.43855401038449016
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12395,18 +12387,18 @@ Asteroid "Alderaan fragment 589"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		43.8510138937701	//in km
-	RotationPeriod	9.836614957024409	//in hours
-	Obliquity		254.01217758175403
+	Radius		220.69160729210924	//in km
+	RotationPeriod	15.486039836753932	//in hours
+	Obliquity		24.22304927187192
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.059669400754991	//in AU
-		Eccentricity	0.12111166475601023
+		SemiMajorAxis	2.143312923057736	//in AU
+		Eccentricity	0.17162772771789508
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.41005359093930893
-		ArgOfPericenter	-0.3661329225157437
+		AscendingNode	241.67978515346826
+		ArgOfPericenter	-0.2079301023696314
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12416,18 +12408,18 @@ Asteroid "Alderaan fragment 590"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		41.182988994092305	//in km
-	RotationPeriod	12.079006431421888	//in hours
-	Obliquity		47.08285773504772
+	Radius		127.62063543158452	//in km
+	RotationPeriod	5.480736980212296	//in hours
+	Obliquity		44.54060838577506
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.751562712096904	//in AU
-		Eccentricity	0.17131208747471768
+		SemiMajorAxis	2.299599864683646	//in AU
+		Eccentricity	0.16532554441505093
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.26481051841597003
-		ArgOfPericenter	-0.4150669160711601
+		AscendingNode	241.55588996789032
+		ArgOfPericenter	-0.2726359328843345
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12437,18 +12429,18 @@ Asteroid "Alderaan fragment 591"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		67.32167089844967	//in km
-	RotationPeriod	13.747108249912445	//in hours
-	Obliquity		42.16879377136619
+	Radius		82.28249808428502	//in km
+	RotationPeriod	18.043853899438492	//in hours
+	Obliquity		101.37302122083938
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.578887383782448	//in AU
-		Eccentricity	0.15855935508692742
+		SemiMajorAxis	2.4481973531631462	//in AU
+		Eccentricity	0.19248147375689412
 		Inclination		131.0	//in degrees
-		AscendingNode	0.41290060087749647
-		ArgOfPericenter	0.42458926664838437
+		AscendingNode	242.00715666467772
+		ArgOfPericenter	0.41984404264685815
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12458,18 +12450,18 @@ Asteroid "Alderaan fragment 592"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		125.16765015307777	//in km
-	RotationPeriod	14.112445303487691	//in hours
-	Obliquity		145.37484953084132
+	Radius		176.5019137412811	//in km
+	RotationPeriod	14.332390413306223	//in hours
+	Obliquity		331.20327197489394
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.260367829627854	//in AU
-		Eccentricity	0.1491629449193481
+		SemiMajorAxis	2.4333855335260153	//in AU
+		Eccentricity	0.1537425744315148
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.44411055037620795
-		ArgOfPericenter	-0.42623535907389587
+		AscendingNode	242.49451206095517
+		ArgOfPericenter	0.22162645343561438
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12479,18 +12471,18 @@ Asteroid "Alderaan fragment 593"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		69.87090313307534	//in km
-	RotationPeriod	9.767108077414242	//in hours
-	Obliquity		19.193613439249116
+	Radius		188.1254823455473	//in km
+	RotationPeriod	8.268547602290088	//in hours
+	Obliquity		277.1723771994254
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.730333245547333	//in AU
-		Eccentricity	0.17930969582645487
+		SemiMajorAxis	3.2752352232333837	//in AU
+		Eccentricity	0.18494179699294186
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.46770478714896035
-		ArgOfPericenter	0.4383755307937095
+		AscendingNode	242.10784578031178
+		ArgOfPericenter	-0.049047800324284685
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12500,18 +12492,18 @@ Asteroid "Alderaan fragment 594"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		53.713769707818656	//in km
-	RotationPeriod	16.250381488712957	//in hours
-	Obliquity		83.56543883492277
+	Radius		88.95026979187759	//in km
+	RotationPeriod	3.054872747423614	//in hours
+	Obliquity		111.92491428263526
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3280611514934333	//in AU
-		Eccentricity	0.13749474623374558
+		SemiMajorAxis	2.6563691553881985	//in AU
+		Eccentricity	0.18253772619828684
 		Inclination		131.0	//in degrees
-		AscendingNode	0.22650280258138145
-		ArgOfPericenter	0.04068091294881493
+		AscendingNode	241.93022841821477
+		ArgOfPericenter	0.23360993624483328
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12521,18 +12513,18 @@ Asteroid "Alderaan fragment 595"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		6.326748736926351	//in km
-	RotationPeriod	12.06657207270519	//in hours
-	Obliquity		336.56899848390475
+	Radius		120.86766574614613	//in km
+	RotationPeriod	9.379404735731134	//in hours
+	Obliquity		212.3370745580056
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.45425792738529	//in AU
-		Eccentricity	0.21201562568923296
+		SemiMajorAxis	1.8222941231747645	//in AU
+		Eccentricity	0.1369241849292881
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3325799659119886
-		ArgOfPericenter	-0.1317099961526802
+		AscendingNode	241.69736374467539
+		ArgOfPericenter	0.13358129500599847
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12542,18 +12534,18 @@ Asteroid "Alderaan fragment 596"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		73.74227635908765	//in km
-	RotationPeriod	15.622702779038844	//in hours
-	Obliquity		291.94946671556824
+	Radius		114.51074287396179	//in km
+	RotationPeriod	15.534346055060329	//in hours
+	Obliquity		259.0649517432055
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0178170012333956	//in AU
-		Eccentricity	0.1616547272846068
+		SemiMajorAxis	2.5402919930920502	//in AU
+		Eccentricity	0.17704923588503244
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2814898274133073
-		ArgOfPericenter	-0.3617505395001882
+		AscendingNode	242.1065198675683
+		ArgOfPericenter	0.44808781746456194
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12563,18 +12555,18 @@ Asteroid "Alderaan fragment 597"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		172.37993442805814	//in km
-	RotationPeriod	8.987799150811208	//in hours
-	Obliquity		182.8602894030215
+	Radius		37.432023697274516	//in km
+	RotationPeriod	17.052637222006716	//in hours
+	Obliquity		278.762393104357
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4565530860081473	//in AU
-		Eccentricity	0.1726863594573916
+		SemiMajorAxis	2.3800563322764146	//in AU
+		Eccentricity	0.14921347120696374
 		Inclination		131.0	//in degrees
-		AscendingNode	0.10316504328132148
-		ArgOfPericenter	-0.2647416431095565
+		AscendingNode	242.4441002402137
+		ArgOfPericenter	-0.32579900210006985
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12584,18 +12576,18 @@ Asteroid "Alderaan fragment 598"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		120.63345209602089	//in km
-	RotationPeriod	15.41911239992003	//in hours
-	Obliquity		343.8762440310866
+	Radius		105.40076141357872	//in km
+	RotationPeriod	12.327656027299831	//in hours
+	Obliquity		39.91839794771818
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.150241048147175	//in AU
-		Eccentricity	0.19181726217221692
+		SemiMajorAxis	2.7389014180691147	//in AU
+		Eccentricity	0.1607447227331244
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.16744556506163377
-		ArgOfPericenter	0.03938646906626897
+		AscendingNode	241.7662846916466
+		ArgOfPericenter	-0.14780129116485807
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12605,18 +12597,18 @@ Asteroid "Alderaan fragment 599"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.512901330326718	//in km
-	RotationPeriod	7.34000997151284	//in hours
-	Obliquity		141.37234928851817
+	Radius		154.96934329417397	//in km
+	RotationPeriod	14.805182917782385	//in hours
+	Obliquity		334.7783997062863
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4625586468402454	//in AU
-		Eccentricity	0.15465303351456428
+		SemiMajorAxis	2.155140353916125	//in AU
+		Eccentricity	0.14439447075013823
 		Inclination		131.0	//in degrees
-		AscendingNode	0.16918754496639
-		ArgOfPericenter	0.33125722259311274
+		AscendingNode	241.97312393206295
+		ArgOfPericenter	0.4484356958207165
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12626,18 +12618,18 @@ Asteroid "Alderaan fragment 600"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.290456583557	//in km
-	RotationPeriod	15.204810736542097	//in hours
-	Obliquity		85.31781404124547
+	Radius		48.583800459522976	//in km
+	RotationPeriod	14.847178374419954	//in hours
+	Obliquity		87.5606099779384
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4821609009825276	//in AU
-		Eccentricity	0.14033685718699723
+		SemiMajorAxis	2.674806879959199	//in AU
+		Eccentricity	0.2271150791393386
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4352620470575601
-		ArgOfPericenter	-0.23894482515408033
+		AscendingNode	242.09736957049532
+		ArgOfPericenter	0.3491313774633362
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12647,18 +12639,18 @@ Asteroid "Alderaan fragment 601"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		48.40146092974553	//in km
-	RotationPeriod	16.382891315571435	//in hours
-	Obliquity		197.4835620411821
+	Radius		175.64183398934685	//in km
+	RotationPeriod	12.81587471461288	//in hours
+	Obliquity		187.13658983499886
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4356488109444556	//in AU
-		Eccentricity	0.17194643457097206
+		SemiMajorAxis	2.6143330826783657	//in AU
+		Eccentricity	0.14893694175252004
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3656428386241659
-		ArgOfPericenter	0.3083350481749164
+		AscendingNode	241.92629190934747
+		ArgOfPericenter	-0.14542699167503292
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12668,18 +12660,18 @@ Asteroid "Alderaan fragment 602"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.257799526955745	//in km
-	RotationPeriod	19.555290960357183	//in hours
-	Obliquity		311.5865419130306
+	Radius		110.4073451854932	//in km
+	RotationPeriod	11.294854133161417	//in hours
+	Obliquity		19.510560961731223
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5958210972565925	//in AU
-		Eccentricity	0.17167416697685436
+		SemiMajorAxis	2.546080884435076	//in AU
+		Eccentricity	0.15748174501858353
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4819106220964352
-		ArgOfPericenter	0.17070680737737154
+		AscendingNode	241.55066742251446
+		ArgOfPericenter	0.47849155781773667
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12689,18 +12681,18 @@ Asteroid "Alderaan fragment 603"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		188.00479645434552	//in km
-	RotationPeriod	16.257289142875607	//in hours
-	Obliquity		175.59683125974183
+	Radius		205.21149554699565	//in km
+	RotationPeriod	10.415001857774646	//in hours
+	Obliquity		304.81490372074256
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3056313168332268	//in AU
-		Eccentricity	0.20498618082949144
+		SemiMajorAxis	1.9621457331273773	//in AU
+		Eccentricity	0.15903696846203602
 		Inclination		131.0	//in degrees
-		AscendingNode	0.29444844924602076
-		ArgOfPericenter	-0.23529163594196423
+		AscendingNode	242.10455930850534
+		ArgOfPericenter	0.25396480209831074
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12710,18 +12702,18 @@ Asteroid "Alderaan fragment 604"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		54.87288142215087	//in km
-	RotationPeriod	11.338815063013254	//in hours
-	Obliquity		348.9346025399551
+	Radius		135.39795887224582	//in km
+	RotationPeriod	10.85620382599363	//in hours
+	Obliquity		86.65331396827739
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.104771703144991	//in AU
-		Eccentricity	0.20955599964627358
+		SemiMajorAxis	2.2468305824521213	//in AU
+		Eccentricity	0.1402561978950138
 		Inclination		131.0	//in degrees
-		AscendingNode	0.32386008736693206
-		ArgOfPericenter	0.49808440329997317
+		AscendingNode	242.3316223761528
+		ArgOfPericenter	-0.061021557794292525
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12731,18 +12723,18 @@ Asteroid "Alderaan fragment 605"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		48.46121621420808	//in km
-	RotationPeriod	6.852582229650401	//in hours
-	Obliquity		344.21602295383656
+	Radius		65.56523004140996	//in km
+	RotationPeriod	7.266064808323513	//in hours
+	Obliquity		155.62304154618934
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.749074742101579	//in AU
-		Eccentricity	0.19704127606950972
+		SemiMajorAxis	2.3583997803034715	//in AU
+		Eccentricity	0.16498039768209372
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.0028686082268788438
-		ArgOfPericenter	-0.10942300751794631
+		AscendingNode	241.66509397806664
+		ArgOfPericenter	-0.26570547970806224
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12752,18 +12744,18 @@ Asteroid "Alderaan fragment 606"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		86.99473380890413	//in km
-	RotationPeriod	15.767143510470657	//in hours
-	Obliquity		27.957168708189435
+	Radius		171.69017789659452	//in km
+	RotationPeriod	5.691704121621926	//in hours
+	Obliquity		304.29478657823796
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3139952809277116	//in AU
-		Eccentricity	0.17797930315855026
+		SemiMajorAxis	2.945498012991105	//in AU
+		Eccentricity	0.16546361930734532
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3912861062228866
-		ArgOfPericenter	0.35865629917784636
+		AscendingNode	241.91753076601137
+		ArgOfPericenter	-0.12037349632533778
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12773,18 +12765,18 @@ Asteroid "Alderaan fragment 607"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.569120890504587	//in km
-	RotationPeriod	10.104703898344313	//in hours
-	Obliquity		174.73785878216043
+	Radius		96.91562524701196	//in km
+	RotationPeriod	15.337096017947541	//in hours
+	Obliquity		191.48669062674387
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.539637474821025	//in AU
-		Eccentricity	0.17872871087542755
+		SemiMajorAxis	2.5674248050805035	//in AU
+		Eccentricity	0.13580453711008597
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4653211588037717
-		ArgOfPericenter	-0.3946515933775494
+		AscendingNode	241.91725830204004
+		ArgOfPericenter	0.1697803415388186
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12794,18 +12786,18 @@ Asteroid "Alderaan fragment 608"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		84.63783982094728	//in km
-	RotationPeriod	14.6379413911433	//in hours
-	Obliquity		257.55467857652394
+	Radius		168.83422656985195	//in km
+	RotationPeriod	7.417139460788616	//in hours
+	Obliquity		298.74941073063553
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5401289505180924	//in AU
-		Eccentricity	0.13820094674142278
+		SemiMajorAxis	2.659151739035469	//in AU
+		Eccentricity	0.15747816730416073
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3155840681207206
-		ArgOfPericenter	0.09254969521263534
+		AscendingNode	241.69285886228562
+		ArgOfPericenter	-0.4302320202380988
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12815,18 +12807,18 @@ Asteroid "Alderaan fragment 609"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		204.62657818478783	//in km
-	RotationPeriod	4.758695825921496	//in hours
-	Obliquity		39.72893614997813
+	Radius		82.58877445244252	//in km
+	RotationPeriod	11.166612038807198	//in hours
+	Obliquity		160.56417014212133
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.031404643774664	//in AU
-		Eccentricity	0.13974992322593507
+		SemiMajorAxis	2.483060928860308	//in AU
+		Eccentricity	0.17972490821883003
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1897686801123596
-		ArgOfPericenter	0.3760197334933174
+		AscendingNode	241.54171538754738
+		ArgOfPericenter	0.22519208393792134
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12836,18 +12828,18 @@ Asteroid "Alderaan fragment 610"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		22.533149902387787	//in km
-	RotationPeriod	8.907121584631085	//in hours
-	Obliquity		58.93109686157758
+	Radius		107.54610956585422	//in km
+	RotationPeriod	15.517504757880616	//in hours
+	Obliquity		331.18489953919135
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.714786352643997	//in AU
-		Eccentricity	0.19463059874836372
+		SemiMajorAxis	2.322861530185157	//in AU
+		Eccentricity	0.1685850544056839
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3946869478338747
-		ArgOfPericenter	0.31210459156787485
+		AscendingNode	242.3498461196682
+		ArgOfPericenter	-0.1539919207722007
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12857,18 +12849,18 @@ Asteroid "Alderaan fragment 611"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		203.9392687432939	//in km
-	RotationPeriod	9.22447172933586	//in hours
-	Obliquity		105.70548368720581
+	Radius		219.29465394864255	//in km
+	RotationPeriod	18.25400829009115	//in hours
+	Obliquity		342.859039878795
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4798104504082237	//in AU
-		Eccentricity	0.14147600841520672
+		SemiMajorAxis	2.2779001295888106	//in AU
+		Eccentricity	0.17771929873926692
 		Inclination		131.0	//in degrees
-		AscendingNode	0.24688240016360474
-		ArgOfPericenter	0.20358335144230943
+		AscendingNode	242.30838804999038
+		ArgOfPericenter	0.38176844095409457
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12878,18 +12870,18 @@ Asteroid "Alderaan fragment 612"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		103.67830587491538	//in km
-	RotationPeriod	16.882309027293868	//in hours
-	Obliquity		216.3466256138871
+	Radius		140.9340541435108	//in km
+	RotationPeriod	16.581454969467014	//in hours
+	Obliquity		352.4332241540377
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1253349446595484	//in AU
-		Eccentricity	0.12524267557324487
+		SemiMajorAxis	2.60615206630228	//in AU
+		Eccentricity	0.15962752447463843
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.38588744866135594
-		ArgOfPericenter	-0.4804809754990481
+		AscendingNode	242.41255163988194
+		ArgOfPericenter	0.15600503036784275
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12899,18 +12891,18 @@ Asteroid "Alderaan fragment 613"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		137.64030465365698	//in km
-	RotationPeriod	10.432176137400177	//in hours
-	Obliquity		156.25315293021248
+	Radius		93.08751186773597	//in km
+	RotationPeriod	14.941302197497656	//in hours
+	Obliquity		255.08747661087642
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5252586688054275	//in AU
-		Eccentricity	0.1544462976673672
+		SemiMajorAxis	2.553644100661714	//in AU
+		Eccentricity	0.13963703750057424
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.224739868728971
-		ArgOfPericenter	0.13997530265491975
+		AscendingNode	241.76233978785942
+		ArgOfPericenter	0.41690022729463905
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12920,18 +12912,18 @@ Asteroid "Alderaan fragment 614"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		113.51588395207608	//in km
-	RotationPeriod	9.863080981327686	//in hours
-	Obliquity		10.162867659796756
+	Radius		118.93225776026856	//in km
+	RotationPeriod	19.185169405692022	//in hours
+	Obliquity		250.62778089941747
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.966507718251178	//in AU
-		Eccentricity	0.1546009383986715
+		SemiMajorAxis	2.62246000896534	//in AU
+		Eccentricity	0.1694829935482707
 		Inclination		131.0	//in degrees
-		AscendingNode	0.01713950767039707
-		ArgOfPericenter	0.453218520725612
+		AscendingNode	242.40253064316354
+		ArgOfPericenter	-0.16416479570139786
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12941,18 +12933,18 @@ Asteroid "Alderaan fragment 615"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		6.826203829009371	//in km
-	RotationPeriod	9.575100691459534	//in hours
-	Obliquity		254.9429190760852
+	Radius		203.5049050974903	//in km
+	RotationPeriod	7.117614704942529	//in hours
+	Obliquity		11.990836870598311
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.860286730889524	//in AU
-		Eccentricity	0.14567622935159036
+		SemiMajorAxis	2.4302478403847596	//in AU
+		Eccentricity	0.16404453922562498
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4992135353475542
-		ArgOfPericenter	-0.19180342358576696
+		AscendingNode	242.42661853873292
+		ArgOfPericenter	-0.3585780557965309
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12962,18 +12954,18 @@ Asteroid "Alderaan fragment 616"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		13.819041746917325	//in km
-	RotationPeriod	5.760034491843469	//in hours
-	Obliquity		90.99750784254763
+	Radius		132.58756576822597	//in km
+	RotationPeriod	7.873394854148019	//in hours
+	Obliquity		73.24528334133042
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.484721178463773	//in AU
-		Eccentricity	0.18634832121509204
+		SemiMajorAxis	2.7267034169910054	//in AU
+		Eccentricity	0.14210801452994135
 		Inclination		131.0	//in degrees
-		AscendingNode	0.35383412743362674
-		ArgOfPericenter	0.3374947762320264
+		AscendingNode	242.19359977286837
+		ArgOfPericenter	-0.3765013907550975
 		RefPlane		"Ecliptic"
 	}
 }
@@ -12983,18 +12975,18 @@ Asteroid "Alderaan fragment 617"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		13.854954705072796	//in km
-	RotationPeriod	15.605491735362966	//in hours
-	Obliquity		196.63751428271098
+	Radius		128.5292739460898	//in km
+	RotationPeriod	16.994213855729303	//in hours
+	Obliquity		153.55828058469592
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4759014296607655	//in AU
-		Eccentricity	0.1615251981822902
+		SemiMajorAxis	2.5824479258168513	//in AU
+		Eccentricity	0.12099543506261803
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.26283833815654756
-		ArgOfPericenter	0.37965991826463485
+		AscendingNode	241.5246255219223
+		ArgOfPericenter	0.02894924538928012
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13004,18 +12996,18 @@ Asteroid "Alderaan fragment 618"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		126.08080888801841	//in km
-	RotationPeriod	13.81935223225296	//in hours
-	Obliquity		268.4479341322614
+	Radius		134.9639439158465	//in km
+	RotationPeriod	5.991833838780192	//in hours
+	Obliquity		280.3302056698449
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.675244083195732	//in AU
-		Eccentricity	0.15841434229214083
+		SemiMajorAxis	2.05255911138916	//in AU
+		Eccentricity	0.15329120317805875
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1026836429937491
-		ArgOfPericenter	-0.13980273166531088
+		AscendingNode	242.17738839826384
+		ArgOfPericenter	0.042418260689207954
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13025,18 +13017,18 @@ Asteroid "Alderaan fragment 619"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		68.05153472111539	//in km
-	RotationPeriod	14.978954521253383	//in hours
-	Obliquity		91.6286729143755
+	Radius		172.37909424111925	//in km
+	RotationPeriod	9.257549433546695	//in hours
+	Obliquity		336.2177351115946
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4481250543690254	//in AU
-		Eccentricity	0.1846549518046206
+		SemiMajorAxis	3.0596228244632453	//in AU
+		Eccentricity	0.18304133028106617
 		Inclination		131.0	//in degrees
-		AscendingNode	0.484616898437912
-		ArgOfPericenter	-0.27647778824918456
+		AscendingNode	242.27899193377547
+		ArgOfPericenter	0.07752118297435595
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13046,18 +13038,18 @@ Asteroid "Alderaan fragment 620"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		28.33428944340648	//in km
-	RotationPeriod	7.716788639046909	//in hours
-	Obliquity		281.63510189706176
+	Radius		119.02699734294865	//in km
+	RotationPeriod	13.000330607242867	//in hours
+	Obliquity		82.15590613103997
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.94349137991527	//in AU
-		Eccentricity	0.17296457574221635
+		SemiMajorAxis	2.591433755050909	//in AU
+		Eccentricity	0.21849702803714396
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.08884359000340392
-		ArgOfPericenter	-0.4162871023609319
+		AscendingNode	241.53199153977283
+		ArgOfPericenter	-0.49227251323648014
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13067,18 +13059,18 @@ Asteroid "Alderaan fragment 621"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		70.5639781681206	//in km
-	RotationPeriod	12.012315799038031	//in hours
-	Obliquity		277.8682485795608
+	Radius		99.64347255448624	//in km
+	RotationPeriod	13.615179079239589	//in hours
+	Obliquity		244.39924932801495
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2887451613218444	//in AU
-		Eccentricity	0.14766090296801815
+		SemiMajorAxis	2.7061901773459303	//in AU
+		Eccentricity	0.12826702977752324
 		Inclination		131.0	//in degrees
-		AscendingNode	0.07161646551775558
-		ArgOfPericenter	-0.375822457616387
+		AscendingNode	241.95619262305695
+		ArgOfPericenter	0.47419564218400845
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13088,18 +13080,18 @@ Asteroid "Alderaan fragment 622"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		90.89808075907683	//in km
-	RotationPeriod	6.748397182618146	//in hours
-	Obliquity		7.897194387847315
+	Radius		147.11963931937743	//in km
+	RotationPeriod	8.378144124763914	//in hours
+	Obliquity		2.3529597169287886
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.673355113991093	//in AU
-		Eccentricity	0.1884849893332118
+		SemiMajorAxis	2.55894418372408	//in AU
+		Eccentricity	0.1747430926477158
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.46308699671991904
-		ArgOfPericenter	-0.21561263493148153
+		AscendingNode	241.73256869158047
+		ArgOfPericenter	0.12406490404165527
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13109,18 +13101,18 @@ Asteroid "Alderaan fragment 623"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		59.88057028432368	//in km
-	RotationPeriod	9.23276664260723	//in hours
-	Obliquity		218.9024208564004
+	Radius		240.33250772342092	//in km
+	RotationPeriod	16.95171578749991	//in hours
+	Obliquity		88.64991511540592
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.928977848174137	//in AU
-		Eccentricity	0.1723202456487296
+		SemiMajorAxis	2.037643261020337	//in AU
+		Eccentricity	0.1870877972897185
 		Inclination		131.0	//in degrees
-		AscendingNode	0.009763061411819152
-		ArgOfPericenter	-0.3469364647659968
+		AscendingNode	241.8022764466732
+		ArgOfPericenter	0.18261633693548707
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13130,18 +13122,18 @@ Asteroid "Alderaan fragment 624"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		66.91873814181727	//in km
-	RotationPeriod	18.706687626074974	//in hours
-	Obliquity		183.1112679827468
+	Radius		93.92100306046484	//in km
+	RotationPeriod	11.636956856106881	//in hours
+	Obliquity		166.1478121470467
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.522800836434176	//in AU
-		Eccentricity	0.18092343806434313
+		SemiMajorAxis	2.563494255658291	//in AU
+		Eccentricity	0.11988485059147141
 		Inclination		131.0	//in degrees
-		AscendingNode	0.362579392273377
-		ArgOfPericenter	-0.1560178437432288
+		AscendingNode	242.29776991206094
+		ArgOfPericenter	0.3219083803054924
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13151,18 +13143,18 @@ Asteroid "Alderaan fragment 625"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.880580736708838	//in km
-	RotationPeriod	14.758155406070825	//in hours
-	Obliquity		29.477618544213833
+	Radius		97.71466942225516	//in km
+	RotationPeriod	10.33190246922237	//in hours
+	Obliquity		350.66916753944747
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9599303035655637	//in AU
-		Eccentricity	0.15138442289883833
+		SemiMajorAxis	3.210992293842936	//in AU
+		Eccentricity	0.16305504368895596
 		Inclination		131.0	//in degrees
-		AscendingNode	0.028733862750144334
-		ArgOfPericenter	-0.19352502681840944
+		AscendingNode	242.0025833777137
+		ArgOfPericenter	0.004822418851322174
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13172,18 +13164,18 @@ Asteroid "Alderaan fragment 626"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		49.64999705239756	//in km
-	RotationPeriod	9.623339367700595	//in hours
-	Obliquity		101.24674675400156
+	Radius		161.6671002556645	//in km
+	RotationPeriod	3.6202289436969703	//in hours
+	Obliquity		253.1584814637003
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.485938713173104	//in AU
-		Eccentricity	0.2022297257129039
+		SemiMajorAxis	2.6816384504614366	//in AU
+		Eccentricity	0.18974458139080572
 		Inclination		131.0	//in degrees
-		AscendingNode	0.44797105404164406
-		ArgOfPericenter	-0.4751435367368373
+		AscendingNode	242.1861382261007
+		ArgOfPericenter	0.025990051600625286
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13193,18 +13185,18 @@ Asteroid "Alderaan fragment 627"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		49.2052245527698	//in km
-	RotationPeriod	8.763192806928556	//in hours
-	Obliquity		60.304739530944346
+	Radius		159.41834471576996	//in km
+	RotationPeriod	6.256107710767983	//in hours
+	Obliquity		181.26277357856148
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.270760219613536	//in AU
-		Eccentricity	0.19738460029118285
+		SemiMajorAxis	2.1635665327917954	//in AU
+		Eccentricity	0.1820388996324118
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3231021119647861
-		ArgOfPericenter	-0.4039204624365226
+		AscendingNode	241.6546682881569
+		ArgOfPericenter	0.1970592839628491
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13214,18 +13206,18 @@ Asteroid "Alderaan fragment 628"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		71.60020948783945	//in km
-	RotationPeriod	14.30820097615839	//in hours
-	Obliquity		112.24384191768445
+	Radius		140.44879589148724	//in km
+	RotationPeriod	11.42246579480814	//in hours
+	Obliquity		214.75538890136457
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4947786858755063	//in AU
-		Eccentricity	0.1963906541616604
+		SemiMajorAxis	2.4876856755955634	//in AU
+		Eccentricity	0.14644972949316135
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2970218643512378
-		ArgOfPericenter	0.43660900711939077
+		AscendingNode	241.8299244095092
+		ArgOfPericenter	0.25205895109969423
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13235,18 +13227,18 @@ Asteroid "Alderaan fragment 629"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		40.628250770174624	//in km
-	RotationPeriod	10.685612147209685	//in hours
-	Obliquity		184.43492464986363
+	Radius		95.72171477064853	//in km
+	RotationPeriod	9.823211215464378	//in hours
+	Obliquity		139.96891793694698
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.438766490550528	//in AU
-		Eccentricity	0.1743992429497127
+		SemiMajorAxis	2.971979739601125	//in AU
+		Eccentricity	0.20984225135050127
 		Inclination		131.0	//in degrees
-		AscendingNode	0.22080784505798756
-		ArgOfPericenter	0.08236327590418235
+		AscendingNode	241.54011466703668
+		ArgOfPericenter	0.3291764530818778
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13256,18 +13248,18 @@ Asteroid "Alderaan fragment 630"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		34.076395631570115	//in km
-	RotationPeriod	5.375090072216555	//in hours
-	Obliquity		41.874804772776564
+	Radius		153.43305658593096	//in km
+	RotationPeriod	6.409297439387324	//in hours
+	Obliquity		101.58447292133384
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.427609514579588	//in AU
-		Eccentricity	0.17722538136578248
+		SemiMajorAxis	2.271189290324476	//in AU
+		Eccentricity	0.18143017897598834
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.047480857045041014
-		ArgOfPericenter	0.051949405341872756
+		AscendingNode	242.29869862655065
+		ArgOfPericenter	-0.2233899162813504
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13277,18 +13269,18 @@ Asteroid "Alderaan fragment 631"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		135.49701272403385	//in km
-	RotationPeriod	16.649466583073274	//in hours
-	Obliquity		25.041618901758103
+	Radius		124.50884150014465	//in km
+	RotationPeriod	11.40288472259075	//in hours
+	Obliquity		332.88241494232534
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7601724193887125	//in AU
-		Eccentricity	0.1714625530362964
+		SemiMajorAxis	2.378081253368521	//in AU
+		Eccentricity	0.1715695490242508
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3613423209276666
-		ArgOfPericenter	0.4914771743424091
+		AscendingNode	242.1954121354531
+		ArgOfPericenter	-0.36086397380342916
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13298,18 +13290,18 @@ Asteroid "Alderaan fragment 632"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		52.267732945568795	//in km
-	RotationPeriod	11.274444656030685	//in hours
-	Obliquity		99.97127575797363
+	Radius		136.2083578298534	//in km
+	RotationPeriod	7.94060376937002	//in hours
+	Obliquity		149.16040700146874
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.843505207046731	//in AU
-		Eccentricity	0.17652281897477118
+		SemiMajorAxis	2.529164111855391	//in AU
+		Eccentricity	0.13996514715021316
 		Inclination		131.0	//in degrees
-		AscendingNode	0.22315970481259306
-		ArgOfPericenter	-0.3170039593141465
+		AscendingNode	241.89141369986166
+		ArgOfPericenter	0.2656343341636882
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13319,18 +13311,18 @@ Asteroid "Alderaan fragment 633"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		0.22753508078881968	//in km
-	RotationPeriod	9.97790493762125	//in hours
-	Obliquity		118.88211209535248
+	Radius		103.96052824803274	//in km
+	RotationPeriod	14.28082875223165	//in hours
+	Obliquity		176.56335456940553
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3936560480715134	//in AU
-		Eccentricity	0.17202357034312152
+		SemiMajorAxis	2.453203011892827	//in AU
+		Eccentricity	0.14876630876580077
 		Inclination		131.0	//in degrees
-		AscendingNode	0.37876671588327326
-		ArgOfPericenter	0.4431529884823111
+		AscendingNode	241.81192222375572
+		ArgOfPericenter	0.13428968349318082
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13340,18 +13332,18 @@ Asteroid "Alderaan fragment 634"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		119.15646623255401	//in km
-	RotationPeriod	14.641089134604067	//in hours
-	Obliquity		50.091898277468346
+	Radius		151.76653617988686	//in km
+	RotationPeriod	10.611597513249029	//in hours
+	Obliquity		280.80004853389806
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5477356476061566	//in AU
-		Eccentricity	0.16828915236723188
+		SemiMajorAxis	2.6615810091456966	//in AU
+		Eccentricity	0.1729770585374605
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.48097102573258965
-		ArgOfPericenter	0.1680399279136503
+		AscendingNode	241.65682204924218
+		ArgOfPericenter	-0.12997633853518364
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13361,18 +13353,18 @@ Asteroid "Alderaan fragment 635"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.460714605368341	//in km
-	RotationPeriod	19.062432781716907	//in hours
-	Obliquity		298.78159797861343
+	Radius		151.19240724345045	//in km
+	RotationPeriod	8.661975043581094	//in hours
+	Obliquity		296.19548869943065
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6337014643787175	//in AU
-		Eccentricity	0.19279364187904469
+		SemiMajorAxis	2.614894953435101	//in AU
+		Eccentricity	0.11800728362036571
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.20083410165314197
-		ArgOfPericenter	-0.4267565173492671
+		AscendingNode	242.49809514192737
+		ArgOfPericenter	0.05426792382398071
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13382,18 +13374,18 @@ Asteroid "Alderaan fragment 636"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		118.04209745341323	//in km
-	RotationPeriod	8.716542619996702	//in hours
-	Obliquity		233.74043857864132
+	Radius		160.10551229204043	//in km
+	RotationPeriod	11.784889186405907	//in hours
+	Obliquity		341.2325602921617
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.525860548737309	//in AU
-		Eccentricity	0.17430215764479345
+		SemiMajorAxis	3.087730190904006	//in AU
+		Eccentricity	0.16197887405196915
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.37726773833705296
-		ArgOfPericenter	-0.13148891900668613
+		AscendingNode	242.18375392197734
+		ArgOfPericenter	-0.46742519475276223
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13403,18 +13395,18 @@ Asteroid "Alderaan fragment 637"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		106.4239218976216	//in km
-	RotationPeriod	18.0625167762038	//in hours
-	Obliquity		19.13436366531723
+	Radius		156.13524821039982	//in km
+	RotationPeriod	10.616981033291985	//in hours
+	Obliquity		312.65283414511174
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.58028666279086	//in AU
-		Eccentricity	0.21068304088787404
+		SemiMajorAxis	2.3475288218401404	//in AU
+		Eccentricity	0.1501438216526784
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1056764797276386
-		ArgOfPericenter	0.16300440891704404
+		AscendingNode	241.89632382348944
+		ArgOfPericenter	0.10308102498758909
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13424,18 +13416,18 @@ Asteroid "Alderaan fragment 638"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		247.708067880912	//in km
-	RotationPeriod	8.801156785792745	//in hours
-	Obliquity		193.04504588294517
+	Radius		196.4943379889786	//in km
+	RotationPeriod	5.4368164902931015	//in hours
+	Obliquity		152.84165968564108
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4592077400021286	//in AU
-		Eccentricity	0.16938569605709647
+		SemiMajorAxis	2.6969372098661006	//in AU
+		Eccentricity	0.15865365442003776
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.44218677651293037
-		ArgOfPericenter	-0.07512161288822816
+		AscendingNode	241.68447854755223
+		ArgOfPericenter	-0.438641511536186
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13445,18 +13437,18 @@ Asteroid "Alderaan fragment 639"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		41.21518558800764	//in km
-	RotationPeriod	9.933775677644975	//in hours
-	Obliquity		116.92438395543545
+	Radius		174.58452847288072	//in km
+	RotationPeriod	10.157852206666929	//in hours
+	Obliquity		75.87985629035288
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2806962174933143	//in AU
-		Eccentricity	0.15683756613156666
+		SemiMajorAxis	2.1500727157995416	//in AU
+		Eccentricity	0.12275511118439299
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4228551919820319
-		ArgOfPericenter	-0.4905580767260199
+		AscendingNode	241.60442307555957
+		ArgOfPericenter	0.3479592766810361
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13466,18 +13458,18 @@ Asteroid "Alderaan fragment 640"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		63.48627628108569	//in km
-	RotationPeriod	10.266513477288612	//in hours
-	Obliquity		78.12107888203434
+	Radius		241.94454968845736	//in km
+	RotationPeriod	16.54178931714435	//in hours
+	Obliquity		239.3201660265795
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6538967749364617	//in AU
-		Eccentricity	0.12967423849564602
+		SemiMajorAxis	2.5146614942711163	//in AU
+		Eccentricity	0.17167914337828724
 		Inclination		131.0	//in degrees
-		AscendingNode	0.048213845085438245
-		ArgOfPericenter	-0.4833089014034788
+		AscendingNode	242.3510965409501
+		ArgOfPericenter	0.2082428641256321
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13487,18 +13479,18 @@ Asteroid "Alderaan fragment 641"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		165.69073660633532	//in km
-	RotationPeriod	10.372424935524416	//in hours
-	Obliquity		6.769134195850652
+	Radius		160.26675215207416	//in km
+	RotationPeriod	12.22219179200894	//in hours
+	Obliquity		281.6333236786243
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5085081298982894	//in AU
-		Eccentricity	0.17238537158449943
+		SemiMajorAxis	1.9814026897724917	//in AU
+		Eccentricity	0.19903358457639025
 		Inclination		131.0	//in degrees
-		AscendingNode	0.40435526914223996
-		ArgOfPericenter	0.03794274709717882
+		AscendingNode	242.35714024571652
+		ArgOfPericenter	0.1357552090815377
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13508,18 +13500,18 @@ Asteroid "Alderaan fragment 642"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		178.6037481405822	//in km
-	RotationPeriod	16.25725906401731	//in hours
-	Obliquity		255.7201460320434
+	Radius		63.321537801116975	//in km
+	RotationPeriod	11.759040346725694	//in hours
+	Obliquity		29.042002180155308
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4148949200004965	//in AU
-		Eccentricity	0.1476870282923369
+		SemiMajorAxis	2.681725155210916	//in AU
+		Eccentricity	0.18874852707380343
 		Inclination		131.0	//in degrees
-		AscendingNode	0.29347457162103296
-		ArgOfPericenter	-0.003470631980334482
+		AscendingNode	241.681734514972
+		ArgOfPericenter	-0.09876474210090591
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13529,18 +13521,18 @@ Asteroid "Alderaan fragment 643"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		25.94063045350311	//in km
-	RotationPeriod	5.989500890222035	//in hours
-	Obliquity		262.16918149684307
+	Radius		133.40260562604266	//in km
+	RotationPeriod	15.48854619525291	//in hours
+	Obliquity		288.75762563287157
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0196041637647473	//in AU
-		Eccentricity	0.17014440486103954
+		SemiMajorAxis	1.8084892829863346	//in AU
+		Eccentricity	0.1467880057800658
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4654785510006071
-		ArgOfPericenter	0.0956480172355686
+		AscendingNode	242.03104499239936
+		ArgOfPericenter	0.131173319965314
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13550,18 +13542,18 @@ Asteroid "Alderaan fragment 644"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		189.6457672591255	//in km
-	RotationPeriod	12.574834508081238	//in hours
-	Obliquity		257.3980629841957
+	Radius		168.7422509697758	//in km
+	RotationPeriod	12.107436387629939	//in hours
+	Obliquity		132.74227409019062
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7122782373281655	//in AU
-		Eccentricity	0.17206282104813414
+		SemiMajorAxis	2.9118219702952937	//in AU
+		Eccentricity	0.15935429600978257
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.09363805216658705
-		ArgOfPericenter	-0.14696426541392915
+		AscendingNode	242.1115665543311
+		ArgOfPericenter	0.4369126705282488
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13571,18 +13563,18 @@ Asteroid "Alderaan fragment 645"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		154.3765852710571	//in km
-	RotationPeriod	12.111035624976353	//in hours
-	Obliquity		144.0064612053036
+	Radius		136.82442196260882	//in km
+	RotationPeriod	11.532804302197516	//in hours
+	Obliquity		205.70779299964383
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8607188660164566	//in AU
-		Eccentricity	0.18934223416332868
+		SemiMajorAxis	2.886252698583057	//in AU
+		Eccentricity	0.17510271538607378
 		Inclination		131.0	//in degrees
-		AscendingNode	0.25827869205298803
-		ArgOfPericenter	-0.16002442121683658
+		AscendingNode	241.844184646035
+		ArgOfPericenter	-0.0319918564876529
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13592,18 +13584,18 @@ Asteroid "Alderaan fragment 646"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		76.00316238348313	//in km
-	RotationPeriod	9.85929160640076	//in hours
-	Obliquity		279.64073081271505
+	Radius		112.64361783099356	//in km
+	RotationPeriod	9.089958096776918	//in hours
+	Obliquity		154.0306239458352
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.225328991860886	//in AU
-		Eccentricity	0.19700979644136782
+		SemiMajorAxis	2.309685509549844	//in AU
+		Eccentricity	0.17705034625036273
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.09074270654405958
-		ArgOfPericenter	-0.07739677068772444
+		AscendingNode	241.71888934070444
+		ArgOfPericenter	0.4323998264091349
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13613,18 +13605,18 @@ Asteroid "Alderaan fragment 647"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		139.66368571760995	//in km
-	RotationPeriod	14.244056841319598	//in hours
-	Obliquity		182.1424264930603
+	Radius		139.48712916289278	//in km
+	RotationPeriod	9.090552345339358	//in hours
+	Obliquity		68.3739570465947
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.621841607056549	//in AU
-		Eccentricity	0.19067766935154842
+		SemiMajorAxis	2.3147564958685813	//in AU
+		Eccentricity	0.19144821319751087
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.17783065407811927
-		ArgOfPericenter	0.3635406456873165
+		AscendingNode	242.1638028935693
+		ArgOfPericenter	0.18693268454960454
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13634,18 +13626,18 @@ Asteroid "Alderaan fragment 648"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		50.449484697684866	//in km
-	RotationPeriod	9.438632049115132	//in hours
-	Obliquity		97.9972409041077
+	Radius		155.90657524727771	//in km
+	RotationPeriod	15.250539243376267	//in hours
+	Obliquity		332.70977736149314
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4642097639808145	//in AU
-		Eccentricity	0.152534139881484
+		SemiMajorAxis	2.6280760988336938	//in AU
+		Eccentricity	0.19532495590510862
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.30469492294669864
-		ArgOfPericenter	-0.3284238282612386
+		AscendingNode	241.8883863074763
+		ArgOfPericenter	-0.12000096477338695
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13655,18 +13647,18 @@ Asteroid "Alderaan fragment 649"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		183.55984737190278	//in km
-	RotationPeriod	7.782626807716314	//in hours
-	Obliquity		316.9635822869368
+	Radius		193.40412331347656	//in km
+	RotationPeriod	12.607885758815982	//in hours
+	Obliquity		88.59177745122152
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3102288560891076	//in AU
-		Eccentricity	0.1599264647885372
+		SemiMajorAxis	2.54784694796148	//in AU
+		Eccentricity	0.1305064236040936
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2697480587421287
-		ArgOfPericenter	-0.26053139363302724
+		AscendingNode	242.10073964214808
+		ArgOfPericenter	-0.41852365226225874
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13676,18 +13668,18 @@ Asteroid "Alderaan fragment 650"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		49.577276622407716	//in km
-	RotationPeriod	16.385312114933416	//in hours
-	Obliquity		226.91313555032593
+	Radius		135.18859543392483	//in km
+	RotationPeriod	9.627655646543174	//in hours
+	Obliquity		153.52866947715344
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.154466472117135	//in AU
-		Eccentricity	0.19631636831800034
+		SemiMajorAxis	2.3861346029119033	//in AU
+		Eccentricity	0.20759887411962172
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.41662971007847693
-		ArgOfPericenter	-0.11875885668034891
+		AscendingNode	241.76887137057855
+		ArgOfPericenter	0.36136266272247275
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13697,18 +13689,18 @@ Asteroid "Alderaan fragment 651"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		71.46712348578873	//in km
-	RotationPeriod	13.236855394545001	//in hours
-	Obliquity		159.03282048881073
+	Radius		200.30609603111628	//in km
+	RotationPeriod	13.591583874089672	//in hours
+	Obliquity		311.02370323903114
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6084697636603287	//in AU
-		Eccentricity	0.1445140466417551
+		SemiMajorAxis	2.793443497528938	//in AU
+		Eccentricity	0.1475657325698742
 		Inclination		131.0	//in degrees
-		AscendingNode	0.03729574688679249
-		ArgOfPericenter	-0.11408788945756476
+		AscendingNode	242.02588510904465
+		ArgOfPericenter	0.4811119895990308
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13718,18 +13710,18 @@ Asteroid "Alderaan fragment 652"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		42.25359771038613	//in km
-	RotationPeriod	15.665982939652869	//in hours
-	Obliquity		20.615073026618674
+	Radius		39.48025282766899	//in km
+	RotationPeriod	16.156688705597922	//in hours
+	Obliquity		41.06305033864376
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.859607771622904	//in AU
-		Eccentricity	0.19034199095341273
+		SemiMajorAxis	2.8226106087939344	//in AU
+		Eccentricity	0.12779636470906827
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.23532814615242126
-		ArgOfPericenter	0.3553364135990251
+		AscendingNode	242.40966865911741
+		ArgOfPericenter	-0.06008536251407126
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13739,18 +13731,18 @@ Asteroid "Alderaan fragment 653"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		172.49493222385524	//in km
-	RotationPeriod	15.60324624963081	//in hours
-	Obliquity		69.01773421275766
+	Radius		237.53017564735237	//in km
+	RotationPeriod	11.055442836945149	//in hours
+	Obliquity		292.4562808009655
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.236645539881	//in AU
-		Eccentricity	0.14973767631372986
+		SemiMajorAxis	2.532774130175727	//in AU
+		Eccentricity	0.16778729029852804
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.05297713308711738
-		ArgOfPericenter	0.45283426908596913
+		AscendingNode	242.33302414460394
+		ArgOfPericenter	-0.3079452689769353
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13760,18 +13752,18 @@ Asteroid "Alderaan fragment 654"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		65.03151624997705	//in km
-	RotationPeriod	7.370426108687949	//in hours
-	Obliquity		287.82730809691657
+	Radius		125.17354883788587	//in km
+	RotationPeriod	10.405490592571658	//in hours
+	Obliquity		315.0282391255117
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.919575616457549	//in AU
-		Eccentricity	0.13712893883114602
+		SemiMajorAxis	2.186820077165326	//in AU
+		Eccentricity	0.17100612313032473
 		Inclination		131.0	//in degrees
-		AscendingNode	0.02326347368960413
-		ArgOfPericenter	0.2360161275613727
+		AscendingNode	242.21138366204198
+		ArgOfPericenter	-0.29934683394653316
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13781,18 +13773,18 @@ Asteroid "Alderaan fragment 655"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		70.9323155506738	//in km
-	RotationPeriod	7.246587245315355	//in hours
-	Obliquity		121.48440302464944
+	Radius		28.033955623229303	//in km
+	RotationPeriod	9.088681208548078	//in hours
+	Obliquity		219.05479546966416
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3064029387505176	//in AU
-		Eccentricity	0.19462095309407926
+		SemiMajorAxis	2.905458430206127	//in AU
+		Eccentricity	0.1897914762726748
 		Inclination		131.0	//in degrees
-		AscendingNode	0.014282947809211688
-		ArgOfPericenter	-0.3325446785041123
+		AscendingNode	241.67158151387667
+		ArgOfPericenter	-0.2678205603916871
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13802,18 +13794,18 @@ Asteroid "Alderaan fragment 656"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		69.0688829934686	//in km
-	RotationPeriod	13.671024094563833	//in hours
-	Obliquity		48.09322684019878
+	Radius		216.34352141138154	//in km
+	RotationPeriod	8.987840153291495	//in hours
+	Obliquity		169.27393862177564
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6256857884315723	//in AU
-		Eccentricity	0.18042812599011926
+		SemiMajorAxis	2.64568085278074	//in AU
+		Eccentricity	0.1410702334001562
 		Inclination		131.0	//in degrees
-		AscendingNode	0.04156270870196965
-		ArgOfPericenter	0.24892837130755685
+		AscendingNode	242.20824420669678
+		ArgOfPericenter	-0.4700783011385652
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13823,18 +13815,18 @@ Asteroid "Alderaan fragment 657"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		45.64207795766693	//in km
-	RotationPeriod	21.549352952804696	//in hours
-	Obliquity		339.09534294275636
+	Radius		113.47593585931445	//in km
+	RotationPeriod	17.899184018980083	//in hours
+	Obliquity		255.72487946949065
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5722838748280186	//in AU
-		Eccentricity	0.1725653087346573
+		SemiMajorAxis	2.9760204310610066	//in AU
+		Eccentricity	0.12663926913673149
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2868742107285245
-		ArgOfPericenter	0.48673657082954047
+		AscendingNode	242.37718747695374
+		ArgOfPericenter	-0.34257314266408545
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13844,18 +13836,18 @@ Asteroid "Alderaan fragment 658"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		105.05909286312935	//in km
-	RotationPeriod	9.093139356613758	//in hours
-	Obliquity		314.47909312050666
+	Radius		155.54208158431868	//in km
+	RotationPeriod	5.794827122329934	//in hours
+	Obliquity		281.30662344463155
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5475972079288565	//in AU
-		Eccentricity	0.19628549091577915
+		SemiMajorAxis	2.658887531778133	//in AU
+		Eccentricity	0.17010410527644498
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2700349443307998
-		ArgOfPericenter	0.024894827833480293
+		AscendingNode	242.04333787726307
+		ArgOfPericenter	-0.37746243590728623
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13865,18 +13857,18 @@ Asteroid "Alderaan fragment 659"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		43.47896199066253	//in km
-	RotationPeriod	2.6834277852185426	//in hours
-	Obliquity		85.44006581774536
+	Radius		160.05361741850527	//in km
+	RotationPeriod	14.51459182638353	//in hours
+	Obliquity		25.76411333416697
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1063213384909996	//in AU
-		Eccentricity	0.1526356068264108
+		SemiMajorAxis	2.9389010241441156	//in AU
+		Eccentricity	0.17336495374902108
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19918876688079
-		ArgOfPericenter	-0.3990962497510313
+		AscendingNode	242.47680806140198
+		ArgOfPericenter	-0.059856155834181246
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13886,18 +13878,18 @@ Asteroid "Alderaan fragment 660"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		77.4256670028754	//in km
-	RotationPeriod	13.059614427338602	//in hours
-	Obliquity		350.1440901186788
+	Radius		227.46838500585798	//in km
+	RotationPeriod	9.51050514693071	//in hours
+	Obliquity		352.56502839232036
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6173080665079036	//in AU
-		Eccentricity	0.18373784032615215
+		SemiMajorAxis	2.501215017409383	//in AU
+		Eccentricity	0.14455391092893144
 		Inclination		131.0	//in degrees
-		AscendingNode	0.06581751659569646
-		ArgOfPericenter	-0.21328177631627665
+		AscendingNode	241.93077485049287
+		ArgOfPericenter	-0.009482523995160586
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13907,18 +13899,18 @@ Asteroid "Alderaan fragment 661"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		113.43934276199981	//in km
-	RotationPeriod	9.618678119412937	//in hours
-	Obliquity		255.09818442461966
+	Radius		217.8863577429414	//in km
+	RotationPeriod	10.315368219333308	//in hours
+	Obliquity		87.09706768087902
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5369857680037304	//in AU
-		Eccentricity	0.15203442360081948
+		SemiMajorAxis	2.755414944767497	//in AU
+		Eccentricity	0.14241688292516985
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3138125090139955
-		ArgOfPericenter	-0.012853029451808884
+		AscendingNode	241.78644762688435
+		ArgOfPericenter	0.4922899659527664
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13928,18 +13920,18 @@ Asteroid "Alderaan fragment 662"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		32.80092986636341	//in km
-	RotationPeriod	14.540843138349691	//in hours
-	Obliquity		279.37048097324197
+	Radius		169.55542656217966	//in km
+	RotationPeriod	11.409615866814125	//in hours
+	Obliquity		12.445774617996701
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4171788045460745	//in AU
-		Eccentricity	0.16291848662479308
+		SemiMajorAxis	2.8550536974341583	//in AU
+		Eccentricity	0.18814085755607282
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3220203944191382
-		ArgOfPericenter	-0.4788372118499782
+		AscendingNode	241.96490618237587
+		ArgOfPericenter	-0.14793573040162666
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13949,18 +13941,18 @@ Asteroid "Alderaan fragment 663"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.207720877613069	//in km
-	RotationPeriod	16.97406044139651	//in hours
-	Obliquity		295.38054652133457
+	Radius		126.16251970322196	//in km
+	RotationPeriod	20.047789610228506	//in hours
+	Obliquity		23.833604484276933
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0005385939388125	//in AU
-		Eccentricity	0.19651943843290265
+		SemiMajorAxis	2.804547719026592	//in AU
+		Eccentricity	0.18498997538192052
 		Inclination		131.0	//in degrees
-		AscendingNode	0.21063474335048482
-		ArgOfPericenter	-0.33577023973879494
+		AscendingNode	242.08654207938181
+		ArgOfPericenter	0.34386393244931557
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13970,18 +13962,18 @@ Asteroid "Alderaan fragment 664"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		110.07006879682594	//in km
-	RotationPeriod	7.9130506099486215	//in hours
-	Obliquity		32.566447502445534
+	Radius		158.25906959732987	//in km
+	RotationPeriod	11.355682166651311	//in hours
+	Obliquity		344.7039907051884
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.398179023285173	//in AU
-		Eccentricity	0.16550236921793093
+		SemiMajorAxis	2.359167064250668	//in AU
+		Eccentricity	0.13152370398094415
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2841043966090625
-		ArgOfPericenter	-0.22245517129416825
+		AscendingNode	242.176796794681
+		ArgOfPericenter	0.3779239410546842
 		RefPlane		"Ecliptic"
 	}
 }
@@ -13991,18 +13983,18 @@ Asteroid "Alderaan fragment 665"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		147.76843054827202	//in km
-	RotationPeriod	19.005397857779624	//in hours
-	Obliquity		321.0314519923406
+	Radius		152.37321678240752	//in km
+	RotationPeriod	13.318151427596252	//in hours
+	Obliquity		252.56487770897735
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5930428471390896	//in AU
-		Eccentricity	0.1646377033602113
+		SemiMajorAxis	2.5072883316641836	//in AU
+		Eccentricity	0.18080970442917718
 		Inclination		131.0	//in degrees
-		AscendingNode	0.17278522112414985
-		ArgOfPericenter	-0.2996155197051781
+		AscendingNode	241.8524024147684
+		ArgOfPericenter	0.4021622037717435
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14012,18 +14004,18 @@ Asteroid "Alderaan fragment 666"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		18.28234609158659	//in km
-	RotationPeriod	7.057650780537418	//in hours
-	Obliquity		41.8378076685262
+	Radius		176.68249276466153	//in km
+	RotationPeriod	5.900584741164427	//in hours
+	Obliquity		120.32655137613186
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5868835186931194	//in AU
-		Eccentricity	0.1935364025308087
+		SemiMajorAxis	2.3756925663146116	//in AU
+		Eccentricity	0.19096885617879222
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2602928709256034
-		ArgOfPericenter	-0.28415984325807175
+		AscendingNode	241.88957393594194
+		ArgOfPericenter	-0.08129640701525387
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14033,18 +14025,18 @@ Asteroid "Alderaan fragment 667"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		211.09298872642506	//in km
-	RotationPeriod	7.967901222654224	//in hours
-	Obliquity		291.93046162282633
+	Radius		167.79847370406347	//in km
+	RotationPeriod	16.24652857234036	//in hours
+	Obliquity		79.44590196737403
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.584671334988656	//in AU
-		Eccentricity	0.14868887491187366
+		SemiMajorAxis	2.8147844424997097	//in AU
+		Eccentricity	0.13403155223422308
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.09280585456031287
-		ArgOfPericenter	0.36022588028617153
+		AscendingNode	242.1415780362849
+		ArgOfPericenter	0.4763368634750772
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14054,18 +14046,18 @@ Asteroid "Alderaan fragment 668"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		42.42686953355637	//in km
-	RotationPeriod	12.327810480754227	//in hours
-	Obliquity		170.77484101070536
+	Radius		187.28698626521575	//in km
+	RotationPeriod	8.522537669513918	//in hours
+	Obliquity		65.80750996172843
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7879406159064524	//in AU
-		Eccentricity	0.16847047149064817
+		SemiMajorAxis	2.419380171506519	//in AU
+		Eccentricity	0.15465828167512669
 		Inclination		131.0	//in degrees
-		AscendingNode	0.12979850063458676
-		ArgOfPericenter	0.24681030890327316
+		AscendingNode	242.2154312601029
+		ArgOfPericenter	-0.3716037419725654
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14075,18 +14067,18 @@ Asteroid "Alderaan fragment 669"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		0.7729468359082992	//in km
-	RotationPeriod	9.612308400258513	//in hours
-	Obliquity		193.6126036546223
+	Radius		176.7746985097919	//in km
+	RotationPeriod	9.837043601779204	//in hours
+	Obliquity		312.5724625333341
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.656606970416183	//in AU
-		Eccentricity	0.15460444645601448
+		SemiMajorAxis	2.7039840540451783	//in AU
+		Eccentricity	0.12940686630094322
 		Inclination		131.0	//in degrees
-		AscendingNode	0.16857080713586092
-		ArgOfPericenter	-0.19700646290308588
+		AscendingNode	242.0790713648913
+		ArgOfPericenter	0.03298168577617988
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14096,18 +14088,18 @@ Asteroid "Alderaan fragment 670"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		22.032767125029785	//in km
-	RotationPeriod	8.947416839120736	//in hours
-	Obliquity		30.960655787698734
+	Radius		94.55957203060188	//in km
+	RotationPeriod	11.814085341661956	//in hours
+	Obliquity		288.32662504549205
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2164780004985647	//in AU
-		Eccentricity	0.16315083305830608
+		SemiMajorAxis	2.1898024374000875	//in AU
+		Eccentricity	0.14531629444129376
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.27972380192052215
-		ArgOfPericenter	0.3793687456553767
+		AscendingNode	242.36684319456955
+		ArgOfPericenter	-0.12863334218324762
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14117,18 +14109,18 @@ Asteroid "Alderaan fragment 671"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		22.480722255415856	//in km
-	RotationPeriod	15.090406970573172	//in hours
-	Obliquity		55.705372854523844
+	Radius		161.00719690221473	//in km
+	RotationPeriod	17.835000800906002	//in hours
+	Obliquity		239.0694919498479
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4820327717111597	//in AU
-		Eccentricity	0.17661883103407267
+		SemiMajorAxis	2.692137745219955	//in AU
+		Eccentricity	0.20144475745634507
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.29542854731553647
-		ArgOfPericenter	-0.034991304309703986
+		AscendingNode	241.6241779147971
+		ArgOfPericenter	-0.15813164627803145
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14138,18 +14130,18 @@ Asteroid "Alderaan fragment 672"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		29.17485484964017	//in km
-	RotationPeriod	17.13712923520495	//in hours
-	Obliquity		148.08525353940115
+	Radius		124.8076464966838	//in km
+	RotationPeriod	14.132156918999739	//in hours
+	Obliquity		37.746022630871096
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.380967506630176	//in AU
-		Eccentricity	0.12339145522856218
+		SemiMajorAxis	2.4986974273866296	//in AU
+		Eccentricity	0.16598438835227172
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4658903587121944
-		ArgOfPericenter	0.22313733113688272
+		AscendingNode	242.0277493852118
+		ArgOfPericenter	-0.09395886329423353
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14159,18 +14151,18 @@ Asteroid "Alderaan fragment 673"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		214.61587851322793	//in km
-	RotationPeriod	8.574500539588774	//in hours
-	Obliquity		11.24561949504435
+	Radius		223.6908429090272	//in km
+	RotationPeriod	13.867218691550798	//in hours
+	Obliquity		289.77516136378995
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.441574591039735	//in AU
-		Eccentricity	0.17845753973304326
+		SemiMajorAxis	2.4200100352075826	//in AU
+		Eccentricity	0.14283600961313472
 		Inclination		131.0	//in degrees
-		AscendingNode	0.11867167584959681
-		ArgOfPericenter	0.1452280458253401
+		AscendingNode	242.23090723736908
+		ArgOfPericenter	-0.4915840260729729
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14180,18 +14172,18 @@ Asteroid "Alderaan fragment 674"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		85.80541156365412	//in km
-	RotationPeriod	18.822276354510112	//in hours
-	Obliquity		63.18678706176072
+	Radius		133.71731264239983	//in km
+	RotationPeriod	11.675368239316393	//in hours
+	Obliquity		309.59289577813223
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.457760489018584	//in AU
-		Eccentricity	0.15454353854353237
+		SemiMajorAxis	2.5113311370740816	//in AU
+		Eccentricity	0.16985207929704807
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3735041496008986
-		ArgOfPericenter	-0.13246673157779032
+		AscendingNode	241.7180395048973
+		ArgOfPericenter	-0.028701906953061185
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14201,18 +14193,18 @@ Asteroid "Alderaan fragment 675"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		190.3580652386299	//in km
-	RotationPeriod	14.090268355409188	//in hours
-	Obliquity		163.30727691971936
+	Radius		97.79705032411542	//in km
+	RotationPeriod	16.602347475901684	//in hours
+	Obliquity		215.8264283940409
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7637372944405354	//in AU
-		Eccentricity	0.18153014366780357
+		SemiMajorAxis	2.2159251452779856	//in AU
+		Eccentricity	0.1299017672598445
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.009270107595615973
-		ArgOfPericenter	-0.489931858161357
+		AscendingNode	242.15169052163048
+		ArgOfPericenter	0.16985839714114126
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14222,18 +14214,18 @@ Asteroid "Alderaan fragment 676"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		122.24369310821962	//in km
-	RotationPeriod	9.847779589215488	//in hours
-	Obliquity		236.49845667501387
+	Radius		197.0366174905936	//in km
+	RotationPeriod	11.89233176188231	//in hours
+	Obliquity		42.45925089171103
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.502543255753256	//in AU
-		Eccentricity	0.14856261731659548
+		SemiMajorAxis	2.5160867170731884	//in AU
+		Eccentricity	0.15688606877207456
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.24907220891935777
-		ArgOfPericenter	0.2673341526768326
+		AscendingNode	242.17557888460198
+		ArgOfPericenter	-0.29529817274597336
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14243,18 +14235,18 @@ Asteroid "Alderaan fragment 677"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		239.2452506612026	//in km
-	RotationPeriod	11.07479841253388	//in hours
-	Obliquity		342.2771683743238
+	Radius		147.29526168251547	//in km
+	RotationPeriod	15.594272756848225	//in hours
+	Obliquity		319.39329945361783
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9689708235071146	//in AU
-		Eccentricity	0.15972676081137135
+		SemiMajorAxis	2.6454439568643893	//in AU
+		Eccentricity	0.1500089788761626
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.05902723411387478
-		ArgOfPericenter	0.26897518885618965
+		AscendingNode	242.16123789940303
+		ArgOfPericenter	-0.17407305783804805
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14264,18 +14256,18 @@ Asteroid "Alderaan fragment 678"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		99.04933006292678	//in km
-	RotationPeriod	15.22395626514226	//in hours
-	Obliquity		239.10475477603094
+	Radius		137.1144752795927	//in km
+	RotationPeriod	11.51693480934745	//in hours
+	Obliquity		156.269332286292
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.70796770931411	//in AU
-		Eccentricity	0.1423800243965353
+		SemiMajorAxis	2.754074774431823	//in AU
+		Eccentricity	0.1638843994465282
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.11037226669668176
-		ArgOfPericenter	0.05079218996991586
+		AscendingNode	242.1135884355781
+		ArgOfPericenter	0.494170203960398
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14285,18 +14277,18 @@ Asteroid "Alderaan fragment 679"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		70.68098067310962	//in km
-	RotationPeriod	15.120832433272582	//in hours
-	Obliquity		108.86334239060874
+	Radius		162.92596386062533	//in km
+	RotationPeriod	14.777255738079512	//in hours
+	Obliquity		236.69680390765598
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6279906350692217	//in AU
-		Eccentricity	0.16561501852525423
+		SemiMajorAxis	2.401851632137541	//in AU
+		Eccentricity	0.18520564516923474
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2109375077437987
-		ArgOfPericenter	0.3642732616137623
+		AscendingNode	241.98816514863518
+		ArgOfPericenter	-0.4504428613330702
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14306,18 +14298,18 @@ Asteroid "Alderaan fragment 680"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		41.49241576973264	//in km
-	RotationPeriod	16.082528321139286	//in hours
-	Obliquity		222.5004351719543
+	Radius		244.0857569077868	//in km
+	RotationPeriod	18.40636800157579	//in hours
+	Obliquity		62.010226347551985
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.53735759577195	//in AU
-		Eccentricity	0.14544449702031292
+		SemiMajorAxis	2.6504201229754285	//in AU
+		Eccentricity	0.20952356582920553
 		Inclination		131.0	//in degrees
-		AscendingNode	0.43277772776618395
-		ArgOfPericenter	0.44099969820530205
+		AscendingNode	242.08465649155642
+		ArgOfPericenter	0.03412392490120575
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14327,18 +14319,18 @@ Asteroid "Alderaan fragment 681"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		78.43771179685552	//in km
-	RotationPeriod	16.217866282335052	//in hours
-	Obliquity		185.3804662589266
+	Radius		183.99543586598227	//in km
+	RotationPeriod	11.09323153170722	//in hours
+	Obliquity		100.59718611351731
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.136036227115964	//in AU
-		Eccentricity	0.18393950624520194
+		SemiMajorAxis	2.706518405790174	//in AU
+		Eccentricity	0.1408261843231841
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3516184586920783
-		ArgOfPericenter	0.04822386894454256
+		AscendingNode	242.4321183157967
+		ArgOfPericenter	-0.1920806578422839
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14348,18 +14340,18 @@ Asteroid "Alderaan fragment 682"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		26.254859767744698	//in km
-	RotationPeriod	13.656835950554123	//in hours
-	Obliquity		332.74751572091986
+	Radius		215.37103801066593	//in km
+	RotationPeriod	16.331709895914596	//in hours
+	Obliquity		104.20063672313312
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.759125033110076	//in AU
-		Eccentricity	0.15160700539179314
+		SemiMajorAxis	2.1304445685059625	//in AU
+		Eccentricity	0.14095714188399783
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4950636434459972
-		ArgOfPericenter	-0.23545393682545313
+		AscendingNode	241.71607376664318
+		ArgOfPericenter	0.2798062292701746
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14369,18 +14361,18 @@ Asteroid "Alderaan fragment 683"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		160.64808628413567	//in km
-	RotationPeriod	13.27500208175197	//in hours
-	Obliquity		215.18924601158162
+	Radius		172.54489397811844	//in km
+	RotationPeriod	10.499283665645166	//in hours
+	Obliquity		185.69613984523994
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.420004685593538	//in AU
-		Eccentricity	0.16274311823292215
+		SemiMajorAxis	2.368306379455706	//in AU
+		Eccentricity	0.15084337067273626
 		Inclination		131.0	//in degrees
-		AscendingNode	0.23775922419481277
-		ArgOfPericenter	0.09823018194354949
+		AscendingNode	241.9123308410461
+		ArgOfPericenter	0.3123413706245213
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14390,18 +14382,18 @@ Asteroid "Alderaan fragment 684"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		122.90133613744925	//in km
-	RotationPeriod	17.833554155531324	//in hours
-	Obliquity		143.1920599670013
+	Radius		197.76789894466873	//in km
+	RotationPeriod	16.082841063821824	//in hours
+	Obliquity		297.28818410619795
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3104497063656444	//in AU
-		Eccentricity	0.1636115486718844
+		SemiMajorAxis	2.6786502598558326	//in AU
+		Eccentricity	0.18284788806276
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1681854004054255
-		ArgOfPericenter	-0.4781222165084932
+		AscendingNode	242.4206836319685
+		ArgOfPericenter	0.018832926569175457
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14411,18 +14403,18 @@ Asteroid "Alderaan fragment 685"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		124.6878605507278	//in km
-	RotationPeriod	9.184935192503218	//in hours
-	Obliquity		165.52846699229818
+	Radius		233.41084376161314	//in km
+	RotationPeriod	8.409333766502735	//in hours
+	Obliquity		245.58472875971717
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3707036905973253	//in AU
-		Eccentricity	0.14627470959440256
+		SemiMajorAxis	2.624181110153538	//in AU
+		Eccentricity	0.16969373855425773
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4516697731076291
-		ArgOfPericenter	-0.22866667027937193
+		AscendingNode	241.69701755819483
+		ArgOfPericenter	-0.4833426397575308
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14432,18 +14424,18 @@ Asteroid "Alderaan fragment 686"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.811606063054015	//in km
-	RotationPeriod	16.613141631950906	//in hours
-	Obliquity		195.5809696890063
+	Radius		65.38263172218525	//in km
+	RotationPeriod	15.931048983373977	//in hours
+	Obliquity		271.54761465302613
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5489445214116833	//in AU
-		Eccentricity	0.19635067497544645
+		SemiMajorAxis	2.5355264718227377	//in AU
+		Eccentricity	0.15032462831759044
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3019894034462106
-		ArgOfPericenter	0.2903616082901652
+		AscendingNode	241.64661910700698
+		ArgOfPericenter	-0.12386425645019761
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14453,18 +14445,18 @@ Asteroid "Alderaan fragment 687"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		78.57075457043443	//in km
-	RotationPeriod	8.989581637366694	//in hours
-	Obliquity		16.023695923045523
+	Radius		194.60934913736247	//in km
+	RotationPeriod	11.802893510873446	//in hours
+	Obliquity		99.13285965357164
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.878828920537082	//in AU
-		Eccentricity	0.16478117949463586
+		SemiMajorAxis	2.9035712938096134	//in AU
+		Eccentricity	0.130356308089353
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3828666215054187
-		ArgOfPericenter	0.2626277256806674
+		AscendingNode	241.62507305488697
+		ArgOfPericenter	0.456427674810415
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14474,18 +14466,18 @@ Asteroid "Alderaan fragment 688"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.86554266791015	//in km
-	RotationPeriod	9.43617450299499	//in hours
-	Obliquity		304.61654295596406
+	Radius		67.71652478319436	//in km
+	RotationPeriod	14.89360542266682	//in hours
+	Obliquity		6.759311640980776
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6451282511512515	//in AU
-		Eccentricity	0.17215889842410925
+		SemiMajorAxis	2.758103417155567	//in AU
+		Eccentricity	0.15352751074949908
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.33637389085122016
-		ArgOfPericenter	-0.09697984772787849
+		AscendingNode	241.5930991724725
+		ArgOfPericenter	-0.4482347497501853
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14495,18 +14487,18 @@ Asteroid "Alderaan fragment 689"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		156.00511507355083	//in km
-	RotationPeriod	12.51357286146013	//in hours
-	Obliquity		122.88824645501282
+	Radius		145.91863391155832	//in km
+	RotationPeriod	13.56558051834654	//in hours
+	Obliquity		38.67426526855005
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5196450521841975	//in AU
-		Eccentricity	0.1438153240772386
+		SemiMajorAxis	2.4553932081375125	//in AU
+		Eccentricity	0.19061995817427985
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.04922875882687083
-		ArgOfPericenter	0.46623488055982754
+		AscendingNode	241.73897869945137
+		ArgOfPericenter	0.21576247750381028
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14516,18 +14508,18 @@ Asteroid "Alderaan fragment 690"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		44.84736349914106	//in km
-	RotationPeriod	11.751456321609929	//in hours
-	Obliquity		122.42319981794094
+	Radius		226.41563747076825	//in km
+	RotationPeriod	11.575690822609605	//in hours
+	Obliquity		333.25467671387935
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5368884561666296	//in AU
-		Eccentricity	0.1677464646347864
+		SemiMajorAxis	2.8240249142737675	//in AU
+		Eccentricity	0.17891011318185437
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3504259383392687
-		ArgOfPericenter	-0.4316669184699805
+		AscendingNode	242.23869312912652
+		ArgOfPericenter	0.06849178155936608
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14537,18 +14529,18 @@ Asteroid "Alderaan fragment 691"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		68.39229184498866	//in km
-	RotationPeriod	13.304211412196251	//in hours
-	Obliquity		53.998794363094255
+	Radius		110.69849500372716	//in km
+	RotationPeriod	18.803439409155764	//in hours
+	Obliquity		304.46476115832655
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5217285980611495	//in AU
-		Eccentricity	0.12337799699917738
+		SemiMajorAxis	2.348565447419285	//in AU
+		Eccentricity	0.2024925578129383
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.24932013942145292
-		ArgOfPericenter	-0.1843737874420066
+		AscendingNode	241.8958812227751
+		ArgOfPericenter	0.45090806981345233
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14558,18 +14550,18 @@ Asteroid "Alderaan fragment 692"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		19.523222644394956	//in km
-	RotationPeriod	7.835853772478876	//in hours
-	Obliquity		206.1089234497009
+	Radius		76.12819385159827	//in km
+	RotationPeriod	14.055410322717048	//in hours
+	Obliquity		262.83581548451144
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6843265508790393	//in AU
-		Eccentricity	0.1513398221795936
+		SemiMajorAxis	2.793974338721782	//in AU
+		Eccentricity	0.1608341887562449
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.24563432559648424
-		ArgOfPericenter	-0.07403422482748923
+		AscendingNode	241.71254447145049
+		ArgOfPericenter	-0.18716731406591836
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14579,18 +14571,18 @@ Asteroid "Alderaan fragment 693"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		80.35327376224622	//in km
-	RotationPeriod	10.108468611680095	//in hours
-	Obliquity		181.833533767857
+	Radius		154.48080941742788	//in km
+	RotationPeriod	13.722281849943869	//in hours
+	Obliquity		64.78423588520567
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.113164532372706	//in AU
-		Eccentricity	0.14085165555023282
+		SemiMajorAxis	2.936324282325041	//in AU
+		Eccentricity	0.15968604831714095
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3473089258264961
-		ArgOfPericenter	0.3883874100551761
+		AscendingNode	241.96580943907034
+		ArgOfPericenter	-0.4132118970861458
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14600,18 +14592,18 @@ Asteroid "Alderaan fragment 694"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		89.00768169423267	//in km
-	RotationPeriod	10.822915697274874	//in hours
-	Obliquity		272.9727168919342
+	Radius		156.38934383632733	//in km
+	RotationPeriod	13.5056707523944	//in hours
+	Obliquity		108.37911301606432
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8647849585781735	//in AU
-		Eccentricity	0.19338661699699217
+		SemiMajorAxis	2.832678413522371	//in AU
+		Eccentricity	0.20110999428414894
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.18644895882947177
-		ArgOfPericenter	0.15687045261726296
+		AscendingNode	242.40434846629014
+		ArgOfPericenter	0.009365825020289709
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14621,18 +14613,18 @@ Asteroid "Alderaan fragment 695"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		235.81145621736505	//in km
-	RotationPeriod	14.859437121043612	//in hours
-	Obliquity		333.1199314643822
+	Radius		112.82431434271919	//in km
+	RotationPeriod	14.13426758960436	//in hours
+	Obliquity		55.385492757285746
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.535030630517515	//in AU
-		Eccentricity	0.18064067557594277
+		SemiMajorAxis	2.779136970165457	//in AU
+		Eccentricity	0.14124062037498006
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.35775956863650316
-		ArgOfPericenter	-0.14938150539711803
+		AscendingNode	242.34742213206496
+		ArgOfPericenter	-0.4811358493663561
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14642,18 +14634,18 @@ Asteroid "Alderaan fragment 696"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		53.906609747920584	//in km
-	RotationPeriod	9.02207284910447	//in hours
-	Obliquity		0.07813248272190432
+	Radius		164.14990003764106	//in km
+	RotationPeriod	10.218395549193481	//in hours
+	Obliquity		207.16932752997596
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5304502720833058	//in AU
-		Eccentricity	0.16061754899226602
+		SemiMajorAxis	2.6124976732952057	//in AU
+		Eccentricity	0.19409864794488316
 		Inclination		131.0	//in degrees
-		AscendingNode	0.29689081913841997
-		ArgOfPericenter	0.47805470502360425
+		AscendingNode	242.1034832372568
+		ArgOfPericenter	0.09915560573136939
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14663,18 +14655,18 @@ Asteroid "Alderaan fragment 697"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		10.115877301440548	//in km
-	RotationPeriod	10.182554619556221	//in hours
-	Obliquity		180.90286810393837
+	Radius		161.47573887336338	//in km
+	RotationPeriod	10.883627712320218	//in hours
+	Obliquity		288.26070289191773
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.343250521472068	//in AU
-		Eccentricity	0.16025116868073186
+		SemiMajorAxis	2.495522835913447	//in AU
+		Eccentricity	0.18152702832979808
 		Inclination		131.0	//in degrees
-		AscendingNode	0.48041814497109914
-		ArgOfPericenter	0.2902763180053892
+		AscendingNode	241.574418164551
+		ArgOfPericenter	-0.2863896341645197
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14684,18 +14676,18 @@ Asteroid "Alderaan fragment 698"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		183.35952032676863	//in km
-	RotationPeriod	9.504382629687733	//in hours
-	Obliquity		257.7840805658594
+	Radius		138.737603852843	//in km
+	RotationPeriod	8.13405280183224	//in hours
+	Obliquity		116.06990703777541
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.2793728446433015	//in AU
-		Eccentricity	0.14660234771536945
+		SemiMajorAxis	2.4352688363471295	//in AU
+		Eccentricity	0.15351308879881798
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.009184375180269044
-		ArgOfPericenter	0.2465922819952968
+		AscendingNode	241.72490266592519
+		ArgOfPericenter	0.037142947061171716
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14705,18 +14697,18 @@ Asteroid "Alderaan fragment 699"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		164.1682227249655	//in km
-	RotationPeriod	11.517655944473404	//in hours
-	Obliquity		248.18925500854783
+	Radius		149.21615820630007	//in km
+	RotationPeriod	13.695811255439049	//in hours
+	Obliquity		118.18753892328077
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1722600507689545	//in AU
-		Eccentricity	0.1677654382338839
+		SemiMajorAxis	2.3604469764540505	//in AU
+		Eccentricity	0.13985637975108334
 		Inclination		131.0	//in degrees
-		AscendingNode	0.26432806068868386
-		ArgOfPericenter	-0.1030364398386685
+		AscendingNode	241.5923605759887
+		ArgOfPericenter	0.17444288510467387
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14726,18 +14718,18 @@ Asteroid "Alderaan fragment 700"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		146.75514728642315	//in km
-	RotationPeriod	7.338183249104953	//in hours
-	Obliquity		271.3782755681883
+	Radius		164.20044523751966	//in km
+	RotationPeriod	20.603225588659157	//in hours
+	Obliquity		21.899007401757427
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4630559801571925	//in AU
-		Eccentricity	0.1838891867277649
+		SemiMajorAxis	2.6754939759521346	//in AU
+		Eccentricity	0.1617091483118538
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3344368735807075
-		ArgOfPericenter	-0.3755539346575224
+		AscendingNode	241.97799752505338
+		ArgOfPericenter	-0.2265380843138144
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14747,18 +14739,18 @@ Asteroid "Alderaan fragment 701"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		137.3945302552796	//in km
-	RotationPeriod	14.175716695609212	//in hours
-	Obliquity		327.9759323861807
+	Radius		62.64645497077757	//in km
+	RotationPeriod	19.837475626783267	//in hours
+	Obliquity		262.24894521636026
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.330580955536548	//in AU
-		Eccentricity	0.1950735642971059
+		SemiMajorAxis	2.635309841967933	//in AU
+		Eccentricity	0.17202828656764899
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1161965242893982
-		ArgOfPericenter	-0.4345953091096382
+		AscendingNode	242.21415451541714
+		ArgOfPericenter	-0.0707988075009881
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14768,18 +14760,18 @@ Asteroid "Alderaan fragment 702"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		46.940590487772425	//in km
-	RotationPeriod	6.410392715354925	//in hours
-	Obliquity		319.3125967702802
+	Radius		136.0109336387987	//in km
+	RotationPeriod	14.16608970335557	//in hours
+	Obliquity		123.62700501528546
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.547079600146616	//in AU
-		Eccentricity	0.12535654033163413
+		SemiMajorAxis	2.574568923143974	//in AU
+		Eccentricity	0.17976194078656887
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.08222392038898796
-		ArgOfPericenter	-0.13237033555640576
+		AscendingNode	241.85725369857906
+		ArgOfPericenter	0.3200226165665735
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14789,18 +14781,18 @@ Asteroid "Alderaan fragment 703"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		33.773477349803215	//in km
-	RotationPeriod	8.402811106073841	//in hours
-	Obliquity		24.334535958396167
+	Radius		60.902577446325765	//in km
+	RotationPeriod	9.687566457701378	//in hours
+	Obliquity		226.418423755731
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7680071544536107	//in AU
-		Eccentricity	0.14973294850069466
+		SemiMajorAxis	2.730816791540243	//in AU
+		Eccentricity	0.1599859728087881
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2729866981387288
-		ArgOfPericenter	-0.20838850423847544
+		AscendingNode	241.5146293261538
+		ArgOfPericenter	0.04796967406007602
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14810,18 +14802,18 @@ Asteroid "Alderaan fragment 704"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		120.73980178779051	//in km
-	RotationPeriod	8.541992235620913	//in hours
-	Obliquity		19.705947422752285
+	Radius		157.47971481931722	//in km
+	RotationPeriod	3.6694483280797705	//in hours
+	Obliquity		303.48676436832875
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2620591233631924	//in AU
-		Eccentricity	0.18662152122671488
+		SemiMajorAxis	2.7330751123346038	//in AU
+		Eccentricity	0.16698359437650545
 		Inclination		131.0	//in degrees
-		AscendingNode	0.11163245671736943
-		ArgOfPericenter	-0.4329721766358361
+		AscendingNode	241.64513485461532
+		ArgOfPericenter	0.3307851170863525
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14831,18 +14823,18 @@ Asteroid "Alderaan fragment 705"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		45.315607611921564	//in km
-	RotationPeriod	10.613605463228335	//in hours
-	Obliquity		40.65614816269815
+	Radius		122.27263345182125	//in km
+	RotationPeriod	6.8805037392289785	//in hours
+	Obliquity		175.29321293590633
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.8994254341196217	//in AU
-		Eccentricity	0.1719001528138388
+		SemiMajorAxis	2.515883951541516	//in AU
+		Eccentricity	0.16974839751080836
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19448057212570902
-		ArgOfPericenter	-0.19848067747494225
+		AscendingNode	242.10423785779378
+		ArgOfPericenter	0.40399054889050323
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14852,18 +14844,18 @@ Asteroid "Alderaan fragment 706"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		196.65116570796127	//in km
-	RotationPeriod	14.457440251591416	//in hours
-	Obliquity		20.722409339404393
+	Radius		137.87545188884553	//in km
+	RotationPeriod	14.736345955759143	//in hours
+	Obliquity		231.3490290014685
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8503780901521387	//in AU
-		Eccentricity	0.14300177002188794
+		SemiMajorAxis	2.8666188689342613	//in AU
+		Eccentricity	0.1598072966665938
 		Inclination		131.0	//in degrees
-		AscendingNode	0.37631402205514464
-		ArgOfPericenter	0.10859552846599785
+		AscendingNode	241.85486490183743
+		ArgOfPericenter	-0.31999257332017583
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14873,18 +14865,18 @@ Asteroid "Alderaan fragment 707"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		19.21487906556235	//in km
-	RotationPeriod	10.866326873832433	//in hours
-	Obliquity		20.551508392684532
+	Radius		111.7632269887614	//in km
+	RotationPeriod	8.98295181309608	//in hours
+	Obliquity		4.683121936204198
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.780565276458952	//in AU
-		Eccentricity	0.15181563504939585
+		SemiMajorAxis	2.5441314285499397	//in AU
+		Eccentricity	0.1860174170474049
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2860278828158087
-		ArgOfPericenter	0.44511533847384843
+		AscendingNode	242.45888168326354
+		ArgOfPericenter	0.16095582902121097
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14894,18 +14886,18 @@ Asteroid "Alderaan fragment 708"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		71.21955680032262	//in km
-	RotationPeriod	8.631057032788181	//in hours
-	Obliquity		240.9516844182678
+	Radius		166.15934820970153	//in km
+	RotationPeriod	4.332749719527711	//in hours
+	Obliquity		169.79764047917587
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4960378473354767	//in AU
-		Eccentricity	0.17802793778074827
+		SemiMajorAxis	2.9069157600249675	//in AU
+		Eccentricity	0.13016775876474748
 		Inclination		131.0	//in degrees
-		AscendingNode	0.14473042440942274
-		ArgOfPericenter	0.43393441376132735
+		AscendingNode	242.18769686795548
+		ArgOfPericenter	-0.47926881018956047
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14915,18 +14907,18 @@ Asteroid "Alderaan fragment 709"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		116.19487747159417	//in km
-	RotationPeriod	17.05098228784657	//in hours
-	Obliquity		121.05023908557152
+	Radius		186.5913481298411	//in km
+	RotationPeriod	12.551809449564296	//in hours
+	Obliquity		173.5375131973128
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.21461422517718	//in AU
-		Eccentricity	0.1836840267615228
+		SemiMajorAxis	2.9691422124166205	//in AU
+		Eccentricity	0.15997347428924794
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.426949874030501
-		ArgOfPericenter	0.20251644383790712
+		AscendingNode	241.8146240097298
+		ArgOfPericenter	0.4422177184074366
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14936,18 +14928,18 @@ Asteroid "Alderaan fragment 710"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		16.74908796177837	//in km
-	RotationPeriod	13.733685213943273	//in hours
-	Obliquity		222.4403015586022
+	Radius		114.7367914978633	//in km
+	RotationPeriod	11.27069651910426	//in hours
+	Obliquity		266.0240784980607
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2999140577317996	//in AU
-		Eccentricity	0.16335243306451394
+		SemiMajorAxis	2.78255666803181	//in AU
+		Eccentricity	0.13049214430595613
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.29837143957823764
-		ArgOfPericenter	0.2126653910615608
+		AscendingNode	242.19399087010223
+		ArgOfPericenter	0.2889455839718652
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14957,18 +14949,18 @@ Asteroid "Alderaan fragment 711"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		58.46748076276591	//in km
-	RotationPeriod	14.90313665113452	//in hours
-	Obliquity		41.26070198734861
+	Radius		196.6319376458562	//in km
+	RotationPeriod	12.964634887085362	//in hours
+	Obliquity		107.48799069207679
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1122643535650214	//in AU
-		Eccentricity	0.1647839621540723
+		SemiMajorAxis	2.493971936107976	//in AU
+		Eccentricity	0.18169260644549362
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3913346063838393
-		ArgOfPericenter	-0.020035828488388252
+		AscendingNode	242.0426753824869
+		ArgOfPericenter	-0.25904355633372345
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14978,18 +14970,18 @@ Asteroid "Alderaan fragment 712"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		63.49904946263358	//in km
-	RotationPeriod	8.16986656592296	//in hours
-	Obliquity		340.54039361313664
+	Radius		130.94743506310402	//in km
+	RotationPeriod	3.879141637187999	//in hours
+	Obliquity		281.77255333880197
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6400233458604623	//in AU
-		Eccentricity	0.19766658551209318
+		SemiMajorAxis	2.591293765691847	//in AU
+		Eccentricity	0.14611418554510158
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.30807394830760104
-		ArgOfPericenter	0.03474978210807034
+		AscendingNode	242.43946618833954
+		ArgOfPericenter	0.02474563519595463
 		RefPlane		"Ecliptic"
 	}
 }
@@ -14999,16 +14991,18 @@ Asteroid "Alderaan fragment 713"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		70.72851003048741	//in km
-	TidalLocked	true
+	Radius		185.84979625905723	//in km
+	RotationPeriod	7.367989575546008	//in hours
+	Obliquity		352.3624186034032
+
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4906267959879713	//in AU
-		Eccentricity	0.15364124427842513
+		SemiMajorAxis	2.7449608505859424	//in AU
+		Eccentricity	0.17284257016505783
 		Inclination		131.0	//in degrees
-		AscendingNode	0.31780810463509934
-		ArgOfPericenter	0.08577319810033535
+		AscendingNode	242.23374385805798
+		ArgOfPericenter	-0.49079287548849515
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15018,18 +15012,18 @@ Asteroid "Alderaan fragment 714"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		56.621089329146976	//in km
-	RotationPeriod	13.861409193021759	//in hours
-	Obliquity		178.01641705209911
+	Radius		162.62596297415558	//in km
+	RotationPeriod	9.868447995626987	//in hours
+	Obliquity		323.9410027146497
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.268641944890654	//in AU
-		Eccentricity	0.16661122305771642
+		SemiMajorAxis	2.3660369300990998	//in AU
+		Eccentricity	0.1509469012182433
 		Inclination		131.0	//in degrees
-		AscendingNode	0.12184609410851888
-		ArgOfPericenter	-0.38953312062928247
+		AscendingNode	242.20922264647592
+		ArgOfPericenter	-0.46838288371310777
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15039,18 +15033,18 @@ Asteroid "Alderaan fragment 715"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		182.27799710205628	//in km
-	RotationPeriod	14.482732892034262	//in hours
-	Obliquity		60.02279166404189
+	Radius		115.3348601009616	//in km
+	RotationPeriod	9.142807919716855	//in hours
+	Obliquity		247.06674242056346
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.387985942882643	//in AU
-		Eccentricity	0.16277310125570518
+		SemiMajorAxis	2.3434403992311568	//in AU
+		Eccentricity	0.17507526677656732
 		Inclination		131.0	//in degrees
-		AscendingNode	0.20641663073222438
-		ArgOfPericenter	-0.2794429431444472
+		AscendingNode	242.0095012863811
+		ArgOfPericenter	0.31866265553769946
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15060,18 +15054,18 @@ Asteroid "Alderaan fragment 716"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		6.463153258579203	//in km
-	RotationPeriod	3.5704421260223604	//in hours
-	Obliquity		103.6052372702915
+	Radius		113.61528544007335	//in km
+	RotationPeriod	15.043371462526402	//in hours
+	Obliquity		144.1644050202645
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5107153488798164	//in AU
-		Eccentricity	0.1288721546867079
+		SemiMajorAxis	2.140537104609885	//in AU
+		Eccentricity	0.12744002548175076
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.05813423202491841
-		ArgOfPericenter	-0.2572427857834333
+		AscendingNode	241.5821403555594
+		ArgOfPericenter	-0.09245337316930824
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15081,18 +15075,18 @@ Asteroid "Alderaan fragment 717"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		115.59792749377952	//in km
-	RotationPeriod	14.631407547430639	//in hours
-	Obliquity		19.16853372681434
+	Radius		172.11178481602505	//in km
+	RotationPeriod	14.725461238399792	//in hours
+	Obliquity		343.60560229180646
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4231869299781157	//in AU
-		Eccentricity	0.15116609985559396
+		SemiMajorAxis	2.6399889416144067	//in AU
+		Eccentricity	0.17898579651957802
 		Inclination		131.0	//in degrees
-		AscendingNode	0.08432122286061428
-		ArgOfPericenter	-0.06889335626314597
+		AscendingNode	241.9689738258621
+		ArgOfPericenter	0.31876971299181167
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15102,18 +15096,18 @@ Asteroid "Alderaan fragment 718"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		0.21781292202665625	//in km
-	RotationPeriod	14.442483373967532	//in hours
-	Obliquity		301.0595117685135
+	Radius		156.52838819185902	//in km
+	RotationPeriod	9.473010043451279	//in hours
+	Obliquity		147.8424183184319
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0829294951267996	//in AU
-		Eccentricity	0.17554177311819258
+		SemiMajorAxis	3.0050766906650397	//in AU
+		Eccentricity	0.14630613451567148
 		Inclination		131.0	//in degrees
-		AscendingNode	0.0659360914594791
-		ArgOfPericenter	-0.21465239507274447
+		AscendingNode	241.59791260710153
+		ArgOfPericenter	-0.4845174722188086
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15123,18 +15117,18 @@ Asteroid "Alderaan fragment 719"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		73.31138599956883	//in km
-	RotationPeriod	14.481758344336907	//in hours
-	Obliquity		91.05315957449316
+	Radius		122.90703372568123	//in km
+	RotationPeriod	16.303503770222076	//in hours
+	Obliquity		277.40847096790014
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0563998868120734	//in AU
-		Eccentricity	0.1384815776171519
+		SemiMajorAxis	2.9299989400542876	//in AU
+		Eccentricity	0.17205368201330645
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.04164534387377772
-		ArgOfPericenter	0.18913869339294243
+		AscendingNode	241.60358626638686
+		ArgOfPericenter	-0.04668164471890213
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15144,18 +15138,18 @@ Asteroid "Alderaan fragment 720"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.272263918282662	//in km
-	RotationPeriod	10.819734737147854	//in hours
-	Obliquity		179.84336975563153
+	Radius		107.0872856116801	//in km
+	RotationPeriod	19.492654796879442	//in hours
+	Obliquity		245.80773295551032
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7929438496918433	//in AU
-		Eccentricity	0.19535178778091775
+		SemiMajorAxis	2.222248784778055	//in AU
+		Eccentricity	0.1603726835775678
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4492658522548233
-		ArgOfPericenter	0.3254615434665573
+		AscendingNode	242.18621136193133
+		ArgOfPericenter	0.38039139394058097
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15165,18 +15159,18 @@ Asteroid "Alderaan fragment 721"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		6.934578774173483	//in km
-	RotationPeriod	10.392136142385944	//in hours
-	Obliquity		287.350260013884
+	Radius		127.97219910721606	//in km
+	RotationPeriod	8.253897996378917	//in hours
+	Obliquity		2.760370626299866
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.428513964002501	//in AU
-		Eccentricity	0.17400425781991882
+		SemiMajorAxis	2.9405323164431234	//in AU
+		Eccentricity	0.17695598129171525
 		Inclination		131.0	//in degrees
-		AscendingNode	0.13881886518472497
-		ArgOfPericenter	-0.4396010644306654
+		AscendingNode	242.0354048432058
+		ArgOfPericenter	0.22139807446949356
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15186,18 +15180,18 @@ Asteroid "Alderaan fragment 722"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		23.279437977381175	//in km
-	RotationPeriod	10.27544949067862	//in hours
-	Obliquity		121.37318768766899
+	Radius		186.73322512550124	//in km
+	RotationPeriod	16.267306880799573	//in hours
+	Obliquity		200.2340202085666
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.814856706572795	//in AU
-		Eccentricity	0.2044881814327496
+		SemiMajorAxis	2.6857842731078785	//in AU
+		Eccentricity	0.1558355271342956
 		Inclination		131.0	//in degrees
-		AscendingNode	0.32196810390266717
-		ArgOfPericenter	-0.03379948782993858
+		AscendingNode	241.53413866282878
+		ArgOfPericenter	0.43636168710051293
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15207,18 +15201,18 @@ Asteroid "Alderaan fragment 723"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		163.21659966770707	//in km
-	RotationPeriod	6.512052499567967	//in hours
-	Obliquity		139.5104086896053
+	Radius		89.99019944328268	//in km
+	RotationPeriod	17.386253151111333	//in hours
+	Obliquity		348.6930349818656
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.669367844333574	//in AU
-		Eccentricity	0.19820600411104894
+		SemiMajorAxis	2.488312109220304	//in AU
+		Eccentricity	0.14496919993649282
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.11501467855976089
-		ArgOfPericenter	0.10766842317605285
+		AscendingNode	242.3813184735493
+		ArgOfPericenter	0.4440445845777933
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15228,18 +15222,18 @@ Asteroid "Alderaan fragment 724"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		194.87344263812741	//in km
-	RotationPeriod	10.737387088893048	//in hours
-	Obliquity		24.953004655196033
+	Radius		174.90479794951744	//in km
+	RotationPeriod	9.221742092250807	//in hours
+	Obliquity		17.088022486657252
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.329494234870023	//in AU
-		Eccentricity	0.13762836235815212
+		SemiMajorAxis	2.8438597018416165	//in AU
+		Eccentricity	0.14795942458882141
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4014035728520242
-		ArgOfPericenter	-0.2539866518857554
+		AscendingNode	242.20589326456377
+		ArgOfPericenter	0.37278245269527466
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15249,18 +15243,18 @@ Asteroid "Alderaan fragment 725"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		120.51766817108951	//in km
-	RotationPeriod	15.248146894038223	//in hours
-	Obliquity		247.5299218656108
+	Radius		127.19982348788652	//in km
+	RotationPeriod	20.183817765942088	//in hours
+	Obliquity		228.22633087836405
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.633658619753467	//in AU
-		Eccentricity	0.16570697789652716
+		SemiMajorAxis	2.303593840169715	//in AU
+		Eccentricity	0.14736525108328036
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.16937525326859604
-		ArgOfPericenter	-0.3087907033745705
+		AscendingNode	241.8233566595439
+		ArgOfPericenter	-0.3235326848223019
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15270,18 +15264,18 @@ Asteroid "Alderaan fragment 726"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		151.0513823872354	//in km
-	RotationPeriod	15.152990416103545	//in hours
-	Obliquity		153.9268086720507
+	Radius		216.28663826289633	//in km
+	RotationPeriod	13.894549281999712	//in hours
+	Obliquity		211.96864453080508
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6580913975379574	//in AU
-		Eccentricity	0.14682346873076585
+		SemiMajorAxis	2.77073043646369	//in AU
+		Eccentricity	0.16260458972138153
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.09155041343452874
-		ArgOfPericenter	-0.19603600790443365
+		AscendingNode	242.0255597994628
+		ArgOfPericenter	-0.3361044405278435
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15291,18 +15285,18 @@ Asteroid "Alderaan fragment 727"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		46.375261729158964	//in km
-	RotationPeriod	13.962554749305623	//in hours
-	Obliquity		70.99329223384207
+	Radius		134.4296370414871	//in km
+	RotationPeriod	7.516384931305666	//in hours
+	Obliquity		326.84936642088996
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6290880721092766	//in AU
-		Eccentricity	0.15828787354554077
+		SemiMajorAxis	2.369310328315512	//in AU
+		Eccentricity	0.16177072361266545
 		Inclination		131.0	//in degrees
-		AscendingNode	0.31047608272490546
-		ArgOfPericenter	-0.22636160385128956
+		AscendingNode	241.97005924946754
+		ArgOfPericenter	0.0013510090458787039
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15312,18 +15306,18 @@ Asteroid "Alderaan fragment 728"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		177.56407563215848	//in km
-	RotationPeriod	10.023177472793453	//in hours
-	Obliquity		81.97431144692214
+	Radius		161.74571396961153	//in km
+	RotationPeriod	14.730664074149468	//in hours
+	Obliquity		281.3314368516039
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8200005039968508	//in AU
-		Eccentricity	0.1607645391947034
+		SemiMajorAxis	2.663361813491649	//in AU
+		Eccentricity	0.16826319057634603
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.24960156300863046
-		ArgOfPericenter	0.02518873844543479
+		AscendingNode	241.77221066485183
+		ArgOfPericenter	0.13399602860759108
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15333,18 +15327,18 @@ Asteroid "Alderaan fragment 729"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		59.78601271915176	//in km
-	RotationPeriod	7.799638287233816	//in hours
-	Obliquity		184.50269148782724
+	Radius		66.74495058627322	//in km
+	RotationPeriod	7.559839194574668	//in hours
+	Obliquity		162.38197533667022
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6408821868047014	//in AU
-		Eccentricity	0.14954143694824928
+		SemiMajorAxis	2.2561791920001966	//in AU
+		Eccentricity	0.1515206125034766
 		Inclination		131.0	//in degrees
-		AscendingNode	0.48818820841859734
-		ArgOfPericenter	-0.2192588389317074
+		AscendingNode	241.69598681160534
+		ArgOfPericenter	0.15361689633344666
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15354,18 +15348,18 @@ Asteroid "Alderaan fragment 730"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.333276301567924	//in km
-	RotationPeriod	8.663290508785416	//in hours
-	Obliquity		194.4442000024977
+	Radius		178.92136039271836	//in km
+	RotationPeriod	6.990972447870526	//in hours
+	Obliquity		285.2573441753002
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0159521247874514	//in AU
-		Eccentricity	0.17051282054536981
+		SemiMajorAxis	2.6878835123557554	//in AU
+		Eccentricity	0.1862902999550948
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3473409987152233
-		ArgOfPericenter	-0.26431901682179837
+		AscendingNode	241.84246874355972
+		ArgOfPericenter	-0.3014703624641636
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15375,18 +15369,18 @@ Asteroid "Alderaan fragment 731"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		123.21970228627612	//in km
-	RotationPeriod	10.596067842523103	//in hours
-	Obliquity		151.86220716218935
+	Radius		181.63410588329074	//in km
+	RotationPeriod	14.989330256276592	//in hours
+	Obliquity		229.6790158701294
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.181796773615382	//in AU
-		Eccentricity	0.1537050611496427
+		SemiMajorAxis	2.741818679704549	//in AU
+		Eccentricity	0.13097427968998057
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.33215207072221564
-		ArgOfPericenter	-0.12988035515445728
+		AscendingNode	241.783436052915
+		ArgOfPericenter	-0.4402149276646641
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15396,18 +15390,18 @@ Asteroid "Alderaan fragment 732"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		31.195117326035408	//in km
-	RotationPeriod	10.317564215930716	//in hours
-	Obliquity		43.11550131512042
+	Radius		76.72495409787376	//in km
+	RotationPeriod	12.245571499002777	//in hours
+	Obliquity		43.52030733712948
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2072702878034463	//in AU
-		Eccentricity	0.1596718427410541
+		SemiMajorAxis	2.3601879536407857	//in AU
+		Eccentricity	0.1989764794637057
 		Inclination		131.0	//in degrees
-		AscendingNode	0.10140548785598336
-		ArgOfPericenter	0.028609150873795675
+		AscendingNode	241.64988011583208
+		ArgOfPericenter	-0.4251519540279436
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15417,18 +15411,18 @@ Asteroid "Alderaan fragment 733"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		41.73792971129966	//in km
-	RotationPeriod	8.50086465512133	//in hours
-	Obliquity		62.24495563741782
+	Radius		146.97798313233187	//in km
+	RotationPeriod	13.557855234690551	//in hours
+	Obliquity		115.10504183973268
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7604945511365564	//in AU
-		Eccentricity	0.1931898254341612
+		SemiMajorAxis	2.419843024407682	//in AU
+		Eccentricity	0.17517584208275777
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.03055755285510997
-		ArgOfPericenter	-0.29095212786611424
+		AscendingNode	241.5614698866137
+		ArgOfPericenter	-0.35754410663613523
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15438,18 +15432,18 @@ Asteroid "Alderaan fragment 734"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		80.24963778417572	//in km
-	RotationPeriod	8.686209464886506	//in hours
-	Obliquity		204.1503091969817
+	Radius		121.001049526441	//in km
+	RotationPeriod	11.659612147389918	//in hours
+	Obliquity		5.443967806835799
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4235229170625012	//in AU
-		Eccentricity	0.1532519686739089
+		SemiMajorAxis	2.0631437609033974	//in AU
+		Eccentricity	0.17529678992789147
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2011492775840471
-		ArgOfPericenter	-0.09293863722740903
+		AscendingNode	241.670883453912
+		ArgOfPericenter	-0.4109554600931222
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15459,18 +15453,18 @@ Asteroid "Alderaan fragment 735"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		173.20806736701493	//in km
-	RotationPeriod	11.769854173664378	//in hours
-	Obliquity		336.69145279388255
+	Radius		230.38042835763767	//in km
+	RotationPeriod	14.323192740658483	//in hours
+	Obliquity		263.55179104608897
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.9931683107115978	//in AU
-		Eccentricity	0.12451461030102798
+		SemiMajorAxis	2.1975095845633326	//in AU
+		Eccentricity	0.15536322406469635
 		Inclination		131.0	//in degrees
-		AscendingNode	0.022258878536408178
-		ArgOfPericenter	0.1849874978429138
+		AscendingNode	242.06115792376104
+		ArgOfPericenter	0.38773490150033774
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15480,18 +15474,18 @@ Asteroid "Alderaan fragment 736"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		132.6267206074935	//in km
-	RotationPeriod	9.202695230296758	//in hours
-	Obliquity		105.34788057848384
+	Radius		177.0021360143878	//in km
+	RotationPeriod	10.322164646004255	//in hours
+	Obliquity		336.2470290479633
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4671633175406975	//in AU
-		Eccentricity	0.17044493554717952
+		SemiMajorAxis	2.0176982260163374	//in AU
+		Eccentricity	0.1453088062759968
 		Inclination		131.0	//in degrees
-		AscendingNode	0.38955715054325724
-		ArgOfPericenter	0.4836372958627351
+		AscendingNode	241.99057793280468
+		ArgOfPericenter	0.40717410360832373
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15501,18 +15495,18 @@ Asteroid "Alderaan fragment 737"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		56.90269040241518	//in km
-	RotationPeriod	8.698116939445462	//in hours
-	Obliquity		276.72426558932153
+	Radius		149.47433052518875	//in km
+	RotationPeriod	13.443679857711864	//in hours
+	Obliquity		133.66454089768285
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5447613509722995	//in AU
-		Eccentricity	0.14339822683444892
+		SemiMajorAxis	2.63010617821596	//in AU
+		Eccentricity	0.13596756119562461
 		Inclination		131.0	//in degrees
-		AscendingNode	0.17140800641014375
-		ArgOfPericenter	0.27552311123529305
+		AscendingNode	241.51871104940548
+		ArgOfPericenter	0.44403852308558944
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15522,18 +15516,18 @@ Asteroid "Alderaan fragment 738"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		8.358883997574539	//in km
-	RotationPeriod	15.641911254559972	//in hours
-	Obliquity		326.3373238963187
+	Radius		172.66199294978477	//in km
+	RotationPeriod	15.597093654969598	//in hours
+	Obliquity		36.11406552548526
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5341433113268703	//in AU
-		Eccentricity	0.16891116348988716
+		SemiMajorAxis	2.786506944875986	//in AU
+		Eccentricity	0.16709701309045966
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1492004785568417
-		ArgOfPericenter	0.04095537652301795
+		AscendingNode	241.93318517540513
+		ArgOfPericenter	-0.24063601009018143
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15543,18 +15537,18 @@ Asteroid "Alderaan fragment 739"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		43.33167733077685	//in km
-	RotationPeriod	9.617479713079685	//in hours
-	Obliquity		288.1180365036363
+	Radius		120.60194445480995	//in km
+	RotationPeriod	13.715813830614588	//in hours
+	Obliquity		72.18231548567437
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0672706622598556	//in AU
-		Eccentricity	0.17670254560124976
+		SemiMajorAxis	2.37553609786513	//in AU
+		Eccentricity	0.13171549254291026
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.14890942122214712
-		ArgOfPericenter	-0.2481839670134346
+		AscendingNode	242.1274837905082
+		ArgOfPericenter	-0.3514813438395703
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15564,18 +15558,18 @@ Asteroid "Alderaan fragment 740"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		5.840963302589986	//in km
-	RotationPeriod	12.201976939029924	//in hours
-	Obliquity		139.16325897393017
+	Radius		124.8955359031658	//in km
+	RotationPeriod	14.090531888431354	//in hours
+	Obliquity		167.2379775455955
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.468422113229714	//in AU
-		Eccentricity	0.1734383699208798
+		SemiMajorAxis	2.2319030732488825	//in AU
+		Eccentricity	0.16966906916932792
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.20009216848684241
-		ArgOfPericenter	0.3661298175815204
+		AscendingNode	241.5355145547833
+		ArgOfPericenter	-0.42029908347943956
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15585,18 +15579,18 @@ Asteroid "Alderaan fragment 741"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		2.3122342668659437	//in km
-	RotationPeriod	16.498119764287893	//in hours
-	Obliquity		213.39786813937008
+	Radius		169.08390728485287	//in km
+	RotationPeriod	8.264921162185125	//in hours
+	Obliquity		110.8602003721175
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5392643576992064	//in AU
-		Eccentricity	0.15438140547434845
+		SemiMajorAxis	2.2727356170397064	//in AU
+		Eccentricity	0.14507977962666327
 		Inclination		131.0	//in degrees
-		AscendingNode	0.14860482287472376
-		ArgOfPericenter	-0.18906389872634743
+		AscendingNode	242.2317369986264
+		ArgOfPericenter	-0.06698172398484614
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15606,18 +15600,18 @@ Asteroid "Alderaan fragment 742"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		67.41562020379432	//in km
-	RotationPeriod	12.395401526739972	//in hours
-	Obliquity		177.62752865396928
+	Radius		112.69587027208905	//in km
+	RotationPeriod	7.177689402649449	//in hours
+	Obliquity		279.5453848351924
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2917446847036813	//in AU
-		Eccentricity	0.2088725567596446
+		SemiMajorAxis	2.974555745964585	//in AU
+		Eccentricity	0.16254157661008678
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3742046130115103
-		ArgOfPericenter	0.21457218519464905
+		AscendingNode	242.07122905553084
+		ArgOfPericenter	-0.21799873340591702
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15627,18 +15621,18 @@ Asteroid "Alderaan fragment 743"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		19.457369912382767	//in km
-	RotationPeriod	11.862810555315122	//in hours
-	Obliquity		335.9402504384479
+	Radius		106.29179619522478	//in km
+	RotationPeriod	15.979789668383205	//in hours
+	Obliquity		96.52500283960126
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.660708741704646	//in AU
-		Eccentricity	0.19501310347184425
+		SemiMajorAxis	2.197392464575983	//in AU
+		Eccentricity	0.15979415541909095
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1823535010909274
-		ArgOfPericenter	-0.28205494786636387
+		AscendingNode	242.14431957221495
+		ArgOfPericenter	-0.13708624399739766
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15648,18 +15642,18 @@ Asteroid "Alderaan fragment 744"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		251.0446322925544	//in km
-	RotationPeriod	8.35878663693371	//in hours
-	Obliquity		275.37551512897517
+	Radius		152.2397068786434	//in km
+	RotationPeriod	9.799082738903616	//in hours
+	Obliquity		107.03623619742032
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.307556793784896	//in AU
-		Eccentricity	0.1948300470202995
+		SemiMajorAxis	2.6010972090125066	//in AU
+		Eccentricity	0.15878843784240826
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3844406069001688
-		ArgOfPericenter	0.3942682201312593
+		AscendingNode	241.90439957052905
+		ArgOfPericenter	-0.37721271551547864
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15669,18 +15663,18 @@ Asteroid "Alderaan fragment 745"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		127.58731967882505	//in km
-	RotationPeriod	10.470794035454743	//in hours
-	Obliquity		235.2824113188002
+	Radius		135.05585653121727	//in km
+	RotationPeriod	18.86617644835909	//in hours
+	Obliquity		325.1376611846994
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.159517106525914	//in AU
-		Eccentricity	0.17192728013226202
+		SemiMajorAxis	2.484489327823866	//in AU
+		Eccentricity	0.16740940742521146
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4870639399614618
-		ArgOfPericenter	0.4856796758073798
+		AscendingNode	242.06869547982015
+		ArgOfPericenter	0.4292329767159686
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15690,18 +15684,18 @@ Asteroid "Alderaan fragment 746"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		106.14120863658496	//in km
-	RotationPeriod	7.741020011721401	//in hours
-	Obliquity		250.6793047550703
+	Radius		142.7988238447391	//in km
+	RotationPeriod	11.891742503654916	//in hours
+	Obliquity		331.40252920583134
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.697927561691908	//in AU
-		Eccentricity	0.13028470819865098
+		SemiMajorAxis	2.722218015483529	//in AU
+		Eccentricity	0.16361031339772542
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.07101713224781958
-		ArgOfPericenter	0.4423823590256757
+		AscendingNode	242.47991036119757
+		ArgOfPericenter	0.2897471099726976
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15711,18 +15705,18 @@ Asteroid "Alderaan fragment 747"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		162.5648769288421	//in km
-	RotationPeriod	14.305948953080055	//in hours
-	Obliquity		261.14038449261466
+	Radius		139.0476368398248	//in km
+	RotationPeriod	15.004937666152816	//in hours
+	Obliquity		73.33906172423949
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.489552809284916	//in AU
-		Eccentricity	0.19791366329492266
+		SemiMajorAxis	2.236816405037047	//in AU
+		Eccentricity	0.15297513337114654
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.49448299627014203
-		ArgOfPericenter	0.045400902339330584
+		AscendingNode	241.83003377413308
+		ArgOfPericenter	-0.21604200244319327
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15732,18 +15726,18 @@ Asteroid "Alderaan fragment 748"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.03733712456125	//in km
-	RotationPeriod	9.589150234514229	//in hours
-	Obliquity		332.6473079742263
+	Radius		112.41747238610941	//in km
+	RotationPeriod	17.24799295243898	//in hours
+	Obliquity		321.52414122055234
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7018511331344732	//in AU
-		Eccentricity	0.17517878207082335
+		SemiMajorAxis	2.4749482290578007	//in AU
+		Eccentricity	0.15012646500552665
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3660475993631266
-		ArgOfPericenter	0.4330114548730706
+		AscendingNode	242.44906359645958
+		ArgOfPericenter	-0.19908728160775668
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15753,18 +15747,18 @@ Asteroid "Alderaan fragment 749"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		12.22867886111992	//in km
-	RotationPeriod	6.749588227890069	//in hours
-	Obliquity		195.2324468852002
+	Radius		191.77015179463928	//in km
+	RotationPeriod	16.362065742380736	//in hours
+	Obliquity		22.912069324822824
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5821732230706864	//in AU
-		Eccentricity	0.15300675912715955
+		SemiMajorAxis	2.9294791668287163	//in AU
+		Eccentricity	0.170075298756917
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19459861217220953
-		ArgOfPericenter	0.1359224827695985
+		AscendingNode	242.3366877638637
+		ArgOfPericenter	-0.1622249899376218
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15774,18 +15768,18 @@ Asteroid "Alderaan fragment 750"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		101.0525557226857	//in km
-	RotationPeriod	8.215530592063745	//in hours
-	Obliquity		164.85683557182935
+	Radius		128.0865315096877	//in km
+	RotationPeriod	11.262565630780786	//in hours
+	Obliquity		103.83551695337314
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.589280758420311	//in AU
-		Eccentricity	0.19186866532863087
+		SemiMajorAxis	2.161058972682959	//in AU
+		Eccentricity	0.18183411587270548
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2351563363606326
-		ArgOfPericenter	-0.19225866420196103
+		AscendingNode	242.2388970696239
+		ArgOfPericenter	0.2792993147435944
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15795,18 +15789,18 @@ Asteroid "Alderaan fragment 751"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		39.08039955135525	//in km
-	RotationPeriod	15.234089012175279	//in hours
-	Obliquity		172.38728660639657
+	Radius		125.71104973263004	//in km
+	RotationPeriod	12.537858101819582	//in hours
+	Obliquity		135.79489731439836
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.32558227791527	//in AU
-		Eccentricity	0.12668240381733215
+		SemiMajorAxis	2.903601165941697	//in AU
+		Eccentricity	0.19761073136843837
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3370854053813699
-		ArgOfPericenter	-0.04225806790915354
+		AscendingNode	242.47627744805027
+		ArgOfPericenter	0.32966863621763653
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15816,18 +15810,18 @@ Asteroid "Alderaan fragment 752"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		192.67798607750876	//in km
-	RotationPeriod	8.022573535182225	//in hours
-	Obliquity		164.05102186739825
+	Radius		125.35754896245517	//in km
+	RotationPeriod	19.347363879521843	//in hours
+	Obliquity		310.13941291273244
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8842530762902414	//in AU
-		Eccentricity	0.138277882262918
+		SemiMajorAxis	2.9199725272880555	//in AU
+		Eccentricity	0.1559308625387225
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1420867306052368
-		ArgOfPericenter	-0.26453193676280584
+		AscendingNode	242.4447490584888
+		ArgOfPericenter	-0.11932456582251316
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15837,18 +15831,18 @@ Asteroid "Alderaan fragment 753"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		138.94575414699975	//in km
-	RotationPeriod	15.703110582197317	//in hours
-	Obliquity		331.2622793009208
+	Radius		129.26165326446062	//in km
+	RotationPeriod	14.813836383670814	//in hours
+	Obliquity		160.46007212416006
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.645450325768907	//in AU
-		Eccentricity	0.17631892242736172
+		SemiMajorAxis	1.7787002084759953	//in AU
+		Eccentricity	0.17986253559542087
 		Inclination		131.0	//in degrees
-		AscendingNode	0.04820788678914045
-		ArgOfPericenter	-0.4421447619301482
+		AscendingNode	242.0618194658291
+		ArgOfPericenter	0.1806249654360944
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15858,18 +15852,18 @@ Asteroid "Alderaan fragment 754"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		61.83676322350399	//in km
-	RotationPeriod	14.27931130833787	//in hours
-	Obliquity		352.83128799198585
+	Radius		133.41295839345784	//in km
+	RotationPeriod	6.950534077484807	//in hours
+	Obliquity		11.655764634576151
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.754414335636458	//in AU
-		Eccentricity	0.11727779958203824
+		SemiMajorAxis	2.1868156890306607	//in AU
+		Eccentricity	0.13816853003631113
 		Inclination		131.0	//in degrees
-		AscendingNode	0.08129974331294898
-		ArgOfPericenter	-0.18584291422578403
+		AscendingNode	241.59656123314298
+		ArgOfPericenter	0.226109687396298
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15879,18 +15873,18 @@ Asteroid "Alderaan fragment 755"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		90.46826122730558	//in km
-	RotationPeriod	12.358853834715061	//in hours
-	Obliquity		34.13393330769564
+	Radius		215.8829045674614	//in km
+	RotationPeriod	7.480684128974705	//in hours
+	Obliquity		12.628751330821233
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9833535527818045	//in AU
-		Eccentricity	0.14048811863829358
+		SemiMajorAxis	2.6512175946453933	//in AU
+		Eccentricity	0.16305083213500693
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.24348734008674267
-		ArgOfPericenter	0.40369712012281533
+		AscendingNode	241.94145304629046
+		ArgOfPericenter	0.3785759450437962
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15900,18 +15894,18 @@ Asteroid "Alderaan fragment 756"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		52.27389909023146	//in km
-	RotationPeriod	9.742149739778162	//in hours
-	Obliquity		157.78139093882703
+	Radius		132.63479455653712	//in km
+	RotationPeriod	16.288223467134664	//in hours
+	Obliquity		278.7076238168073
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7542284954180056	//in AU
-		Eccentricity	0.18603104864735284
+		SemiMajorAxis	2.780294077804088	//in AU
+		Eccentricity	0.18918807334575105
 		Inclination		131.0	//in degrees
-		AscendingNode	0.454363057418825
-		ArgOfPericenter	0.02784859285661001
+		AscendingNode	242.01657049695444
+		ArgOfPericenter	0.009182638460839332
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15921,18 +15915,18 @@ Asteroid "Alderaan fragment 757"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		108.91645138400791	//in km
-	RotationPeriod	11.295863223658293	//in hours
-	Obliquity		180.78371604688428
+	Radius		73.48115955299592	//in km
+	RotationPeriod	3.488995576528785	//in hours
+	Obliquity		249.08351741603934
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4083444128477978	//in AU
-		Eccentricity	0.15805435239302162
+		SemiMajorAxis	2.487874146444135	//in AU
+		Eccentricity	0.15139728215721934
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.43700244801011356
-		ArgOfPericenter	0.08660976012872956
+		AscendingNode	242.39240617996023
+		ArgOfPericenter	0.21376438114174967
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15942,18 +15936,18 @@ Asteroid "Alderaan fragment 758"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		169.95363995346702	//in km
-	RotationPeriod	20.307004305174484	//in hours
-	Obliquity		61.65709319892391
+	Radius		174.47352298041204	//in km
+	RotationPeriod	11.407390244076682	//in hours
+	Obliquity		71.54980974961092
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.681467342411576	//in AU
-		Eccentricity	0.18376445434353336
+		SemiMajorAxis	2.2281658041105668	//in AU
+		Eccentricity	0.12546410802554397
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3744893709513615
-		ArgOfPericenter	0.11640149778263564
+		AscendingNode	242.4136040284678
+		ArgOfPericenter	0.2029605025583321
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15963,18 +15957,18 @@ Asteroid "Alderaan fragment 759"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		90.73225591661507	//in km
-	RotationPeriod	7.50207532463395	//in hours
-	Obliquity		356.93486506673804
+	Radius		216.8895346456915	//in km
+	RotationPeriod	5.1924703518998925	//in hours
+	Obliquity		137.82033777852848
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.2088990496942404	//in AU
-		Eccentricity	0.1639066679672411
+		SemiMajorAxis	3.4	//in AU
+		Eccentricity	0.17192458600936303
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.27198058485681864
-		ArgOfPericenter	0.07666214096897717
+		AscendingNode	242.050795573001
+		ArgOfPericenter	0.1334339741377223
 		RefPlane		"Ecliptic"
 	}
 }
@@ -15984,18 +15978,18 @@ Asteroid "Alderaan fragment 760"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		116.65124067658623	//in km
-	RotationPeriod	13.436047318178568	//in hours
-	Obliquity		246.0270783253843
+	Radius		140.57116724714206	//in km
+	RotationPeriod	16.203083770328654	//in hours
+	Obliquity		93.33689798874643
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.093074012575816	//in AU
-		Eccentricity	0.1671769709629356
+		SemiMajorAxis	3.093507100816221	//in AU
+		Eccentricity	0.1803892293201869
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3754249202814022
-		ArgOfPericenter	0.10548231474876135
+		AscendingNode	242.06078689087306
+		ArgOfPericenter	0.1630870292330897
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16005,18 +15999,18 @@ Asteroid "Alderaan fragment 761"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		132.92187965956782	//in km
-	RotationPeriod	16.519966756605932	//in hours
-	Obliquity		67.16507875938234
+	Radius		186.99863339775666	//in km
+	RotationPeriod	18.429188012044378	//in hours
+	Obliquity		311.65022603617655
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.310719422142095	//in AU
-		Eccentricity	0.18330878617405116
+		SemiMajorAxis	2.550402813469893	//in AU
+		Eccentricity	0.17791949476174923
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.36747677995297545
-		ArgOfPericenter	0.11692945639553542
+		AscendingNode	241.6571213415274
+		ArgOfPericenter	0.010534660485508662
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16026,18 +16020,18 @@ Asteroid "Alderaan fragment 762"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		12.449804607315897	//in km
-	RotationPeriod	13.375262711626632	//in hours
-	Obliquity		128.54825745285856
+	Radius		101.01788715755507	//in km
+	RotationPeriod	15.937055779571509	//in hours
+	Obliquity		48.1276276320878
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6059059339582182	//in AU
-		Eccentricity	0.19451307175862126
+		SemiMajorAxis	2.3583868651014805	//in AU
+		Eccentricity	0.23
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1765899085348619
-		ArgOfPericenter	0.021890728278029514
+		AscendingNode	242.301215628602
+		ArgOfPericenter	-0.4966995841217805
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16047,18 +16041,18 @@ Asteroid "Alderaan fragment 763"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		162.20599881540605	//in km
-	RotationPeriod	7.401987262329077	//in hours
-	Obliquity		263.6057453797401
+	Radius		185.83390974890094	//in km
+	RotationPeriod	13.81951598338095	//in hours
+	Obliquity		307.69351399922937
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5705742035591466	//in AU
-		Eccentricity	0.19362538347347955
+		SemiMajorAxis	2.510883858954301	//in AU
+		Eccentricity	0.21224625086412172
 		Inclination		131.0	//in degrees
-		AscendingNode	0.31369546102416046
-		ArgOfPericenter	-0.12914610974685692
+		AscendingNode	241.65611603059318
+		ArgOfPericenter	-0.013595906137592761
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16068,18 +16062,18 @@ Asteroid "Alderaan fragment 764"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		113.34001800229149	//in km
-	RotationPeriod	12.070664939422713	//in hours
-	Obliquity		52.18747255656456
+	Radius		155.87451139310002	//in km
+	RotationPeriod	12.44536358977716	//in hours
+	Obliquity		197.88030889748333
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1838895447267355	//in AU
-		Eccentricity	0.17326885197541614
+		SemiMajorAxis	2.7685533518535177	//in AU
+		Eccentricity	0.11063417355251562
 		Inclination		131.0	//in degrees
-		AscendingNode	0.307231896298518
-		ArgOfPericenter	0.22174821076993878
+		AscendingNode	241.67785699960672
+		ArgOfPericenter	0.2754931187224381
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16089,18 +16083,18 @@ Asteroid "Alderaan fragment 765"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		93.98856110139624	//in km
-	RotationPeriod	15.92894140991708	//in hours
-	Obliquity		66.77520309453915
+	Radius		178.9406881880234	//in km
+	RotationPeriod	17.548580686624774	//in hours
+	Obliquity		76.84141839260053
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1347427108532533	//in AU
-		Eccentricity	0.1844367986847001
+		SemiMajorAxis	2.65818823202955	//in AU
+		Eccentricity	0.15969275857446394
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.27284995708039017
-		ArgOfPericenter	0.16643836652495425
+		AscendingNode	241.50714893402497
+		ArgOfPericenter	-0.4340068895125474
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16110,18 +16104,18 @@ Asteroid "Alderaan fragment 766"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		148.43168886321203	//in km
-	RotationPeriod	14.696279761790201	//in hours
-	Obliquity		271.92120821766696
+	Radius		155.7582010310092	//in km
+	RotationPeriod	10.042065740317904	//in hours
+	Obliquity		273.6986330023092
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6855562066007588	//in AU
-		Eccentricity	0.19292390314797875
+		SemiMajorAxis	2.6521205200900466	//in AU
+		Eccentricity	0.15543189139597408
 		Inclination		131.0	//in degrees
-		AscendingNode	0.32068746284233074
-		ArgOfPericenter	-0.017815225065834994
+		AscendingNode	241.74067183698432
+		ArgOfPericenter	-0.11015005332334682
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16131,18 +16125,18 @@ Asteroid "Alderaan fragment 767"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		35.1026351893849	//in km
-	RotationPeriod	15.46247164410088	//in hours
-	Obliquity		167.55431977429063
+	Radius		161.617586349373	//in km
+	RotationPeriod	12.280493095529676	//in hours
+	Obliquity		17.23528587537645
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1646401797503083	//in AU
-		Eccentricity	0.204764177649153
+		SemiMajorAxis	2.4980283018583	//in AU
+		Eccentricity	0.14646728600499753
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3791937150512815
-		ArgOfPericenter	-0.22838171549119246
+		AscendingNode	241.91563225076752
+		ArgOfPericenter	0.3442511778312094
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16152,18 +16146,18 @@ Asteroid "Alderaan fragment 768"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		8.12030795006051	//in km
-	RotationPeriod	15.520666554025752	//in hours
-	Obliquity		67.74282849590227
+	Radius		147.167196270761	//in km
+	RotationPeriod	12.036726492039033	//in hours
+	Obliquity		201.1545879286934
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5047825641291936	//in AU
-		Eccentricity	0.16592707956317
+		SemiMajorAxis	2.837374068454713	//in AU
+		Eccentricity	0.1859005638799334
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3559467282344828
-		ArgOfPericenter	0.06050683305992299
+		AscendingNode	241.77343423493474
+		ArgOfPericenter	0.395977742421203
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16173,18 +16167,18 @@ Asteroid "Alderaan fragment 769"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		22.74510370069041	//in km
-	RotationPeriod	10.961661673278268	//in hours
-	Obliquity		144.6169441814339
+	Radius		160.17566333902198	//in km
+	RotationPeriod	10.43568838901634	//in hours
+	Obliquity		91.65843121407755
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.62406132866531	//in AU
-		Eccentricity	0.16488013468398882
+		SemiMajorAxis	2.630973383024252	//in AU
+		Eccentricity	0.16278372643577654
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.45238779387520256
-		ArgOfPericenter	-0.015694734832654045
+		AscendingNode	241.58213975048835
+		ArgOfPericenter	-0.12506604632953766
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16194,18 +16188,18 @@ Asteroid "Alderaan fragment 770"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		51.77806103244457	//in km
-	RotationPeriod	11.505268857662863	//in hours
-	Obliquity		118.56112064789517
+	Radius		75.71572536378149	//in km
+	RotationPeriod	12.740488981862624	//in hours
+	Obliquity		122.15132179810983
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6021964936557214	//in AU
-		Eccentricity	0.19151965772122082
+		SemiMajorAxis	2.6311028923698805	//in AU
+		Eccentricity	0.173305976895126
 		Inclination		131.0	//in degrees
-		AscendingNode	0.19426894434370634
-		ArgOfPericenter	0.04779535325472439
+		AscendingNode	242.2545106057293
+		ArgOfPericenter	-0.33090502573899194
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16215,18 +16209,18 @@ Asteroid "Alderaan fragment 771"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		170.99116460504845	//in km
-	RotationPeriod	11.336312955015474	//in hours
-	Obliquity		204.36006376547346
+	Radius		116.45086801939726	//in km
+	RotationPeriod	12.647818877109042	//in hours
+	Obliquity		51.46110847499439
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.624467041185106	//in AU
-		Eccentricity	0.15771744596150467
+		SemiMajorAxis	2.0754632508580455	//in AU
+		Eccentricity	0.16772883758313242
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2779979516060175
-		ArgOfPericenter	-0.40596576490939473
+		AscendingNode	242.2828325534626
+		ArgOfPericenter	-0.008728925323536751
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16236,18 +16230,18 @@ Asteroid "Alderaan fragment 772"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		178.0178031859647	//in km
-	RotationPeriod	11.515202329300509	//in hours
-	Obliquity		3.172252893617724
+	Radius		67.0113597293719	//in km
+	RotationPeriod	12.812165039422196	//in hours
+	Obliquity		233.77418108152858
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6644600205390723	//in AU
-		Eccentricity	0.154368053407952
+		SemiMajorAxis	2.1402232335697238	//in AU
+		Eccentricity	0.16785471642576597
 		Inclination		131.0	//in degrees
-		AscendingNode	0.15088795240271857
-		ArgOfPericenter	-0.4745898329446051
+		AscendingNode	242.19416255285597
+		ArgOfPericenter	-0.4416456520610077
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16257,18 +16251,18 @@ Asteroid "Alderaan fragment 773"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		126.76756685934903	//in km
-	RotationPeriod	10.494793174856634	//in hours
-	Obliquity		268.6282188427737
+	Radius		239.40905878020743	//in km
+	RotationPeriod	13.46922245039571	//in hours
+	Obliquity		155.4509609927919
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.370412684770227	//in AU
-		Eccentricity	0.17085948434481946
+		SemiMajorAxis	2.986948629104379	//in AU
+		Eccentricity	0.15009888496715726
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4902739742736073
-		ArgOfPericenter	-0.09963427339092945
+		AscendingNode	242.37883501543283
+		ArgOfPericenter	-0.2428633936343233
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16278,18 +16272,18 @@ Asteroid "Alderaan fragment 774"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		150.9775085233893	//in km
-	RotationPeriod	7.704540495542801	//in hours
-	Obliquity		13.500920819360832
+	Radius		256.97805157524834	//in km
+	RotationPeriod	8.52245656384535	//in hours
+	Obliquity		29.583972476241772
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.449667453290943	//in AU
-		Eccentricity	0.1700373526403855
+		SemiMajorAxis	2.390685739438979	//in AU
+		Eccentricity	0.1992040187711242
 		Inclination		131.0	//in degrees
-		AscendingNode	0.36564330903755704
-		ArgOfPericenter	0.12932602711297514
+		AscendingNode	241.63321955722537
+		ArgOfPericenter	-0.03307262283633028
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16299,18 +16293,18 @@ Asteroid "Alderaan fragment 775"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		51.97735699145663	//in km
-	RotationPeriod	15.940495530488114	//in hours
-	Obliquity		265.7428167527064
+	Radius		91.33328855173237	//in km
+	RotationPeriod	11.935855716316965	//in hours
+	Obliquity		160.74562512819531
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.615735825075204	//in AU
-		Eccentricity	0.15817454411412013
+		SemiMajorAxis	1.823006254148671	//in AU
+		Eccentricity	0.18584618864493668
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2917329381517091
-		ArgOfPericenter	-0.4495328411951529
+		AscendingNode	241.7536357631885
+		ArgOfPericenter	-0.20417052070064778
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16320,18 +16314,18 @@ Asteroid "Alderaan fragment 776"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.31304987884956	//in km
-	RotationPeriod	9.340640625430147	//in hours
-	Obliquity		139.57448734706765
+	Radius		175.2383233002599	//in km
+	RotationPeriod	18.831412899385725	//in hours
+	Obliquity		181.57999391592412
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8134505666750536	//in AU
-		Eccentricity	0.1642763344548543
+		SemiMajorAxis	2.5501190669113183	//in AU
+		Eccentricity	0.14630859395787413
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.0683219541559349
-		ArgOfPericenter	0.00019062279160808604
+		AscendingNode	241.80959371047192
+		ArgOfPericenter	-0.34808845499600194
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16341,18 +16335,18 @@ Asteroid "Alderaan fragment 777"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		16.324344335860395	//in km
-	RotationPeriod	11.40308528893542	//in hours
-	Obliquity		211.32623717630722
+	Radius		223.01297763427667	//in km
+	RotationPeriod	12.598504451909138	//in hours
+	Obliquity		298.64441028035355
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6870936829959793	//in AU
-		Eccentricity	0.1438069635707735
+		SemiMajorAxis	2.1413163396755204	//in AU
+		Eccentricity	0.18692547268862267
 		Inclination		131.0	//in degrees
-		AscendingNode	0.09308292938879936
-		ArgOfPericenter	-0.06479146617521292
+		AscendingNode	241.8335667784626
+		ArgOfPericenter	-0.11425078385351106
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16362,18 +16356,18 @@ Asteroid "Alderaan fragment 778"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		213.96662641206424	//in km
-	RotationPeriod	4.890525311507332	//in hours
-	Obliquity		126.4983617955594
+	Radius		136.81846080270813	//in km
+	RotationPeriod	8.620063543593712	//in hours
+	Obliquity		86.92556522045008
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.885382986261507	//in AU
-		Eccentricity	0.21948797602596865
+		SemiMajorAxis	2.695678175449398	//in AU
+		Eccentricity	0.18371233003962056
 		Inclination		131.0	//in degrees
-		AscendingNode	0.14535447431652804
-		ArgOfPericenter	0.2583831161769301
+		AscendingNode	241.9734589016923
+		ArgOfPericenter	-0.42864217350255274
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16383,18 +16377,18 @@ Asteroid "Alderaan fragment 779"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		72.99986000135638	//in km
-	RotationPeriod	12.22483486367685	//in hours
-	Obliquity		34.735477632457446
+	Radius		192.04353291740085	//in km
+	RotationPeriod	15.661762987540062	//in hours
+	Obliquity		107.03549919139579
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9487940912350736	//in AU
-		Eccentricity	0.15357243266654036
+		SemiMajorAxis	2.852287948247356	//in AU
+		Eccentricity	0.15051371935173616
 		Inclination		131.0	//in degrees
-		AscendingNode	0.36134709425310474
-		ArgOfPericenter	-0.2093682531477591
+		AscendingNode	242.46427382928576
+		ArgOfPericenter	0.29531215234289876
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16404,18 +16398,18 @@ Asteroid "Alderaan fragment 780"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.3367629141018433	//in km
-	RotationPeriod	13.985025324332884	//in hours
-	Obliquity		166.81893906729934
+	Radius		184.78888703029014	//in km
+	RotationPeriod	12.37976644131813	//in hours
+	Obliquity		164.8298597444095
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.778302807348133	//in AU
-		Eccentricity	0.1504001273964192
+		SemiMajorAxis	2.565902171820769	//in AU
+		Eccentricity	0.173811893837359
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3857906314366024
-		ArgOfPericenter	0.298279402843428
+		AscendingNode	242.46623165353407
+		ArgOfPericenter	0.02924461048171234
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16425,18 +16419,18 @@ Asteroid "Alderaan fragment 781"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.69902926498868	//in km
-	RotationPeriod	10.283152453969938	//in hours
-	Obliquity		256.45849607100035
+	Radius		59.19734831305975	//in km
+	RotationPeriod	5.977401134353875	//in hours
+	Obliquity		146.42049106877147
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0315069915383788	//in AU
-		Eccentricity	0.18297513942668708
+		SemiMajorAxis	2.5404215724049113	//in AU
+		Eccentricity	0.18404990749585726
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.19763214632452608
-		ArgOfPericenter	0.27710023151308993
+		AscendingNode	242.03030885843336
+		ArgOfPericenter	0.26894944570847656
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16446,18 +16440,18 @@ Asteroid "Alderaan fragment 782"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		91.36595652993708	//in km
-	RotationPeriod	14.741330909485056	//in hours
-	Obliquity		248.87455309441688
+	Radius		137.77546537460609	//in km
+	RotationPeriod	17.040783941857704	//in hours
+	Obliquity		304.4294982614717
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8510174520456433	//in AU
-		Eccentricity	0.15473950442977685
+		SemiMajorAxis	2.817330949406425	//in AU
+		Eccentricity	0.17562175404845437
 		Inclination		131.0	//in degrees
-		AscendingNode	0.22679650373477178
-		ArgOfPericenter	0.4431574316434058
+		AscendingNode	242.42340122451122
+		ArgOfPericenter	0.3650853863000656
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16467,18 +16461,18 @@ Asteroid "Alderaan fragment 783"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.939145474993623	//in km
-	RotationPeriod	11.390156306838263	//in hours
-	Obliquity		249.64598605516562
+	Radius		47.02227834990606	//in km
+	RotationPeriod	7.04716288022366	//in hours
+	Obliquity		133.6566653480148
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.776096296285467	//in AU
-		Eccentricity	0.1315757286045719
+		SemiMajorAxis	2.631676512755399	//in AU
+		Eccentricity	0.15702105747355186
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.15454793450168913
-		ArgOfPericenter	0.11084100303180855
+		AscendingNode	242.24008894067973
+		ArgOfPericenter	0.10700719433161499
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16488,18 +16482,18 @@ Asteroid "Alderaan fragment 784"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		84.29576610867397	//in km
-	RotationPeriod	11.269500667667701	//in hours
-	Obliquity		155.80552648042115
+	Radius		163.40064629193947	//in km
+	RotationPeriod	13.113860936235266	//in hours
+	Obliquity		56.75787931372524
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7616937507162698	//in AU
-		Eccentricity	0.15630164792137996
+		SemiMajorAxis	3.188445764291158	//in AU
+		Eccentricity	0.12963174883469875
 		Inclination		131.0	//in degrees
-		AscendingNode	0.20554562801418286
-		ArgOfPericenter	0.10982761821668396
+		AscendingNode	241.58541882584328
+		ArgOfPericenter	0.20009522325811446
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16509,18 +16503,18 @@ Asteroid "Alderaan fragment 785"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		52.44951627259984	//in km
-	RotationPeriod	10.166465542224795	//in hours
-	Obliquity		353.48566200962114
+	Radius		170.51613904398513	//in km
+	RotationPeriod	18.14912234782124	//in hours
+	Obliquity		222.5963517758182
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5143622809453063	//in AU
-		Eccentricity	0.17171637966864528
+		SemiMajorAxis	2.8635708245181233	//in AU
+		Eccentricity	0.1773695382718908
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2201159008441229
-		ArgOfPericenter	0.26396093787234975
+		AscendingNode	242.15144759851427
+		ArgOfPericenter	-0.286283229137389
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16530,18 +16524,18 @@ Asteroid "Alderaan fragment 786"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		43.1594030678035	//in km
-	RotationPeriod	12.94910591380975	//in hours
-	Obliquity		0.5631244016045889
+	Radius		77.73904519213659	//in km
+	RotationPeriod	16.514332043893937	//in hours
+	Obliquity		220.11860978224573
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.712437443796275	//in AU
-		Eccentricity	0.17803213480717958
+		SemiMajorAxis	2.959055001533474	//in AU
+		Eccentricity	0.18567526728831385
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3463908105967004
-		ArgOfPericenter	0.26187430096349795
+		AscendingNode	241.8945461448763
+		ArgOfPericenter	0.16342073409522118
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16551,18 +16545,18 @@ Asteroid "Alderaan fragment 787"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		31.35003846578205	//in km
-	RotationPeriod	4.683294572130993	//in hours
-	Obliquity		295.3590017675958
+	Radius		87.94740988318601	//in km
+	RotationPeriod	11.221749850674328	//in hours
+	Obliquity		170.07559229012736
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6316880255608526	//in AU
-		Eccentricity	0.18656354201873887
+		SemiMajorAxis	2.3090004907957216	//in AU
+		Eccentricity	0.15355335164552078
 		Inclination		131.0	//in degrees
-		AscendingNode	0.021272720352964347
-		ArgOfPericenter	-0.13462128036592036
+		AscendingNode	241.99491982715358
+		ArgOfPericenter	0.28707781436026636
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16572,18 +16566,18 @@ Asteroid "Alderaan fragment 788"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		87.90605023532368	//in km
-	RotationPeriod	8.854219694107886	//in hours
-	Obliquity		300.8864637624111
+	Radius		81.58548017855293	//in km
+	RotationPeriod	14.449831344452459	//in hours
+	Obliquity		276.80775978349413
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2598484156486656	//in AU
-		Eccentricity	0.16283170229115093
+		SemiMajorAxis	2.548547388933581	//in AU
+		Eccentricity	0.21829059602974363
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2412289682883808
-		ArgOfPericenter	-0.42662942829748174
+		AscendingNode	242.00810744313083
+		ArgOfPericenter	-0.1732843899706965
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16593,18 +16587,18 @@ Asteroid "Alderaan fragment 789"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		34.07974357349714	//in km
-	RotationPeriod	16.812015947720422	//in hours
-	Obliquity		38.3407092052001
+	Radius		172.92295302615577	//in km
+	RotationPeriod	7.63918531140741	//in hours
+	Obliquity		108.70406781385168
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.255093733220894	//in AU
-		Eccentricity	0.1496521383629193
+		SemiMajorAxis	2.2649669284017424	//in AU
+		Eccentricity	0.15509412711541665
 		Inclination		131.0	//in degrees
-		AscendingNode	0.07323856165167708
-		ArgOfPericenter	-0.28996338783288333
+		AscendingNode	241.5633157448329
+		ArgOfPericenter	-0.42898570014598414
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16614,18 +16608,18 @@ Asteroid "Alderaan fragment 790"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		92.70139887763045	//in km
-	RotationPeriod	8.713954063695967	//in hours
-	Obliquity		192.44672728773926
+	Radius		39.68878721527915	//in km
+	RotationPeriod	8.79494593542955	//in hours
+	Obliquity		25.988582307901847
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5700363744874144	//in AU
-		Eccentricity	0.15798345878867368
+		SemiMajorAxis	3.122110800415146	//in AU
+		Eccentricity	0.18082246846301553
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2369639275191988
-		ArgOfPericenter	0.022651363006410685
+		AscendingNode	241.90541159999134
+		ArgOfPericenter	0.10049581437383381
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16635,18 +16629,18 @@ Asteroid "Alderaan fragment 791"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		82.30524327188388	//in km
-	RotationPeriod	10.433155383150993	//in hours
-	Obliquity		68.86136314132018
+	Radius		169.820061086972	//in km
+	RotationPeriod	10.328968517955296	//in hours
+	Obliquity		301.13969432508685
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.529381530877546	//in AU
-		Eccentricity	0.15948043173811155
+		SemiMajorAxis	2.600389721315487	//in AU
+		Eccentricity	0.1553251360559872
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1529504617109846
-		ArgOfPericenter	0.20759621562001063
+		AscendingNode	241.9630816629579
+		ArgOfPericenter	0.059400881910905645
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16656,18 +16650,18 @@ Asteroid "Alderaan fragment 792"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		103.52674186647124	//in km
-	RotationPeriod	8.562491330308015	//in hours
-	Obliquity		152.47324177941437
+	Radius		120.25168933149627	//in km
+	RotationPeriod	17.801596679519477	//in hours
+	Obliquity		200.40701420834213
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4555791056717577	//in AU
-		Eccentricity	0.19721125424815455
+		SemiMajorAxis	2.4089275081598593	//in AU
+		Eccentricity	0.17733565304153678
 		Inclination		131.0	//in degrees
-		AscendingNode	0.44949405993289315
-		ArgOfPericenter	-0.1358450303816522
+		AscendingNode	241.97971480643164
+		ArgOfPericenter	-0.3968321429296594
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16677,18 +16671,18 @@ Asteroid "Alderaan fragment 793"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		26.855356813791325	//in km
-	RotationPeriod	15.353161061741044	//in hours
-	Obliquity		203.26349099540687
+	Radius		139.54295074261174	//in km
+	RotationPeriod	10.873147121498153	//in hours
+	Obliquity		214.92651142002268
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.9429220225074957	//in AU
-		Eccentricity	0.20068785840897735
+		SemiMajorAxis	2.7714264099873924	//in AU
+		Eccentricity	0.17639293691318916
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.48462704053977945
-		ArgOfPericenter	0.4114252088795647
+		AscendingNode	242.2390058804057
+		ArgOfPericenter	0.3263714041390021
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16698,18 +16692,18 @@ Asteroid "Alderaan fragment 794"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		31.542939563239056	//in km
-	RotationPeriod	10.318807105483726	//in hours
-	Obliquity		2.3178216146921526
+	Radius		216.64907663975026	//in km
+	RotationPeriod	14.95033662574957	//in hours
+	Obliquity		141.07728532402166
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2771362360166156	//in AU
-		Eccentricity	0.1277855508783362
+		SemiMajorAxis	2.764409202665687	//in AU
+		Eccentricity	0.17341202233298542
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3320947832694966
-		ArgOfPericenter	0.367334620795724
+		AscendingNode	242.35087631768343
+		ArgOfPericenter	0.0032621326043967835
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16719,18 +16713,18 @@ Asteroid "Alderaan fragment 795"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		68.20687635346377	//in km
-	RotationPeriod	10.351228170528165	//in hours
-	Obliquity		149.71838914236486
+	Radius		192.24497514011483	//in km
+	RotationPeriod	9.324967309167322	//in hours
+	Obliquity		168.94450692718343
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5539565918154055	//in AU
-		Eccentricity	0.1658216866651211
+		SemiMajorAxis	3.1137009643807314	//in AU
+		Eccentricity	0.17814233335195634
 		Inclination		131.0	//in degrees
-		AscendingNode	0.41496132126742835
-		ArgOfPericenter	0.4660971819049857
+		AscendingNode	242.15038878734978
+		ArgOfPericenter	-0.22468128313903857
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16740,18 +16734,18 @@ Asteroid "Alderaan fragment 796"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		125.16125231974256	//in km
-	RotationPeriod	13.021243157614377	//in hours
-	Obliquity		133.80615271096937
+	Radius		169.69537534336473	//in km
+	RotationPeriod	15.89197528765745	//in hours
+	Obliquity		120.07649368487041
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8133476913173894	//in AU
-		Eccentricity	0.18773499672305033
+		SemiMajorAxis	2.9745557102355793	//in AU
+		Eccentricity	0.18873749306830628
 		Inclination		131.0	//in degrees
-		AscendingNode	0.29623158747273337
-		ArgOfPericenter	0.18245154834287014
+		AscendingNode	241.9020788344153
+		ArgOfPericenter	-0.10582859038086245
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16761,18 +16755,18 @@ Asteroid "Alderaan fragment 797"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		190.62958269508738	//in km
-	RotationPeriod	12.789059417091465	//in hours
-	Obliquity		223.66505978931215
+	Radius		146.63671202185506	//in km
+	RotationPeriod	11.016249715266422	//in hours
+	Obliquity		28.50912464014904
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3822136504536413	//in AU
-		Eccentricity	0.2066409108784934
+		SemiMajorAxis	2.4333675478605428	//in AU
+		Eccentricity	0.17595573800384673
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1347529058988307
-		ArgOfPericenter	-0.44856226339335037
+		AscendingNode	241.79226298665512
+		ArgOfPericenter	0.1833846430905962
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16782,18 +16776,18 @@ Asteroid "Alderaan fragment 798"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		101.34684282924177	//in km
-	RotationPeriod	10.224306906811742	//in hours
-	Obliquity		58.83012834389623
+	Radius		261.71628317584305	//in km
+	RotationPeriod	15.295370642474758	//in hours
+	Obliquity		330.7743962588196
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2489008052586943	//in AU
-		Eccentricity	0.15313553647797834
+		SemiMajorAxis	2.673360908698778	//in AU
+		Eccentricity	0.17839193132525172
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4283927127830862
-		ArgOfPericenter	-0.34103045228188067
+		AscendingNode	241.98796980439784
+		ArgOfPericenter	0.17318981660256327
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16803,18 +16797,18 @@ Asteroid "Alderaan fragment 799"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		54.963811003331166	//in km
-	RotationPeriod	7.346066224119606	//in hours
-	Obliquity		215.29192390444626
+	Radius		153.54599217232393	//in km
+	RotationPeriod	15.679670266661748	//in hours
+	Obliquity		58.12659518743348
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3138280203121027	//in AU
-		Eccentricity	0.15743072319753443
+		SemiMajorAxis	2.4193399295623252	//in AU
+		Eccentricity	0.16823510023429544
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3040786685231067
-		ArgOfPericenter	0.4393305647572613
+		AscendingNode	242.20161830723657
+		ArgOfPericenter	0.4816739570391061
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16824,18 +16818,18 @@ Asteroid "Alderaan fragment 800"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		67.29241506109099	//in km
-	RotationPeriod	15.414645459787788	//in hours
-	Obliquity		190.1305387093192
+	Radius		224.88342582926862	//in km
+	RotationPeriod	9.238224533961883	//in hours
+	Obliquity		238.73639414053554
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5857357974216013	//in AU
-		Eccentricity	0.20085683174041413
+		SemiMajorAxis	2.8440744274122083	//in AU
+		Eccentricity	0.17194082567147373
 		Inclination		131.0	//in degrees
-		AscendingNode	0.30122963072304054
-		ArgOfPericenter	0.06640504564704774
+		AscendingNode	242.18895161847848
+		ArgOfPericenter	0.3883622949746792
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16845,18 +16839,18 @@ Asteroid "Alderaan fragment 801"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		157.3114782197145	//in km
-	RotationPeriod	7.420680687861872	//in hours
-	Obliquity		2.5205760046494596
+	Radius		127.9046208811436	//in km
+	RotationPeriod	13.870688141377073	//in hours
+	Obliquity		194.06733258382263
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7629544659985306	//in AU
-		Eccentricity	0.21132639354533328
+		SemiMajorAxis	2.9954738205389226	//in AU
+		Eccentricity	0.20842857671576065
 		Inclination		131.0	//in degrees
-		AscendingNode	0.47633568910649515
-		ArgOfPericenter	0.002736085272216693
+		AscendingNode	242.35110408902491
+		ArgOfPericenter	0.02607286888720406
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16866,18 +16860,18 @@ Asteroid "Alderaan fragment 802"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		57.542481988271824	//in km
-	RotationPeriod	6.002773214289443	//in hours
-	Obliquity		300.4274934169529
+	Radius		109.1428844807179	//in km
+	RotationPeriod	15.1465320845091	//in hours
+	Obliquity		120.23909623258868
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.444698652298211	//in AU
-		Eccentricity	0.16169736243522684
+		SemiMajorAxis	1.7987394771995269	//in AU
+		Eccentricity	0.16270708746057302
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.08668746382936254
-		ArgOfPericenter	-0.1554733607792732
+		AscendingNode	242.12086182205738
+		ArgOfPericenter	-0.03184004840352528
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16887,18 +16881,18 @@ Asteroid "Alderaan fragment 803"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		84.78623069639559	//in km
-	RotationPeriod	21.46488194985904	//in hours
-	Obliquity		61.069916003150766
+	Radius		135.18264900578728	//in km
+	RotationPeriod	16.610004880560453	//in hours
+	Obliquity		200.94074250357056
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.409397987296846	//in AU
-		Eccentricity	0.1445597684951047
+		SemiMajorAxis	2.2225166081050625	//in AU
+		Eccentricity	0.19091034115329272
 		Inclination		131.0	//in degrees
-		AscendingNode	0.19689048708387236
-		ArgOfPericenter	0.4768679873571371
+		AscendingNode	241.91149460381402
+		ArgOfPericenter	-0.24327123422940466
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16908,18 +16902,18 @@ Asteroid "Alderaan fragment 804"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		14.077086231251876	//in km
-	RotationPeriod	7.0226305079645694	//in hours
-	Obliquity		38.06961578516629
+	Radius		153.0345703968018	//in km
+	RotationPeriod	8.290573966424546	//in hours
+	Obliquity		91.42283838996238
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.183073576583569	//in AU
-		Eccentricity	0.18106235429169254
+		SemiMajorAxis	2.831679383858574	//in AU
+		Eccentricity	0.16694280504052067
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4990249687825338
-		ArgOfPericenter	-0.008785392810639503
+		AscendingNode	241.59473498374635
+		ArgOfPericenter	0.13004703244592852
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16929,18 +16923,18 @@ Asteroid "Alderaan fragment 805"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		23.909884342071706	//in km
-	RotationPeriod	10.26278687770993	//in hours
-	Obliquity		322.05456052359364
+	Radius		193.75070276475452	//in km
+	RotationPeriod	12.3799727235134	//in hours
+	Obliquity		353.62684405469776
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.950346897424596	//in AU
-		Eccentricity	0.18986400524588187
+		SemiMajorAxis	2.439060624083871	//in AU
+		Eccentricity	0.1761179990070538
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.48358574966181955
-		ArgOfPericenter	-0.36511938501956975
+		AscendingNode	242.26153122651644
+		ArgOfPericenter	0.39187689047875607
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16950,18 +16944,18 @@ Asteroid "Alderaan fragment 806"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		72.7390889739132	//in km
-	RotationPeriod	10.878729129014358	//in hours
-	Obliquity		180.90633888205264
+	Radius		183.37510101269518	//in km
+	RotationPeriod	13.622129529780146	//in hours
+	Obliquity		224.5336131069575
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5778827843932786	//in AU
-		Eccentricity	0.14225331487682308
+		SemiMajorAxis	2.8782748929781268	//in AU
+		Eccentricity	0.15784373551607964
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.22830110675398974
-		ArgOfPericenter	0.4077086957508308
+		AscendingNode	242.17503645115752
+		ArgOfPericenter	0.49210668067765084
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16971,18 +16965,18 @@ Asteroid "Alderaan fragment 807"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		14.324741958321294	//in km
-	RotationPeriod	12.156553752193368	//in hours
-	Obliquity		269.1243793436527
+	Radius		90.99446214627947	//in km
+	RotationPeriod	14.693304123105186	//in hours
+	Obliquity		90.35278236626192
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.642539043751101	//in AU
-		Eccentricity	0.16242078910202956
+		SemiMajorAxis	2.6960225575679737	//in AU
+		Eccentricity	0.18186438030066543
 		Inclination		131.0	//in degrees
-		AscendingNode	0.16819435121535553
-		ArgOfPericenter	0.15732195199911125
+		AscendingNode	241.98587287194235
+		ArgOfPericenter	-0.1246504801960443
 		RefPlane		"Ecliptic"
 	}
 }
@@ -16992,18 +16986,18 @@ Asteroid "Alderaan fragment 808"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		209.02164891234247	//in km
-	RotationPeriod	15.751036757122307	//in hours
-	Obliquity		144.00965621596956
+	Radius		171.28159411594433	//in km
+	RotationPeriod	16.158191698369517	//in hours
+	Obliquity		244.56758362488097
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3847437185012064	//in AU
-		Eccentricity	0.1350557908650013
+		SemiMajorAxis	2.667374138145466	//in AU
+		Eccentricity	0.15157979524331908
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2390912327349023
-		ArgOfPericenter	-0.2445602696876984
+		AscendingNode	242.24531616815435
+		ArgOfPericenter	0.04360249032904251
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17013,18 +17007,18 @@ Asteroid "Alderaan fragment 809"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		66.4210434055519	//in km
-	RotationPeriod	9.651112434533838	//in hours
-	Obliquity		141.14277770488476
+	Radius		159.2830560670753	//in km
+	RotationPeriod	14.957900266118562	//in hours
+	Obliquity		132.3489211103616
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.519042799469148	//in AU
-		Eccentricity	0.16426448869077587
+		SemiMajorAxis	2.769094615856493	//in AU
+		Eccentricity	0.16946132494269744
 		Inclination		131.0	//in degrees
-		AscendingNode	0.0352022305073606
-		ArgOfPericenter	0.260999532048245
+		AscendingNode	242.41834998993383
+		ArgOfPericenter	-0.35999179878071996
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17034,18 +17028,18 @@ Asteroid "Alderaan fragment 810"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		15.65894925407903	//in km
-	RotationPeriod	7.797350760085855	//in hours
-	Obliquity		230.3070258854482
+	Radius		193.46768905734623	//in km
+	RotationPeriod	10.392934113242749	//in hours
+	Obliquity		295.0199821894693
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4021129829376644	//in AU
-		Eccentricity	0.14545348384221707
+		SemiMajorAxis	2.6562540479552528	//in AU
+		Eccentricity	0.18861297429111515
 		Inclination		131.0	//in degrees
-		AscendingNode	0.37387721708510213
-		ArgOfPericenter	0.22482977456876196
+		AscendingNode	241.5434242442791
+		ArgOfPericenter	-0.2720235533143248
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17055,18 +17049,18 @@ Asteroid "Alderaan fragment 811"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		52.471411107077344	//in km
-	RotationPeriod	5.838916602457949	//in hours
-	Obliquity		31.338379019196815
+	Radius		131.72596113580133	//in km
+	RotationPeriod	8.901817680331417	//in hours
+	Obliquity		260.2276125355295
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6027585072703756	//in AU
-		Eccentricity	0.1585013984943815
+		SemiMajorAxis	2.5933490693671075	//in AU
+		Eccentricity	0.1779146619892065
 		Inclination		131.0	//in degrees
-		AscendingNode	0.07874027192468591
-		ArgOfPericenter	0.2501443388059663
+		AscendingNode	242.40942571986363
+		ArgOfPericenter	0.09636688712488728
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17076,18 +17070,18 @@ Asteroid "Alderaan fragment 812"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		59.98953727410186	//in km
-	RotationPeriod	9.368810423695718	//in hours
-	Obliquity		352.331113313951
+	Radius		92.58809161610824	//in km
+	RotationPeriod	9.113618967935697	//in hours
+	Obliquity		251.4915251634925
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.642872218357193	//in AU
-		Eccentricity	0.16502411316131718
+		SemiMajorAxis	2.6580302781368017	//in AU
+		Eccentricity	0.1659205183939012
 		Inclination		131.0	//in degrees
-		AscendingNode	0.016878540443809986
-		ArgOfPericenter	0.17430323835362627
+		AscendingNode	242.01372130219295
+		ArgOfPericenter	0.30386972438929116
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17097,18 +17091,18 @@ Asteroid "Alderaan fragment 813"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		93.21745633727498	//in km
-	RotationPeriod	11.728824426760267	//in hours
-	Obliquity		123.91683400634264
+	Radius		135.6936819032099	//in km
+	RotationPeriod	11.38365831138504	//in hours
+	Obliquity		289.4939613023003
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1861117405257313	//in AU
-		Eccentricity	0.1446197641431433
+		SemiMajorAxis	2.177275346686592	//in AU
+		Eccentricity	0.14334636552065694
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3377122759782253
-		ArgOfPericenter	0.02423165174378228
+		AscendingNode	242.30445174987508
+		ArgOfPericenter	-0.057820664292081436
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17118,18 +17112,18 @@ Asteroid "Alderaan fragment 814"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		19.04925740656954	//in km
-	RotationPeriod	14.359080659456328	//in hours
-	Obliquity		132.18967007473802
+	Radius		151.857481108	//in km
+	RotationPeriod	11.235779202472512	//in hours
+	Obliquity		114.75840480313553
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.721760779082387	//in AU
-		Eccentricity	0.1326168725664818
+		SemiMajorAxis	2.491273145164918	//in AU
+		Eccentricity	0.12463274894729529
 		Inclination		131.0	//in degrees
-		AscendingNode	0.018697747169076462
-		ArgOfPericenter	0.15565563825720485
+		AscendingNode	242.48484131700337
+		ArgOfPericenter	0.43537746869929816
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17139,18 +17133,18 @@ Asteroid "Alderaan fragment 815"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		25.343488224215662	//in km
-	RotationPeriod	12.316098649943068	//in hours
-	Obliquity		182.531631862346
+	Radius		135.5794614897726	//in km
+	RotationPeriod	13.398043894446541	//in hours
+	Obliquity		14.403269699042012
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5205892173758424	//in AU
-		Eccentricity	0.1793867747599664
+		SemiMajorAxis	2.5828082478852714	//in AU
+		Eccentricity	0.13731817534138674
 		Inclination		131.0	//in degrees
-		AscendingNode	0.06447977206057609
-		ArgOfPericenter	0.043162433955262425
+		AscendingNode	241.6401271011185
+		ArgOfPericenter	-0.15263093453779475
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17160,18 +17154,18 @@ Asteroid "Alderaan fragment 816"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		14.311763627223346	//in km
-	RotationPeriod	10.840583100211912	//in hours
-	Obliquity		301.58640049117463
+	Radius		192.39660872676444	//in km
+	RotationPeriod	7.8158376818114546	//in hours
+	Obliquity		283.76898033049713
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.108697180682101	//in AU
-		Eccentricity	0.17606008629660932
+		SemiMajorAxis	2.9108913369345473	//in AU
+		Eccentricity	0.15401117785159177
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3978435756692714
-		ArgOfPericenter	0.2608569747372975
+		AscendingNode	242.03896836152046
+		ArgOfPericenter	-0.24456594970024592
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17181,18 +17175,18 @@ Asteroid "Alderaan fragment 817"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		39.467360358859125	//in km
-	RotationPeriod	11.866612437044243	//in hours
-	Obliquity		100.43988402925217
+	Radius		172.02459827921388	//in km
+	RotationPeriod	14.251164220612852	//in hours
+	Obliquity		10.094646175604524
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.713181878386403	//in AU
-		Eccentricity	0.1187274459585359
+		SemiMajorAxis	2.8671725693121384	//in AU
+		Eccentricity	0.14220384874890482
 		Inclination		131.0	//in degrees
-		AscendingNode	0.17237403150868458
-		ArgOfPericenter	-0.36978882312168937
+		AscendingNode	242.2657371997141
+		ArgOfPericenter	-0.16515563060054783
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17202,18 +17196,18 @@ Asteroid "Alderaan fragment 818"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		79.85974402610461	//in km
-	RotationPeriod	7.601078902990777	//in hours
-	Obliquity		120.15628628408311
+	Radius		106.39358977747479	//in km
+	RotationPeriod	19.261793912749937	//in hours
+	Obliquity		222.5403237633498
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1270501235745423	//in AU
-		Eccentricity	0.14257449789159488
+		SemiMajorAxis	2.58899488093814	//in AU
+		Eccentricity	0.16973323100172943
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.10261160656427215
-		ArgOfPericenter	-0.039130955863422856
+		AscendingNode	242.41385654174647
+		ArgOfPericenter	-0.07730308580769973
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17223,18 +17217,18 @@ Asteroid "Alderaan fragment 819"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		2.4146602315971544	//in km
-	RotationPeriod	15.196606082333313	//in hours
-	Obliquity		297.7360317509026
+	Radius		229.29299553248472	//in km
+	RotationPeriod	16.250039017930433	//in hours
+	Obliquity		247.94512150802356
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5194015900911824	//in AU
-		Eccentricity	0.19554780088758203
+		SemiMajorAxis	2.7190280902030617	//in AU
+		Eccentricity	0.14293433068286535
 		Inclination		131.0	//in degrees
-		AscendingNode	0.06822599411583863
-		ArgOfPericenter	-0.3991731770880279
+		AscendingNode	241.63103161842793
+		ArgOfPericenter	0.012780574961910651
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17244,18 +17238,18 @@ Asteroid "Alderaan fragment 820"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		32.835469172577646	//in km
-	RotationPeriod	16.827541503799168	//in hours
-	Obliquity		208.23098618864523
+	Radius		116.28700531052152	//in km
+	RotationPeriod	2.70074616828626	//in hours
+	Obliquity		212.09341481453677
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.785843234692856	//in AU
-		Eccentricity	0.1536437577726806
+		SemiMajorAxis	2.490887130468416	//in AU
+		Eccentricity	0.18718565493861752
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4981305063122954
-		ArgOfPericenter	0.4388819741054478
+		AscendingNode	242.3384458779591
+		ArgOfPericenter	0.45375825917981316
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17265,18 +17259,18 @@ Asteroid "Alderaan fragment 821"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		55.629930886962384	//in km
-	RotationPeriod	4.474298236022049	//in hours
-	Obliquity		123.59113381551127
+	Radius		176.4543027669134	//in km
+	RotationPeriod	10.963129617035083	//in hours
+	Obliquity		138.08385367091236
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.651432180761016	//in AU
-		Eccentricity	0.1626835244759231
+		SemiMajorAxis	2.5562248773277374	//in AU
+		Eccentricity	0.17358282611516052
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.20334499762612257
-		ArgOfPericenter	-0.23318050175248495
+		AscendingNode	242.47574784894513
+		ArgOfPericenter	0.25448043202363
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17286,18 +17280,18 @@ Asteroid "Alderaan fragment 822"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		42.77794418454123	//in km
-	RotationPeriod	13.76402862501451	//in hours
-	Obliquity		228.94802839934073
+	Radius		219.48879895420185	//in km
+	RotationPeriod	15.898395856127173	//in hours
+	Obliquity		220.73199802292564
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4864482219231347	//in AU
-		Eccentricity	0.1793980349156935
+		SemiMajorAxis	2.410441343782435	//in AU
+		Eccentricity	0.1628085365246995
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4824925810770996
-		ArgOfPericenter	-0.20248551702721151
+		AscendingNode	241.76386949478075
+		ArgOfPericenter	0.07270315506610847
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17307,18 +17301,16 @@ Asteroid "Alderaan fragment 823"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.994625896576682	//in km
-	RotationPeriod	8.204328940215033	//in hours
-	Obliquity		137.45133288263034
-
+	Radius		89.59581364337275	//in km
+	TidalLocked	true
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.75721494066617	//in AU
-		Eccentricity	0.16716510928727815
+		SemiMajorAxis	2.7036066578292877	//in AU
+		Eccentricity	0.16359838234331317
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2018907361281571
-		ArgOfPericenter	0.4833016693489086
+		AscendingNode	242.45029237269708
+		ArgOfPericenter	-0.49243200607837556
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17328,18 +17320,18 @@ Asteroid "Alderaan fragment 824"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		67.09067728105258	//in km
-	RotationPeriod	12.017803193266888	//in hours
-	Obliquity		354.620460816034
+	Radius		286.29178357993544	//in km
+	RotationPeriod	9.047543113457442	//in hours
+	Obliquity		352.6173905246422
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.526756045059466	//in AU
-		Eccentricity	0.1622731210106124
+		SemiMajorAxis	2.490778251419319	//in AU
+		Eccentricity	0.1414182725575267
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4110028063114719
-		ArgOfPericenter	-0.18829556649620716
+		AscendingNode	241.8978163065983
+		ArgOfPericenter	0.32005749684237694
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17349,18 +17341,18 @@ Asteroid "Alderaan fragment 825"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		144.54111478181338	//in km
-	RotationPeriod	4.086167537960776	//in hours
-	Obliquity		281.0348233502362
+	Radius		114.70410085083516	//in km
+	RotationPeriod	8.592171854995968	//in hours
+	Obliquity		3.631887924001891
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2458623939897984	//in AU
-		Eccentricity	0.1973292249247773
+		SemiMajorAxis	2.7680028931925214	//in AU
+		Eccentricity	0.14678521619360177
 		Inclination		131.0	//in degrees
-		AscendingNode	0.21089392230475368
-		ArgOfPericenter	-0.245153744940382
+		AscendingNode	242.1408223533824
+		ArgOfPericenter	0.19371692124559148
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17370,18 +17362,18 @@ Asteroid "Alderaan fragment 826"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		148.516089741736	//in km
-	RotationPeriod	12.103902588785113	//in hours
-	Obliquity		297.85897219816127
+	Radius		284.2105187617162	//in km
+	RotationPeriod	12.608181360128082	//in hours
+	Obliquity		305.4521523480251
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.607291336406101	//in AU
-		Eccentricity	0.12348521058142167
+		SemiMajorAxis	2.606673355771512	//in AU
+		Eccentricity	0.15534868183971226
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.22661718166959166
-		ArgOfPericenter	-0.14019085084712013
+		AscendingNode	242.27869996327453
+		ArgOfPericenter	0.47944520047321937
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17391,18 +17383,18 @@ Asteroid "Alderaan fragment 827"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		55.17180075861055	//in km
-	RotationPeriod	13.954620469626773	//in hours
-	Obliquity		230.14543285093427
+	Radius		85.2876729641224	//in km
+	RotationPeriod	10.428520501154054	//in hours
+	Obliquity		38.641289539801
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4278965426037566	//in AU
-		Eccentricity	0.16642070829243075
+		SemiMajorAxis	2.6670536936831226	//in AU
+		Eccentricity	0.155255269299427
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3928360955086039
-		ArgOfPericenter	0.2263211334197318
+		AscendingNode	241.57698258378048
+		ArgOfPericenter	-0.4337882434308655
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17412,18 +17404,18 @@ Asteroid "Alderaan fragment 828"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		0.20821124960845072	//in km
-	RotationPeriod	11.939704287057607	//in hours
-	Obliquity		281.09853621277676
+	Radius		157.71926288072737	//in km
+	RotationPeriod	16.766383603788523	//in hours
+	Obliquity		161.0128946803925
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.297069128748235	//in AU
-		Eccentricity	0.1938644273513727
+		SemiMajorAxis	2.6976073280954926	//in AU
+		Eccentricity	0.18693438685860744
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.21987709913786568
-		ArgOfPericenter	0.10099435931820921
+		AscendingNode	241.9053738421961
+		ArgOfPericenter	-0.4426649103167448
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17433,18 +17425,18 @@ Asteroid "Alderaan fragment 829"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		1.5181336138498471	//in km
-	RotationPeriod	12.683595932275612	//in hours
-	Obliquity		300.8470454016052
+	Radius		174.7862149721749	//in km
+	RotationPeriod	18.919185606270112	//in hours
+	Obliquity		341.65964459054624
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.091103741889701	//in AU
-		Eccentricity	0.18092213634579257
+		SemiMajorAxis	2.567167040190919	//in AU
+		Eccentricity	0.1607447779747331
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.23852745782859452
-		ArgOfPericenter	0.49704889531691687
+		AscendingNode	242.30058338200922
+		ArgOfPericenter	-0.4542072241246119
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17454,18 +17446,18 @@ Asteroid "Alderaan fragment 830"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		44.28211650179336	//in km
-	RotationPeriod	13.70355359578837	//in hours
-	Obliquity		249.48420264149112
+	Radius		191.5763063115427	//in km
+	RotationPeriod	19.303895413050338	//in hours
+	Obliquity		205.98567660972486
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3434063422396267	//in AU
-		Eccentricity	0.12149106264519675
+		SemiMajorAxis	2.0705967761794417	//in AU
+		Eccentricity	0.142651491510712
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3661754127607314
-		ArgOfPericenter	0.12468757888578108
+		AscendingNode	241.8357637283754
+		ArgOfPericenter	-0.4781979852313958
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17475,18 +17467,18 @@ Asteroid "Alderaan fragment 831"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		65.31187266743305	//in km
-	RotationPeriod	13.091413306023398	//in hours
-	Obliquity		169.32025537636554
+	Radius		204.74072628168818	//in km
+	RotationPeriod	16.649440783736804	//in hours
+	Obliquity		241.52075764982587
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6647758112104722	//in AU
-		Eccentricity	0.1887036700038432
+		SemiMajorAxis	2.6670028331521167	//in AU
+		Eccentricity	0.13864547945575317
 		Inclination		131.0	//in degrees
-		AscendingNode	0.09240847777749406
-		ArgOfPericenter	0.21291619216291924
+		AscendingNode	241.55645926263702
+		ArgOfPericenter	-0.011543030340750549
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17496,18 +17488,16 @@ Asteroid "Alderaan fragment 832"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		161.272876963235	//in km
-	RotationPeriod	9.21600629773095	//in hours
-	Obliquity		48.14776290564177
-
+	Radius		111.74854691620382	//in km
+	TidalLocked	true
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.357001987993702	//in AU
-		Eccentricity	0.1521130370265206
+		SemiMajorAxis	2.8258090234371775	//in AU
+		Eccentricity	0.18909629477304551
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2060474768471232
-		ArgOfPericenter	-0.4412514217519623
+		AscendingNode	242.18889689511917
+		ArgOfPericenter	0.11171245644687344
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17517,18 +17507,18 @@ Asteroid "Alderaan fragment 833"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		201.13400106184363	//in km
-	RotationPeriod	9.860154016188261	//in hours
-	Obliquity		23.43785994487757
+	Radius		173.06628050277322	//in km
+	RotationPeriod	8.193944598529718	//in hours
+	Obliquity		112.27236595631088
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.374683620373241	//in AU
-		Eccentricity	0.13202177128715456
+		SemiMajorAxis	2.662771343556421	//in AU
+		Eccentricity	0.16824166609376223
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1501585331027826
-		ArgOfPericenter	-0.16679843256283844
+		AscendingNode	242.3045375349826
+		ArgOfPericenter	-0.3088289559950178
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17538,18 +17528,18 @@ Asteroid "Alderaan fragment 834"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		130.56216283346234	//in km
-	RotationPeriod	13.284176570335223	//in hours
-	Obliquity		189.28187339135366
+	Radius		88.1813612059139	//in km
+	RotationPeriod	9.630841356811487	//in hours
+	Obliquity		67.50698704632491
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8217228219200905	//in AU
-		Eccentricity	0.11505595503887535
+		SemiMajorAxis	2.823282306773616	//in AU
+		Eccentricity	0.19387487114733593
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4989284274913134
-		ArgOfPericenter	0.09226224629588697
+		AscendingNode	242.41229746946337
+		ArgOfPericenter	0.14041379980151392
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17559,18 +17549,18 @@ Asteroid "Alderaan fragment 835"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		19.7927602463673	//in km
-	RotationPeriod	4.6760959396547115	//in hours
-	Obliquity		315.7341420517981
+	Radius		174.46617229189266	//in km
+	RotationPeriod	13.999696406871973	//in hours
+	Obliquity		48.075399069625625
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4220433836386657	//in AU
-		Eccentricity	0.191132640651316
+		SemiMajorAxis	2.696283774258855	//in AU
+		Eccentricity	0.16472104354441772
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.15338216998058518
-		ArgOfPericenter	0.036443289021027114
+		AscendingNode	242.00055055228304
+		ArgOfPericenter	-0.41977807986524673
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17580,18 +17570,18 @@ Asteroid "Alderaan fragment 836"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		45.643691834312875	//in km
-	RotationPeriod	13.53875725726876	//in hours
-	Obliquity		33.238868378225646
+	Radius		103.4279210675871	//in km
+	RotationPeriod	16.766863535352325	//in hours
+	Obliquity		271.9321880648053
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.600766912653571	//in AU
-		Eccentricity	0.1843974208152428
+		SemiMajorAxis	2.9844349324333477	//in AU
+		Eccentricity	0.16253931604832766
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3808317449073465
-		ArgOfPericenter	0.3917430786392364
+		AscendingNode	242.41284123172863
+		ArgOfPericenter	0.2724052369953569
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17601,18 +17591,18 @@ Asteroid "Alderaan fragment 837"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		115.45386264635584	//in km
-	RotationPeriod	7.970511027593112	//in hours
-	Obliquity		33.23290116982073
+	Radius		197.25495598246837	//in km
+	RotationPeriod	18.11171985112692	//in hours
+	Obliquity		135.04417991058364
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4779017140120376	//in AU
-		Eccentricity	0.17846916259669657
+		SemiMajorAxis	2.911914691820285	//in AU
+		Eccentricity	0.17934855112359174
 		Inclination		131.0	//in degrees
-		AscendingNode	0.20195129152639923
-		ArgOfPericenter	0.4693659713064142
+		AscendingNode	242.19962145922855
+		ArgOfPericenter	0.27806402065816016
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17622,18 +17612,18 @@ Asteroid "Alderaan fragment 838"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		64.23970965794925	//in km
-	RotationPeriod	9.618083013280371	//in hours
-	Obliquity		213.84781338385073
+	Radius		209.2557413633822	//in km
+	RotationPeriod	5.447534821718555	//in hours
+	Obliquity		127.66729583173675
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4323832639745797	//in AU
-		Eccentricity	0.15858280515027695
+		SemiMajorAxis	2.896768502504929	//in AU
+		Eccentricity	0.1586476252261164
 		Inclination		131.0	//in degrees
-		AscendingNode	0.10980077996225213
-		ArgOfPericenter	-0.2642687735840722
+		AscendingNode	241.96716804015432
+		ArgOfPericenter	0.16138079100856484
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17643,16 +17633,18 @@ Asteroid "Alderaan fragment 839"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.036010448393962	//in km
-	TidalLocked	true
+	Radius		41.68856510142943	//in km
+	RotationPeriod	9.303986298615888	//in hours
+	Obliquity		339.5397525493689
+
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2326866298070875	//in AU
-		Eccentricity	0.16110442553221963
+		SemiMajorAxis	2.6490239437382774	//in AU
+		Eccentricity	0.1453274698965634
 		Inclination		131.0	//in degrees
-		AscendingNode	0.37359603601305336
-		ArgOfPericenter	-0.49525869693629676
+		AscendingNode	242.04932999190996
+		ArgOfPericenter	-0.41847479226430895
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17662,18 +17654,18 @@ Asteroid "Alderaan fragment 840"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		30.75396641120608	//in km
-	RotationPeriod	13.629614507786174	//in hours
-	Obliquity		141.89964350926738
+	Radius		165.8780275070804	//in km
+	RotationPeriod	8.827138307888593	//in hours
+	Obliquity		281.9130375162741
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6773964028596366	//in AU
-		Eccentricity	0.15998517647918983
+		SemiMajorAxis	2.2498551212226956	//in AU
+		Eccentricity	0.13593768559670458
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4578240289295361
-		ArgOfPericenter	-0.22292055912170505
+		AscendingNode	241.78881303526714
+		ArgOfPericenter	-0.24637676085902993
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17683,18 +17675,18 @@ Asteroid "Alderaan fragment 841"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		191.25223686987368	//in km
-	RotationPeriod	8.104729969683723	//in hours
-	Obliquity		335.3976885574085
+	Radius		95.5648355529051	//in km
+	RotationPeriod	17.73975766859603	//in hours
+	Obliquity		198.62396386680274
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4705354406046984	//in AU
-		Eccentricity	0.2033814447053852
+		SemiMajorAxis	1.8407663837193096	//in AU
+		Eccentricity	0.19547808658697763
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4448115223813057
-		ArgOfPericenter	-0.24674062837171362
+		AscendingNode	241.89596199045738
+		ArgOfPericenter	-0.3337793880194512
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17704,18 +17696,18 @@ Asteroid "Alderaan fragment 842"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		21.513098461852607	//in km
-	RotationPeriod	9.89026615112825	//in hours
-	Obliquity		114.4257138290996
+	Radius		109.80817166428346	//in km
+	RotationPeriod	14.142817616556325	//in hours
+	Obliquity		139.62958646241032
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.488321252491122	//in AU
-		Eccentricity	0.15480975870504823
+		SemiMajorAxis	2.694679541719993	//in AU
+		Eccentricity	0.1662716623742964
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.04390760770711999
-		ArgOfPericenter	0.24265933431813502
+		AscendingNode	242.18154779098305
+		ArgOfPericenter	-0.24567391662075344
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17725,18 +17717,18 @@ Asteroid "Alderaan fragment 843"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		18.24302435773523	//in km
-	RotationPeriod	14.736202712995501	//in hours
-	Obliquity		141.80445054227917
+	Radius		110.98722049831773	//in km
+	RotationPeriod	9.85653403555215	//in hours
+	Obliquity		340.68740578743916
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.219989834444974	//in AU
-		Eccentricity	0.19850429944631953
+		SemiMajorAxis	2.5391281532972982	//in AU
+		Eccentricity	0.16396776101828675
 		Inclination		131.0	//in degrees
-		AscendingNode	0.14014339008804078
-		ArgOfPericenter	-0.007505109355394168
+		AscendingNode	242.42064808980803
+		ArgOfPericenter	0.1527978746112384
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17746,18 +17738,18 @@ Asteroid "Alderaan fragment 844"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		121.68614079508762	//in km
-	RotationPeriod	15.884982414066457	//in hours
-	Obliquity		89.07682045398646
+	Radius		134.8481077903451	//in km
+	RotationPeriod	7.586614316254865	//in hours
+	Obliquity		61.565155167217
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.680830153569389	//in AU
-		Eccentricity	0.15755846673552587
+		SemiMajorAxis	2.8711040798275036	//in AU
+		Eccentricity	0.16679837941558778
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.35149592801125706
-		ArgOfPericenter	0.0457265458096171
+		AscendingNode	242.13478748239217
+		ArgOfPericenter	0.1560647958572915
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17767,18 +17759,18 @@ Asteroid "Alderaan fragment 845"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		120.31722545400115	//in km
-	RotationPeriod	16.005800040219217	//in hours
-	Obliquity		104.61043885899245
+	Radius		156.14289617239646	//in km
+	RotationPeriod	11.239035762748504	//in hours
+	Obliquity		58.91937406208281
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.652219561294685	//in AU
-		Eccentricity	0.15437673452433864
+		SemiMajorAxis	2.6703620385058446	//in AU
+		Eccentricity	0.136495528434405
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.04372148880654603
-		ArgOfPericenter	-0.22203407883203097
+		AscendingNode	241.95091297221214
+		ArgOfPericenter	0.3444949326178066
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17788,18 +17780,18 @@ Asteroid "Alderaan fragment 846"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		14.27452703447696	//in km
-	RotationPeriod	16.383984435456174	//in hours
-	Obliquity		313.55282912331796
+	Radius		90.60643321479647	//in km
+	RotationPeriod	23.857777556968124	//in hours
+	Obliquity		347.0704695158332
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.874955851444445	//in AU
-		Eccentricity	0.1593105670940043
+		SemiMajorAxis	2.7948419204740715	//in AU
+		Eccentricity	0.1764187545231261
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.17181260721300584
-		ArgOfPericenter	0.10610203162889131
+		AscendingNode	242.29801347795168
+		ArgOfPericenter	-0.3028772226347387
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17809,18 +17801,18 @@ Asteroid "Alderaan fragment 847"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		92.4321534092691	//in km
-	RotationPeriod	5.639098661520746	//in hours
-	Obliquity		265.26239723553647
+	Radius		218.7502749926547	//in km
+	RotationPeriod	14.493346694017298	//in hours
+	Obliquity		161.31211781062453
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5104574736832315	//in AU
-		Eccentricity	0.17967448939077035
+		SemiMajorAxis	2.2344301415383936	//in AU
+		Eccentricity	0.16647074975035134
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1429806624045239
-		ArgOfPericenter	0.031860752272867776
+		AscendingNode	242.4394703974929
+		ArgOfPericenter	0.4391138302492875
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17830,18 +17822,18 @@ Asteroid "Alderaan fragment 848"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.663373828548487	//in km
-	RotationPeriod	12.594529083716628	//in hours
-	Obliquity		270.9702716421138
+	Radius		201.5665729507952	//in km
+	RotationPeriod	8.347669220210413	//in hours
+	Obliquity		86.85277884162687
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4331204045760835	//in AU
-		Eccentricity	0.1372160259466314
+		SemiMajorAxis	2.3323450263490777	//in AU
+		Eccentricity	0.18941948558417218
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.023571591155997385
-		ArgOfPericenter	-0.33452101334235584
+		AscendingNode	242.09923865750093
+		ArgOfPericenter	0.025752023897242182
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17851,18 +17843,18 @@ Asteroid "Alderaan fragment 849"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		95.27623364445837	//in km
-	RotationPeriod	10.893454810188093	//in hours
-	Obliquity		216.98460865351723
+	Radius		124.74767504110625	//in km
+	RotationPeriod	9.94254856876564	//in hours
+	Obliquity		239.96823380829747
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.406624484276912	//in AU
-		Eccentricity	0.19026531324621762
+		SemiMajorAxis	2.436687785753935	//in AU
+		Eccentricity	0.1964593497192222
 		Inclination		131.0	//in degrees
-		AscendingNode	0.16509486615709834
-		ArgOfPericenter	-0.2913052515666916
+		AscendingNode	241.6080722453862
+		ArgOfPericenter	-0.23417897905619212
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17872,18 +17864,18 @@ Asteroid "Alderaan fragment 850"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		132.30250830085626	//in km
-	RotationPeriod	6.7977669033670844	//in hours
-	Obliquity		342.64687595182255
+	Radius		191.66536119060908	//in km
+	RotationPeriod	18.013749805597403	//in hours
+	Obliquity		174.05764577608792
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.702161615260602	//in AU
-		Eccentricity	0.15642612796401797
+		SemiMajorAxis	2.6795981911652733	//in AU
+		Eccentricity	0.16096233827447312
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2423104646758124
-		ArgOfPericenter	0.40936318169851926
+		AscendingNode	241.9587342632932
+		ArgOfPericenter	-0.015377343012247469
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17893,18 +17885,18 @@ Asteroid "Alderaan fragment 851"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		50.86185877947814	//in km
-	RotationPeriod	10.756577211587494	//in hours
-	Obliquity		233.13436793853637
+	Radius		189.46563185593266	//in km
+	RotationPeriod	14.419783833172723	//in hours
+	Obliquity		290.1552804080362
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5390123091022896	//in AU
-		Eccentricity	0.15881413537569938
+		SemiMajorAxis	2.723002614185288	//in AU
+		Eccentricity	0.11641759672759602
 		Inclination		131.0	//in degrees
-		AscendingNode	0.10052839444390427
-		ArgOfPericenter	-0.38523284164412197
+		AscendingNode	242.3908638828836
+		ArgOfPericenter	0.0783992826855946
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17914,18 +17906,18 @@ Asteroid "Alderaan fragment 852"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.8198076388208	//in km
-	RotationPeriod	12.917832210295416	//in hours
-	Obliquity		118.82740503803188
+	Radius		80.66335672541477	//in km
+	RotationPeriod	13.0181967065802	//in hours
+	Obliquity		150.18358511850863
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5617567031198063	//in AU
-		Eccentricity	0.15753988784872514
+		SemiMajorAxis	2.7064096693279946	//in AU
+		Eccentricity	0.17044802833535963
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.40634600356550354
-		ArgOfPericenter	0.003603520850609887
+		AscendingNode	241.6125002554798
+		ArgOfPericenter	0.39353020869947586
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17935,18 +17927,18 @@ Asteroid "Alderaan fragment 853"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		6.200980510056381	//in km
-	RotationPeriod	9.264598807538402	//in hours
-	Obliquity		279.3500434330236
+	Radius		136.93061692231672	//in km
+	RotationPeriod	15.722041002038697	//in hours
+	Obliquity		49.390324863331216
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3992747332235727	//in AU
-		Eccentricity	0.153747121544547
+		SemiMajorAxis	2.6102772827423157	//in AU
+		Eccentricity	0.19035764254438084
 		Inclination		131.0	//in degrees
-		AscendingNode	0.021777316009732983
-		ArgOfPericenter	-0.2629694175567917
+		AscendingNode	242.18504620614834
+		ArgOfPericenter	-0.3224717747881113
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17956,18 +17948,18 @@ Asteroid "Alderaan fragment 854"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		36.588323670445384	//in km
-	RotationPeriod	10.568661798665275	//in hours
-	Obliquity		143.44295815963474
+	Radius		184.32878249746096	//in km
+	RotationPeriod	16.58615141957116	//in hours
+	Obliquity		146.20745455816586
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9997669120892065	//in AU
-		Eccentricity	0.16027894033113002
+		SemiMajorAxis	2.766811902899455	//in AU
+		Eccentricity	0.19002387912030563
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4658433826375826
-		ArgOfPericenter	0.1170301855978747
+		AscendingNode	242.01102822631455
+		ArgOfPericenter	0.42541882336401127
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17977,18 +17969,18 @@ Asteroid "Alderaan fragment 855"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		54.50351111035795	//in km
-	RotationPeriod	4.567625449484199	//in hours
-	Obliquity		264.62057835226966
+	Radius		159.3087759920746	//in km
+	RotationPeriod	7.699235090662579	//in hours
+	Obliquity		52.69348071209025
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7930906072928985	//in AU
-		Eccentricity	0.17909671441704345
+		SemiMajorAxis	1.8790293170318728	//in AU
+		Eccentricity	0.17831976361891994
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2036710570989606
-		ArgOfPericenter	-0.14679541225297843
+		AscendingNode	241.63145401231247
+		ArgOfPericenter	-0.09535270443865196
 		RefPlane		"Ecliptic"
 	}
 }
@@ -17998,18 +17990,18 @@ Asteroid "Alderaan fragment 856"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.193900699394572	//in km
-	RotationPeriod	10.08928764786552	//in hours
-	Obliquity		88.30324895201888
+	Radius		179.56685593447898	//in km
+	RotationPeriod	15.102571030236913	//in hours
+	Obliquity		345.322100964721
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2133491198270234	//in AU
-		Eccentricity	0.19486234172079167
+		SemiMajorAxis	2.2354687136475397	//in AU
+		Eccentricity	0.1857102647844713
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.386483635624035
-		ArgOfPericenter	0.29576435807504886
+		AscendingNode	242.1073550195346
+		ArgOfPericenter	-0.42059010468918634
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18019,18 +18011,18 @@ Asteroid "Alderaan fragment 857"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		59.0029839335877	//in km
-	RotationPeriod	19.644263956754646	//in hours
-	Obliquity		143.8248466051177
+	Radius		102.59005816713722	//in km
+	RotationPeriod	12.295787682323006	//in hours
+	Obliquity		193.5662235943106
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.129690186221192	//in AU
-		Eccentricity	0.17596322599443256
+		SemiMajorAxis	2.8239932217784016	//in AU
+		Eccentricity	0.20073619513840188
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4443531441845544
-		ArgOfPericenter	-0.33719401591355536
+		AscendingNode	241.94761805957378
+		ArgOfPericenter	0.47068547993727694
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18040,18 +18032,18 @@ Asteroid "Alderaan fragment 858"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		121.75473498451251	//in km
-	RotationPeriod	12.525449864699507	//in hours
-	Obliquity		258.6804855006559
+	Radius		185.3018876805565	//in km
+	RotationPeriod	11.983778217853889	//in hours
+	Obliquity		172.56206901738807
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8580375975936785	//in AU
-		Eccentricity	0.17957251665140722
+		SemiMajorAxis	2.719107214457934	//in AU
+		Eccentricity	0.20321468522329805
 		Inclination		131.0	//in degrees
-		AscendingNode	0.23190168682813095
-		ArgOfPericenter	-0.2941503204512955
+		AscendingNode	241.79542861486516
+		ArgOfPericenter	0.1147872899323269
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18061,18 +18053,18 @@ Asteroid "Alderaan fragment 859"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		1.1822311858664483	//in km
-	RotationPeriod	13.930040609983529	//in hours
-	Obliquity		355.54188874353827
+	Radius		225.24014248920403	//in km
+	RotationPeriod	8.338312929762196	//in hours
+	Obliquity		58.227497680637065
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8033007603466142	//in AU
-		Eccentricity	0.16970519734112566
+		SemiMajorAxis	2.322401792572926	//in AU
+		Eccentricity	0.1632208807092208
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4891247156898185
-		ArgOfPericenter	-0.2957393982784482
+		AscendingNode	241.93090753832234
+		ArgOfPericenter	-0.4763535920837897
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18082,18 +18074,18 @@ Asteroid "Alderaan fragment 860"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		87.78494877098406	//in km
-	RotationPeriod	20.939863372184256	//in hours
-	Obliquity		203.65736954035597
+	Radius		144.00794688861708	//in km
+	RotationPeriod	11.144050884618101	//in hours
+	Obliquity		156.76826981398017
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5127037309295814	//in AU
-		Eccentricity	0.16692012935133396
+		SemiMajorAxis	2.92823881069551	//in AU
+		Eccentricity	0.1790855982626425
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4740638720919801
-		ArgOfPericenter	0.15446598659205557
+		AscendingNode	241.88568087645595
+		ArgOfPericenter	0.15014484691570207
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18103,18 +18095,18 @@ Asteroid "Alderaan fragment 861"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		36.38069313854979	//in km
-	RotationPeriod	15.755311058043617	//in hours
-	Obliquity		32.78958192162867
+	Radius		121.10191972817094	//in km
+	RotationPeriod	15.513051673887945	//in hours
+	Obliquity		28.618965288598407
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1474515779336176	//in AU
-		Eccentricity	0.1557531389650992
+		SemiMajorAxis	2.5425151211167782	//in AU
+		Eccentricity	0.18921535566906508
 		Inclination		131.0	//in degrees
-		AscendingNode	0.19526343698495252
-		ArgOfPericenter	-0.4487685540869305
+		AscendingNode	242.08270807840523
+		ArgOfPericenter	-0.2365134899644682
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18124,18 +18116,18 @@ Asteroid "Alderaan fragment 862"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		60.39033342219872	//in km
-	RotationPeriod	16.745030804445747	//in hours
-	Obliquity		226.59114574987584
+	Radius		145.46953270127878	//in km
+	RotationPeriod	12.152376339567052	//in hours
+	Obliquity		147.06466755351792
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3192899485984704	//in AU
-		Eccentricity	0.21754999878872158
+		SemiMajorAxis	2.8922232771079814	//in AU
+		Eccentricity	0.19715596946975616
 		Inclination		131.0	//in degrees
-		AscendingNode	0.24817961519107856
-		ArgOfPericenter	0.3092432415300461
+		AscendingNode	241.51548170713247
+		ArgOfPericenter	-0.2612611567220078
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18145,18 +18137,18 @@ Asteroid "Alderaan fragment 863"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		194.4449677130076	//in km
-	RotationPeriod	14.802004221258048	//in hours
-	Obliquity		289.43820969929334
+	Radius		151.98959914583045	//in km
+	RotationPeriod	12.374425581372067	//in hours
+	Obliquity		341.15906046527914
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2615447178727934	//in AU
-		Eccentricity	0.14137026002442835
+		SemiMajorAxis	2.821419018867414	//in AU
+		Eccentricity	0.18295476910287192
 		Inclination		131.0	//in degrees
-		AscendingNode	0.27877650617435157
-		ArgOfPericenter	-0.2571082454311945
+		AscendingNode	241.98146995254967
+		ArgOfPericenter	-0.18994583281859678
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18166,18 +18158,18 @@ Asteroid "Alderaan fragment 864"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		167.65443962481856	//in km
-	RotationPeriod	9.20810804140706	//in hours
-	Obliquity		328.68376856417416
+	Radius		103.14535190308798	//in km
+	RotationPeriod	9.3965429019038	//in hours
+	Obliquity		283.4635266834159
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.376305757440019	//in AU
-		Eccentricity	0.18302408420610064
+		SemiMajorAxis	2.7654359152260684	//in AU
+		Eccentricity	0.15681055324406906
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.42854256436542815
-		ArgOfPericenter	0.2985747372093668
+		AscendingNode	241.66676663786066
+		ArgOfPericenter	0.017015269069732386
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18187,18 +18179,18 @@ Asteroid "Alderaan fragment 865"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		40.034001714272556	//in km
-	RotationPeriod	6.90975562036355	//in hours
-	Obliquity		162.7898340922545
+	Radius		119.28492719166272	//in km
+	RotationPeriod	13.261789498064735	//in hours
+	Obliquity		279.4935669013563
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4058381917022444	//in AU
-		Eccentricity	0.17770738149076618
+		SemiMajorAxis	2.871268763283915	//in AU
+		Eccentricity	0.15494449144530498
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.36303805891883145
-		ArgOfPericenter	-0.2786793574667573
+		AscendingNode	242.04411528350414
+		ArgOfPericenter	-0.4657741181437157
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18208,18 +18200,18 @@ Asteroid "Alderaan fragment 866"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		105.73237749465962	//in km
-	RotationPeriod	17.870196719909057	//in hours
-	Obliquity		262.3262938780746
+	Radius		122.8992080283569	//in km
+	RotationPeriod	11.317429714991466	//in hours
+	Obliquity		249.8315482027518
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4832678442577594	//in AU
-		Eccentricity	0.21281051492391578
+		SemiMajorAxis	2.4496268808432764	//in AU
+		Eccentricity	0.14580546476305323
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.048654470705996156
-		ArgOfPericenter	-0.3070962597962906
+		AscendingNode	241.6900591129758
+		ArgOfPericenter	0.004099286318217099
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18229,18 +18221,18 @@ Asteroid "Alderaan fragment 867"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		13.52335672912379	//in km
-	RotationPeriod	10.302103630998808	//in hours
-	Obliquity		224.50976723248183
+	Radius		239.48580731548543	//in km
+	RotationPeriod	14.427647562834961	//in hours
+	Obliquity		327.3572032931764
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.8870276721148513	//in AU
-		Eccentricity	0.1586388470445943
+		SemiMajorAxis	2.8956548870203225	//in AU
+		Eccentricity	0.18903172551223293
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2371657109734251
-		ArgOfPericenter	0.026935366052606824
+		AscendingNode	242.3719429048423
+		ArgOfPericenter	-0.3770942111761856
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18250,18 +18242,18 @@ Asteroid "Alderaan fragment 868"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		13.442243923894239	//in km
-	RotationPeriod	16.16793237540069	//in hours
-	Obliquity		268.8813768799258
+	Radius		163.16350816533978	//in km
+	RotationPeriod	11.693895929013808	//in hours
+	Obliquity		167.20724328559666
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.3360729385029857	//in AU
-		Eccentricity	0.16881466252877061
+		SemiMajorAxis	2.3435190699162196	//in AU
+		Eccentricity	0.18176879680485114
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.16972902243664678
-		ArgOfPericenter	-0.09424397907277215
+		AscendingNode	242.11796373871346
+		ArgOfPericenter	-0.03278593763039328
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18271,18 +18263,18 @@ Asteroid "Alderaan fragment 869"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		119.99445357249293	//in km
-	RotationPeriod	8.159913250169994	//in hours
-	Obliquity		167.85406148459072
+	Radius		199.16351284011387	//in km
+	RotationPeriod	14.044261260216622	//in hours
+	Obliquity		117.70528974386187
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5334429730754158	//in AU
-		Eccentricity	0.18993075246068905
+		SemiMajorAxis	2.4740312381753493	//in AU
+		Eccentricity	0.1807402086746106
 		Inclination		131.0	//in degrees
-		AscendingNode	0.036129164392800006
-		ArgOfPericenter	0.4079725613268066
+		AscendingNode	241.77470102804105
+		ArgOfPericenter	0.33918042696154826
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18292,18 +18284,18 @@ Asteroid "Alderaan fragment 870"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		161.97211550086436	//in km
-	RotationPeriod	6.96713066557967	//in hours
-	Obliquity		44.191710396104355
+	Radius		217.13750651940705	//in km
+	RotationPeriod	18.49863551600389	//in hours
+	Obliquity		296.123636761236
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8144271603885	//in AU
-		Eccentricity	0.18989703582458103
+		SemiMajorAxis	1.929717072638382	//in AU
+		Eccentricity	0.20705831200531624
 		Inclination		131.0	//in degrees
-		AscendingNode	0.14717953517908877
-		ArgOfPericenter	0.14960843618153608
+		AscendingNode	241.7502976437759
+		ArgOfPericenter	-0.43396383283691164
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18313,18 +18305,18 @@ Asteroid "Alderaan fragment 871"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		142.97529221586913	//in km
-	RotationPeriod	10.704497832090182	//in hours
-	Obliquity		140.0045492988674
+	Radius		132.5379336844584	//in km
+	RotationPeriod	16.05038836133293	//in hours
+	Obliquity		147.37316469554113
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6847300864308714	//in AU
-		Eccentricity	0.19362488902945413
+		SemiMajorAxis	2.7396851315104183	//in AU
+		Eccentricity	0.19223676185973665
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3122204336743176
-		ArgOfPericenter	0.3263200958981527
+		AscendingNode	242.2572243363577
+		ArgOfPericenter	-0.2680743920251316
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18334,18 +18326,18 @@ Asteroid "Alderaan fragment 872"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		20.770988380736426	//in km
-	RotationPeriod	10.606587872169198	//in hours
-	Obliquity		133.19515588487806
+	Radius		239.4568655877315	//in km
+	RotationPeriod	7.811600652326757	//in hours
+	Obliquity		114.018047530814
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1786828862656877	//in AU
-		Eccentricity	0.13553967278066403
+		SemiMajorAxis	2.5035747678146616	//in AU
+		Eccentricity	0.1466270791262561
 		Inclination		131.0	//in degrees
-		AscendingNode	0.21447641517719174
-		ArgOfPericenter	0.413239207342175
+		AscendingNode	242.38225440802967
+		ArgOfPericenter	-0.08442342414615922
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18355,18 +18347,18 @@ Asteroid "Alderaan fragment 873"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		112.31426724926625	//in km
-	RotationPeriod	12.498994748129638	//in hours
-	Obliquity		288.43242947100265
+	Radius		200.46979519759287	//in km
+	RotationPeriod	9.340029332285132	//in hours
+	Obliquity		278.8001232694249
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.668591980949479	//in AU
-		Eccentricity	0.18225974785628185
+		SemiMajorAxis	2.9768814180026357	//in AU
+		Eccentricity	0.1731907703477834
 		Inclination		131.0	//in degrees
-		AscendingNode	0.18561097920374714
-		ArgOfPericenter	0.22056484009723232
+		AscendingNode	241.76098121536864
+		ArgOfPericenter	0.17030105780283156
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18376,18 +18368,18 @@ Asteroid "Alderaan fragment 874"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		167.91248314381534	//in km
-	RotationPeriod	8.540022555373614	//in hours
-	Obliquity		219.62721254442252
+	Radius		164.32023184545253	//in km
+	RotationPeriod	6.512701667979854	//in hours
+	Obliquity		158.79210527590462
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.604673987564816	//in AU
-		Eccentricity	0.16070518201226122
+		SemiMajorAxis	2.6488592880884037	//in AU
+		Eccentricity	0.1885562328554432
 		Inclination		131.0	//in degrees
-		AscendingNode	0.29947753380624864
-		ArgOfPericenter	-0.4278546548505149
+		AscendingNode	241.8646654965309
+		ArgOfPericenter	0.18377889774248424
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18397,18 +18389,18 @@ Asteroid "Alderaan fragment 875"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		45.91440061618134	//in km
-	RotationPeriod	12.219965762781506	//in hours
-	Obliquity		3.832667919544317
+	Radius		174.87753056247558	//in km
+	RotationPeriod	18.49561509099598	//in hours
+	Obliquity		179.18814842697094
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6798727493963908	//in AU
-		Eccentricity	0.18489494633897519
+		SemiMajorAxis	2.321300890776071	//in AU
+		Eccentricity	0.13698757421343133
 		Inclination		131.0	//in degrees
-		AscendingNode	0.36375344034370516
-		ArgOfPericenter	0.15760126543427855
+		AscendingNode	241.7316641804797
+		ArgOfPericenter	0.3042936967929646
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18418,18 +18410,18 @@ Asteroid "Alderaan fragment 876"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		12.312823230222879	//in km
-	RotationPeriod	7.584457599059639	//in hours
-	Obliquity		96.63081505834812
+	Radius		143.70680319993582	//in km
+	RotationPeriod	0.427	//in hours
+	Obliquity		178.34267358634702
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.396863472624483	//in AU
-		Eccentricity	0.17966045220979895
+		SemiMajorAxis	2.3279568912476276	//in AU
+		Eccentricity	0.16836274547525742
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2166963913028025
-		ArgOfPericenter	-0.35072988765532986
+		AscendingNode	242.2739523846391
+		ArgOfPericenter	0.4202731694323799
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18439,18 +18431,18 @@ Asteroid "Alderaan fragment 877"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		21.542586519758192	//in km
-	RotationPeriod	13.11065692985905	//in hours
-	Obliquity		165.1621978655689
+	Radius		104.8222805204374	//in km
+	RotationPeriod	14.69864634066224	//in hours
+	Obliquity		30.91252129928945
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5723154782269715	//in AU
-		Eccentricity	0.15330696549525766
+		SemiMajorAxis	2.4964159869051494	//in AU
+		Eccentricity	0.14554231480215224
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4538582929708276
-		ArgOfPericenter	-0.0058979183710173855
+		AscendingNode	242.49172215819118
+		ArgOfPericenter	-0.19468864995834667
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18460,18 +18452,18 @@ Asteroid "Alderaan fragment 878"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		53.453047800304695	//in km
-	RotationPeriod	10.254209567355113	//in hours
-	Obliquity		73.10140141735305
+	Radius		134.25956962167885	//in km
+	RotationPeriod	17.900521449577987	//in hours
+	Obliquity		59.659060017672545
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.780751462153746	//in AU
-		Eccentricity	0.14979277305201677
+		SemiMajorAxis	2.5042467895931178	//in AU
+		Eccentricity	0.13799125221014397
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2654838535950981
-		ArgOfPericenter	0.21254664659065692
+		AscendingNode	242.30917711410336
+		ArgOfPericenter	-0.0040161736243080615
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18481,18 +18473,18 @@ Asteroid "Alderaan fragment 879"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		78.65779598823774	//in km
-	RotationPeriod	12.86420698722851	//in hours
-	Obliquity		213.53023530473874
+	Radius		138.40857008287725	//in km
+	RotationPeriod	9.815771825782859	//in hours
+	Obliquity		108.88109841422872
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6427595274131974	//in AU
-		Eccentricity	0.1586021487934476
+		SemiMajorAxis	2.1046909244205443	//in AU
+		Eccentricity	0.18303535210141017
 		Inclination		131.0	//in degrees
-		AscendingNode	0.03592823862392147
-		ArgOfPericenter	-0.33777974709066005
+		AscendingNode	241.54826299143303
+		ArgOfPericenter	-0.2265784926219322
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18502,18 +18494,18 @@ Asteroid "Alderaan fragment 880"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		13.219999210319134	//in km
-	RotationPeriod	12.246759996727155	//in hours
-	Obliquity		313.01530653518535
+	Radius		160.02468909304764	//in km
+	RotationPeriod	13.298224282172047	//in hours
+	Obliquity		32.18070067133838
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.605869552688824	//in AU
-		Eccentricity	0.1409811331737217
+		SemiMajorAxis	2.4672451701652887	//in AU
+		Eccentricity	0.1592047747330951
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.37691579512379414
-		ArgOfPericenter	-0.49185814333305067
+		AscendingNode	242.01324190253254
+		ArgOfPericenter	0.2778110855626209
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18523,18 +18515,18 @@ Asteroid "Alderaan fragment 881"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		0.4040585323111925	//in km
-	RotationPeriod	14.241442862719852	//in hours
-	Obliquity		25.334138325997756
+	Radius		154.67458792467346	//in km
+	RotationPeriod	16.23205472488475	//in hours
+	Obliquity		349.39484838388387
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.449601867860236	//in AU
-		Eccentricity	0.14148452783563
+		SemiMajorAxis	2.6617597159062782	//in AU
+		Eccentricity	0.1551094654455494
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.06939273381096034
-		ArgOfPericenter	-0.12180865828625731
+		AscendingNode	242.13726541528413
+		ArgOfPericenter	-0.04562414634853684
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18544,18 +18536,18 @@ Asteroid "Alderaan fragment 882"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		84.82581887156157	//in km
-	RotationPeriod	14.389962969067396	//in hours
-	Obliquity		305.39206142410296
+	Radius		125.59297647285823	//in km
+	RotationPeriod	11.124497551220758	//in hours
+	Obliquity		239.06008020740015
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.278365210167552	//in AU
-		Eccentricity	0.16748384502180788
+		SemiMajorAxis	2.9031002651643503	//in AU
+		Eccentricity	0.15451946025556515
 		Inclination		131.0	//in degrees
-		AscendingNode	0.24746512482881922
-		ArgOfPericenter	0.17796207110698237
+		AscendingNode	241.66377483962495
+		ArgOfPericenter	-0.17110229544996325
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18565,18 +18557,18 @@ Asteroid "Alderaan fragment 883"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.123098429530025	//in km
-	RotationPeriod	8.506175721445574	//in hours
-	Obliquity		236.59175057768456
+	Radius		174.4913697136145	//in km
+	RotationPeriod	9.697325985648067	//in hours
+	Obliquity		255.28272349305533
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5612202807672473	//in AU
-		Eccentricity	0.15768970991696646
+		SemiMajorAxis	2.5193419544626927	//in AU
+		Eccentricity	0.16390210058538535
 		Inclination		131.0	//in degrees
-		AscendingNode	0.007211649672049902
-		ArgOfPericenter	0.4190828007762917
+		AscendingNode	241.77098487182812
+		ArgOfPericenter	-0.38285618151186906
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18586,18 +18578,18 @@ Asteroid "Alderaan fragment 884"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		83.19727980598027	//in km
-	RotationPeriod	15.938285989212746	//in hours
-	Obliquity		33.044393625518154
+	Radius		64.3820450775319	//in km
+	RotationPeriod	13.525121162639838	//in hours
+	Obliquity		30.59055860153771
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.496142436877568	//in AU
-		Eccentricity	0.12400605475746769
+		SemiMajorAxis	2.3257929790068124	//in AU
+		Eccentricity	0.16366192162956622
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2938867610986218
-		ArgOfPericenter	0.07393907434952895
+		AscendingNode	242.35122083543675
+		ArgOfPericenter	-0.10951799677234453
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18607,18 +18599,18 @@ Asteroid "Alderaan fragment 885"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		45.704582667919425	//in km
-	RotationPeriod	11.671630964447795	//in hours
-	Obliquity		5.454635074476926
+	Radius		101.97408608277996	//in km
+	RotationPeriod	13.835439768907765	//in hours
+	Obliquity		21.138205442534456
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4974780786616764	//in AU
-		Eccentricity	0.14569940931869707
+		SemiMajorAxis	2.984429335284403	//in AU
+		Eccentricity	0.13848644004327795
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3120780513393878
-		ArgOfPericenter	-0.10575134346231918
+		AscendingNode	242.12995947565767
+		ArgOfPericenter	0.020379441417691324
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18628,18 +18620,18 @@ Asteroid "Alderaan fragment 886"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		94.37141466084852	//in km
-	RotationPeriod	18.738982887703337	//in hours
-	Obliquity		81.68178380015983
+	Radius		98.56846982731915	//in km
+	RotationPeriod	9.720039174897895	//in hours
+	Obliquity		78.9600779886221
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7672231399716876	//in AU
-		Eccentricity	0.15880336403175324
+		SemiMajorAxis	2.3760725756638097	//in AU
+		Eccentricity	0.17721694191688128
 		Inclination		131.0	//in degrees
-		AscendingNode	0.38830387864251636
-		ArgOfPericenter	-0.1446990209611455
+		AscendingNode	241.53123591983416
+		ArgOfPericenter	0.23636193126051186
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18649,18 +18641,18 @@ Asteroid "Alderaan fragment 887"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		114.3378438685195	//in km
-	RotationPeriod	7.8390255244557085	//in hours
-	Obliquity		49.97461939366409
+	Radius		102.48287415078968	//in km
+	RotationPeriod	10.270186111443538	//in hours
+	Obliquity		196.4239386415905
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.485561630374275	//in AU
-		Eccentricity	0.12526541599235
+		SemiMajorAxis	2.935200428690219	//in AU
+		Eccentricity	0.18608260331375454
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2312108105654016
-		ArgOfPericenter	-0.1340378213395942
+		AscendingNode	241.9505107124156
+		ArgOfPericenter	0.07460370161268437
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18670,18 +18662,18 @@ Asteroid "Alderaan fragment 888"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.975228482916089	//in km
-	RotationPeriod	17.8006453810671	//in hours
-	Obliquity		171.43163834276785
+	Radius		229.33394342883554	//in km
+	RotationPeriod	6.1962548033668705	//in hours
+	Obliquity		352.8196305447459
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.708434854941196	//in AU
-		Eccentricity	0.1472416826804958
+		SemiMajorAxis	2.660381752396867	//in AU
+		Eccentricity	0.18190829223009863
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3293707828751625
-		ArgOfPericenter	-0.12298065635687827
+		AscendingNode	242.27386230504806
+		ArgOfPericenter	-0.061118830278862446
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18691,18 +18683,18 @@ Asteroid "Alderaan fragment 889"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		139.63242477568127	//in km
-	RotationPeriod	11.384508734534434	//in hours
-	Obliquity		275.4144292116108
+	Radius		204.2209076641655	//in km
+	RotationPeriod	15.823707513033435	//in hours
+	Obliquity		277.8334861691305
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8141869501740557	//in AU
-		Eccentricity	0.1317863963267544
+		SemiMajorAxis	2.5732203956502255	//in AU
+		Eccentricity	0.15905720045588634
 		Inclination		131.0	//in degrees
-		AscendingNode	0.17560281302903302
-		ArgOfPericenter	0.351072245186573
+		AscendingNode	242.3544558099131
+		ArgOfPericenter	-0.009530781676672206
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18712,18 +18704,18 @@ Asteroid "Alderaan fragment 890"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		71.89432555921641	//in km
-	RotationPeriod	14.297735128894919	//in hours
-	Obliquity		223.01532705719129
+	Radius		167.40459262391443	//in km
+	RotationPeriod	7.825773506862163	//in hours
+	Obliquity		129.64275358196738
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.870340759427834	//in AU
-		Eccentricity	0.16237459885327493
+		SemiMajorAxis	2.660637530647838	//in AU
+		Eccentricity	0.17101993312297076
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3585603125302216
-		ArgOfPericenter	0.30044860729522316
+		AscendingNode	241.73477742733584
+		ArgOfPericenter	0.12247556012003435
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18733,18 +18725,18 @@ Asteroid "Alderaan fragment 891"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.25341845268961	//in km
-	RotationPeriod	9.094674662210963	//in hours
-	Obliquity		179.66487733272982
+	Radius		182.1272606954991	//in km
+	RotationPeriod	9.637111493927463	//in hours
+	Obliquity		268.32293453134696
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.7584517688967913	//in AU
-		Eccentricity	0.11411066243714396
+		SemiMajorAxis	2.286251110296739	//in AU
+		Eccentricity	0.15870836887793588
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.26326555361643045
-		ArgOfPericenter	-0.20387923579728695
+		AscendingNode	242.11475071648886
+		ArgOfPericenter	-0.22037761078801177
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18754,18 +18746,18 @@ Asteroid "Alderaan fragment 892"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		7.893779532593289	//in km
-	RotationPeriod	10.733040787243795	//in hours
-	Obliquity		352.19991072963353
+	Radius		212.1055923869641	//in km
+	RotationPeriod	11.640650405293197	//in hours
+	Obliquity		39.15168984029626
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.7258256630841853	//in AU
-		Eccentricity	0.13263534875858596
+		SemiMajorAxis	2.130843102928842	//in AU
+		Eccentricity	0.1924364825758114
 		Inclination		131.0	//in degrees
-		AscendingNode	0.15877458690755453
-		ArgOfPericenter	-0.46836614191987047
+		AscendingNode	242.20515651197832
+		ArgOfPericenter	0.38806459800267723
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18775,18 +18767,18 @@ Asteroid "Alderaan fragment 893"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		3.744524938290896	//in km
-	RotationPeriod	12.35678872774991	//in hours
-	Obliquity		196.00096804388915
+	Radius		111.82997970726545	//in km
+	RotationPeriod	2.0449204356008703	//in hours
+	Obliquity		127.49559435819266
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4666828145795603	//in AU
-		Eccentricity	0.1714103342399423
+		SemiMajorAxis	2.4475480833877876	//in AU
+		Eccentricity	0.15818114476385192
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.377377775606472
-		ArgOfPericenter	0.15125130084096627
+		AscendingNode	242.07832720908596
+		ArgOfPericenter	0.392775026667848
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18796,18 +18788,18 @@ Asteroid "Alderaan fragment 894"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		51.76050391531112	//in km
-	RotationPeriod	3.446386091226131	//in hours
-	Obliquity		225.4352841385305
+	Radius		188.73712544696443	//in km
+	RotationPeriod	19.455193728205735	//in hours
+	Obliquity		84.85582151131341
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.747048255089526	//in AU
-		Eccentricity	0.17208486314089252
+		SemiMajorAxis	2.720536211372699	//in AU
+		Eccentricity	0.1601662143394478
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3234595098454701
-		ArgOfPericenter	0.05232925330039051
+		AscendingNode	241.74883393593544
+		ArgOfPericenter	-0.3916285364095643
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18817,18 +18809,18 @@ Asteroid "Alderaan fragment 895"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		15.410433883726096	//in km
-	RotationPeriod	13.419267649479131	//in hours
-	Obliquity		52.02459576313228
+	Radius		183.6760318490444	//in km
+	RotationPeriod	12.01813144767009	//in hours
+	Obliquity		148.86658985478616
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.377863296942538	//in AU
-		Eccentricity	0.17462874610520704
+		SemiMajorAxis	2.623315922159392	//in AU
+		Eccentricity	0.17813602633765763
 		Inclination		131.0	//in degrees
-		AscendingNode	0.35102768606531287
-		ArgOfPericenter	-0.16178368349898475
+		AscendingNode	241.70901824340675
+		ArgOfPericenter	0.3258708623069436
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18838,18 +18830,18 @@ Asteroid "Alderaan fragment 896"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		86.96184455846024	//in km
-	RotationPeriod	9.124769618402965	//in hours
-	Obliquity		117.89825421465811
+	Radius		179.53391423199	//in km
+	RotationPeriod	13.931610258090307	//in hours
+	Obliquity		91.96372790907577
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.436503292695342	//in AU
-		Eccentricity	0.1412823544633222
+		SemiMajorAxis	2.4535567943369676	//in AU
+		Eccentricity	0.15915015816477884
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.042445773468088865
-		ArgOfPericenter	-0.39312326954855636
+		AscendingNode	241.9439604621487
+		ArgOfPericenter	0.37807791925361967
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18859,18 +18851,18 @@ Asteroid "Alderaan fragment 897"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		214.84164353745396	//in km
-	RotationPeriod	4.349970644525988	//in hours
-	Obliquity		219.78628267768616
+	Radius		62.988264220696436	//in km
+	RotationPeriod	13.578427444284987	//in hours
+	Obliquity		216.4563800326249
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.75085175014667	//in AU
-		Eccentricity	0.20415574233200312
+		SemiMajorAxis	2.6368854324711655	//in AU
+		Eccentricity	0.18105057975604036
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2972164536560198
-		ArgOfPericenter	-0.286335121477697
+		AscendingNode	242.13383125615306
+		ArgOfPericenter	-0.08540361608062152
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18880,18 +18872,18 @@ Asteroid "Alderaan fragment 898"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		115.38261146903196	//in km
-	RotationPeriod	3.4781903964468963	//in hours
-	Obliquity		162.27950453466443
+	Radius		167.09389174425277	//in km
+	RotationPeriod	7.94659366870918	//in hours
+	Obliquity		160.41975121624034
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6111716020438296	//in AU
-		Eccentricity	0.1707274523859366
+		SemiMajorAxis	2.467251186693216	//in AU
+		Eccentricity	0.2057797911219239
 		Inclination		131.0	//in degrees
-		AscendingNode	0.26569950356771566
-		ArgOfPericenter	-0.04656142138467734
+		AscendingNode	241.90952361094725
+		ArgOfPericenter	-0.2763098746078989
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18901,18 +18893,18 @@ Asteroid "Alderaan fragment 899"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.874089289256744	//in km
-	RotationPeriod	13.22190140865772	//in hours
-	Obliquity		72.98626748340948
+	Radius		188.94887444861064	//in km
+	RotationPeriod	14.82386389484429	//in hours
+	Obliquity		68.44246756875661
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.599084478631067	//in AU
-		Eccentricity	0.1425474131393819
+		SemiMajorAxis	2.533055772971875	//in AU
+		Eccentricity	0.20606949324059493
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3121959867066355
-		ArgOfPericenter	-0.3300303179847439
+		AscendingNode	242.1142711902852
+		ArgOfPericenter	-0.23042992512835536
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18922,18 +18914,18 @@ Asteroid "Alderaan fragment 900"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		217.40164710683896	//in km
-	RotationPeriod	20.060720005284814	//in hours
-	Obliquity		227.85390127092398
+	Radius		142.87390333712074	//in km
+	RotationPeriod	11.035894561367751	//in hours
+	Obliquity		56.67868704320114
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.563722312933827	//in AU
-		Eccentricity	0.14365323243915373
+		SemiMajorAxis	2.339488467487015	//in AU
+		Eccentricity	0.1563296003326603
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4127766639942435
-		ArgOfPericenter	-0.22025819128178492
+		AscendingNode	242.30258494321194
+		ArgOfPericenter	0.3737501847777853
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18943,18 +18935,18 @@ Asteroid "Alderaan fragment 901"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		34.22614918618008	//in km
-	RotationPeriod	17.582835910471506	//in hours
-	Obliquity		264.6937802805513
+	Radius		198.67324795574217	//in km
+	RotationPeriod	11.286397260214596	//in hours
+	Obliquity		359.3980530695528
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3740358645129227	//in AU
-		Eccentricity	0.19487336345745457
+		SemiMajorAxis	2.2548569903792646	//in AU
+		Eccentricity	0.1845699492904115
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.23028392134493358
-		ArgOfPericenter	-0.2733566658032792
+		AscendingNode	241.57500146244413
+		ArgOfPericenter	0.0898527279666107
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18964,18 +18956,18 @@ Asteroid "Alderaan fragment 902"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		182.46814378137728	//in km
-	RotationPeriod	13.100248548389828	//in hours
-	Obliquity		335.8569886357799
+	Radius		100.99439731123381	//in km
+	RotationPeriod	9.731450432585087	//in hours
+	Obliquity		316.05963308677906
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7188201283198836	//in AU
-		Eccentricity	0.13724569268937614
+		SemiMajorAxis	2.6005425997718286	//in AU
+		Eccentricity	0.22288955012852885
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1505352588407326
-		ArgOfPericenter	0.4917035294498595
+		AscendingNode	241.67529642021907
+		ArgOfPericenter	0.11810142819667291
 		RefPlane		"Ecliptic"
 	}
 }
@@ -18985,18 +18977,18 @@ Asteroid "Alderaan fragment 903"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		118.55496774046549	//in km
-	RotationPeriod	8.999057379161899	//in hours
-	Obliquity		60.70771104790993
+	Radius		231.72861169481112	//in km
+	RotationPeriod	16.896037167469828	//in hours
+	Obliquity		97.45543725980416
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.533361348795036	//in AU
-		Eccentricity	0.19473107277272741
+		SemiMajorAxis	2.9501649703365875	//in AU
+		Eccentricity	0.16530354197041086
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.31415829559176733
-		ArgOfPericenter	-0.3626631937810254
+		AscendingNode	241.5948835985613
+		ArgOfPericenter	-0.35411376068697575
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19006,18 +18998,18 @@ Asteroid "Alderaan fragment 904"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		67.22032186080503	//in km
-	RotationPeriod	10.948044007404615	//in hours
-	Obliquity		28.322681435763748
+	Radius		20.547749632886394	//in km
+	RotationPeriod	7.622956438383751	//in hours
+	Obliquity		85.11527831042363
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.398085872616391	//in AU
-		Eccentricity	0.17425485931297316
+		SemiMajorAxis	3.069484885340609	//in AU
+		Eccentricity	0.1825384849546401
 		Inclination		131.0	//in degrees
-		AscendingNode	0.22214896455592947
-		ArgOfPericenter	0.06566609281774971
+		AscendingNode	242.24560595829243
+		ArgOfPericenter	-0.002659244256807747
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19027,18 +19019,18 @@ Asteroid "Alderaan fragment 905"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.345942941917645	//in km
-	RotationPeriod	14.026346922517169	//in hours
-	Obliquity		70.92095856259328
+	Radius		151.2220283839308	//in km
+	RotationPeriod	9.438975570457814	//in hours
+	Obliquity		282.72203631880393
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.9471101695489184	//in AU
-		Eccentricity	0.16460567792334582
+		SemiMajorAxis	2.8729779495866334	//in AU
+		Eccentricity	0.13763593461713478
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3562804342180289
-		ArgOfPericenter	-0.196851036497401
+		AscendingNode	242.2830742453646
+		ArgOfPericenter	-0.4883622635932202
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19048,18 +19040,18 @@ Asteroid "Alderaan fragment 906"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		177.75760055112082	//in km
-	RotationPeriod	14.20103049481942	//in hours
-	Obliquity		175.6032991601548
+	Radius		169.82595621312132	//in km
+	RotationPeriod	13.888038504232973	//in hours
+	Obliquity		95.64823431065015
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1609425962128865	//in AU
-		Eccentricity	0.15267554138629075
+		SemiMajorAxis	2.6246733532451607	//in AU
+		Eccentricity	0.139198975581353
 		Inclination		131.0	//in degrees
-		AscendingNode	0.10083877341467173
-		ArgOfPericenter	-0.42328587782486315
+		AscendingNode	241.65180001765404
+		ArgOfPericenter	0.4404682764831743
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19069,18 +19061,18 @@ Asteroid "Alderaan fragment 907"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		60.13152093215035	//in km
-	RotationPeriod	11.201593384064996	//in hours
-	Obliquity		98.92166436567828
+	Radius		169.22287497997175	//in km
+	RotationPeriod	19.780597178857022	//in hours
+	Obliquity		70.24277608637746
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3801340917845724	//in AU
-		Eccentricity	0.1438383746372211
+		SemiMajorAxis	2.6633297989991416	//in AU
+		Eccentricity	0.1766972669015855
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1691129298891536
-		ArgOfPericenter	-0.07789317510808469
+		AscendingNode	241.74738028689558
+		ArgOfPericenter	0.46029267856466893
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19090,18 +19082,18 @@ Asteroid "Alderaan fragment 908"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		40.68561734722305	//in km
-	RotationPeriod	5.399380055454032	//in hours
-	Obliquity		258.23082990560187
+	Radius		127.17737957340115	//in km
+	RotationPeriod	14.74891714237472	//in hours
+	Obliquity		330.64698725461363
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8643720895729254	//in AU
-		Eccentricity	0.14858297506901347
+		SemiMajorAxis	2.186717211087319	//in AU
+		Eccentricity	0.15906320914525685
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1596859197592394
-		ArgOfPericenter	-0.4482823151686025
+		AscendingNode	242.22249515718235
+		ArgOfPericenter	0.4556039017002743
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19111,18 +19103,18 @@ Asteroid "Alderaan fragment 909"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		161.08289636076464	//in km
-	RotationPeriod	14.465557204148517	//in hours
-	Obliquity		277.36353947787694
+	Radius		172.14416010310708	//in km
+	RotationPeriod	9.415485582210627	//in hours
+	Obliquity		73.94621676864278
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.788264793344349	//in AU
-		Eccentricity	0.11909271822947315
+		SemiMajorAxis	2.79640453846962	//in AU
+		Eccentricity	0.17094972165339153
 		Inclination		131.0	//in degrees
-		AscendingNode	0.0472598738823522
-		ArgOfPericenter	-0.4108363180732032
+		AscendingNode	242.21090859156388
+		ArgOfPericenter	0.4564093220658565
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19132,18 +19124,18 @@ Asteroid "Alderaan fragment 910"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.28295901134749	//in km
-	RotationPeriod	14.176266172924544	//in hours
-	Obliquity		147.8757887876872
+	Radius		174.99604515375552	//in km
+	RotationPeriod	8.287397874861904	//in hours
+	Obliquity		155.99301709095232
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.670765753695184	//in AU
-		Eccentricity	0.19468495831931704
+		SemiMajorAxis	2.745164175677472	//in AU
+		Eccentricity	0.15819261861879033
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4855576490647522
-		ArgOfPericenter	0.4307827848583442
+		AscendingNode	241.9006082438222
+		ArgOfPericenter	-0.007915491377457395
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19153,18 +19145,18 @@ Asteroid "Alderaan fragment 911"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		60.13644510489221	//in km
-	RotationPeriod	12.84503761323222	//in hours
-	Obliquity		240.5020469163349
+	Radius		154.02666366404802	//in km
+	RotationPeriod	19.0779736244807	//in hours
+	Obliquity		17.397450069796175
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.339287334860177	//in AU
-		Eccentricity	0.16997181378169504
+		SemiMajorAxis	2.2055999472214975	//in AU
+		Eccentricity	0.20539834907813903
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3339707012738734
-		ArgOfPericenter	-0.2338639388467958
+		AscendingNode	241.74699109996925
+		ArgOfPericenter	0.31711079130936437
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19174,18 +19166,18 @@ Asteroid "Alderaan fragment 912"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		65.25556007382343	//in km
-	RotationPeriod	13.37935822173014	//in hours
-	Obliquity		212.72399002469066
+	Radius		144.24978347313683	//in km
+	RotationPeriod	16.52801638091317	//in hours
+	Obliquity		273.2936740465521
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3615748954716156	//in AU
-		Eccentricity	0.18126874628752312
+		SemiMajorAxis	2.504148261030974	//in AU
+		Eccentricity	0.1909250081996082
 		Inclination		131.0	//in degrees
-		AscendingNode	0.12592300634814335
-		ArgOfPericenter	0.3098685867149026
+		AscendingNode	242.1403386170473
+		ArgOfPericenter	-0.41557539296390333
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19195,18 +19187,18 @@ Asteroid "Alderaan fragment 913"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		15.704459880793625	//in km
-	RotationPeriod	8.742506411618551	//in hours
-	Obliquity		52.2967298809956
+	Radius		202.50401368195978	//in km
+	RotationPeriod	11.51615996852862	//in hours
+	Obliquity		270.2100009083429
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.3963544806527146	//in AU
-		Eccentricity	0.14662500509681378
+		SemiMajorAxis	2.610823434260616	//in AU
+		Eccentricity	0.1853031607874302
 		Inclination		131.0	//in degrees
-		AscendingNode	0.2939907559136685
-		ArgOfPericenter	-0.14672680431655427
+		AscendingNode	242.4804126693733
+		ArgOfPericenter	0.48003629773714296
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19216,18 +19208,18 @@ Asteroid "Alderaan fragment 914"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		214.11312088013165	//in km
-	RotationPeriod	9.986027630924946	//in hours
-	Obliquity		167.61333304643134
+	Radius		230.73568035280897	//in km
+	RotationPeriod	0.5035631434318191	//in hours
+	Obliquity		148.9330073624202
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.671890507151053	//in AU
-		Eccentricity	0.15631355119277524
+		SemiMajorAxis	2.5852022740571083	//in AU
+		Eccentricity	0.12511436697570566
 		Inclination		131.0	//in degrees
-		AscendingNode	0.06488842021058583
-		ArgOfPericenter	-0.31487234132444464
+		AscendingNode	241.9159922273906
+		ArgOfPericenter	0.256104498366882
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19237,18 +19229,18 @@ Asteroid "Alderaan fragment 915"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		48.044061884878595	//in km
-	RotationPeriod	11.500747995200905	//in hours
-	Obliquity		138.45859008700273
+	Radius		77.87325032432409	//in km
+	RotationPeriod	16.436721010590286	//in hours
+	Obliquity		144.28632332818302
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.027648080564374	//in AU
-		Eccentricity	0.13458549519308707
+		SemiMajorAxis	2.0457771640302838	//in AU
+		Eccentricity	0.1509964766570871
 		Inclination		131.0	//in degrees
-		AscendingNode	0.12539345197124763
-		ArgOfPericenter	0.21116247782884767
+		AscendingNode	242.33496043177422
+		ArgOfPericenter	-0.36307369157297775
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19258,18 +19250,18 @@ Asteroid "Alderaan fragment 916"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		114.06003090882528	//in km
-	RotationPeriod	20.224043185442596	//in hours
-	Obliquity		93.30491842792206
+	Radius		167.67591398571156	//in km
+	RotationPeriod	16.089040915986676	//in hours
+	Obliquity		31.91634657545943
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.87604834988916	//in AU
-		Eccentricity	0.162426663310113
+		SemiMajorAxis	2.4479912983456305	//in AU
+		Eccentricity	0.2088134087545228
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1259479913325674
-		ArgOfPericenter	-0.09965894609989201
+		AscendingNode	242.03358160699904
+		ArgOfPericenter	0.4262813874850886
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19279,18 +19271,18 @@ Asteroid "Alderaan fragment 917"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		69.25424700753615	//in km
-	RotationPeriod	12.135290992871143	//in hours
-	Obliquity		313.9625373418209
+	Radius		174.44833862997908	//in km
+	RotationPeriod	6.742119853112515	//in hours
+	Obliquity		65.3248738471399
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4443321754769163	//in AU
-		Eccentricity	0.17515819659427162
+		SemiMajorAxis	2.1536947791179486	//in AU
+		Eccentricity	0.15620206204416842
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.14475706565301316
-		ArgOfPericenter	-0.45616002145541656
+		AscendingNode	241.78852656854434
+		ArgOfPericenter	0.41597329057042776
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19300,18 +19292,18 @@ Asteroid "Alderaan fragment 918"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.346852786594088	//in km
-	RotationPeriod	11.296886510770308	//in hours
-	Obliquity		183.8844452351614
+	Radius		179.16256299247536	//in km
+	RotationPeriod	7.639719169433547	//in hours
+	Obliquity		147.06241535217433
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.34888308024826	//in AU
-		Eccentricity	0.16014597021673513
+		SemiMajorAxis	2.085131325033568	//in AU
+		Eccentricity	0.17193182944187624
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3123609068676626
-		ArgOfPericenter	-0.44879649858464965
+		AscendingNode	242.16513471960147
+		ArgOfPericenter	-0.18023121636512318
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19321,18 +19313,18 @@ Asteroid "Alderaan fragment 919"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		209.4510799125573	//in km
-	RotationPeriod	8.898740771803077	//in hours
-	Obliquity		303.8677729270979
+	Radius		182.12357373153623	//in km
+	RotationPeriod	7.569447753104216	//in hours
+	Obliquity		328.9636368869351
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.79438821671502	//in AU
-		Eccentricity	0.159525363622589
+		SemiMajorAxis	2.774743131958281	//in AU
+		Eccentricity	0.17367727018764817
 		Inclination		131.0	//in degrees
-		AscendingNode	0.22419727957834057
-		ArgOfPericenter	-0.14652437509057303
+		AscendingNode	241.70134677634377
+		ArgOfPericenter	-0.40153879306536977
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19342,18 +19334,18 @@ Asteroid "Alderaan fragment 920"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.10460020964728	//in km
-	RotationPeriod	10.839948159331808	//in hours
-	Obliquity		254.41479017793765
+	Radius		158.50154942352614	//in km
+	RotationPeriod	8.689125737462986	//in hours
+	Obliquity		184.64329413244565
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7889413839226793	//in AU
-		Eccentricity	0.19368183149377233
+		SemiMajorAxis	2.720198304073603	//in AU
+		Eccentricity	0.20705151066746777
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.1406082472806156
-		ArgOfPericenter	0.49495685448111626
+		AscendingNode	242.30750622313056
+		ArgOfPericenter	-0.29311537622624984
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19363,18 +19355,18 @@ Asteroid "Alderaan fragment 921"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		38.49567871751768	//in km
-	RotationPeriod	10.356878551019301	//in hours
-	Obliquity		51.898115425498425
+	Radius		132.7174177561551	//in km
+	RotationPeriod	9.908959843517096	//in hours
+	Obliquity		236.21356548497795
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.574661971480805	//in AU
-		Eccentricity	0.16843761315343692
+		SemiMajorAxis	2.556346017024178	//in AU
+		Eccentricity	0.19880263629490513
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4292678999503713
-		ArgOfPericenter	-0.19938172994953474
+		AscendingNode	242.11159751558145
+		ArgOfPericenter	-0.3123217999501763
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19384,18 +19376,18 @@ Asteroid "Alderaan fragment 922"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		57.60714698664645	//in km
-	RotationPeriod	13.18395607739711	//in hours
-	Obliquity		230.15034074614306
+	Radius		162.30491900103823	//in km
+	RotationPeriod	13.294659827372035	//in hours
+	Obliquity		297.99455668473684
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5418586718524065	//in AU
-		Eccentricity	0.15919168913591972
+		SemiMajorAxis	2.3948786074388346	//in AU
+		Eccentricity	0.1697327487513326
 		Inclination		131.0	//in degrees
-		AscendingNode	0.17858245807845574
-		ArgOfPericenter	-0.33359914704953386
+		AscendingNode	241.84285507676344
+		ArgOfPericenter	0.20467433506457622
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19405,18 +19397,18 @@ Asteroid "Alderaan fragment 923"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		153.61858405968982	//in km
-	RotationPeriod	13.611799700955098	//in hours
-	Obliquity		40.71844804702805
+	Radius		131.86018105519975	//in km
+	RotationPeriod	13.438362767403028	//in hours
+	Obliquity		58.33090646963016
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.664770461594978	//in AU
-		Eccentricity	0.11756278521366051
+		SemiMajorAxis	2.4002259874288536	//in AU
+		Eccentricity	0.1658367110354807
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3584529987034356
-		ArgOfPericenter	0.34561590187865
+		AscendingNode	242.02420448026223
+		ArgOfPericenter	0.3022443985459585
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19426,18 +19418,18 @@ Asteroid "Alderaan fragment 924"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		26.910181381323888	//in km
-	RotationPeriod	12.605221356130942	//in hours
-	Obliquity		310.7881514639409
+	Radius		139.50796532547898	//in km
+	RotationPeriod	11.039813083206	//in hours
+	Obliquity		274.25382760547353
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5634631413757276	//in AU
-		Eccentricity	0.16842421425585008
+		SemiMajorAxis	2.408319293750006	//in AU
+		Eccentricity	0.1777658777924861
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.11081977998367065
-		ArgOfPericenter	0.1444874224349777
+		AscendingNode	241.65233637115313
+		ArgOfPericenter	-0.4153277748606191
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19447,18 +19439,18 @@ Asteroid "Alderaan fragment 925"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		11.621297875123052	//in km
-	RotationPeriod	11.775924667880078	//in hours
-	Obliquity		242.28579366470038
+	Radius		103.07559664291665	//in km
+	RotationPeriod	5.583055611823351	//in hours
+	Obliquity		261.46267095805837
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1407851106531695	//in AU
-		Eccentricity	0.1808098793887129
+		SemiMajorAxis	2.570648857480219	//in AU
+		Eccentricity	0.15798058340385346
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.47578700663385853
-		ArgOfPericenter	-0.463206936809913
+		AscendingNode	241.58753284248934
+		ArgOfPericenter	-0.3534470768341401
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19468,18 +19460,18 @@ Asteroid "Alderaan fragment 926"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		48.62745276979343	//in km
-	RotationPeriod	5.773187697224426	//in hours
-	Obliquity		245.32186073027776
+	Radius		133.6945984217616	//in km
+	RotationPeriod	11.689687421931023	//in hours
+	Obliquity		93.87093538268604
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.789400565468896	//in AU
-		Eccentricity	0.1814446028035544
+		SemiMajorAxis	2.756846336378772	//in AU
+		Eccentricity	0.17809335544016988
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.07896411040425866
-		ArgOfPericenter	0.46731970685357926
+		AscendingNode	242.08254017190666
+		ArgOfPericenter	0.44879925103188556
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19489,18 +19481,18 @@ Asteroid "Alderaan fragment 927"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		70.35491305252042	//in km
-	RotationPeriod	11.00261036178088	//in hours
-	Obliquity		39.69872160369447
+	Radius		177.2696669776658	//in km
+	RotationPeriod	11.614504114915412	//in hours
+	Obliquity		250.11158326772247
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.744903813641625	//in AU
-		Eccentricity	0.14208654650981978
+		SemiMajorAxis	2.573077663090534	//in AU
+		Eccentricity	0.1359324720678421
 		Inclination		131.0	//in degrees
-		AscendingNode	0.26771523516064555
-		ArgOfPericenter	-0.1695920453145845
+		AscendingNode	242.30697707715333
+		ArgOfPericenter	-0.2141168617107848
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19510,18 +19502,18 @@ Asteroid "Alderaan fragment 928"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		4.546779609527773	//in km
-	RotationPeriod	17.594379723274262	//in hours
-	Obliquity		206.74470103739452
+	Radius		169.34946005977025	//in km
+	RotationPeriod	15.42505380522455	//in hours
+	Obliquity		353.79875759930576
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.8364405354952642	//in AU
-		Eccentricity	0.11965882222678478
+		SemiMajorAxis	2.411299965193784	//in AU
+		Eccentricity	0.16890439087309386
 		Inclination		131.0	//in degrees
-		AscendingNode	0.40634676037928374
-		ArgOfPericenter	-0.052331682360617915
+		AscendingNode	241.60348812907074
+		ArgOfPericenter	-0.18062552802163245
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19531,18 +19523,18 @@ Asteroid "Alderaan fragment 929"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		175.66456306105258	//in km
-	RotationPeriod	10.06738842219405	//in hours
-	Obliquity		73.26238482558038
+	Radius		85.95293026997193	//in km
+	RotationPeriod	10.763472716076638	//in hours
+	Obliquity		140.6501735462376
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.792676845844489	//in AU
-		Eccentricity	0.17740605070856078
+		SemiMajorAxis	2.5230055964072515	//in AU
+		Eccentricity	0.14009369610561706
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.11877557800473748
-		ArgOfPericenter	0.30950481028187693
+		AscendingNode	242.24474731427136
+		ArgOfPericenter	-0.11093810524309489
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19552,18 +19544,18 @@ Asteroid "Alderaan fragment 930"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		13.858243005693662	//in km
-	RotationPeriod	9.902712942519829	//in hours
-	Obliquity		143.05038666534904
+	Radius		131.0500427298337	//in km
+	RotationPeriod	18.06012377486927	//in hours
+	Obliquity		243.62903624236566
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.427440216757768	//in AU
-		Eccentricity	0.15552997650913242
+		SemiMajorAxis	2.191882884045484	//in AU
+		Eccentricity	0.17153879103753297
 		Inclination		131.0	//in degrees
-		AscendingNode	0.06419621428686928
-		ArgOfPericenter	-0.4579195235044118
+		AscendingNode	241.70842651088924
+		ArgOfPericenter	0.37980659709935594
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19573,18 +19565,18 @@ Asteroid "Alderaan fragment 931"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		0.49465985863468287	//in km
-	RotationPeriod	19.828210296989443	//in hours
-	Obliquity		73.99336788126166
+	Radius		182.24294401323925	//in km
+	RotationPeriod	11.520949090605804	//in hours
+	Obliquity		312.0460647049367
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.477257732320266	//in AU
-		Eccentricity	0.18535857790693808
+		SemiMajorAxis	3.2441535330157953	//in AU
+		Eccentricity	0.18091638120438946
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.17228631952872364
-		ArgOfPericenter	-0.30441847694245594
+		AscendingNode	241.7234335344143
+		ArgOfPericenter	-0.4972238113278481
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19594,18 +19586,18 @@ Asteroid "Alderaan fragment 932"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		65.98451447708338	//in km
-	RotationPeriod	16.127809979128482	//in hours
-	Obliquity		328.4592938690322
+	Radius		21.20908876046815	//in km
+	RotationPeriod	6.47865383778714	//in hours
+	Obliquity		16.709506933231424
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7778495778963572	//in AU
-		Eccentricity	0.15613374460120338
+		SemiMajorAxis	3.0586591314070435	//in AU
+		Eccentricity	0.14535016958761396
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1767903313596152
-		ArgOfPericenter	-0.03151814136743081
+		AscendingNode	242.46980213725146
+		ArgOfPericenter	0.0612514626560422
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19615,18 +19607,18 @@ Asteroid "Alderaan fragment 933"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		14.477763181039013	//in km
-	RotationPeriod	8.79236383300369	//in hours
-	Obliquity		23.79196522874156
+	Radius		181.85990227592353	//in km
+	RotationPeriod	11.787160413459665	//in hours
+	Obliquity		50.82043651530234
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3218975542989626	//in AU
-		Eccentricity	0.1411113543100427
+		SemiMajorAxis	2.401516662753241	//in AU
+		Eccentricity	0.19306618791088356
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2993513634197519
-		ArgOfPericenter	-0.4794516972551045
+		AscendingNode	241.75527744400486
+		ArgOfPericenter	0.20725763771960126
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19636,18 +19628,18 @@ Asteroid "Alderaan fragment 934"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		141.44886086513858	//in km
-	RotationPeriod	9.199045317464266	//in hours
-	Obliquity		216.3495266412883
+	Radius		125.19223166525505	//in km
+	RotationPeriod	8.565095382016672	//in hours
+	Obliquity		4.645769536511368
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.602230436316939	//in AU
-		Eccentricity	0.19716371677329872
+		SemiMajorAxis	2.3386209653607364	//in AU
+		Eccentricity	0.20915982902023442
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1571674957939766
-		ArgOfPericenter	-0.08407845038001405
+		AscendingNode	241.7882495977436
+		ArgOfPericenter	-0.39670590047605603
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19657,18 +19649,18 @@ Asteroid "Alderaan fragment 935"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		81.82858370824644	//in km
-	RotationPeriod	16.569255875574726	//in hours
-	Obliquity		174.57954355266764
+	Radius		288.8113625046519	//in km
+	RotationPeriod	17.629945263016218	//in hours
+	Obliquity		198.78153545938966
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.424934030614719	//in AU
-		Eccentricity	0.1686234169177014
+		SemiMajorAxis	2.669013752958469	//in AU
+		Eccentricity	0.15715154015753194
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4502921650881795
-		ArgOfPericenter	0.3699578950631951
+		AscendingNode	242.39095847145816
+		ArgOfPericenter	-0.4161152672596953
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19678,18 +19670,18 @@ Asteroid "Alderaan fragment 936"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		17.712088837037406	//in km
-	RotationPeriod	18.327542416476376	//in hours
-	Obliquity		110.75942049831824
+	Radius		129.81365906859926	//in km
+	RotationPeriod	13.499457188431673	//in hours
+	Obliquity		162.4439368074503
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.118402174887925	//in AU
-		Eccentricity	0.19295247002793922
+		SemiMajorAxis	2.658530704952141	//in AU
+		Eccentricity	0.17065307177215316
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4538004042334133
-		ArgOfPericenter	-0.2023718921559523
+		AscendingNode	242.22405891121784
+		ArgOfPericenter	-0.3074781745211874
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19699,18 +19691,18 @@ Asteroid "Alderaan fragment 937"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		135.6762583370663	//in km
-	RotationPeriod	11.041430972580228	//in hours
-	Obliquity		21.44488260105256
+	Radius		214.56280753163915	//in km
+	RotationPeriod	17.206636688230965	//in hours
+	Obliquity		55.38286320863788
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0203934883218757	//in AU
-		Eccentricity	0.1840747239744797
+		SemiMajorAxis	2.321806174988975	//in AU
+		Eccentricity	0.16251004268575886
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3177026880181403
-		ArgOfPericenter	-0.38077570145849504
+		AscendingNode	242.28284630975972
+		ArgOfPericenter	-0.33187309039813406
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19720,18 +19712,18 @@ Asteroid "Alderaan fragment 938"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		11.758821249267598	//in km
-	RotationPeriod	10.145377534325492	//in hours
-	Obliquity		278.2987621817279
+	Radius		95.59310329417946	//in km
+	RotationPeriod	17.626444130597882	//in hours
+	Obliquity		187.12990260933313
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7301732806458774	//in AU
-		Eccentricity	0.1531980222700834
+		SemiMajorAxis	2.669307609763856	//in AU
+		Eccentricity	0.15174355908331807
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.0868745832417509
-		ArgOfPericenter	-0.06995587752339827
+		AscendingNode	241.71598420778616
+		ArgOfPericenter	0.2553699474259269
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19741,18 +19733,18 @@ Asteroid "Alderaan fragment 939"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		1.1729906996113657	//in km
-	RotationPeriod	10.2733843901384	//in hours
-	Obliquity		242.00616194935276
+	Radius		98.62520205257607	//in km
+	RotationPeriod	14.987304435605328	//in hours
+	Obliquity		196.05340011268535
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.480823849153188	//in AU
-		Eccentricity	0.13318300424168272
+		SemiMajorAxis	3.0357029801977875	//in AU
+		Eccentricity	0.15707244606575133
 		Inclination		131.0	//in degrees
-		AscendingNode	0.40921324838570006
-		ArgOfPericenter	-0.30582160008430703
+		AscendingNode	241.78938858195033
+		ArgOfPericenter	0.2971193420030789
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19762,18 +19754,18 @@ Asteroid "Alderaan fragment 940"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		93.11612982097886	//in km
-	RotationPeriod	10.483032200593845	//in hours
-	Obliquity		42.56253899963422
+	Radius		162.86568196941255	//in km
+	RotationPeriod	10.112362327406	//in hours
+	Obliquity		186.57567425245406
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.780073159258691	//in AU
-		Eccentricity	0.13859546595110273
+		SemiMajorAxis	2.173769572015575	//in AU
+		Eccentricity	0.16286911730896836
 		Inclination		131.0	//in degrees
-		AscendingNode	0.29173253757271467
-		ArgOfPericenter	0.19024047716221126
+		AscendingNode	242.19539690407947
+		ArgOfPericenter	0.31472412035956987
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19783,18 +19775,18 @@ Asteroid "Alderaan fragment 941"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		82.37271364725864	//in km
-	RotationPeriod	18.703809994426138	//in hours
-	Obliquity		255.47384632702534
+	Radius		172.12851926328113	//in km
+	RotationPeriod	15.92531516679675	//in hours
+	Obliquity		262.6444656069042
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.407311968968252	//in AU
-		Eccentricity	0.16065778420186066
+		SemiMajorAxis	2.572757377386787	//in AU
+		Eccentricity	0.16960022113066328
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3738014168710029
-		ArgOfPericenter	0.2985886694629989
+		AscendingNode	241.93901398991903
+		ArgOfPericenter	0.3557486797587891
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19804,18 +19796,18 @@ Asteroid "Alderaan fragment 942"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		37.89894315706863	//in km
-	RotationPeriod	7.174037617657319	//in hours
-	Obliquity		104.49213365885883
+	Radius		143.27539408939245	//in km
+	RotationPeriod	15.529172628646746	//in hours
+	Obliquity		9.73072399708428
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0066306471776283	//in AU
-		Eccentricity	0.18989335133871157
+		SemiMajorAxis	2.3999479993307595	//in AU
+		Eccentricity	0.2094840321806561
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2957580617788389
-		ArgOfPericenter	-0.07132919867533316
+		AscendingNode	241.8836581647234
+		ArgOfPericenter	-0.34569934882604003
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19825,18 +19817,18 @@ Asteroid "Alderaan fragment 943"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		172.09846818511951	//in km
-	RotationPeriod	13.53922502255929	//in hours
-	Obliquity		215.705558202863
+	Radius		157.57082057962717	//in km
+	RotationPeriod	5.39399445251443	//in hours
+	Obliquity		339.53124703754577
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4021864214109456	//in AU
-		Eccentricity	0.15402234041770763
+		SemiMajorAxis	2.354007196981331	//in AU
+		Eccentricity	0.15866685894956473
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.45162094621462145
-		ArgOfPericenter	0.2029373586077411
+		AscendingNode	241.63758633385189
+		ArgOfPericenter	0.33467152296917646
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19846,18 +19838,18 @@ Asteroid "Alderaan fragment 944"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		92.69164156117027	//in km
-	RotationPeriod	7.271376333899932	//in hours
-	Obliquity		92.70394426891438
+	Radius		123.25338007950025	//in km
+	RotationPeriod	8.782280418466419	//in hours
+	Obliquity		32.695570867810105
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3540970025266694	//in AU
-		Eccentricity	0.1711638510351215
+		SemiMajorAxis	2.8268398085160045	//in AU
+		Eccentricity	0.1659729979445391
 		Inclination		131.0	//in degrees
-		AscendingNode	0.24895228093093025
-		ArgOfPericenter	-0.03485550387490621
+		AscendingNode	242.24868238638055
+		ArgOfPericenter	0.47561454003762393
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19867,18 +19859,18 @@ Asteroid "Alderaan fragment 945"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		18.815278118169086	//in km
-	RotationPeriod	11.467675859495438	//in hours
-	Obliquity		61.06583124265732
+	Radius		189.9183031280984	//in km
+	RotationPeriod	13.290712787138073	//in hours
+	Obliquity		174.4209801335816
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5976636126431663	//in AU
-		Eccentricity	0.13285356961420425
+		SemiMajorAxis	2.6050268317457475	//in AU
+		Eccentricity	0.17511416538644242
 		Inclination		131.0	//in degrees
-		AscendingNode	0.06280589351859078
-		ArgOfPericenter	-0.1722377559224575
+		AscendingNode	242.02735996915024
+		ArgOfPericenter	0.060061676913569895
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19888,18 +19880,18 @@ Asteroid "Alderaan fragment 946"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.646879965091994	//in km
-	RotationPeriod	12.398609468407773	//in hours
-	Obliquity		117.89170976322313
+	Radius		142.49977865507807	//in km
+	RotationPeriod	3.8123913077186025	//in hours
+	Obliquity		28.24362712826501
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0705610723751966	//in AU
-		Eccentricity	0.18202461073323545
+		SemiMajorAxis	2.37661871008061	//in AU
+		Eccentricity	0.1817043330602563
 		Inclination		131.0	//in degrees
-		AscendingNode	0.17343725773989205
-		ArgOfPericenter	0.09436377150169717
+		AscendingNode	241.78454494868853
+		ArgOfPericenter	-0.4787244073611613
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19909,18 +19901,18 @@ Asteroid "Alderaan fragment 947"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		74.40453222323477	//in km
-	RotationPeriod	12.84422090686937	//in hours
-	Obliquity		2.965814761387837
+	Radius		160.42811938886865	//in km
+	RotationPeriod	5.14025385082401	//in hours
+	Obliquity		57.20620061276642
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3468194270011233	//in AU
-		Eccentricity	0.17788641048146223
+		SemiMajorAxis	2.3567032963807266	//in AU
+		Eccentricity	0.15625460099733485
 		Inclination		131.0	//in degrees
-		AscendingNode	0.09518886678342064
-		ArgOfPericenter	-0.18728670850857376
+		AscendingNode	242.10638415380734
+		ArgOfPericenter	0.43646920370796105
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19930,18 +19922,18 @@ Asteroid "Alderaan fragment 948"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		26.694489388351816	//in km
-	RotationPeriod	13.464904582091467	//in hours
-	Obliquity		27.221091063186066
+	Radius		94.34980845759586	//in km
+	RotationPeriod	16.076905208577653	//in hours
+	Obliquity		180.37793853427414
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7655904609224695	//in AU
-		Eccentricity	0.1522368893799356
+		SemiMajorAxis	2.248338776140226	//in AU
+		Eccentricity	0.16414136643999766
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2731488035703915
-		ArgOfPericenter	0.47862579839258623
+		AscendingNode	241.52123544880453
+		ArgOfPericenter	0.337089196606162
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19951,18 +19943,18 @@ Asteroid "Alderaan fragment 949"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		90.31128897738246	//in km
-	RotationPeriod	17.7373462255306	//in hours
-	Obliquity		225.09061035023691
+	Radius		243.93029952816875	//in km
+	RotationPeriod	16.238388668976427	//in hours
+	Obliquity		207.26189765346606
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4209111138425237	//in AU
-		Eccentricity	0.15113633126934922
+		SemiMajorAxis	2.717551092931337	//in AU
+		Eccentricity	0.1957283941437955
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.024681777463470334
-		ArgOfPericenter	0.038081194849845734
+		AscendingNode	242.01726811858893
+		ArgOfPericenter	0.15782844702540488
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19972,18 +19964,18 @@ Asteroid "Alderaan fragment 950"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		25.829843006317518	//in km
-	RotationPeriod	14.427336449730694	//in hours
-	Obliquity		269.97866168150733
+	Radius		244.2555733625505	//in km
+	RotationPeriod	14.269806903052148	//in hours
+	Obliquity		191.7205415190339
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.60985215511568	//in AU
-		Eccentricity	0.15897007001515118
+		SemiMajorAxis	2.8596522854091244	//in AU
+		Eccentricity	0.11561863135088388
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4731809612285136
-		ArgOfPericenter	-0.22331593979368058
+		AscendingNode	241.95013891614676
+		ArgOfPericenter	-0.011740302492970978
 		RefPlane		"Ecliptic"
 	}
 }
@@ -19993,18 +19985,18 @@ Asteroid "Alderaan fragment 951"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		5.449309864049805	//in km
-	RotationPeriod	17.35749716454832	//in hours
-	Obliquity		54.398609170224205
+	Radius		178.3911386242049	//in km
+	RotationPeriod	15.137150487092995	//in hours
+	Obliquity		208.55143326586094
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.8691673550168573	//in AU
-		Eccentricity	0.11511032909121025
+		SemiMajorAxis	2.7237164341750226	//in AU
+		Eccentricity	0.16483679921792646
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2365597908971212
-		ArgOfPericenter	0.3891408205469705
+		AscendingNode	241.93722093484232
+		ArgOfPericenter	0.04107733820509796
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20014,18 +20006,18 @@ Asteroid "Alderaan fragment 952"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		70.27049408826703	//in km
-	RotationPeriod	8.689644318019795	//in hours
-	Obliquity		30.696514724947683
+	Radius		145.0608381193651	//in km
+	RotationPeriod	16.73695915324396	//in hours
+	Obliquity		69.6032671173983
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0044561668265173	//in AU
-		Eccentricity	0.13493095761553728
+		SemiMajorAxis	2.3894076798134547	//in AU
+		Eccentricity	0.1686876145234756
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.212834519321906
-		ArgOfPericenter	0.3717279865642312
+		AscendingNode	241.70431504504515
+		ArgOfPericenter	-0.2897310082812894
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20035,18 +20027,18 @@ Asteroid "Alderaan fragment 953"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		82.62162686226445	//in km
-	RotationPeriod	10.624324585839645	//in hours
-	Obliquity		285.3623901173752
+	Radius		188.95202638773702	//in km
+	RotationPeriod	5.376096033174161	//in hours
+	Obliquity		229.7715785027584
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2068545834822526	//in AU
-		Eccentricity	0.18643483315886528
+		SemiMajorAxis	2.465955963088003	//in AU
+		Eccentricity	0.17010814174890448
 		Inclination		131.0	//in degrees
-		AscendingNode	0.04375403420834467
-		ArgOfPericenter	-0.09601285563724915
+		AscendingNode	242.37640061730048
+		ArgOfPericenter	-0.2506228295267877
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20056,18 +20048,18 @@ Asteroid "Alderaan fragment 954"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		46.13565459059039	//in km
-	RotationPeriod	17.50062710053619	//in hours
-	Obliquity		245.53335628786883
+	Radius		84.91918974574054	//in km
+	RotationPeriod	18.133229096830185	//in hours
+	Obliquity		260.75471273000863
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4705669337420124	//in AU
-		Eccentricity	0.16464224757992893
+		SemiMajorAxis	2.1530578338590414	//in AU
+		Eccentricity	0.15948513513456586
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.035002817705505396
-		ArgOfPericenter	-0.31196695760194815
+		AscendingNode	241.6013151201954
+		ArgOfPericenter	0.17060646983975014
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20077,18 +20069,18 @@ Asteroid "Alderaan fragment 955"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		45.092609370239664	//in km
-	RotationPeriod	12.7091355157075	//in hours
-	Obliquity		78.15771455724305
+	Radius		156.43229452806384	//in km
+	RotationPeriod	14.0335349054519	//in hours
+	Obliquity		186.2124855534275
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8714390654196187	//in AU
-		Eccentricity	0.16151031063084856
+		SemiMajorAxis	2.5884065868879693	//in AU
+		Eccentricity	0.1780331622904956
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4813402242185393
-		ArgOfPericenter	0.49733115154426444
+		AscendingNode	241.68213982690133
+		ArgOfPericenter	-0.2642418482630283
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20098,18 +20090,18 @@ Asteroid "Alderaan fragment 956"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.01929346901896	//in km
-	RotationPeriod	12.177139175979613	//in hours
-	Obliquity		339.6009240648803
+	Radius		142.21487795238784	//in km
+	RotationPeriod	16.75383877928906	//in hours
+	Obliquity		149.73095734552027
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.80246072465376	//in AU
-		Eccentricity	0.17229129972530796
+		SemiMajorAxis	2.4823689882179383	//in AU
+		Eccentricity	0.1574320364137366
 		Inclination		131.0	//in degrees
-		AscendingNode	0.005445810339804513
-		ArgOfPericenter	-0.26309356319505617
+		AscendingNode	241.7312929968306
+		ArgOfPericenter	0.3641765461566787
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20119,18 +20111,18 @@ Asteroid "Alderaan fragment 957"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		41.62692566223371	//in km
-	RotationPeriod	11.475416318616952	//in hours
-	Obliquity		174.85383110598605
+	Radius		173.2267297041413	//in km
+	RotationPeriod	6.84455463754406	//in hours
+	Obliquity		208.15815701783998
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.740468460287399	//in AU
-		Eccentricity	0.14143944857563984
+		SemiMajorAxis	2.744631823494972	//in AU
+		Eccentricity	0.17992590943734837
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2811084788808993
-		ArgOfPericenter	0.05498074176060852
+		AscendingNode	242.31961281193045
+		ArgOfPericenter	0.10739282963003294
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20140,18 +20132,18 @@ Asteroid "Alderaan fragment 958"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		59.94381682424549	//in km
-	RotationPeriod	11.607302104391852	//in hours
-	Obliquity		252.9270783466506
+	Radius		70.93075422252663	//in km
+	RotationPeriod	15.167444458753087	//in hours
+	Obliquity		234.87802685098828
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6277179076814225	//in AU
-		Eccentricity	0.14344264018282152
+		SemiMajorAxis	2.363752161859271	//in AU
+		Eccentricity	0.1690968515489371
 		Inclination		131.0	//in degrees
-		AscendingNode	0.11057264153171531
-		ArgOfPericenter	0.4269924704455287
+		AscendingNode	241.83027783383534
+		ArgOfPericenter	0.4231749681209639
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20161,16 +20153,18 @@ Asteroid "Alderaan fragment 959"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		53.566724303786735	//in km
-	TidalLocked	true
+	Radius		265.43446517773316	//in km
+	RotationPeriod	13.276317430833409	//in hours
+	Obliquity		195.63019383590975
+
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.296897252602407	//in AU
-		Eccentricity	0.15835058169944993
+		SemiMajorAxis	2.7541149424172415	//in AU
+		Eccentricity	0.1564245086237856
 		Inclination		131.0	//in degrees
-		AscendingNode	0.066304122263795
-		ArgOfPericenter	0.371146135158951
+		AscendingNode	242.193575176926
+		ArgOfPericenter	0.2645085231856512
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20180,18 +20174,18 @@ Asteroid "Alderaan fragment 960"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.876765764150697	//in km
-	RotationPeriod	20.255593667964355	//in hours
-	Obliquity		164.09225563904224
+	Radius		151.6212954306345	//in km
+	RotationPeriod	9.592009714358916	//in hours
+	Obliquity		219.27561782762353
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.377427078537204	//in AU
-		Eccentricity	0.1653903357519313
+		SemiMajorAxis	2.514511795931466	//in AU
+		Eccentricity	0.1717385147310814
 		Inclination		131.0	//in degrees
-		AscendingNode	0.15095813974254813
-		ArgOfPericenter	-0.45660869148534755
+		AscendingNode	241.67104497412828
+		ArgOfPericenter	0.43065887089615873
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20201,18 +20195,18 @@ Asteroid "Alderaan fragment 961"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.905600748487444	//in km
-	RotationPeriod	9.997038933588739	//in hours
-	Obliquity		92.66388694035638
+	Radius		252.68274492173757	//in km
+	RotationPeriod	15.526627196988265	//in hours
+	Obliquity		184.8497371958777
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.635250361927665	//in AU
-		Eccentricity	0.1799536468973837
+		SemiMajorAxis	2.6340903809379506	//in AU
+		Eccentricity	0.1344950552457628
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3343133039956909
-		ArgOfPericenter	0.11490300101191697
+		AscendingNode	241.80801443805407
+		ArgOfPericenter	-0.08923478652520633
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20222,18 +20216,18 @@ Asteroid "Alderaan fragment 962"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		122.59407833596882	//in km
-	RotationPeriod	17.29546973143753	//in hours
-	Obliquity		221.47074772349842
+	Radius		215.21192618051452	//in km
+	RotationPeriod	14.802801969008918	//in hours
+	Obliquity		286.7644109626706
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	1.9355751425386964	//in AU
-		Eccentricity	0.15942573664833987
+		SemiMajorAxis	2.495545017329768	//in AU
+		Eccentricity	0.1536185705550977
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.028121791141589636
-		ArgOfPericenter	-0.22480087875845522
+		AscendingNode	241.83511625743418
+		ArgOfPericenter	-0.009059116615050322
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20243,18 +20237,18 @@ Asteroid "Alderaan fragment 963"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		92.60883792630744	//in km
-	RotationPeriod	10.713061879424087	//in hours
-	Obliquity		311.4363830835764
+	Radius		68.95419906848322	//in km
+	RotationPeriod	10.6107176508172	//in hours
+	Obliquity		146.37714523473696
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.2609005406389757	//in AU
-		Eccentricity	0.15281358887535093
+		SemiMajorAxis	2.4767062816185117	//in AU
+		Eccentricity	0.17142377061614983
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.44092767271911504
-		ArgOfPericenter	0.2400546508622764
+		AscendingNode	241.53772851832068
+		ArgOfPericenter	0.2742336728034397
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20264,18 +20258,18 @@ Asteroid "Alderaan fragment 964"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		53.30556534486954	//in km
-	RotationPeriod	11.222251607457434	//in hours
-	Obliquity		97.40158674390084
+	Radius		205.2649181853265	//in km
+	RotationPeriod	11.577009887581237	//in hours
+	Obliquity		200.05326398236804
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.6455688428552504	//in AU
-		Eccentricity	0.15378157947751964
+		SemiMajorAxis	2.9895788635555087	//in AU
+		Eccentricity	0.1955020303758417
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.45495846663709427
-		ArgOfPericenter	-0.4635358042450408
+		AscendingNode	241.8189417234564
+		ArgOfPericenter	0.056044162609591774
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20285,18 +20279,18 @@ Asteroid "Alderaan fragment 965"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		203.3969876047198	//in km
-	RotationPeriod	14.559750025014052	//in hours
-	Obliquity		280.0712340574166
+	Radius		102.65484519861167	//in km
+	RotationPeriod	8.855772617020861	//in hours
+	Obliquity		38.842161579797605
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.944186151290076	//in AU
-		Eccentricity	0.168961853521452
+		SemiMajorAxis	3.1394415600363366	//in AU
+		Eccentricity	0.1652750553001147
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.47601515912529735
-		ArgOfPericenter	-0.09792578267935359
+		AscendingNode	242.42012245455888
+		ArgOfPericenter	-0.4494106356337052
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20306,18 +20300,18 @@ Asteroid "Alderaan fragment 966"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.90305737147117	//in km
-	RotationPeriod	17.64059443524669	//in hours
-	Obliquity		76.24247875130888
+	Radius		147.21996688344862	//in km
+	RotationPeriod	15.425694537518376	//in hours
+	Obliquity		65.90890207608571
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.0034761568178636	//in AU
-		Eccentricity	0.1397588177131961
+		SemiMajorAxis	2.924785440873088	//in AU
+		Eccentricity	0.16227152371381234
 		Inclination		131.0	//in degrees
-		AscendingNode	0.14233401432303794
-		ArgOfPericenter	0.4333416718965687
+		AscendingNode	242.2843084423607
+		ArgOfPericenter	-0.009249082129365926
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20327,18 +20321,18 @@ Asteroid "Alderaan fragment 967"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		126.04034917505467	//in km
-	RotationPeriod	11.14881060718984	//in hours
-	Obliquity		122.28221193889908
+	Radius		109.98448719328482	//in km
+	RotationPeriod	11.665633931583681	//in hours
+	Obliquity		104.05270887120955
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.656000440619667	//in AU
-		Eccentricity	0.1698508427192425
+		SemiMajorAxis	2.431662523408071	//in AU
+		Eccentricity	0.13933831203048508
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2969092883201119
-		ArgOfPericenter	0.20478851085148686
+		AscendingNode	241.64483000050453
+		ArgOfPericenter	0.12282781931932185
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20348,18 +20342,18 @@ Asteroid "Alderaan fragment 968"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		47.58664947176706	//in km
-	RotationPeriod	6.278071166991558	//in hours
-	Obliquity		345.81294797524413
+	Radius		155.47902685850343	//in km
+	RotationPeriod	11.834546020302804	//in hours
+	Obliquity		34.80440457896564
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7698494015876878	//in AU
-		Eccentricity	0.20206914062353237
+		SemiMajorAxis	2.677960842472112	//in AU
+		Eccentricity	0.12610445454482086
 		Inclination		131.0	//in degrees
-		AscendingNode	0.14685597628054203
-		ArgOfPericenter	-0.3674500658494513
+		AscendingNode	241.75400166634353
+		ArgOfPericenter	0.016339753994625283
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20369,18 +20363,18 @@ Asteroid "Alderaan fragment 969"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		153.57798028908675	//in km
-	RotationPeriod	11.777724365581673	//in hours
-	Obliquity		69.40045974428477
+	Radius		152.1200799970684	//in km
+	RotationPeriod	9.467723006048903	//in hours
+	Obliquity		184.1904705012416
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.896718960150542	//in AU
-		Eccentricity	0.15638095990504464
+		SemiMajorAxis	2.612275850083153	//in AU
+		Eccentricity	0.17790820892384016
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.376200342807982
-		ArgOfPericenter	-0.328837132625884
+		AscendingNode	241.53760741598026
+		ArgOfPericenter	0.21195814889231057
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20390,18 +20384,18 @@ Asteroid "Alderaan fragment 970"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		27.14896412590148	//in km
-	RotationPeriod	14.150282698373204	//in hours
-	Obliquity		103.18283634135659
+	Radius		150.3414172276771	//in km
+	RotationPeriod	11.880688514627	//in hours
+	Obliquity		31.45156458479424
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.569090024355624	//in AU
-		Eccentricity	0.1913919818678655
+		SemiMajorAxis	2.8060271374622157	//in AU
+		Eccentricity	0.21253893427735132
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.38466399716220634
-		ArgOfPericenter	-0.4540199179855886
+		AscendingNode	241.94036248024557
+		ArgOfPericenter	0.4642111593929563
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20411,18 +20405,18 @@ Asteroid "Alderaan fragment 971"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		109.01312654129688	//in km
-	RotationPeriod	5.987023058731225	//in hours
-	Obliquity		118.09910710363727
+	Radius		189.8482278283247	//in km
+	RotationPeriod	4.506124627512879	//in hours
+	Obliquity		14.813869935398799
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.408890680497525	//in AU
-		Eccentricity	0.1928313823324225
+		SemiMajorAxis	2.4416522967742296	//in AU
+		Eccentricity	0.1604537320446544
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.4175971456385934
-		ArgOfPericenter	-0.46282465085970603
+		AscendingNode	241.54770964927997
+		ArgOfPericenter	-0.10874784321817099
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20432,18 +20426,18 @@ Asteroid "Alderaan fragment 972"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		160.2799926486684	//in km
-	RotationPeriod	10.454343995353396	//in hours
-	Obliquity		103.77033958217154
+	Radius		241.2159998406037	//in km
+	RotationPeriod	4.563967799597826	//in hours
+	Obliquity		214.44922585819552
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.0526137431373392	//in AU
-		Eccentricity	0.15990907270023477
+		SemiMajorAxis	2.535961448031754	//in AU
+		Eccentricity	0.1352657260020021
 		Inclination		131.0	//in degrees
-		AscendingNode	0.024598155243411912
-		ArgOfPericenter	-0.10807563101584927
+		AscendingNode	242.41373518826944
+		ArgOfPericenter	0.14708766750743596
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20453,18 +20447,18 @@ Asteroid "Alderaan fragment 973"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		39.16825153778817	//in km
-	RotationPeriod	14.542624099916402	//in hours
-	Obliquity		183.52364901157378
+	Radius		151.35988340789459	//in km
+	RotationPeriod	14.465938659421457	//in hours
+	Obliquity		357.55708282796024
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.934008773906564	//in AU
-		Eccentricity	0.18381867732629847
+		SemiMajorAxis	2.7286207567094682	//in AU
+		Eccentricity	0.17508601105038266
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.30338073830019086
-		ArgOfPericenter	0.4039689422532231
+		AscendingNode	241.84255701325253
+		ArgOfPericenter	-0.06490218512433776
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20474,18 +20468,18 @@ Asteroid "Alderaan fragment 974"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		6.527585629459226	//in km
-	RotationPeriod	9.466139808396875	//in hours
-	Obliquity		51.05310608941734
+	Radius		102.32076785256012	//in km
+	RotationPeriod	7.779045295946251	//in hours
+	Obliquity		68.47993964533536
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3147991365524425	//in AU
-		Eccentricity	0.14910443984859173
+		SemiMajorAxis	2.007693232071044	//in AU
+		Eccentricity	0.17766935762162386
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.29170282060980823
-		ArgOfPericenter	-0.19721336812836987
+		AscendingNode	242.367807882473
+		ArgOfPericenter	0.1939907511314446
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20495,18 +20489,18 @@ Asteroid "Alderaan fragment 975"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		26.139133972998806	//in km
-	RotationPeriod	10.726259525665924	//in hours
-	Obliquity		12.818096534384686
+	Radius		40.8522604181496	//in km
+	RotationPeriod	12.452906200233794	//in hours
+	Obliquity		351.2829605469558
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.483548019111317	//in AU
-		Eccentricity	0.16613642566568362
+		SemiMajorAxis	2.8594552544577803	//in AU
+		Eccentricity	0.17175829268420126
 		Inclination		131.0	//in degrees
-		AscendingNode	0.24605129205226806
-		ArgOfPericenter	-0.23893691963301034
+		AscendingNode	242.49923872522965
+		ArgOfPericenter	-0.13493363703437256
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20516,18 +20510,18 @@ Asteroid "Alderaan fragment 976"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		91.75432111064067	//in km
-	RotationPeriod	7.963789962531497	//in hours
-	Obliquity		270.0057161917955
+	Radius		178.7206436539445	//in km
+	RotationPeriod	14.874817704402862	//in hours
+	Obliquity		186.33099307793762
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1910620132337177	//in AU
-		Eccentricity	0.13269116282122304
+		SemiMajorAxis	3.106946524752425	//in AU
+		Eccentricity	0.16268786342539707
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.23514672033465145
-		ArgOfPericenter	-0.1838215778594463
+		AscendingNode	241.6162619519691
+		ArgOfPericenter	-0.4678245373405784
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20537,18 +20531,18 @@ Asteroid "Alderaan fragment 977"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		21.239164135454516	//in km
-	RotationPeriod	13.068111180214443	//in hours
-	Obliquity		166.6727409570958
+	Radius		126.08342518660069	//in km
+	RotationPeriod	12.078943781736736	//in hours
+	Obliquity		169.5308672484662
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.681270843540948	//in AU
-		Eccentricity	0.19559809237777936
+		SemiMajorAxis	2.2042126649759837	//in AU
+		Eccentricity	0.19698709032855277
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.20168600893738098
-		ArgOfPericenter	0.10576656010388408
+		AscendingNode	242.38603674955974
+		ArgOfPericenter	0.11699930146304971
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20558,18 +20552,18 @@ Asteroid "Alderaan fragment 978"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		30.912705523676756	//in km
-	RotationPeriod	11.676313174145537	//in hours
-	Obliquity		249.73763109930883
+	Radius		126.70584649685532	//in km
+	RotationPeriod	19.341141351604918	//in hours
+	Obliquity		126.9511646707057
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7978512531061166	//in AU
-		Eccentricity	0.16503927717498898
+		SemiMajorAxis	2.6267868153878577	//in AU
+		Eccentricity	0.17137131119274446
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4192708073931487
-		ArgOfPericenter	-0.46170432868816813
+		AscendingNode	242.0274229492793
+		ArgOfPericenter	0.024546162533776505
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20579,18 +20573,16 @@ Asteroid "Alderaan fragment 979"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		193.66012179819975	//in km
-	RotationPeriod	7.84764794317946	//in hours
-	Obliquity		218.9842845902158
-
+	Radius		175.21999550808727	//in km
+	TidalLocked	true
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.548506669809721	//in AU
-		Eccentricity	0.14095221098115554
+		SemiMajorAxis	2.445290731312031	//in AU
+		Eccentricity	0.1595455231539786
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.3364379235573609
-		ArgOfPericenter	0.11205026732715817
+		AscendingNode	241.99117708646796
+		ArgOfPericenter	0.29946761177232184
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20600,18 +20592,18 @@ Asteroid "Alderaan fragment 980"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		83.92777583146018	//in km
-	RotationPeriod	15.293678383545382	//in hours
-	Obliquity		258.6122111600965
+	Radius		150.91224383062053	//in km
+	RotationPeriod	9.938836752951856	//in hours
+	Obliquity		59.787766871098775
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5411434555723917	//in AU
-		Eccentricity	0.1427418296412612
+		SemiMajorAxis	2.8770286112906263	//in AU
+		Eccentricity	0.1574124681379342
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2613974120415964
-		ArgOfPericenter	-0.21211064372318733
+		AscendingNode	241.55874458404182
+		ArgOfPericenter	-0.498101361469506
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20621,18 +20613,18 @@ Asteroid "Alderaan fragment 981"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		253.2896956162914	//in km
-	RotationPeriod	6.473301405189214	//in hours
-	Obliquity		36.2374562036221
+	Radius		134.61217352903148	//in km
+	RotationPeriod	9.871344941061288	//in hours
+	Obliquity		326.865338147657
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.925436398972204	//in AU
-		Eccentricity	0.12626416845225089
+		SemiMajorAxis	2.8174220707727295	//in AU
+		Eccentricity	0.17237429364664036
 		Inclination		131.0	//in degrees
-		AscendingNode	0.012413831663708685
-		ArgOfPericenter	-0.0453901570774915
+		AscendingNode	242.24865515849706
+		ArgOfPericenter	-0.19809741657050528
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20642,18 +20634,18 @@ Asteroid "Alderaan fragment 982"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		63.27079907190814	//in km
-	RotationPeriod	10.868452450174406	//in hours
-	Obliquity		202.24015278242712
+	Radius		193.66418126908266	//in km
+	RotationPeriod	11.049681731422721	//in hours
+	Obliquity		225.20281622126487
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.3184933468768727	//in AU
-		Eccentricity	0.20155153881516685
+		SemiMajorAxis	2.6832216843697276	//in AU
+		Eccentricity	0.13140912489405626
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.471440981418916
-		ArgOfPericenter	-0.26427386267724085
+		AscendingNode	241.74808787486162
+		ArgOfPericenter	0.34866366247383695
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20663,18 +20655,18 @@ Asteroid "Alderaan fragment 983"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		30.31735981966192	//in km
-	RotationPeriod	12.30160592034748	//in hours
-	Obliquity		5.018393415632492
+	Radius		130.9920092465613	//in km
+	RotationPeriod	9.52320653039996	//in hours
+	Obliquity		128.36479071470345
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.317160573527118	//in AU
-		Eccentricity	0.13097182387347836
+		SemiMajorAxis	2.277088071733044	//in AU
+		Eccentricity	0.13988222763207359
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.08941749984379921
-		ArgOfPericenter	-0.08221945772880324
+		AscendingNode	241.88477831769697
+		ArgOfPericenter	0.2069094887637274
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20684,18 +20676,18 @@ Asteroid "Alderaan fragment 984"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		19.60298323989866	//in km
-	RotationPeriod	10.421692572836955	//in hours
-	Obliquity		56.0227623325376
+	Radius		134.59334250373533	//in km
+	RotationPeriod	20.03396086340736	//in hours
+	Obliquity		346.8891198706542
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.9629143023097	//in AU
-		Eccentricity	0.14707552332728643
+		SemiMajorAxis	2.6370916069597783	//in AU
+		Eccentricity	0.20376363430706287
 		Inclination		131.0	//in degrees
-		AscendingNode	0.20682174375350781
-		ArgOfPericenter	-0.3630038104854172
+		AscendingNode	242.3049407315789
+		ArgOfPericenter	0.447843721611076
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20705,18 +20697,18 @@ Asteroid "Alderaan fragment 985"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		85.73450237900647	//in km
-	RotationPeriod	7.9124153610038706	//in hours
-	Obliquity		210.5470318672693
+	Radius		141.95649171993293	//in km
+	RotationPeriod	0.427	//in hours
+	Obliquity		159.95176010506856
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.428301562321327	//in AU
-		Eccentricity	0.16344962205166041
+		SemiMajorAxis	2.447462642293629	//in AU
+		Eccentricity	0.18870760269352507
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.29729508901329194
-		ArgOfPericenter	-0.42006893831603376
+		AscendingNode	242.02348256628386
+		ArgOfPericenter	0.4884529516008982
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20726,18 +20718,18 @@ Asteroid "Alderaan fragment 986"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		273.3906982234661	//in km
-	RotationPeriod	5.351661688729382	//in hours
-	Obliquity		328.7910569541132
+	Radius		173.88518528871526	//in km
+	RotationPeriod	9.866783836540892	//in hours
+	Obliquity		336.2823052013284
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.652768019105559	//in AU
-		Eccentricity	0.15291249431480353
+		SemiMajorAxis	2.9379531609031466	//in AU
+		Eccentricity	0.19571204209896023
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4473271602949558
-		ArgOfPericenter	-0.27516491018504785
+		AscendingNode	242.4604141835432
+		ArgOfPericenter	0.22762182508005435
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20747,18 +20739,18 @@ Asteroid "Alderaan fragment 987"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		19.433865262648133	//in km
-	RotationPeriod	16.292392643553224	//in hours
-	Obliquity		327.1109906729995
+	Radius		46.45158216234583	//in km
+	RotationPeriod	1.8001786130710453	//in hours
+	Obliquity		5.4472580303987606
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.537092382125469	//in AU
-		Eccentricity	0.14968482761603183
+		SemiMajorAxis	2.8401678289168335	//in AU
+		Eccentricity	0.14036613830469205
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.2568548173495736
-		ArgOfPericenter	0.19460821798965866
+		AscendingNode	241.9044373011149
+		ArgOfPericenter	0.26042144258407096
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20768,18 +20760,18 @@ Asteroid "Alderaan fragment 988"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		57.5736624578503	//in km
-	RotationPeriod	10.715842589588924	//in hours
-	Obliquity		179.19553689223036
+	Radius		162.45170330031206	//in km
+	RotationPeriod	6.158345618975243	//in hours
+	Obliquity		60.81714181192195
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.1006619476190442	//in AU
-		Eccentricity	0.19315927888732665
+		SemiMajorAxis	2.5526832285619383	//in AU
+		Eccentricity	0.1459913365956314
 		Inclination		131.0	//in degrees
-		AscendingNode	0.363102208803748
-		ArgOfPericenter	0.27178932170612824
+		AscendingNode	242.44719089548045
+		ArgOfPericenter	0.07197387728866267
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20789,18 +20781,18 @@ Asteroid "Alderaan fragment 989"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		71.14388829560751	//in km
-	RotationPeriod	14.27167595428988	//in hours
-	Obliquity		2.738894594554946
+	Radius		105.48786462854389	//in km
+	RotationPeriod	7.807845942209946	//in hours
+	Obliquity		124.89543682678197
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.7874398148417665	//in AU
-		Eccentricity	0.1974147473748376
+		SemiMajorAxis	2.9269829273104913	//in AU
+		Eccentricity	0.20656357178305518
 		Inclination		131.0	//in degrees
-		AscendingNode	0.1514058451609125
-		ArgOfPericenter	-0.48508984141694234
+		AscendingNode	242.35974900425285
+		ArgOfPericenter	0.49434722217788496
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20810,18 +20802,18 @@ Asteroid "Alderaan fragment 990"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		172.90005878756583	//in km
-	RotationPeriod	11.427907479796353	//in hours
-	Obliquity		301.7093475067854
+	Radius		211.27460920310287	//in km
+	RotationPeriod	16.77322811761998	//in hours
+	Obliquity		241.4229807447861
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.623041019342888	//in AU
-		Eccentricity	0.13219398520854073
+		SemiMajorAxis	2.7426782416085422	//in AU
+		Eccentricity	0.16701559935176474
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.10179645129243342
-		ArgOfPericenter	-0.36667024647396873
+		AscendingNode	242.45087201710382
+		ArgOfPericenter	-0.09848462061281937
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20831,18 +20823,18 @@ Asteroid "Alderaan fragment 991"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		37.99107555306115	//in km
-	RotationPeriod	12.086882170992759	//in hours
-	Obliquity		24.056001686362013
+	Radius		77.69039602358033	//in km
+	RotationPeriod	14.969835054569904	//in hours
+	Obliquity		4.066484120156262
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.594778470273725	//in AU
-		Eccentricity	0.16138345122593115
+		SemiMajorAxis	1.9138464342415777	//in AU
+		Eccentricity	0.16544812134578402
 		Inclination		131.0	//in degrees
-		AscendingNode	0.25728345702417954
-		ArgOfPericenter	0.487402353375447
+		AscendingNode	241.89252269245304
+		ArgOfPericenter	0.3674091205853778
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20852,18 +20844,18 @@ Asteroid "Alderaan fragment 992"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		18.15515034696763	//in km
-	RotationPeriod	11.717190357886313	//in hours
-	Obliquity		135.58380751747578
+	Radius		164.33089751936316	//in km
+	RotationPeriod	6.824303259753419	//in hours
+	Obliquity		298.13900759384427
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	3.024848971689856	//in AU
-		Eccentricity	0.12612023724889454
+		SemiMajorAxis	2.4721079713778966	//in AU
+		Eccentricity	0.19498207399898587
 		Inclination		131.0	//in degrees
-		AscendingNode	0.18430133706037033
-		ArgOfPericenter	0.3934471513722898
+		AscendingNode	242.10275013630667
+		ArgOfPericenter	0.09612179402761967
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20873,18 +20865,18 @@ Asteroid "Alderaan fragment 993"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		90.6917247934246	//in km
-	RotationPeriod	11.401276290456636	//in hours
-	Obliquity		35.08053867024669
+	Radius		148.6741309862991	//in km
+	RotationPeriod	16.148039078395822	//in hours
+	Obliquity		300.4386282991551
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.307551159349539	//in AU
-		Eccentricity	0.18318821459215437
+		SemiMajorAxis	2.0963297434335892	//in AU
+		Eccentricity	0.13041861113943815
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3555441624859349
-		ArgOfPericenter	0.3776649875505478
+		AscendingNode	242.2547282714049
+		ArgOfPericenter	-0.10155453144230253
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20894,18 +20886,18 @@ Asteroid "Alderaan fragment 994"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		160.47712930380374	//in km
-	RotationPeriod	14.755536144659132	//in hours
-	Obliquity		6.8300184716045464
+	Radius		159.91204281853462	//in km
+	RotationPeriod	13.09889925708719	//in hours
+	Obliquity		311.7720467645026
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.4361591310059283	//in AU
-		Eccentricity	0.1802378460536633
+		SemiMajorAxis	2.6379843366019258	//in AU
+		Eccentricity	0.1832374266028726
 		Inclination		131.0	//in degrees
-		AscendingNode	0.272740367505124
-		ArgOfPericenter	0.1243644315379876
+		AscendingNode	241.84367418899373
+		ArgOfPericenter	0.02014174287131565
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20915,18 +20907,18 @@ Asteroid "Alderaan fragment 995"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		79.43865503286136	//in km
-	RotationPeriod	14.353737415691972	//in hours
-	Obliquity		331.65013622143084
+	Radius		273.91642965779624	//in km
+	RotationPeriod	9.84518468106791	//in hours
+	Obliquity		350.0551355110628
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.39767096324448	//in AU
-		Eccentricity	0.11358001478177047
+		SemiMajorAxis	2.2337720127224308	//in AU
+		Eccentricity	0.20089368756152476
 		Inclination		131.0	//in degrees
-		AscendingNode	0.31635613574430355
-		ArgOfPericenter	0.012703604119516432
+		AscendingNode	241.7837790349493
+		ArgOfPericenter	0.3814645107209087
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20936,18 +20928,18 @@ Asteroid "Alderaan fragment 996"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		24.8399154224554	//in km
-	RotationPeriod	13.264542181830443	//in hours
-	Obliquity		186.5779370977993
+	Radius		97.95438078290042	//in km
+	RotationPeriod	11.877891136449811	//in hours
+	Obliquity		6.422707492698492
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.539533658926535	//in AU
-		Eccentricity	0.14280339040409915
+		SemiMajorAxis	2.503168068454878	//in AU
+		Eccentricity	0.1286216194083739
 		Inclination		131.0	//in degrees
-		AscendingNode	0.3130686156779944
-		ArgOfPericenter	0.24592981410532144
+		AscendingNode	241.72346444001099
+		ArgOfPericenter	-0.4424705272423074
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20957,18 +20949,18 @@ Asteroid "Alderaan fragment 997"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		87.28306469671708	//in km
-	RotationPeriod	16.782937721067405	//in hours
-	Obliquity		121.82373707515052
+	Radius		219.12154310562016	//in km
+	RotationPeriod	13.052686032344276	//in hours
+	Obliquity		49.30673854291078
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.8592082417543496	//in AU
-		Eccentricity	0.1493393381501737
+		SemiMajorAxis	2.6119349996224805	//in AU
+		Eccentricity	0.1832463912869149
 		Inclination		131.0	//in degrees
-		AscendingNode	0.10015605870656585
-		ArgOfPericenter	0.24185158765634296
+		AscendingNode	241.6694213076763
+		ArgOfPericenter	0.2828470048174021
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20978,18 +20970,18 @@ Asteroid "Alderaan fragment 998"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		39.72902166401082	//in km
-	RotationPeriod	11.222913738245099	//in hours
-	Obliquity		73.18878609100003
+	Radius		45.08326805783986	//in km
+	RotationPeriod	15.151497332765707	//in hours
+	Obliquity		233.7655768895282
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.5371579132209714	//in AU
-		Eccentricity	0.16958728621320504
+		SemiMajorAxis	2.4058747991881213	//in AU
+		Eccentricity	0.16364644622029476
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.016724511412492205
-		ArgOfPericenter	-0.26778404582995075
+		AscendingNode	242.32716326635236
+		ArgOfPericenter	-0.3872189072306369
 		RefPlane		"Ecliptic"
 	}
 }
@@ -20999,18 +20991,18 @@ Asteroid "Alderaan fragment 999"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		182.84684047571835	//in km
-	RotationPeriod	7.501205901816526	//in hours
-	Obliquity		213.22547277869003
+	Radius		136.54224560009754	//in km
+	RotationPeriod	5.8621800691380335	//in hours
+	Obliquity		195.05694069818267
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.566314288129247	//in AU
-		Eccentricity	0.16158882917178083
+		SemiMajorAxis	2.5958905273959187	//in AU
+		Eccentricity	0.16364516360834494
 		Inclination		131.0	//in degrees
-		AscendingNode	-0.32035010711899836
-		ArgOfPericenter	-0.08403226235299444
+		AscendingNode	242.3543941277564
+		ArgOfPericenter	-0.18653407792979249
 		RefPlane		"Ecliptic"
 	}
 }
@@ -21020,18 +21012,18 @@ Asteroid "Alderaan fragment 1000"
 {
 	ParentBody	"Alderaan System"
 	Class		"Asteroid"
-	Radius		10.601439188705516	//in km
-	RotationPeriod	17.347043521815614	//in hours
-	Obliquity		320.3634451712992
+	Radius		171.15001193678287	//in km
+	RotationPeriod	14.523132046895746	//in hours
+	Obliquity		101.11045027783186
 
 	Orbit
 	{
 		Epoch			0
-		SemiMajorAxis	2.227393215379753	//in AU
-		Eccentricity	0.14960020403610721
+		SemiMajorAxis	2.461421956066572	//in AU
+		Eccentricity	0.18347532873467468
 		Inclination		131.0	//in degrees
-		AscendingNode	0.4224192332958585
-		ArgOfPericenter	-0.46053406890393267
+		AscendingNode	242.25715151784826
+		ArgOfPericenter	0.12316837010025328
 		RefPlane		"Ecliptic"
 	}
 }
