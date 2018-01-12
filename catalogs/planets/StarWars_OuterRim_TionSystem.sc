@@ -5,7 +5,7 @@
 // X : 11595.67, Y : 6119.69, Z : 208.14891304406
 
 // TODO : remove "water spikes" on the sea
-Planet	"Tion/Proper Tion/Tion Planet"
+Planet	"Tion/Proper Tion/Tion Planet/Tion System 5"
 {
 	ParentBody     "Tion System"
 	Class	       "Oceania"
@@ -299,7 +299,7 @@ Star	"Tion System"
 	}
 }*/
 
-Planet	"1"
+Planet	"Tion System 1"
 {
 	ParentBody     "Tion System"
 	Class	       "Desert"
@@ -500,9 +500,9 @@ Planet	"1"
 	}
 }
 
-DwarfMoon	"1.D1"
+DwarfMoon	"Tion System 1.D1"
 {
-	ParentBody     "1"
+	ParentBody     "Tion System 1"
 	Class	       "Asteroid"
 
 	Mass            3.39607e-011
@@ -609,9 +609,9 @@ DwarfMoon	"1.D1"
 	}
 }
 
-DwarfMoon	"1.D2"
+DwarfMoon	"Tion System 1.D2"
 {
-	ParentBody     "1"
+	ParentBody     "Tion System 1"
 	Class	       "Asteroid"
 
 	Mass            6.08027e-011
@@ -718,9 +718,9 @@ DwarfMoon	"1.D2"
 	}
 }
 
-DwarfMoon	"1.D3"
+DwarfMoon	"Tion System 1.D3"
 {
-	ParentBody     "1"
+	ParentBody     "Tion System 1"
 	Class	       "Asteroid"
 
 	Mass            1.02741e-010
@@ -827,9 +827,9 @@ DwarfMoon	"1.D3"
 	}
 }
 
-DwarfMoon	"1.D4"
+DwarfMoon	"Tion System 1.D4"
 {
-	ParentBody     "1"
+	ParentBody     "Tion System 1"
 	Class	       "Asteroid"
 
 	Mass            1.6618e-010
@@ -934,9 +934,9 @@ DwarfMoon	"1.D4"
 	}
 }
 
-DwarfMoon	"1.D5"
+DwarfMoon	"Tion System 1.D5"
 {
-	ParentBody     "1"
+	ParentBody     "Tion System 1"
 	Class	       "Asteroid"
 
 	Mass            2.59779e-010
@@ -1041,9 +1041,9 @@ DwarfMoon	"1.D5"
 	}
 }
 
-DwarfMoon	"1.D6"
+DwarfMoon	"Tion System 1.D6"
 {
-	ParentBody     "1"
+	ParentBody     "Tion System 1"
 	Class	       "Asteroid"
 
 	Mass            3.95195e-010
@@ -1148,7 +1148,7 @@ DwarfMoon	"1.D6"
 	}
 }
 
-Planet	"2"
+Planet	"Tion System 2"
 {
 	ParentBody     "Tion System"
 	Class	       "GasGiant"
@@ -1313,9 +1313,9 @@ Planet	"2"
 	}
 }
 
-DwarfMoon	"2.D1"
+DwarfMoon	"Tion System 2.D1"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.07072e-008
@@ -1422,9 +1422,9 @@ DwarfMoon	"2.D1"
 	}
 }
 
-DwarfMoon	"2.D2"
+DwarfMoon	"Tion System 2.D2"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.4587e-008
@@ -1531,9 +1531,9 @@ DwarfMoon	"2.D2"
 	}
 }
 
-DwarfMoon	"2.D3"
+DwarfMoon	"Tion System 2.D3"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.98287e-008
@@ -1640,9 +1640,9 @@ DwarfMoon	"2.D3"
 	}
 }
 
-DwarfMoon	"2.D4"
+DwarfMoon	"Tion System 2.D4"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            2.69184e-008
@@ -1749,9 +1749,9 @@ DwarfMoon	"2.D4"
 	}
 }
 
-DwarfMoon	"2.D5"
+DwarfMoon	"Tion System 2.D5"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            3.65263e-008
@@ -1858,9 +1858,9 @@ DwarfMoon	"2.D5"
 	}
 }
 
-Moon	"2.1"
+Moon	"Tion System 2.1"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Selena"
 
 	Mass            0.06077
@@ -2009,9 +2009,9 @@ Moon	"2.1"
 	}
 }
 
-Moon	"2.2"
+Moon	"Tion System 2.2"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Desert"
 
 	Mass            0.70399
@@ -2227,9 +2227,9 @@ Moon	"2.2"
 	}
 }
 
-DwarfMoon	"2.D6"
+DwarfMoon	"Tion System 2.D6"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            9.18024e-008
@@ -2334,9 +2334,9 @@ DwarfMoon	"2.D6"
 	}
 }
 
-DwarfMoon	"2.D7"
+DwarfMoon	"Tion System 2.D7"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.25438e-007
@@ -2441,9 +2441,9 @@ DwarfMoon	"2.D7"
 	}
 }
 
-DwarfMoon	"2.D8"
+DwarfMoon	"Tion System 2.D8"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.72104e-007
@@ -2548,9 +2548,9 @@ DwarfMoon	"2.D8"
 	}
 }
 
-DwarfMoon	"2.D9"
+DwarfMoon	"Tion System 2.D9"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            2.37363e-007
@@ -2655,9 +2655,9 @@ DwarfMoon	"2.D9"
 	}
 }
 
-DwarfMoon	"2.D10"
+DwarfMoon	"Tion System 2.D10"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            3.29473e-007
@@ -2762,9 +2762,9 @@ DwarfMoon	"2.D10"
 	}
 }
 
-DwarfMoon	"2.D11"
+DwarfMoon	"Tion System 2.D11"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            4.60906e-007
@@ -2869,9 +2869,9 @@ DwarfMoon	"2.D11"
 	}
 }
 
-DwarfMoon	"2.D12"
+DwarfMoon	"Tion System 2.D12"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            6.50843e-007
@@ -2976,9 +2976,9 @@ DwarfMoon	"2.D12"
 	}
 }
 
-DwarfMoon	"2.D13"
+DwarfMoon	"Tion System 2.D13"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            9.29432e-007
@@ -3083,9 +3083,9 @@ DwarfMoon	"2.D13"
 	}
 }
 
-DwarfMoon	"2.D14"
+DwarfMoon	"Tion System 2.D14"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.34525e-006
@@ -3190,9 +3190,9 @@ DwarfMoon	"2.D14"
 	}
 }
 
-DwarfMoon	"2.D15"
+DwarfMoon	"Tion System 2.D15"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.97885e-006
@@ -3297,9 +3297,9 @@ DwarfMoon	"2.D15"
 	}
 }
 
-DwarfMoon	"2.D16"
+DwarfMoon	"Tion System 2.D16"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            2.96837e-006
@@ -3404,9 +3404,9 @@ DwarfMoon	"2.D16"
 	}
 }
 
-DwarfMoon	"2.D17"
+DwarfMoon	"Tion System 2.D17"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            4.56041e-006
@@ -3511,9 +3511,9 @@ DwarfMoon	"2.D17"
 	}
 }
 
-DwarfMoon	"2.D18"
+DwarfMoon	"Tion System 2.D18"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.25322e-011
@@ -3618,9 +3618,9 @@ DwarfMoon	"2.D18"
 	}
 }
 
-DwarfMoon	"2.D19"
+DwarfMoon	"Tion System 2.D19"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            2.5475e-011
@@ -3725,9 +3725,9 @@ DwarfMoon	"2.D19"
 	}
 }
 
-DwarfMoon	"2.D20"
+DwarfMoon	"Tion System 2.D20"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            4.71256e-011
@@ -3832,9 +3832,9 @@ DwarfMoon	"2.D20"
 	}
 }
 
-Moon	"2.3"
+Moon	"Tion System 2.3"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Selena"
 
 	Mass            0.0201324
@@ -3978,9 +3978,9 @@ Moon	"2.3"
 	}
 }
 
-DwarfMoon	"2.D21"
+DwarfMoon	"Tion System 2.D21"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.34371e-010
@@ -4085,9 +4085,9 @@ DwarfMoon	"2.D21"
 	}
 }
 
-DwarfMoon	"2.D22"
+DwarfMoon	"Tion System 2.D22"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            2.13103e-010
@@ -4192,9 +4192,9 @@ DwarfMoon	"2.D22"
 	}
 }
 
-DwarfMoon	"2.D23"
+DwarfMoon	"Tion System 2.D23"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            3.2796e-010
@@ -4299,9 +4299,9 @@ DwarfMoon	"2.D23"
 	}
 }
 
-DwarfMoon	"2.D24"
+DwarfMoon	"Tion System 2.D24"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            4.92642e-010
@@ -4406,9 +4406,9 @@ DwarfMoon	"2.D24"
 	}
 }
 
-DwarfMoon	"2.D25"
+DwarfMoon	"Tion System 2.D25"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            7.25504e-010
@@ -4513,9 +4513,9 @@ DwarfMoon	"2.D25"
 	}
 }
 
-DwarfMoon	"2.D26"
+DwarfMoon	"Tion System 2.D26"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.05109e-009
@@ -4620,9 +4620,9 @@ DwarfMoon	"2.D26"
 	}
 }
 
-DwarfMoon	"2.D27"
+DwarfMoon	"Tion System 2.D27"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.5022e-009
@@ -4727,9 +4727,9 @@ DwarfMoon	"2.D27"
 	}
 }
 
-DwarfMoon	"2.D28"
+DwarfMoon	"Tion System 2.D28"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            2.12265e-009
@@ -4834,9 +4834,9 @@ DwarfMoon	"2.D28"
 	}
 }
 
-DwarfMoon	"2.D29"
+DwarfMoon	"Tion System 2.D29"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            2.97105e-009
@@ -4941,9 +4941,9 @@ DwarfMoon	"2.D29"
 	}
 }
 
-DwarfMoon	"2.D30"
+DwarfMoon	"Tion System 2.D30"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            4.12588e-009
@@ -5048,9 +5048,9 @@ DwarfMoon	"2.D30"
 	}
 }
 
-DwarfMoon	"2.D31"
+DwarfMoon	"Tion System 2.D31"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            5.69247e-009
@@ -5155,9 +5155,9 @@ DwarfMoon	"2.D31"
 	}
 }
 
-DwarfMoon	"2.D32"
+DwarfMoon	"Tion System 2.D32"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            7.81255e-009
@@ -5262,9 +5262,9 @@ DwarfMoon	"2.D32"
 	}
 }
 
-DwarfMoon	"2.D33"
+DwarfMoon	"Tion System 2.D33"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.06775e-008
@@ -5369,9 +5369,9 @@ DwarfMoon	"2.D33"
 	}
 }
 
-DwarfMoon	"2.D34"
+DwarfMoon	"Tion System 2.D34"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.4547e-008
@@ -5476,9 +5476,9 @@ DwarfMoon	"2.D34"
 	}
 }
 
-DwarfMoon	"2.D35"
+DwarfMoon	"Tion System 2.D35"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            1.97746e-008
@@ -5583,9 +5583,9 @@ DwarfMoon	"2.D35"
 	}
 }
 
-DwarfMoon	"2.D36"
+DwarfMoon	"Tion System 2.D36"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            2.68451e-008
@@ -5690,9 +5690,9 @@ DwarfMoon	"2.D36"
 	}
 }
 
-DwarfMoon	"2.D37"
+DwarfMoon	"Tion System 2.D37"
 {
-	ParentBody     "2"
+	ParentBody     "Tion System 2"
 	Class	       "Asteroid"
 
 	Mass            3.64269e-008
@@ -5797,7 +5797,7 @@ DwarfMoon	"2.D37"
 	}
 }
 
-Planet	"3"
+Planet	"Tion System 3"
 {
 	ParentBody     "Tion System"
 	Class	       "IceGiant"
@@ -5945,9 +5945,9 @@ Planet	"3"
 	}
 }
 
-DwarfMoon	"3.D1"
+DwarfMoon	"Tion System 3.D1"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            7.90068e-007
@@ -6054,9 +6054,9 @@ DwarfMoon	"3.D1"
 	}
 }
 
-DwarfMoon	"3.D2"
+DwarfMoon	"Tion System 3.D2"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            1.13626e-006
@@ -6163,9 +6163,9 @@ DwarfMoon	"3.D2"
 	}
 }
 
-DwarfMoon	"3.D3"
+DwarfMoon	"Tion System 3.D3"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            1.65865e-006
@@ -6272,9 +6272,9 @@ DwarfMoon	"3.D3"
 	}
 }
 
-DwarfMoon	"3.D4"
+DwarfMoon	"Tion System 3.D4"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            2.465e-006
@@ -6381,9 +6381,9 @@ DwarfMoon	"3.D4"
 	}
 }
 
-Moon	"3.1"
+Moon	"Tion System 3.1"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Selena"
 
 	Mass            0.0102259
@@ -6528,9 +6528,9 @@ Moon	"3.1"
 	}
 }
 
-Moon	"3.2"
+Moon	"Tion System 3.2"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Selena"
 
 	Mass            0.0134339
@@ -6675,9 +6675,9 @@ Moon	"3.2"
 	}
 }
 
-DwarfMoon	"3.D5"
+DwarfMoon	"Tion System 3.D5"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            8.3548e-006
@@ -6782,9 +6782,9 @@ DwarfMoon	"3.D5"
 	}
 }
 
-DwarfMoon	"3.D6"
+DwarfMoon	"Tion System 3.D6"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            3.60375e-011
@@ -6889,9 +6889,9 @@ DwarfMoon	"3.D6"
 	}
 }
 
-DwarfMoon	"3.D7"
+DwarfMoon	"Tion System 3.D7"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            6.41099e-011
@@ -6996,9 +6996,9 @@ DwarfMoon	"3.D7"
 	}
 }
 
-DwarfMoon	"3.D8"
+DwarfMoon	"Tion System 3.D8"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            1.07816e-010
@@ -7103,9 +7103,9 @@ DwarfMoon	"3.D8"
 	}
 }
 
-DwarfMoon	"3.D9"
+DwarfMoon	"Tion System 3.D9"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            1.7375e-010
@@ -7210,9 +7210,9 @@ DwarfMoon	"3.D9"
 	}
 }
 
-DwarfMoon	"3.D10"
+DwarfMoon	"Tion System 3.D10"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            2.70827e-010
@@ -7317,9 +7317,9 @@ DwarfMoon	"3.D10"
 	}
 }
 
-DwarfMoon	"3.D11"
+DwarfMoon	"Tion System 3.D11"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            4.11042e-010
@@ -7424,9 +7424,9 @@ DwarfMoon	"3.D11"
 	}
 }
 
-DwarfMoon	"3.D12"
+DwarfMoon	"Tion System 3.D12"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            6.10481e-010
@@ -7531,9 +7531,9 @@ DwarfMoon	"3.D12"
 	}
 }
 
-DwarfMoon	"3.D13"
+DwarfMoon	"Tion System 3.D13"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            8.90673e-010
@@ -7638,9 +7638,9 @@ DwarfMoon	"3.D13"
 	}
 }
 
-DwarfMoon	"3.D14"
+DwarfMoon	"Tion System 3.D14"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            1.28039e-009
@@ -7745,9 +7745,9 @@ DwarfMoon	"3.D14"
 	}
 }
 
-DwarfMoon	"3.D15"
+DwarfMoon	"Tion System 3.D15"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            1.81809e-009
@@ -7852,9 +7852,9 @@ DwarfMoon	"3.D15"
 	}
 }
 
-DwarfMoon	"3.D16"
+DwarfMoon	"Tion System 3.D16"
 {
-	ParentBody     "3"
+	ParentBody     "Tion System 3"
 	Class	       "Asteroid"
 
 	Mass            2.55514e-009
@@ -7959,7 +7959,7 @@ DwarfMoon	"3.D16"
 	}
 }
 
-DwarfPlanet	"4"
+DwarfPlanet	"Tion System 4"
 {
 	ParentBody     "Tion System"
 	Class	       "Selena"
@@ -8090,9 +8090,9 @@ DwarfPlanet	"4"
 	}
 }
 
-DwarfMoon	"4.D1"
+DwarfMoon	"Tion System 4.D1"
 {
-	ParentBody     "4"
+	ParentBody     "Tion System 4"
 	Class	       "Asteroid"
 
 	Mass            3.94298e-005
@@ -8199,9 +8199,9 @@ DwarfMoon	"4.D1"
 	}
 }
 
-DwarfMoon	"4.D2"
+DwarfMoon	"Tion System 4.D2"
 {
-	ParentBody     "4"
+	ParentBody     "Tion System 4"
 	Class	       "Asteroid"
 
 	Mass            4.56829e-005
@@ -8331,7 +8331,7 @@ DwarfMoon	"4.D2"
 	}
 }
 
-Planet	"5"
+Planet	"Tion System 5"
 {
 	ParentBody     "5-5.1"
 	Class	       "Selena"
@@ -8482,7 +8482,7 @@ Planet	"5"
 	}
 }
 
-Moon	"5.1"
+Moon	"Tion System 5.1"
 {
 	ParentBody     "5-5.1"
 	Class	       "Selena"
@@ -8611,7 +8611,7 @@ Moon	"5.1"
 	}
 }*/
 
-Planet	"6"
+Planet	"Tion System 6"
 {
 	ParentBody     "Tion System"
 	Class	       "IceWorld"
@@ -8772,9 +8772,9 @@ Planet	"6"
 	}
 }
 
-DwarfMoon	"6.D1"
+DwarfMoon	"Tion System 6.D1"
 {
-	ParentBody     "6"
+	ParentBody     "Tion System 6"
 	Class	       "Asteroid"
 
 	Mass            5.3542e-010
@@ -8881,9 +8881,9 @@ DwarfMoon	"6.D1"
 	}
 }
 
-DwarfMoon	"6.D2"
+DwarfMoon	"Tion System 6.D2"
 {
-	ParentBody     "6"
+	ParentBody     "Tion System 6"
 	Class	       "Asteroid"
 
 	Mass            7.85578e-010
@@ -8990,9 +8990,9 @@ DwarfMoon	"6.D2"
 	}
 }
 
-Moon	"6.1"
+Moon	"Tion System 6.1"
 {
-	ParentBody     "6"
+	ParentBody     "Tion System 6"
 	Class	       "IceWorld"
 
 	Mass            0.000170963
@@ -9124,9 +9124,9 @@ Moon	"6.1"
 	}
 }
 
-Moon	"6.2"
+Moon	"Tion System 6.2"
 {
-	ParentBody     "6"
+	ParentBody     "Tion System 6"
 	Class	       "IceWorld"
 
 	Mass            0.000205111
@@ -9258,9 +9258,9 @@ Moon	"6.2"
 	}
 }
 
-Moon	"6.3"
+Moon	"Tion System 6.3"
 {
-	ParentBody     "6"
+	ParentBody     "Tion System 6"
 	Class	       "IceWorld"
 
 	Mass            0.00024397
@@ -9390,9 +9390,9 @@ Moon	"6.3"
 	}
 }
 
-Moon	"6.4"
+Moon	"Tion System 6.4"
 {
-	ParentBody     "6"
+	ParentBody     "Tion System 6"
 	Class	       "IceWorld"
 
 	Mass            0.000288188
@@ -9522,9 +9522,9 @@ Moon	"6.4"
 	}
 }
 
-Moon	"6.5"
+Moon	"Tion System 6.5"
 {
-	ParentBody     "6"
+	ParentBody     "Tion System 6"
 	Class	       "IceWorld"
 
 	Mass            0.000338524
@@ -9654,9 +9654,9 @@ Moon	"6.5"
 	}
 }
 
-Moon	"6.6"
+Moon	"Tion System 6.6"
 {
-	ParentBody     "6"
+	ParentBody     "Tion System 6"
 	Class	       "IceWorld"
 
 	Mass            0.000395874
@@ -9786,9 +9786,9 @@ Moon	"6.6"
 	}
 }
 
-DwarfMoon	"6.D3"
+DwarfMoon	"Tion System 6.D3"
 {
-	ParentBody     "6"
+	ParentBody     "Tion System 6"
 	Class	       "Asteroid"
 
 	Mass            8.348e-009
@@ -9893,9 +9893,9 @@ DwarfMoon	"6.D3"
 	}
 }
 
-DwarfMoon	"6.D4"
+DwarfMoon	"Tion System 6.D4"
 {
-	ParentBody     "6"
+	ParentBody     "Tion System 6"
 	Class	       "Asteroid"
 
 	Mass            1.14008e-008
@@ -10000,9 +10000,9 @@ DwarfMoon	"6.D4"
 	}
 }
 
-DwarfMoon	"6.D5"
+DwarfMoon	"Tion System 6.D5"
 {
-	ParentBody     "6"
+	ParentBody     "Tion System 6"
 	Class	       "Asteroid"
 
 	Mass            1.55238e-008
@@ -10107,7 +10107,7 @@ DwarfMoon	"6.D5"
 	}
 }
 
-Asteroid	"S1"
+Asteroid	"Tion System S1"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -10214,7 +10214,7 @@ Asteroid	"S1"
 	}
 }
 
-Asteroid	"S2"
+Asteroid	"Tion System S2"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -10321,7 +10321,7 @@ Asteroid	"S2"
 	}
 }
 
-Asteroid	"S3"
+Asteroid	"Tion System S3"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -10428,7 +10428,7 @@ Asteroid	"S3"
 	}
 }
 
-Asteroid	"S4"
+Asteroid	"Tion System S4"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -10535,7 +10535,7 @@ Asteroid	"S4"
 	}
 }
 
-Asteroid	"S5"
+Asteroid	"Tion System S5"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -10642,7 +10642,7 @@ Asteroid	"S5"
 	}
 }
 
-Asteroid	"S6"
+Asteroid	"Tion System S6"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -10749,7 +10749,7 @@ Asteroid	"S6"
 	}
 }
 
-Asteroid	"S7"
+Asteroid	"Tion System S7"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -10856,7 +10856,7 @@ Asteroid	"S7"
 	}
 }
 
-Asteroid	"S8"
+Asteroid	"Tion System S8"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -10963,7 +10963,7 @@ Asteroid	"S8"
 	}
 }
 
-Asteroid	"S9"
+Asteroid	"Tion System S9"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -11070,7 +11070,7 @@ Asteroid	"S9"
 	}
 }
 
-Asteroid	"S10"
+Asteroid	"Tion System S10"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -11177,7 +11177,7 @@ Asteroid	"S10"
 	}
 }
 
-Asteroid	"S11"
+Asteroid	"Tion System S11"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -11284,7 +11284,7 @@ Asteroid	"S11"
 	}
 }
 
-Asteroid	"S12"
+Asteroid	"Tion System S12"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -11391,7 +11391,7 @@ Asteroid	"S12"
 	}
 }
 
-Asteroid	"S13"
+Asteroid	"Tion System S13"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -11498,7 +11498,7 @@ Asteroid	"S13"
 	}
 }
 
-Asteroid	"S14"
+Asteroid	"Tion System S14"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -11605,7 +11605,7 @@ Asteroid	"S14"
 	}
 }
 
-Asteroid	"S15"
+Asteroid	"Tion System S15"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -11712,7 +11712,7 @@ Asteroid	"S15"
 	}
 }
 
-Asteroid	"S16"
+Asteroid	"Tion System S16"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -11819,7 +11819,7 @@ Asteroid	"S16"
 	}
 }
 
-Asteroid	"S17"
+Asteroid	"Tion System S17"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -11926,7 +11926,7 @@ Asteroid	"S17"
 	}
 }
 
-Asteroid	"S18"
+Asteroid	"Tion System S18"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -12033,7 +12033,7 @@ Asteroid	"S18"
 	}
 }
 
-Asteroid	"S19"
+Asteroid	"Tion System S19"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -12140,7 +12140,7 @@ Asteroid	"S19"
 	}
 }
 
-Asteroid	"S20"
+Asteroid	"Tion System S20"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -12247,7 +12247,7 @@ Asteroid	"S20"
 	}
 }
 
-Asteroid	"S21"
+Asteroid	"Tion System S21"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -12354,7 +12354,7 @@ Asteroid	"S21"
 	}
 }
 
-Asteroid	"S22"
+Asteroid	"Tion System S22"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -12461,7 +12461,7 @@ Asteroid	"S22"
 	}
 }
 
-Asteroid	"S23"
+Asteroid	"Tion System S23"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -12568,7 +12568,7 @@ Asteroid	"S23"
 	}
 }
 
-Asteroid	"S24"
+Asteroid	"Tion System S24"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -12675,7 +12675,7 @@ Asteroid	"S24"
 	}
 }
 
-Asteroid	"S25"
+Asteroid	"Tion System S25"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -12782,7 +12782,7 @@ Asteroid	"S25"
 	}
 }
 
-Asteroid	"S26"
+Asteroid	"Tion System S26"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -12889,7 +12889,7 @@ Asteroid	"S26"
 	}
 }
 
-Asteroid	"S27"
+Asteroid	"Tion System S27"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -12996,7 +12996,7 @@ Asteroid	"S27"
 	}
 }
 
-Asteroid	"S28"
+Asteroid	"Tion System S28"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -13103,7 +13103,7 @@ Asteroid	"S28"
 	}
 }
 
-Asteroid	"S29"
+Asteroid	"Tion System S29"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -13210,7 +13210,7 @@ Asteroid	"S29"
 	}
 }
 
-Asteroid	"S30"
+Asteroid	"Tion System S30"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -13317,7 +13317,7 @@ Asteroid	"S30"
 	}
 }
 
-Asteroid	"S31"
+Asteroid	"Tion System S31"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -13424,7 +13424,7 @@ Asteroid	"S31"
 	}
 }
 
-Asteroid	"S32"
+Asteroid	"Tion System S32"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -13531,7 +13531,7 @@ Asteroid	"S32"
 	}
 }
 
-Asteroid	"S33"
+Asteroid	"Tion System S33"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -13638,7 +13638,7 @@ Asteroid	"S33"
 	}
 }
 
-Asteroid	"S34"
+Asteroid	"Tion System S34"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -13745,7 +13745,7 @@ Asteroid	"S34"
 	}
 }
 
-Asteroid	"S35"
+Asteroid	"Tion System S35"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -13852,7 +13852,7 @@ Asteroid	"S35"
 	}
 }
 
-Asteroid	"S36"
+Asteroid	"Tion System S36"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -13959,7 +13959,7 @@ Asteroid	"S36"
 	}
 }
 
-Asteroid	"S37"
+Asteroid	"Tion System S37"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -14066,7 +14066,7 @@ Asteroid	"S37"
 	}
 }
 
-Asteroid	"S38"
+Asteroid	"Tion System S38"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -14173,7 +14173,7 @@ Asteroid	"S38"
 	}
 }
 
-Asteroid	"S39"
+Asteroid	"Tion System S39"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -14280,7 +14280,7 @@ Asteroid	"S39"
 	}
 }
 
-Asteroid	"S40"
+Asteroid	"Tion System S40"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -14387,7 +14387,7 @@ Asteroid	"S40"
 	}
 }
 
-Asteroid	"S41"
+Asteroid	"Tion System S41"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -14494,7 +14494,7 @@ Asteroid	"S41"
 	}
 }
 
-Asteroid	"S42"
+Asteroid	"Tion System S42"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -14601,7 +14601,7 @@ Asteroid	"S42"
 	}
 }
 
-Asteroid	"S43"
+Asteroid	"Tion System S43"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -14708,7 +14708,7 @@ Asteroid	"S43"
 	}
 }
 
-Asteroid	"S44"
+Asteroid	"Tion System S44"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -14815,7 +14815,7 @@ Asteroid	"S44"
 	}
 }
 
-Asteroid	"S45"
+Asteroid	"Tion System S45"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -14922,7 +14922,7 @@ Asteroid	"S45"
 	}
 }
 
-Asteroid	"S46"
+Asteroid	"Tion System S46"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -15029,7 +15029,7 @@ Asteroid	"S46"
 	}
 }
 
-Asteroid	"S47"
+Asteroid	"Tion System S47"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -15136,7 +15136,7 @@ Asteroid	"S47"
 	}
 }
 
-Asteroid	"S48"
+Asteroid	"Tion System S48"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -15243,7 +15243,7 @@ Asteroid	"S48"
 	}
 }
 
-Asteroid	"S49"
+Asteroid	"Tion System S49"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -15350,7 +15350,7 @@ Asteroid	"S49"
 	}
 }
 
-Asteroid	"S50"
+Asteroid	"Tion System S50"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -15457,7 +15457,7 @@ Asteroid	"S50"
 	}
 }
 
-Asteroid	"S51"
+Asteroid	"Tion System S51"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -15564,7 +15564,7 @@ Asteroid	"S51"
 	}
 }
 
-Asteroid	"S52"
+Asteroid	"Tion System S52"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -15671,7 +15671,7 @@ Asteroid	"S52"
 	}
 }
 
-Asteroid	"S53"
+Asteroid	"Tion System S53"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -15778,7 +15778,7 @@ Asteroid	"S53"
 	}
 }
 
-Asteroid	"S54"
+Asteroid	"Tion System S54"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -15885,7 +15885,7 @@ Asteroid	"S54"
 	}
 }
 
-Asteroid	"S55"
+Asteroid	"Tion System S55"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -15992,7 +15992,7 @@ Asteroid	"S55"
 	}
 }
 
-Asteroid	"S56"
+Asteroid	"Tion System S56"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -16099,7 +16099,7 @@ Asteroid	"S56"
 	}
 }
 
-Asteroid	"S57"
+Asteroid	"Tion System S57"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -16206,7 +16206,7 @@ Asteroid	"S57"
 	}
 }
 
-Asteroid	"S58"
+Asteroid	"Tion System S58"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -16313,7 +16313,7 @@ Asteroid	"S58"
 	}
 }
 
-Asteroid	"S59"
+Asteroid	"Tion System S59"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -16420,7 +16420,7 @@ Asteroid	"S59"
 	}
 }
 
-Asteroid	"S60"
+Asteroid	"Tion System S60"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -16527,7 +16527,7 @@ Asteroid	"S60"
 	}
 }
 
-Asteroid	"S61"
+Asteroid	"Tion System S61"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -16634,7 +16634,7 @@ Asteroid	"S61"
 	}
 }
 
-Asteroid	"S62"
+Asteroid	"Tion System S62"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -16741,7 +16741,7 @@ Asteroid	"S62"
 	}
 }
 
-Asteroid	"S63"
+Asteroid	"Tion System S63"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -16848,7 +16848,7 @@ Asteroid	"S63"
 	}
 }
 
-Asteroid	"S64"
+Asteroid	"Tion System S64"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -16955,7 +16955,7 @@ Asteroid	"S64"
 	}
 }
 
-Asteroid	"S65"
+Asteroid	"Tion System S65"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -17062,7 +17062,7 @@ Asteroid	"S65"
 	}
 }
 
-Asteroid	"S66"
+Asteroid	"Tion System S66"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -17169,7 +17169,7 @@ Asteroid	"S66"
 	}
 }
 
-Asteroid	"S67"
+Asteroid	"Tion System S67"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -17276,7 +17276,7 @@ Asteroid	"S67"
 	}
 }
 
-Asteroid	"S68"
+Asteroid	"Tion System S68"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -17383,7 +17383,7 @@ Asteroid	"S68"
 	}
 }
 
-Asteroid	"S69"
+Asteroid	"Tion System S69"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -17490,7 +17490,7 @@ Asteroid	"S69"
 	}
 }
 
-Asteroid	"S70"
+Asteroid	"Tion System S70"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -17597,7 +17597,7 @@ Asteroid	"S70"
 	}
 }
 
-Asteroid	"S71"
+Asteroid	"Tion System S71"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -17704,7 +17704,7 @@ Asteroid	"S71"
 	}
 }
 
-Asteroid	"S72"
+Asteroid	"Tion System S72"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -17811,7 +17811,7 @@ Asteroid	"S72"
 	}
 }
 
-Asteroid	"S73"
+Asteroid	"Tion System S73"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -17918,7 +17918,7 @@ Asteroid	"S73"
 	}
 }
 
-Asteroid	"S74"
+Asteroid	"Tion System S74"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -18025,7 +18025,7 @@ Asteroid	"S74"
 	}
 }
 
-Asteroid	"S75"
+Asteroid	"Tion System S75"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -18132,7 +18132,7 @@ Asteroid	"S75"
 	}
 }
 
-Asteroid	"S76"
+Asteroid	"Tion System S76"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -18239,7 +18239,7 @@ Asteroid	"S76"
 	}
 }
 
-Asteroid	"S77"
+Asteroid	"Tion System S77"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -18346,7 +18346,7 @@ Asteroid	"S77"
 	}
 }
 
-Asteroid	"S78"
+Asteroid	"Tion System S78"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -18453,7 +18453,7 @@ Asteroid	"S78"
 	}
 }
 
-Asteroid	"S79"
+Asteroid	"Tion System S79"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -18560,7 +18560,7 @@ Asteroid	"S79"
 	}
 }
 
-Asteroid	"S80"
+Asteroid	"Tion System S80"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -18667,7 +18667,7 @@ Asteroid	"S80"
 	}
 }
 
-Asteroid	"S81"
+Asteroid	"Tion System S81"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -18774,7 +18774,7 @@ Asteroid	"S81"
 	}
 }
 
-Asteroid	"S82"
+Asteroid	"Tion System S82"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -18881,7 +18881,7 @@ Asteroid	"S82"
 	}
 }
 
-Asteroid	"S83"
+Asteroid	"Tion System S83"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -18988,7 +18988,7 @@ Asteroid	"S83"
 	}
 }
 
-Asteroid	"S84"
+Asteroid	"Tion System S84"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -19095,7 +19095,7 @@ Asteroid	"S84"
 	}
 }
 
-Asteroid	"S85"
+Asteroid	"Tion System S85"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -19202,7 +19202,7 @@ Asteroid	"S85"
 	}
 }
 
-Asteroid	"S86"
+Asteroid	"Tion System S86"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -19309,7 +19309,7 @@ Asteroid	"S86"
 	}
 }
 
-Asteroid	"S87"
+Asteroid	"Tion System S87"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -19416,7 +19416,7 @@ Asteroid	"S87"
 	}
 }
 
-Asteroid	"S88"
+Asteroid	"Tion System S88"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -19523,7 +19523,7 @@ Asteroid	"S88"
 	}
 }
 
-Asteroid	"S89"
+Asteroid	"Tion System S89"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -19630,7 +19630,7 @@ Asteroid	"S89"
 	}
 }
 
-Asteroid	"S90"
+Asteroid	"Tion System S90"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -19737,7 +19737,7 @@ Asteroid	"S90"
 	}
 }
 
-Asteroid	"S91"
+Asteroid	"Tion System S91"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -19844,7 +19844,7 @@ Asteroid	"S91"
 	}
 }
 
-Asteroid	"S92"
+Asteroid	"Tion System S92"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -19951,7 +19951,7 @@ Asteroid	"S92"
 	}
 }
 
-Asteroid	"S93"
+Asteroid	"Tion System S93"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -20058,7 +20058,7 @@ Asteroid	"S93"
 	}
 }
 
-Asteroid	"S94"
+Asteroid	"Tion System S94"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -20165,7 +20165,7 @@ Asteroid	"S94"
 	}
 }
 
-Asteroid	"S95"
+Asteroid	"Tion System S95"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -20272,7 +20272,7 @@ Asteroid	"S95"
 	}
 }
 
-Asteroid	"S96"
+Asteroid	"Tion System S96"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -20379,7 +20379,7 @@ Asteroid	"S96"
 	}
 }
 
-Asteroid	"S97"
+Asteroid	"Tion System S97"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -20486,7 +20486,7 @@ Asteroid	"S97"
 	}
 }
 
-Asteroid	"S98"
+Asteroid	"Tion System S98"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -20593,7 +20593,7 @@ Asteroid	"S98"
 	}
 }
 
-Asteroid	"S99"
+Asteroid	"Tion System S99"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -20700,7 +20700,7 @@ Asteroid	"S99"
 	}
 }
 
-Asteroid	"S100"
+Asteroid	"Tion System S100"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -20807,7 +20807,7 @@ Asteroid	"S100"
 	}
 }
 
-Asteroid	"S101"
+Asteroid	"Tion System S101"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -20914,7 +20914,7 @@ Asteroid	"S101"
 	}
 }
 
-Asteroid	"S102"
+Asteroid	"Tion System S102"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -21021,7 +21021,7 @@ Asteroid	"S102"
 	}
 }
 
-Asteroid	"S103"
+Asteroid	"Tion System S103"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -21128,7 +21128,7 @@ Asteroid	"S103"
 	}
 }
 
-Asteroid	"S104"
+Asteroid	"Tion System S104"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -21235,7 +21235,7 @@ Asteroid	"S104"
 	}
 }
 
-Asteroid	"S105"
+Asteroid	"Tion System S105"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -21342,7 +21342,7 @@ Asteroid	"S105"
 	}
 }
 
-Asteroid	"S106"
+Asteroid	"Tion System S106"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -21449,7 +21449,7 @@ Asteroid	"S106"
 	}
 }
 
-Asteroid	"S107"
+Asteroid	"Tion System S107"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -21556,7 +21556,7 @@ Asteroid	"S107"
 	}
 }
 
-Asteroid	"S108"
+Asteroid	"Tion System S108"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -21663,7 +21663,7 @@ Asteroid	"S108"
 	}
 }
 
-Asteroid	"S109"
+Asteroid	"Tion System S109"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -21770,7 +21770,7 @@ Asteroid	"S109"
 	}
 }
 
-Asteroid	"S110"
+Asteroid	"Tion System S110"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -21877,7 +21877,7 @@ Asteroid	"S110"
 	}
 }
 
-Asteroid	"S111"
+Asteroid	"Tion System S111"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -21984,7 +21984,7 @@ Asteroid	"S111"
 	}
 }
 
-Asteroid	"S112"
+Asteroid	"Tion System S112"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -22091,7 +22091,7 @@ Asteroid	"S112"
 	}
 }
 
-Asteroid	"S113"
+Asteroid	"Tion System S113"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -22198,7 +22198,7 @@ Asteroid	"S113"
 	}
 }
 
-Asteroid	"S114"
+Asteroid	"Tion System S114"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -22305,7 +22305,7 @@ Asteroid	"S114"
 	}
 }
 
-Asteroid	"S115"
+Asteroid	"Tion System S115"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -22412,7 +22412,7 @@ Asteroid	"S115"
 	}
 }
 
-Asteroid	"S116"
+Asteroid	"Tion System S116"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -22519,7 +22519,7 @@ Asteroid	"S116"
 	}
 }
 
-Asteroid	"S117"
+Asteroid	"Tion System S117"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -22626,7 +22626,7 @@ Asteroid	"S117"
 	}
 }
 
-Asteroid	"S118"
+Asteroid	"Tion System S118"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -22733,7 +22733,7 @@ Asteroid	"S118"
 	}
 }
 
-Asteroid	"S119"
+Asteroid	"Tion System S119"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -22840,7 +22840,7 @@ Asteroid	"S119"
 	}
 }
 
-Asteroid	"S120"
+Asteroid	"Tion System S120"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -22947,7 +22947,7 @@ Asteroid	"S120"
 	}
 }
 
-Asteroid	"S121"
+Asteroid	"Tion System S121"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -23054,7 +23054,7 @@ Asteroid	"S121"
 	}
 }
 
-Asteroid	"S122"
+Asteroid	"Tion System S122"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -23161,7 +23161,7 @@ Asteroid	"S122"
 	}
 }
 
-Asteroid	"S123"
+Asteroid	"Tion System S123"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -23268,7 +23268,7 @@ Asteroid	"S123"
 	}
 }
 
-Asteroid	"S124"
+Asteroid	"Tion System S124"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -23375,7 +23375,7 @@ Asteroid	"S124"
 	}
 }
 
-Asteroid	"S125"
+Asteroid	"Tion System S125"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -23482,7 +23482,7 @@ Asteroid	"S125"
 	}
 }
 
-Asteroid	"S126"
+Asteroid	"Tion System S126"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -23589,7 +23589,7 @@ Asteroid	"S126"
 	}
 }
 
-Asteroid	"S127"
+Asteroid	"Tion System S127"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -23696,7 +23696,7 @@ Asteroid	"S127"
 	}
 }
 
-Asteroid	"S128"
+Asteroid	"Tion System S128"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -23803,7 +23803,7 @@ Asteroid	"S128"
 	}
 }
 
-Asteroid	"S129"
+Asteroid	"Tion System S129"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -23910,7 +23910,7 @@ Asteroid	"S129"
 	}
 }
 
-Asteroid	"S130"
+Asteroid	"Tion System S130"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -24017,7 +24017,7 @@ Asteroid	"S130"
 	}
 }
 
-Asteroid	"S131"
+Asteroid	"Tion System S131"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -24124,7 +24124,7 @@ Asteroid	"S131"
 	}
 }
 
-Asteroid	"S132"
+Asteroid	"Tion System S132"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -24231,7 +24231,7 @@ Asteroid	"S132"
 	}
 }
 
-Asteroid	"S133"
+Asteroid	"Tion System S133"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -24338,7 +24338,7 @@ Asteroid	"S133"
 	}
 }
 
-Asteroid	"S134"
+Asteroid	"Tion System S134"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -24445,7 +24445,7 @@ Asteroid	"S134"
 	}
 }
 
-Asteroid	"S135"
+Asteroid	"Tion System S135"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -24552,7 +24552,7 @@ Asteroid	"S135"
 	}
 }
 
-Asteroid	"S136"
+Asteroid	"Tion System S136"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -24659,7 +24659,7 @@ Asteroid	"S136"
 	}
 }
 
-Asteroid	"S137"
+Asteroid	"Tion System S137"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -24766,7 +24766,7 @@ Asteroid	"S137"
 	}
 }
 
-Asteroid	"S138"
+Asteroid	"Tion System S138"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -24873,7 +24873,7 @@ Asteroid	"S138"
 	}
 }
 
-Asteroid	"S139"
+Asteroid	"Tion System S139"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -24980,7 +24980,7 @@ Asteroid	"S139"
 	}
 }
 
-Asteroid	"S140"
+Asteroid	"Tion System S140"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -25087,7 +25087,7 @@ Asteroid	"S140"
 	}
 }
 
-Asteroid	"S141"
+Asteroid	"Tion System S141"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -25194,7 +25194,7 @@ Asteroid	"S141"
 	}
 }
 
-Asteroid	"S142"
+Asteroid	"Tion System S142"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -25301,7 +25301,7 @@ Asteroid	"S142"
 	}
 }
 
-Asteroid	"S143"
+Asteroid	"Tion System S143"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -25408,7 +25408,7 @@ Asteroid	"S143"
 	}
 }
 
-Asteroid	"S144"
+Asteroid	"Tion System S144"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -25515,7 +25515,7 @@ Asteroid	"S144"
 	}
 }
 
-Asteroid	"S145"
+Asteroid	"Tion System S145"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -25622,7 +25622,7 @@ Asteroid	"S145"
 	}
 }
 
-Asteroid	"S146"
+Asteroid	"Tion System S146"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -25729,7 +25729,7 @@ Asteroid	"S146"
 	}
 }
 
-Asteroid	"S147"
+Asteroid	"Tion System S147"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -25836,7 +25836,7 @@ Asteroid	"S147"
 	}
 }
 
-Asteroid	"S148"
+Asteroid	"Tion System S148"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -25943,7 +25943,7 @@ Asteroid	"S148"
 	}
 }
 
-Asteroid	"S149"
+Asteroid	"Tion System S149"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -26050,7 +26050,7 @@ Asteroid	"S149"
 	}
 }
 
-Asteroid	"S150"
+Asteroid	"Tion System S150"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -26157,7 +26157,7 @@ Asteroid	"S150"
 	}
 }
 
-Asteroid	"S151"
+Asteroid	"Tion System S151"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -26264,7 +26264,7 @@ Asteroid	"S151"
 	}
 }
 
-Asteroid	"S152"
+Asteroid	"Tion System S152"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -26371,7 +26371,7 @@ Asteroid	"S152"
 	}
 }
 
-Asteroid	"S153"
+Asteroid	"Tion System S153"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -26478,7 +26478,7 @@ Asteroid	"S153"
 	}
 }
 
-Asteroid	"S154"
+Asteroid	"Tion System S154"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -26585,7 +26585,7 @@ Asteroid	"S154"
 	}
 }
 
-Asteroid	"S155"
+Asteroid	"Tion System S155"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -26692,7 +26692,7 @@ Asteroid	"S155"
 	}
 }
 
-Asteroid	"S156"
+Asteroid	"Tion System S156"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -26799,7 +26799,7 @@ Asteroid	"S156"
 	}
 }
 
-Asteroid	"S157"
+Asteroid	"Tion System S157"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -26906,7 +26906,7 @@ Asteroid	"S157"
 	}
 }
 
-Asteroid	"S158"
+Asteroid	"Tion System S158"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -27013,7 +27013,7 @@ Asteroid	"S158"
 	}
 }
 
-Asteroid	"S159"
+Asteroid	"Tion System S159"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -27120,7 +27120,7 @@ Asteroid	"S159"
 	}
 }
 
-Asteroid	"S160"
+Asteroid	"Tion System S160"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -27227,7 +27227,7 @@ Asteroid	"S160"
 	}
 }
 
-Asteroid	"S161"
+Asteroid	"Tion System S161"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -27334,7 +27334,7 @@ Asteroid	"S161"
 	}
 }
 
-Asteroid	"S162"
+Asteroid	"Tion System S162"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -27441,7 +27441,7 @@ Asteroid	"S162"
 	}
 }
 
-Asteroid	"S163"
+Asteroid	"Tion System S163"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -27548,7 +27548,7 @@ Asteroid	"S163"
 	}
 }
 
-Asteroid	"S164"
+Asteroid	"Tion System S164"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -27655,7 +27655,7 @@ Asteroid	"S164"
 	}
 }
 
-Asteroid	"S165"
+Asteroid	"Tion System S165"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -27762,7 +27762,7 @@ Asteroid	"S165"
 	}
 }
 
-Asteroid	"S166"
+Asteroid	"Tion System S166"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -27869,7 +27869,7 @@ Asteroid	"S166"
 	}
 }
 
-Asteroid	"S167"
+Asteroid	"Tion System S167"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -27976,7 +27976,7 @@ Asteroid	"S167"
 	}
 }
 
-Asteroid	"S168"
+Asteroid	"Tion System S168"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -28083,7 +28083,7 @@ Asteroid	"S168"
 	}
 }
 
-Asteroid	"S169"
+Asteroid	"Tion System S169"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -28190,7 +28190,7 @@ Asteroid	"S169"
 	}
 }
 
-Asteroid	"S170"
+Asteroid	"Tion System S170"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -28297,7 +28297,7 @@ Asteroid	"S170"
 	}
 }
 
-Asteroid	"S171"
+Asteroid	"Tion System S171"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -28404,7 +28404,7 @@ Asteroid	"S171"
 	}
 }
 
-Asteroid	"S172"
+Asteroid	"Tion System S172"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -28511,7 +28511,7 @@ Asteroid	"S172"
 	}
 }
 
-Asteroid	"S173"
+Asteroid	"Tion System S173"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -28618,7 +28618,7 @@ Asteroid	"S173"
 	}
 }
 
-Asteroid	"S174"
+Asteroid	"Tion System S174"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -28725,7 +28725,7 @@ Asteroid	"S174"
 	}
 }
 
-Asteroid	"S175"
+Asteroid	"Tion System S175"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -28832,7 +28832,7 @@ Asteroid	"S175"
 	}
 }
 
-Asteroid	"S176"
+Asteroid	"Tion System S176"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -28939,7 +28939,7 @@ Asteroid	"S176"
 	}
 }
 
-Asteroid	"S177"
+Asteroid	"Tion System S177"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -29046,7 +29046,7 @@ Asteroid	"S177"
 	}
 }
 
-Asteroid	"S178"
+Asteroid	"Tion System S178"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -29153,7 +29153,7 @@ Asteroid	"S178"
 	}
 }
 
-Asteroid	"S179"
+Asteroid	"Tion System S179"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -29260,7 +29260,7 @@ Asteroid	"S179"
 	}
 }
 
-Asteroid	"S180"
+Asteroid	"Tion System S180"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -29367,7 +29367,7 @@ Asteroid	"S180"
 	}
 }
 
-Asteroid	"S181"
+Asteroid	"Tion System S181"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -29474,7 +29474,7 @@ Asteroid	"S181"
 	}
 }
 
-Asteroid	"S182"
+Asteroid	"Tion System S182"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -29581,7 +29581,7 @@ Asteroid	"S182"
 	}
 }
 
-Asteroid	"S183"
+Asteroid	"Tion System S183"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -29688,7 +29688,7 @@ Asteroid	"S183"
 	}
 }
 
-Asteroid	"S184"
+Asteroid	"Tion System S184"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -29795,7 +29795,7 @@ Asteroid	"S184"
 	}
 }
 
-Asteroid	"S185"
+Asteroid	"Tion System S185"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -29902,7 +29902,7 @@ Asteroid	"S185"
 	}
 }
 
-Asteroid	"S186"
+Asteroid	"Tion System S186"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -30009,7 +30009,7 @@ Asteroid	"S186"
 	}
 }
 
-Asteroid	"S187"
+Asteroid	"Tion System S187"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -30116,7 +30116,7 @@ Asteroid	"S187"
 	}
 }
 
-Asteroid	"S188"
+Asteroid	"Tion System S188"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -30223,7 +30223,7 @@ Asteroid	"S188"
 	}
 }
 
-Asteroid	"S189"
+Asteroid	"Tion System S189"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -30330,7 +30330,7 @@ Asteroid	"S189"
 	}
 }
 
-Asteroid	"S190"
+Asteroid	"Tion System S190"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -30437,7 +30437,7 @@ Asteroid	"S190"
 	}
 }
 
-Asteroid	"S191"
+Asteroid	"Tion System S191"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -30544,7 +30544,7 @@ Asteroid	"S191"
 	}
 }
 
-Asteroid	"S192"
+Asteroid	"Tion System S192"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -30651,7 +30651,7 @@ Asteroid	"S192"
 	}
 }
 
-Asteroid	"S193"
+Asteroid	"Tion System S193"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -30758,7 +30758,7 @@ Asteroid	"S193"
 	}
 }
 
-Asteroid	"S194"
+Asteroid	"Tion System S194"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -30865,7 +30865,7 @@ Asteroid	"S194"
 	}
 }
 
-Asteroid	"S195"
+Asteroid	"Tion System S195"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -30972,7 +30972,7 @@ Asteroid	"S195"
 	}
 }
 
-Asteroid	"S196"
+Asteroid	"Tion System S196"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -31079,7 +31079,7 @@ Asteroid	"S196"
 	}
 }
 
-Asteroid	"S197"
+Asteroid	"Tion System S197"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -31186,7 +31186,7 @@ Asteroid	"S197"
 	}
 }
 
-Asteroid	"S198"
+Asteroid	"Tion System S198"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -31293,7 +31293,7 @@ Asteroid	"S198"
 	}
 }
 
-Asteroid	"S199"
+Asteroid	"Tion System S199"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -31400,7 +31400,7 @@ Asteroid	"S199"
 	}
 }
 
-Asteroid	"S200"
+Asteroid	"Tion System S200"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -31507,7 +31507,7 @@ Asteroid	"S200"
 	}
 }
 
-Asteroid	"S201"
+Asteroid	"Tion System S201"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -31614,7 +31614,7 @@ Asteroid	"S201"
 	}
 }
 
-Asteroid	"S202"
+Asteroid	"Tion System S202"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -31721,7 +31721,7 @@ Asteroid	"S202"
 	}
 }
 
-Asteroid	"S203"
+Asteroid	"Tion System S203"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -31828,7 +31828,7 @@ Asteroid	"S203"
 	}
 }
 
-Asteroid	"S204"
+Asteroid	"Tion System S204"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -31935,7 +31935,7 @@ Asteroid	"S204"
 	}
 }
 
-Asteroid	"S205"
+Asteroid	"Tion System S205"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -32042,7 +32042,7 @@ Asteroid	"S205"
 	}
 }
 
-Asteroid	"S206"
+Asteroid	"Tion System S206"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -32149,7 +32149,7 @@ Asteroid	"S206"
 	}
 }
 
-Asteroid	"S207"
+Asteroid	"Tion System S207"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -32256,7 +32256,7 @@ Asteroid	"S207"
 	}
 }
 
-Asteroid	"S208"
+Asteroid	"Tion System S208"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -32363,7 +32363,7 @@ Asteroid	"S208"
 	}
 }
 
-Asteroid	"S209"
+Asteroid	"Tion System S209"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -32470,7 +32470,7 @@ Asteroid	"S209"
 	}
 }
 
-Asteroid	"S210"
+Asteroid	"Tion System S210"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -32577,7 +32577,7 @@ Asteroid	"S210"
 	}
 }
 
-Asteroid	"S211"
+Asteroid	"Tion System S211"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -32684,7 +32684,7 @@ Asteroid	"S211"
 	}
 }
 
-Asteroid	"S212"
+Asteroid	"Tion System S212"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -32791,7 +32791,7 @@ Asteroid	"S212"
 	}
 }
 
-Asteroid	"S213"
+Asteroid	"Tion System S213"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -32898,7 +32898,7 @@ Asteroid	"S213"
 	}
 }
 
-Asteroid	"S214"
+Asteroid	"Tion System S214"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -33005,7 +33005,7 @@ Asteroid	"S214"
 	}
 }
 
-Asteroid	"S215"
+Asteroid	"Tion System S215"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -33112,7 +33112,7 @@ Asteroid	"S215"
 	}
 }
 
-Asteroid	"S216"
+Asteroid	"Tion System S216"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -33219,7 +33219,7 @@ Asteroid	"S216"
 	}
 }
 
-Asteroid	"S217"
+Asteroid	"Tion System S217"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -33326,7 +33326,7 @@ Asteroid	"S217"
 	}
 }
 
-Asteroid	"S218"
+Asteroid	"Tion System S218"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -33433,7 +33433,7 @@ Asteroid	"S218"
 	}
 }
 
-Asteroid	"S219"
+Asteroid	"Tion System S219"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -33540,7 +33540,7 @@ Asteroid	"S219"
 	}
 }
 
-Asteroid	"S220"
+Asteroid	"Tion System S220"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -33647,7 +33647,7 @@ Asteroid	"S220"
 	}
 }
 
-Asteroid	"S221"
+Asteroid	"Tion System S221"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -33754,7 +33754,7 @@ Asteroid	"S221"
 	}
 }
 
-Asteroid	"S222"
+Asteroid	"Tion System S222"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -33861,7 +33861,7 @@ Asteroid	"S222"
 	}
 }
 
-Asteroid	"S223"
+Asteroid	"Tion System S223"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -33968,7 +33968,7 @@ Asteroid	"S223"
 	}
 }
 
-Asteroid	"S224"
+Asteroid	"Tion System S224"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -34075,7 +34075,7 @@ Asteroid	"S224"
 	}
 }
 
-Asteroid	"S225"
+Asteroid	"Tion System S225"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -34182,7 +34182,7 @@ Asteroid	"S225"
 	}
 }
 
-Asteroid	"S226"
+Asteroid	"Tion System S226"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -34289,7 +34289,7 @@ Asteroid	"S226"
 	}
 }
 
-Asteroid	"S227"
+Asteroid	"Tion System S227"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -34396,7 +34396,7 @@ Asteroid	"S227"
 	}
 }
 
-Asteroid	"S228"
+Asteroid	"Tion System S228"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -34503,7 +34503,7 @@ Asteroid	"S228"
 	}
 }
 
-Asteroid	"S229"
+Asteroid	"Tion System S229"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -34610,7 +34610,7 @@ Asteroid	"S229"
 	}
 }
 
-Asteroid	"S230"
+Asteroid	"Tion System S230"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -34717,7 +34717,7 @@ Asteroid	"S230"
 	}
 }
 
-Asteroid	"S231"
+Asteroid	"Tion System S231"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -34824,7 +34824,7 @@ Asteroid	"S231"
 	}
 }
 
-Asteroid	"S232"
+Asteroid	"Tion System S232"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -34931,7 +34931,7 @@ Asteroid	"S232"
 	}
 }
 
-Asteroid	"S233"
+Asteroid	"Tion System S233"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -35038,7 +35038,7 @@ Asteroid	"S233"
 	}
 }
 
-Asteroid	"S234"
+Asteroid	"Tion System S234"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -35145,7 +35145,7 @@ Asteroid	"S234"
 	}
 }
 
-Asteroid	"S235"
+Asteroid	"Tion System S235"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -35252,7 +35252,7 @@ Asteroid	"S235"
 	}
 }
 
-Asteroid	"S236"
+Asteroid	"Tion System S236"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -35359,7 +35359,7 @@ Asteroid	"S236"
 	}
 }
 
-Asteroid	"S237"
+Asteroid	"Tion System S237"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -35466,7 +35466,7 @@ Asteroid	"S237"
 	}
 }
 
-Asteroid	"S238"
+Asteroid	"Tion System S238"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -35573,7 +35573,7 @@ Asteroid	"S238"
 	}
 }
 
-Asteroid	"S239"
+Asteroid	"Tion System S239"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -35680,7 +35680,7 @@ Asteroid	"S239"
 	}
 }
 
-Asteroid	"S240"
+Asteroid	"Tion System S240"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -35787,7 +35787,7 @@ Asteroid	"S240"
 	}
 }
 
-Asteroid	"S241"
+Asteroid	"Tion System S241"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -35894,7 +35894,7 @@ Asteroid	"S241"
 	}
 }
 
-Asteroid	"S242"
+Asteroid	"Tion System S242"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -36001,7 +36001,7 @@ Asteroid	"S242"
 	}
 }
 
-Asteroid	"S243"
+Asteroid	"Tion System S243"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -36108,7 +36108,7 @@ Asteroid	"S243"
 	}
 }
 
-Asteroid	"S244"
+Asteroid	"Tion System S244"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -36215,7 +36215,7 @@ Asteroid	"S244"
 	}
 }
 
-Asteroid	"S245"
+Asteroid	"Tion System S245"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -36322,7 +36322,7 @@ Asteroid	"S245"
 	}
 }
 
-Asteroid	"S246"
+Asteroid	"Tion System S246"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -36429,7 +36429,7 @@ Asteroid	"S246"
 	}
 }
 
-Asteroid	"S247"
+Asteroid	"Tion System S247"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -36536,7 +36536,7 @@ Asteroid	"S247"
 	}
 }
 
-Asteroid	"S248"
+Asteroid	"Tion System S248"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -36643,7 +36643,7 @@ Asteroid	"S248"
 	}
 }
 
-Asteroid	"S249"
+Asteroid	"Tion System S249"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -36750,7 +36750,7 @@ Asteroid	"S249"
 	}
 }
 
-Asteroid	"S250"
+Asteroid	"Tion System S250"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -36857,7 +36857,7 @@ Asteroid	"S250"
 	}
 }
 
-Asteroid	"S251"
+Asteroid	"Tion System S251"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -36964,7 +36964,7 @@ Asteroid	"S251"
 	}
 }
 
-Asteroid	"S252"
+Asteroid	"Tion System S252"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -37071,7 +37071,7 @@ Asteroid	"S252"
 	}
 }
 
-Asteroid	"S253"
+Asteroid	"Tion System S253"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -37178,7 +37178,7 @@ Asteroid	"S253"
 	}
 }
 
-Asteroid	"S254"
+Asteroid	"Tion System S254"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -37285,7 +37285,7 @@ Asteroid	"S254"
 	}
 }
 
-Asteroid	"S255"
+Asteroid	"Tion System S255"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -37392,7 +37392,7 @@ Asteroid	"S255"
 	}
 }
 
-Asteroid	"S256"
+Asteroid	"Tion System S256"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -37499,7 +37499,7 @@ Asteroid	"S256"
 	}
 }
 
-Asteroid	"S257"
+Asteroid	"Tion System S257"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -37606,7 +37606,7 @@ Asteroid	"S257"
 	}
 }
 
-Asteroid	"S258"
+Asteroid	"Tion System S258"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -37713,7 +37713,7 @@ Asteroid	"S258"
 	}
 }
 
-Asteroid	"S259"
+Asteroid	"Tion System S259"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -37820,7 +37820,7 @@ Asteroid	"S259"
 	}
 }
 
-Asteroid	"S260"
+Asteroid	"Tion System S260"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -37927,7 +37927,7 @@ Asteroid	"S260"
 	}
 }
 
-Asteroid	"S261"
+Asteroid	"Tion System S261"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -38034,7 +38034,7 @@ Asteroid	"S261"
 	}
 }
 
-Asteroid	"S262"
+Asteroid	"Tion System S262"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -38141,7 +38141,7 @@ Asteroid	"S262"
 	}
 }
 
-Asteroid	"S263"
+Asteroid	"Tion System S263"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -38248,7 +38248,7 @@ Asteroid	"S263"
 	}
 }
 
-Asteroid	"S264"
+Asteroid	"Tion System S264"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -38355,7 +38355,7 @@ Asteroid	"S264"
 	}
 }
 
-Asteroid	"S265"
+Asteroid	"Tion System S265"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -38462,7 +38462,7 @@ Asteroid	"S265"
 	}
 }
 
-Asteroid	"S266"
+Asteroid	"Tion System S266"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -38569,7 +38569,7 @@ Asteroid	"S266"
 	}
 }
 
-Asteroid	"S267"
+Asteroid	"Tion System S267"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -38676,7 +38676,7 @@ Asteroid	"S267"
 	}
 }
 
-Asteroid	"S268"
+Asteroid	"Tion System S268"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -38783,7 +38783,7 @@ Asteroid	"S268"
 	}
 }
 
-Asteroid	"S269"
+Asteroid	"Tion System S269"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -38890,7 +38890,7 @@ Asteroid	"S269"
 	}
 }
 
-Asteroid	"S270"
+Asteroid	"Tion System S270"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -38997,7 +38997,7 @@ Asteroid	"S270"
 	}
 }
 
-Asteroid	"S271"
+Asteroid	"Tion System S271"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -39104,7 +39104,7 @@ Asteroid	"S271"
 	}
 }
 
-Asteroid	"S272"
+Asteroid	"Tion System S272"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -39211,7 +39211,7 @@ Asteroid	"S272"
 	}
 }
 
-Asteroid	"S273"
+Asteroid	"Tion System S273"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -39318,7 +39318,7 @@ Asteroid	"S273"
 	}
 }
 
-Asteroid	"S274"
+Asteroid	"Tion System S274"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -39425,7 +39425,7 @@ Asteroid	"S274"
 	}
 }
 
-Asteroid	"S275"
+Asteroid	"Tion System S275"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -39532,7 +39532,7 @@ Asteroid	"S275"
 	}
 }
 
-Asteroid	"S276"
+Asteroid	"Tion System S276"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -39639,7 +39639,7 @@ Asteroid	"S276"
 	}
 }
 
-Asteroid	"S277"
+Asteroid	"Tion System S277"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -39746,7 +39746,7 @@ Asteroid	"S277"
 	}
 }
 
-Asteroid	"S278"
+Asteroid	"Tion System S278"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -39853,7 +39853,7 @@ Asteroid	"S278"
 	}
 }
 
-Asteroid	"S279"
+Asteroid	"Tion System S279"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -39960,7 +39960,7 @@ Asteroid	"S279"
 	}
 }
 
-Asteroid	"S280"
+Asteroid	"Tion System S280"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -40067,7 +40067,7 @@ Asteroid	"S280"
 	}
 }
 
-Asteroid	"S281"
+Asteroid	"Tion System S281"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -40174,7 +40174,7 @@ Asteroid	"S281"
 	}
 }
 
-Asteroid	"S282"
+Asteroid	"Tion System S282"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -40281,7 +40281,7 @@ Asteroid	"S282"
 	}
 }
 
-Asteroid	"S283"
+Asteroid	"Tion System S283"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -40388,7 +40388,7 @@ Asteroid	"S283"
 	}
 }
 
-Asteroid	"S284"
+Asteroid	"Tion System S284"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -40495,7 +40495,7 @@ Asteroid	"S284"
 	}
 }
 
-Asteroid	"S285"
+Asteroid	"Tion System S285"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -40602,7 +40602,7 @@ Asteroid	"S285"
 	}
 }
 
-Asteroid	"S286"
+Asteroid	"Tion System S286"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -40709,7 +40709,7 @@ Asteroid	"S286"
 	}
 }
 
-Asteroid	"S287"
+Asteroid	"Tion System S287"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -40816,7 +40816,7 @@ Asteroid	"S287"
 	}
 }
 
-Asteroid	"S288"
+Asteroid	"Tion System S288"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -40923,7 +40923,7 @@ Asteroid	"S288"
 	}
 }
 
-Asteroid	"S289"
+Asteroid	"Tion System S289"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -41030,7 +41030,7 @@ Asteroid	"S289"
 	}
 }
 
-Asteroid	"S290"
+Asteroid	"Tion System S290"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -41137,7 +41137,7 @@ Asteroid	"S290"
 	}
 }
 
-Asteroid	"S291"
+Asteroid	"Tion System S291"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -41244,7 +41244,7 @@ Asteroid	"S291"
 	}
 }
 
-Asteroid	"S292"
+Asteroid	"Tion System S292"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -41351,7 +41351,7 @@ Asteroid	"S292"
 	}
 }
 
-Asteroid	"S293"
+Asteroid	"Tion System S293"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -41458,7 +41458,7 @@ Asteroid	"S293"
 	}
 }
 
-Asteroid	"S294"
+Asteroid	"Tion System S294"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -41565,7 +41565,7 @@ Asteroid	"S294"
 	}
 }
 
-Asteroid	"S295"
+Asteroid	"Tion System S295"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -41672,7 +41672,7 @@ Asteroid	"S295"
 	}
 }
 
-Asteroid	"S296"
+Asteroid	"Tion System S296"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -41779,7 +41779,7 @@ Asteroid	"S296"
 	}
 }
 
-Asteroid	"S297"
+Asteroid	"Tion System S297"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -41886,7 +41886,7 @@ Asteroid	"S297"
 	}
 }
 
-Asteroid	"S298"
+Asteroid	"Tion System S298"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -41993,7 +41993,7 @@ Asteroid	"S298"
 	}
 }
 
-Asteroid	"S299"
+Asteroid	"Tion System S299"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -42100,7 +42100,7 @@ Asteroid	"S299"
 	}
 }
 
-Asteroid	"S300"
+Asteroid	"Tion System S300"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -42207,7 +42207,7 @@ Asteroid	"S300"
 	}
 }
 
-Asteroid	"S301"
+Asteroid	"Tion System S301"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -42314,7 +42314,7 @@ Asteroid	"S301"
 	}
 }
 
-Asteroid	"S302"
+Asteroid	"Tion System S302"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -42421,7 +42421,7 @@ Asteroid	"S302"
 	}
 }
 
-Asteroid	"S303"
+Asteroid	"Tion System S303"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -42528,7 +42528,7 @@ Asteroid	"S303"
 	}
 }
 
-Asteroid	"S304"
+Asteroid	"Tion System S304"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -42635,7 +42635,7 @@ Asteroid	"S304"
 	}
 }
 
-Asteroid	"S305"
+Asteroid	"Tion System S305"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -42742,7 +42742,7 @@ Asteroid	"S305"
 	}
 }
 
-Asteroid	"S306"
+Asteroid	"Tion System S306"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -42849,7 +42849,7 @@ Asteroid	"S306"
 	}
 }
 
-Asteroid	"S307"
+Asteroid	"Tion System S307"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -42956,7 +42956,7 @@ Asteroid	"S307"
 	}
 }
 
-Asteroid	"S308"
+Asteroid	"Tion System S308"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -43063,7 +43063,7 @@ Asteroid	"S308"
 	}
 }
 
-Asteroid	"S309"
+Asteroid	"Tion System S309"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -43170,7 +43170,7 @@ Asteroid	"S309"
 	}
 }
 
-Asteroid	"S310"
+Asteroid	"Tion System S310"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -43277,7 +43277,7 @@ Asteroid	"S310"
 	}
 }
 
-Asteroid	"S311"
+Asteroid	"Tion System S311"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -43384,7 +43384,7 @@ Asteroid	"S311"
 	}
 }
 
-Asteroid	"S312"
+Asteroid	"Tion System S312"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -43491,7 +43491,7 @@ Asteroid	"S312"
 	}
 }
 
-Asteroid	"S313"
+Asteroid	"Tion System S313"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -43598,7 +43598,7 @@ Asteroid	"S313"
 	}
 }
 
-Asteroid	"S314"
+Asteroid	"Tion System S314"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -43705,7 +43705,7 @@ Asteroid	"S314"
 	}
 }
 
-Asteroid	"S315"
+Asteroid	"Tion System S315"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -43812,7 +43812,7 @@ Asteroid	"S315"
 	}
 }
 
-Asteroid	"S316"
+Asteroid	"Tion System S316"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -43919,7 +43919,7 @@ Asteroid	"S316"
 	}
 }
 
-Asteroid	"S317"
+Asteroid	"Tion System S317"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -44026,7 +44026,7 @@ Asteroid	"S317"
 	}
 }
 
-Asteroid	"S318"
+Asteroid	"Tion System S318"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -44133,7 +44133,7 @@ Asteroid	"S318"
 	}
 }
 
-Asteroid	"S319"
+Asteroid	"Tion System S319"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -44240,7 +44240,7 @@ Asteroid	"S319"
 	}
 }
 
-Asteroid	"S320"
+Asteroid	"Tion System S320"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -44347,7 +44347,7 @@ Asteroid	"S320"
 	}
 }
 
-Asteroid	"S321"
+Asteroid	"Tion System S321"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -44454,7 +44454,7 @@ Asteroid	"S321"
 	}
 }
 
-Asteroid	"S322"
+Asteroid	"Tion System S322"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -44561,7 +44561,7 @@ Asteroid	"S322"
 	}
 }
 
-Asteroid	"S323"
+Asteroid	"Tion System S323"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -44668,7 +44668,7 @@ Asteroid	"S323"
 	}
 }
 
-Asteroid	"S324"
+Asteroid	"Tion System S324"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -44775,7 +44775,7 @@ Asteroid	"S324"
 	}
 }
 
-Asteroid	"S325"
+Asteroid	"Tion System S325"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -44882,7 +44882,7 @@ Asteroid	"S325"
 	}
 }
 
-Asteroid	"S326"
+Asteroid	"Tion System S326"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -44989,7 +44989,7 @@ Asteroid	"S326"
 	}
 }
 
-Asteroid	"S327"
+Asteroid	"Tion System S327"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -45096,7 +45096,7 @@ Asteroid	"S327"
 	}
 }
 
-Asteroid	"S328"
+Asteroid	"Tion System S328"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -45203,7 +45203,7 @@ Asteroid	"S328"
 	}
 }
 
-Asteroid	"S329"
+Asteroid	"Tion System S329"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -45310,7 +45310,7 @@ Asteroid	"S329"
 	}
 }
 
-Asteroid	"S330"
+Asteroid	"Tion System S330"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -45417,7 +45417,7 @@ Asteroid	"S330"
 	}
 }
 
-Asteroid	"S331"
+Asteroid	"Tion System S331"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -45524,7 +45524,7 @@ Asteroid	"S331"
 	}
 }
 
-Asteroid	"S332"
+Asteroid	"Tion System S332"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -45631,7 +45631,7 @@ Asteroid	"S332"
 	}
 }
 
-Asteroid	"S333"
+Asteroid	"Tion System S333"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -45738,7 +45738,7 @@ Asteroid	"S333"
 	}
 }
 
-Asteroid	"S334"
+Asteroid	"Tion System S334"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -45845,7 +45845,7 @@ Asteroid	"S334"
 	}
 }
 
-Asteroid	"S335"
+Asteroid	"Tion System S335"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -45952,7 +45952,7 @@ Asteroid	"S335"
 	}
 }
 
-Asteroid	"S336"
+Asteroid	"Tion System S336"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -46059,7 +46059,7 @@ Asteroid	"S336"
 	}
 }
 
-Asteroid	"S337"
+Asteroid	"Tion System S337"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -46166,7 +46166,7 @@ Asteroid	"S337"
 	}
 }
 
-Asteroid	"S338"
+Asteroid	"Tion System S338"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -46273,7 +46273,7 @@ Asteroid	"S338"
 	}
 }
 
-Asteroid	"S339"
+Asteroid	"Tion System S339"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -46380,7 +46380,7 @@ Asteroid	"S339"
 	}
 }
 
-Asteroid	"S340"
+Asteroid	"Tion System S340"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -46487,7 +46487,7 @@ Asteroid	"S340"
 	}
 }
 
-Asteroid	"S341"
+Asteroid	"Tion System S341"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -46594,7 +46594,7 @@ Asteroid	"S341"
 	}
 }
 
-Asteroid	"S342"
+Asteroid	"Tion System S342"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -46701,7 +46701,7 @@ Asteroid	"S342"
 	}
 }
 
-Asteroid	"S343"
+Asteroid	"Tion System S343"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -46808,7 +46808,7 @@ Asteroid	"S343"
 	}
 }
 
-Asteroid	"S344"
+Asteroid	"Tion System S344"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -46915,7 +46915,7 @@ Asteroid	"S344"
 	}
 }
 
-Asteroid	"S345"
+Asteroid	"Tion System S345"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -47022,7 +47022,7 @@ Asteroid	"S345"
 	}
 }
 
-Asteroid	"S346"
+Asteroid	"Tion System S346"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -47129,7 +47129,7 @@ Asteroid	"S346"
 	}
 }
 
-Asteroid	"S347"
+Asteroid	"Tion System S347"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -47236,7 +47236,7 @@ Asteroid	"S347"
 	}
 }
 
-Asteroid	"S348"
+Asteroid	"Tion System S348"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -47343,7 +47343,7 @@ Asteroid	"S348"
 	}
 }
 
-Asteroid	"S349"
+Asteroid	"Tion System S349"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -47450,7 +47450,7 @@ Asteroid	"S349"
 	}
 }
 
-Asteroid	"S350"
+Asteroid	"Tion System S350"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -47557,7 +47557,7 @@ Asteroid	"S350"
 	}
 }
 
-Asteroid	"S351"
+Asteroid	"Tion System S351"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -47664,7 +47664,7 @@ Asteroid	"S351"
 	}
 }
 
-Asteroid	"S352"
+Asteroid	"Tion System S352"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -47771,7 +47771,7 @@ Asteroid	"S352"
 	}
 }
 
-Asteroid	"S353"
+Asteroid	"Tion System S353"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -47878,7 +47878,7 @@ Asteroid	"S353"
 	}
 }
 
-Asteroid	"S354"
+Asteroid	"Tion System S354"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -47985,7 +47985,7 @@ Asteroid	"S354"
 	}
 }
 
-Asteroid	"S355"
+Asteroid	"Tion System S355"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -48092,7 +48092,7 @@ Asteroid	"S355"
 	}
 }
 
-Asteroid	"S356"
+Asteroid	"Tion System S356"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -48199,7 +48199,7 @@ Asteroid	"S356"
 	}
 }
 
-Asteroid	"S357"
+Asteroid	"Tion System S357"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -48306,7 +48306,7 @@ Asteroid	"S357"
 	}
 }
 
-Asteroid	"S358"
+Asteroid	"Tion System S358"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -48413,7 +48413,7 @@ Asteroid	"S358"
 	}
 }
 
-Asteroid	"S359"
+Asteroid	"Tion System S359"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -48520,7 +48520,7 @@ Asteroid	"S359"
 	}
 }
 
-Asteroid	"S360"
+Asteroid	"Tion System S360"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -48627,7 +48627,7 @@ Asteroid	"S360"
 	}
 }
 
-Asteroid	"S361"
+Asteroid	"Tion System S361"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -48734,7 +48734,7 @@ Asteroid	"S361"
 	}
 }
 
-Asteroid	"S362"
+Asteroid	"Tion System S362"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -48841,7 +48841,7 @@ Asteroid	"S362"
 	}
 }
 
-Asteroid	"S363"
+Asteroid	"Tion System S363"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -48948,7 +48948,7 @@ Asteroid	"S363"
 	}
 }
 
-Asteroid	"S364"
+Asteroid	"Tion System S364"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -49055,7 +49055,7 @@ Asteroid	"S364"
 	}
 }
 
-Asteroid	"S365"
+Asteroid	"Tion System S365"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -49162,7 +49162,7 @@ Asteroid	"S365"
 	}
 }
 
-Asteroid	"S366"
+Asteroid	"Tion System S366"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -49269,7 +49269,7 @@ Asteroid	"S366"
 	}
 }
 
-Asteroid	"S367"
+Asteroid	"Tion System S367"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -49376,7 +49376,7 @@ Asteroid	"S367"
 	}
 }
 
-Asteroid	"S368"
+Asteroid	"Tion System S368"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -49483,7 +49483,7 @@ Asteroid	"S368"
 	}
 }
 
-Asteroid	"S369"
+Asteroid	"Tion System S369"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -49590,7 +49590,7 @@ Asteroid	"S369"
 	}
 }
 
-Asteroid	"S370"
+Asteroid	"Tion System S370"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -49697,7 +49697,7 @@ Asteroid	"S370"
 	}
 }
 
-Asteroid	"S371"
+Asteroid	"Tion System S371"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -49804,7 +49804,7 @@ Asteroid	"S371"
 	}
 }
 
-Asteroid	"S372"
+Asteroid	"Tion System S372"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -49911,7 +49911,7 @@ Asteroid	"S372"
 	}
 }
 
-Asteroid	"S373"
+Asteroid	"Tion System S373"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -50018,7 +50018,7 @@ Asteroid	"S373"
 	}
 }
 
-Asteroid	"S374"
+Asteroid	"Tion System S374"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -50125,7 +50125,7 @@ Asteroid	"S374"
 	}
 }
 
-Asteroid	"S375"
+Asteroid	"Tion System S375"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -50232,7 +50232,7 @@ Asteroid	"S375"
 	}
 }
 
-Asteroid	"S376"
+Asteroid	"Tion System S376"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -50339,7 +50339,7 @@ Asteroid	"S376"
 	}
 }
 
-Asteroid	"S377"
+Asteroid	"Tion System S377"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -50446,7 +50446,7 @@ Asteroid	"S377"
 	}
 }
 
-Asteroid	"S378"
+Asteroid	"Tion System S378"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -50553,7 +50553,7 @@ Asteroid	"S378"
 	}
 }
 
-Asteroid	"S379"
+Asteroid	"Tion System S379"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -50660,7 +50660,7 @@ Asteroid	"S379"
 	}
 }
 
-Asteroid	"S380"
+Asteroid	"Tion System S380"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -50767,7 +50767,7 @@ Asteroid	"S380"
 	}
 }
 
-Asteroid	"S381"
+Asteroid	"Tion System S381"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -50874,7 +50874,7 @@ Asteroid	"S381"
 	}
 }
 
-Asteroid	"S382"
+Asteroid	"Tion System S382"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -50981,7 +50981,7 @@ Asteroid	"S382"
 	}
 }
 
-Asteroid	"S383"
+Asteroid	"Tion System S383"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -51088,7 +51088,7 @@ Asteroid	"S383"
 	}
 }
 
-Asteroid	"S384"
+Asteroid	"Tion System S384"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -51195,7 +51195,7 @@ Asteroid	"S384"
 	}
 }
 
-Asteroid	"S385"
+Asteroid	"Tion System S385"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -51302,7 +51302,7 @@ Asteroid	"S385"
 	}
 }
 
-Asteroid	"S386"
+Asteroid	"Tion System S386"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -51409,7 +51409,7 @@ Asteroid	"S386"
 	}
 }
 
-Asteroid	"S387"
+Asteroid	"Tion System S387"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -51516,7 +51516,7 @@ Asteroid	"S387"
 	}
 }
 
-Asteroid	"S388"
+Asteroid	"Tion System S388"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -51623,7 +51623,7 @@ Asteroid	"S388"
 	}
 }
 
-Asteroid	"S389"
+Asteroid	"Tion System S389"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -51730,7 +51730,7 @@ Asteroid	"S389"
 	}
 }
 
-Asteroid	"S390"
+Asteroid	"Tion System S390"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -51837,7 +51837,7 @@ Asteroid	"S390"
 	}
 }
 
-Asteroid	"S391"
+Asteroid	"Tion System S391"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -51944,7 +51944,7 @@ Asteroid	"S391"
 	}
 }
 
-Asteroid	"S392"
+Asteroid	"Tion System S392"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -52051,7 +52051,7 @@ Asteroid	"S392"
 	}
 }
 
-Asteroid	"S393"
+Asteroid	"Tion System S393"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -52158,7 +52158,7 @@ Asteroid	"S393"
 	}
 }
 
-Asteroid	"S394"
+Asteroid	"Tion System S394"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -52265,7 +52265,7 @@ Asteroid	"S394"
 	}
 }
 
-Asteroid	"S395"
+Asteroid	"Tion System S395"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -52372,7 +52372,7 @@ Asteroid	"S395"
 	}
 }
 
-Asteroid	"S396"
+Asteroid	"Tion System S396"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -52479,7 +52479,7 @@ Asteroid	"S396"
 	}
 }
 
-Asteroid	"S397"
+Asteroid	"Tion System S397"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -52586,7 +52586,7 @@ Asteroid	"S397"
 	}
 }
 
-Asteroid	"S398"
+Asteroid	"Tion System S398"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -52693,7 +52693,7 @@ Asteroid	"S398"
 	}
 }
 
-Asteroid	"S399"
+Asteroid	"Tion System S399"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -52800,7 +52800,7 @@ Asteroid	"S399"
 	}
 }
 
-Asteroid	"S400"
+Asteroid	"Tion System S400"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -52907,7 +52907,7 @@ Asteroid	"S400"
 	}
 }
 
-Asteroid	"S401"
+Asteroid	"Tion System S401"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -53014,7 +53014,7 @@ Asteroid	"S401"
 	}
 }
 
-Asteroid	"S402"
+Asteroid	"Tion System S402"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -53121,7 +53121,7 @@ Asteroid	"S402"
 	}
 }
 
-Asteroid	"S403"
+Asteroid	"Tion System S403"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -53228,7 +53228,7 @@ Asteroid	"S403"
 	}
 }
 
-Asteroid	"S404"
+Asteroid	"Tion System S404"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -53335,7 +53335,7 @@ Asteroid	"S404"
 	}
 }
 
-Asteroid	"S405"
+Asteroid	"Tion System S405"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -53442,7 +53442,7 @@ Asteroid	"S405"
 	}
 }
 
-Asteroid	"S406"
+Asteroid	"Tion System S406"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -53549,7 +53549,7 @@ Asteroid	"S406"
 	}
 }
 
-Asteroid	"S407"
+Asteroid	"Tion System S407"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -53656,7 +53656,7 @@ Asteroid	"S407"
 	}
 }
 
-Asteroid	"S408"
+Asteroid	"Tion System S408"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -53763,7 +53763,7 @@ Asteroid	"S408"
 	}
 }
 
-Asteroid	"S409"
+Asteroid	"Tion System S409"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -53870,7 +53870,7 @@ Asteroid	"S409"
 	}
 }
 
-Asteroid	"S410"
+Asteroid	"Tion System S410"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -53977,7 +53977,7 @@ Asteroid	"S410"
 	}
 }
 
-Asteroid	"S411"
+Asteroid	"Tion System S411"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -54084,7 +54084,7 @@ Asteroid	"S411"
 	}
 }
 
-Asteroid	"S412"
+Asteroid	"Tion System S412"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -54191,7 +54191,7 @@ Asteroid	"S412"
 	}
 }
 
-Asteroid	"S413"
+Asteroid	"Tion System S413"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -54298,7 +54298,7 @@ Asteroid	"S413"
 	}
 }
 
-Asteroid	"S414"
+Asteroid	"Tion System S414"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -54405,7 +54405,7 @@ Asteroid	"S414"
 	}
 }
 
-Asteroid	"S415"
+Asteroid	"Tion System S415"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -54512,7 +54512,7 @@ Asteroid	"S415"
 	}
 }
 
-Asteroid	"S416"
+Asteroid	"Tion System S416"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -54619,7 +54619,7 @@ Asteroid	"S416"
 	}
 }
 
-Asteroid	"S417"
+Asteroid	"Tion System S417"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -54726,7 +54726,7 @@ Asteroid	"S417"
 	}
 }
 
-Asteroid	"S418"
+Asteroid	"Tion System S418"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -54833,7 +54833,7 @@ Asteroid	"S418"
 	}
 }
 
-Asteroid	"S419"
+Asteroid	"Tion System S419"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -54940,7 +54940,7 @@ Asteroid	"S419"
 	}
 }
 
-Asteroid	"S420"
+Asteroid	"Tion System S420"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -55047,7 +55047,7 @@ Asteroid	"S420"
 	}
 }
 
-Asteroid	"S421"
+Asteroid	"Tion System S421"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -55154,7 +55154,7 @@ Asteroid	"S421"
 	}
 }
 
-Asteroid	"S422"
+Asteroid	"Tion System S422"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -55261,7 +55261,7 @@ Asteroid	"S422"
 	}
 }
 
-Asteroid	"S423"
+Asteroid	"Tion System S423"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -55368,7 +55368,7 @@ Asteroid	"S423"
 	}
 }
 
-Asteroid	"S424"
+Asteroid	"Tion System S424"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -55475,7 +55475,7 @@ Asteroid	"S424"
 	}
 }
 
-Asteroid	"S425"
+Asteroid	"Tion System S425"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -55582,7 +55582,7 @@ Asteroid	"S425"
 	}
 }
 
-Asteroid	"S426"
+Asteroid	"Tion System S426"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -55689,7 +55689,7 @@ Asteroid	"S426"
 	}
 }
 
-Asteroid	"S427"
+Asteroid	"Tion System S427"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -55796,7 +55796,7 @@ Asteroid	"S427"
 	}
 }
 
-Asteroid	"S428"
+Asteroid	"Tion System S428"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -55903,7 +55903,7 @@ Asteroid	"S428"
 	}
 }
 
-Asteroid	"S429"
+Asteroid	"Tion System S429"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -56010,7 +56010,7 @@ Asteroid	"S429"
 	}
 }
 
-Asteroid	"S430"
+Asteroid	"Tion System S430"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -56117,7 +56117,7 @@ Asteroid	"S430"
 	}
 }
 
-Asteroid	"S431"
+Asteroid	"Tion System S431"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -56224,7 +56224,7 @@ Asteroid	"S431"
 	}
 }
 
-Asteroid	"S432"
+Asteroid	"Tion System S432"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -56331,7 +56331,7 @@ Asteroid	"S432"
 	}
 }
 
-Asteroid	"S433"
+Asteroid	"Tion System S433"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -56438,7 +56438,7 @@ Asteroid	"S433"
 	}
 }
 
-Asteroid	"S434"
+Asteroid	"Tion System S434"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -56545,7 +56545,7 @@ Asteroid	"S434"
 	}
 }
 
-Asteroid	"S435"
+Asteroid	"Tion System S435"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -56652,7 +56652,7 @@ Asteroid	"S435"
 	}
 }
 
-Asteroid	"S436"
+Asteroid	"Tion System S436"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -56759,7 +56759,7 @@ Asteroid	"S436"
 	}
 }
 
-Asteroid	"S437"
+Asteroid	"Tion System S437"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -56866,7 +56866,7 @@ Asteroid	"S437"
 	}
 }
 
-Asteroid	"S438"
+Asteroid	"Tion System S438"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -56973,7 +56973,7 @@ Asteroid	"S438"
 	}
 }
 
-Asteroid	"S439"
+Asteroid	"Tion System S439"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -57080,7 +57080,7 @@ Asteroid	"S439"
 	}
 }
 
-Asteroid	"S440"
+Asteroid	"Tion System S440"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -57187,7 +57187,7 @@ Asteroid	"S440"
 	}
 }
 
-Asteroid	"S441"
+Asteroid	"Tion System S441"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -57294,7 +57294,7 @@ Asteroid	"S441"
 	}
 }
 
-Asteroid	"S442"
+Asteroid	"Tion System S442"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -57401,7 +57401,7 @@ Asteroid	"S442"
 	}
 }
 
-Asteroid	"S443"
+Asteroid	"Tion System S443"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -57508,7 +57508,7 @@ Asteroid	"S443"
 	}
 }
 
-Asteroid	"S444"
+Asteroid	"Tion System S444"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -57615,7 +57615,7 @@ Asteroid	"S444"
 	}
 }
 
-Asteroid	"S445"
+Asteroid	"Tion System S445"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -57722,7 +57722,7 @@ Asteroid	"S445"
 	}
 }
 
-Asteroid	"S446"
+Asteroid	"Tion System S446"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -57829,7 +57829,7 @@ Asteroid	"S446"
 	}
 }
 
-Asteroid	"S447"
+Asteroid	"Tion System S447"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -57936,7 +57936,7 @@ Asteroid	"S447"
 	}
 }
 
-Asteroid	"S448"
+Asteroid	"Tion System S448"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -58043,7 +58043,7 @@ Asteroid	"S448"
 	}
 }
 
-Asteroid	"S449"
+Asteroid	"Tion System S449"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -58150,7 +58150,7 @@ Asteroid	"S449"
 	}
 }
 
-Asteroid	"S450"
+Asteroid	"Tion System S450"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -58257,7 +58257,7 @@ Asteroid	"S450"
 	}
 }
 
-Asteroid	"S451"
+Asteroid	"Tion System S451"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -58364,7 +58364,7 @@ Asteroid	"S451"
 	}
 }
 
-Asteroid	"S452"
+Asteroid	"Tion System S452"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -58471,7 +58471,7 @@ Asteroid	"S452"
 	}
 }
 
-Asteroid	"S453"
+Asteroid	"Tion System S453"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -58578,7 +58578,7 @@ Asteroid	"S453"
 	}
 }
 
-Asteroid	"S454"
+Asteroid	"Tion System S454"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -58685,7 +58685,7 @@ Asteroid	"S454"
 	}
 }
 
-Asteroid	"S455"
+Asteroid	"Tion System S455"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -58792,7 +58792,7 @@ Asteroid	"S455"
 	}
 }
 
-Asteroid	"S456"
+Asteroid	"Tion System S456"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -58899,7 +58899,7 @@ Asteroid	"S456"
 	}
 }
 
-Asteroid	"S457"
+Asteroid	"Tion System S457"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -59006,7 +59006,7 @@ Asteroid	"S457"
 	}
 }
 
-Asteroid	"S458"
+Asteroid	"Tion System S458"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -59113,7 +59113,7 @@ Asteroid	"S458"
 	}
 }
 
-Asteroid	"S459"
+Asteroid	"Tion System S459"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -59220,7 +59220,7 @@ Asteroid	"S459"
 	}
 }
 
-Asteroid	"S460"
+Asteroid	"Tion System S460"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -59327,7 +59327,7 @@ Asteroid	"S460"
 	}
 }
 
-Asteroid	"S461"
+Asteroid	"Tion System S461"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -59434,7 +59434,7 @@ Asteroid	"S461"
 	}
 }
 
-Asteroid	"S462"
+Asteroid	"Tion System S462"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -59541,7 +59541,7 @@ Asteroid	"S462"
 	}
 }
 
-Asteroid	"S463"
+Asteroid	"Tion System S463"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -59648,7 +59648,7 @@ Asteroid	"S463"
 	}
 }
 
-Asteroid	"S464"
+Asteroid	"Tion System S464"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -59755,7 +59755,7 @@ Asteroid	"S464"
 	}
 }
 
-Asteroid	"S465"
+Asteroid	"Tion System S465"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -59862,7 +59862,7 @@ Asteroid	"S465"
 	}
 }
 
-Asteroid	"S466"
+Asteroid	"Tion System S466"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -59969,7 +59969,7 @@ Asteroid	"S466"
 	}
 }
 
-Asteroid	"S467"
+Asteroid	"Tion System S467"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -60076,7 +60076,7 @@ Asteroid	"S467"
 	}
 }
 
-Asteroid	"S468"
+Asteroid	"Tion System S468"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -60183,7 +60183,7 @@ Asteroid	"S468"
 	}
 }
 
-Asteroid	"S469"
+Asteroid	"Tion System S469"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -60290,7 +60290,7 @@ Asteroid	"S469"
 	}
 }
 
-Asteroid	"S470"
+Asteroid	"Tion System S470"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -60397,7 +60397,7 @@ Asteroid	"S470"
 	}
 }
 
-Asteroid	"S471"
+Asteroid	"Tion System S471"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -60504,7 +60504,7 @@ Asteroid	"S471"
 	}
 }
 
-Asteroid	"S472"
+Asteroid	"Tion System S472"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -60611,7 +60611,7 @@ Asteroid	"S472"
 	}
 }
 
-Asteroid	"S473"
+Asteroid	"Tion System S473"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -60718,7 +60718,7 @@ Asteroid	"S473"
 	}
 }
 
-Asteroid	"S474"
+Asteroid	"Tion System S474"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -60825,7 +60825,7 @@ Asteroid	"S474"
 	}
 }
 
-Asteroid	"S475"
+Asteroid	"Tion System S475"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -60932,7 +60932,7 @@ Asteroid	"S475"
 	}
 }
 
-Asteroid	"S476"
+Asteroid	"Tion System S476"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -61039,7 +61039,7 @@ Asteroid	"S476"
 	}
 }
 
-Asteroid	"S477"
+Asteroid	"Tion System S477"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -61146,7 +61146,7 @@ Asteroid	"S477"
 	}
 }
 
-Asteroid	"S478"
+Asteroid	"Tion System S478"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -61253,7 +61253,7 @@ Asteroid	"S478"
 	}
 }
 
-Asteroid	"S479"
+Asteroid	"Tion System S479"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -61360,7 +61360,7 @@ Asteroid	"S479"
 	}
 }
 
-Asteroid	"S480"
+Asteroid	"Tion System S480"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -61467,7 +61467,7 @@ Asteroid	"S480"
 	}
 }
 
-Asteroid	"S481"
+Asteroid	"Tion System S481"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -61574,7 +61574,7 @@ Asteroid	"S481"
 	}
 }
 
-Asteroid	"S482"
+Asteroid	"Tion System S482"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -61681,7 +61681,7 @@ Asteroid	"S482"
 	}
 }
 
-Asteroid	"S483"
+Asteroid	"Tion System S483"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -61788,7 +61788,7 @@ Asteroid	"S483"
 	}
 }
 
-Asteroid	"S484"
+Asteroid	"Tion System S484"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -61895,7 +61895,7 @@ Asteroid	"S484"
 	}
 }
 
-Asteroid	"S485"
+Asteroid	"Tion System S485"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -62002,7 +62002,7 @@ Asteroid	"S485"
 	}
 }
 
-Asteroid	"S486"
+Asteroid	"Tion System S486"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -62109,7 +62109,7 @@ Asteroid	"S486"
 	}
 }
 
-Asteroid	"S487"
+Asteroid	"Tion System S487"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -62216,7 +62216,7 @@ Asteroid	"S487"
 	}
 }
 
-Asteroid	"S488"
+Asteroid	"Tion System S488"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -62323,7 +62323,7 @@ Asteroid	"S488"
 	}
 }
 
-Asteroid	"S489"
+Asteroid	"Tion System S489"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -62430,7 +62430,7 @@ Asteroid	"S489"
 	}
 }
 
-Asteroid	"S490"
+Asteroid	"Tion System S490"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -62537,7 +62537,7 @@ Asteroid	"S490"
 	}
 }
 
-Asteroid	"S491"
+Asteroid	"Tion System S491"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -62644,7 +62644,7 @@ Asteroid	"S491"
 	}
 }
 
-Asteroid	"S492"
+Asteroid	"Tion System S492"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -62751,7 +62751,7 @@ Asteroid	"S492"
 	}
 }
 
-Asteroid	"S493"
+Asteroid	"Tion System S493"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -62858,7 +62858,7 @@ Asteroid	"S493"
 	}
 }
 
-Asteroid	"S494"
+Asteroid	"Tion System S494"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -62965,7 +62965,7 @@ Asteroid	"S494"
 	}
 }
 
-Asteroid	"S495"
+Asteroid	"Tion System S495"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -63072,7 +63072,7 @@ Asteroid	"S495"
 	}
 }
 
-Asteroid	"S496"
+Asteroid	"Tion System S496"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -63179,7 +63179,7 @@ Asteroid	"S496"
 	}
 }
 
-Asteroid	"S497"
+Asteroid	"Tion System S497"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -63286,7 +63286,7 @@ Asteroid	"S497"
 	}
 }
 
-Asteroid	"S498"
+Asteroid	"Tion System S498"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -63393,7 +63393,7 @@ Asteroid	"S498"
 	}
 }
 
-Asteroid	"S499"
+Asteroid	"Tion System S499"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -63500,7 +63500,7 @@ Asteroid	"S499"
 	}
 }
 
-Asteroid	"S500"
+Asteroid	"Tion System S500"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -63607,7 +63607,7 @@ Asteroid	"S500"
 	}
 }
 
-Asteroid	"S501"
+Asteroid	"Tion System S501"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -63714,7 +63714,7 @@ Asteroid	"S501"
 	}
 }
 
-Asteroid	"S502"
+Asteroid	"Tion System S502"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -63821,7 +63821,7 @@ Asteroid	"S502"
 	}
 }
 
-Asteroid	"S503"
+Asteroid	"Tion System S503"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -63928,7 +63928,7 @@ Asteroid	"S503"
 	}
 }
 
-Asteroid	"S504"
+Asteroid	"Tion System S504"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -64035,7 +64035,7 @@ Asteroid	"S504"
 	}
 }
 
-Asteroid	"S505"
+Asteroid	"Tion System S505"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -64142,7 +64142,7 @@ Asteroid	"S505"
 	}
 }
 
-Asteroid	"S506"
+Asteroid	"Tion System S506"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -64249,7 +64249,7 @@ Asteroid	"S506"
 	}
 }
 
-Asteroid	"S507"
+Asteroid	"Tion System S507"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -64356,7 +64356,7 @@ Asteroid	"S507"
 	}
 }
 
-Asteroid	"S508"
+Asteroid	"Tion System S508"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -64463,7 +64463,7 @@ Asteroid	"S508"
 	}
 }
 
-Asteroid	"S509"
+Asteroid	"Tion System S509"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -64570,7 +64570,7 @@ Asteroid	"S509"
 	}
 }
 
-Asteroid	"S510"
+Asteroid	"Tion System S510"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -64677,7 +64677,7 @@ Asteroid	"S510"
 	}
 }
 
-Asteroid	"S511"
+Asteroid	"Tion System S511"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -64784,7 +64784,7 @@ Asteroid	"S511"
 	}
 }
 
-Asteroid	"S512"
+Asteroid	"Tion System S512"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -64891,7 +64891,7 @@ Asteroid	"S512"
 	}
 }
 
-Asteroid	"S513"
+Asteroid	"Tion System S513"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -64998,7 +64998,7 @@ Asteroid	"S513"
 	}
 }
 
-Asteroid	"S514"
+Asteroid	"Tion System S514"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -65105,7 +65105,7 @@ Asteroid	"S514"
 	}
 }
 
-Asteroid	"S515"
+Asteroid	"Tion System S515"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -65212,7 +65212,7 @@ Asteroid	"S515"
 	}
 }
 
-Asteroid	"S516"
+Asteroid	"Tion System S516"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -65319,7 +65319,7 @@ Asteroid	"S516"
 	}
 }
 
-Asteroid	"S517"
+Asteroid	"Tion System S517"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -65426,7 +65426,7 @@ Asteroid	"S517"
 	}
 }
 
-Asteroid	"S518"
+Asteroid	"Tion System S518"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -65533,7 +65533,7 @@ Asteroid	"S518"
 	}
 }
 
-Asteroid	"S519"
+Asteroid	"Tion System S519"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -65640,7 +65640,7 @@ Asteroid	"S519"
 	}
 }
 
-Asteroid	"S520"
+Asteroid	"Tion System S520"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -65747,7 +65747,7 @@ Asteroid	"S520"
 	}
 }
 
-Asteroid	"S521"
+Asteroid	"Tion System S521"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -65854,7 +65854,7 @@ Asteroid	"S521"
 	}
 }
 
-Asteroid	"S522"
+Asteroid	"Tion System S522"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -65961,7 +65961,7 @@ Asteroid	"S522"
 	}
 }
 
-Asteroid	"S523"
+Asteroid	"Tion System S523"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -66068,7 +66068,7 @@ Asteroid	"S523"
 	}
 }
 
-Asteroid	"S524"
+Asteroid	"Tion System S524"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -66175,7 +66175,7 @@ Asteroid	"S524"
 	}
 }
 
-Asteroid	"S525"
+Asteroid	"Tion System S525"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -66282,7 +66282,7 @@ Asteroid	"S525"
 	}
 }
 
-Asteroid	"S526"
+Asteroid	"Tion System S526"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -66389,7 +66389,7 @@ Asteroid	"S526"
 	}
 }
 
-Asteroid	"S527"
+Asteroid	"Tion System S527"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -66496,7 +66496,7 @@ Asteroid	"S527"
 	}
 }
 
-Asteroid	"S528"
+Asteroid	"Tion System S528"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -66603,7 +66603,7 @@ Asteroid	"S528"
 	}
 }
 
-Asteroid	"S529"
+Asteroid	"Tion System S529"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -66710,7 +66710,7 @@ Asteroid	"S529"
 	}
 }
 
-Asteroid	"S530"
+Asteroid	"Tion System S530"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -66817,7 +66817,7 @@ Asteroid	"S530"
 	}
 }
 
-Asteroid	"S531"
+Asteroid	"Tion System S531"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -66924,7 +66924,7 @@ Asteroid	"S531"
 	}
 }
 
-Asteroid	"S532"
+Asteroid	"Tion System S532"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -67031,7 +67031,7 @@ Asteroid	"S532"
 	}
 }
 
-Asteroid	"S533"
+Asteroid	"Tion System S533"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -67138,7 +67138,7 @@ Asteroid	"S533"
 	}
 }
 
-Asteroid	"S534"
+Asteroid	"Tion System S534"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -67245,7 +67245,7 @@ Asteroid	"S534"
 	}
 }
 
-Asteroid	"S535"
+Asteroid	"Tion System S535"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -67352,7 +67352,7 @@ Asteroid	"S535"
 	}
 }
 
-Asteroid	"S536"
+Asteroid	"Tion System S536"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -67459,7 +67459,7 @@ Asteroid	"S536"
 	}
 }
 
-Asteroid	"S537"
+Asteroid	"Tion System S537"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -67566,7 +67566,7 @@ Asteroid	"S537"
 	}
 }
 
-Asteroid	"S538"
+Asteroid	"Tion System S538"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -67673,7 +67673,7 @@ Asteroid	"S538"
 	}
 }
 
-Asteroid	"S539"
+Asteroid	"Tion System S539"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -67780,7 +67780,7 @@ Asteroid	"S539"
 	}
 }
 
-Asteroid	"S540"
+Asteroid	"Tion System S540"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -67887,7 +67887,7 @@ Asteroid	"S540"
 	}
 }
 
-Asteroid	"S541"
+Asteroid	"Tion System S541"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -67994,7 +67994,7 @@ Asteroid	"S541"
 	}
 }
 
-Asteroid	"S542"
+Asteroid	"Tion System S542"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -68101,7 +68101,7 @@ Asteroid	"S542"
 	}
 }
 
-Asteroid	"S543"
+Asteroid	"Tion System S543"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -68208,7 +68208,7 @@ Asteroid	"S543"
 	}
 }
 
-Asteroid	"S544"
+Asteroid	"Tion System S544"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -68315,7 +68315,7 @@ Asteroid	"S544"
 	}
 }
 
-Asteroid	"S545"
+Asteroid	"Tion System S545"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -68422,7 +68422,7 @@ Asteroid	"S545"
 	}
 }
 
-Asteroid	"S546"
+Asteroid	"Tion System S546"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -68529,7 +68529,7 @@ Asteroid	"S546"
 	}
 }
 
-Asteroid	"S547"
+Asteroid	"Tion System S547"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -68636,7 +68636,7 @@ Asteroid	"S547"
 	}
 }
 
-Asteroid	"S548"
+Asteroid	"Tion System S548"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -68743,7 +68743,7 @@ Asteroid	"S548"
 	}
 }
 
-Asteroid	"S549"
+Asteroid	"Tion System S549"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -68850,7 +68850,7 @@ Asteroid	"S549"
 	}
 }
 
-Asteroid	"S550"
+Asteroid	"Tion System S550"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -68957,7 +68957,7 @@ Asteroid	"S550"
 	}
 }
 
-Asteroid	"S551"
+Asteroid	"Tion System S551"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -69064,7 +69064,7 @@ Asteroid	"S551"
 	}
 }
 
-Asteroid	"S552"
+Asteroid	"Tion System S552"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -69171,7 +69171,7 @@ Asteroid	"S552"
 	}
 }
 
-Asteroid	"S553"
+Asteroid	"Tion System S553"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -69278,7 +69278,7 @@ Asteroid	"S553"
 	}
 }
 
-Asteroid	"S554"
+Asteroid	"Tion System S554"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -69385,7 +69385,7 @@ Asteroid	"S554"
 	}
 }
 
-Asteroid	"S555"
+Asteroid	"Tion System S555"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -69492,7 +69492,7 @@ Asteroid	"S555"
 	}
 }
 
-Asteroid	"S556"
+Asteroid	"Tion System S556"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -69599,7 +69599,7 @@ Asteroid	"S556"
 	}
 }
 
-Asteroid	"S557"
+Asteroid	"Tion System S557"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -69706,7 +69706,7 @@ Asteroid	"S557"
 	}
 }
 
-Asteroid	"S558"
+Asteroid	"Tion System S558"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -69813,7 +69813,7 @@ Asteroid	"S558"
 	}
 }
 
-Asteroid	"S559"
+Asteroid	"Tion System S559"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -69920,7 +69920,7 @@ Asteroid	"S559"
 	}
 }
 
-Asteroid	"S560"
+Asteroid	"Tion System S560"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -70027,7 +70027,7 @@ Asteroid	"S560"
 	}
 }
 
-Asteroid	"S561"
+Asteroid	"Tion System S561"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -70134,7 +70134,7 @@ Asteroid	"S561"
 	}
 }
 
-Asteroid	"S562"
+Asteroid	"Tion System S562"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -70241,7 +70241,7 @@ Asteroid	"S562"
 	}
 }
 
-Asteroid	"S563"
+Asteroid	"Tion System S563"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -70348,7 +70348,7 @@ Asteroid	"S563"
 	}
 }
 
-Asteroid	"S564"
+Asteroid	"Tion System S564"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -70455,7 +70455,7 @@ Asteroid	"S564"
 	}
 }
 
-Asteroid	"S565"
+Asteroid	"Tion System S565"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -70562,7 +70562,7 @@ Asteroid	"S565"
 	}
 }
 
-Asteroid	"S566"
+Asteroid	"Tion System S566"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -70669,7 +70669,7 @@ Asteroid	"S566"
 	}
 }
 
-Asteroid	"S567"
+Asteroid	"Tion System S567"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -70776,7 +70776,7 @@ Asteroid	"S567"
 	}
 }
 
-Asteroid	"S568"
+Asteroid	"Tion System S568"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -70883,7 +70883,7 @@ Asteroid	"S568"
 	}
 }
 
-Asteroid	"S569"
+Asteroid	"Tion System S569"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -70990,7 +70990,7 @@ Asteroid	"S569"
 	}
 }
 
-Asteroid	"S570"
+Asteroid	"Tion System S570"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -71097,7 +71097,7 @@ Asteroid	"S570"
 	}
 }
 
-Asteroid	"S571"
+Asteroid	"Tion System S571"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -71204,7 +71204,7 @@ Asteroid	"S571"
 	}
 }
 
-Asteroid	"S572"
+Asteroid	"Tion System S572"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -71311,7 +71311,7 @@ Asteroid	"S572"
 	}
 }
 
-Asteroid	"S573"
+Asteroid	"Tion System S573"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -71418,7 +71418,7 @@ Asteroid	"S573"
 	}
 }
 
-Asteroid	"S574"
+Asteroid	"Tion System S574"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -71525,7 +71525,7 @@ Asteroid	"S574"
 	}
 }
 
-Asteroid	"S575"
+Asteroid	"Tion System S575"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -71632,7 +71632,7 @@ Asteroid	"S575"
 	}
 }
 
-Asteroid	"S576"
+Asteroid	"Tion System S576"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -71739,7 +71739,7 @@ Asteroid	"S576"
 	}
 }
 
-Asteroid	"S577"
+Asteroid	"Tion System S577"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -71846,7 +71846,7 @@ Asteroid	"S577"
 	}
 }
 
-Asteroid	"S578"
+Asteroid	"Tion System S578"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -71953,7 +71953,7 @@ Asteroid	"S578"
 	}
 }
 
-Asteroid	"S579"
+Asteroid	"Tion System S579"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -72060,7 +72060,7 @@ Asteroid	"S579"
 	}
 }
 
-Asteroid	"S580"
+Asteroid	"Tion System S580"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -72167,7 +72167,7 @@ Asteroid	"S580"
 	}
 }
 
-Asteroid	"S581"
+Asteroid	"Tion System S581"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -72274,7 +72274,7 @@ Asteroid	"S581"
 	}
 }
 
-Asteroid	"S582"
+Asteroid	"Tion System S582"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -72381,7 +72381,7 @@ Asteroid	"S582"
 	}
 }
 
-Asteroid	"S583"
+Asteroid	"Tion System S583"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -72488,7 +72488,7 @@ Asteroid	"S583"
 	}
 }
 
-Asteroid	"S584"
+Asteroid	"Tion System S584"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -72595,7 +72595,7 @@ Asteroid	"S584"
 	}
 }
 
-Asteroid	"S585"
+Asteroid	"Tion System S585"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -72702,7 +72702,7 @@ Asteroid	"S585"
 	}
 }
 
-Asteroid	"S586"
+Asteroid	"Tion System S586"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -72809,7 +72809,7 @@ Asteroid	"S586"
 	}
 }
 
-Asteroid	"S587"
+Asteroid	"Tion System S587"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -72916,7 +72916,7 @@ Asteroid	"S587"
 	}
 }
 
-Asteroid	"S588"
+Asteroid	"Tion System S588"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -73023,7 +73023,7 @@ Asteroid	"S588"
 	}
 }
 
-Asteroid	"S589"
+Asteroid	"Tion System S589"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -73130,7 +73130,7 @@ Asteroid	"S589"
 	}
 }
 
-Asteroid	"S590"
+Asteroid	"Tion System S590"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -73237,7 +73237,7 @@ Asteroid	"S590"
 	}
 }
 
-Asteroid	"S591"
+Asteroid	"Tion System S591"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -73344,7 +73344,7 @@ Asteroid	"S591"
 	}
 }
 
-Asteroid	"S592"
+Asteroid	"Tion System S592"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -73451,7 +73451,7 @@ Asteroid	"S592"
 	}
 }
 
-Asteroid	"S593"
+Asteroid	"Tion System S593"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -73558,7 +73558,7 @@ Asteroid	"S593"
 	}
 }
 
-Asteroid	"S594"
+Asteroid	"Tion System S594"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -73665,7 +73665,7 @@ Asteroid	"S594"
 	}
 }
 
-Asteroid	"S595"
+Asteroid	"Tion System S595"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -73772,7 +73772,7 @@ Asteroid	"S595"
 	}
 }
 
-Asteroid	"S596"
+Asteroid	"Tion System S596"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -73879,7 +73879,7 @@ Asteroid	"S596"
 	}
 }
 
-Asteroid	"S597"
+Asteroid	"Tion System S597"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -73986,7 +73986,7 @@ Asteroid	"S597"
 	}
 }
 
-Asteroid	"S598"
+Asteroid	"Tion System S598"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -74093,7 +74093,7 @@ Asteroid	"S598"
 	}
 }
 
-Asteroid	"S599"
+Asteroid	"Tion System S599"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -74200,7 +74200,7 @@ Asteroid	"S599"
 	}
 }
 
-Asteroid	"S600"
+Asteroid	"Tion System S600"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -74307,7 +74307,7 @@ Asteroid	"S600"
 	}
 }
 
-Asteroid	"S601"
+Asteroid	"Tion System S601"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -74414,7 +74414,7 @@ Asteroid	"S601"
 	}
 }
 
-Asteroid	"S602"
+Asteroid	"Tion System S602"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -74521,7 +74521,7 @@ Asteroid	"S602"
 	}
 }
 
-Asteroid	"S603"
+Asteroid	"Tion System S603"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -74628,7 +74628,7 @@ Asteroid	"S603"
 	}
 }
 
-Asteroid	"S604"
+Asteroid	"Tion System S604"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -74735,7 +74735,7 @@ Asteroid	"S604"
 	}
 }
 
-Asteroid	"S605"
+Asteroid	"Tion System S605"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -74842,7 +74842,7 @@ Asteroid	"S605"
 	}
 }
 
-Asteroid	"S606"
+Asteroid	"Tion System S606"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -74949,7 +74949,7 @@ Asteroid	"S606"
 	}
 }
 
-Asteroid	"S607"
+Asteroid	"Tion System S607"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -75056,7 +75056,7 @@ Asteroid	"S607"
 	}
 }
 
-Asteroid	"S608"
+Asteroid	"Tion System S608"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -75163,7 +75163,7 @@ Asteroid	"S608"
 	}
 }
 
-Asteroid	"S609"
+Asteroid	"Tion System S609"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -75270,7 +75270,7 @@ Asteroid	"S609"
 	}
 }
 
-Asteroid	"S610"
+Asteroid	"Tion System S610"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -75377,7 +75377,7 @@ Asteroid	"S610"
 	}
 }
 
-Asteroid	"S611"
+Asteroid	"Tion System S611"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -75484,7 +75484,7 @@ Asteroid	"S611"
 	}
 }
 
-Asteroid	"S612"
+Asteroid	"Tion System S612"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -75591,7 +75591,7 @@ Asteroid	"S612"
 	}
 }
 
-Asteroid	"S613"
+Asteroid	"Tion System S613"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -75698,7 +75698,7 @@ Asteroid	"S613"
 	}
 }
 
-Asteroid	"S614"
+Asteroid	"Tion System S614"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -75805,7 +75805,7 @@ Asteroid	"S614"
 	}
 }
 
-Asteroid	"S615"
+Asteroid	"Tion System S615"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -75912,7 +75912,7 @@ Asteroid	"S615"
 	}
 }
 
-Asteroid	"S616"
+Asteroid	"Tion System S616"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -76019,7 +76019,7 @@ Asteroid	"S616"
 	}
 }
 
-Asteroid	"S617"
+Asteroid	"Tion System S617"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -76126,7 +76126,7 @@ Asteroid	"S617"
 	}
 }
 
-Asteroid	"S618"
+Asteroid	"Tion System S618"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -76233,7 +76233,7 @@ Asteroid	"S618"
 	}
 }
 
-Asteroid	"S619"
+Asteroid	"Tion System S619"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -76340,7 +76340,7 @@ Asteroid	"S619"
 	}
 }
 
-Asteroid	"S620"
+Asteroid	"Tion System S620"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -76447,7 +76447,7 @@ Asteroid	"S620"
 	}
 }
 
-Asteroid	"S621"
+Asteroid	"Tion System S621"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -76554,7 +76554,7 @@ Asteroid	"S621"
 	}
 }
 
-Asteroid	"S622"
+Asteroid	"Tion System S622"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -76661,7 +76661,7 @@ Asteroid	"S622"
 	}
 }
 
-Asteroid	"S623"
+Asteroid	"Tion System S623"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -76768,7 +76768,7 @@ Asteroid	"S623"
 	}
 }
 
-Asteroid	"S624"
+Asteroid	"Tion System S624"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -76875,7 +76875,7 @@ Asteroid	"S624"
 	}
 }
 
-Asteroid	"S625"
+Asteroid	"Tion System S625"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -76982,7 +76982,7 @@ Asteroid	"S625"
 	}
 }
 
-Asteroid	"S626"
+Asteroid	"Tion System S626"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -77089,7 +77089,7 @@ Asteroid	"S626"
 	}
 }
 
-Asteroid	"S627"
+Asteroid	"Tion System S627"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -77196,7 +77196,7 @@ Asteroid	"S627"
 	}
 }
 
-Asteroid	"S628"
+Asteroid	"Tion System S628"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -77303,7 +77303,7 @@ Asteroid	"S628"
 	}
 }
 
-Asteroid	"S629"
+Asteroid	"Tion System S629"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -77410,7 +77410,7 @@ Asteroid	"S629"
 	}
 }
 
-Asteroid	"S630"
+Asteroid	"Tion System S630"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -77517,7 +77517,7 @@ Asteroid	"S630"
 	}
 }
 
-Asteroid	"S631"
+Asteroid	"Tion System S631"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -77624,7 +77624,7 @@ Asteroid	"S631"
 	}
 }
 
-Asteroid	"S632"
+Asteroid	"Tion System S632"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -77731,7 +77731,7 @@ Asteroid	"S632"
 	}
 }
 
-Asteroid	"S633"
+Asteroid	"Tion System S633"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -77838,7 +77838,7 @@ Asteroid	"S633"
 	}
 }
 
-Asteroid	"S634"
+Asteroid	"Tion System S634"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -77945,7 +77945,7 @@ Asteroid	"S634"
 	}
 }
 
-Asteroid	"S635"
+Asteroid	"Tion System S635"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -78052,7 +78052,7 @@ Asteroid	"S635"
 	}
 }
 
-Asteroid	"S636"
+Asteroid	"Tion System S636"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -78159,7 +78159,7 @@ Asteroid	"S636"
 	}
 }
 
-Asteroid	"S637"
+Asteroid	"Tion System S637"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -78266,7 +78266,7 @@ Asteroid	"S637"
 	}
 }
 
-Asteroid	"S638"
+Asteroid	"Tion System S638"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -78373,7 +78373,7 @@ Asteroid	"S638"
 	}
 }
 
-Asteroid	"S639"
+Asteroid	"Tion System S639"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -78480,7 +78480,7 @@ Asteroid	"S639"
 	}
 }
 
-Asteroid	"S640"
+Asteroid	"Tion System S640"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -78587,7 +78587,7 @@ Asteroid	"S640"
 	}
 }
 
-Asteroid	"S641"
+Asteroid	"Tion System S641"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -78694,7 +78694,7 @@ Asteroid	"S641"
 	}
 }
 
-Asteroid	"S642"
+Asteroid	"Tion System S642"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -78801,7 +78801,7 @@ Asteroid	"S642"
 	}
 }
 
-Asteroid	"S643"
+Asteroid	"Tion System S643"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -78908,7 +78908,7 @@ Asteroid	"S643"
 	}
 }
 
-Asteroid	"S644"
+Asteroid	"Tion System S644"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -79015,7 +79015,7 @@ Asteroid	"S644"
 	}
 }
 
-Asteroid	"S645"
+Asteroid	"Tion System S645"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -79122,7 +79122,7 @@ Asteroid	"S645"
 	}
 }
 
-Asteroid	"S646"
+Asteroid	"Tion System S646"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -79229,7 +79229,7 @@ Asteroid	"S646"
 	}
 }
 
-Asteroid	"S647"
+Asteroid	"Tion System S647"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -79336,7 +79336,7 @@ Asteroid	"S647"
 	}
 }
 
-Asteroid	"S648"
+Asteroid	"Tion System S648"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -79443,7 +79443,7 @@ Asteroid	"S648"
 	}
 }
 
-Asteroid	"S649"
+Asteroid	"Tion System S649"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -79550,7 +79550,7 @@ Asteroid	"S649"
 	}
 }
 
-Asteroid	"S650"
+Asteroid	"Tion System S650"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -79657,7 +79657,7 @@ Asteroid	"S650"
 	}
 }
 
-Asteroid	"S651"
+Asteroid	"Tion System S651"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -79764,7 +79764,7 @@ Asteroid	"S651"
 	}
 }
 
-Asteroid	"S652"
+Asteroid	"Tion System S652"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -79871,7 +79871,7 @@ Asteroid	"S652"
 	}
 }
 
-Asteroid	"S653"
+Asteroid	"Tion System S653"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -79978,7 +79978,7 @@ Asteroid	"S653"
 	}
 }
 
-Asteroid	"S654"
+Asteroid	"Tion System S654"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -80085,7 +80085,7 @@ Asteroid	"S654"
 	}
 }
 
-Asteroid	"S655"
+Asteroid	"Tion System S655"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -80192,7 +80192,7 @@ Asteroid	"S655"
 	}
 }
 
-Asteroid	"S656"
+Asteroid	"Tion System S656"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -80299,7 +80299,7 @@ Asteroid	"S656"
 	}
 }
 
-Asteroid	"S657"
+Asteroid	"Tion System S657"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -80406,7 +80406,7 @@ Asteroid	"S657"
 	}
 }
 
-Asteroid	"S658"
+Asteroid	"Tion System S658"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -80513,7 +80513,7 @@ Asteroid	"S658"
 	}
 }
 
-Asteroid	"S659"
+Asteroid	"Tion System S659"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -80620,7 +80620,7 @@ Asteroid	"S659"
 	}
 }
 
-Asteroid	"S660"
+Asteroid	"Tion System S660"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -80727,7 +80727,7 @@ Asteroid	"S660"
 	}
 }
 
-Asteroid	"S661"
+Asteroid	"Tion System S661"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -80834,7 +80834,7 @@ Asteroid	"S661"
 	}
 }
 
-Asteroid	"S662"
+Asteroid	"Tion System S662"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -80941,7 +80941,7 @@ Asteroid	"S662"
 	}
 }
 
-Asteroid	"S663"
+Asteroid	"Tion System S663"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -81048,7 +81048,7 @@ Asteroid	"S663"
 	}
 }
 
-Asteroid	"S664"
+Asteroid	"Tion System S664"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -81155,7 +81155,7 @@ Asteroid	"S664"
 	}
 }
 
-Asteroid	"S665"
+Asteroid	"Tion System S665"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -81262,7 +81262,7 @@ Asteroid	"S665"
 	}
 }
 
-Asteroid	"S666"
+Asteroid	"Tion System S666"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -81369,7 +81369,7 @@ Asteroid	"S666"
 	}
 }
 
-Asteroid	"S667"
+Asteroid	"Tion System S667"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -81476,7 +81476,7 @@ Asteroid	"S667"
 	}
 }
 
-Asteroid	"S668"
+Asteroid	"Tion System S668"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -81583,7 +81583,7 @@ Asteroid	"S668"
 	}
 }
 
-Asteroid	"S669"
+Asteroid	"Tion System S669"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -81690,7 +81690,7 @@ Asteroid	"S669"
 	}
 }
 
-Asteroid	"S670"
+Asteroid	"Tion System S670"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -81797,7 +81797,7 @@ Asteroid	"S670"
 	}
 }
 
-Asteroid	"S671"
+Asteroid	"Tion System S671"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -81904,7 +81904,7 @@ Asteroid	"S671"
 	}
 }
 
-Asteroid	"S672"
+Asteroid	"Tion System S672"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -82011,7 +82011,7 @@ Asteroid	"S672"
 	}
 }
 
-Asteroid	"S673"
+Asteroid	"Tion System S673"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -82118,7 +82118,7 @@ Asteroid	"S673"
 	}
 }
 
-Asteroid	"S674"
+Asteroid	"Tion System S674"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -82225,7 +82225,7 @@ Asteroid	"S674"
 	}
 }
 
-Asteroid	"S675"
+Asteroid	"Tion System S675"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -82332,7 +82332,7 @@ Asteroid	"S675"
 	}
 }
 
-Asteroid	"S676"
+Asteroid	"Tion System S676"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -82439,7 +82439,7 @@ Asteroid	"S676"
 	}
 }
 
-Asteroid	"S677"
+Asteroid	"Tion System S677"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -82546,7 +82546,7 @@ Asteroid	"S677"
 	}
 }
 
-Asteroid	"S678"
+Asteroid	"Tion System S678"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -82653,7 +82653,7 @@ Asteroid	"S678"
 	}
 }
 
-Asteroid	"S679"
+Asteroid	"Tion System S679"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -82760,7 +82760,7 @@ Asteroid	"S679"
 	}
 }
 
-Asteroid	"S680"
+Asteroid	"Tion System S680"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -82867,7 +82867,7 @@ Asteroid	"S680"
 	}
 }
 
-Asteroid	"S681"
+Asteroid	"Tion System S681"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -82974,7 +82974,7 @@ Asteroid	"S681"
 	}
 }
 
-Asteroid	"S682"
+Asteroid	"Tion System S682"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -83081,7 +83081,7 @@ Asteroid	"S682"
 	}
 }
 
-Asteroid	"S683"
+Asteroid	"Tion System S683"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -83188,7 +83188,7 @@ Asteroid	"S683"
 	}
 }
 
-Asteroid	"S684"
+Asteroid	"Tion System S684"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -83295,7 +83295,7 @@ Asteroid	"S684"
 	}
 }
 
-Asteroid	"S685"
+Asteroid	"Tion System S685"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -83402,7 +83402,7 @@ Asteroid	"S685"
 	}
 }
 
-Asteroid	"S686"
+Asteroid	"Tion System S686"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -83509,7 +83509,7 @@ Asteroid	"S686"
 	}
 }
 
-Asteroid	"S687"
+Asteroid	"Tion System S687"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -83616,7 +83616,7 @@ Asteroid	"S687"
 	}
 }
 
-Asteroid	"S688"
+Asteroid	"Tion System S688"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -83723,7 +83723,7 @@ Asteroid	"S688"
 	}
 }
 
-Asteroid	"S689"
+Asteroid	"Tion System S689"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -83830,7 +83830,7 @@ Asteroid	"S689"
 	}
 }
 
-Asteroid	"S690"
+Asteroid	"Tion System S690"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -83937,7 +83937,7 @@ Asteroid	"S690"
 	}
 }
 
-Asteroid	"S691"
+Asteroid	"Tion System S691"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -84044,7 +84044,7 @@ Asteroid	"S691"
 	}
 }
 
-Asteroid	"S692"
+Asteroid	"Tion System S692"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -84151,7 +84151,7 @@ Asteroid	"S692"
 	}
 }
 
-Asteroid	"S693"
+Asteroid	"Tion System S693"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -84258,7 +84258,7 @@ Asteroid	"S693"
 	}
 }
 
-Asteroid	"S694"
+Asteroid	"Tion System S694"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -84365,7 +84365,7 @@ Asteroid	"S694"
 	}
 }
 
-Asteroid	"S695"
+Asteroid	"Tion System S695"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -84472,7 +84472,7 @@ Asteroid	"S695"
 	}
 }
 
-Asteroid	"S696"
+Asteroid	"Tion System S696"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -84579,7 +84579,7 @@ Asteroid	"S696"
 	}
 }
 
-Asteroid	"S697"
+Asteroid	"Tion System S697"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -84686,7 +84686,7 @@ Asteroid	"S697"
 	}
 }
 
-Asteroid	"S698"
+Asteroid	"Tion System S698"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -84793,7 +84793,7 @@ Asteroid	"S698"
 	}
 }
 
-Asteroid	"S699"
+Asteroid	"Tion System S699"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -84900,7 +84900,7 @@ Asteroid	"S699"
 	}
 }
 
-Asteroid	"S700"
+Asteroid	"Tion System S700"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -85007,7 +85007,7 @@ Asteroid	"S700"
 	}
 }
 
-Asteroid	"S701"
+Asteroid	"Tion System S701"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -85114,7 +85114,7 @@ Asteroid	"S701"
 	}
 }
 
-Asteroid	"S702"
+Asteroid	"Tion System S702"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -85221,7 +85221,7 @@ Asteroid	"S702"
 	}
 }
 
-Asteroid	"S703"
+Asteroid	"Tion System S703"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -85328,7 +85328,7 @@ Asteroid	"S703"
 	}
 }
 
-Asteroid	"S704"
+Asteroid	"Tion System S704"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -85435,7 +85435,7 @@ Asteroid	"S704"
 	}
 }
 
-Asteroid	"S705"
+Asteroid	"Tion System S705"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -85542,7 +85542,7 @@ Asteroid	"S705"
 	}
 }
 
-Asteroid	"S706"
+Asteroid	"Tion System S706"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -85649,7 +85649,7 @@ Asteroid	"S706"
 	}
 }
 
-Asteroid	"S707"
+Asteroid	"Tion System S707"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -85756,7 +85756,7 @@ Asteroid	"S707"
 	}
 }
 
-Asteroid	"S708"
+Asteroid	"Tion System S708"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -85863,7 +85863,7 @@ Asteroid	"S708"
 	}
 }
 
-Asteroid	"S709"
+Asteroid	"Tion System S709"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -85970,7 +85970,7 @@ Asteroid	"S709"
 	}
 }
 
-Asteroid	"S710"
+Asteroid	"Tion System S710"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -86077,7 +86077,7 @@ Asteroid	"S710"
 	}
 }
 
-Asteroid	"S711"
+Asteroid	"Tion System S711"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -86184,7 +86184,7 @@ Asteroid	"S711"
 	}
 }
 
-Asteroid	"S712"
+Asteroid	"Tion System S712"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -86291,7 +86291,7 @@ Asteroid	"S712"
 	}
 }
 
-Asteroid	"S713"
+Asteroid	"Tion System S713"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -86398,7 +86398,7 @@ Asteroid	"S713"
 	}
 }
 
-Asteroid	"S714"
+Asteroid	"Tion System S714"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -86505,7 +86505,7 @@ Asteroid	"S714"
 	}
 }
 
-Asteroid	"S715"
+Asteroid	"Tion System S715"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -86612,7 +86612,7 @@ Asteroid	"S715"
 	}
 }
 
-Asteroid	"S716"
+Asteroid	"Tion System S716"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -86719,7 +86719,7 @@ Asteroid	"S716"
 	}
 }
 
-Asteroid	"S717"
+Asteroid	"Tion System S717"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -86826,7 +86826,7 @@ Asteroid	"S717"
 	}
 }
 
-Asteroid	"S718"
+Asteroid	"Tion System S718"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -86933,7 +86933,7 @@ Asteroid	"S718"
 	}
 }
 
-Asteroid	"S719"
+Asteroid	"Tion System S719"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -87040,7 +87040,7 @@ Asteroid	"S719"
 	}
 }
 
-Asteroid	"S720"
+Asteroid	"Tion System S720"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -87147,7 +87147,7 @@ Asteroid	"S720"
 	}
 }
 
-Asteroid	"S721"
+Asteroid	"Tion System S721"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -87254,7 +87254,7 @@ Asteroid	"S721"
 	}
 }
 
-Asteroid	"S722"
+Asteroid	"Tion System S722"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -87361,7 +87361,7 @@ Asteroid	"S722"
 	}
 }
 
-Asteroid	"S723"
+Asteroid	"Tion System S723"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -87468,7 +87468,7 @@ Asteroid	"S723"
 	}
 }
 
-Asteroid	"S724"
+Asteroid	"Tion System S724"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -87575,7 +87575,7 @@ Asteroid	"S724"
 	}
 }
 
-Asteroid	"S725"
+Asteroid	"Tion System S725"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -87682,7 +87682,7 @@ Asteroid	"S725"
 	}
 }
 
-Asteroid	"S726"
+Asteroid	"Tion System S726"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -87789,7 +87789,7 @@ Asteroid	"S726"
 	}
 }
 
-Asteroid	"S727"
+Asteroid	"Tion System S727"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -87896,7 +87896,7 @@ Asteroid	"S727"
 	}
 }
 
-Asteroid	"S728"
+Asteroid	"Tion System S728"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -88003,7 +88003,7 @@ Asteroid	"S728"
 	}
 }
 
-Asteroid	"S729"
+Asteroid	"Tion System S729"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -88110,7 +88110,7 @@ Asteroid	"S729"
 	}
 }
 
-Asteroid	"S730"
+Asteroid	"Tion System S730"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -88217,7 +88217,7 @@ Asteroid	"S730"
 	}
 }
 
-Asteroid	"S731"
+Asteroid	"Tion System S731"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -88324,7 +88324,7 @@ Asteroid	"S731"
 	}
 }
 
-Asteroid	"S732"
+Asteroid	"Tion System S732"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -88431,7 +88431,7 @@ Asteroid	"S732"
 	}
 }
 
-Asteroid	"S733"
+Asteroid	"Tion System S733"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -88538,7 +88538,7 @@ Asteroid	"S733"
 	}
 }
 
-Asteroid	"S734"
+Asteroid	"Tion System S734"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -88645,7 +88645,7 @@ Asteroid	"S734"
 	}
 }
 
-Asteroid	"S735"
+Asteroid	"Tion System S735"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -88752,7 +88752,7 @@ Asteroid	"S735"
 	}
 }
 
-Asteroid	"S736"
+Asteroid	"Tion System S736"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -88859,7 +88859,7 @@ Asteroid	"S736"
 	}
 }
 
-Asteroid	"S737"
+Asteroid	"Tion System S737"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -88966,7 +88966,7 @@ Asteroid	"S737"
 	}
 }
 
-Asteroid	"S738"
+Asteroid	"Tion System S738"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -89073,7 +89073,7 @@ Asteroid	"S738"
 	}
 }
 
-Asteroid	"S739"
+Asteroid	"Tion System S739"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -89180,7 +89180,7 @@ Asteroid	"S739"
 	}
 }
 
-Asteroid	"S740"
+Asteroid	"Tion System S740"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -89287,7 +89287,7 @@ Asteroid	"S740"
 	}
 }
 
-Asteroid	"S741"
+Asteroid	"Tion System S741"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -89394,7 +89394,7 @@ Asteroid	"S741"
 	}
 }
 
-Asteroid	"S742"
+Asteroid	"Tion System S742"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -89501,7 +89501,7 @@ Asteroid	"S742"
 	}
 }
 
-Asteroid	"S743"
+Asteroid	"Tion System S743"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -89608,7 +89608,7 @@ Asteroid	"S743"
 	}
 }
 
-Asteroid	"S744"
+Asteroid	"Tion System S744"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -89715,7 +89715,7 @@ Asteroid	"S744"
 	}
 }
 
-Asteroid	"S745"
+Asteroid	"Tion System S745"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -89822,7 +89822,7 @@ Asteroid	"S745"
 	}
 }
 
-Asteroid	"S746"
+Asteroid	"Tion System S746"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -89929,7 +89929,7 @@ Asteroid	"S746"
 	}
 }
 
-Asteroid	"S747"
+Asteroid	"Tion System S747"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -90036,7 +90036,7 @@ Asteroid	"S747"
 	}
 }
 
-Asteroid	"S748"
+Asteroid	"Tion System S748"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -90143,7 +90143,7 @@ Asteroid	"S748"
 	}
 }
 
-Asteroid	"S749"
+Asteroid	"Tion System S749"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -90250,7 +90250,7 @@ Asteroid	"S749"
 	}
 }
 
-Asteroid	"S750"
+Asteroid	"Tion System S750"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -90357,7 +90357,7 @@ Asteroid	"S750"
 	}
 }
 
-Asteroid	"S751"
+Asteroid	"Tion System S751"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -90464,7 +90464,7 @@ Asteroid	"S751"
 	}
 }
 
-Asteroid	"S752"
+Asteroid	"Tion System S752"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -90571,7 +90571,7 @@ Asteroid	"S752"
 	}
 }
 
-Asteroid	"S753"
+Asteroid	"Tion System S753"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -90678,7 +90678,7 @@ Asteroid	"S753"
 	}
 }
 
-Asteroid	"S754"
+Asteroid	"Tion System S754"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -90785,7 +90785,7 @@ Asteroid	"S754"
 	}
 }
 
-Asteroid	"S755"
+Asteroid	"Tion System S755"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -90892,7 +90892,7 @@ Asteroid	"S755"
 	}
 }
 
-Asteroid	"S756"
+Asteroid	"Tion System S756"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -90999,7 +90999,7 @@ Asteroid	"S756"
 	}
 }
 
-Asteroid	"S757"
+Asteroid	"Tion System S757"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -91106,7 +91106,7 @@ Asteroid	"S757"
 	}
 }
 
-Asteroid	"S758"
+Asteroid	"Tion System S758"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -91213,7 +91213,7 @@ Asteroid	"S758"
 	}
 }
 
-Asteroid	"S759"
+Asteroid	"Tion System S759"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -91320,7 +91320,7 @@ Asteroid	"S759"
 	}
 }
 
-Asteroid	"S760"
+Asteroid	"Tion System S760"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -91427,7 +91427,7 @@ Asteroid	"S760"
 	}
 }
 
-Asteroid	"S761"
+Asteroid	"Tion System S761"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -91534,7 +91534,7 @@ Asteroid	"S761"
 	}
 }
 
-Asteroid	"S762"
+Asteroid	"Tion System S762"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -91641,7 +91641,7 @@ Asteroid	"S762"
 	}
 }
 
-Asteroid	"S763"
+Asteroid	"Tion System S763"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -91748,7 +91748,7 @@ Asteroid	"S763"
 	}
 }
 
-Asteroid	"S764"
+Asteroid	"Tion System S764"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -91855,7 +91855,7 @@ Asteroid	"S764"
 	}
 }
 
-Asteroid	"S765"
+Asteroid	"Tion System S765"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -91962,7 +91962,7 @@ Asteroid	"S765"
 	}
 }
 
-Asteroid	"S766"
+Asteroid	"Tion System S766"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -92069,7 +92069,7 @@ Asteroid	"S766"
 	}
 }
 
-Asteroid	"S767"
+Asteroid	"Tion System S767"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -92176,7 +92176,7 @@ Asteroid	"S767"
 	}
 }
 
-Asteroid	"S768"
+Asteroid	"Tion System S768"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -92283,7 +92283,7 @@ Asteroid	"S768"
 	}
 }
 
-Asteroid	"S769"
+Asteroid	"Tion System S769"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -92390,7 +92390,7 @@ Asteroid	"S769"
 	}
 }
 
-Asteroid	"S770"
+Asteroid	"Tion System S770"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -92497,7 +92497,7 @@ Asteroid	"S770"
 	}
 }
 
-Asteroid	"S771"
+Asteroid	"Tion System S771"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -92604,7 +92604,7 @@ Asteroid	"S771"
 	}
 }
 
-Asteroid	"S772"
+Asteroid	"Tion System S772"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -92711,7 +92711,7 @@ Asteroid	"S772"
 	}
 }
 
-Asteroid	"S773"
+Asteroid	"Tion System S773"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -92818,7 +92818,7 @@ Asteroid	"S773"
 	}
 }
 
-Asteroid	"S774"
+Asteroid	"Tion System S774"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -92925,7 +92925,7 @@ Asteroid	"S774"
 	}
 }
 
-Asteroid	"S775"
+Asteroid	"Tion System S775"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -93032,7 +93032,7 @@ Asteroid	"S775"
 	}
 }
 
-Asteroid	"S776"
+Asteroid	"Tion System S776"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -93139,7 +93139,7 @@ Asteroid	"S776"
 	}
 }
 
-Asteroid	"S777"
+Asteroid	"Tion System S777"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -93246,7 +93246,7 @@ Asteroid	"S777"
 	}
 }
 
-Asteroid	"S778"
+Asteroid	"Tion System S778"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -93353,7 +93353,7 @@ Asteroid	"S778"
 	}
 }
 
-Asteroid	"S779"
+Asteroid	"Tion System S779"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -93460,7 +93460,7 @@ Asteroid	"S779"
 	}
 }
 
-Asteroid	"S780"
+Asteroid	"Tion System S780"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -93567,7 +93567,7 @@ Asteroid	"S780"
 	}
 }
 
-Asteroid	"S781"
+Asteroid	"Tion System S781"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -93674,7 +93674,7 @@ Asteroid	"S781"
 	}
 }
 
-Asteroid	"S782"
+Asteroid	"Tion System S782"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -93781,7 +93781,7 @@ Asteroid	"S782"
 	}
 }
 
-Asteroid	"S783"
+Asteroid	"Tion System S783"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -93888,7 +93888,7 @@ Asteroid	"S783"
 	}
 }
 
-Asteroid	"S784"
+Asteroid	"Tion System S784"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -93995,7 +93995,7 @@ Asteroid	"S784"
 	}
 }
 
-Asteroid	"S785"
+Asteroid	"Tion System S785"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -94102,7 +94102,7 @@ Asteroid	"S785"
 	}
 }
 
-Asteroid	"S786"
+Asteroid	"Tion System S786"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -94209,7 +94209,7 @@ Asteroid	"S786"
 	}
 }
 
-Asteroid	"S787"
+Asteroid	"Tion System S787"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -94316,7 +94316,7 @@ Asteroid	"S787"
 	}
 }
 
-Asteroid	"S788"
+Asteroid	"Tion System S788"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -94423,7 +94423,7 @@ Asteroid	"S788"
 	}
 }
 
-Asteroid	"S789"
+Asteroid	"Tion System S789"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -94530,7 +94530,7 @@ Asteroid	"S789"
 	}
 }
 
-Asteroid	"S790"
+Asteroid	"Tion System S790"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -94637,7 +94637,7 @@ Asteroid	"S790"
 	}
 }
 
-Asteroid	"S791"
+Asteroid	"Tion System S791"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -94744,7 +94744,7 @@ Asteroid	"S791"
 	}
 }
 
-Asteroid	"S792"
+Asteroid	"Tion System S792"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -94851,7 +94851,7 @@ Asteroid	"S792"
 	}
 }
 
-Asteroid	"S793"
+Asteroid	"Tion System S793"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -94958,7 +94958,7 @@ Asteroid	"S793"
 	}
 }
 
-Asteroid	"S794"
+Asteroid	"Tion System S794"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -95065,7 +95065,7 @@ Asteroid	"S794"
 	}
 }
 
-Asteroid	"S795"
+Asteroid	"Tion System S795"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -95172,7 +95172,7 @@ Asteroid	"S795"
 	}
 }
 
-Asteroid	"S796"
+Asteroid	"Tion System S796"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -95279,7 +95279,7 @@ Asteroid	"S796"
 	}
 }
 
-Asteroid	"S797"
+Asteroid	"Tion System S797"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -95386,7 +95386,7 @@ Asteroid	"S797"
 	}
 }
 
-Asteroid	"S798"
+Asteroid	"Tion System S798"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -95493,7 +95493,7 @@ Asteroid	"S798"
 	}
 }
 
-Asteroid	"S799"
+Asteroid	"Tion System S799"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -95600,7 +95600,7 @@ Asteroid	"S799"
 	}
 }
 
-Asteroid	"S800"
+Asteroid	"Tion System S800"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -95707,7 +95707,7 @@ Asteroid	"S800"
 	}
 }
 
-Asteroid	"S801"
+Asteroid	"Tion System S801"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -95814,7 +95814,7 @@ Asteroid	"S801"
 	}
 }
 
-Asteroid	"S802"
+Asteroid	"Tion System S802"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -95921,7 +95921,7 @@ Asteroid	"S802"
 	}
 }
 
-Asteroid	"S803"
+Asteroid	"Tion System S803"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -96028,7 +96028,7 @@ Asteroid	"S803"
 	}
 }
 
-Asteroid	"S804"
+Asteroid	"Tion System S804"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -96135,7 +96135,7 @@ Asteroid	"S804"
 	}
 }
 
-Asteroid	"S805"
+Asteroid	"Tion System S805"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -96242,7 +96242,7 @@ Asteroid	"S805"
 	}
 }
 
-Asteroid	"S806"
+Asteroid	"Tion System S806"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -96349,7 +96349,7 @@ Asteroid	"S806"
 	}
 }
 
-Asteroid	"S807"
+Asteroid	"Tion System S807"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -96456,7 +96456,7 @@ Asteroid	"S807"
 	}
 }
 
-Asteroid	"S808"
+Asteroid	"Tion System S808"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -96563,7 +96563,7 @@ Asteroid	"S808"
 	}
 }
 
-Asteroid	"S809"
+Asteroid	"Tion System S809"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -96670,7 +96670,7 @@ Asteroid	"S809"
 	}
 }
 
-Asteroid	"S810"
+Asteroid	"Tion System S810"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -96777,7 +96777,7 @@ Asteroid	"S810"
 	}
 }
 
-Asteroid	"S811"
+Asteroid	"Tion System S811"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -96884,7 +96884,7 @@ Asteroid	"S811"
 	}
 }
 
-Asteroid	"S812"
+Asteroid	"Tion System S812"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -96991,7 +96991,7 @@ Asteroid	"S812"
 	}
 }
 
-Asteroid	"S813"
+Asteroid	"Tion System S813"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -97098,7 +97098,7 @@ Asteroid	"S813"
 	}
 }
 
-Asteroid	"S814"
+Asteroid	"Tion System S814"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -97205,7 +97205,7 @@ Asteroid	"S814"
 	}
 }
 
-Asteroid	"S815"
+Asteroid	"Tion System S815"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -97312,7 +97312,7 @@ Asteroid	"S815"
 	}
 }
 
-Asteroid	"S816"
+Asteroid	"Tion System S816"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -97419,7 +97419,7 @@ Asteroid	"S816"
 	}
 }
 
-Asteroid	"S817"
+Asteroid	"Tion System S817"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -97526,7 +97526,7 @@ Asteroid	"S817"
 	}
 }
 
-Asteroid	"S818"
+Asteroid	"Tion System S818"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -97633,7 +97633,7 @@ Asteroid	"S818"
 	}
 }
 
-Asteroid	"S819"
+Asteroid	"Tion System S819"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -97740,7 +97740,7 @@ Asteroid	"S819"
 	}
 }
 
-Asteroid	"S820"
+Asteroid	"Tion System S820"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -97847,7 +97847,7 @@ Asteroid	"S820"
 	}
 }
 
-Asteroid	"S821"
+Asteroid	"Tion System S821"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -97954,7 +97954,7 @@ Asteroid	"S821"
 	}
 }
 
-Asteroid	"S822"
+Asteroid	"Tion System S822"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -98061,7 +98061,7 @@ Asteroid	"S822"
 	}
 }
 
-Asteroid	"S823"
+Asteroid	"Tion System S823"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -98168,7 +98168,7 @@ Asteroid	"S823"
 	}
 }
 
-Asteroid	"S824"
+Asteroid	"Tion System S824"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -98275,7 +98275,7 @@ Asteroid	"S824"
 	}
 }
 
-Asteroid	"S825"
+Asteroid	"Tion System S825"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -98382,7 +98382,7 @@ Asteroid	"S825"
 	}
 }
 
-Asteroid	"S826"
+Asteroid	"Tion System S826"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -98489,7 +98489,7 @@ Asteroid	"S826"
 	}
 }
 
-Asteroid	"S827"
+Asteroid	"Tion System S827"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -98596,7 +98596,7 @@ Asteroid	"S827"
 	}
 }
 
-Asteroid	"S828"
+Asteroid	"Tion System S828"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -98703,7 +98703,7 @@ Asteroid	"S828"
 	}
 }
 
-Asteroid	"S829"
+Asteroid	"Tion System S829"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -98810,7 +98810,7 @@ Asteroid	"S829"
 	}
 }
 
-Asteroid	"S830"
+Asteroid	"Tion System S830"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -98917,7 +98917,7 @@ Asteroid	"S830"
 	}
 }
 
-Asteroid	"S831"
+Asteroid	"Tion System S831"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -99024,7 +99024,7 @@ Asteroid	"S831"
 	}
 }
 
-Asteroid	"S832"
+Asteroid	"Tion System S832"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -99131,7 +99131,7 @@ Asteroid	"S832"
 	}
 }
 
-Asteroid	"S833"
+Asteroid	"Tion System S833"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -99238,7 +99238,7 @@ Asteroid	"S833"
 	}
 }
 
-Asteroid	"S834"
+Asteroid	"Tion System S834"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -99345,7 +99345,7 @@ Asteroid	"S834"
 	}
 }
 
-Asteroid	"S835"
+Asteroid	"Tion System S835"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -99452,7 +99452,7 @@ Asteroid	"S835"
 	}
 }
 
-Asteroid	"S836"
+Asteroid	"Tion System S836"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -99559,7 +99559,7 @@ Asteroid	"S836"
 	}
 }
 
-Asteroid	"S837"
+Asteroid	"Tion System S837"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -99666,7 +99666,7 @@ Asteroid	"S837"
 	}
 }
 
-Asteroid	"S838"
+Asteroid	"Tion System S838"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -99773,7 +99773,7 @@ Asteroid	"S838"
 	}
 }
 
-Asteroid	"S839"
+Asteroid	"Tion System S839"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -99880,7 +99880,7 @@ Asteroid	"S839"
 	}
 }
 
-Asteroid	"S840"
+Asteroid	"Tion System S840"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -99987,7 +99987,7 @@ Asteroid	"S840"
 	}
 }
 
-Asteroid	"S841"
+Asteroid	"Tion System S841"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -100094,7 +100094,7 @@ Asteroid	"S841"
 	}
 }
 
-Asteroid	"S842"
+Asteroid	"Tion System S842"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -100201,7 +100201,7 @@ Asteroid	"S842"
 	}
 }
 
-Asteroid	"S843"
+Asteroid	"Tion System S843"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -100308,7 +100308,7 @@ Asteroid	"S843"
 	}
 }
 
-Asteroid	"S844"
+Asteroid	"Tion System S844"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -100415,7 +100415,7 @@ Asteroid	"S844"
 	}
 }
 
-Asteroid	"S845"
+Asteroid	"Tion System S845"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -100522,7 +100522,7 @@ Asteroid	"S845"
 	}
 }
 
-Asteroid	"S846"
+Asteroid	"Tion System S846"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -100629,7 +100629,7 @@ Asteroid	"S846"
 	}
 }
 
-Asteroid	"S847"
+Asteroid	"Tion System S847"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -100736,7 +100736,7 @@ Asteroid	"S847"
 	}
 }
 
-Asteroid	"S848"
+Asteroid	"Tion System S848"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -100843,7 +100843,7 @@ Asteroid	"S848"
 	}
 }
 
-Asteroid	"S849"
+Asteroid	"Tion System S849"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -100950,7 +100950,7 @@ Asteroid	"S849"
 	}
 }
 
-Asteroid	"S850"
+Asteroid	"Tion System S850"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -101057,7 +101057,7 @@ Asteroid	"S850"
 	}
 }
 
-Asteroid	"S851"
+Asteroid	"Tion System S851"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -101164,7 +101164,7 @@ Asteroid	"S851"
 	}
 }
 
-Asteroid	"S852"
+Asteroid	"Tion System S852"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -101271,7 +101271,7 @@ Asteroid	"S852"
 	}
 }
 
-Asteroid	"S853"
+Asteroid	"Tion System S853"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -101378,7 +101378,7 @@ Asteroid	"S853"
 	}
 }
 
-Asteroid	"S854"
+Asteroid	"Tion System S854"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -101485,7 +101485,7 @@ Asteroid	"S854"
 	}
 }
 
-Asteroid	"S855"
+Asteroid	"Tion System S855"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -101592,7 +101592,7 @@ Asteroid	"S855"
 	}
 }
 
-Asteroid	"S856"
+Asteroid	"Tion System S856"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -101699,7 +101699,7 @@ Asteroid	"S856"
 	}
 }
 
-Asteroid	"S857"
+Asteroid	"Tion System S857"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -101806,7 +101806,7 @@ Asteroid	"S857"
 	}
 }
 
-Asteroid	"S858"
+Asteroid	"Tion System S858"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -101913,7 +101913,7 @@ Asteroid	"S858"
 	}
 }
 
-Asteroid	"S859"
+Asteroid	"Tion System S859"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -102020,7 +102020,7 @@ Asteroid	"S859"
 	}
 }
 
-Asteroid	"S860"
+Asteroid	"Tion System S860"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -102127,7 +102127,7 @@ Asteroid	"S860"
 	}
 }
 
-Asteroid	"S861"
+Asteroid	"Tion System S861"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -102234,7 +102234,7 @@ Asteroid	"S861"
 	}
 }
 
-Asteroid	"S862"
+Asteroid	"Tion System S862"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -102341,7 +102341,7 @@ Asteroid	"S862"
 	}
 }
 
-Asteroid	"S863"
+Asteroid	"Tion System S863"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -102448,7 +102448,7 @@ Asteroid	"S863"
 	}
 }
 
-Asteroid	"S864"
+Asteroid	"Tion System S864"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -102555,7 +102555,7 @@ Asteroid	"S864"
 	}
 }
 
-Asteroid	"S865"
+Asteroid	"Tion System S865"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -102662,7 +102662,7 @@ Asteroid	"S865"
 	}
 }
 
-Asteroid	"S866"
+Asteroid	"Tion System S866"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -102769,7 +102769,7 @@ Asteroid	"S866"
 	}
 }
 
-Asteroid	"S867"
+Asteroid	"Tion System S867"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -102876,7 +102876,7 @@ Asteroid	"S867"
 	}
 }
 
-Asteroid	"S868"
+Asteroid	"Tion System S868"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -102983,7 +102983,7 @@ Asteroid	"S868"
 	}
 }
 
-Asteroid	"S869"
+Asteroid	"Tion System S869"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -103090,7 +103090,7 @@ Asteroid	"S869"
 	}
 }
 
-Asteroid	"S870"
+Asteroid	"Tion System S870"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -103197,7 +103197,7 @@ Asteroid	"S870"
 	}
 }
 
-Asteroid	"S871"
+Asteroid	"Tion System S871"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -103304,7 +103304,7 @@ Asteroid	"S871"
 	}
 }
 
-Asteroid	"S872"
+Asteroid	"Tion System S872"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -103411,7 +103411,7 @@ Asteroid	"S872"
 	}
 }
 
-Asteroid	"S873"
+Asteroid	"Tion System S873"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -103518,7 +103518,7 @@ Asteroid	"S873"
 	}
 }
 
-Asteroid	"S874"
+Asteroid	"Tion System S874"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -103625,7 +103625,7 @@ Asteroid	"S874"
 	}
 }
 
-Asteroid	"S875"
+Asteroid	"Tion System S875"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -103732,7 +103732,7 @@ Asteroid	"S875"
 	}
 }
 
-Asteroid	"S876"
+Asteroid	"Tion System S876"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -103839,7 +103839,7 @@ Asteroid	"S876"
 	}
 }
 
-Asteroid	"S877"
+Asteroid	"Tion System S877"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -103946,7 +103946,7 @@ Asteroid	"S877"
 	}
 }
 
-Asteroid	"S878"
+Asteroid	"Tion System S878"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -104053,7 +104053,7 @@ Asteroid	"S878"
 	}
 }
 
-Asteroid	"S879"
+Asteroid	"Tion System S879"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -104160,7 +104160,7 @@ Asteroid	"S879"
 	}
 }
 
-Asteroid	"S880"
+Asteroid	"Tion System S880"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -104267,7 +104267,7 @@ Asteroid	"S880"
 	}
 }
 
-Asteroid	"S881"
+Asteroid	"Tion System S881"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -104374,7 +104374,7 @@ Asteroid	"S881"
 	}
 }
 
-Asteroid	"S882"
+Asteroid	"Tion System S882"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -104481,7 +104481,7 @@ Asteroid	"S882"
 	}
 }
 
-Asteroid	"S883"
+Asteroid	"Tion System S883"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -104588,7 +104588,7 @@ Asteroid	"S883"
 	}
 }
 
-Asteroid	"S884"
+Asteroid	"Tion System S884"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -104695,7 +104695,7 @@ Asteroid	"S884"
 	}
 }
 
-Asteroid	"S885"
+Asteroid	"Tion System S885"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -104802,7 +104802,7 @@ Asteroid	"S885"
 	}
 }
 
-Asteroid	"S886"
+Asteroid	"Tion System S886"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -104909,7 +104909,7 @@ Asteroid	"S886"
 	}
 }
 
-Asteroid	"S887"
+Asteroid	"Tion System S887"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -105016,7 +105016,7 @@ Asteroid	"S887"
 	}
 }
 
-Asteroid	"S888"
+Asteroid	"Tion System S888"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -105123,7 +105123,7 @@ Asteroid	"S888"
 	}
 }
 
-Asteroid	"S889"
+Asteroid	"Tion System S889"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -105230,7 +105230,7 @@ Asteroid	"S889"
 	}
 }
 
-Asteroid	"S890"
+Asteroid	"Tion System S890"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -105337,7 +105337,7 @@ Asteroid	"S890"
 	}
 }
 
-Asteroid	"S891"
+Asteroid	"Tion System S891"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -105444,7 +105444,7 @@ Asteroid	"S891"
 	}
 }
 
-Asteroid	"S892"
+Asteroid	"Tion System S892"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -105551,7 +105551,7 @@ Asteroid	"S892"
 	}
 }
 
-Asteroid	"S893"
+Asteroid	"Tion System S893"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -105658,7 +105658,7 @@ Asteroid	"S893"
 	}
 }
 
-Asteroid	"S894"
+Asteroid	"Tion System S894"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -105765,7 +105765,7 @@ Asteroid	"S894"
 	}
 }
 
-Asteroid	"S895"
+Asteroid	"Tion System S895"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -105872,7 +105872,7 @@ Asteroid	"S895"
 	}
 }
 
-Asteroid	"S896"
+Asteroid	"Tion System S896"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -105979,7 +105979,7 @@ Asteroid	"S896"
 	}
 }
 
-Asteroid	"S897"
+Asteroid	"Tion System S897"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -106086,7 +106086,7 @@ Asteroid	"S897"
 	}
 }
 
-Asteroid	"S898"
+Asteroid	"Tion System S898"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -106193,7 +106193,7 @@ Asteroid	"S898"
 	}
 }
 
-Asteroid	"S899"
+Asteroid	"Tion System S899"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -106300,7 +106300,7 @@ Asteroid	"S899"
 	}
 }
 
-Asteroid	"S900"
+Asteroid	"Tion System S900"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -106407,7 +106407,7 @@ Asteroid	"S900"
 	}
 }
 
-Asteroid	"S901"
+Asteroid	"Tion System S901"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -106514,7 +106514,7 @@ Asteroid	"S901"
 	}
 }
 
-Asteroid	"S902"
+Asteroid	"Tion System S902"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -106621,7 +106621,7 @@ Asteroid	"S902"
 	}
 }
 
-Asteroid	"S903"
+Asteroid	"Tion System S903"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -106728,7 +106728,7 @@ Asteroid	"S903"
 	}
 }
 
-Asteroid	"S904"
+Asteroid	"Tion System S904"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -106835,7 +106835,7 @@ Asteroid	"S904"
 	}
 }
 
-Asteroid	"S905"
+Asteroid	"Tion System S905"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -106942,7 +106942,7 @@ Asteroid	"S905"
 	}
 }
 
-Asteroid	"S906"
+Asteroid	"Tion System S906"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -107049,7 +107049,7 @@ Asteroid	"S906"
 	}
 }
 
-Asteroid	"S907"
+Asteroid	"Tion System S907"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -107156,7 +107156,7 @@ Asteroid	"S907"
 	}
 }
 
-Asteroid	"S908"
+Asteroid	"Tion System S908"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -107263,7 +107263,7 @@ Asteroid	"S908"
 	}
 }
 
-Asteroid	"S909"
+Asteroid	"Tion System S909"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -107370,7 +107370,7 @@ Asteroid	"S909"
 	}
 }
 
-Asteroid	"S910"
+Asteroid	"Tion System S910"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -107477,7 +107477,7 @@ Asteroid	"S910"
 	}
 }
 
-Asteroid	"S911"
+Asteroid	"Tion System S911"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -107584,7 +107584,7 @@ Asteroid	"S911"
 	}
 }
 
-Asteroid	"S912"
+Asteroid	"Tion System S912"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -107691,7 +107691,7 @@ Asteroid	"S912"
 	}
 }
 
-Asteroid	"S913"
+Asteroid	"Tion System S913"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -107798,7 +107798,7 @@ Asteroid	"S913"
 	}
 }
 
-Asteroid	"S914"
+Asteroid	"Tion System S914"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -107905,7 +107905,7 @@ Asteroid	"S914"
 	}
 }
 
-Asteroid	"S915"
+Asteroid	"Tion System S915"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -108012,7 +108012,7 @@ Asteroid	"S915"
 	}
 }
 
-Asteroid	"S916"
+Asteroid	"Tion System S916"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -108119,7 +108119,7 @@ Asteroid	"S916"
 	}
 }
 
-Asteroid	"S917"
+Asteroid	"Tion System S917"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -108226,7 +108226,7 @@ Asteroid	"S917"
 	}
 }
 
-Asteroid	"S918"
+Asteroid	"Tion System S918"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -108333,7 +108333,7 @@ Asteroid	"S918"
 	}
 }
 
-Asteroid	"S919"
+Asteroid	"Tion System S919"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -108440,7 +108440,7 @@ Asteroid	"S919"
 	}
 }
 
-Asteroid	"S920"
+Asteroid	"Tion System S920"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -108547,7 +108547,7 @@ Asteroid	"S920"
 	}
 }
 
-Asteroid	"S921"
+Asteroid	"Tion System S921"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -108654,7 +108654,7 @@ Asteroid	"S921"
 	}
 }
 
-Asteroid	"S922"
+Asteroid	"Tion System S922"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -108761,7 +108761,7 @@ Asteroid	"S922"
 	}
 }
 
-Asteroid	"S923"
+Asteroid	"Tion System S923"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -108868,7 +108868,7 @@ Asteroid	"S923"
 	}
 }
 
-Asteroid	"S924"
+Asteroid	"Tion System S924"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -108975,7 +108975,7 @@ Asteroid	"S924"
 	}
 }
 
-Asteroid	"S925"
+Asteroid	"Tion System S925"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -109082,7 +109082,7 @@ Asteroid	"S925"
 	}
 }
 
-Asteroid	"S926"
+Asteroid	"Tion System S926"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -109189,7 +109189,7 @@ Asteroid	"S926"
 	}
 }
 
-Asteroid	"S927"
+Asteroid	"Tion System S927"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -109296,7 +109296,7 @@ Asteroid	"S927"
 	}
 }
 
-Asteroid	"S928"
+Asteroid	"Tion System S928"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -109403,7 +109403,7 @@ Asteroid	"S928"
 	}
 }
 
-Asteroid	"S929"
+Asteroid	"Tion System S929"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -109510,7 +109510,7 @@ Asteroid	"S929"
 	}
 }
 
-Asteroid	"S930"
+Asteroid	"Tion System S930"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -109617,7 +109617,7 @@ Asteroid	"S930"
 	}
 }
 
-Asteroid	"S931"
+Asteroid	"Tion System S931"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -109724,7 +109724,7 @@ Asteroid	"S931"
 	}
 }
 
-Asteroid	"S932"
+Asteroid	"Tion System S932"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -109831,7 +109831,7 @@ Asteroid	"S932"
 	}
 }
 
-Asteroid	"S933"
+Asteroid	"Tion System S933"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -109938,7 +109938,7 @@ Asteroid	"S933"
 	}
 }
 
-Asteroid	"S934"
+Asteroid	"Tion System S934"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -110045,7 +110045,7 @@ Asteroid	"S934"
 	}
 }
 
-Asteroid	"S935"
+Asteroid	"Tion System S935"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -110152,7 +110152,7 @@ Asteroid	"S935"
 	}
 }
 
-Asteroid	"S936"
+Asteroid	"Tion System S936"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -110259,7 +110259,7 @@ Asteroid	"S936"
 	}
 }
 
-Asteroid	"S937"
+Asteroid	"Tion System S937"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -110366,7 +110366,7 @@ Asteroid	"S937"
 	}
 }
 
-Asteroid	"S938"
+Asteroid	"Tion System S938"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -110473,7 +110473,7 @@ Asteroid	"S938"
 	}
 }
 
-Asteroid	"S939"
+Asteroid	"Tion System S939"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -110580,7 +110580,7 @@ Asteroid	"S939"
 	}
 }
 
-Asteroid	"S940"
+Asteroid	"Tion System S940"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -110687,7 +110687,7 @@ Asteroid	"S940"
 	}
 }
 
-Asteroid	"S941"
+Asteroid	"Tion System S941"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -110794,7 +110794,7 @@ Asteroid	"S941"
 	}
 }
 
-Asteroid	"S942"
+Asteroid	"Tion System S942"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -110901,7 +110901,7 @@ Asteroid	"S942"
 	}
 }
 
-Asteroid	"S943"
+Asteroid	"Tion System S943"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -111008,7 +111008,7 @@ Asteroid	"S943"
 	}
 }
 
-Asteroid	"S944"
+Asteroid	"Tion System S944"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -111115,7 +111115,7 @@ Asteroid	"S944"
 	}
 }
 
-Asteroid	"S945"
+Asteroid	"Tion System S945"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -111222,7 +111222,7 @@ Asteroid	"S945"
 	}
 }
 
-Asteroid	"S946"
+Asteroid	"Tion System S946"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -111329,7 +111329,7 @@ Asteroid	"S946"
 	}
 }
 
-Asteroid	"S947"
+Asteroid	"Tion System S947"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -111436,7 +111436,7 @@ Asteroid	"S947"
 	}
 }
 
-Asteroid	"S948"
+Asteroid	"Tion System S948"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -111543,7 +111543,7 @@ Asteroid	"S948"
 	}
 }
 
-Asteroid	"S949"
+Asteroid	"Tion System S949"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -111650,7 +111650,7 @@ Asteroid	"S949"
 	}
 }
 
-Asteroid	"S950"
+Asteroid	"Tion System S950"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -111757,7 +111757,7 @@ Asteroid	"S950"
 	}
 }
 
-Asteroid	"S951"
+Asteroid	"Tion System S951"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -111864,7 +111864,7 @@ Asteroid	"S951"
 	}
 }
 
-Asteroid	"S952"
+Asteroid	"Tion System S952"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -111971,7 +111971,7 @@ Asteroid	"S952"
 	}
 }
 
-Asteroid	"S953"
+Asteroid	"Tion System S953"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -112078,7 +112078,7 @@ Asteroid	"S953"
 	}
 }
 
-Asteroid	"S954"
+Asteroid	"Tion System S954"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -112185,7 +112185,7 @@ Asteroid	"S954"
 	}
 }
 
-Asteroid	"S955"
+Asteroid	"Tion System S955"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -112292,7 +112292,7 @@ Asteroid	"S955"
 	}
 }
 
-Asteroid	"S956"
+Asteroid	"Tion System S956"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -112399,7 +112399,7 @@ Asteroid	"S956"
 	}
 }
 
-Asteroid	"S957"
+Asteroid	"Tion System S957"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -112506,7 +112506,7 @@ Asteroid	"S957"
 	}
 }
 
-Asteroid	"S958"
+Asteroid	"Tion System S958"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -112613,7 +112613,7 @@ Asteroid	"S958"
 	}
 }
 
-Asteroid	"S959"
+Asteroid	"Tion System S959"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -112720,7 +112720,7 @@ Asteroid	"S959"
 	}
 }
 
-Asteroid	"S960"
+Asteroid	"Tion System S960"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -112827,7 +112827,7 @@ Asteroid	"S960"
 	}
 }
 
-Asteroid	"S961"
+Asteroid	"Tion System S961"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -112934,7 +112934,7 @@ Asteroid	"S961"
 	}
 }
 
-Asteroid	"S962"
+Asteroid	"Tion System S962"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -113041,7 +113041,7 @@ Asteroid	"S962"
 	}
 }
 
-Asteroid	"S963"
+Asteroid	"Tion System S963"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -113148,7 +113148,7 @@ Asteroid	"S963"
 	}
 }
 
-Asteroid	"S964"
+Asteroid	"Tion System S964"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -113255,7 +113255,7 @@ Asteroid	"S964"
 	}
 }
 
-Asteroid	"S965"
+Asteroid	"Tion System S965"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -113362,7 +113362,7 @@ Asteroid	"S965"
 	}
 }
 
-Asteroid	"S966"
+Asteroid	"Tion System S966"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -113469,7 +113469,7 @@ Asteroid	"S966"
 	}
 }
 
-Asteroid	"S967"
+Asteroid	"Tion System S967"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -113576,7 +113576,7 @@ Asteroid	"S967"
 	}
 }
 
-Asteroid	"S968"
+Asteroid	"Tion System S968"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -113683,7 +113683,7 @@ Asteroid	"S968"
 	}
 }
 
-Asteroid	"S969"
+Asteroid	"Tion System S969"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -113790,7 +113790,7 @@ Asteroid	"S969"
 	}
 }
 
-Asteroid	"S970"
+Asteroid	"Tion System S970"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -113897,7 +113897,7 @@ Asteroid	"S970"
 	}
 }
 
-Asteroid	"S971"
+Asteroid	"Tion System S971"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -114004,7 +114004,7 @@ Asteroid	"S971"
 	}
 }
 
-Asteroid	"S972"
+Asteroid	"Tion System S972"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -114111,7 +114111,7 @@ Asteroid	"S972"
 	}
 }
 
-Asteroid	"S973"
+Asteroid	"Tion System S973"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -114218,7 +114218,7 @@ Asteroid	"S973"
 	}
 }
 
-Asteroid	"S974"
+Asteroid	"Tion System S974"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -114325,7 +114325,7 @@ Asteroid	"S974"
 	}
 }
 
-Asteroid	"S975"
+Asteroid	"Tion System S975"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -114432,7 +114432,7 @@ Asteroid	"S975"
 	}
 }
 
-Asteroid	"S976"
+Asteroid	"Tion System S976"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -114539,7 +114539,7 @@ Asteroid	"S976"
 	}
 }
 
-Asteroid	"S977"
+Asteroid	"Tion System S977"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -114646,7 +114646,7 @@ Asteroid	"S977"
 	}
 }
 
-Asteroid	"S978"
+Asteroid	"Tion System S978"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -114753,7 +114753,7 @@ Asteroid	"S978"
 	}
 }
 
-Asteroid	"S979"
+Asteroid	"Tion System S979"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -114860,7 +114860,7 @@ Asteroid	"S979"
 	}
 }
 
-Asteroid	"S980"
+Asteroid	"Tion System S980"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -114967,7 +114967,7 @@ Asteroid	"S980"
 	}
 }
 
-Asteroid	"S981"
+Asteroid	"Tion System S981"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -115074,7 +115074,7 @@ Asteroid	"S981"
 	}
 }
 
-Asteroid	"S982"
+Asteroid	"Tion System S982"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -115181,7 +115181,7 @@ Asteroid	"S982"
 	}
 }
 
-Asteroid	"S983"
+Asteroid	"Tion System S983"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -115288,7 +115288,7 @@ Asteroid	"S983"
 	}
 }
 
-Asteroid	"S984"
+Asteroid	"Tion System S984"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -115395,7 +115395,7 @@ Asteroid	"S984"
 	}
 }
 
-Asteroid	"S985"
+Asteroid	"Tion System S985"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -115502,7 +115502,7 @@ Asteroid	"S985"
 	}
 }
 
-Asteroid	"S986"
+Asteroid	"Tion System S986"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -115609,7 +115609,7 @@ Asteroid	"S986"
 	}
 }
 
-Asteroid	"S987"
+Asteroid	"Tion System S987"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -115716,7 +115716,7 @@ Asteroid	"S987"
 	}
 }
 
-Asteroid	"S988"
+Asteroid	"Tion System S988"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -115823,7 +115823,7 @@ Asteroid	"S988"
 	}
 }
 
-Asteroid	"S989"
+Asteroid	"Tion System S989"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -115930,7 +115930,7 @@ Asteroid	"S989"
 	}
 }
 
-Asteroid	"S990"
+Asteroid	"Tion System S990"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -116037,7 +116037,7 @@ Asteroid	"S990"
 	}
 }
 
-Asteroid	"S991"
+Asteroid	"Tion System S991"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -116144,7 +116144,7 @@ Asteroid	"S991"
 	}
 }
 
-Asteroid	"S992"
+Asteroid	"Tion System S992"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -116251,7 +116251,7 @@ Asteroid	"S992"
 	}
 }
 
-Asteroid	"S993"
+Asteroid	"Tion System S993"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -116358,7 +116358,7 @@ Asteroid	"S993"
 	}
 }
 
-Asteroid	"S994"
+Asteroid	"Tion System S994"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -116465,7 +116465,7 @@ Asteroid	"S994"
 	}
 }
 
-Asteroid	"S995"
+Asteroid	"Tion System S995"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -116572,7 +116572,7 @@ Asteroid	"S995"
 	}
 }
 
-Asteroid	"S996"
+Asteroid	"Tion System S996"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -116679,7 +116679,7 @@ Asteroid	"S996"
 	}
 }
 
-Asteroid	"S997"
+Asteroid	"Tion System S997"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -116786,7 +116786,7 @@ Asteroid	"S997"
 	}
 }
 
-Asteroid	"S998"
+Asteroid	"Tion System S998"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -116893,7 +116893,7 @@ Asteroid	"S998"
 	}
 }
 
-Asteroid	"S999"
+Asteroid	"Tion System S999"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -117000,7 +117000,7 @@ Asteroid	"S999"
 	}
 }
 
-Asteroid	"S1000"
+Asteroid	"Tion System S1000"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -117107,7 +117107,7 @@ Asteroid	"S1000"
 	}
 }
 
-Comet	"C1"
+Comet	"Tion System C1"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -117227,7 +117227,7 @@ Comet	"C1"
 	}
 }
 
-Comet	"C2"
+Comet	"Tion System C2"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -117347,7 +117347,7 @@ Comet	"C2"
 	}
 }
 
-Comet	"C3"
+Comet	"Tion System C3"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -117467,7 +117467,7 @@ Comet	"C3"
 	}
 }
 
-Comet	"C4"
+Comet	"Tion System C4"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -117587,7 +117587,7 @@ Comet	"C4"
 	}
 }
 
-Comet	"C5"
+Comet	"Tion System C5"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -117707,7 +117707,7 @@ Comet	"C5"
 	}
 }
 
-Comet	"C6"
+Comet	"Tion System C6"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -117827,7 +117827,7 @@ Comet	"C6"
 	}
 }
 
-Comet	"C7"
+Comet	"Tion System C7"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -117947,7 +117947,7 @@ Comet	"C7"
 	}
 }
 
-Comet	"C8"
+Comet	"Tion System C8"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -118067,7 +118067,7 @@ Comet	"C8"
 	}
 }
 
-Comet	"C9"
+Comet	"Tion System C9"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -118187,7 +118187,7 @@ Comet	"C9"
 	}
 }
 
-Comet	"C10"
+Comet	"Tion System C10"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -118307,7 +118307,7 @@ Comet	"C10"
 	}
 }
 
-Comet	"C11"
+Comet	"Tion System C11"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -118427,7 +118427,7 @@ Comet	"C11"
 	}
 }
 
-Comet	"C12"
+Comet	"Tion System C12"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -118547,7 +118547,7 @@ Comet	"C12"
 	}
 }
 
-Comet	"C13"
+Comet	"Tion System C13"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -118667,7 +118667,7 @@ Comet	"C13"
 	}
 }
 
-Comet	"C14"
+Comet	"Tion System C14"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -118787,7 +118787,7 @@ Comet	"C14"
 	}
 }
 
-Comet	"C15"
+Comet	"Tion System C15"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -118907,7 +118907,7 @@ Comet	"C15"
 	}
 }
 
-Comet	"C16"
+Comet	"Tion System C16"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -119027,7 +119027,7 @@ Comet	"C16"
 	}
 }
 
-Comet	"C17"
+Comet	"Tion System C17"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -119147,7 +119147,7 @@ Comet	"C17"
 	}
 }
 
-Comet	"C18"
+Comet	"Tion System C18"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -119267,7 +119267,7 @@ Comet	"C18"
 	}
 }
 
-Comet	"C19"
+Comet	"Tion System C19"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -119387,7 +119387,7 @@ Comet	"C19"
 	}
 }
 
-Comet	"C20"
+Comet	"Tion System C20"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -119507,7 +119507,7 @@ Comet	"C20"
 	}
 }
 
-Comet	"C21"
+Comet	"Tion System C21"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -119627,7 +119627,7 @@ Comet	"C21"
 	}
 }
 
-Comet	"C22"
+Comet	"Tion System C22"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -119747,7 +119747,7 @@ Comet	"C22"
 	}
 }
 
-Comet	"C23"
+Comet	"Tion System C23"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -119867,7 +119867,7 @@ Comet	"C23"
 	}
 }
 
-Comet	"C24"
+Comet	"Tion System C24"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -119987,7 +119987,7 @@ Comet	"C24"
 	}
 }
 
-Comet	"C25"
+Comet	"Tion System C25"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -120107,7 +120107,7 @@ Comet	"C25"
 	}
 }
 
-Comet	"C26"
+Comet	"Tion System C26"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -120227,7 +120227,7 @@ Comet	"C26"
 	}
 }
 
-Comet	"C27"
+Comet	"Tion System C27"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -120347,7 +120347,7 @@ Comet	"C27"
 	}
 }
 
-Comet	"C28"
+Comet	"Tion System C28"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -120467,7 +120467,7 @@ Comet	"C28"
 	}
 }
 
-Comet	"C29"
+Comet	"Tion System C29"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -120587,7 +120587,7 @@ Comet	"C29"
 	}
 }
 
-Comet	"C30"
+Comet	"Tion System C30"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -120707,7 +120707,7 @@ Comet	"C30"
 	}
 }
 
-Comet	"C31"
+Comet	"Tion System C31"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -120827,7 +120827,7 @@ Comet	"C31"
 	}
 }
 
-Comet	"C32"
+Comet	"Tion System C32"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -120947,7 +120947,7 @@ Comet	"C32"
 	}
 }
 
-Comet	"C33"
+Comet	"Tion System C33"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -121067,7 +121067,7 @@ Comet	"C33"
 	}
 }
 
-Comet	"C34"
+Comet	"Tion System C34"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -121187,7 +121187,7 @@ Comet	"C34"
 	}
 }
 
-Comet	"C35"
+Comet	"Tion System C35"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -121307,7 +121307,7 @@ Comet	"C35"
 	}
 }
 
-Comet	"C36"
+Comet	"Tion System C36"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -121427,7 +121427,7 @@ Comet	"C36"
 	}
 }
 
-Comet	"C37"
+Comet	"Tion System C37"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -121547,7 +121547,7 @@ Comet	"C37"
 	}
 }
 
-Comet	"C38"
+Comet	"Tion System C38"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -121667,7 +121667,7 @@ Comet	"C38"
 	}
 }
 
-Comet	"C39"
+Comet	"Tion System C39"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -121787,7 +121787,7 @@ Comet	"C39"
 	}
 }
 
-Comet	"C40"
+Comet	"Tion System C40"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -121907,7 +121907,7 @@ Comet	"C40"
 	}
 }
 
-Comet	"C41"
+Comet	"Tion System C41"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -122027,7 +122027,7 @@ Comet	"C41"
 	}
 }
 
-Comet	"C42"
+Comet	"Tion System C42"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -122147,7 +122147,7 @@ Comet	"C42"
 	}
 }
 
-Comet	"C43"
+Comet	"Tion System C43"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -122267,7 +122267,7 @@ Comet	"C43"
 	}
 }
 
-Comet	"C44"
+Comet	"Tion System C44"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -122387,7 +122387,7 @@ Comet	"C44"
 	}
 }
 
-Comet	"C45"
+Comet	"Tion System C45"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -122507,7 +122507,7 @@ Comet	"C45"
 	}
 }
 
-Comet	"C46"
+Comet	"Tion System C46"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -122627,7 +122627,7 @@ Comet	"C46"
 	}
 }
 
-Comet	"C47"
+Comet	"Tion System C47"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -122747,7 +122747,7 @@ Comet	"C47"
 	}
 }
 
-Comet	"C48"
+Comet	"Tion System C48"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -122867,7 +122867,7 @@ Comet	"C48"
 	}
 }
 
-Comet	"C49"
+Comet	"Tion System C49"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -122987,7 +122987,7 @@ Comet	"C49"
 	}
 }
 
-Comet	"C50"
+Comet	"Tion System C50"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -123107,7 +123107,7 @@ Comet	"C50"
 	}
 }
 
-Comet	"C51"
+Comet	"Tion System C51"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -123227,7 +123227,7 @@ Comet	"C51"
 	}
 }
 
-Comet	"C52"
+Comet	"Tion System C52"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -123347,7 +123347,7 @@ Comet	"C52"
 	}
 }
 
-Comet	"C53"
+Comet	"Tion System C53"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -123467,7 +123467,7 @@ Comet	"C53"
 	}
 }
 
-Comet	"C54"
+Comet	"Tion System C54"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -123587,7 +123587,7 @@ Comet	"C54"
 	}
 }
 
-Comet	"C55"
+Comet	"Tion System C55"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -123707,7 +123707,7 @@ Comet	"C55"
 	}
 }
 
-Comet	"C56"
+Comet	"Tion System C56"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -123827,7 +123827,7 @@ Comet	"C56"
 	}
 }
 
-Comet	"C57"
+Comet	"Tion System C57"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -123947,7 +123947,7 @@ Comet	"C57"
 	}
 }
 
-Comet	"C58"
+Comet	"Tion System C58"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -124067,7 +124067,7 @@ Comet	"C58"
 	}
 }
 
-Comet	"C59"
+Comet	"Tion System C59"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -124187,7 +124187,7 @@ Comet	"C59"
 	}
 }
 
-Comet	"C60"
+Comet	"Tion System C60"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -124307,7 +124307,7 @@ Comet	"C60"
 	}
 }
 
-Comet	"C61"
+Comet	"Tion System C61"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -124427,7 +124427,7 @@ Comet	"C61"
 	}
 }
 
-Comet	"C62"
+Comet	"Tion System C62"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -124547,7 +124547,7 @@ Comet	"C62"
 	}
 }
 
-Comet	"C63"
+Comet	"Tion System C63"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -124667,7 +124667,7 @@ Comet	"C63"
 	}
 }
 
-Comet	"C64"
+Comet	"Tion System C64"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -124787,7 +124787,7 @@ Comet	"C64"
 	}
 }
 
-Comet	"C65"
+Comet	"Tion System C65"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -124907,7 +124907,7 @@ Comet	"C65"
 	}
 }
 
-Comet	"C66"
+Comet	"Tion System C66"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -125027,7 +125027,7 @@ Comet	"C66"
 	}
 }
 
-Comet	"C67"
+Comet	"Tion System C67"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -125147,7 +125147,7 @@ Comet	"C67"
 	}
 }
 
-Comet	"C68"
+Comet	"Tion System C68"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -125267,7 +125267,7 @@ Comet	"C68"
 	}
 }
 
-Comet	"C69"
+Comet	"Tion System C69"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -125387,7 +125387,7 @@ Comet	"C69"
 	}
 }
 
-Comet	"C70"
+Comet	"Tion System C70"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -125507,7 +125507,7 @@ Comet	"C70"
 	}
 }
 
-Comet	"C71"
+Comet	"Tion System C71"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -125627,7 +125627,7 @@ Comet	"C71"
 	}
 }
 
-Comet	"C72"
+Comet	"Tion System C72"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -125747,7 +125747,7 @@ Comet	"C72"
 	}
 }
 
-Comet	"C73"
+Comet	"Tion System C73"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -125867,7 +125867,7 @@ Comet	"C73"
 	}
 }
 
-Comet	"C74"
+Comet	"Tion System C74"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -125987,7 +125987,7 @@ Comet	"C74"
 	}
 }
 
-Comet	"C75"
+Comet	"Tion System C75"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -126107,7 +126107,7 @@ Comet	"C75"
 	}
 }
 
-Comet	"C76"
+Comet	"Tion System C76"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -126227,7 +126227,7 @@ Comet	"C76"
 	}
 }
 
-Comet	"C77"
+Comet	"Tion System C77"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -126347,7 +126347,7 @@ Comet	"C77"
 	}
 }
 
-Comet	"C78"
+Comet	"Tion System C78"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -126467,7 +126467,7 @@ Comet	"C78"
 	}
 }
 
-Comet	"C79"
+Comet	"Tion System C79"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -126587,7 +126587,7 @@ Comet	"C79"
 	}
 }
 
-Comet	"C80"
+Comet	"Tion System C80"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -126707,7 +126707,7 @@ Comet	"C80"
 	}
 }
 
-Comet	"C81"
+Comet	"Tion System C81"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -126827,7 +126827,7 @@ Comet	"C81"
 	}
 }
 
-Comet	"C82"
+Comet	"Tion System C82"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -126947,7 +126947,7 @@ Comet	"C82"
 	}
 }
 
-Comet	"C83"
+Comet	"Tion System C83"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -127067,7 +127067,7 @@ Comet	"C83"
 	}
 }
 
-Comet	"C84"
+Comet	"Tion System C84"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -127187,7 +127187,7 @@ Comet	"C84"
 	}
 }
 
-Comet	"C85"
+Comet	"Tion System C85"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -127307,7 +127307,7 @@ Comet	"C85"
 	}
 }
 
-Comet	"C86"
+Comet	"Tion System C86"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -127427,7 +127427,7 @@ Comet	"C86"
 	}
 }
 
-Comet	"C87"
+Comet	"Tion System C87"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -127547,7 +127547,7 @@ Comet	"C87"
 	}
 }
 
-Comet	"C88"
+Comet	"Tion System C88"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -127667,7 +127667,7 @@ Comet	"C88"
 	}
 }
 
-Comet	"C89"
+Comet	"Tion System C89"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -127787,7 +127787,7 @@ Comet	"C89"
 	}
 }
 
-Comet	"C90"
+Comet	"Tion System C90"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -127907,7 +127907,7 @@ Comet	"C90"
 	}
 }
 
-Comet	"C91"
+Comet	"Tion System C91"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -128027,7 +128027,7 @@ Comet	"C91"
 	}
 }
 
-Comet	"C92"
+Comet	"Tion System C92"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -128147,7 +128147,7 @@ Comet	"C92"
 	}
 }
 
-Comet	"C93"
+Comet	"Tion System C93"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -128267,7 +128267,7 @@ Comet	"C93"
 	}
 }
 
-Comet	"C94"
+Comet	"Tion System C94"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -128387,7 +128387,7 @@ Comet	"C94"
 	}
 }
 
-Comet	"C95"
+Comet	"Tion System C95"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -128507,7 +128507,7 @@ Comet	"C95"
 	}
 }
 
-Comet	"C96"
+Comet	"Tion System C96"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -128627,7 +128627,7 @@ Comet	"C96"
 	}
 }
 
-Comet	"C97"
+Comet	"Tion System C97"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -128747,7 +128747,7 @@ Comet	"C97"
 	}
 }
 
-Comet	"C98"
+Comet	"Tion System C98"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -128867,7 +128867,7 @@ Comet	"C98"
 	}
 }
 
-Comet	"C99"
+Comet	"Tion System C99"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -128987,7 +128987,7 @@ Comet	"C99"
 	}
 }
 
-Comet	"C100"
+Comet	"Tion System C100"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -129107,7 +129107,7 @@ Comet	"C100"
 	}
 }
 
-Comet	"C101"
+Comet	"Tion System C101"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -129227,7 +129227,7 @@ Comet	"C101"
 	}
 }
 
-Comet	"C102"
+Comet	"Tion System C102"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -129347,7 +129347,7 @@ Comet	"C102"
 	}
 }
 
-Comet	"C103"
+Comet	"Tion System C103"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -129467,7 +129467,7 @@ Comet	"C103"
 	}
 }
 
-Comet	"C104"
+Comet	"Tion System C104"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -129587,7 +129587,7 @@ Comet	"C104"
 	}
 }
 
-Comet	"C105"
+Comet	"Tion System C105"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -129707,7 +129707,7 @@ Comet	"C105"
 	}
 }
 
-Comet	"C106"
+Comet	"Tion System C106"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -129827,7 +129827,7 @@ Comet	"C106"
 	}
 }
 
-Comet	"C107"
+Comet	"Tion System C107"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -129947,7 +129947,7 @@ Comet	"C107"
 	}
 }
 
-Comet	"C108"
+Comet	"Tion System C108"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -130067,7 +130067,7 @@ Comet	"C108"
 	}
 }
 
-Comet	"C109"
+Comet	"Tion System C109"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -130187,7 +130187,7 @@ Comet	"C109"
 	}
 }
 
-Comet	"C110"
+Comet	"Tion System C110"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -130307,7 +130307,7 @@ Comet	"C110"
 	}
 }
 
-Comet	"C111"
+Comet	"Tion System C111"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -130427,7 +130427,7 @@ Comet	"C111"
 	}
 }
 
-Comet	"C112"
+Comet	"Tion System C112"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -130547,7 +130547,7 @@ Comet	"C112"
 	}
 }
 
-Comet	"C113"
+Comet	"Tion System C113"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -130667,7 +130667,7 @@ Comet	"C113"
 	}
 }
 
-Comet	"C114"
+Comet	"Tion System C114"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -130787,7 +130787,7 @@ Comet	"C114"
 	}
 }
 
-Comet	"C115"
+Comet	"Tion System C115"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -130907,7 +130907,7 @@ Comet	"C115"
 	}
 }
 
-Comet	"C116"
+Comet	"Tion System C116"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -131027,7 +131027,7 @@ Comet	"C116"
 	}
 }
 
-Comet	"C117"
+Comet	"Tion System C117"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -131147,7 +131147,7 @@ Comet	"C117"
 	}
 }
 
-Comet	"C118"
+Comet	"Tion System C118"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -131267,7 +131267,7 @@ Comet	"C118"
 	}
 }
 
-Comet	"C119"
+Comet	"Tion System C119"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -131385,7 +131385,7 @@ Comet	"C119"
 	}
 }
 
-Comet	"C120"
+Comet	"Tion System C120"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -131505,7 +131505,7 @@ Comet	"C120"
 	}
 }
 
-Comet	"C121"
+Comet	"Tion System C121"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -131625,7 +131625,7 @@ Comet	"C121"
 	}
 }
 
-Comet	"C122"
+Comet	"Tion System C122"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -131745,7 +131745,7 @@ Comet	"C122"
 	}
 }
 
-Comet	"C123"
+Comet	"Tion System C123"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -131865,7 +131865,7 @@ Comet	"C123"
 	}
 }
 
-Comet	"C124"
+Comet	"Tion System C124"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -131985,7 +131985,7 @@ Comet	"C124"
 	}
 }
 
-Comet	"C125"
+Comet	"Tion System C125"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -132105,7 +132105,7 @@ Comet	"C125"
 	}
 }
 
-Comet	"C126"
+Comet	"Tion System C126"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -132225,7 +132225,7 @@ Comet	"C126"
 	}
 }
 
-Comet	"C127"
+Comet	"Tion System C127"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -132345,7 +132345,7 @@ Comet	"C127"
 	}
 }
 
-Comet	"C128"
+Comet	"Tion System C128"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -132465,7 +132465,7 @@ Comet	"C128"
 	}
 }
 
-Comet	"C129"
+Comet	"Tion System C129"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -132585,7 +132585,7 @@ Comet	"C129"
 	}
 }
 
-Comet	"C130"
+Comet	"Tion System C130"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -132705,7 +132705,7 @@ Comet	"C130"
 	}
 }
 
-Comet	"C131"
+Comet	"Tion System C131"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -132825,7 +132825,7 @@ Comet	"C131"
 	}
 }
 
-Comet	"C132"
+Comet	"Tion System C132"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -132945,7 +132945,7 @@ Comet	"C132"
 	}
 }
 
-Comet	"C133"
+Comet	"Tion System C133"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -133065,7 +133065,7 @@ Comet	"C133"
 	}
 }
 
-Comet	"C134"
+Comet	"Tion System C134"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -133185,7 +133185,7 @@ Comet	"C134"
 	}
 }
 
-Comet	"C135"
+Comet	"Tion System C135"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -133305,7 +133305,7 @@ Comet	"C135"
 	}
 }
 
-Comet	"C136"
+Comet	"Tion System C136"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -133425,7 +133425,7 @@ Comet	"C136"
 	}
 }
 
-Comet	"C137"
+Comet	"Tion System C137"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -133545,7 +133545,7 @@ Comet	"C137"
 	}
 }
 
-Comet	"C138"
+Comet	"Tion System C138"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -133665,7 +133665,7 @@ Comet	"C138"
 	}
 }
 
-Comet	"C139"
+Comet	"Tion System C139"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -133785,7 +133785,7 @@ Comet	"C139"
 	}
 }
 
-Comet	"C140"
+Comet	"Tion System C140"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -133905,7 +133905,7 @@ Comet	"C140"
 	}
 }
 
-Comet	"C141"
+Comet	"Tion System C141"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -134025,7 +134025,7 @@ Comet	"C141"
 	}
 }
 
-Comet	"C142"
+Comet	"Tion System C142"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -134145,7 +134145,7 @@ Comet	"C142"
 	}
 }
 
-Comet	"C143"
+Comet	"Tion System C143"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -134265,7 +134265,7 @@ Comet	"C143"
 	}
 }
 
-Comet	"C144"
+Comet	"Tion System C144"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -134385,7 +134385,7 @@ Comet	"C144"
 	}
 }
 
-Comet	"C145"
+Comet	"Tion System C145"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -134505,7 +134505,7 @@ Comet	"C145"
 	}
 }
 
-Comet	"C146"
+Comet	"Tion System C146"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -134625,7 +134625,7 @@ Comet	"C146"
 	}
 }
 
-Comet	"C147"
+Comet	"Tion System C147"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -134745,7 +134745,7 @@ Comet	"C147"
 	}
 }
 
-Comet	"C148"
+Comet	"Tion System C148"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -134865,7 +134865,7 @@ Comet	"C148"
 	}
 }
 
-Comet	"C149"
+Comet	"Tion System C149"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -134985,7 +134985,7 @@ Comet	"C149"
 	}
 }
 
-Comet	"C150"
+Comet	"Tion System C150"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -135105,7 +135105,7 @@ Comet	"C150"
 	}
 }
 
-Comet	"C151"
+Comet	"Tion System C151"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -135225,7 +135225,7 @@ Comet	"C151"
 	}
 }
 
-Comet	"C152"
+Comet	"Tion System C152"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -135345,7 +135345,7 @@ Comet	"C152"
 	}
 }
 
-Comet	"C153"
+Comet	"Tion System C153"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -135465,7 +135465,7 @@ Comet	"C153"
 	}
 }
 
-Comet	"C154"
+Comet	"Tion System C154"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -135585,7 +135585,7 @@ Comet	"C154"
 	}
 }
 
-Comet	"C155"
+Comet	"Tion System C155"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -135705,7 +135705,7 @@ Comet	"C155"
 	}
 }
 
-Comet	"C156"
+Comet	"Tion System C156"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -135825,7 +135825,7 @@ Comet	"C156"
 	}
 }
 
-Comet	"C157"
+Comet	"Tion System C157"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -135945,7 +135945,7 @@ Comet	"C157"
 	}
 }
 
-Comet	"C158"
+Comet	"Tion System C158"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -136065,7 +136065,7 @@ Comet	"C158"
 	}
 }
 
-Comet	"C159"
+Comet	"Tion System C159"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -136185,7 +136185,7 @@ Comet	"C159"
 	}
 }
 
-Comet	"C160"
+Comet	"Tion System C160"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -136305,7 +136305,7 @@ Comet	"C160"
 	}
 }
 
-Comet	"C161"
+Comet	"Tion System C161"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -136425,7 +136425,7 @@ Comet	"C161"
 	}
 }
 
-Comet	"C162"
+Comet	"Tion System C162"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -136545,7 +136545,7 @@ Comet	"C162"
 	}
 }
 
-Comet	"C163"
+Comet	"Tion System C163"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -136665,7 +136665,7 @@ Comet	"C163"
 	}
 }
 
-Comet	"C164"
+Comet	"Tion System C164"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -136785,7 +136785,7 @@ Comet	"C164"
 	}
 }
 
-Comet	"C165"
+Comet	"Tion System C165"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -136905,7 +136905,7 @@ Comet	"C165"
 	}
 }
 
-Comet	"C166"
+Comet	"Tion System C166"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
@@ -137025,7 +137025,7 @@ Comet	"C166"
 	}
 }
 
-Comet	"C167"
+Comet	"Tion System C167"
 {
 	ParentBody     "Tion System"
 	Class	       "Asteroid"
