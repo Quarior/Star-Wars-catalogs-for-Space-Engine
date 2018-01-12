@@ -39,7 +39,7 @@ Asteroid "Alderaan I"
 		AscendingNode   242
 		ArgOfPericenter 87.8
 		MeanAnomaly     27.4
-		RefPlane       "Equator"
+		RefPlane       "Ecliptic"
 	}
 }
 
@@ -63,7 +63,7 @@ Asteroid "Alderaan fragment 1"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2055844784920382
 		ArgOfPericenter	0.3508829592279943
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -84,7 +84,7 @@ Asteroid "Alderaan fragment 2"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4872547278753494
 		ArgOfPericenter	-0.4206623492042697
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -105,7 +105,7 @@ Asteroid "Alderaan fragment 3"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4642027057151592
 		ArgOfPericenter	0.38414917119922065
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -126,7 +126,7 @@ Asteroid "Alderaan fragment 4"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.06764332925792882
 		ArgOfPericenter	-0.3169648179361899
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -147,7 +147,7 @@ Asteroid "Alderaan fragment 5"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2783755654554686
 		ArgOfPericenter	-0.22372300000220846
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -168,7 +168,7 @@ Asteroid "Alderaan fragment 6"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.10097817956736643
 		ArgOfPericenter	-0.25887014332318103
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -189,7 +189,7 @@ Asteroid "Alderaan fragment 7"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.24905999361071807
 		ArgOfPericenter	0.232221542349054
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -210,7 +210,7 @@ Asteroid "Alderaan fragment 8"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.39032390642926496
 		ArgOfPericenter	-0.2173019492754803
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -231,7 +231,7 @@ Asteroid "Alderaan fragment 9"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4659737929460528
 		ArgOfPericenter	0.2582807637446215
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -252,7 +252,7 @@ Asteroid "Alderaan fragment 10"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.47536396379537627
 		ArgOfPericenter	-0.37489650557145027
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -273,7 +273,7 @@ Asteroid "Alderaan fragment 11"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2953907350039592
 		ArgOfPericenter	0.1407571981622875
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -294,7 +294,7 @@ Asteroid "Alderaan fragment 12"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.16441748447230564
 		ArgOfPericenter	-0.457089709586203
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -315,7 +315,7 @@ Asteroid "Alderaan fragment 13"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.046585662140632755
 		ArgOfPericenter	-0.1774621821602964
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -336,7 +336,7 @@ Asteroid "Alderaan fragment 14"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.29576201528995394
 		ArgOfPericenter	0.4068003367008035
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -357,7 +357,7 @@ Asteroid "Alderaan fragment 15"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1980147688016355
 		ArgOfPericenter	0.29056146526351334
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -378,7 +378,7 @@ Asteroid "Alderaan fragment 16"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.23617910247873197
 		ArgOfPericenter	-0.12004839690135527
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -399,7 +399,7 @@ Asteroid "Alderaan fragment 17"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.39935546939838107
 		ArgOfPericenter	-0.0017849791051670616
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -420,7 +420,7 @@ Asteroid "Alderaan fragment 18"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.37124141831847235
 		ArgOfPericenter	0.09411366202971272
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -441,7 +441,7 @@ Asteroid "Alderaan fragment 19"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2768878770958334
 		ArgOfPericenter	-0.38487489436280775
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -462,7 +462,7 @@ Asteroid "Alderaan fragment 20"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.47357810513370224
 		ArgOfPericenter	-0.4020275408777879
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -483,7 +483,7 @@ Asteroid "Alderaan fragment 21"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.27328645873941015
 		ArgOfPericenter	-0.3138978947567662
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -504,7 +504,7 @@ Asteroid "Alderaan fragment 22"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.0806081889765774
 		ArgOfPericenter	-0.4362351750300806
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -525,7 +525,7 @@ Asteroid "Alderaan fragment 23"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4733273512840688
 		ArgOfPericenter	-0.06015677459929891
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -546,7 +546,7 @@ Asteroid "Alderaan fragment 24"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1400054723050903
 		ArgOfPericenter	-0.21020496766024555
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -567,7 +567,7 @@ Asteroid "Alderaan fragment 25"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.384932618166722
 		ArgOfPericenter	0.030845872349942738
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -588,7 +588,7 @@ Asteroid "Alderaan fragment 26"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.08673261067965043
 		ArgOfPericenter	0.43214014409250645
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -609,7 +609,7 @@ Asteroid "Alderaan fragment 27"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2962712741213043
 		ArgOfPericenter	-0.19132285313783093
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -630,7 +630,7 @@ Asteroid "Alderaan fragment 28"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.29021342599803135
 		ArgOfPericenter	-0.23398082661539688
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -651,7 +651,7 @@ Asteroid "Alderaan fragment 29"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.35849767678361955
 		ArgOfPericenter	0.3323582861294673
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -672,7 +672,7 @@ Asteroid "Alderaan fragment 30"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.19568380503577865
 		ArgOfPericenter	0.46295084234501827
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -693,7 +693,7 @@ Asteroid "Alderaan fragment 31"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.37018227979118934
 		ArgOfPericenter	-0.31559834780084417
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -714,7 +714,7 @@ Asteroid "Alderaan fragment 32"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.08014960223569856
 		ArgOfPericenter	0.21597694102907317
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -735,7 +735,7 @@ Asteroid "Alderaan fragment 33"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.05117949149442658
 		ArgOfPericenter	-0.19111835704503244
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -756,7 +756,7 @@ Asteroid "Alderaan fragment 34"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.020337000812109873
 		ArgOfPericenter	0.1781386617329911
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -777,7 +777,7 @@ Asteroid "Alderaan fragment 35"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.09093298664780325
 		ArgOfPericenter	0.4290001343588148
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -798,7 +798,7 @@ Asteroid "Alderaan fragment 36"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.11221970471520781
 		ArgOfPericenter	-0.465538606803824
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -819,7 +819,7 @@ Asteroid "Alderaan fragment 37"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.257748983541249
 		ArgOfPericenter	-0.1500658058633928
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -840,7 +840,7 @@ Asteroid "Alderaan fragment 38"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.24961990095155984
 		ArgOfPericenter	0.2568040229296287
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -861,7 +861,7 @@ Asteroid "Alderaan fragment 39"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3247367562599045
 		ArgOfPericenter	0.09790468630304194
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -882,7 +882,7 @@ Asteroid "Alderaan fragment 40"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3764043321687407
 		ArgOfPericenter	-0.21374695479085837
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -903,7 +903,7 @@ Asteroid "Alderaan fragment 41"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.11753614269290369
 		ArgOfPericenter	0.45175444015268995
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -924,7 +924,7 @@ Asteroid "Alderaan fragment 42"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4495784923921915
 		ArgOfPericenter	0.027702699582983437
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -945,7 +945,7 @@ Asteroid "Alderaan fragment 43"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1518847992282153
 		ArgOfPericenter	0.2825445332913846
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -966,7 +966,7 @@ Asteroid "Alderaan fragment 44"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.042712053099656644
 		ArgOfPericenter	0.03563378633084202
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -987,7 +987,7 @@ Asteroid "Alderaan fragment 45"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.03898051963797
 		ArgOfPericenter	0.15587994638624025
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1008,7 +1008,7 @@ Asteroid "Alderaan fragment 46"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4711456451133258
 		ArgOfPericenter	0.1203202224777794
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1029,7 +1029,7 @@ Asteroid "Alderaan fragment 47"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.41752761508910896
 		ArgOfPericenter	-0.2692184540370882
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1050,7 +1050,7 @@ Asteroid "Alderaan fragment 48"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.27843961952301355
 		ArgOfPericenter	-0.4302624426563928
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1071,7 +1071,7 @@ Asteroid "Alderaan fragment 49"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.149006128385204
 		ArgOfPericenter	0.04379655882105227
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1092,7 +1092,7 @@ Asteroid "Alderaan fragment 50"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.03088213318150035
 		ArgOfPericenter	-0.11729131744304266
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1113,7 +1113,7 @@ Asteroid "Alderaan fragment 51"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.34884366770082165
 		ArgOfPericenter	0.42306827463090013
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1134,7 +1134,7 @@ Asteroid "Alderaan fragment 52"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.03143703219143701
 		ArgOfPericenter	0.41859312635158563
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1155,7 +1155,7 @@ Asteroid "Alderaan fragment 53"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.11673868306241353
 		ArgOfPericenter	0.3837902866821774
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1176,7 +1176,7 @@ Asteroid "Alderaan fragment 54"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2707206349552381
 		ArgOfPericenter	0.13274521145026497
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1197,7 +1197,7 @@ Asteroid "Alderaan fragment 55"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4435618597067146
 		ArgOfPericenter	-0.4847967272609278
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1218,7 +1218,7 @@ Asteroid "Alderaan fragment 56"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.23851841640851135
 		ArgOfPericenter	0.24839938085822155
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1239,7 +1239,7 @@ Asteroid "Alderaan fragment 57"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.015666658291680124
 		ArgOfPericenter	0.21141225523423268
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1260,7 +1260,7 @@ Asteroid "Alderaan fragment 58"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2256522436867473
 		ArgOfPericenter	0.3205377848493791
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1281,7 +1281,7 @@ Asteroid "Alderaan fragment 59"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.296757468742444
 		ArgOfPericenter	-0.2572029933640546
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1302,7 +1302,7 @@ Asteroid "Alderaan fragment 60"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.040348184885579785
 		ArgOfPericenter	-0.26549404934576215
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1323,7 +1323,7 @@ Asteroid "Alderaan fragment 61"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.06633549444965059
 		ArgOfPericenter	0.06642683073842526
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1344,7 +1344,7 @@ Asteroid "Alderaan fragment 62"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.009704841382895624
 		ArgOfPericenter	0.16156768043020941
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1365,7 +1365,7 @@ Asteroid "Alderaan fragment 63"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3031078834478913
 		ArgOfPericenter	0.46895998375891457
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1386,7 +1386,7 @@ Asteroid "Alderaan fragment 64"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2678615129565919
 		ArgOfPericenter	-0.2329369467863357
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1407,7 +1407,7 @@ Asteroid "Alderaan fragment 65"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.20613800959821793
 		ArgOfPericenter	-0.029363591422642443
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1428,7 +1428,7 @@ Asteroid "Alderaan fragment 66"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.27638125391215906
 		ArgOfPericenter	-0.17807162077906658
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1449,7 +1449,7 @@ Asteroid "Alderaan fragment 67"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.055642111731679544
 		ArgOfPericenter	-0.08926282329396551
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1470,7 +1470,7 @@ Asteroid "Alderaan fragment 68"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.003813252963464575
 		ArgOfPericenter	0.0381812552982963
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1491,7 +1491,7 @@ Asteroid "Alderaan fragment 69"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4133311477384394
 		ArgOfPericenter	0.3145238286906211
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1512,7 +1512,7 @@ Asteroid "Alderaan fragment 70"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.48288121533818873
 		ArgOfPericenter	-0.047991952984064334
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1533,7 +1533,7 @@ Asteroid "Alderaan fragment 71"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.23195335744815027
 		ArgOfPericenter	-0.19356596336593712
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1554,7 +1554,7 @@ Asteroid "Alderaan fragment 72"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2643070257769615
 		ArgOfPericenter	0.4999008421119091
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1575,7 +1575,7 @@ Asteroid "Alderaan fragment 73"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.01842270286308656
 		ArgOfPericenter	-0.03228863192530984
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1596,7 +1596,7 @@ Asteroid "Alderaan fragment 74"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.25762845172596316
 		ArgOfPericenter	-0.3840446158466164
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1617,7 +1617,7 @@ Asteroid "Alderaan fragment 75"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3518346714840057
 		ArgOfPericenter	0.07902338436488099
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1638,7 +1638,7 @@ Asteroid "Alderaan fragment 76"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1667517196146575
 		ArgOfPericenter	0.37669579634642714
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1659,7 +1659,7 @@ Asteroid "Alderaan fragment 77"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.004827890017616521
 		ArgOfPericenter	0.15433701727345828
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1680,7 +1680,7 @@ Asteroid "Alderaan fragment 78"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3616451438892475
 		ArgOfPericenter	-0.258327514408346
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1701,7 +1701,7 @@ Asteroid "Alderaan fragment 79"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3810572907567533
 		ArgOfPericenter	0.1946088558936907
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1722,7 +1722,7 @@ Asteroid "Alderaan fragment 80"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.29334356784895055
 		ArgOfPericenter	-0.19641374927527622
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1743,7 +1743,7 @@ Asteroid "Alderaan fragment 81"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.052795901986782745
 		ArgOfPericenter	0.041088368780581974
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1764,7 +1764,7 @@ Asteroid "Alderaan fragment 82"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.12077657711748169
 		ArgOfPericenter	-0.43813734380767433
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1785,7 +1785,7 @@ Asteroid "Alderaan fragment 83"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.25509121546131885
 		ArgOfPericenter	0.398581628309265
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1806,7 +1806,7 @@ Asteroid "Alderaan fragment 84"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4584330104022678
 		ArgOfPericenter	-0.326143708229779
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1827,7 +1827,7 @@ Asteroid "Alderaan fragment 85"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.04100510604617036
 		ArgOfPericenter	0.42849334728625366
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1848,7 +1848,7 @@ Asteroid "Alderaan fragment 86"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.04232933758565727
 		ArgOfPericenter	0.1124361117971795
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1869,7 +1869,7 @@ Asteroid "Alderaan fragment 87"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.0723977753811531
 		ArgOfPericenter	0.39859126284796764
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1890,7 +1890,7 @@ Asteroid "Alderaan fragment 88"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.07882612464043603
 		ArgOfPericenter	-0.11914204470804102
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1911,7 +1911,7 @@ Asteroid "Alderaan fragment 89"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1637073492833997
 		ArgOfPericenter	0.12992980651897545
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1932,7 +1932,7 @@ Asteroid "Alderaan fragment 90"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2428913450653697
 		ArgOfPericenter	0.13133097418011164
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1953,7 +1953,7 @@ Asteroid "Alderaan fragment 91"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.060945782105650714
 		ArgOfPericenter	0.16435843996793897
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1974,7 +1974,7 @@ Asteroid "Alderaan fragment 92"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4215353092284526
 		ArgOfPericenter	-0.2811461359975852
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -1995,7 +1995,7 @@ Asteroid "Alderaan fragment 93"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.13985586885623025
 		ArgOfPericenter	-0.3822441832288934
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2016,7 +2016,7 @@ Asteroid "Alderaan fragment 94"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1324651131448472
 		ArgOfPericenter	0.44707860579235215
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2037,7 +2037,7 @@ Asteroid "Alderaan fragment 95"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.0598191820410201
 		ArgOfPericenter	0.4551473724733067
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2058,7 +2058,7 @@ Asteroid "Alderaan fragment 96"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.12873592347099072
 		ArgOfPericenter	-0.26115313571100107
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2079,7 +2079,7 @@ Asteroid "Alderaan fragment 97"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.21551326981467211
 		ArgOfPericenter	-0.25167893893264504
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2100,7 +2100,7 @@ Asteroid "Alderaan fragment 98"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.45237921282464133
 		ArgOfPericenter	0.4153936431452525
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2121,7 +2121,7 @@ Asteroid "Alderaan fragment 99"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2642848066155381
 		ArgOfPericenter	0.3493688547009167
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2142,7 +2142,7 @@ Asteroid "Alderaan fragment 100"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4106796467117301
 		ArgOfPericenter	-0.3843365942559388
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2163,7 +2163,7 @@ Asteroid "Alderaan fragment 101"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19663171258876
 		ArgOfPericenter	0.04383764777960508
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2184,7 +2184,7 @@ Asteroid "Alderaan fragment 102"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.33314155833337833
 		ArgOfPericenter	-0.4996582947033408
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2205,7 +2205,7 @@ Asteroid "Alderaan fragment 103"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3396528090516997
 		ArgOfPericenter	0.3543349487777693
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2226,7 +2226,7 @@ Asteroid "Alderaan fragment 104"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3964279383845265
 		ArgOfPericenter	0.4349544832598079
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2247,7 +2247,7 @@ Asteroid "Alderaan fragment 105"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.12020959101020823
 		ArgOfPericenter	-0.4113986617509259
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2268,7 +2268,7 @@ Asteroid "Alderaan fragment 106"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.009994289982452331
 		ArgOfPericenter	0.25939068197627124
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2289,7 +2289,7 @@ Asteroid "Alderaan fragment 107"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1318524662801347
 		ArgOfPericenter	-0.17800123728394202
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2310,7 +2310,7 @@ Asteroid "Alderaan fragment 108"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4305742714163615
 		ArgOfPericenter	-0.42011262554335693
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2331,7 +2331,7 @@ Asteroid "Alderaan fragment 109"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.45916216397452814
 		ArgOfPericenter	0.4316521617220107
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2352,7 +2352,7 @@ Asteroid "Alderaan fragment 110"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.27595944787601867
 		ArgOfPericenter	-0.35187538573663824
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2373,7 +2373,7 @@ Asteroid "Alderaan fragment 111"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.297184431470751
 		ArgOfPericenter	0.3818407082118349
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2394,7 +2394,7 @@ Asteroid "Alderaan fragment 112"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4918444844028659
 		ArgOfPericenter	-0.43907391757302383
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2415,7 +2415,7 @@ Asteroid "Alderaan fragment 113"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.18268802590810695
 		ArgOfPericenter	-0.4736403956085986
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2436,7 +2436,7 @@ Asteroid "Alderaan fragment 114"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.04121060796625653
 		ArgOfPericenter	0.06537248985901889
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2457,7 +2457,7 @@ Asteroid "Alderaan fragment 115"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1747384314460102
 		ArgOfPericenter	0.33227078964048873
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2478,7 +2478,7 @@ Asteroid "Alderaan fragment 116"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.09879865535941301
 		ArgOfPericenter	-0.3616738186526497
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2499,7 +2499,7 @@ Asteroid "Alderaan fragment 117"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2115574269602507
 		ArgOfPericenter	-0.12214964425633179
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2520,7 +2520,7 @@ Asteroid "Alderaan fragment 118"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.029043265402215246
 		ArgOfPericenter	-0.1797760453112054
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2541,7 +2541,7 @@ Asteroid "Alderaan fragment 119"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4659449660314334
 		ArgOfPericenter	0.0842282689048297
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2562,7 +2562,7 @@ Asteroid "Alderaan fragment 120"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4076479799599205
 		ArgOfPericenter	-0.22338187124234854
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2583,7 +2583,7 @@ Asteroid "Alderaan fragment 121"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4588917617448921
 		ArgOfPericenter	-0.3358998292824923
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2604,7 +2604,7 @@ Asteroid "Alderaan fragment 122"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4355572559048654
 		ArgOfPericenter	0.09454227829100359
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2625,7 +2625,7 @@ Asteroid "Alderaan fragment 123"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2872865980648237
 		ArgOfPericenter	0.3589031059601333
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2646,7 +2646,7 @@ Asteroid "Alderaan fragment 124"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.138052412202609
 		ArgOfPericenter	-0.04462899756919858
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2667,7 +2667,7 @@ Asteroid "Alderaan fragment 125"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.26453009531297944
 		ArgOfPericenter	0.03454297289307795
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2688,7 +2688,7 @@ Asteroid "Alderaan fragment 126"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4603458188347379
 		ArgOfPericenter	-0.44027826747966703
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2709,7 +2709,7 @@ Asteroid "Alderaan fragment 127"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.37421235100337014
 		ArgOfPericenter	0.3533155466974168
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2730,7 +2730,7 @@ Asteroid "Alderaan fragment 128"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.30432103076752137
 		ArgOfPericenter	-0.30338700383089556
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2751,7 +2751,7 @@ Asteroid "Alderaan fragment 129"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.15350823384177392
 		ArgOfPericenter	-0.05913610187140739
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2772,7 +2772,7 @@ Asteroid "Alderaan fragment 130"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4968684391513549
 		ArgOfPericenter	0.15539992417704107
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2793,7 +2793,7 @@ Asteroid "Alderaan fragment 131"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.14318779193888875
 		ArgOfPericenter	-0.12224669009625289
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2814,7 +2814,7 @@ Asteroid "Alderaan fragment 132"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.14527158202805057
 		ArgOfPericenter	-0.18764852073973792
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2835,7 +2835,7 @@ Asteroid "Alderaan fragment 133"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2530603035155895
 		ArgOfPericenter	-0.04305454392368746
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2856,7 +2856,7 @@ Asteroid "Alderaan fragment 134"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.15959866254163602
 		ArgOfPericenter	0.3035222108069301
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2877,7 +2877,7 @@ Asteroid "Alderaan fragment 135"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.046741420962117086
 		ArgOfPericenter	-0.06854513019176789
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2898,7 +2898,7 @@ Asteroid "Alderaan fragment 136"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.08243584310390517
 		ArgOfPericenter	-0.15552335185526445
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2919,7 +2919,7 @@ Asteroid "Alderaan fragment 137"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.07635151686006814
 		ArgOfPericenter	-0.3946075768489582
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2940,7 +2940,7 @@ Asteroid "Alderaan fragment 138"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.056123350241358394
 		ArgOfPericenter	0.29413983074487815
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2961,7 +2961,7 @@ Asteroid "Alderaan fragment 139"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.0493885172255033
 		ArgOfPericenter	-0.2802142026704355
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -2982,7 +2982,7 @@ Asteroid "Alderaan fragment 140"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.15512873165281027
 		ArgOfPericenter	-0.39029198922701724
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3003,7 +3003,7 @@ Asteroid "Alderaan fragment 141"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2641846576108303
 		ArgOfPericenter	-0.40457907814350524
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3024,7 +3024,7 @@ Asteroid "Alderaan fragment 142"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.02612069711330889
 		ArgOfPericenter	-0.15969161509956808
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3045,7 +3045,7 @@ Asteroid "Alderaan fragment 143"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.48846724932136776
 		ArgOfPericenter	-0.0714592532863535
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3066,7 +3066,7 @@ Asteroid "Alderaan fragment 144"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.05063348465776507
 		ArgOfPericenter	-0.0442916583397861
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3087,7 +3087,7 @@ Asteroid "Alderaan fragment 145"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.36378760435259416
 		ArgOfPericenter	-0.23019016614371224
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3108,7 +3108,7 @@ Asteroid "Alderaan fragment 146"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.014202718664492964
 		ArgOfPericenter	-0.30039681456674416
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3129,7 +3129,7 @@ Asteroid "Alderaan fragment 147"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3098035434518214
 		ArgOfPericenter	-0.026405865743667878
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3150,7 +3150,7 @@ Asteroid "Alderaan fragment 148"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.27586860831053783
 		ArgOfPericenter	0.37189886732420085
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3171,7 +3171,7 @@ Asteroid "Alderaan fragment 149"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.35821115847297136
 		ArgOfPericenter	-0.2669752493407396
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3192,7 +3192,7 @@ Asteroid "Alderaan fragment 150"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.06456447822697309
 		ArgOfPericenter	0.35279224833490186
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3213,7 +3213,7 @@ Asteroid "Alderaan fragment 151"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.10869660627884892
 		ArgOfPericenter	0.34927676191431356
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3234,7 +3234,7 @@ Asteroid "Alderaan fragment 152"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4867857890470628
 		ArgOfPericenter	-0.23509766358506168
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3255,7 +3255,7 @@ Asteroid "Alderaan fragment 153"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3348123360898858
 		ArgOfPericenter	-0.012843489551614073
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3276,7 +3276,7 @@ Asteroid "Alderaan fragment 154"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19919459436467035
 		ArgOfPericenter	0.13400492931107333
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3297,7 +3297,7 @@ Asteroid "Alderaan fragment 155"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3869616033507842
 		ArgOfPericenter	0.44607127587705697
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3318,7 +3318,7 @@ Asteroid "Alderaan fragment 156"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.48191587559537763
 		ArgOfPericenter	0.18298697145312004
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3339,7 +3339,7 @@ Asteroid "Alderaan fragment 157"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.45255671011738996
 		ArgOfPericenter	0.17466859273116753
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3360,7 +3360,7 @@ Asteroid "Alderaan fragment 158"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.0008018316199713826
 		ArgOfPericenter	0.4179210959591605
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3381,7 +3381,7 @@ Asteroid "Alderaan fragment 159"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.28149866827659775
 		ArgOfPericenter	0.14851302958075419
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3402,7 +3402,7 @@ Asteroid "Alderaan fragment 160"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.33662516673503473
 		ArgOfPericenter	-0.04019941611588762
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3423,7 +3423,7 @@ Asteroid "Alderaan fragment 161"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3793496508237213
 		ArgOfPericenter	-0.04219110442496443
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3444,7 +3444,7 @@ Asteroid "Alderaan fragment 162"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2794607663212165
 		ArgOfPericenter	0.10432332090007412
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3465,7 +3465,7 @@ Asteroid "Alderaan fragment 163"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.16223883378724469
 		ArgOfPericenter	-0.11778698682116817
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3486,7 +3486,7 @@ Asteroid "Alderaan fragment 164"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.24252833834105203
 		ArgOfPericenter	0.12938563720618979
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3507,7 +3507,7 @@ Asteroid "Alderaan fragment 165"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4417946875213403
 		ArgOfPericenter	0.2443548546797495
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3528,7 +3528,7 @@ Asteroid "Alderaan fragment 166"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3893006707053821
 		ArgOfPericenter	0.16198388107220185
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3549,7 +3549,7 @@ Asteroid "Alderaan fragment 167"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3495073003197412
 		ArgOfPericenter	0.10328786169853976
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3570,7 +3570,7 @@ Asteroid "Alderaan fragment 168"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.148491979596597
 		ArgOfPericenter	-0.4727668359834266
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3591,7 +3591,7 @@ Asteroid "Alderaan fragment 169"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.021242355447052996
 		ArgOfPericenter	-0.2042904134750243
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3612,7 +3612,7 @@ Asteroid "Alderaan fragment 170"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3814365727658481
 		ArgOfPericenter	-0.18170615816416547
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3633,7 +3633,7 @@ Asteroid "Alderaan fragment 171"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4542028495157394
 		ArgOfPericenter	-0.13795249078773175
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3654,7 +3654,7 @@ Asteroid "Alderaan fragment 172"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.019087254833692113
 		ArgOfPericenter	0.18116545575856757
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3675,7 +3675,7 @@ Asteroid "Alderaan fragment 173"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.001620998104482796
 		ArgOfPericenter	-0.48070196706075563
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3696,7 +3696,7 @@ Asteroid "Alderaan fragment 174"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4643941225631847
 		ArgOfPericenter	-0.1493511111001723
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3717,7 +3717,7 @@ Asteroid "Alderaan fragment 175"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4462059588463986
 		ArgOfPericenter	0.050112519001364375
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3738,7 +3738,7 @@ Asteroid "Alderaan fragment 176"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.34782212100552734
 		ArgOfPericenter	0.2856115691392517
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3759,7 +3759,7 @@ Asteroid "Alderaan fragment 177"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.25292415142360714
 		ArgOfPericenter	-0.23594822096799284
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3780,7 +3780,7 @@ Asteroid "Alderaan fragment 178"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.017586929333711865
 		ArgOfPericenter	-0.012059910389015327
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3801,7 +3801,7 @@ Asteroid "Alderaan fragment 179"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3607731598056835
 		ArgOfPericenter	0.32652711380803834
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3822,7 +3822,7 @@ Asteroid "Alderaan fragment 180"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.0644276241567755
 		ArgOfPericenter	-0.24846969534577246
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3843,7 +3843,7 @@ Asteroid "Alderaan fragment 181"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.47857200408940437
 		ArgOfPericenter	-0.4020846445531351
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3864,7 +3864,7 @@ Asteroid "Alderaan fragment 182"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3458650122486553
 		ArgOfPericenter	-0.27844069183202813
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3885,7 +3885,7 @@ Asteroid "Alderaan fragment 183"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4904328315046821
 		ArgOfPericenter	-0.3646169515600839
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3906,7 +3906,7 @@ Asteroid "Alderaan fragment 184"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.08356402508167693
 		ArgOfPericenter	0.3435045513085151
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3927,7 +3927,7 @@ Asteroid "Alderaan fragment 185"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.07481573666753383
 		ArgOfPericenter	-0.14474175947263168
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3948,7 +3948,7 @@ Asteroid "Alderaan fragment 186"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.16061747466169007
 		ArgOfPericenter	0.034431809824978066
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3969,7 +3969,7 @@ Asteroid "Alderaan fragment 187"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.37179638352354205
 		ArgOfPericenter	0.32173366058489705
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -3990,7 +3990,7 @@ Asteroid "Alderaan fragment 188"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.38387780155056705
 		ArgOfPericenter	-0.3140345458138578
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4011,7 +4011,7 @@ Asteroid "Alderaan fragment 189"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.22632748178022566
 		ArgOfPericenter	0.021599935155803163
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4032,7 +4032,7 @@ Asteroid "Alderaan fragment 190"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2360328606584312
 		ArgOfPericenter	-0.1916809368105935
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4053,7 +4053,7 @@ Asteroid "Alderaan fragment 191"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3720749078678397
 		ArgOfPericenter	-0.023606081167364956
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4074,7 +4074,7 @@ Asteroid "Alderaan fragment 192"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.17344494140979694
 		ArgOfPericenter	-0.33674218608695894
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4095,7 +4095,7 @@ Asteroid "Alderaan fragment 193"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.24892911737157053
 		ArgOfPericenter	0.1995902187582166
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4116,7 +4116,7 @@ Asteroid "Alderaan fragment 194"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.47105259961532353
 		ArgOfPericenter	-0.32808868673705105
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4137,7 +4137,7 @@ Asteroid "Alderaan fragment 195"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4214123661721676
 		ArgOfPericenter	0.4146867175204578
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4158,7 +4158,7 @@ Asteroid "Alderaan fragment 196"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.33992070655803963
 		ArgOfPericenter	0.08387021128989525
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4179,7 +4179,7 @@ Asteroid "Alderaan fragment 197"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.20110210340338874
 		ArgOfPericenter	0.31678818728251346
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4200,7 +4200,7 @@ Asteroid "Alderaan fragment 198"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.03483930628063503
 		ArgOfPericenter	0.1919072728197182
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4221,7 +4221,7 @@ Asteroid "Alderaan fragment 199"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.14272820170735712
 		ArgOfPericenter	0.15622602463101753
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4242,7 +4242,7 @@ Asteroid "Alderaan fragment 200"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3133051582719738
 		ArgOfPericenter	-0.0032129827043831938
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4263,7 +4263,7 @@ Asteroid "Alderaan fragment 201"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.22915069905562757
 		ArgOfPericenter	-0.29953660033993734
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4284,7 +4284,7 @@ Asteroid "Alderaan fragment 202"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.49798187795605975
 		ArgOfPericenter	-0.21387634255710952
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4305,7 +4305,7 @@ Asteroid "Alderaan fragment 203"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2864713375277086
 		ArgOfPericenter	0.4035272738771082
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4326,7 +4326,7 @@ Asteroid "Alderaan fragment 204"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1342418670164789
 		ArgOfPericenter	-0.43112018619048054
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4347,7 +4347,7 @@ Asteroid "Alderaan fragment 205"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.35685465956155926
 		ArgOfPericenter	-0.2834617135324191
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4368,7 +4368,7 @@ Asteroid "Alderaan fragment 206"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.45508484539131977
 		ArgOfPericenter	0.4289748170909955
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4389,7 +4389,7 @@ Asteroid "Alderaan fragment 207"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.44798668114249574
 		ArgOfPericenter	0.20201681415467176
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4410,7 +4410,7 @@ Asteroid "Alderaan fragment 208"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.09783741272464719
 		ArgOfPericenter	-0.3987009134148587
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4431,7 +4431,7 @@ Asteroid "Alderaan fragment 209"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.21420996784132773
 		ArgOfPericenter	-0.2611466111281634
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4452,7 +4452,7 @@ Asteroid "Alderaan fragment 210"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.000347509679652358
 		ArgOfPericenter	-0.005010142617746571
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4473,7 +4473,7 @@ Asteroid "Alderaan fragment 211"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.07958415468901059
 		ArgOfPericenter	-0.045321005310995255
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4494,7 +4494,7 @@ Asteroid "Alderaan fragment 212"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.352315296718798
 		ArgOfPericenter	-0.28739294200611243
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4515,7 +4515,7 @@ Asteroid "Alderaan fragment 213"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4768530875041368
 		ArgOfPericenter	0.2298491777521373
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4536,7 +4536,7 @@ Asteroid "Alderaan fragment 214"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4798437481596033
 		ArgOfPericenter	-0.33164906037630304
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4557,7 +4557,7 @@ Asteroid "Alderaan fragment 215"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19570343172951976
 		ArgOfPericenter	-0.15574445075461596
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4578,7 +4578,7 @@ Asteroid "Alderaan fragment 216"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.21535233005434085
 		ArgOfPericenter	-0.2410129580941337
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4599,7 +4599,7 @@ Asteroid "Alderaan fragment 217"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4978782759245388
 		ArgOfPericenter	-0.015988233877477276
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4620,7 +4620,7 @@ Asteroid "Alderaan fragment 218"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1153080902735597
 		ArgOfPericenter	0.10157349738200505
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4641,7 +4641,7 @@ Asteroid "Alderaan fragment 219"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1895029660692138
 		ArgOfPericenter	0.38631425399013
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4662,7 +4662,7 @@ Asteroid "Alderaan fragment 220"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.07053901577849842
 		ArgOfPericenter	-0.42832809154349394
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4683,7 +4683,7 @@ Asteroid "Alderaan fragment 221"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.29069765538825565
 		ArgOfPericenter	0.12568146850653883
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4704,7 +4704,7 @@ Asteroid "Alderaan fragment 222"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4206557459326954
 		ArgOfPericenter	0.270908070962524
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4725,7 +4725,7 @@ Asteroid "Alderaan fragment 223"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.12430546274769205
 		ArgOfPericenter	-0.27704075911129256
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4746,7 +4746,7 @@ Asteroid "Alderaan fragment 224"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.20308513732388234
 		ArgOfPericenter	0.3140489452307872
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4767,7 +4767,7 @@ Asteroid "Alderaan fragment 225"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.40622204981248333
 		ArgOfPericenter	-0.4865647168929673
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4788,7 +4788,7 @@ Asteroid "Alderaan fragment 226"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.30963338929614903
 		ArgOfPericenter	0.49412586355387567
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4809,7 +4809,7 @@ Asteroid "Alderaan fragment 227"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2723563285468875
 		ArgOfPericenter	-0.37238798053777833
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4830,7 +4830,7 @@ Asteroid "Alderaan fragment 228"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.14144875679618518
 		ArgOfPericenter	0.1542155170892725
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4851,7 +4851,7 @@ Asteroid "Alderaan fragment 229"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2907884133634524
 		ArgOfPericenter	0.09125889914844498
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4872,7 +4872,7 @@ Asteroid "Alderaan fragment 230"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.31089454715524567
 		ArgOfPericenter	0.32044166305450883
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4893,7 +4893,7 @@ Asteroid "Alderaan fragment 231"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.40082241079471104
 		ArgOfPericenter	0.49655029894241154
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4914,7 +4914,7 @@ Asteroid "Alderaan fragment 232"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.18083088130705205
 		ArgOfPericenter	-0.4931257109457292
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4935,7 +4935,7 @@ Asteroid "Alderaan fragment 233"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1739448936196787
 		ArgOfPericenter	0.15612615924637607
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4956,7 +4956,7 @@ Asteroid "Alderaan fragment 234"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.18421459440279742
 		ArgOfPericenter	-0.49355885319877835
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4977,7 +4977,7 @@ Asteroid "Alderaan fragment 235"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4349583675874992
 		ArgOfPericenter	0.3820685600444491
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -4998,7 +4998,7 @@ Asteroid "Alderaan fragment 236"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.41735685501358777
 		ArgOfPericenter	0.13516368439817317
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5019,7 +5019,7 @@ Asteroid "Alderaan fragment 237"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.08946799523367399
 		ArgOfPericenter	-0.4855010050525689
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5040,7 +5040,7 @@ Asteroid "Alderaan fragment 238"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.30539300433145244
 		ArgOfPericenter	0.31823934267725673
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5061,7 +5061,7 @@ Asteroid "Alderaan fragment 239"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.261184004805857
 		ArgOfPericenter	-0.25237149503836986
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5082,7 +5082,7 @@ Asteroid "Alderaan fragment 240"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2684935365252431
 		ArgOfPericenter	0.4141217194806782
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5103,7 +5103,7 @@ Asteroid "Alderaan fragment 241"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.04590410147295132
 		ArgOfPericenter	-0.05777372918815138
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5124,7 +5124,7 @@ Asteroid "Alderaan fragment 242"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.050342656380480744
 		ArgOfPericenter	-0.3237841319811846
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5145,7 +5145,7 @@ Asteroid "Alderaan fragment 243"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.05562407661281632
 		ArgOfPericenter	-0.1364368660291725
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5166,7 +5166,7 @@ Asteroid "Alderaan fragment 244"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.07152138522235885
 		ArgOfPericenter	0.13280543370442188
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5187,7 +5187,7 @@ Asteroid "Alderaan fragment 245"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.44222379563240743
 		ArgOfPericenter	-0.43774405841679886
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5208,7 +5208,7 @@ Asteroid "Alderaan fragment 246"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.45013461747711747
 		ArgOfPericenter	0.4918960206704668
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5229,7 +5229,7 @@ Asteroid "Alderaan fragment 247"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4311514076828613
 		ArgOfPericenter	0.3876700061974503
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5250,7 +5250,7 @@ Asteroid "Alderaan fragment 248"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.17340104218830688
 		ArgOfPericenter	-0.3471837762589076
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5271,7 +5271,7 @@ Asteroid "Alderaan fragment 249"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.32115024211546306
 		ArgOfPericenter	0.14430218901240133
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5292,7 +5292,7 @@ Asteroid "Alderaan fragment 250"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.23067657636270655
 		ArgOfPericenter	0.3557260544471611
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5313,7 +5313,7 @@ Asteroid "Alderaan fragment 251"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.23118858154448507
 		ArgOfPericenter	0.35968340383298547
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5334,7 +5334,7 @@ Asteroid "Alderaan fragment 252"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4928618636546461
 		ArgOfPericenter	0.43883459039369543
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5355,7 +5355,7 @@ Asteroid "Alderaan fragment 253"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.10052104548582963
 		ArgOfPericenter	-0.2683844841565265
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5376,7 +5376,7 @@ Asteroid "Alderaan fragment 254"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1601678034109434
 		ArgOfPericenter	0.19982745204563113
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5397,7 +5397,7 @@ Asteroid "Alderaan fragment 255"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.34752444283712447
 		ArgOfPericenter	0.43633649949327213
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5418,7 +5418,7 @@ Asteroid "Alderaan fragment 256"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2516817481154816
 		ArgOfPericenter	0.09087559729849648
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5439,7 +5439,7 @@ Asteroid "Alderaan fragment 257"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.21426817481660976
 		ArgOfPericenter	-0.06234106269273554
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5460,7 +5460,7 @@ Asteroid "Alderaan fragment 258"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3650972808200874
 		ArgOfPericenter	0.12225274063712144
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5481,7 +5481,7 @@ Asteroid "Alderaan fragment 259"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.10965320321566607
 		ArgOfPericenter	-0.38310276019698875
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5502,7 +5502,7 @@ Asteroid "Alderaan fragment 260"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.25255975836113165
 		ArgOfPericenter	-0.046105633044992156
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5523,7 +5523,7 @@ Asteroid "Alderaan fragment 261"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.15989380147237375
 		ArgOfPericenter	0.13246254980139505
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5544,7 +5544,7 @@ Asteroid "Alderaan fragment 262"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.28763801279043355
 		ArgOfPericenter	-0.07649850981712913
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5565,7 +5565,7 @@ Asteroid "Alderaan fragment 263"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1340149518529079
 		ArgOfPericenter	-0.157685217425644
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5586,7 +5586,7 @@ Asteroid "Alderaan fragment 264"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3607586237718393
 		ArgOfPericenter	-0.2007241815816685
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5607,7 +5607,7 @@ Asteroid "Alderaan fragment 265"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.14569308263591074
 		ArgOfPericenter	-0.3186701174215978
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5628,7 +5628,7 @@ Asteroid "Alderaan fragment 266"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1518496963019389
 		ArgOfPericenter	-0.32636655422558525
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5649,7 +5649,7 @@ Asteroid "Alderaan fragment 267"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.48828825067336445
 		ArgOfPericenter	-0.39400342593855064
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5670,7 +5670,7 @@ Asteroid "Alderaan fragment 268"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.15246380333370113
 		ArgOfPericenter	0.41768962408395294
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5691,7 +5691,7 @@ Asteroid "Alderaan fragment 269"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.32915564394752495
 		ArgOfPericenter	-0.2697364189960473
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5712,7 +5712,7 @@ Asteroid "Alderaan fragment 270"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.41749810406639354
 		ArgOfPericenter	-0.2390829868562605
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5733,7 +5733,7 @@ Asteroid "Alderaan fragment 271"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.24054523805577155
 		ArgOfPericenter	0.3199242368198818
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5754,7 +5754,7 @@ Asteroid "Alderaan fragment 272"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.17849385905484227
 		ArgOfPericenter	-0.0468622325899144
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5775,7 +5775,7 @@ Asteroid "Alderaan fragment 273"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.09738142778266734
 		ArgOfPericenter	-0.4330918731991673
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5796,7 +5796,7 @@ Asteroid "Alderaan fragment 274"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.32725837961241155
 		ArgOfPericenter	0.06659483148635681
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5817,7 +5817,7 @@ Asteroid "Alderaan fragment 275"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.39233743037322644
 		ArgOfPericenter	-0.36122417868838796
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5838,7 +5838,7 @@ Asteroid "Alderaan fragment 276"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3406447597772173
 		ArgOfPericenter	0.29574705398921364
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5859,7 +5859,7 @@ Asteroid "Alderaan fragment 277"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.49696065324052896
 		ArgOfPericenter	-0.14699830688469007
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5880,7 +5880,7 @@ Asteroid "Alderaan fragment 278"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4202597250479495
 		ArgOfPericenter	-0.3163656210450848
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5901,7 +5901,7 @@ Asteroid "Alderaan fragment 279"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.024417571212019817
 		ArgOfPericenter	0.4177459844847079
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5922,7 +5922,7 @@ Asteroid "Alderaan fragment 280"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2205176551055522
 		ArgOfPericenter	-0.48900561043421653
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5943,7 +5943,7 @@ Asteroid "Alderaan fragment 281"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.49532618537488915
 		ArgOfPericenter	0.1309285995604591
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5964,7 +5964,7 @@ Asteroid "Alderaan fragment 282"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.20787045154923123
 		ArgOfPericenter	0.285336958885301
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -5985,7 +5985,7 @@ Asteroid "Alderaan fragment 283"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.13373005169436702
 		ArgOfPericenter	0.21327890145540773
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6006,7 +6006,7 @@ Asteroid "Alderaan fragment 284"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3563710941481002
 		ArgOfPericenter	0.4150241407198766
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6027,7 +6027,7 @@ Asteroid "Alderaan fragment 285"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.21109064269567146
 		ArgOfPericenter	0.3666762710237027
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6048,7 +6048,7 @@ Asteroid "Alderaan fragment 286"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4261202578844303
 		ArgOfPericenter	-0.28379363356159926
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6069,7 +6069,7 @@ Asteroid "Alderaan fragment 287"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.10679290998988167
 		ArgOfPericenter	0.4399613113591173
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6090,7 +6090,7 @@ Asteroid "Alderaan fragment 288"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.47757601196639454
 		ArgOfPericenter	-0.4689784890827178
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6111,7 +6111,7 @@ Asteroid "Alderaan fragment 289"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.47620729233356374
 		ArgOfPericenter	0.4886980678852729
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6132,7 +6132,7 @@ Asteroid "Alderaan fragment 290"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3090532156734217
 		ArgOfPericenter	-0.010786032803885792
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6153,7 +6153,7 @@ Asteroid "Alderaan fragment 291"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.27508424345264326
 		ArgOfPericenter	-0.06471820343595103
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6174,7 +6174,7 @@ Asteroid "Alderaan fragment 292"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.32460503927726114
 		ArgOfPericenter	-0.29460005662320654
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6195,7 +6195,7 @@ Asteroid "Alderaan fragment 293"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3777865555519283
 		ArgOfPericenter	0.07189362081024653
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6216,7 +6216,7 @@ Asteroid "Alderaan fragment 294"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.08551713662725247
 		ArgOfPericenter	-0.13515381018688277
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6237,7 +6237,7 @@ Asteroid "Alderaan fragment 295"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.37719710706121556
 		ArgOfPericenter	-0.17523659934883917
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6258,7 +6258,7 @@ Asteroid "Alderaan fragment 296"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.19573076107595788
 		ArgOfPericenter	0.19239563483944255
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6279,7 +6279,7 @@ Asteroid "Alderaan fragment 297"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.15749436931463878
 		ArgOfPericenter	-0.30660293857159027
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6300,7 +6300,7 @@ Asteroid "Alderaan fragment 298"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2619004293900865
 		ArgOfPericenter	-0.2010258014980768
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6321,7 +6321,7 @@ Asteroid "Alderaan fragment 299"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1159423410820799
 		ArgOfPericenter	-0.06825412474784986
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6342,7 +6342,7 @@ Asteroid "Alderaan fragment 300"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.20502569587983943
 		ArgOfPericenter	-0.25352037845888487
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6363,7 +6363,7 @@ Asteroid "Alderaan fragment 301"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4737152098428685
 		ArgOfPericenter	-0.4142434872998132
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6384,7 +6384,7 @@ Asteroid "Alderaan fragment 302"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.44332255031028545
 		ArgOfPericenter	-0.42943493936575117
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6405,7 +6405,7 @@ Asteroid "Alderaan fragment 303"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1515416320247015
 		ArgOfPericenter	-0.462060066715807
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6426,7 +6426,7 @@ Asteroid "Alderaan fragment 304"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.26812591481842296
 		ArgOfPericenter	0.29086320807032995
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6447,7 +6447,7 @@ Asteroid "Alderaan fragment 305"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2352684903524631
 		ArgOfPericenter	-0.412834834038037
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6468,7 +6468,7 @@ Asteroid "Alderaan fragment 306"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.07528352240300451
 		ArgOfPericenter	0.07704927667271444
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6489,7 +6489,7 @@ Asteroid "Alderaan fragment 307"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.43444981187540044
 		ArgOfPericenter	0.15221649618651834
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6510,7 +6510,7 @@ Asteroid "Alderaan fragment 308"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4913882479128222
 		ArgOfPericenter	-0.2575497422665197
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6531,7 +6531,7 @@ Asteroid "Alderaan fragment 309"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.09935926246770344
 		ArgOfPericenter	0.08779472201749294
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6552,7 +6552,7 @@ Asteroid "Alderaan fragment 310"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.03753295176604776
 		ArgOfPericenter	0.42939801259275845
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6573,7 +6573,7 @@ Asteroid "Alderaan fragment 311"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.25827659878251974
 		ArgOfPericenter	0.36854927111660574
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6594,7 +6594,7 @@ Asteroid "Alderaan fragment 312"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.275067023593602
 		ArgOfPericenter	-0.42293189062929526
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6615,7 +6615,7 @@ Asteroid "Alderaan fragment 313"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3511015229667004
 		ArgOfPericenter	-0.13792355631036846
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6636,7 +6636,7 @@ Asteroid "Alderaan fragment 314"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.08575244523295666
 		ArgOfPericenter	-0.39826219692216636
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6657,7 +6657,7 @@ Asteroid "Alderaan fragment 315"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.47124796212018405
 		ArgOfPericenter	0.23012023506286994
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6678,7 +6678,7 @@ Asteroid "Alderaan fragment 316"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3488007863616486
 		ArgOfPericenter	-0.34070011260189137
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6699,7 +6699,7 @@ Asteroid "Alderaan fragment 317"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.20279130280190705
 		ArgOfPericenter	0.20747506257682158
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6720,7 +6720,7 @@ Asteroid "Alderaan fragment 318"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4000645683655889
 		ArgOfPericenter	0.4846495041975175
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6741,7 +6741,7 @@ Asteroid "Alderaan fragment 319"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.40534788970858815
 		ArgOfPericenter	0.32654007343341207
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6762,7 +6762,7 @@ Asteroid "Alderaan fragment 320"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.013375214559729454
 		ArgOfPericenter	0.41310269849913583
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6783,7 +6783,7 @@ Asteroid "Alderaan fragment 321"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19559683123790228
 		ArgOfPericenter	-0.02093251838403476
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6804,7 +6804,7 @@ Asteroid "Alderaan fragment 322"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.06621284458966004
 		ArgOfPericenter	-0.4699601255647554
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6825,7 +6825,7 @@ Asteroid "Alderaan fragment 323"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.26458951174729506
 		ArgOfPericenter	-0.03475575534100672
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6844,7 +6844,7 @@ Asteroid "Alderaan fragment 324"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.29309943274546624
 		ArgOfPericenter	0.40459447392193526
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6865,7 +6865,7 @@ Asteroid "Alderaan fragment 325"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3285207279004342
 		ArgOfPericenter	-0.11606537970481601
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6886,7 +6886,7 @@ Asteroid "Alderaan fragment 326"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.15140146754472905
 		ArgOfPericenter	-0.1541804098598093
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6907,7 +6907,7 @@ Asteroid "Alderaan fragment 327"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.41334442970488017
 		ArgOfPericenter	-0.16639342083674735
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6928,7 +6928,7 @@ Asteroid "Alderaan fragment 328"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.13759430949761153
 		ArgOfPericenter	0.28445762351440607
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6949,7 +6949,7 @@ Asteroid "Alderaan fragment 329"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.47960915654951275
 		ArgOfPericenter	-0.10619778314461992
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6970,7 +6970,7 @@ Asteroid "Alderaan fragment 330"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.009792123162432942
 		ArgOfPericenter	-0.4989220637003089
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -6991,7 +6991,7 @@ Asteroid "Alderaan fragment 331"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.046733100124131455
 		ArgOfPericenter	0.1942226984793478
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7012,7 +7012,7 @@ Asteroid "Alderaan fragment 332"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.48612853627178976
 		ArgOfPericenter	0.13481565760384828
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7033,7 +7033,7 @@ Asteroid "Alderaan fragment 333"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.08935181996290542
 		ArgOfPericenter	-0.08227173288730727
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7054,7 +7054,7 @@ Asteroid "Alderaan fragment 334"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.15050915427041123
 		ArgOfPericenter	0.3729720144328652
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7075,7 +7075,7 @@ Asteroid "Alderaan fragment 335"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.07525525367694563
 		ArgOfPericenter	0.4877901708285387
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7096,7 +7096,7 @@ Asteroid "Alderaan fragment 336"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4924237683698969
 		ArgOfPericenter	0.22762381891634476
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7117,7 +7117,7 @@ Asteroid "Alderaan fragment 337"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.10513649268031577
 		ArgOfPericenter	-0.4114395605285276
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7138,7 +7138,7 @@ Asteroid "Alderaan fragment 338"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.334816951185379
 		ArgOfPericenter	0.3891787878824109
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7159,7 +7159,7 @@ Asteroid "Alderaan fragment 339"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.12085323065754239
 		ArgOfPericenter	0.07890245717925592
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7180,7 +7180,7 @@ Asteroid "Alderaan fragment 340"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4150132685090997
 		ArgOfPericenter	-0.2315761792729687
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7201,7 +7201,7 @@ Asteroid "Alderaan fragment 341"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.15246816417317766
 		ArgOfPericenter	-0.33874679077622316
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7222,7 +7222,7 @@ Asteroid "Alderaan fragment 342"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.20036384279240005
 		ArgOfPericenter	-0.3188670787897009
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7243,7 +7243,7 @@ Asteroid "Alderaan fragment 343"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2171159931573028
 		ArgOfPericenter	-0.25382835388172376
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7264,7 +7264,7 @@ Asteroid "Alderaan fragment 344"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.39111470119087
 		ArgOfPericenter	0.3523623528808617
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7285,7 +7285,7 @@ Asteroid "Alderaan fragment 345"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.06396966763201417
 		ArgOfPericenter	-0.3144143988242396
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7306,7 +7306,7 @@ Asteroid "Alderaan fragment 346"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4945610728243025
 		ArgOfPericenter	-0.17543058240359888
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7327,7 +7327,7 @@ Asteroid "Alderaan fragment 347"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.08482769180459282
 		ArgOfPericenter	0.36752878252339605
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7348,7 +7348,7 @@ Asteroid "Alderaan fragment 348"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.35116998964115087
 		ArgOfPericenter	-0.15336647480182675
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7369,7 +7369,7 @@ Asteroid "Alderaan fragment 349"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.11664339823673853
 		ArgOfPericenter	0.37400829847680395
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7390,7 +7390,7 @@ Asteroid "Alderaan fragment 350"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4839040378718642
 		ArgOfPericenter	0.18255794672576509
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7411,7 +7411,7 @@ Asteroid "Alderaan fragment 351"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.30601984946690297
 		ArgOfPericenter	-0.19196586694962825
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7432,7 +7432,7 @@ Asteroid "Alderaan fragment 352"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.007431792642731749
 		ArgOfPericenter	0.4684302133469591
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7453,7 +7453,7 @@ Asteroid "Alderaan fragment 353"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.05097970900627624
 		ArgOfPericenter	0.05688986863105128
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7474,7 +7474,7 @@ Asteroid "Alderaan fragment 354"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3597016990919645
 		ArgOfPericenter	0.2935447115417149
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7495,7 +7495,7 @@ Asteroid "Alderaan fragment 355"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4312697520350395
 		ArgOfPericenter	0.4188836711239514
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7516,7 +7516,7 @@ Asteroid "Alderaan fragment 356"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.30304629345837597
 		ArgOfPericenter	-0.124797998783028
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7537,7 +7537,7 @@ Asteroid "Alderaan fragment 357"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1296582537263654
 		ArgOfPericenter	0.2643081353699641
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7558,7 +7558,7 @@ Asteroid "Alderaan fragment 358"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.17772387236612397
 		ArgOfPericenter	-0.2803417281922599
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7579,7 +7579,7 @@ Asteroid "Alderaan fragment 359"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3540867324511603
 		ArgOfPericenter	-0.01753185430381332
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7600,7 +7600,7 @@ Asteroid "Alderaan fragment 360"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2665775099368439
 		ArgOfPericenter	0.3172677220104706
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7621,7 +7621,7 @@ Asteroid "Alderaan fragment 361"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3513058162040954
 		ArgOfPericenter	-0.3597697621764183
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7642,7 +7642,7 @@ Asteroid "Alderaan fragment 362"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.31129596404317006
 		ArgOfPericenter	-0.37644677173675134
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7663,7 +7663,7 @@ Asteroid "Alderaan fragment 363"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.37653607478832174
 		ArgOfPericenter	0.057587136493555846
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7684,7 +7684,7 @@ Asteroid "Alderaan fragment 364"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.24956127981725518
 		ArgOfPericenter	-0.00514791270042203
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7705,7 +7705,7 @@ Asteroid "Alderaan fragment 365"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.21647772180709435
 		ArgOfPericenter	-0.08728682791889031
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7726,7 +7726,7 @@ Asteroid "Alderaan fragment 366"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.18423756953963932
 		ArgOfPericenter	0.097150175075845
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7747,7 +7747,7 @@ Asteroid "Alderaan fragment 367"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.34854381717217875
 		ArgOfPericenter	0.11816961143559845
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7768,7 +7768,7 @@ Asteroid "Alderaan fragment 368"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.005583707181920361
 		ArgOfPericenter	0.4499981146330565
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7789,7 +7789,7 @@ Asteroid "Alderaan fragment 369"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2919278155309529
 		ArgOfPericenter	0.07883626265863075
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7810,7 +7810,7 @@ Asteroid "Alderaan fragment 370"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.27264911020574767
 		ArgOfPericenter	-0.07980337368292834
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7831,7 +7831,7 @@ Asteroid "Alderaan fragment 371"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.36853848123872257
 		ArgOfPericenter	-0.1822431583852755
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7852,7 +7852,7 @@ Asteroid "Alderaan fragment 372"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2314794476626474
 		ArgOfPericenter	-0.4101586175680111
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7873,7 +7873,7 @@ Asteroid "Alderaan fragment 373"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1209473557606412
 		ArgOfPericenter	-0.47436047989342744
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7894,7 +7894,7 @@ Asteroid "Alderaan fragment 374"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3095085597131124
 		ArgOfPericenter	0.2369001340546224
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7915,7 +7915,7 @@ Asteroid "Alderaan fragment 375"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.17877944351672526
 		ArgOfPericenter	-0.47056077492149506
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7936,7 +7936,7 @@ Asteroid "Alderaan fragment 376"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3677763717125959
 		ArgOfPericenter	0.16325937712089
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7957,7 +7957,7 @@ Asteroid "Alderaan fragment 377"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.22202053098552366
 		ArgOfPericenter	0.3123947930931884
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7978,7 +7978,7 @@ Asteroid "Alderaan fragment 378"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.43176160344634296
 		ArgOfPericenter	0.327681917607496
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -7999,7 +7999,7 @@ Asteroid "Alderaan fragment 379"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4884936637007872
 		ArgOfPericenter	-0.19502163979469656
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8020,7 +8020,7 @@ Asteroid "Alderaan fragment 380"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.33197726075892997
 		ArgOfPericenter	-0.2687903685867029
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8041,7 +8041,7 @@ Asteroid "Alderaan fragment 381"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.34624136407342276
 		ArgOfPericenter	0.11415167557613048
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8062,7 +8062,7 @@ Asteroid "Alderaan fragment 382"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.37276074149486305
 		ArgOfPericenter	0.40847168096296627
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8083,7 +8083,7 @@ Asteroid "Alderaan fragment 383"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.10027790240941425
 		ArgOfPericenter	0.3342080929855692
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8104,7 +8104,7 @@ Asteroid "Alderaan fragment 384"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.016782005197482852
 		ArgOfPericenter	0.3262165493970818
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8125,7 +8125,7 @@ Asteroid "Alderaan fragment 385"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4736708200937916
 		ArgOfPericenter	0.08950702578832836
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8146,7 +8146,7 @@ Asteroid "Alderaan fragment 386"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4884558479754363
 		ArgOfPericenter	-0.3176447386285455
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8167,7 +8167,7 @@ Asteroid "Alderaan fragment 387"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.22898838627774454
 		ArgOfPericenter	0.4903619482035618
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8188,7 +8188,7 @@ Asteroid "Alderaan fragment 388"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3746552892938759
 		ArgOfPericenter	0.401812980512269
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8209,7 +8209,7 @@ Asteroid "Alderaan fragment 389"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.13678721163560104
 		ArgOfPericenter	-0.14353334875045798
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8230,7 +8230,7 @@ Asteroid "Alderaan fragment 390"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.13580923775641085
 		ArgOfPericenter	-0.2988950635553168
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8251,7 +8251,7 @@ Asteroid "Alderaan fragment 391"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.060663275689402996
 		ArgOfPericenter	0.41202600165607317
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8272,7 +8272,7 @@ Asteroid "Alderaan fragment 392"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.28270007191238145
 		ArgOfPericenter	0.38713417795503136
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8293,7 +8293,7 @@ Asteroid "Alderaan fragment 393"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.007205113951900155
 		ArgOfPericenter	-0.14385305691032235
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8314,7 +8314,7 @@ Asteroid "Alderaan fragment 394"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3092369685188068
 		ArgOfPericenter	0.041783088817778036
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8335,7 +8335,7 @@ Asteroid "Alderaan fragment 395"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.027702597149984798
 		ArgOfPericenter	0.06039092907525334
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8356,7 +8356,7 @@ Asteroid "Alderaan fragment 396"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4862110718824696
 		ArgOfPericenter	0.028509166293198218
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8377,7 +8377,7 @@ Asteroid "Alderaan fragment 397"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.46538304364183436
 		ArgOfPericenter	0.3598268346786816
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8398,7 +8398,7 @@ Asteroid "Alderaan fragment 398"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.39680283285652607
 		ArgOfPericenter	-0.40903062156716263
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8419,7 +8419,7 @@ Asteroid "Alderaan fragment 399"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.479104860051322
 		ArgOfPericenter	0.1621017760061212
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8440,7 +8440,7 @@ Asteroid "Alderaan fragment 400"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3992761400594733
 		ArgOfPericenter	0.05158836535860667
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8461,7 +8461,7 @@ Asteroid "Alderaan fragment 401"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.35683947571336416
 		ArgOfPericenter	0.3022835352925084
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8482,7 +8482,7 @@ Asteroid "Alderaan fragment 402"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.48970086257756096
 		ArgOfPericenter	-0.4107611950664595
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8503,7 +8503,7 @@ Asteroid "Alderaan fragment 403"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.24317412118786652
 		ArgOfPericenter	-0.24534965984271317
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8524,7 +8524,7 @@ Asteroid "Alderaan fragment 404"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.42644209320586746
 		ArgOfPericenter	-0.11911451669345618
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8545,7 +8545,7 @@ Asteroid "Alderaan fragment 405"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4099113070421314
 		ArgOfPericenter	-0.4839589285227486
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8566,7 +8566,7 @@ Asteroid "Alderaan fragment 406"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3019288786736518
 		ArgOfPericenter	-0.010461225302664023
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8587,7 +8587,7 @@ Asteroid "Alderaan fragment 407"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.445723186650807
 		ArgOfPericenter	0.13162199171090816
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8608,7 +8608,7 @@ Asteroid "Alderaan fragment 408"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1935429716113608
 		ArgOfPericenter	0.4054677161838941
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8629,7 +8629,7 @@ Asteroid "Alderaan fragment 409"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4611687419555651
 		ArgOfPericenter	0.14427812449061017
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8650,7 +8650,7 @@ Asteroid "Alderaan fragment 410"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.04732803750240888
 		ArgOfPericenter	0.2875708124738966
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8671,7 +8671,7 @@ Asteroid "Alderaan fragment 411"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.23597580162558174
 		ArgOfPericenter	-0.037561056536129844
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8692,7 +8692,7 @@ Asteroid "Alderaan fragment 412"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4062704588547088
 		ArgOfPericenter	-0.033359752757518124
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8713,7 +8713,7 @@ Asteroid "Alderaan fragment 413"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.06400389177715837
 		ArgOfPericenter	0.05822848931740976
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8734,7 +8734,7 @@ Asteroid "Alderaan fragment 414"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2004961445106357
 		ArgOfPericenter	-0.23008858152206835
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8755,7 +8755,7 @@ Asteroid "Alderaan fragment 415"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.0314839303536435
 		ArgOfPericenter	0.479711030476877
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8776,7 +8776,7 @@ Asteroid "Alderaan fragment 416"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2387192696365238
 		ArgOfPericenter	0.230798674234017
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8797,7 +8797,7 @@ Asteroid "Alderaan fragment 417"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.28484602197873643
 		ArgOfPericenter	-0.08547031442247077
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8818,7 +8818,7 @@ Asteroid "Alderaan fragment 418"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3904354818373327
 		ArgOfPericenter	0.04420794214293278
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8839,7 +8839,7 @@ Asteroid "Alderaan fragment 419"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.12698586893833175
 		ArgOfPericenter	-0.294168817300296
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8860,7 +8860,7 @@ Asteroid "Alderaan fragment 420"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.05750854850168852
 		ArgOfPericenter	-0.006411913265881086
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8881,7 +8881,7 @@ Asteroid "Alderaan fragment 421"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4480124676341226
 		ArgOfPericenter	-0.24356849036271588
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8902,7 +8902,7 @@ Asteroid "Alderaan fragment 422"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3554927604112301
 		ArgOfPericenter	0.11118939720252063
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8923,7 +8923,7 @@ Asteroid "Alderaan fragment 423"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.21598847352205885
 		ArgOfPericenter	0.4367754081414178
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8944,7 +8944,7 @@ Asteroid "Alderaan fragment 424"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.340110835601101
 		ArgOfPericenter	0.1818390830080553
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8965,7 +8965,7 @@ Asteroid "Alderaan fragment 425"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1810963636444518
 		ArgOfPericenter	-0.09872627311156901
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -8986,7 +8986,7 @@ Asteroid "Alderaan fragment 426"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.35252077641496893
 		ArgOfPericenter	0.23944653976017893
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9007,7 +9007,7 @@ Asteroid "Alderaan fragment 427"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19883309591750442
 		ArgOfPericenter	-0.2713118209726334
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9028,7 +9028,7 @@ Asteroid "Alderaan fragment 428"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4817131970099252
 		ArgOfPericenter	0.2413431918728267
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9049,7 +9049,7 @@ Asteroid "Alderaan fragment 429"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.29359637848817144
 		ArgOfPericenter	-0.36050183065049257
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9070,7 +9070,7 @@ Asteroid "Alderaan fragment 430"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.19315031253488968
 		ArgOfPericenter	-0.227590508824147
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9091,7 +9091,7 @@ Asteroid "Alderaan fragment 431"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.044215586013898744
 		ArgOfPericenter	-0.4890721719554886
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9112,7 +9112,7 @@ Asteroid "Alderaan fragment 432"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2578601379786436
 		ArgOfPericenter	0.31142337910599127
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9133,7 +9133,7 @@ Asteroid "Alderaan fragment 433"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.0032633043811695073
 		ArgOfPericenter	0.44937194577505757
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9154,7 +9154,7 @@ Asteroid "Alderaan fragment 434"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.18736381440878114
 		ArgOfPericenter	0.48423571389223874
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9175,7 +9175,7 @@ Asteroid "Alderaan fragment 435"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4495843674432254
 		ArgOfPericenter	-0.4297629505596007
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9196,7 +9196,7 @@ Asteroid "Alderaan fragment 436"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.011729807815976767
 		ArgOfPericenter	-0.4443584762536752
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9217,7 +9217,7 @@ Asteroid "Alderaan fragment 437"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.24155060969606423
 		ArgOfPericenter	0.4391157425144847
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9238,7 +9238,7 @@ Asteroid "Alderaan fragment 438"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.131768928706693
 		ArgOfPericenter	-0.42473101148554027
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9259,7 +9259,7 @@ Asteroid "Alderaan fragment 439"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3964075758883706
 		ArgOfPericenter	0.25356052522404493
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9280,7 +9280,7 @@ Asteroid "Alderaan fragment 440"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.48006306259279363
 		ArgOfPericenter	0.15075562542118992
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9301,7 +9301,7 @@ Asteroid "Alderaan fragment 441"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.10268748755704371
 		ArgOfPericenter	0.2670648200107699
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9322,7 +9322,7 @@ Asteroid "Alderaan fragment 442"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.18119003527546063
 		ArgOfPericenter	0.3253531562225114
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9343,7 +9343,7 @@ Asteroid "Alderaan fragment 443"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.16974704885560343
 		ArgOfPericenter	0.08904135228899246
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9364,7 +9364,7 @@ Asteroid "Alderaan fragment 444"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1396752917503309
 		ArgOfPericenter	-0.4030946485903695
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9385,7 +9385,7 @@ Asteroid "Alderaan fragment 445"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.42285877615201906
 		ArgOfPericenter	0.4101012562253814
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9406,7 +9406,7 @@ Asteroid "Alderaan fragment 446"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.24782120919623196
 		ArgOfPericenter	0.28229938806151933
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9427,7 +9427,7 @@ Asteroid "Alderaan fragment 447"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.0512316288690865
 		ArgOfPericenter	0.2304531408201842
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9448,7 +9448,7 @@ Asteroid "Alderaan fragment 448"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2800902465680588
 		ArgOfPericenter	0.34942293766793453
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9469,7 +9469,7 @@ Asteroid "Alderaan fragment 449"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.24953755792013232
 		ArgOfPericenter	-0.48889215865069724
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9490,7 +9490,7 @@ Asteroid "Alderaan fragment 450"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2634107847708541
 		ArgOfPericenter	0.45254497461634846
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9511,7 +9511,7 @@ Asteroid "Alderaan fragment 451"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.22143321203023736
 		ArgOfPericenter	0.30441990418581877
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9532,7 +9532,7 @@ Asteroid "Alderaan fragment 452"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.49384195767441197
 		ArgOfPericenter	-0.07951344862524767
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9553,7 +9553,7 @@ Asteroid "Alderaan fragment 453"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.11899296717844654
 		ArgOfPericenter	-0.49084691860971885
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9574,7 +9574,7 @@ Asteroid "Alderaan fragment 454"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2687715383799305
 		ArgOfPericenter	-0.4196790843672398
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9595,7 +9595,7 @@ Asteroid "Alderaan fragment 455"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.11590368214179025
 		ArgOfPericenter	0.3682849449301847
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9616,7 +9616,7 @@ Asteroid "Alderaan fragment 456"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4484633786743428
 		ArgOfPericenter	-0.09042759372140263
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9637,7 +9637,7 @@ Asteroid "Alderaan fragment 457"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.03149696798624979
 		ArgOfPericenter	-0.25338758827327035
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9658,7 +9658,7 @@ Asteroid "Alderaan fragment 458"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.22140144530879324
 		ArgOfPericenter	0.051530900508177435
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9679,7 +9679,7 @@ Asteroid "Alderaan fragment 459"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3994445996199404
 		ArgOfPericenter	-0.021829653472840715
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9700,7 +9700,7 @@ Asteroid "Alderaan fragment 460"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.00810889703582962
 		ArgOfPericenter	0.0697507081095654
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9721,7 +9721,7 @@ Asteroid "Alderaan fragment 461"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.388282487795812
 		ArgOfPericenter	0.23526032693584586
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9742,7 +9742,7 @@ Asteroid "Alderaan fragment 462"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.22094474691638266
 		ArgOfPericenter	0.054155263090445604
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9763,7 +9763,7 @@ Asteroid "Alderaan fragment 463"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4133667814177695
 		ArgOfPericenter	-0.21991978706294446
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9784,7 +9784,7 @@ Asteroid "Alderaan fragment 464"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4799518833604438
 		ArgOfPericenter	0.3046590398185193
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9805,7 +9805,7 @@ Asteroid "Alderaan fragment 465"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.43688840909711657
 		ArgOfPericenter	0.13857406171317588
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9826,7 +9826,7 @@ Asteroid "Alderaan fragment 466"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.13644922018245398
 		ArgOfPericenter	-0.03231481382943957
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9847,7 +9847,7 @@ Asteroid "Alderaan fragment 467"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.0517914349254367
 		ArgOfPericenter	-0.2697181837124768
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9868,7 +9868,7 @@ Asteroid "Alderaan fragment 468"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.11983171898928269
 		ArgOfPericenter	-0.4401695316530697
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9889,7 +9889,7 @@ Asteroid "Alderaan fragment 469"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4012874988617493
 		ArgOfPericenter	0.3054900898059292
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9910,7 +9910,7 @@ Asteroid "Alderaan fragment 470"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19582379517243553
 		ArgOfPericenter	-0.009747854401428557
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9931,7 +9931,7 @@ Asteroid "Alderaan fragment 471"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2822699204656295
 		ArgOfPericenter	0.3620889064564746
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9952,7 +9952,7 @@ Asteroid "Alderaan fragment 472"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.32856070650159863
 		ArgOfPericenter	0.25754470156076714
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9973,7 +9973,7 @@ Asteroid "Alderaan fragment 473"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3739353687519271
 		ArgOfPericenter	0.22335713188699646
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -9994,7 +9994,7 @@ Asteroid "Alderaan fragment 474"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.27462274070481585
 		ArgOfPericenter	0.10511545448371196
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10015,7 +10015,7 @@ Asteroid "Alderaan fragment 475"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.07647257676693853
 		ArgOfPericenter	0.41920922860114573
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10036,7 +10036,7 @@ Asteroid "Alderaan fragment 476"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4897243780875409
 		ArgOfPericenter	-0.4417721123482675
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10057,7 +10057,7 @@ Asteroid "Alderaan fragment 477"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.12005907261504267
 		ArgOfPericenter	0.3062389360392229
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10078,7 +10078,7 @@ Asteroid "Alderaan fragment 478"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.45970007925090905
 		ArgOfPericenter	0.21172452848619183
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10099,7 +10099,7 @@ Asteroid "Alderaan fragment 479"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.11052259555939392
 		ArgOfPericenter	-0.19258954608364875
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10120,7 +10120,7 @@ Asteroid "Alderaan fragment 480"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4332129838840385
 		ArgOfPericenter	-0.4078896509455925
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10141,7 +10141,7 @@ Asteroid "Alderaan fragment 481"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.21191455390508196
 		ArgOfPericenter	-0.17978737831704594
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10162,7 +10162,7 @@ Asteroid "Alderaan fragment 482"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1674480093572298
 		ArgOfPericenter	0.012840273817907977
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10183,7 +10183,7 @@ Asteroid "Alderaan fragment 483"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.09877312607074296
 		ArgOfPericenter	-0.1557584028101041
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10204,7 +10204,7 @@ Asteroid "Alderaan fragment 484"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.15565719020129565
 		ArgOfPericenter	0.14361351960749225
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10225,7 +10225,7 @@ Asteroid "Alderaan fragment 485"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.06532638452715778
 		ArgOfPericenter	-0.4301115815797736
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10246,7 +10246,7 @@ Asteroid "Alderaan fragment 486"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.13256470274422727
 		ArgOfPericenter	-0.022733681177589338
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10267,7 +10267,7 @@ Asteroid "Alderaan fragment 487"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4520799471965121
 		ArgOfPericenter	0.09387999574982198
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10288,7 +10288,7 @@ Asteroid "Alderaan fragment 488"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1768933032580461
 		ArgOfPericenter	0.43288920752278925
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10309,7 +10309,7 @@ Asteroid "Alderaan fragment 489"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.39963120337548297
 		ArgOfPericenter	0.46656786989822274
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10330,7 +10330,7 @@ Asteroid "Alderaan fragment 490"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2326597961616248
 		ArgOfPericenter	0.32155906145165936
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10351,7 +10351,7 @@ Asteroid "Alderaan fragment 491"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.11438378092419321
 		ArgOfPericenter	0.04063444832641527
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10372,7 +10372,7 @@ Asteroid "Alderaan fragment 492"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.07003250640046832
 		ArgOfPericenter	0.15274953859684182
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10393,7 +10393,7 @@ Asteroid "Alderaan fragment 493"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.20456630163435263
 		ArgOfPericenter	0.1877088449022365
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10414,7 +10414,7 @@ Asteroid "Alderaan fragment 494"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3586256568139876
 		ArgOfPericenter	0.2584952209249294
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10435,7 +10435,7 @@ Asteroid "Alderaan fragment 495"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.32673977713018953
 		ArgOfPericenter	0.396657400616938
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10456,7 +10456,7 @@ Asteroid "Alderaan fragment 496"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.015267103835185147
 		ArgOfPericenter	0.17174113060122165
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10477,7 +10477,7 @@ Asteroid "Alderaan fragment 497"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4044781633137613
 		ArgOfPericenter	-0.32351960792385226
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10498,7 +10498,7 @@ Asteroid "Alderaan fragment 498"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4358300274949175
 		ArgOfPericenter	0.26347896330540954
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10519,7 +10519,7 @@ Asteroid "Alderaan fragment 499"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3229726569500222
 		ArgOfPericenter	-0.044619812686817806
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10540,7 +10540,7 @@ Asteroid "Alderaan fragment 500"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.12642736562411416
 		ArgOfPericenter	0.3058132585761697
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10561,7 +10561,7 @@ Asteroid "Alderaan fragment 501"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1596818485979543
 		ArgOfPericenter	-0.031195503549323544
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10582,7 +10582,7 @@ Asteroid "Alderaan fragment 502"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1466492272348735
 		ArgOfPericenter	-0.12058958320003854
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10603,7 +10603,7 @@ Asteroid "Alderaan fragment 503"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.20770731496086925
 		ArgOfPericenter	0.3510214515040341
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10624,7 +10624,7 @@ Asteroid "Alderaan fragment 504"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.0816457107598112
 		ArgOfPericenter	-0.12611096461782356
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10645,7 +10645,7 @@ Asteroid "Alderaan fragment 505"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3081133213636418
 		ArgOfPericenter	-0.017219972733934497
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10666,7 +10666,7 @@ Asteroid "Alderaan fragment 506"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.09659320574932317
 		ArgOfPericenter	-0.18748410205195765
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10687,7 +10687,7 @@ Asteroid "Alderaan fragment 507"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.39552523532870176
 		ArgOfPericenter	0.014204762485289457
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10708,7 +10708,7 @@ Asteroid "Alderaan fragment 508"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2731652871283585
 		ArgOfPericenter	-0.25928984816327105
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10729,7 +10729,7 @@ Asteroid "Alderaan fragment 509"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2622550224078093
 		ArgOfPericenter	0.07927920201349303
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10750,7 +10750,7 @@ Asteroid "Alderaan fragment 510"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2021366638125558
 		ArgOfPericenter	-0.18076351790132095
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10771,7 +10771,7 @@ Asteroid "Alderaan fragment 511"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.13215367197532568
 		ArgOfPericenter	0.16728485590120024
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10792,7 +10792,7 @@ Asteroid "Alderaan fragment 512"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.47957387194061907
 		ArgOfPericenter	-0.3462224618388233
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10813,7 +10813,7 @@ Asteroid "Alderaan fragment 513"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.30951898900798813
 		ArgOfPericenter	0.3262525444836659
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10834,7 +10834,7 @@ Asteroid "Alderaan fragment 514"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.10983502181054738
 		ArgOfPericenter	0.20028755836305356
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10855,7 +10855,7 @@ Asteroid "Alderaan fragment 515"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3875948146489815
 		ArgOfPericenter	-0.3957493825465309
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10876,7 +10876,7 @@ Asteroid "Alderaan fragment 516"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4250464351676312
 		ArgOfPericenter	-0.38320133030711967
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10897,7 +10897,7 @@ Asteroid "Alderaan fragment 517"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2711667864672883
 		ArgOfPericenter	0.22959601375067373
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10918,7 +10918,7 @@ Asteroid "Alderaan fragment 518"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4874371107230149
 		ArgOfPericenter	-0.3207883094813144
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10939,7 +10939,7 @@ Asteroid "Alderaan fragment 519"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.034703608574340405
 		ArgOfPericenter	0.25418007693873845
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10960,7 +10960,7 @@ Asteroid "Alderaan fragment 520"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3971280493545929
 		ArgOfPericenter	-0.06734929321334038
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -10981,7 +10981,7 @@ Asteroid "Alderaan fragment 521"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.42857970050290906
 		ArgOfPericenter	0.3781252584641699
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11002,7 +11002,7 @@ Asteroid "Alderaan fragment 522"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2792931147892439
 		ArgOfPericenter	0.10939863961547436
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11023,7 +11023,7 @@ Asteroid "Alderaan fragment 523"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1713760047193591
 		ArgOfPericenter	-0.21585059035490528
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11044,7 +11044,7 @@ Asteroid "Alderaan fragment 524"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1890718151334254
 		ArgOfPericenter	0.08559809213256553
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11065,7 +11065,7 @@ Asteroid "Alderaan fragment 525"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4860788597731227
 		ArgOfPericenter	0.49363981969073234
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11086,7 +11086,7 @@ Asteroid "Alderaan fragment 526"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.06410158362759666
 		ArgOfPericenter	0.04935638496989314
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11107,7 +11107,7 @@ Asteroid "Alderaan fragment 527"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.09136401680890827
 		ArgOfPericenter	-0.3734040182494336
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11128,7 +11128,7 @@ Asteroid "Alderaan fragment 528"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.12564964114093913
 		ArgOfPericenter	-0.40106979639050855
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11149,7 +11149,7 @@ Asteroid "Alderaan fragment 529"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.029946602177286397
 		ArgOfPericenter	-0.033665623647355813
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11170,7 +11170,7 @@ Asteroid "Alderaan fragment 530"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.11717073870896533
 		ArgOfPericenter	-0.07782479867973491
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11191,7 +11191,7 @@ Asteroid "Alderaan fragment 531"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.03872824537284303
 		ArgOfPericenter	-0.4648072395425935
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11212,7 +11212,7 @@ Asteroid "Alderaan fragment 532"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.065780965071351
 		ArgOfPericenter	-0.2548464470708397
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11233,7 +11233,7 @@ Asteroid "Alderaan fragment 533"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.354440512493017
 		ArgOfPericenter	0.025270348498401263
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11254,7 +11254,7 @@ Asteroid "Alderaan fragment 534"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3605717479031605
 		ArgOfPericenter	-0.44240535981273266
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11275,7 +11275,7 @@ Asteroid "Alderaan fragment 535"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2981075045077536
 		ArgOfPericenter	-0.16014306637237186
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11296,7 +11296,7 @@ Asteroid "Alderaan fragment 536"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4054722112865
 		ArgOfPericenter	0.283322994429418
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11317,7 +11317,7 @@ Asteroid "Alderaan fragment 537"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.007536323426707736
 		ArgOfPericenter	-0.13497310967671927
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11338,7 +11338,7 @@ Asteroid "Alderaan fragment 538"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.10310544353311613
 		ArgOfPericenter	0.3185707280236838
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11359,7 +11359,7 @@ Asteroid "Alderaan fragment 539"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.04827502215644075
 		ArgOfPericenter	0.38465442188939014
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11380,7 +11380,7 @@ Asteroid "Alderaan fragment 540"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.032556616111593994
 		ArgOfPericenter	-0.10318068039755934
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11401,7 +11401,7 @@ Asteroid "Alderaan fragment 541"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.07611228514735002
 		ArgOfPericenter	-0.3064983089571496
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11422,7 +11422,7 @@ Asteroid "Alderaan fragment 542"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.338072939737059
 		ArgOfPericenter	0.2350151765279167
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11443,7 +11443,7 @@ Asteroid "Alderaan fragment 543"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.38008069104380926
 		ArgOfPericenter	0.001702449338708334
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11464,7 +11464,7 @@ Asteroid "Alderaan fragment 544"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4477179293223341
 		ArgOfPericenter	-0.290034133587021
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11485,7 +11485,7 @@ Asteroid "Alderaan fragment 545"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.09492569189756206
 		ArgOfPericenter	0.33990635536270253
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11506,7 +11506,7 @@ Asteroid "Alderaan fragment 546"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.034345178284323374
 		ArgOfPericenter	0.07476067872930547
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11527,7 +11527,7 @@ Asteroid "Alderaan fragment 547"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.12916831611533242
 		ArgOfPericenter	-0.4086116318578803
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11548,7 +11548,7 @@ Asteroid "Alderaan fragment 548"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19975776499430098
 		ArgOfPericenter	-0.3423129637694301
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11569,7 +11569,7 @@ Asteroid "Alderaan fragment 549"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.23927474639525026
 		ArgOfPericenter	0.2536504188634572
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11590,7 +11590,7 @@ Asteroid "Alderaan fragment 550"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.26492749056085185
 		ArgOfPericenter	-0.1504766446966962
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11611,7 +11611,7 @@ Asteroid "Alderaan fragment 551"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.08541499090459514
 		ArgOfPericenter	0.4671444627728111
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11632,7 +11632,7 @@ Asteroid "Alderaan fragment 552"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.24512757611823266
 		ArgOfPericenter	0.07173977474097049
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11653,7 +11653,7 @@ Asteroid "Alderaan fragment 553"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4230822385856813
 		ArgOfPericenter	0.4586890285371459
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11674,7 +11674,7 @@ Asteroid "Alderaan fragment 554"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2391142313477116
 		ArgOfPericenter	-0.03770677423411051
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11695,7 +11695,7 @@ Asteroid "Alderaan fragment 555"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.23785334137771663
 		ArgOfPericenter	-0.33317202482697206
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11716,7 +11716,7 @@ Asteroid "Alderaan fragment 556"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.16925382686363222
 		ArgOfPericenter	0.3214415041931008
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11737,7 +11737,7 @@ Asteroid "Alderaan fragment 557"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.12888429225171116
 		ArgOfPericenter	0.009855410684952104
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11758,7 +11758,7 @@ Asteroid "Alderaan fragment 558"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.37720142286107117
 		ArgOfPericenter	0.41326547083863996
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11779,7 +11779,7 @@ Asteroid "Alderaan fragment 559"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2370692671153638
 		ArgOfPericenter	-0.30983096552591527
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11800,7 +11800,7 @@ Asteroid "Alderaan fragment 560"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.11210069917908683
 		ArgOfPericenter	-0.41331340638313263
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11821,7 +11821,7 @@ Asteroid "Alderaan fragment 561"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.08009549412433803
 		ArgOfPericenter	-0.20382571842609365
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11842,7 +11842,7 @@ Asteroid "Alderaan fragment 562"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19083469845404422
 		ArgOfPericenter	-0.41812447991855073
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11863,7 +11863,7 @@ Asteroid "Alderaan fragment 563"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.39093235455750386
 		ArgOfPericenter	0.20272786275952814
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11884,7 +11884,7 @@ Asteroid "Alderaan fragment 564"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4394486259353866
 		ArgOfPericenter	-0.4838559431593633
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11905,7 +11905,7 @@ Asteroid "Alderaan fragment 565"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.16144655262922303
 		ArgOfPericenter	-0.4213965075760404
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11926,7 +11926,7 @@ Asteroid "Alderaan fragment 566"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.47441264251591353
 		ArgOfPericenter	0.2099548882907516
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11947,7 +11947,7 @@ Asteroid "Alderaan fragment 567"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4590225202034647
 		ArgOfPericenter	0.3766325598372332
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11966,7 +11966,7 @@ Asteroid "Alderaan fragment 568"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.48316974429401893
 		ArgOfPericenter	0.4780046510794469
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -11987,7 +11987,7 @@ Asteroid "Alderaan fragment 569"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.38786562204435227
 		ArgOfPericenter	0.31951430368825606
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12008,7 +12008,7 @@ Asteroid "Alderaan fragment 570"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2698063656550771
 		ArgOfPericenter	0.18327608051896094
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12029,7 +12029,7 @@ Asteroid "Alderaan fragment 571"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2697711190169285
 		ArgOfPericenter	-0.4123163820576995
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12050,7 +12050,7 @@ Asteroid "Alderaan fragment 572"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.22365397229953798
 		ArgOfPericenter	-0.18751537589699774
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12071,7 +12071,7 @@ Asteroid "Alderaan fragment 573"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.481662264229322
 		ArgOfPericenter	-0.46217155655529363
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12092,7 +12092,7 @@ Asteroid "Alderaan fragment 574"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4323942015984543
 		ArgOfPericenter	0.1398379195281979
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12113,7 +12113,7 @@ Asteroid "Alderaan fragment 575"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.15801476961585692
 		ArgOfPericenter	0.4329395734499851
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12134,7 +12134,7 @@ Asteroid "Alderaan fragment 576"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3029770463473206
 		ArgOfPericenter	0.2865132465050565
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12155,7 +12155,7 @@ Asteroid "Alderaan fragment 577"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.36811051406544604
 		ArgOfPericenter	-0.26646150111406164
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12176,7 +12176,7 @@ Asteroid "Alderaan fragment 578"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.32859713603847884
 		ArgOfPericenter	-0.012740697852587135
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12197,7 +12197,7 @@ Asteroid "Alderaan fragment 579"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2230608446600273
 		ArgOfPericenter	0.27436253184933546
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12218,7 +12218,7 @@ Asteroid "Alderaan fragment 580"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.24277109067435032
 		ArgOfPericenter	-0.4317350902846331
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12239,7 +12239,7 @@ Asteroid "Alderaan fragment 581"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4002535347806023
 		ArgOfPericenter	0.2578170456843504
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12260,7 +12260,7 @@ Asteroid "Alderaan fragment 582"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.13424305884785093
 		ArgOfPericenter	-0.3421241793893389
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12281,7 +12281,7 @@ Asteroid "Alderaan fragment 583"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19843624872456922
 		ArgOfPericenter	-0.0626076322938901
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12302,7 +12302,7 @@ Asteroid "Alderaan fragment 584"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2315966550496863
 		ArgOfPericenter	-0.2826467121757943
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12323,7 +12323,7 @@ Asteroid "Alderaan fragment 585"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4854726257754025
 		ArgOfPericenter	0.23881891965236612
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12344,7 +12344,7 @@ Asteroid "Alderaan fragment 586"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1150448469272235
 		ArgOfPericenter	0.04331181075404955
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12365,7 +12365,7 @@ Asteroid "Alderaan fragment 587"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.31699743640615086
 		ArgOfPericenter	0.18612413027222907
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12386,7 +12386,7 @@ Asteroid "Alderaan fragment 588"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.43756470310979145
 		ArgOfPericenter	0.19650074717507093
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12407,7 +12407,7 @@ Asteroid "Alderaan fragment 589"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.41005359093930893
 		ArgOfPericenter	-0.3661329225157437
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12428,7 +12428,7 @@ Asteroid "Alderaan fragment 590"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.26481051841597003
 		ArgOfPericenter	-0.4150669160711601
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12449,7 +12449,7 @@ Asteroid "Alderaan fragment 591"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.41290060087749647
 		ArgOfPericenter	0.42458926664838437
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12470,7 +12470,7 @@ Asteroid "Alderaan fragment 592"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.44411055037620795
 		ArgOfPericenter	-0.42623535907389587
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12491,7 +12491,7 @@ Asteroid "Alderaan fragment 593"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.46770478714896035
 		ArgOfPericenter	0.4383755307937095
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12512,7 +12512,7 @@ Asteroid "Alderaan fragment 594"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.22650280258138145
 		ArgOfPericenter	0.04068091294881493
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12533,7 +12533,7 @@ Asteroid "Alderaan fragment 595"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3325799659119886
 		ArgOfPericenter	-0.1317099961526802
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12554,7 +12554,7 @@ Asteroid "Alderaan fragment 596"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2814898274133073
 		ArgOfPericenter	-0.3617505395001882
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12575,7 +12575,7 @@ Asteroid "Alderaan fragment 597"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.10316504328132148
 		ArgOfPericenter	-0.2647416431095565
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12596,7 +12596,7 @@ Asteroid "Alderaan fragment 598"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.16744556506163377
 		ArgOfPericenter	0.03938646906626897
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12617,7 +12617,7 @@ Asteroid "Alderaan fragment 599"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.16918754496639
 		ArgOfPericenter	0.33125722259311274
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12638,7 +12638,7 @@ Asteroid "Alderaan fragment 600"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4352620470575601
 		ArgOfPericenter	-0.23894482515408033
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12659,7 +12659,7 @@ Asteroid "Alderaan fragment 601"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3656428386241659
 		ArgOfPericenter	0.3083350481749164
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12680,7 +12680,7 @@ Asteroid "Alderaan fragment 602"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4819106220964352
 		ArgOfPericenter	0.17070680737737154
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12701,7 +12701,7 @@ Asteroid "Alderaan fragment 603"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.29444844924602076
 		ArgOfPericenter	-0.23529163594196423
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12722,7 +12722,7 @@ Asteroid "Alderaan fragment 604"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.32386008736693206
 		ArgOfPericenter	0.49808440329997317
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12743,7 +12743,7 @@ Asteroid "Alderaan fragment 605"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.0028686082268788438
 		ArgOfPericenter	-0.10942300751794631
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12764,7 +12764,7 @@ Asteroid "Alderaan fragment 606"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3912861062228866
 		ArgOfPericenter	0.35865629917784636
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12785,7 +12785,7 @@ Asteroid "Alderaan fragment 607"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4653211588037717
 		ArgOfPericenter	-0.3946515933775494
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12806,7 +12806,7 @@ Asteroid "Alderaan fragment 608"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3155840681207206
 		ArgOfPericenter	0.09254969521263534
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12827,7 +12827,7 @@ Asteroid "Alderaan fragment 609"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1897686801123596
 		ArgOfPericenter	0.3760197334933174
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12848,7 +12848,7 @@ Asteroid "Alderaan fragment 610"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3946869478338747
 		ArgOfPericenter	0.31210459156787485
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12869,7 +12869,7 @@ Asteroid "Alderaan fragment 611"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.24688240016360474
 		ArgOfPericenter	0.20358335144230943
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12890,7 +12890,7 @@ Asteroid "Alderaan fragment 612"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.38588744866135594
 		ArgOfPericenter	-0.4804809754990481
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12911,7 +12911,7 @@ Asteroid "Alderaan fragment 613"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.224739868728971
 		ArgOfPericenter	0.13997530265491975
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12932,7 +12932,7 @@ Asteroid "Alderaan fragment 614"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.01713950767039707
 		ArgOfPericenter	0.453218520725612
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12953,7 +12953,7 @@ Asteroid "Alderaan fragment 615"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4992135353475542
 		ArgOfPericenter	-0.19180342358576696
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12974,7 +12974,7 @@ Asteroid "Alderaan fragment 616"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.35383412743362674
 		ArgOfPericenter	0.3374947762320264
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -12995,7 +12995,7 @@ Asteroid "Alderaan fragment 617"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.26283833815654756
 		ArgOfPericenter	0.37965991826463485
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13016,7 +13016,7 @@ Asteroid "Alderaan fragment 618"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1026836429937491
 		ArgOfPericenter	-0.13980273166531088
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13037,7 +13037,7 @@ Asteroid "Alderaan fragment 619"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.484616898437912
 		ArgOfPericenter	-0.27647778824918456
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13058,7 +13058,7 @@ Asteroid "Alderaan fragment 620"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.08884359000340392
 		ArgOfPericenter	-0.4162871023609319
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13079,7 +13079,7 @@ Asteroid "Alderaan fragment 621"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.07161646551775558
 		ArgOfPericenter	-0.375822457616387
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13100,7 +13100,7 @@ Asteroid "Alderaan fragment 622"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.46308699671991904
 		ArgOfPericenter	-0.21561263493148153
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13121,7 +13121,7 @@ Asteroid "Alderaan fragment 623"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.009763061411819152
 		ArgOfPericenter	-0.3469364647659968
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13142,7 +13142,7 @@ Asteroid "Alderaan fragment 624"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.362579392273377
 		ArgOfPericenter	-0.1560178437432288
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13163,7 +13163,7 @@ Asteroid "Alderaan fragment 625"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.028733862750144334
 		ArgOfPericenter	-0.19352502681840944
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13184,7 +13184,7 @@ Asteroid "Alderaan fragment 626"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.44797105404164406
 		ArgOfPericenter	-0.4751435367368373
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13205,7 +13205,7 @@ Asteroid "Alderaan fragment 627"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3231021119647861
 		ArgOfPericenter	-0.4039204624365226
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13226,7 +13226,7 @@ Asteroid "Alderaan fragment 628"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2970218643512378
 		ArgOfPericenter	0.43660900711939077
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13247,7 +13247,7 @@ Asteroid "Alderaan fragment 629"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.22080784505798756
 		ArgOfPericenter	0.08236327590418235
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13268,7 +13268,7 @@ Asteroid "Alderaan fragment 630"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.047480857045041014
 		ArgOfPericenter	0.051949405341872756
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13289,7 +13289,7 @@ Asteroid "Alderaan fragment 631"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3613423209276666
 		ArgOfPericenter	0.4914771743424091
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13310,7 +13310,7 @@ Asteroid "Alderaan fragment 632"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.22315970481259306
 		ArgOfPericenter	-0.3170039593141465
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13331,7 +13331,7 @@ Asteroid "Alderaan fragment 633"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.37876671588327326
 		ArgOfPericenter	0.4431529884823111
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13352,7 +13352,7 @@ Asteroid "Alderaan fragment 634"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.48097102573258965
 		ArgOfPericenter	0.1680399279136503
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13373,7 +13373,7 @@ Asteroid "Alderaan fragment 635"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.20083410165314197
 		ArgOfPericenter	-0.4267565173492671
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13394,7 +13394,7 @@ Asteroid "Alderaan fragment 636"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.37726773833705296
 		ArgOfPericenter	-0.13148891900668613
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13415,7 +13415,7 @@ Asteroid "Alderaan fragment 637"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1056764797276386
 		ArgOfPericenter	0.16300440891704404
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13436,7 +13436,7 @@ Asteroid "Alderaan fragment 638"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.44218677651293037
 		ArgOfPericenter	-0.07512161288822816
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13457,7 +13457,7 @@ Asteroid "Alderaan fragment 639"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4228551919820319
 		ArgOfPericenter	-0.4905580767260199
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13478,7 +13478,7 @@ Asteroid "Alderaan fragment 640"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.048213845085438245
 		ArgOfPericenter	-0.4833089014034788
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13499,7 +13499,7 @@ Asteroid "Alderaan fragment 641"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.40435526914223996
 		ArgOfPericenter	0.03794274709717882
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13520,7 +13520,7 @@ Asteroid "Alderaan fragment 642"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.29347457162103296
 		ArgOfPericenter	-0.003470631980334482
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13541,7 +13541,7 @@ Asteroid "Alderaan fragment 643"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4654785510006071
 		ArgOfPericenter	0.0956480172355686
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13562,7 +13562,7 @@ Asteroid "Alderaan fragment 644"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.09363805216658705
 		ArgOfPericenter	-0.14696426541392915
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13583,7 +13583,7 @@ Asteroid "Alderaan fragment 645"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.25827869205298803
 		ArgOfPericenter	-0.16002442121683658
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13604,7 +13604,7 @@ Asteroid "Alderaan fragment 646"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.09074270654405958
 		ArgOfPericenter	-0.07739677068772444
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13625,7 +13625,7 @@ Asteroid "Alderaan fragment 647"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.17783065407811927
 		ArgOfPericenter	0.3635406456873165
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13646,7 +13646,7 @@ Asteroid "Alderaan fragment 648"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.30469492294669864
 		ArgOfPericenter	-0.3284238282612386
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13667,7 +13667,7 @@ Asteroid "Alderaan fragment 649"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2697480587421287
 		ArgOfPericenter	-0.26053139363302724
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13688,7 +13688,7 @@ Asteroid "Alderaan fragment 650"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.41662971007847693
 		ArgOfPericenter	-0.11875885668034891
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13709,7 +13709,7 @@ Asteroid "Alderaan fragment 651"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.03729574688679249
 		ArgOfPericenter	-0.11408788945756476
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13730,7 +13730,7 @@ Asteroid "Alderaan fragment 652"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.23532814615242126
 		ArgOfPericenter	0.3553364135990251
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13751,7 +13751,7 @@ Asteroid "Alderaan fragment 653"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.05297713308711738
 		ArgOfPericenter	0.45283426908596913
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13772,7 +13772,7 @@ Asteroid "Alderaan fragment 654"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.02326347368960413
 		ArgOfPericenter	0.2360161275613727
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13793,7 +13793,7 @@ Asteroid "Alderaan fragment 655"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.014282947809211688
 		ArgOfPericenter	-0.3325446785041123
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13814,7 +13814,7 @@ Asteroid "Alderaan fragment 656"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.04156270870196965
 		ArgOfPericenter	0.24892837130755685
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13835,7 +13835,7 @@ Asteroid "Alderaan fragment 657"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2868742107285245
 		ArgOfPericenter	0.48673657082954047
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13856,7 +13856,7 @@ Asteroid "Alderaan fragment 658"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2700349443307998
 		ArgOfPericenter	0.024894827833480293
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13877,7 +13877,7 @@ Asteroid "Alderaan fragment 659"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19918876688079
 		ArgOfPericenter	-0.3990962497510313
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13898,7 +13898,7 @@ Asteroid "Alderaan fragment 660"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.06581751659569646
 		ArgOfPericenter	-0.21328177631627665
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13919,7 +13919,7 @@ Asteroid "Alderaan fragment 661"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3138125090139955
 		ArgOfPericenter	-0.012853029451808884
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13940,7 +13940,7 @@ Asteroid "Alderaan fragment 662"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3220203944191382
 		ArgOfPericenter	-0.4788372118499782
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13961,7 +13961,7 @@ Asteroid "Alderaan fragment 663"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.21063474335048482
 		ArgOfPericenter	-0.33577023973879494
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -13982,7 +13982,7 @@ Asteroid "Alderaan fragment 664"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2841043966090625
 		ArgOfPericenter	-0.22245517129416825
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14003,7 +14003,7 @@ Asteroid "Alderaan fragment 665"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.17278522112414985
 		ArgOfPericenter	-0.2996155197051781
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14024,7 +14024,7 @@ Asteroid "Alderaan fragment 666"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2602928709256034
 		ArgOfPericenter	-0.28415984325807175
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14045,7 +14045,7 @@ Asteroid "Alderaan fragment 667"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.09280585456031287
 		ArgOfPericenter	0.36022588028617153
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14066,7 +14066,7 @@ Asteroid "Alderaan fragment 668"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.12979850063458676
 		ArgOfPericenter	0.24681030890327316
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14087,7 +14087,7 @@ Asteroid "Alderaan fragment 669"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.16857080713586092
 		ArgOfPericenter	-0.19700646290308588
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14108,7 +14108,7 @@ Asteroid "Alderaan fragment 670"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.27972380192052215
 		ArgOfPericenter	0.3793687456553767
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14129,7 +14129,7 @@ Asteroid "Alderaan fragment 671"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.29542854731553647
 		ArgOfPericenter	-0.034991304309703986
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14150,7 +14150,7 @@ Asteroid "Alderaan fragment 672"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4658903587121944
 		ArgOfPericenter	0.22313733113688272
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14171,7 +14171,7 @@ Asteroid "Alderaan fragment 673"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.11867167584959681
 		ArgOfPericenter	0.1452280458253401
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14192,7 +14192,7 @@ Asteroid "Alderaan fragment 674"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3735041496008986
 		ArgOfPericenter	-0.13246673157779032
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14213,7 +14213,7 @@ Asteroid "Alderaan fragment 675"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.009270107595615973
 		ArgOfPericenter	-0.489931858161357
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14234,7 +14234,7 @@ Asteroid "Alderaan fragment 676"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.24907220891935777
 		ArgOfPericenter	0.2673341526768326
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14255,7 +14255,7 @@ Asteroid "Alderaan fragment 677"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.05902723411387478
 		ArgOfPericenter	0.26897518885618965
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14276,7 +14276,7 @@ Asteroid "Alderaan fragment 678"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.11037226669668176
 		ArgOfPericenter	0.05079218996991586
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14297,7 +14297,7 @@ Asteroid "Alderaan fragment 679"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2109375077437987
 		ArgOfPericenter	0.3642732616137623
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14318,7 +14318,7 @@ Asteroid "Alderaan fragment 680"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.43277772776618395
 		ArgOfPericenter	0.44099969820530205
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14339,7 +14339,7 @@ Asteroid "Alderaan fragment 681"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3516184586920783
 		ArgOfPericenter	0.04822386894454256
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14360,7 +14360,7 @@ Asteroid "Alderaan fragment 682"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4950636434459972
 		ArgOfPericenter	-0.23545393682545313
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14381,7 +14381,7 @@ Asteroid "Alderaan fragment 683"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.23775922419481277
 		ArgOfPericenter	0.09823018194354949
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14402,7 +14402,7 @@ Asteroid "Alderaan fragment 684"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1681854004054255
 		ArgOfPericenter	-0.4781222165084932
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14423,7 +14423,7 @@ Asteroid "Alderaan fragment 685"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4516697731076291
 		ArgOfPericenter	-0.22866667027937193
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14444,7 +14444,7 @@ Asteroid "Alderaan fragment 686"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3019894034462106
 		ArgOfPericenter	0.2903616082901652
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14465,7 +14465,7 @@ Asteroid "Alderaan fragment 687"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3828666215054187
 		ArgOfPericenter	0.2626277256806674
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14486,7 +14486,7 @@ Asteroid "Alderaan fragment 688"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.33637389085122016
 		ArgOfPericenter	-0.09697984772787849
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14507,7 +14507,7 @@ Asteroid "Alderaan fragment 689"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.04922875882687083
 		ArgOfPericenter	0.46623488055982754
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14528,7 +14528,7 @@ Asteroid "Alderaan fragment 690"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3504259383392687
 		ArgOfPericenter	-0.4316669184699805
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14549,7 +14549,7 @@ Asteroid "Alderaan fragment 691"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.24932013942145292
 		ArgOfPericenter	-0.1843737874420066
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14570,7 +14570,7 @@ Asteroid "Alderaan fragment 692"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.24563432559648424
 		ArgOfPericenter	-0.07403422482748923
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14591,7 +14591,7 @@ Asteroid "Alderaan fragment 693"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3473089258264961
 		ArgOfPericenter	0.3883874100551761
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14612,7 +14612,7 @@ Asteroid "Alderaan fragment 694"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.18644895882947177
 		ArgOfPericenter	0.15687045261726296
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14633,7 +14633,7 @@ Asteroid "Alderaan fragment 695"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.35775956863650316
 		ArgOfPericenter	-0.14938150539711803
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14654,7 +14654,7 @@ Asteroid "Alderaan fragment 696"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.29689081913841997
 		ArgOfPericenter	0.47805470502360425
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14675,7 +14675,7 @@ Asteroid "Alderaan fragment 697"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.48041814497109914
 		ArgOfPericenter	0.2902763180053892
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14696,7 +14696,7 @@ Asteroid "Alderaan fragment 698"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.009184375180269044
 		ArgOfPericenter	0.2465922819952968
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14717,7 +14717,7 @@ Asteroid "Alderaan fragment 699"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.26432806068868386
 		ArgOfPericenter	-0.1030364398386685
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14738,7 +14738,7 @@ Asteroid "Alderaan fragment 700"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3344368735807075
 		ArgOfPericenter	-0.3755539346575224
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14759,7 +14759,7 @@ Asteroid "Alderaan fragment 701"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1161965242893982
 		ArgOfPericenter	-0.4345953091096382
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14780,7 +14780,7 @@ Asteroid "Alderaan fragment 702"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.08222392038898796
 		ArgOfPericenter	-0.13237033555640576
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14801,7 +14801,7 @@ Asteroid "Alderaan fragment 703"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2729866981387288
 		ArgOfPericenter	-0.20838850423847544
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14822,7 +14822,7 @@ Asteroid "Alderaan fragment 704"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.11163245671736943
 		ArgOfPericenter	-0.4329721766358361
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14843,7 +14843,7 @@ Asteroid "Alderaan fragment 705"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19448057212570902
 		ArgOfPericenter	-0.19848067747494225
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14864,7 +14864,7 @@ Asteroid "Alderaan fragment 706"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.37631402205514464
 		ArgOfPericenter	0.10859552846599785
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14885,7 +14885,7 @@ Asteroid "Alderaan fragment 707"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2860278828158087
 		ArgOfPericenter	0.44511533847384843
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14906,7 +14906,7 @@ Asteroid "Alderaan fragment 708"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.14473042440942274
 		ArgOfPericenter	0.43393441376132735
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14927,7 +14927,7 @@ Asteroid "Alderaan fragment 709"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.426949874030501
 		ArgOfPericenter	0.20251644383790712
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14948,7 +14948,7 @@ Asteroid "Alderaan fragment 710"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.29837143957823764
 		ArgOfPericenter	0.2126653910615608
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14969,7 +14969,7 @@ Asteroid "Alderaan fragment 711"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3913346063838393
 		ArgOfPericenter	-0.020035828488388252
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -14990,7 +14990,7 @@ Asteroid "Alderaan fragment 712"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.30807394830760104
 		ArgOfPericenter	0.03474978210807034
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15009,7 +15009,7 @@ Asteroid "Alderaan fragment 713"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.31780810463509934
 		ArgOfPericenter	0.08577319810033535
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15030,7 +15030,7 @@ Asteroid "Alderaan fragment 714"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.12184609410851888
 		ArgOfPericenter	-0.38953312062928247
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15051,7 +15051,7 @@ Asteroid "Alderaan fragment 715"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.20641663073222438
 		ArgOfPericenter	-0.2794429431444472
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15072,7 +15072,7 @@ Asteroid "Alderaan fragment 716"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.05813423202491841
 		ArgOfPericenter	-0.2572427857834333
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15093,7 +15093,7 @@ Asteroid "Alderaan fragment 717"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.08432122286061428
 		ArgOfPericenter	-0.06889335626314597
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15114,7 +15114,7 @@ Asteroid "Alderaan fragment 718"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.0659360914594791
 		ArgOfPericenter	-0.21465239507274447
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15135,7 +15135,7 @@ Asteroid "Alderaan fragment 719"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.04164534387377772
 		ArgOfPericenter	0.18913869339294243
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15156,7 +15156,7 @@ Asteroid "Alderaan fragment 720"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4492658522548233
 		ArgOfPericenter	0.3254615434665573
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15177,7 +15177,7 @@ Asteroid "Alderaan fragment 721"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.13881886518472497
 		ArgOfPericenter	-0.4396010644306654
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15198,7 +15198,7 @@ Asteroid "Alderaan fragment 722"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.32196810390266717
 		ArgOfPericenter	-0.03379948782993858
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15219,7 +15219,7 @@ Asteroid "Alderaan fragment 723"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.11501467855976089
 		ArgOfPericenter	0.10766842317605285
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15240,7 +15240,7 @@ Asteroid "Alderaan fragment 724"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4014035728520242
 		ArgOfPericenter	-0.2539866518857554
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15261,7 +15261,7 @@ Asteroid "Alderaan fragment 725"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.16937525326859604
 		ArgOfPericenter	-0.3087907033745705
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15282,7 +15282,7 @@ Asteroid "Alderaan fragment 726"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.09155041343452874
 		ArgOfPericenter	-0.19603600790443365
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15303,7 +15303,7 @@ Asteroid "Alderaan fragment 727"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.31047608272490546
 		ArgOfPericenter	-0.22636160385128956
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15324,7 +15324,7 @@ Asteroid "Alderaan fragment 728"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.24960156300863046
 		ArgOfPericenter	0.02518873844543479
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15345,7 +15345,7 @@ Asteroid "Alderaan fragment 729"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.48818820841859734
 		ArgOfPericenter	-0.2192588389317074
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15366,7 +15366,7 @@ Asteroid "Alderaan fragment 730"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3473409987152233
 		ArgOfPericenter	-0.26431901682179837
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15387,7 +15387,7 @@ Asteroid "Alderaan fragment 731"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.33215207072221564
 		ArgOfPericenter	-0.12988035515445728
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15408,7 +15408,7 @@ Asteroid "Alderaan fragment 732"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.10140548785598336
 		ArgOfPericenter	0.028609150873795675
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15429,7 +15429,7 @@ Asteroid "Alderaan fragment 733"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.03055755285510997
 		ArgOfPericenter	-0.29095212786611424
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15450,7 +15450,7 @@ Asteroid "Alderaan fragment 734"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2011492775840471
 		ArgOfPericenter	-0.09293863722740903
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15471,7 +15471,7 @@ Asteroid "Alderaan fragment 735"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.022258878536408178
 		ArgOfPericenter	0.1849874978429138
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15492,7 +15492,7 @@ Asteroid "Alderaan fragment 736"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.38955715054325724
 		ArgOfPericenter	0.4836372958627351
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15513,7 +15513,7 @@ Asteroid "Alderaan fragment 737"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.17140800641014375
 		ArgOfPericenter	0.27552311123529305
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15534,7 +15534,7 @@ Asteroid "Alderaan fragment 738"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1492004785568417
 		ArgOfPericenter	0.04095537652301795
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15555,7 +15555,7 @@ Asteroid "Alderaan fragment 739"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.14890942122214712
 		ArgOfPericenter	-0.2481839670134346
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15576,7 +15576,7 @@ Asteroid "Alderaan fragment 740"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.20009216848684241
 		ArgOfPericenter	0.3661298175815204
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15597,7 +15597,7 @@ Asteroid "Alderaan fragment 741"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.14860482287472376
 		ArgOfPericenter	-0.18906389872634743
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15618,7 +15618,7 @@ Asteroid "Alderaan fragment 742"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3742046130115103
 		ArgOfPericenter	0.21457218519464905
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15639,7 +15639,7 @@ Asteroid "Alderaan fragment 743"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1823535010909274
 		ArgOfPericenter	-0.28205494786636387
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15660,7 +15660,7 @@ Asteroid "Alderaan fragment 744"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3844406069001688
 		ArgOfPericenter	0.3942682201312593
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15681,7 +15681,7 @@ Asteroid "Alderaan fragment 745"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4870639399614618
 		ArgOfPericenter	0.4856796758073798
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15702,7 +15702,7 @@ Asteroid "Alderaan fragment 746"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.07101713224781958
 		ArgOfPericenter	0.4423823590256757
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15723,7 +15723,7 @@ Asteroid "Alderaan fragment 747"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.49448299627014203
 		ArgOfPericenter	0.045400902339330584
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15744,7 +15744,7 @@ Asteroid "Alderaan fragment 748"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3660475993631266
 		ArgOfPericenter	0.4330114548730706
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15765,7 +15765,7 @@ Asteroid "Alderaan fragment 749"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19459861217220953
 		ArgOfPericenter	0.1359224827695985
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15786,7 +15786,7 @@ Asteroid "Alderaan fragment 750"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2351563363606326
 		ArgOfPericenter	-0.19225866420196103
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15807,7 +15807,7 @@ Asteroid "Alderaan fragment 751"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3370854053813699
 		ArgOfPericenter	-0.04225806790915354
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15828,7 +15828,7 @@ Asteroid "Alderaan fragment 752"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1420867306052368
 		ArgOfPericenter	-0.26453193676280584
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15849,7 +15849,7 @@ Asteroid "Alderaan fragment 753"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.04820788678914045
 		ArgOfPericenter	-0.4421447619301482
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15870,7 +15870,7 @@ Asteroid "Alderaan fragment 754"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.08129974331294898
 		ArgOfPericenter	-0.18584291422578403
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15891,7 +15891,7 @@ Asteroid "Alderaan fragment 755"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.24348734008674267
 		ArgOfPericenter	0.40369712012281533
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15912,7 +15912,7 @@ Asteroid "Alderaan fragment 756"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.454363057418825
 		ArgOfPericenter	0.02784859285661001
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15933,7 +15933,7 @@ Asteroid "Alderaan fragment 757"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.43700244801011356
 		ArgOfPericenter	0.08660976012872956
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15954,7 +15954,7 @@ Asteroid "Alderaan fragment 758"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3744893709513615
 		ArgOfPericenter	0.11640149778263564
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15975,7 +15975,7 @@ Asteroid "Alderaan fragment 759"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.27198058485681864
 		ArgOfPericenter	0.07666214096897717
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -15996,7 +15996,7 @@ Asteroid "Alderaan fragment 760"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3754249202814022
 		ArgOfPericenter	0.10548231474876135
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16017,7 +16017,7 @@ Asteroid "Alderaan fragment 761"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.36747677995297545
 		ArgOfPericenter	0.11692945639553542
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16038,7 +16038,7 @@ Asteroid "Alderaan fragment 762"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1765899085348619
 		ArgOfPericenter	0.021890728278029514
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16059,7 +16059,7 @@ Asteroid "Alderaan fragment 763"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.31369546102416046
 		ArgOfPericenter	-0.12914610974685692
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16080,7 +16080,7 @@ Asteroid "Alderaan fragment 764"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.307231896298518
 		ArgOfPericenter	0.22174821076993878
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16101,7 +16101,7 @@ Asteroid "Alderaan fragment 765"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.27284995708039017
 		ArgOfPericenter	0.16643836652495425
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16122,7 +16122,7 @@ Asteroid "Alderaan fragment 766"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.32068746284233074
 		ArgOfPericenter	-0.017815225065834994
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16143,7 +16143,7 @@ Asteroid "Alderaan fragment 767"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3791937150512815
 		ArgOfPericenter	-0.22838171549119246
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16164,7 +16164,7 @@ Asteroid "Alderaan fragment 768"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3559467282344828
 		ArgOfPericenter	0.06050683305992299
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16185,7 +16185,7 @@ Asteroid "Alderaan fragment 769"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.45238779387520256
 		ArgOfPericenter	-0.015694734832654045
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16206,7 +16206,7 @@ Asteroid "Alderaan fragment 770"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.19426894434370634
 		ArgOfPericenter	0.04779535325472439
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16227,7 +16227,7 @@ Asteroid "Alderaan fragment 771"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2779979516060175
 		ArgOfPericenter	-0.40596576490939473
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16248,7 +16248,7 @@ Asteroid "Alderaan fragment 772"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.15088795240271857
 		ArgOfPericenter	-0.4745898329446051
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16269,7 +16269,7 @@ Asteroid "Alderaan fragment 773"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4902739742736073
 		ArgOfPericenter	-0.09963427339092945
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16290,7 +16290,7 @@ Asteroid "Alderaan fragment 774"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.36564330903755704
 		ArgOfPericenter	0.12932602711297514
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16311,7 +16311,7 @@ Asteroid "Alderaan fragment 775"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2917329381517091
 		ArgOfPericenter	-0.4495328411951529
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16332,7 +16332,7 @@ Asteroid "Alderaan fragment 776"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.0683219541559349
 		ArgOfPericenter	0.00019062279160808604
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16353,7 +16353,7 @@ Asteroid "Alderaan fragment 777"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.09308292938879936
 		ArgOfPericenter	-0.06479146617521292
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16374,7 +16374,7 @@ Asteroid "Alderaan fragment 778"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.14535447431652804
 		ArgOfPericenter	0.2583831161769301
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16395,7 +16395,7 @@ Asteroid "Alderaan fragment 779"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.36134709425310474
 		ArgOfPericenter	-0.2093682531477591
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16416,7 +16416,7 @@ Asteroid "Alderaan fragment 780"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3857906314366024
 		ArgOfPericenter	0.298279402843428
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16437,7 +16437,7 @@ Asteroid "Alderaan fragment 781"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.19763214632452608
 		ArgOfPericenter	0.27710023151308993
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16458,7 +16458,7 @@ Asteroid "Alderaan fragment 782"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.22679650373477178
 		ArgOfPericenter	0.4431574316434058
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16479,7 +16479,7 @@ Asteroid "Alderaan fragment 783"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.15454793450168913
 		ArgOfPericenter	0.11084100303180855
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16500,7 +16500,7 @@ Asteroid "Alderaan fragment 784"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.20554562801418286
 		ArgOfPericenter	0.10982761821668396
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16521,7 +16521,7 @@ Asteroid "Alderaan fragment 785"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2201159008441229
 		ArgOfPericenter	0.26396093787234975
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16542,7 +16542,7 @@ Asteroid "Alderaan fragment 786"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3463908105967004
 		ArgOfPericenter	0.26187430096349795
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16563,7 +16563,7 @@ Asteroid "Alderaan fragment 787"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.021272720352964347
 		ArgOfPericenter	-0.13462128036592036
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16584,7 +16584,7 @@ Asteroid "Alderaan fragment 788"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2412289682883808
 		ArgOfPericenter	-0.42662942829748174
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16605,7 +16605,7 @@ Asteroid "Alderaan fragment 789"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.07323856165167708
 		ArgOfPericenter	-0.28996338783288333
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16626,7 +16626,7 @@ Asteroid "Alderaan fragment 790"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2369639275191988
 		ArgOfPericenter	0.022651363006410685
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16647,7 +16647,7 @@ Asteroid "Alderaan fragment 791"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1529504617109846
 		ArgOfPericenter	0.20759621562001063
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16668,7 +16668,7 @@ Asteroid "Alderaan fragment 792"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.44949405993289315
 		ArgOfPericenter	-0.1358450303816522
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16689,7 +16689,7 @@ Asteroid "Alderaan fragment 793"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.48462704053977945
 		ArgOfPericenter	0.4114252088795647
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16710,7 +16710,7 @@ Asteroid "Alderaan fragment 794"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3320947832694966
 		ArgOfPericenter	0.367334620795724
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16731,7 +16731,7 @@ Asteroid "Alderaan fragment 795"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.41496132126742835
 		ArgOfPericenter	0.4660971819049857
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16752,7 +16752,7 @@ Asteroid "Alderaan fragment 796"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.29623158747273337
 		ArgOfPericenter	0.18245154834287014
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16773,7 +16773,7 @@ Asteroid "Alderaan fragment 797"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1347529058988307
 		ArgOfPericenter	-0.44856226339335037
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16794,7 +16794,7 @@ Asteroid "Alderaan fragment 798"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4283927127830862
 		ArgOfPericenter	-0.34103045228188067
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16815,7 +16815,7 @@ Asteroid "Alderaan fragment 799"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3040786685231067
 		ArgOfPericenter	0.4393305647572613
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16836,7 +16836,7 @@ Asteroid "Alderaan fragment 800"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.30122963072304054
 		ArgOfPericenter	0.06640504564704774
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16857,7 +16857,7 @@ Asteroid "Alderaan fragment 801"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.47633568910649515
 		ArgOfPericenter	0.002736085272216693
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16878,7 +16878,7 @@ Asteroid "Alderaan fragment 802"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.08668746382936254
 		ArgOfPericenter	-0.1554733607792732
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16899,7 +16899,7 @@ Asteroid "Alderaan fragment 803"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.19689048708387236
 		ArgOfPericenter	0.4768679873571371
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16920,7 +16920,7 @@ Asteroid "Alderaan fragment 804"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4990249687825338
 		ArgOfPericenter	-0.008785392810639503
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16941,7 +16941,7 @@ Asteroid "Alderaan fragment 805"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.48358574966181955
 		ArgOfPericenter	-0.36511938501956975
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16962,7 +16962,7 @@ Asteroid "Alderaan fragment 806"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.22830110675398974
 		ArgOfPericenter	0.4077086957508308
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -16983,7 +16983,7 @@ Asteroid "Alderaan fragment 807"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.16819435121535553
 		ArgOfPericenter	0.15732195199911125
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17004,7 +17004,7 @@ Asteroid "Alderaan fragment 808"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2390912327349023
 		ArgOfPericenter	-0.2445602696876984
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17025,7 +17025,7 @@ Asteroid "Alderaan fragment 809"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.0352022305073606
 		ArgOfPericenter	0.260999532048245
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17046,7 +17046,7 @@ Asteroid "Alderaan fragment 810"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.37387721708510213
 		ArgOfPericenter	0.22482977456876196
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17067,7 +17067,7 @@ Asteroid "Alderaan fragment 811"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.07874027192468591
 		ArgOfPericenter	0.2501443388059663
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17088,7 +17088,7 @@ Asteroid "Alderaan fragment 812"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.016878540443809986
 		ArgOfPericenter	0.17430323835362627
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17109,7 +17109,7 @@ Asteroid "Alderaan fragment 813"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3377122759782253
 		ArgOfPericenter	0.02423165174378228
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17130,7 +17130,7 @@ Asteroid "Alderaan fragment 814"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.018697747169076462
 		ArgOfPericenter	0.15565563825720485
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17151,7 +17151,7 @@ Asteroid "Alderaan fragment 815"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.06447977206057609
 		ArgOfPericenter	0.043162433955262425
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17172,7 +17172,7 @@ Asteroid "Alderaan fragment 816"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3978435756692714
 		ArgOfPericenter	0.2608569747372975
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17193,7 +17193,7 @@ Asteroid "Alderaan fragment 817"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.17237403150868458
 		ArgOfPericenter	-0.36978882312168937
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17214,7 +17214,7 @@ Asteroid "Alderaan fragment 818"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.10261160656427215
 		ArgOfPericenter	-0.039130955863422856
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17235,7 +17235,7 @@ Asteroid "Alderaan fragment 819"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.06822599411583863
 		ArgOfPericenter	-0.3991731770880279
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17256,7 +17256,7 @@ Asteroid "Alderaan fragment 820"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4981305063122954
 		ArgOfPericenter	0.4388819741054478
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17277,7 +17277,7 @@ Asteroid "Alderaan fragment 821"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.20334499762612257
 		ArgOfPericenter	-0.23318050175248495
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17298,7 +17298,7 @@ Asteroid "Alderaan fragment 822"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4824925810770996
 		ArgOfPericenter	-0.20248551702721151
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17319,7 +17319,7 @@ Asteroid "Alderaan fragment 823"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2018907361281571
 		ArgOfPericenter	0.4833016693489086
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17340,7 +17340,7 @@ Asteroid "Alderaan fragment 824"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4110028063114719
 		ArgOfPericenter	-0.18829556649620716
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17361,7 +17361,7 @@ Asteroid "Alderaan fragment 825"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.21089392230475368
 		ArgOfPericenter	-0.245153744940382
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17382,7 +17382,7 @@ Asteroid "Alderaan fragment 826"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.22661718166959166
 		ArgOfPericenter	-0.14019085084712013
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17403,7 +17403,7 @@ Asteroid "Alderaan fragment 827"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3928360955086039
 		ArgOfPericenter	0.2263211334197318
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17424,7 +17424,7 @@ Asteroid "Alderaan fragment 828"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.21987709913786568
 		ArgOfPericenter	0.10099435931820921
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17445,7 +17445,7 @@ Asteroid "Alderaan fragment 829"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.23852745782859452
 		ArgOfPericenter	0.49704889531691687
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17466,7 +17466,7 @@ Asteroid "Alderaan fragment 830"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3661754127607314
 		ArgOfPericenter	0.12468757888578108
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17487,7 +17487,7 @@ Asteroid "Alderaan fragment 831"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.09240847777749406
 		ArgOfPericenter	0.21291619216291924
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17508,7 +17508,7 @@ Asteroid "Alderaan fragment 832"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2060474768471232
 		ArgOfPericenter	-0.4412514217519623
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17529,7 +17529,7 @@ Asteroid "Alderaan fragment 833"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1501585331027826
 		ArgOfPericenter	-0.16679843256283844
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17550,7 +17550,7 @@ Asteroid "Alderaan fragment 834"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4989284274913134
 		ArgOfPericenter	0.09226224629588697
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17571,7 +17571,7 @@ Asteroid "Alderaan fragment 835"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.15338216998058518
 		ArgOfPericenter	0.036443289021027114
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17592,7 +17592,7 @@ Asteroid "Alderaan fragment 836"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3808317449073465
 		ArgOfPericenter	0.3917430786392364
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17613,7 +17613,7 @@ Asteroid "Alderaan fragment 837"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.20195129152639923
 		ArgOfPericenter	0.4693659713064142
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17634,7 +17634,7 @@ Asteroid "Alderaan fragment 838"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.10980077996225213
 		ArgOfPericenter	-0.2642687735840722
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17653,7 +17653,7 @@ Asteroid "Alderaan fragment 839"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.37359603601305336
 		ArgOfPericenter	-0.49525869693629676
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17674,7 +17674,7 @@ Asteroid "Alderaan fragment 840"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4578240289295361
 		ArgOfPericenter	-0.22292055912170505
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17695,7 +17695,7 @@ Asteroid "Alderaan fragment 841"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4448115223813057
 		ArgOfPericenter	-0.24674062837171362
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17716,7 +17716,7 @@ Asteroid "Alderaan fragment 842"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.04390760770711999
 		ArgOfPericenter	0.24265933431813502
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17737,7 +17737,7 @@ Asteroid "Alderaan fragment 843"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.14014339008804078
 		ArgOfPericenter	-0.007505109355394168
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17758,7 +17758,7 @@ Asteroid "Alderaan fragment 844"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.35149592801125706
 		ArgOfPericenter	0.0457265458096171
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17779,7 +17779,7 @@ Asteroid "Alderaan fragment 845"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.04372148880654603
 		ArgOfPericenter	-0.22203407883203097
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17800,7 +17800,7 @@ Asteroid "Alderaan fragment 846"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.17181260721300584
 		ArgOfPericenter	0.10610203162889131
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17821,7 +17821,7 @@ Asteroid "Alderaan fragment 847"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1429806624045239
 		ArgOfPericenter	0.031860752272867776
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17842,7 +17842,7 @@ Asteroid "Alderaan fragment 848"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.023571591155997385
 		ArgOfPericenter	-0.33452101334235584
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17863,7 +17863,7 @@ Asteroid "Alderaan fragment 849"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.16509486615709834
 		ArgOfPericenter	-0.2913052515666916
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17884,7 +17884,7 @@ Asteroid "Alderaan fragment 850"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2423104646758124
 		ArgOfPericenter	0.40936318169851926
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17905,7 +17905,7 @@ Asteroid "Alderaan fragment 851"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.10052839444390427
 		ArgOfPericenter	-0.38523284164412197
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17926,7 +17926,7 @@ Asteroid "Alderaan fragment 852"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.40634600356550354
 		ArgOfPericenter	0.003603520850609887
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17947,7 +17947,7 @@ Asteroid "Alderaan fragment 853"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.021777316009732983
 		ArgOfPericenter	-0.2629694175567917
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17968,7 +17968,7 @@ Asteroid "Alderaan fragment 854"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4658433826375826
 		ArgOfPericenter	0.1170301855978747
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -17989,7 +17989,7 @@ Asteroid "Alderaan fragment 855"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2036710570989606
 		ArgOfPericenter	-0.14679541225297843
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18010,7 +18010,7 @@ Asteroid "Alderaan fragment 856"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.386483635624035
 		ArgOfPericenter	0.29576435807504886
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18031,7 +18031,7 @@ Asteroid "Alderaan fragment 857"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4443531441845544
 		ArgOfPericenter	-0.33719401591355536
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18052,7 +18052,7 @@ Asteroid "Alderaan fragment 858"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.23190168682813095
 		ArgOfPericenter	-0.2941503204512955
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18073,7 +18073,7 @@ Asteroid "Alderaan fragment 859"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4891247156898185
 		ArgOfPericenter	-0.2957393982784482
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18094,7 +18094,7 @@ Asteroid "Alderaan fragment 860"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4740638720919801
 		ArgOfPericenter	0.15446598659205557
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18115,7 +18115,7 @@ Asteroid "Alderaan fragment 861"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.19526343698495252
 		ArgOfPericenter	-0.4487685540869305
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18136,7 +18136,7 @@ Asteroid "Alderaan fragment 862"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.24817961519107856
 		ArgOfPericenter	0.3092432415300461
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18157,7 +18157,7 @@ Asteroid "Alderaan fragment 863"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.27877650617435157
 		ArgOfPericenter	-0.2571082454311945
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18178,7 +18178,7 @@ Asteroid "Alderaan fragment 864"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.42854256436542815
 		ArgOfPericenter	0.2985747372093668
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18199,7 +18199,7 @@ Asteroid "Alderaan fragment 865"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.36303805891883145
 		ArgOfPericenter	-0.2786793574667573
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18220,7 +18220,7 @@ Asteroid "Alderaan fragment 866"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.048654470705996156
 		ArgOfPericenter	-0.3070962597962906
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18241,7 +18241,7 @@ Asteroid "Alderaan fragment 867"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2371657109734251
 		ArgOfPericenter	0.026935366052606824
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18262,7 +18262,7 @@ Asteroid "Alderaan fragment 868"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.16972902243664678
 		ArgOfPericenter	-0.09424397907277215
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18283,7 +18283,7 @@ Asteroid "Alderaan fragment 869"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.036129164392800006
 		ArgOfPericenter	0.4079725613268066
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18304,7 +18304,7 @@ Asteroid "Alderaan fragment 870"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.14717953517908877
 		ArgOfPericenter	0.14960843618153608
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18325,7 +18325,7 @@ Asteroid "Alderaan fragment 871"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3122204336743176
 		ArgOfPericenter	0.3263200958981527
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18346,7 +18346,7 @@ Asteroid "Alderaan fragment 872"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.21447641517719174
 		ArgOfPericenter	0.413239207342175
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18367,7 +18367,7 @@ Asteroid "Alderaan fragment 873"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.18561097920374714
 		ArgOfPericenter	0.22056484009723232
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18388,7 +18388,7 @@ Asteroid "Alderaan fragment 874"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.29947753380624864
 		ArgOfPericenter	-0.4278546548505149
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18409,7 +18409,7 @@ Asteroid "Alderaan fragment 875"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.36375344034370516
 		ArgOfPericenter	0.15760126543427855
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18430,7 +18430,7 @@ Asteroid "Alderaan fragment 876"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2166963913028025
 		ArgOfPericenter	-0.35072988765532986
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18451,7 +18451,7 @@ Asteroid "Alderaan fragment 877"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4538582929708276
 		ArgOfPericenter	-0.0058979183710173855
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18472,7 +18472,7 @@ Asteroid "Alderaan fragment 878"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2654838535950981
 		ArgOfPericenter	0.21254664659065692
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18493,7 +18493,7 @@ Asteroid "Alderaan fragment 879"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.03592823862392147
 		ArgOfPericenter	-0.33777974709066005
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18514,7 +18514,7 @@ Asteroid "Alderaan fragment 880"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.37691579512379414
 		ArgOfPericenter	-0.49185814333305067
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18535,7 +18535,7 @@ Asteroid "Alderaan fragment 881"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.06939273381096034
 		ArgOfPericenter	-0.12180865828625731
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18556,7 +18556,7 @@ Asteroid "Alderaan fragment 882"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.24746512482881922
 		ArgOfPericenter	0.17796207110698237
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18577,7 +18577,7 @@ Asteroid "Alderaan fragment 883"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.007211649672049902
 		ArgOfPericenter	0.4190828007762917
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18598,7 +18598,7 @@ Asteroid "Alderaan fragment 884"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2938867610986218
 		ArgOfPericenter	0.07393907434952895
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18619,7 +18619,7 @@ Asteroid "Alderaan fragment 885"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3120780513393878
 		ArgOfPericenter	-0.10575134346231918
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18640,7 +18640,7 @@ Asteroid "Alderaan fragment 886"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.38830387864251636
 		ArgOfPericenter	-0.1446990209611455
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18661,7 +18661,7 @@ Asteroid "Alderaan fragment 887"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2312108105654016
 		ArgOfPericenter	-0.1340378213395942
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18682,7 +18682,7 @@ Asteroid "Alderaan fragment 888"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3293707828751625
 		ArgOfPericenter	-0.12298065635687827
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18703,7 +18703,7 @@ Asteroid "Alderaan fragment 889"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.17560281302903302
 		ArgOfPericenter	0.351072245186573
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18724,7 +18724,7 @@ Asteroid "Alderaan fragment 890"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3585603125302216
 		ArgOfPericenter	0.30044860729522316
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18745,7 +18745,7 @@ Asteroid "Alderaan fragment 891"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.26326555361643045
 		ArgOfPericenter	-0.20387923579728695
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18766,7 +18766,7 @@ Asteroid "Alderaan fragment 892"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.15877458690755453
 		ArgOfPericenter	-0.46836614191987047
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18787,7 +18787,7 @@ Asteroid "Alderaan fragment 893"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.377377775606472
 		ArgOfPericenter	0.15125130084096627
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18808,7 +18808,7 @@ Asteroid "Alderaan fragment 894"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3234595098454701
 		ArgOfPericenter	0.05232925330039051
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18829,7 +18829,7 @@ Asteroid "Alderaan fragment 895"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.35102768606531287
 		ArgOfPericenter	-0.16178368349898475
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18850,7 +18850,7 @@ Asteroid "Alderaan fragment 896"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.042445773468088865
 		ArgOfPericenter	-0.39312326954855636
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18871,7 +18871,7 @@ Asteroid "Alderaan fragment 897"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2972164536560198
 		ArgOfPericenter	-0.286335121477697
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18892,7 +18892,7 @@ Asteroid "Alderaan fragment 898"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.26569950356771566
 		ArgOfPericenter	-0.04656142138467734
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18913,7 +18913,7 @@ Asteroid "Alderaan fragment 899"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3121959867066355
 		ArgOfPericenter	-0.3300303179847439
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18934,7 +18934,7 @@ Asteroid "Alderaan fragment 900"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4127766639942435
 		ArgOfPericenter	-0.22025819128178492
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18955,7 +18955,7 @@ Asteroid "Alderaan fragment 901"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.23028392134493358
 		ArgOfPericenter	-0.2733566658032792
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18976,7 +18976,7 @@ Asteroid "Alderaan fragment 902"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1505352588407326
 		ArgOfPericenter	0.4917035294498595
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -18997,7 +18997,7 @@ Asteroid "Alderaan fragment 903"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.31415829559176733
 		ArgOfPericenter	-0.3626631937810254
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19018,7 +19018,7 @@ Asteroid "Alderaan fragment 904"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.22214896455592947
 		ArgOfPericenter	0.06566609281774971
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19039,7 +19039,7 @@ Asteroid "Alderaan fragment 905"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3562804342180289
 		ArgOfPericenter	-0.196851036497401
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19060,7 +19060,7 @@ Asteroid "Alderaan fragment 906"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.10083877341467173
 		ArgOfPericenter	-0.42328587782486315
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19081,7 +19081,7 @@ Asteroid "Alderaan fragment 907"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1691129298891536
 		ArgOfPericenter	-0.07789317510808469
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19102,7 +19102,7 @@ Asteroid "Alderaan fragment 908"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1596859197592394
 		ArgOfPericenter	-0.4482823151686025
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19123,7 +19123,7 @@ Asteroid "Alderaan fragment 909"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.0472598738823522
 		ArgOfPericenter	-0.4108363180732032
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19144,7 +19144,7 @@ Asteroid "Alderaan fragment 910"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4855576490647522
 		ArgOfPericenter	0.4307827848583442
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19165,7 +19165,7 @@ Asteroid "Alderaan fragment 911"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3339707012738734
 		ArgOfPericenter	-0.2338639388467958
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19186,7 +19186,7 @@ Asteroid "Alderaan fragment 912"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.12592300634814335
 		ArgOfPericenter	0.3098685867149026
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19207,7 +19207,7 @@ Asteroid "Alderaan fragment 913"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.2939907559136685
 		ArgOfPericenter	-0.14672680431655427
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19228,7 +19228,7 @@ Asteroid "Alderaan fragment 914"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.06488842021058583
 		ArgOfPericenter	-0.31487234132444464
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19249,7 +19249,7 @@ Asteroid "Alderaan fragment 915"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.12539345197124763
 		ArgOfPericenter	0.21116247782884767
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19270,7 +19270,7 @@ Asteroid "Alderaan fragment 916"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1259479913325674
 		ArgOfPericenter	-0.09965894609989201
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19291,7 +19291,7 @@ Asteroid "Alderaan fragment 917"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.14475706565301316
 		ArgOfPericenter	-0.45616002145541656
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19312,7 +19312,7 @@ Asteroid "Alderaan fragment 918"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3123609068676626
 		ArgOfPericenter	-0.44879649858464965
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19333,7 +19333,7 @@ Asteroid "Alderaan fragment 919"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.22419727957834057
 		ArgOfPericenter	-0.14652437509057303
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19354,7 +19354,7 @@ Asteroid "Alderaan fragment 920"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.1406082472806156
 		ArgOfPericenter	0.49495685448111626
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19375,7 +19375,7 @@ Asteroid "Alderaan fragment 921"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4292678999503713
 		ArgOfPericenter	-0.19938172994953474
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19396,7 +19396,7 @@ Asteroid "Alderaan fragment 922"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.17858245807845574
 		ArgOfPericenter	-0.33359914704953386
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19417,7 +19417,7 @@ Asteroid "Alderaan fragment 923"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3584529987034356
 		ArgOfPericenter	0.34561590187865
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19438,7 +19438,7 @@ Asteroid "Alderaan fragment 924"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.11081977998367065
 		ArgOfPericenter	0.1444874224349777
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19459,7 +19459,7 @@ Asteroid "Alderaan fragment 925"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.47578700663385853
 		ArgOfPericenter	-0.463206936809913
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19480,7 +19480,7 @@ Asteroid "Alderaan fragment 926"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.07896411040425866
 		ArgOfPericenter	0.46731970685357926
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19501,7 +19501,7 @@ Asteroid "Alderaan fragment 927"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.26771523516064555
 		ArgOfPericenter	-0.1695920453145845
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19522,7 +19522,7 @@ Asteroid "Alderaan fragment 928"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.40634676037928374
 		ArgOfPericenter	-0.052331682360617915
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19543,7 +19543,7 @@ Asteroid "Alderaan fragment 929"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.11877557800473748
 		ArgOfPericenter	0.30950481028187693
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19564,7 +19564,7 @@ Asteroid "Alderaan fragment 930"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.06419621428686928
 		ArgOfPericenter	-0.4579195235044118
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19585,7 +19585,7 @@ Asteroid "Alderaan fragment 931"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.17228631952872364
 		ArgOfPericenter	-0.30441847694245594
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19606,7 +19606,7 @@ Asteroid "Alderaan fragment 932"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1767903313596152
 		ArgOfPericenter	-0.03151814136743081
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19627,7 +19627,7 @@ Asteroid "Alderaan fragment 933"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2993513634197519
 		ArgOfPericenter	-0.4794516972551045
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19648,7 +19648,7 @@ Asteroid "Alderaan fragment 934"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1571674957939766
 		ArgOfPericenter	-0.08407845038001405
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19669,7 +19669,7 @@ Asteroid "Alderaan fragment 935"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4502921650881795
 		ArgOfPericenter	0.3699578950631951
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19690,7 +19690,7 @@ Asteroid "Alderaan fragment 936"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4538004042334133
 		ArgOfPericenter	-0.2023718921559523
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19711,7 +19711,7 @@ Asteroid "Alderaan fragment 937"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3177026880181403
 		ArgOfPericenter	-0.38077570145849504
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19732,7 +19732,7 @@ Asteroid "Alderaan fragment 938"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.0868745832417509
 		ArgOfPericenter	-0.06995587752339827
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19753,7 +19753,7 @@ Asteroid "Alderaan fragment 939"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.40921324838570006
 		ArgOfPericenter	-0.30582160008430703
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19774,7 +19774,7 @@ Asteroid "Alderaan fragment 940"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.29173253757271467
 		ArgOfPericenter	0.19024047716221126
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19795,7 +19795,7 @@ Asteroid "Alderaan fragment 941"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3738014168710029
 		ArgOfPericenter	0.2985886694629989
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19816,7 +19816,7 @@ Asteroid "Alderaan fragment 942"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2957580617788389
 		ArgOfPericenter	-0.07132919867533316
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19837,7 +19837,7 @@ Asteroid "Alderaan fragment 943"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.45162094621462145
 		ArgOfPericenter	0.2029373586077411
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19858,7 +19858,7 @@ Asteroid "Alderaan fragment 944"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.24895228093093025
 		ArgOfPericenter	-0.03485550387490621
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19879,7 +19879,7 @@ Asteroid "Alderaan fragment 945"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.06280589351859078
 		ArgOfPericenter	-0.1722377559224575
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19900,7 +19900,7 @@ Asteroid "Alderaan fragment 946"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.17343725773989205
 		ArgOfPericenter	0.09436377150169717
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19921,7 +19921,7 @@ Asteroid "Alderaan fragment 947"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.09518886678342064
 		ArgOfPericenter	-0.18728670850857376
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19942,7 +19942,7 @@ Asteroid "Alderaan fragment 948"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2731488035703915
 		ArgOfPericenter	0.47862579839258623
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19963,7 +19963,7 @@ Asteroid "Alderaan fragment 949"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.024681777463470334
 		ArgOfPericenter	0.038081194849845734
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -19984,7 +19984,7 @@ Asteroid "Alderaan fragment 950"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4731809612285136
 		ArgOfPericenter	-0.22331593979368058
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20005,7 +20005,7 @@ Asteroid "Alderaan fragment 951"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2365597908971212
 		ArgOfPericenter	0.3891408205469705
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20026,7 +20026,7 @@ Asteroid "Alderaan fragment 952"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.212834519321906
 		ArgOfPericenter	0.3717279865642312
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20047,7 +20047,7 @@ Asteroid "Alderaan fragment 953"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.04375403420834467
 		ArgOfPericenter	-0.09601285563724915
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20068,7 +20068,7 @@ Asteroid "Alderaan fragment 954"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.035002817705505396
 		ArgOfPericenter	-0.31196695760194815
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20089,7 +20089,7 @@ Asteroid "Alderaan fragment 955"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4813402242185393
 		ArgOfPericenter	0.49733115154426444
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20110,7 +20110,7 @@ Asteroid "Alderaan fragment 956"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.005445810339804513
 		ArgOfPericenter	-0.26309356319505617
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20131,7 +20131,7 @@ Asteroid "Alderaan fragment 957"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2811084788808993
 		ArgOfPericenter	0.05498074176060852
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20152,7 +20152,7 @@ Asteroid "Alderaan fragment 958"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.11057264153171531
 		ArgOfPericenter	0.4269924704455287
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20171,7 +20171,7 @@ Asteroid "Alderaan fragment 959"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.066304122263795
 		ArgOfPericenter	0.371146135158951
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20192,7 +20192,7 @@ Asteroid "Alderaan fragment 960"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.15095813974254813
 		ArgOfPericenter	-0.45660869148534755
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20213,7 +20213,7 @@ Asteroid "Alderaan fragment 961"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3343133039956909
 		ArgOfPericenter	0.11490300101191697
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20234,7 +20234,7 @@ Asteroid "Alderaan fragment 962"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.028121791141589636
 		ArgOfPericenter	-0.22480087875845522
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20255,7 +20255,7 @@ Asteroid "Alderaan fragment 963"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.44092767271911504
 		ArgOfPericenter	0.2400546508622764
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20276,7 +20276,7 @@ Asteroid "Alderaan fragment 964"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.45495846663709427
 		ArgOfPericenter	-0.4635358042450408
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20297,7 +20297,7 @@ Asteroid "Alderaan fragment 965"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.47601515912529735
 		ArgOfPericenter	-0.09792578267935359
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20318,7 +20318,7 @@ Asteroid "Alderaan fragment 966"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.14233401432303794
 		ArgOfPericenter	0.4333416718965687
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20339,7 +20339,7 @@ Asteroid "Alderaan fragment 967"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2969092883201119
 		ArgOfPericenter	0.20478851085148686
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20360,7 +20360,7 @@ Asteroid "Alderaan fragment 968"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.14685597628054203
 		ArgOfPericenter	-0.3674500658494513
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20381,7 +20381,7 @@ Asteroid "Alderaan fragment 969"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.376200342807982
 		ArgOfPericenter	-0.328837132625884
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20402,7 +20402,7 @@ Asteroid "Alderaan fragment 970"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.38466399716220634
 		ArgOfPericenter	-0.4540199179855886
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20423,7 +20423,7 @@ Asteroid "Alderaan fragment 971"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.4175971456385934
 		ArgOfPericenter	-0.46282465085970603
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20444,7 +20444,7 @@ Asteroid "Alderaan fragment 972"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.024598155243411912
 		ArgOfPericenter	-0.10807563101584927
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20465,7 +20465,7 @@ Asteroid "Alderaan fragment 973"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.30338073830019086
 		ArgOfPericenter	0.4039689422532231
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20486,7 +20486,7 @@ Asteroid "Alderaan fragment 974"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.29170282060980823
 		ArgOfPericenter	-0.19721336812836987
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20507,7 +20507,7 @@ Asteroid "Alderaan fragment 975"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.24605129205226806
 		ArgOfPericenter	-0.23893691963301034
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20528,7 +20528,7 @@ Asteroid "Alderaan fragment 976"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.23514672033465145
 		ArgOfPericenter	-0.1838215778594463
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20549,7 +20549,7 @@ Asteroid "Alderaan fragment 977"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.20168600893738098
 		ArgOfPericenter	0.10576656010388408
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20570,7 +20570,7 @@ Asteroid "Alderaan fragment 978"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4192708073931487
 		ArgOfPericenter	-0.46170432868816813
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20591,7 +20591,7 @@ Asteroid "Alderaan fragment 979"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.3364379235573609
 		ArgOfPericenter	0.11205026732715817
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20612,7 +20612,7 @@ Asteroid "Alderaan fragment 980"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2613974120415964
 		ArgOfPericenter	-0.21211064372318733
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20633,7 +20633,7 @@ Asteroid "Alderaan fragment 981"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.012413831663708685
 		ArgOfPericenter	-0.0453901570774915
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20654,7 +20654,7 @@ Asteroid "Alderaan fragment 982"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.471440981418916
 		ArgOfPericenter	-0.26427386267724085
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20675,7 +20675,7 @@ Asteroid "Alderaan fragment 983"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.08941749984379921
 		ArgOfPericenter	-0.08221945772880324
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20696,7 +20696,7 @@ Asteroid "Alderaan fragment 984"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.20682174375350781
 		ArgOfPericenter	-0.3630038104854172
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20717,7 +20717,7 @@ Asteroid "Alderaan fragment 985"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.29729508901329194
 		ArgOfPericenter	-0.42006893831603376
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20738,7 +20738,7 @@ Asteroid "Alderaan fragment 986"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4473271602949558
 		ArgOfPericenter	-0.27516491018504785
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20759,7 +20759,7 @@ Asteroid "Alderaan fragment 987"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.2568548173495736
 		ArgOfPericenter	0.19460821798965866
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20780,7 +20780,7 @@ Asteroid "Alderaan fragment 988"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.363102208803748
 		ArgOfPericenter	0.27178932170612824
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20801,7 +20801,7 @@ Asteroid "Alderaan fragment 989"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.1514058451609125
 		ArgOfPericenter	-0.48508984141694234
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20822,7 +20822,7 @@ Asteroid "Alderaan fragment 990"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.10179645129243342
 		ArgOfPericenter	-0.36667024647396873
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20843,7 +20843,7 @@ Asteroid "Alderaan fragment 991"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.25728345702417954
 		ArgOfPericenter	0.487402353375447
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20864,7 +20864,7 @@ Asteroid "Alderaan fragment 992"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.18430133706037033
 		ArgOfPericenter	0.3934471513722898
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20885,7 +20885,7 @@ Asteroid "Alderaan fragment 993"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3555441624859349
 		ArgOfPericenter	0.3776649875505478
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20906,7 +20906,7 @@ Asteroid "Alderaan fragment 994"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.272740367505124
 		ArgOfPericenter	0.1243644315379876
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20927,7 +20927,7 @@ Asteroid "Alderaan fragment 995"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.31635613574430355
 		ArgOfPericenter	0.012703604119516432
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20948,7 +20948,7 @@ Asteroid "Alderaan fragment 996"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.3130686156779944
 		ArgOfPericenter	0.24592981410532144
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20969,7 +20969,7 @@ Asteroid "Alderaan fragment 997"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.10015605870656585
 		ArgOfPericenter	0.24185158765634296
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -20990,7 +20990,7 @@ Asteroid "Alderaan fragment 998"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.016724511412492205
 		ArgOfPericenter	-0.26778404582995075
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -21011,7 +21011,7 @@ Asteroid "Alderaan fragment 999"
 		Inclination		131.0	//in degrees
 		AscendingNode	-0.32035010711899836
 		ArgOfPericenter	-0.08403226235299444
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 
@@ -21032,7 +21032,7 @@ Asteroid "Alderaan fragment 1000"
 		Inclination		131.0	//in degrees
 		AscendingNode	0.4224192332958585
 		ArgOfPericenter	-0.46053406890393267
-		RefPlane		"Equator"
+		RefPlane		"Ecliptic"
 	}
 }
 

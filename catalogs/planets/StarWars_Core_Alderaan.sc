@@ -35,7 +35,7 @@ Planet	"Raisa"
 		icecapHeight    0.2217994
 		climatePole     1
 		climateTropic   0.45
-		climateEcliptic  0.625
+		climateEquator  0.625
 		tropicWidth     0.07
 		mainFreq        1.719477
 		venusFreq       0.4434467
@@ -151,7 +151,7 @@ Planet	"Alderaan/Alderaan Planet"
 		icecapHeight    0.1596103
 		climatePole     0.45
 		climateTropic   0.7222222
-		climateEcliptic  0.45
+		climateEquator  0.45
 		tropicWidth     0.4444444
 		mainFreq        0.944191
 		venusFreq       0.613223
@@ -377,7 +377,7 @@ Planet	"Delaya"
 		icecapHeight    0.1596103
 		climatePole     0.45
 		climateTropic   0.698
-		climateEcliptic  0.45
+		climateEquator  0.45
 		tropicWidth     0.4444444
 		mainFreq        0.944191
 		venusFreq       0.613223
