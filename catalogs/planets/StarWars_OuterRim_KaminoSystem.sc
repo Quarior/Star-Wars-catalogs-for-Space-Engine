@@ -30,7 +30,6 @@ Planet	"Kas"
 		AscendingNode   343.4993
 		ArgOfPericenter 75.89897
 		MeanAnomaly     142.8083
-		RefPlane       "Equator"
 	}
 }
 
@@ -78,8 +77,7 @@ Planet	"Jomon"
 	Orbit
 	{
 		Epoch          2454762
-		SemiMajorAxis  0.4215
-        //Period         0.653     // Orbital period in years 
+		SemiMajorAxis  0.5215
 		Inclination    0.0689
 		Eccentricity   0.03
 		ArgOfPericen   9.2
@@ -98,8 +96,7 @@ Planet	"Faa"
 	Orbit
 	{
 		Epoch          2454762
-		SemiMajorAxis  0.6957
-        //Period         0.75954     // Orbital period in years 
+		SemiMajorAxis  0.7957
 		Inclination    0.0689
 		Eccentricity   0.03
 		ArgOfPericen   9.2
@@ -162,42 +159,154 @@ DwarfMoon	"Faa 2"
 	}
 }
 
-Planet	"Kamino/Kamino Planet"
+Planet	"Kamino"
 {
-	ParentBody     "Kamino System"
-	Class          "Oceania"
+	ParentBody		"Kamino System"
+	Class	       	"Terra"
 
-    Radius          9635      // Radius in km  
 	Mass            0.622
-    RotationPeriod  27        // Rotation period in hours 
+	Radius          9635
+	InertiaMoment   0.331229
+
+	Oblateness      0.0145935
+
+	RotationPeriod  27
+	Obliquity       41.2731
+	EqAscendNode    5.21515
+	Precession      0
+
+	AlbedoBond      0.68
+	AlbedoGeom      0.816
+	Brightness      2
+	Color          (1.032 1.036 1.039)
 
 	Life
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Marine"
+		Biome   "Marine/Terrestrial"
 	}
 
 	Surface
 	{
+		SurfStyle       0.388889
+		OceanStyle      0
+		Randomize      (-0.159, 0.508, 1.492)
+		colorDistMagn   0.0444129
+		colorDistFreq   1111.33
+		detailScale     24781.8
+		colorConversion true
+		drivenDarkening -1
+		seaLevel        0.992529
+		snowLevel       1
+		tropicLatitude  0.660159
+		icecapLatitude  0.946754
+		icecapHeight    0.350875
+		climatePole     0.9375
+		climateTropic   0.00793651
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.444444
+		mainFreq        0.119048
+		venusFreq       1
+		venusMagn       1.19048
+		mareFreq        5.61385
+		mareDensity     0.00454748
+		terraceProb     0.36845
+		erosion         0.333333
+		montesMagn      1.03175
+		montesFreq      115.079
+		montesSpiky     0.746032
+		montesFraction  0.880952
+		dunesMagn       0.0520476
+		dunesFreq       52.0176
+		dunesFraction   0.164054
+		hillsMagn       4.04762
+		hillsFreq       476.19
+		hillsFraction   0.698413
+		hills2Fraction  0.595238
+		riversMagn      52.0654
+		riversFreq      2.74413
+		riversSin       6.15932
+		riversOctaves   2
+		canyonsMagn     0.0295663
+		canyonsFreq     100
+		canyonFraction  0.495517
+		cracksMagn      0.0846368
+		cracksFreq      0.964664
+		cracksOctaves   0
+		craterMagn      0.53824
+		craterFreq      20.5395
+		craterDensity   0
+		craterOctaves   0
+		craterRayedFactor 0
+		volcanoMagn     0.7
+		volcanoFreq     0.825397
+		volcanoDensity  0.404762
+		volcanoOctaves  5
+		volcanoActivity 0.73171
+		volcanoFlows    0.635894
+		volcanoRadius   1
+		volcanoTemp     1329.86
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		stripeZones     2.27879
+		stripeFluct     0
+		stripeTwist     0.0385466
+		cycloneMagn     2.78912
+		cycloneFreq     0.910219
+		cycloneDensity  0.492844
+		cycloneOctaves  4
 		colorSea       (0.040, 0.100, 0.200, 1.000)
 		colorShelf     (0.150, 0.480, 0.460, 1.000)
-		colorBeach     (0.690, 0.470, 0.320, 0.000)
+		colorBeach     (0.250, 0.550, 0.390, 0.000)
+		colorDesert    (0.250, 0.430, 0.280, 0.000)
+		colorLowland   (0.140, 0.120, 0.100, 0.000)
+		colorUpland    (0.610, 0.410, 0.250, 0.000)
+		colorRock      (0.260, 0.260, 0.140, 0.000)
+		colorSnow      (1.000, 1.000, 1.000, 1.308)
+		colorLowPlants (0.100, 0.160, 0.070, 0.000)
+		colorUpPlants  (0.090, 0.110, 0.040, 0.000)
+		BumpHeight      19.1429
+		BumpOffset      21.4286
+		DiffMapAlpha   "Water"
+		SpecBrightWater 0.65
+		SpecBrightIce   0.85
+		SpecularPower   55
+		Hapke           0
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
 	}
 
 	Clouds
 	{
-		Height          41.97998
+		Height          41.9805
+		Velocity        80.6448
+		BumpHeight      4.67268
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.15
 		DayAmbient      2
-		Lommel          0.2
-		Exposure        2
-		Color          (1.000 1.000 1.000 1.000)
-		mainFreq        1.428571
+		mainFreq        1.42857
 		mainOctaves     8
-		Coverage        0.6
-		twistZones      6.234271
-		twistMagn       0
+		Coverage        0.8
+		stripeZones     2.27879
+		stripeFluct     0
+		stripeTwist     0.0385466
 	}
+
+	Ocean
+	{
+		Height          19
+		Hapke           0
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+	}
+
+	NoLava          true
 
 	Atmosphere
 	{
@@ -205,63 +314,66 @@ Planet	"Kamino/Kamino Planet"
 		Height          166.78
 		Density         100
 		Pressure        0.946
-		Greenhouse      83.76289
-		Bright          10.47619
+		Greenhouse      83.7629
+		Bright          10.4762
 		Opacity         1
-		SkyLight        2.301587
-		
-		Composition // values in percent
+		SkyLight        2.30159
+		Hue             0
+		Saturation      1
+
+		Composition
 		{
-			N2  77.7729
-			O2  20.8625
-			Ar  0.9303
-			H2O 0.4000
-			CO2 0.0398
+			N2    	77.7729
+			O2    	20.8625
+			Ar    	0.9303
+			H2O   	0.4
+			CO2   	0.0398
 		}
 	}
-	
-	NoRings true
-	
-	Orbit
+
+	Aurora
 	{
-		Epoch          2454762
-		SemiMajorAxis  0.81455
-        //Period         1.267651     // Orbital period in years 
-		Inclination    0.0389
-		Eccentricity   0.03
-		ArgOfPericen   9.2
+		Height      219.303
+		NorthLat    68.99
+		NorthLon    -85.3579
+		NorthRadius 3139.98
+		NorthWidth  692.596
+		NorthRings  3
+		NorthBright 0.3
+		NorthParticles 0
+		SouthLat    -72.4796
+		SouthLon    77.6318
+		SouthRadius 2933
+		SouthWidth  885.739
+		SouthRings  2
+		SouthBright 0.3
+		SouthParticles 0
+		TopColor    (1.000 1.000 1.000)
+		BottomColor (0.000 1.000 0.000)
 	}
-}
 
-DwarfMoon	"Korosa/Kamino 1"
-{
-	ParentBody     "Kamino Planet"
-	Class          "IceWorld"
+	NoRings         true
 
-    Radius          675      // Radius in km  
-	Mass            0.622
-    RotationPeriod  27        // Rotation period in hours 
+	NoAccretionDisk true
 
-	NoClouds			true
-	
-	NoAtmosphere			true
-	
-	NoAurora			true
+	NoCometTail     true
 
 	Orbit
 	{
-		Epoch          2454762
-		SemiMajorAxis  0.000635035777
-        //Period         0.0191653649     // Orbital period in years 
-		Inclination    0.0689
-		Eccentricity   0.03
-		ArgOfPericen   9.2
+		RefPlane        "Extrasolar"
+		Epoch           2.45476e+006
+		Period          1.26765
+		Eccentricity    0.03
+		Inclination     0.0389
+		AscendingNode   0
+		ArgOfPericenter 9.2
+		MeanAnomaly     -9.2
 	}
 }
 
 Moon	"Kamino 2"
 {
-	ParentBody     "Kamino Planet"
+	ParentBody     "Kamino"
 	Class	       "Selena"
 
 	Radius          725
@@ -287,7 +399,7 @@ Moon	"Kamino 2"
 
 DwarfMoon	"Kamino 3"
 {
-	ParentBody     "Kamino Planet"
+	ParentBody     "Kamino"
 	Class          "IceWorld"
 
     Radius          802      // Radius in km  
@@ -330,18 +442,16 @@ Planet	"Mira"
 
 	Orbit
 	{
-		SemiMajorAxis   1.14530
-		//Period          1.5309
+		SemiMajorAxis   1.44530
 		Eccentricity    0.0004060218
 		Inclination     0.6317737
 		AscendingNode   343.4993
 		ArgOfPericenter 75.89897
 		MeanAnomaly     142.8083
-		RefPlane       "Equator"
 	}
 }
 
-Planet	"Myuu"
+Planet	"Miyuu"
 {
 	ParentBody     "Kamino System"
 	Class	       "Selena"
@@ -369,7 +479,6 @@ Planet	"Myuu"
 		AscendingNode   343.4993
 		ArgOfPericenter 75.89897
 		MeanAnomaly     142.8083
-		RefPlane       "Equator"
 	}
 }
 
@@ -401,7 +510,6 @@ Planet	"Donoa"
 		AscendingNode   348.4993
 		ArgOfPericenter 75.89897
 		MeanAnomaly     142.8083
-		RefPlane       "Equator"
 	}
 }
 
@@ -429,7 +537,6 @@ Planet	"Casna Aura"
 		AscendingNode   348.4993
 		ArgOfPericenter 75.89897
 		MeanAnomaly     142.8083
-		RefPlane       "Equator"
 	}
 }
 
@@ -457,7 +564,6 @@ Planet	"Casna Besh"
 		AscendingNode   348.4993
 		ArgOfPericenter 75.89897
 		MeanAnomaly     142.8083
-		RefPlane       "Equator"
 	}
 }
 

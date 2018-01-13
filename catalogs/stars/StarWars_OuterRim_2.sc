@@ -2083,7 +2083,7 @@ Star "Kamino System" // system name
     RA         0.08722671140098076
     Dec        24.584683291268114
     Dist       382994212
-    Class      "K1 V"
+    Class      "G4 V"
 }
 
 // http://starwars.wikia.com/wiki/Kanaver
