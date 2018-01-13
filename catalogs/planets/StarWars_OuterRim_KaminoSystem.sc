@@ -291,7 +291,7 @@ Planet	"Kamino"
 		DayAmbient      2
 		mainFreq        1.42857
 		mainOctaves     8
-		Coverage        0.8
+		Coverage        0.6
 		stripeZones     2.27879
 		stripeFluct     0
 		stripeTwist     0.0385466
@@ -368,6 +368,32 @@ Planet	"Kamino"
 		AscendingNode   0
 		ArgOfPericenter 9.2
 		MeanAnomaly     -9.2
+	}
+}
+
+DwarfMoon	"Korosa/Kamino 1"
+{
+	ParentBody     "Kamino"
+	Class          "IceWorld"
+
+    Radius          675      // Radius in km  
+	Mass            0.622
+    RotationPeriod  27        // Rotation period in hours 
+
+	NoClouds			true
+	
+	NoAtmosphere			true
+	
+	NoAurora			true
+
+	Orbit
+	{
+		Epoch          2454762
+		SemiMajorAxis  0.000635035777
+        //Period         0.0191653649     // Orbital period in years 
+		Inclination    0.0689
+		Eccentricity   0.03
+		ArgOfPericen   9.2
 	}
 }
 
