@@ -133,7 +133,7 @@ Planet	"Jakku/Jakku System 4"
 		Model          "Earth"
 		Height          56.8615
 		Density         0.108213
-		Pressure        0.0360544
+		Pressure        0.8360544
 		Greenhouse      38.0952
 		Bright          10
 		Opacity         1
