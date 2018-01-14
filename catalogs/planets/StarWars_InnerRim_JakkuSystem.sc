@@ -189,97 +189,89 @@ Moon	"Jakku Moon 1/Jakku System 4.D1"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      0.1
+	Brightness      2.5
 	Color          (0.057 0.049 0.044)
 
 	Surface
 	{
-		SurfStyle       0.454572
-		OceanStyle      0.992248
-		Randomize      (0.630, -0.554, -0.924)
-		colorDistMagn   0.636941
-		colorDistFreq   0.0103097
-		detailScale     168.384
+		SurfStyle       0.601499
+		OceanStyle      0.68254
+		Randomize      (0.953, -0.452, -0.207)
+		colorDistMagn   0.0905216
+		colorDistFreq   79.8199
+		detailScale     1658.84
 		colorConversion true
 		drivenDarkening 0
-		seaLevel        0.181947
-		snowLevel       1
+		seaLevel        0.146549
+		snowLevel       2
 		tropicLatitude  0
-		icecapLatitude  1
-		icecapHeight    0.181947
+		icecapLatitude  10
+		icecapHeight    0.103
 		climatePole     0.9375
 		climateTropic   0.3125
 		climateEquator  0.6875
 		heightTempGrad  0.625
 		tropicWidth     0.07
-		mainFreq        0.655372
-		venusFreq       2
+		mainFreq        1.71211
+		venusFreq       1.39637
 		venusMagn       0
-		mareFreq        0.310856
-		mareDensity     2.76563e-018
-		terraceProb     0.186182
+		mareFreq        0.0325506
+		mareDensity     1.33311e-017
+		terraceProb     0.316965
 		erosion         0
-		montesMagn      0.545969
-		montesFreq      3.53411
-		montesSpiky     0.958371
-		montesFraction  0.513859
-		dunesMagn       0.0412825
-		dunesFreq       100
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.0962925
-		hillsFraction   0.629548
+		montesMagn      0.0556294
+		montesFreq      26.2737
+		montesSpiky     0.942848
+		montesFraction  0.935982
+		dunesMagn       0.0414928
+		dunesFreq       842.22
+		dunesFraction   0.464588
+		hillsMagn       0.141854
+		hillsFreq       89.8632
+		hillsFraction   0.79038
 		hills2Fraction  0
-		riversMagn      42.9181
-		riversFreq      3.16863
-		riversSin       7.26703
+		riversMagn      57.6709
+		riversFreq      2.55433
+		riversSin       7.2924
 		riversOctaves   0
-		canyonsMagn     0.613907
-		canyonsFreq     0.430944
-		canyonFraction  0.652721
-		cracksMagn      0.0258699
-		cracksFreq      0.329343
+		canyonsMagn     0.417205
+		canyonsFreq     0.234934
+		canyonFraction  0.336823
+		cracksMagn      0.0305516
+		cracksFreq      0.29522
 		cracksOctaves   0
-		craterMagn      0.248533
-		craterFreq      0.262621
-		craterDensity   1
-		craterOctaves   10
-		craterRayedFactor 0.174393
-		volcanoMagn     0.484127
-		volcanoFreq     0.752701
-		volcanoDensity  0.34127
+		craterMagn      0.609563
+		craterFreq      2.13485
+		craterDensity   0.838144
+		craterOctaves   9
+		craterRayedFactor 0.194714
+		volcanoMagn     0.167136
+		volcanoFreq     0.54578
+		volcanoDensity  0.233943
 		volcanoOctaves  3
 		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.548827
-		volcanoTemp     1733.61
+		volcanoFlows    0.228526
+		volcanoRadius   0.136696
+		volcanoTemp     1428.15
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		stripeZones     0
-		stripeFluct     0
-		stripeTwist     0
-		cycloneMagn     0
-		cycloneFreq     0
-		cycloneDensity  0
-		cycloneOctaves  0
-		colorSea       (0.420, 0.420, 0.430, 0.000)
-		colorShelf     (0.470, 0.480, 0.480, 0.000)
-		colorBeach     (0.032, 0.028, 0.026, 0.000)
-		colorDesert    (0.028, 0.022, 0.020, 0.000)
-		colorLowland   (0.035, 0.030, 0.025, 0.000)
-		colorUpland    (0.037, 0.032, 0.027, 0.000)
-		colorRock      (0.340, 0.340, 0.340, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 1.000)
-		BumpHeight      5.54977
-		BumpOffset      1.10995
-		SpecBrightWater 11.4286
-		SpecBrightIce   13.0159
-		SpecularPower   300
+		colorSea       (0.350, 0.300, 0.300, 0.000)
+		colorShelf     (0.350, 0.300, 0.300, 0.000)
+		colorBeach     (0.350, 0.258, 0.232, 0.000)
+		colorDesert    (0.300, 0.215, 0.193, 0.200)
+		colorLowland   (0.350, 0.258, 0.232, 0.000)
+		colorUpland    (0.350, 0.258, 0.232, 0.000)
+		colorRock      (0.350, 0.300, 0.300, 0.000)
+		colorSnow      (0.500, 0.500, 0.500, 1.000)
+		BumpHeight      20
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   55
 		Hapke           1
-		SpotBright      3.33333
+		SpotBright      4
 		SpotWidth       0.05
-		DayAmbient      0.952381
+		DayAmbient      0.07
 	}
 
 	NoClouds        true
@@ -333,58 +325,80 @@ Moon	"Jakku Moon 2/Jakku System 4.D2"
 
 	Surface
 	{
-		SurfStyle       0.0746046
-		OceanStyle      0.495037
-		Randomize      (0.107, 0.554, -0.117)
-		colorDistMagn   0.173966
-		colorDistFreq   0.0178718
-		detailScale     132.485
+		SurfStyle       0.263145
+		OceanStyle      0.878483
+		Randomize      (0.562, -0.017, -0.034)
+		colorDistMagn   0.0904887
+		colorDistFreq   24.2616
+		detailScale     640.059
 		colorConversion true
+		drivenDarkening 0
+		seaLevel        0.256955
 		snowLevel       2
 		tropicLatitude  0
-		icecapLatitude  1
+		icecapLatitude  10
+		icecapHeight    0.171534
 		climatePole     0.9375
 		climateTropic   0.3125
 		climateEquator  0.6875
 		heightTempGrad  0.625
 		tropicWidth     0.07
-		mainFreq        0.439337
-		terraceProb     0.119786
+		mainFreq        1.82327
+		venusFreq       1.23202
+		venusMagn       0
+		mareFreq        0
+		mareDensity     1.3329e-015
+		terraceProb     0.187741
 		erosion         0
-		montesMagn      0.529505
-		montesFreq      2.80065
-		montesSpiky     0.943005
-		montesFraction  0.736403
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.0459655
-		hillsFraction   0.586717
+		montesMagn      0.0668848
+		montesFreq      9.60495
+		montesSpiky     0.639984
+		montesFraction  0.709022
+		dunesMagn       0.0423075
+		dunesFreq       332.967
+		dunesFraction   0.84404
+		hillsMagn       0.103155
+		hillsFreq       33.7922
+		hillsFraction   0.330386
 		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.262897
-		craterFreq      0.264084
-		craterDensity   0.931198
-		craterOctaves   10
+		riversMagn      60.255
+		riversFreq      2.55448
+		riversSin       5.76621
+		riversOctaves   0
+		canyonsMagn     0.594818
+		canyonsFreq     0.0979676
+		canyonFraction  0.820896
+		cracksMagn      0.0489014
+		cracksFreq      0.164842
+		cracksOctaves   0
+		craterMagn      0.850649
+		craterFreq      0.695965
+		craterDensity   0.960923
+		craterOctaves   8
+		craterRayedFactor 0.158707
+		volcanoMagn     0.212154
+		volcanoFreq     0.75075
+		volcanoDensity  0.17964
+		volcanoOctaves  3
 		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.442867
-		volcanoTemp     1500.85
+		volcanoFlows    0.203927
+		volcanoRadius   0.191014
+		volcanoTemp     1786.17
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		colorSea       (0.207, 0.205, 0.201, 0.000)
-		colorShelf     (0.220, 0.217, 0.214, 0.000)
-		colorBeach     (0.233, 0.230, 0.226, 0.000)
-		colorDesert    (0.246, 0.243, 0.239, 0.000)
-		colorLowland   (0.258, 0.256, 0.251, 0.000)
-		colorUpland    (0.271, 0.269, 0.264, 0.000)
-		colorRock      (0.284, 0.281, 0.277, 0.000)
-		colorSnow      (0.297, 0.294, 0.289, 1.000)
-		BumpHeight      4.36657
-		BumpOffset      0.873313
+		colorSea       (0.900, 0.900, 0.900, 0.000)
+		colorShelf     (0.500, 0.500, 0.500, 0.000)
+		colorBeach     (0.400, 0.396, 0.389, 0.000)
+		colorDesert    (0.600, 0.594, 0.584, 0.200)
+		colorLowland   (0.800, 0.792, 0.778, 0.500)
+		colorUpland    (0.700, 0.693, 0.681, 0.800)
+		colorRock      (0.400, 0.400, 0.400, 0.000)
+		colorSnow      (1.000, 1.000, 1.000, 1.000)
+		BumpHeight      12.4425
 		SpecBrightWater 0
 		SpecBrightIce   0.03
-		SpecularPower   30
+		SpecularPower   55
 		Hapke           1
 		SpotBright      4
 		SpotWidth       0.05
