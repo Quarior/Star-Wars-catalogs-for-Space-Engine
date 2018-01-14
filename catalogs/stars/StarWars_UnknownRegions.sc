@@ -7,12 +7,31 @@
 // Sector : 
 // Grid location : E13
 // X : -9774.08, Y : -5568.55, Z : 340.9318283986788
-Star "Ahch-To System" // system name
+StarBarycenter "Ahch-To System" // system name
 {
     RA         0.0874304785084429
     Dec        24.585041306572517
     Dist       382999659.2083112
-    Class      "K7 V" // random
+    Class      "G4.3 V" // random
+	
+	//ParentBody     "Ahch-To System"
+	Mass            518858
+	Radius          2.37433e+008
+	RotationPeriod  24
+	Obliquity       0
+	EqAscendNode    0
+
+
+	Orbit
+	{
+		RefPlane        "Static"
+		SemiMajorAxis   0
+		Period          0
+		Eccentricity    0
+		Inclination     0
+		AscendingNode   0
+		ArgOfPericenter 0
+	}
 }
 
 // http://starwars.wikia.com/wiki/Avidich
