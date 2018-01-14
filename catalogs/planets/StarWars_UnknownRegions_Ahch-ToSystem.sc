@@ -7,22 +7,22 @@
 Planet	"Ahch-To/Ahch-To System 2"
 {
 	ParentBody     "Ahch-To System"
-	Class	       "Terra"
+	Class	       "Oceania"
 
-	Mass            0.567342
+	Mass            1
 	Radius          6429
 	InertiaMoment   0.329536
 
 	Oblateness      0.00821657
 
 	RotationPeriod  20.4723
-	Obliquity       -133.523
+	Obliquity       -194.286
 	EqAscendNode    -68.1594
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      2
-	Color          (0.551 0.544 0.541)
+	Brightness      1.19048
+	Color          (0.694 0.707 0.760)
 
 	Life
 	{
@@ -33,105 +33,135 @@ Planet	"Ahch-To/Ahch-To System 2"
 
 	Surface
 	{
-		SurfStyle       0.245257
-		OceanStyle      0.222177
-		Randomize      (0.980, 0.897, -0.615)
-		colorDistMagn   0.0653381
-		colorDistFreq   910.428
+		SurfStyle       0.135714
+		OceanStyle      0.539683
+		Randomize      (-0.032, -1.079, 0.063)
+		colorDistMagn   0.277778
+		colorDistFreq   0.000577969
 		detailScale     16535.7
 		colorConversion true
-		seaLevel        0.0989047
-		snowLevel       2
-		tropicLatitude  0.698361
-		icecapLatitude  0.95418
-		icecapHeight    0.101631
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.37344
-		venusFreq       1.50401
-		venusMagn       0
-		mareFreq        1.48921
-		mareDensity     0.0637367
-		terraceProb     0.418353
-		erosion         0
-		montesMagn      0.254742
-		montesFreq      362.537
-		montesSpiky     0.991884
-		montesFraction  0.897194
-		dunesMagn       0.0533547
-		dunesFreq       59.933
+		drivenDarkening 0.666667
+		seaLevel        0.777778
+		snowLevel       0
+		tropicLatitude  0.360069
+		icecapLatitude  0.619048
+		icecapHeight    0.238095
+		climatePole     0.119048
+		climateTropic   0.531746
+		climateEquator  0.18254
+		heightTempGrad  0
+		tropicWidth     0.785714
+		mainFreq        5
+		venusFreq       0
+		venusMagn       0.238095
+		mareFreq        0.00577969
+		mareDensity     0.730159
+		terraceProb     0.146393
+		erosion         0.52381
+		montesMagn      10
+		montesFreq      500
+		montesSpiky     0.825397
+		montesFraction  0.103175
+		dunesMagn       0
+		dunesFreq       0
 		dunesFraction   0.645842
-		hillsMagn       0.1125
+		hillsMagn       5.95238
 		hillsFreq       508.408
-		hillsFraction   0
-		hills2Fraction  0
-		riversMagn      66.9571
-		riversFreq      1.81218
+		hillsFraction   0.357143
+		hills2Fraction  0.452381
+		riversMagn      20.6349
+		riversFreq      0
 		riversSin       5.8978
 		riversOctaves   0
-		canyonsMagn     0.0218212
-		canyonsFreq     167.995
-		canyonFraction  0
+		canyonsMagn     4.44444
+		canyonsFreq     100
+		canyonFraction  0.746032
 		cracksMagn      0.110765
 		cracksFreq      0.57622
 		cracksOctaves   0
 		craterMagn      0.649174
-		craterFreq      20.6234
+		craterFreq      0
 		craterDensity   0.417428
-		craterOctaves   6.63277
-		volcanoMagn     0.765486
-		volcanoFreq     0.712714
+		craterOctaves   7
+		craterRayedFactor 0
+		volcanoMagn     0
+		volcanoFreq     0
 		volcanoDensity  0.293647
 		volcanoOctaves  3
-		volcanoActivity 0.765712
+		volcanoActivity 0
 		volcanoFlows    0.586006
 		volcanoRadius   0.397589
 		volcanoTemp     1388.23
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		colorSea       (0.240, 0.230, 0.230, 0.000)
-		colorShelf     (0.380, 0.360, 0.350, 0.000)
-		colorBeach     (0.550, 0.520, 0.480, 0.000)
-		colorDesert    (0.520, 0.490, 0.470, 0.000)
-		colorLowland   (0.460, 0.440, 0.410, 0.000)
-		colorUpland    (0.390, 0.360, 0.330, 0.000)
-		colorRock      (0.170, 0.160, 0.160, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 0.769)
-		colorLowPlants (0.250, 0.110, 0.200, 0.000)
-		colorUpPlants  (0.150, 0.070, 0.180, 0.000)
-		BumpHeight      20
-		DiffMapAlpha   "Ice"
-		SpecBrightWater 0.5
+		stripeZones     0
+		stripeFluct     0
+		stripeTwist     0
+		cycloneMagn     0
+		cycloneFreq     0
+		cycloneDensity  0
+		cycloneOctaves  0
+		colorSea       (0.040, 0.100, 0.200, 1.000)
+		colorShelf     (0.150, 0.480, 0.460, 1.000)
+		colorBeach     (0.950, 0.950, 0.950, 1.308)
+		colorDesert    (0.770, 0.770, 0.470, 1.308)
+		colorLowland   (0.880, 0.880, 0.880, 1.308)
+		colorUpland    (1.000, 1.000, 1.000, 1.308)
+		colorRock      (1.000, 1.000, 1.000, 1.308)
+		colorSnow      (1.000, 1.000, 1.000, 1.308)
+		BumpHeight      10.3175
+		BumpOffset      10.3175
+		DiffMapAlpha   "Water"
+		SpecBrightWater 9.20635
 		SpecBrightIce   0.5
-		SpecularPower   30
-		Hapke           0.220703
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
+		SpecularPower   88.371
+		Hapke           0.214286
+		SpotBright      3.49206
+		SpotWidth       0.0873016
+		DayAmbient      0
 	}
 
-	NoClouds        true
+	Clouds
+	{
+		Height          41.9805
+		Velocity        80.6448
+		BumpHeight      2.38095
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		mainFreq        0.666667
+		mainOctaves     17
+		Coverage        0.642857
+		stripeZones     2.27879
+		stripeFluct     0
+		stripeTwist     0.0385466
+	}
 
-	NoOcean         true
+	Ocean
+	{
+		Height          10.3175
+		Hapke           0
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+	}
 
 	NoLava          true
 
 	Atmosphere
 	{
 		Model          "Earth"
-		Height          41.2018
-		Density         0.0784423
-		Pressure        0.0294688
-		Greenhouse      0.523623
-		Bright          9.51351
-		Opacity         1
+		Height          621.8
+		Density         1
+		Pressure        1
+		Greenhouse      66.6667
+		Bright          2.69841
+		Opacity         0.706349
 		SkyLight        3.17117
-		Hue             0
-		Saturation      0.840142
+		Hue             -0.00793651
+		Saturation      1.4127
 
 		Composition
 		{
@@ -152,14 +182,14 @@ Planet	"Ahch-To/Ahch-To System 2"
 		NorthWidth  255.45
 		NorthRings  2
 		NorthBright 0.3
-		NorthParticles 50000
+		NorthParticles 0
 		SouthLat    -35.2371
 		SouthLon    101.321
 		SouthRadius 2401.61
 		SouthWidth  481.227
 		SouthRings  5
 		SouthBright 0.3
-		SouthParticles 50000
+		SouthParticles 0
 		TopColor    (1.000 1.000 1.000)
 		BottomColor (0.000 1.000 0.000)
 	}
@@ -173,7 +203,7 @@ Planet	"Ahch-To/Ahch-To System 2"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   2.08009
+		SemiMajorAxis   1.7
 		Period          2.41072
 		Eccentricity    0.0267387
 		Inclination     -12.1434
@@ -304,7 +334,7 @@ Moon	"Ahch-To's Moon/Ahch-To System 2.1"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   0.000213922
+		SemiMajorAxis   0.000613922
 		Period          0.00238751
 		Eccentricity    0.0406848
 		Inclination     1.16698
