@@ -856,11 +856,11 @@ Moon	"Lehon Moon 2"
 	}
 }
 
-http://starwars.wikia.com/wiki/Desten
+//http://starwars.wikia.com/wiki/Desten
 Planet	"Desten"
 {
 	ParentBody     "Abo"
-	Class	       "selena"
+	Class	       "Selena"
 
 	Mass            4.35571
 	Radius          4523.2
