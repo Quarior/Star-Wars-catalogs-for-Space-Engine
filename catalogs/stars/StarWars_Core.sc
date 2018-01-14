@@ -389,7 +389,7 @@ Star "Corell/Corellia System" // Star name / system name
     RA         0.08730943053715723
     Dec        24.58545688542092
     Dist       382999939.85102385
-    Class      "M3 V" //"G9 V"
+    Class      "G6 V"
 }
 
 // http://starwars.wikia.com/wiki/Cortina
