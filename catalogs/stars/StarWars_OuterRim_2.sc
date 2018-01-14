@@ -1749,11 +1749,12 @@ Star "Jaemus System" // system name
 }
 
 // http://starwars.wikia.com/wiki/Jagomir
+// http://starwars.wikia.com/wiki/Jaga's Cluster
 // Region : Outer Rim
 // Sector : Esstran Sector
 // Grid location : Q5
 // X : 8697.2, Y : 6973.15, Z : 180.0175011215423
-Star "Jaga’s Cluster System" // system name
+Star "Jagomir System" // system name
 {
     RA         0.08724626142946693
     Dec        24.58691751257332

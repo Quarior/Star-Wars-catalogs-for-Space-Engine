@@ -126,19 +126,18 @@ Planet	"Tion/Proper Tion/Tion Planet/Tion System 5"
 	Clouds
 	{
 		Height          15.5054
-		Velocity        -6000
-		BumpHeight      51.5873
+		Velocity        121.049
+		BumpHeight      4.26755
 		Hapke           0.2
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      2
-		ModulateColor  (1.000 1.000 1.000 0.667)
-		mainFreq        0.357143
-		mainOctaves     14
+		mainFreq        0.98782
+		mainOctaves     4
 		Coverage        0.373016
-		stripeZones     2.30159
-		stripeFluct     0
-		stripeTwist     4.7619
+		stripeZones     1.5873
+		stripeFluct     0.68254
+		stripeTwist     0.793651
 	}
 
 	Ocean

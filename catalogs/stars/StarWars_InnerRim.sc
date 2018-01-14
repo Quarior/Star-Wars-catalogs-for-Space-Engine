@@ -1182,7 +1182,7 @@ Star "Jakku System" // system name
     RA         0.08737421571627539
     Dec        24.58516356288964
     Dist       383000419.141541
-    Class      "K3 III" // random
+    Class      "G2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Janara_III
