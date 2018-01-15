@@ -164,7 +164,7 @@ Planet	"Coruscant"
 		DiffMapAlpha   "Water"
 		BumpMap        "coruscant_bump.*"
 		GlowMap        "coruscant_night.*"
-		GlowMode       "Night"
+		GlowMode       "Permanent" //"Night"
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0
 		Exposure		1.7
