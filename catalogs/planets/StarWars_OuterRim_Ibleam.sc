@@ -26,7 +26,7 @@ Planet	"Endor"
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Floaters"
+		Biome   "Aerial"
 	}
 
 	Surface
@@ -266,17 +266,17 @@ Moon	"Endor 4/Forest moon of Endor/Sanctuary Moon"
 		Height          70.96852
 		Density         100
 		Pressure        1.550516
-		Greenhouse      92.33102
+		Greenhouse      1.33102
 		Bright          5
 		Opacity         1
 		
 		Composition // values in percent
 		{
 			N2  77.7729
-			O2  20.8625
+			O2  20.8925
 			Ar  0.9303
 			H2O 0.4000
-			CO2 0.0398
+			CO2 0.0098
 		}
 	}
 
@@ -300,9 +300,11 @@ Moon	"Endor 5/Sistermoon"
 	ParentBody     "Endor"
 	Class          "Selena"
 
-    Radius         3282      // Radius in km  
+	Radius         3282      // Radius in km  
 	Mass            0.3
-    RotationPeriod  27        // Rotation period in hours 
+	RotationPeriod  27        // Rotation period in hours 
+
+	NoRings		true
 
 	Orbit
 	{
