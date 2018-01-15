@@ -43,7 +43,7 @@ Planet	"Orin"
 	}
 }
 
-Planet	"Bespin/Bespin Planet"
+Planet	"Bespin"
 {
 	ParentBody     "Bespin System"
 	Class	       "GasGiant"
@@ -181,13 +181,12 @@ Planet	"Bespin/Bespin Planet"
 		AscendingNode   325.7146
 		ArgOfPericenter 189.6115
 		MeanAnomaly     141.9982
-		RefPlane       "Ecliptic"
 	}
 }
 
 Moon	"H'gaard"
 {
-	ParentBody     "Bespin Planet"
+	ParentBody     "Bespin"
 	Class          "IceWorld"
 
     Radius          2500      // Radius in km  
@@ -241,7 +240,7 @@ Moon	"H'gaard"
 
 	Atmosphere
 	{
-		Model          "Greenworld"
+		Model          "Chlorine"
 		Height          98
 		Density         0.3
 		Pressure        0.22
@@ -270,7 +269,7 @@ Moon	"H'gaard"
 
 Moon	"Drudonna"
 {
-	ParentBody     "Bespin Planet"
+	ParentBody     "Bespin"
 	Class          "Selena"
 
     Radius          1250      // Radius in km  
@@ -290,7 +289,7 @@ Moon	"Drudonna"
 
 DwarfMoon	"Bespin 3"
 {
-	ParentBody      "Bespin Planet"
+	ParentBody      "Bespin"
 	Albedo          0.0081
 	Radius          74
 	RotationOffset  282
@@ -309,7 +308,7 @@ DwarfMoon	"Bespin 3"
 
 DwarfMoon	"Bespin 4"
 {
-	ParentBody      "Bespin Planet"
+	ParentBody      "Bespin"
 	Albedo          0.0081
 	Radius          261
 	RotationOffset  282
@@ -328,7 +327,7 @@ DwarfMoon	"Bespin 4"
 
 DwarfMoon	"Bespin 5"
 {
-	ParentBody      "Bespin Planet"
+	ParentBody      "Bespin"
 	Albedo          0.0081
 	Radius          5
 	RotationOffset  282
