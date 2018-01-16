@@ -45,10 +45,10 @@ Star "Beshqek/Beshqek System/Byss System" // Star name / system name
     RA         0.08734019163742372
     Dec        24.585465794022028
     Dist       383000274.46326566
-    Class      Class   "B8 V" // "G5 V"
-	MassSol  0.96511
+    Class      "B9 V" // "G5 V"
+    MassSol  0.96511
     RadSol   0.95172
-    Lum      0.45
+    Lum      0.55
     // Teff     5614
 }
 

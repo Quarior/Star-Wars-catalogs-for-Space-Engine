@@ -1272,6 +1272,7 @@ Planet	"Byss"
 		Model          "Earth"
 		Height          53.98
 		Pressure        0.997019
+		Greenhouse		32.859
 		Bright          10
 		Opacity         1
 		SkyLight        3.33333
@@ -1313,8 +1314,7 @@ Planet	"Byss"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   1.1
-		Period          0.73198
+		PeriodDays      266.317575
 		Eccentricity    0.0123872
 		Inclination     -0.332029
 		AscendingNode   -24.0995
