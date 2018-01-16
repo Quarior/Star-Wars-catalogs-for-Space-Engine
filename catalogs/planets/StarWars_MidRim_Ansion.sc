@@ -125,7 +125,7 @@ Moon	"Gaulix 1"
 	}
 }
 
-Planet    "Ansion/Ansion Planet"
+Planet    "Ansion"
 { 
      ParentBody      "Ansion System"
      Class           "Terra"
@@ -154,59 +154,82 @@ Planet    "Ansion/Ansion Planet"
       
      Surface         // Surface tag 
      { 
-         BumpHeight      18.114
-         BumpOffset      2.823
-         DiffMapAlpha   "Water"  // Mode of specular effect (flecks of sunlight) 
-         SpecularBright  20.0
-         SpecularPower   150.0
-         DayAmbient      0.1
-         Lommel          0.0
-         Exposure        2.0
-
-         // Next are parameters for procedural surface generation 
-   Style           0.675
-   Randomize      (0.123, 0.456, 0.789) 
-   colorDistMagn   0.076  // Magnitude of detail textures distortion 
-   colorDistFreq   1291.550    // Frequency of detail textures distortion 
-   detailScale     37490.168    // Scale of detail textures 
-   colorConversion true        // Perform textures color conversion 
-   seaLevel        5.341   // Sea level height (0...1) 
-   snowLevel       0.103   // Snow line level (0...1) 
-   tropicLatitude  0.302   // Latitude of tropics 
-   icecapLatitude  5.0000000   // Latitude of ice caps boundaries 
-   icecapHeight    0.659   // Height of ice caps 
-   climatePole     1.000       // Climate of poles   - index to color table (0...1) 
-   climateTropic   0.508       // Climate of tropics - index to color table (0...1) 
-   climateEquator  0.625       // Climate of equator - index to color table (0...1) 
-   tropicWidth     1.00        // Width of tropics 
-   mainFreq        0.729   // Main noise frequency (oceans/continents) 
-   venusFreq       0.919   // Venus-like global structures frequency 
-   venusMagn       0.000   // Venus-like global structures magnitude 
-   mareFreq        0.729   // Lunar mare frequency 
-   mareDensity     0.061  // Lunar mare density 
-   montesMagn      0.208   // Mountains magnitude (0...1) 
-   montesFreq      453.833    // Mountains frequency 
-   montesDensity   0.108095    // Mountains density 
-   dunesMagn       0.063  // Dunes magnitude (0...1) 
-   dunesFreq       72.704     // Dunes frequency 
-   dunesDensity    0.959   // Dunes density 
-   hillsMagn       0.230   // Hills magnitude (0...1) 
-   hillsFreq       727.185    // Hills frequency 
-   hillsDensity    0.355   // Hills density 
-   canyonMagn      0.043   // Canyons magnitude (0...1) 
-   canyonFreq      100.000    // Canyons frequency 
-   canyonDensity   0.273   // Canyons density 
-   cracksMagn      0.065  // Ice cracks magnitude (0...1) 
-   cracksFreq      0.563   // Ice cracks frequency 
-   cracksOctaves   0           // Number of ice cracks octaves 
-   craterMagn      0.827   // Craters magnitude 
-   craterFreq      23.333    // Craters frequency 
-   craterDensity   0.000  // Craters density 
-   craterOctaves   4.000    // Number of craters octaves 
-   craterRayedFactor 0           // Number of rayed craters relative to usual craters 
-   cycloneMagn     2.041    // Cyclones magnitude (0...1) 
-   cycloneFreq     0.651   // Cyclones frequency 
-   cycloneDensity  0.031  // Cyclones density 
+		SurfStyle       0.811549
+		OceanStyle      0.108091
+		Randomize      (0.017, 0.655, -0.934)
+		colorDistMagn   0.0806702
+		colorDistFreq   468.813
+		detailScale     11895.8
+		colorConversion true
+		seaLevel        0.351608
+		snowLevel       0.791708
+		tropicLatitude  0.287026
+		icecapLatitude  0.864913
+		icecapHeight    0.366016
+		climatePole     0.9375
+		climateTropic   0.352091
+		climateEquator  0.6875
+		heightTempGrad  0.585409
+		tropicWidth     0.0807838
+		mainFreq        1.03457
+		venusFreq       1.42248
+		venusMagn       0
+		mareFreq        5.19047
+		mareDensity     0.0602815
+		terraceProb     0.154323
+		erosion         0.124493
+		montesMagn      0.247789
+		montesFreq      146.808
+		montesSpiky     0.923607
+		montesFraction  0.6751
+		dunesMagn       0.0391296
+		dunesFreq       38.3902
+		dunesFraction   0.378443
+		hillsMagn       0.146788
+		hillsFreq       425.039
+		hillsFraction   0.818191
+		hills2Fraction  0.0634377
+		riversMagn      59.986
+		riversFreq      2.66888
+		riversSin       5.63549
+		riversOctaves   2
+		canyonsMagn     0.0279071
+		canyonsFreq     110.391
+		canyonFraction  0.825669
+		cracksMagn      0.0994198
+		cracksFreq      0.483777
+		cracksOctaves   0
+		craterMagn      0.783392
+		craterFreq      10.0757
+		craterDensity   0
+		craterOctaves   0
+		volcanoMagn     0.721605
+		volcanoFreq     0.720944
+		volcanoDensity  0.290844
+		volcanoOctaves  3
+		volcanoActivity 0.552427
+		volcanoFlows    0.749575
+		volcanoRadius   0.49274
+		volcanoTemp     1267.1
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		stripeZones     1.4264
+		stripeTwist     0
+		cycloneMagn     2.44199
+		cycloneFreq     1.02724
+		cycloneDensity  0.458372
+		cycloneOctaves  4
+		BumpHeight      17.0915
+		BumpOffset      6.00952
+		DiffMapAlpha   "Water"
+		SpecBrightWater 0.65
+		SpecBrightIce   0.85
+		SpecularPower   55
+		Hapke           0
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
    colorSea       (0.478, 0.623, 0.796, 1.000) // Color of seas 
    colorShelf     (0.713, 0.843, 0.862, 1.000) // Color of shelf areas 
    colorBeach     (0.800, 0.796, 0.298, 0.000) // Color of beach lines 
@@ -240,11 +263,12 @@ Planet    "Ansion/Ansion Planet"
 
   Ocean 
   { 
-   Height          6.009521 
-   DayAmbient      2.0 
-   Lommel          0.0 
-   Exposure        2.0 
-   Color          (1.000, 1.000, 1.000, 1.000) 
+   		Height		6.009521 
+		Hapke           0
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+
   } 
 
      Atmosphere      // Atmosphere tag 
@@ -270,6 +294,8 @@ Planet    "Ansion/Ansion Planet"
 		}
      } 
 
+  NoRings		true
+
   Orbit
 	{
 		Epoch          2454762
@@ -283,12 +309,15 @@ Planet    "Ansion/Ansion Planet"
 
 Moon	"Ansion 1"
 {
-	ParentBody     "Ansion Planet"
+	ParentBody     "Ansion"
 	Class          "Selena"
 
     Radius          748      // Radius in km  
 	Mass            0.31321
     RotationPeriod  22        // Rotation period in hours 
+
+	NoRings		true
+	NoAtmosphere	true
 
 	Orbit
 	{
@@ -303,12 +332,15 @@ Moon	"Ansion 1"
 
 Moon	"Ansion 2"
 {
-	ParentBody     "Ansion Planet"
+	ParentBody     "Ansion"
 	Class          "Selena"
 
     Radius          498      // Radius in km  
 	Mass            0.14321
     RotationPeriod  22        // Rotation period in hours 
+
+	NoRings		true
+	NoAtmosphere	true
 
 	Orbit
 	{
