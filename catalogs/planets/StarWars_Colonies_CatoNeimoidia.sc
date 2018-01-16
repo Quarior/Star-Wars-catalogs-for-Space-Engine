@@ -3,7 +3,7 @@
 // Sector : 
 // Grid location : N11
 // X : 3244.57, Y : -2027.38, Z : 252.5448387834124
-Planet	"Cato Neimoidia/Cato Neimoidia Planet"
+Planet	"Cato Neimoidia"
 {
 	ParentBody     "Cato Neimoidia System"
 	Class	       "Terra"
@@ -130,7 +130,7 @@ Planet	"Cato Neimoidia/Cato Neimoidia Planet"
 		Height          153.96852
 		Density         100
 		Pressure        1.550516
-		Greenhouse      92.33102
+		Greenhouse      18.33102
 		Bright          10
 		Opacity         1
 		SkyLight        3.333333
@@ -162,7 +162,7 @@ Planet	"Cato Neimoidia/Cato Neimoidia Planet"
 
 Moon	"Cato Neimoidia 1"
 {
-	ParentBody     "Cato Neimoidia Planet"
+	ParentBody     "Cato Neimoidia"
 	Class          "Selena"
 
     Radius         2245      // Radius in km  
@@ -184,7 +184,7 @@ Moon	"Cato Neimoidia 1"
 
 DwarfMoon	"Cato Neimoidia 2"
 {
-	ParentBody      "Cato Neimoidia Planet"
+	ParentBody      "Cato Neimoidia"
 	Albedo          0.06
 	Radius          77
 	RotationOffset  242.9
