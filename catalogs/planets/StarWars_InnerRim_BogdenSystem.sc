@@ -3,7 +3,7 @@
 // Sector : 
 // Grid location : M8
 // X : 1588.65, Y : 2669.82, Z : -268.1054535091305
-Planet	"Bogden/Bogden Planet/Bogg"
+Planet	"Bogden/Bogg"
 {
 	ParentBody     "Bogden System"
 	Class	       "Terra"
@@ -156,13 +156,12 @@ Planet	"Bogden/Bogden Planet/Bogg"
 		AscendingNode   343.4993
 		ArgOfPericenter 75.89897
 		MeanAnomaly     142.8083
-		RefPlane       "Equator"
 	}
 }
 
 DwarfMoon	"Bogg 1"
 {
-	ParentBody      "Bogden Planet"
+	ParentBody      "Bogden"
 	Albedo          0.06
 	Radius          32
 	RotationOffset  242.9
@@ -183,7 +182,7 @@ DwarfMoon	"Bogg 1"
 
 Moon	"Bogg 2"
 {
-	ParentBody     "Bogden Planet"
+	ParentBody     "Bogden"
 	Class          "Titan"
 
     Radius          3521      // Radius in km  
@@ -203,7 +202,7 @@ Moon	"Bogg 2"
 
 Moon	"Bogg 3"
 {
-	ParentBody     "Bogden Planet"
+	ParentBody     "Bogden"
 	Class          "Desert"
 
     Radius          1234      // Radius in km  
@@ -223,7 +222,7 @@ Moon	"Bogg 3"
 
 Moon	"Bogg 4"
 {
-	ParentBody     "Bogden Planet"
+	ParentBody     "Bogden"
 	Class          "Terra"
 
     Radius          5221      // Radius in km  
@@ -262,7 +261,7 @@ Moon	"Bogg 4"
 
 Moon	"Bogg 5/Bogg V"
 {
-	ParentBody     "Bogden Planet"
+	ParentBody     "Bogden"
 	Class          "Terra"
 
     Radius          4218      // Radius in km  
@@ -301,7 +300,7 @@ Moon	"Bogg 5/Bogg V"
 
 DwarfMoon	"Bogg 6"
 {
-	ParentBody      "Bogden Planet"
+	ParentBody      "Bogden"
 	Albedo          0.06
 	Radius          62
 	RotationOffset  242.9
@@ -322,7 +321,7 @@ DwarfMoon	"Bogg 6"
 
 DwarfMoon	"Bogg 7"
 {
-	ParentBody      "Bogden Planet"
+	ParentBody      "Bogden"
 	Albedo          0.06
 	Radius          23
 	RotationOffset  242.9
@@ -343,7 +342,7 @@ DwarfMoon	"Bogg 7"
 
 DwarfMoon	"Bogg 8"
 {
-	ParentBody      "Bogden Planet"
+	ParentBody      "Bogden"
 	Albedo          0.06
 	Radius          66
 	RotationOffset  242.9
@@ -364,7 +363,7 @@ DwarfMoon	"Bogg 8"
 
 Moon	"Bogg 9"
 {
-	ParentBody     "Bogden Planet"
+	ParentBody     "Bogden"
 	Class          "Titan"
 
     Radius          2521      // Radius in km  
@@ -384,7 +383,7 @@ Moon	"Bogg 9"
 
 DwarfMoon	"Bogg 10"
 {
-	ParentBody      "Bogden Planet"
+	ParentBody      "Bogden"
 	Albedo          0.06
 	Radius          72
 	RotationOffset  242.9
@@ -405,7 +404,7 @@ DwarfMoon	"Bogg 10"
 
 Moon	"Bogg 11"
 {
-	ParentBody     "Bogden Planet"
+	ParentBody     "Bogden"
 	Class          "Desert"
 
     Radius          4216      // Radius in km  
@@ -425,7 +424,7 @@ Moon	"Bogg 11"
 
 DwarfMoon	"Bogg 12"
 {
-	ParentBody      "Bogden Planet"
+	ParentBody      "Bogden"
 	Albedo          0.06
 	Radius          14
 	RotationOffset  242.9
@@ -446,7 +445,7 @@ DwarfMoon	"Bogg 12"
 
 DwarfMoon	"Bogg 13"
 {
-	ParentBody      "Bogden Planet"
+	ParentBody      "Bogden"
 	Albedo          0.06
 	Radius          14
 	RotationOffset  242.9
@@ -467,7 +466,7 @@ DwarfMoon	"Bogg 13"
 
 DwarfMoon	"Bogg 14"
 {
-	ParentBody      "Bogden Planet"
+	ParentBody      "Bogden"
 	Albedo          0.06
 	Radius          14
 	RotationOffset  242.9
@@ -488,7 +487,7 @@ DwarfMoon	"Bogg 14"
 
 Planet	"Bog moon of Bogden/Bogg 15"
 {
-	ParentBody     "Bogden Planet"
+	ParentBody     "Bogden"
 	Class	       "Terra"
 
 	Mass            0.9234
@@ -645,7 +644,7 @@ Planet	"Bog moon of Bogden/Bogg 15"
 
 DwarfMoon	"Bogg 16"
 {
-	ParentBody      "Bogden Planet"
+	ParentBody      "Bogden"
 	Albedo          0.06
 	Radius          14
 	RotationOffset  242.9
@@ -666,7 +665,7 @@ DwarfMoon	"Bogg 16"
 
 Moon	"Bogg 17"
 {
-	ParentBody     "Bogden Planet"
+	ParentBody     "Bogden"
 	Class          "Selena"
 
     Radius          1428.9      // Radius in km  
@@ -686,7 +685,7 @@ Moon	"Bogg 17"
 
 Planet	"Kohlma/Bogg 18"
 {
-	ParentBody     "Bogden Planet"
+	ParentBody     "Bogden"
 	Class	       "Terra"
 
 	Mass            0.7195672
@@ -843,7 +842,7 @@ Planet	"Kohlma/Bogg 18"
 
 DwarfMoon	"Bogg 19"
 {
-	ParentBody      "Bogden Planet"
+	ParentBody      "Bogden"
 	Albedo          0.06
 	Radius          12
 	RotationOffset  242.9
@@ -877,6 +876,8 @@ Planet	"Bogden 3"
 		Type    "Multicellular"
 		Biome   "Marine/Terrestrial"
 	}
+
+	Clouds {}
 
 	Atmosphere
 	{
