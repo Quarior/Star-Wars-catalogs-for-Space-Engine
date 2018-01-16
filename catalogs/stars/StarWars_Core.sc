@@ -33,7 +33,7 @@ Star "Anza/Abregado System" // Star name / system name
 // Sector : Alderaan
 // Grid location : M10
 // X : 1942.44, Y : -89.52, Z : -572.8131505600868
-Star "Alderaan/Alderaan System" // Star name / system name
+Star "Alderaan System"
 {
     RA         0.08731362777240967
     Dec        24.585860954862742

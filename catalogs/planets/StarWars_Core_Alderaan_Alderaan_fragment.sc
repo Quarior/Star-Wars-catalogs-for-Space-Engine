@@ -3,14 +3,14 @@
 // Sector : Alderaan
 // Grid location : M10
 // X : 1942.44, Y : -89.52, Z : -572.8131505600868
-Remove "Alderaan Planet" // Exploded by the Death Star
+Remove "Alderaan" // Exploded by the Death Star
 {
 	ParentBody "Alderaan System"
 }
 
 Remove "Alderaan I"
 {
-	ParentBody "Alderaan Planet"
+	ParentBody "Alderaan"
 }
 
 Asteroid "Alderaan I"

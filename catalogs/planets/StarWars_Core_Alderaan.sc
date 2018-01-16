@@ -108,7 +108,7 @@ Planet	"Raisa"
 	}
 }
 
-Planet	"Alderaan/Alderaan Planet"
+Planet	"Alderaan"
 {
 	ParentBody     "Alderaan System"
 	Class	       "Terra"
@@ -306,7 +306,7 @@ Planet	"Alderaan/Alderaan Planet"
 
 DwarfMoon	"Alderaan I"
 {
-	ParentBody     "Alderaan Planet"
+	ParentBody     "Alderaan"
 	Class	       "Asteroid"
 
 	Mass            1.649745e-010
