@@ -182,7 +182,6 @@ Planet	"Dagobah"
 		AscendingNode   343.4993
 		ArgOfPericenter 75.89897
 		MeanAnomaly     142.8083
-		RefPlane       "Equator"
 	}
 }
 
