@@ -1585,7 +1585,7 @@ Star "Cantonica System" // system name
     RA         0.08722215803474587
     Dec        24.58712588467552
     Dist       382999608.6726343
-    Class      "M2 II" // random
+    Class      "G8 V"
 }
 
 // http://starwars.wikia.com/wiki/Cantras_Gola
