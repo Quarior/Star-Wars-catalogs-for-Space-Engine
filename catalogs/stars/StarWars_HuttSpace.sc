@@ -1073,12 +1073,16 @@ Star "Xolu System" // system name
 // Sector : Hutt Space Sector
 // Grid location : S12
 // X : 10559.83, Y : -3087.1, Z : 548.2887622129917
-StarBarycenter "Y'Toub/Y'Toub System/Nal Hutta System" // Star name / system name
+Star "Y'Toub/Y'Toub System/Nal Hutta System"
 {
     RA         0.0872276850204756
     Dec        24.585412525133826
     Dist       382999451.85800487
-    Class      "K3 V"
+    Class      "K3 IV"
+    Lum        2.50135
+    MassSol    0.76384
+    RadSol     4.369
+    Teff       4200.6
 }
 
 // http://starwars.wikia.com/wiki/Zisia
