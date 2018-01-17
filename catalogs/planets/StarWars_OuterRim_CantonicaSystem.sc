@@ -4,6 +4,7 @@
 // Grid location : S4
 // X : 11114.02, Y : 8366.03, Z : 391.6324793835114
 
+// TODO surface/atmosphere tunning
 Planet	"Cantonica/Cantonica System 3"
 {
 	ParentBody     "Cantonica System"
