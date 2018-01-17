@@ -97,16 +97,16 @@ Planet    "Corellia"
 		cycloneFreq     0.720796
 		cycloneDensity  0.297769
 		cycloneOctaves  3
-		colorSea       (0.000, 0.000, 0.100, 1.000)
+		colorSea       (0.040, 0.100, 0.200, 1.000)
 		colorShelf     (0.150, 0.480, 0.460, 1.000)
-		colorBeach     (0.830, 0.550, 0.260, 0.000)
-		colorDesert    (0.720, 0.400, 0.140, 0.000)
-		colorLowland   (0.830, 0.400, 0.220, 0.000)
-		colorUpland    (0.720, 0.320, 0.180, 0.000)
-		colorRock      (0.650, 0.500, 0.460, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 1.308)
-		colorLowPlants (0.105, 0.162, 0.068, 0.000)
-		colorUpPlants  (0.107, 0.125, 0.040, 0.000)
+		colorBeach     (0.282, 0.250, 0.031, 0.000)
+		colorDesert    (0.309, 0.392, 0.098, 0.000)
+		colorLowland   (0.211, 0.298, 0.066, 0.000)
+		colorUpland    (0.309, 0.392, 0.098, 0.000)
+		colorRock      (0.231, 0.313, 0.090, 0.000)
+		colorSnow      (1.000, 1.000, 1.000, 0.016)
+		colorLowPlants (0.282, 0.250, 0.031, 0.000)
+		colorUpPlants  (0.235, 0.313, 0.105, 0.000)
 		BumpHeight      17.8837
 		BumpOffset      7.3164
 		DiffMapAlpha   "Water"

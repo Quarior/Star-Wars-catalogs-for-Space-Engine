@@ -215,12 +215,12 @@ Star "Anobis System" // system name
 // Sector : Churnis Sector
 // Grid location : I6
 // X : -3099.74, Y : 4500.71, Z : -532.0865474495138
-Star "Ansion/Ansion System" // Star name / system name
+Star "Ansion System"
 {
     RA         0.08736391414671
     Dec        24.58654764011867
     Dist       383000532.1565119
-    Class      "M5 V" // random
+    Class      "G6 V"
 }
 
 // http://starwars.wikia.com/wiki/Anstares

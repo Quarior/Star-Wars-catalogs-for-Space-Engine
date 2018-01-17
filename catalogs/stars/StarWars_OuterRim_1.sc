@@ -1541,12 +1541,11 @@ Star "Cadomai System" // system name
 // Sector : Calamari Sector
 // Grid location : U6
 // X : 13608.12, Y : 4951.81, Z : 302.65217002946963
-Star "Calamari System" // system name
+StarBarycenter "Daca/Calamari System/Mon Calamari System"
 {
     RA         0.08719728399322878
     Dec        24.586615125692386
     Dist       382999697.65507877
-    Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Caluula
