@@ -463,7 +463,7 @@ Planet	"Improcco"
 	}
 }
 
-Planet	"Frozen Moon of Improcco"
+Moon		"Frozen Moon of Improcco"
 {
 	ParentBody     "Improcco"
 	Class          "IceWorld"
@@ -484,4 +484,63 @@ Planet	"Frozen Moon of Improcco"
 		Eccentricity   0.03
 		ArgOfPericen   9.29
 	}
+}
+
+Planet "Ulabos"
+{
+ ParentBody     "Coruscant Prime"
+ Class          "IceWorld"
+
+ Radius          4159      // Radius in km  
+ Mass            0.6
+ RotationPeriod  81        // Rotation period in hours 
+
+ NoAtmosphere    true
+
+ NoClouds        true
+
+ NoAurora        true
+
+ NoCometTail     true
+
+ Rings       // Rings tag 
+      { 
+         InnerRadius      4588.34  // Inner raduis of rings system in km 
+         OuterRadius      23195.4 // Outer radius of rings system in km 
+         FrontBright      1.0     // Direct lighting brightness 
+         BackBright       5.0     // Back lighting brightness (scattering) 
+         Density          1.0     // Density (opacity) 
+         Brightness       5.0     // Global brightness 
+      } 
+
+ Orbit
+ {
+ Epoch          2454762
+ SemiMajorAxis  4.1025
+ Inclination    0.275
+ Eccentricity   0.1
+ ArgOfPericen   9.2
+ }
+}
+
+DwarfPlanet "Nabatu"
+{
+ ParentBody     "Coruscant Prime"
+ Class          "IceWorld"
+ Radius          978      // Radius in km  
+ Mass            0.1
+ RotationPeriod  14        // Rotation period in hours 
+
+ NoAtmosphere    true
+
+ NoClouds        true
+
+ Orbit
+ {
+ Epoch          2454762
+ SemiMajorAxis  5.616
+ Inclination    11.09
+ Eccentricity   0.45
+ ArgOfPericen   9.2
+ }
 }
