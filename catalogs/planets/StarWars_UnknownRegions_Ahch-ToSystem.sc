@@ -7,7 +7,7 @@
 Planet	"Ahch-To/Ahch-To System 2"
 {
 	ParentBody     "Ahch-To System"
-	Class	       "Oceania"
+	Class	       "Terra"
 
 	Mass            1
 	Radius          6429
@@ -29,97 +29,100 @@ Planet	"Ahch-To/Ahch-To System 2"
 		Class   "Organic"
 		Type    "Multicellular"
 		Biome   "Marine/Terrestrial"
+		Panspermia "false"
 	}
 
 	Surface
 	{
-		SurfStyle       0.135714
-		OceanStyle      0.539683
-		Randomize      (-0.032, -1.079, 0.063)
-		colorDistMagn   0.277778
-		colorDistFreq   0.000577969
+		SurfStyle       0.807936
+		OceanStyle      0
+		Randomize      (-0.969, 0.220, 0.938)
+		colorDistMagn   0.0600675
+		colorDistFreq   733.762
 		detailScale     16535.7
 		colorConversion true
-		drivenDarkening 0.666667
-		seaLevel        0.777778
-		snowLevel       0
+		drivenDarkening -1
+		seaLevel        0.82673
+		snowLevel       1.25
 		tropicLatitude  0.360069
-		icecapLatitude  0.619048
-		icecapHeight    0.238095
-		climatePole     0.119048
-		climateTropic   0.531746
-		climateEquator  0.18254
+		icecapLatitude  0.809524
+		icecapHeight    0.888603
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
 		heightTempGrad  0
-		tropicWidth     0.785714
-		mainFreq        5
-		venusFreq       0
+		tropicWidth     0.07
+		mainFreq        7
+		venusFreq       1.88889
 		venusMagn       0.238095
-		mareFreq        0.00577969
-		mareDensity     0.730159
-		terraceProb     0.146393
-		erosion         0.52381
-		montesMagn      10
-		montesFreq      500
-		montesSpiky     0.825397
-		montesFraction  0.103175
-		dunesMagn       0
-		dunesFreq       0
-		dunesFraction   0.645842
-		hillsMagn       5.95238
-		hillsFreq       508.408
-		hillsFraction   0.357143
-		hills2Fraction  0.452381
-		riversMagn      20.6349
-		riversFreq      0
-		riversSin       5.8978
-		riversOctaves   0
-		canyonsMagn     4.44444
-		canyonsFreq     100
-		canyonFraction  0.746032
-		cracksMagn      0.110765
-		cracksFreq      0.57622
+		mareFreq        6.05376
+		mareDensity     0.0599755
+		terraceProb     0.446393
+		erosion         0.72403
+		montesMagn      0.334921
+		montesFreq      29.3651
+		montesSpiky     0.652381
+		montesFraction  0.861905
+		dunesMagn       0.0593283
+		dunesFreq       54.5411
+		dunesFraction   0.390908
+		hillsMagn       3.4127
+		hillsFreq       152.381
+		hillsFraction   0.71568
+		hills2Fraction  0.308748
+		riversMagn      61.1893
+		riversFreq      3.78733
+		riversSin       4.50243
+		riversOctaves   2
+		canyonsMagn     0.0323704
+		canyonsFreq     70
+		canyonFraction  0.368932
+		cracksMagn      0.12433
+		cracksFreq      0.484546
 		cracksOctaves   0
-		craterMagn      0.649174
-		craterFreq      0
-		craterDensity   0.417428
-		craterOctaves   7
+		craterMagn      0.642368
+		craterFreq      17.7416
+		craterDensity   0
+		craterOctaves   0
 		craterRayedFactor 0
-		volcanoMagn     0
-		volcanoFreq     0
-		volcanoDensity  0.293647
-		volcanoOctaves  3
-		volcanoActivity 0
-		volcanoFlows    0.586006
-		volcanoRadius   0.397589
-		volcanoTemp     1388.23
+		volcanoMagn     0.893651
+		volcanoFreq     1.25397
+		volcanoDensity  0.054286
+		volcanoOctaves  5
+		volcanoActivity 0.396825
+		volcanoFlows    0.667558
+		volcanoRadius   0.888889
+		volcanoTemp     1698.71
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		stripeZones     0
+		stripeZones     2.27879
 		stripeFluct     0
-		stripeTwist     0
-		cycloneMagn     0
-		cycloneFreq     0
-		cycloneDensity  0
-		cycloneOctaves  0
+		stripeTwist     0.0385466
+		cycloneMagn     1.94412
+		cycloneFreq     0.861255
+		cycloneDensity  0.310285
+		cycloneOctaves  4
 		colorSea       (0.040, 0.100, 0.200, 1.000)
 		colorShelf     (0.150, 0.480, 0.460, 1.000)
-		colorBeach     (0.950, 0.950, 0.950, 1.308)
-		colorDesert    (0.770, 0.770, 0.470, 1.308)
-		colorLowland   (0.880, 0.880, 0.880, 1.308)
-		colorUpland    (1.000, 1.000, 1.000, 1.308)
-		colorRock      (1.000, 1.000, 1.000, 1.308)
+		colorBeach     (0.820, 0.730, 0.570, 0.000)
+		colorDesert    (0.420, 0.360, 0.220, 0.000)
+		colorLowland   (0.220, 0.230, 0.220, 0.000)
+		colorUpland    (0.620, 0.620, 0.620, 0.000)
+		colorRock      (0.100, 0.100, 0.100, 0.000)
 		colorSnow      (1.000, 1.000, 1.000, 1.308)
-		BumpHeight      10.3175
-		BumpOffset      10.3175
+		colorLowPlants (0.100, 0.160, 0.070, 0.000)
+		colorUpPlants  (0.090, 0.110, 0.040, 0.000)
+		BumpHeight      8.93651
+		BumpOffset      1.5873
 		DiffMapAlpha   "Water"
-		SpecBrightWater 9.20635
-		SpecBrightIce   0.5
-		SpecularPower   88.371
-		Hapke           0.214286
-		SpotBright      3.49206
-		SpotWidth       0.0873016
-		DayAmbient      0
+		SpecBrightWater 0.65
+		SpecBrightIce   0.85
+		SpecularPower   55
+		Hapke           0
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
 	}
 
 	Clouds
@@ -141,14 +144,12 @@ Planet	"Ahch-To/Ahch-To System 2"
 
 	Ocean
 	{
-		Height          10.3175
+		Height          7.38808
 		Hapke           0
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      2
 	}
-
-	NoLava          true
 
 	Atmosphere
 	{
@@ -157,9 +158,9 @@ Planet	"Ahch-To/Ahch-To System 2"
 		Density         1
 		Pressure        1
 		Greenhouse      66.6667
-		Bright          2.69841
-		Opacity         0.706349
-		SkyLight        3.17117
+		Bright          4.60341
+		Opacity         0.849349
+		SkyLight        7.77817
 		Hue             -0.00793651
 		Saturation      1.4127
 
