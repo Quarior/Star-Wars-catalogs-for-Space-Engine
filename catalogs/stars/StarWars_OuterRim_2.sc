@@ -1532,7 +1532,7 @@ Star "Iego System" // system name
 // Sector : Sanbra Sector
 // Grid location : O17
 // X : 5066.38, Y : -11776.55, Z : -376.6042786598674
-Star "Ileenium System" // system name
+Star "Ileenium/Ileenium System" // star name/system name
 {
     RA         0.08728247225309693
     Dec        24.584112608190267
