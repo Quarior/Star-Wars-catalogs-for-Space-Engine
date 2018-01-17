@@ -2573,7 +2573,7 @@ Star "Ziost System" // system name
     RA         0.08724054926331815
     Dec        24.5870378447534
     Dist       383000073.7311431
-    Class      "M7 V" // random
+    Class      "G7 V"
 }
 
 // http://starwars.wikia.com/wiki/Zorbia
