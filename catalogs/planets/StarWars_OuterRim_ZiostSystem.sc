@@ -1,6 +1,6 @@
 Planet	"Ziost/Gateway to the Empire"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Desert"
 
 	Mass            2.70294
@@ -481,7 +481,7 @@ Moon	"Ziost.2"
 
 Asteroid	"S1"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.70417e-010
@@ -588,7 +588,7 @@ Asteroid	"S1"
 
 Asteroid	"S2"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.34171e-018
@@ -695,7 +695,7 @@ Asteroid	"S2"
 
 Asteroid	"S3"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.9175e-015
@@ -802,7 +802,7 @@ Asteroid	"S3"
 
 Asteroid	"S4"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.23636e-012
@@ -909,7 +909,7 @@ Asteroid	"S4"
 
 Asteroid	"S5"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.06487e-008
@@ -1016,7 +1016,7 @@ Asteroid	"S5"
 
 Asteroid	"S6"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.2384e-017
@@ -1123,7 +1123,7 @@ Asteroid	"S6"
 
 Asteroid	"S7"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            9.18013e-014
@@ -1230,7 +1230,7 @@ Asteroid	"S7"
 
 Asteroid	"S8"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.3509e-010
@@ -1337,7 +1337,7 @@ Asteroid	"S8"
 
 Asteroid	"S9"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.98793e-007
@@ -1444,7 +1444,7 @@ Asteroid	"S9"
 
 Asteroid	"S10"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.1646e-015
@@ -1551,7 +1551,7 @@ Asteroid	"S10"
 
 Asteroid	"S11"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.71377e-012
@@ -1658,7 +1658,7 @@ Asteroid	"S11"
 
 Asteroid	"S12"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.5219e-009
@@ -1765,7 +1765,7 @@ Asteroid	"S12"
 
 Asteroid	"S13"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.47742e-017
@@ -1872,7 +1872,7 @@ Asteroid	"S13"
 
 Asteroid	"S14"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.17411e-014
@@ -1979,7 +1979,7 @@ Asteroid	"S14"
 
 Asteroid	"S15"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.19931e-011
@@ -2086,7 +2086,7 @@ Asteroid	"S15"
 
 Asteroid	"S16"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.70796e-008
@@ -2193,7 +2193,7 @@ Asteroid	"S16"
 
 Asteroid	"S17"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.7581e-016
@@ -2300,7 +2300,7 @@ Asteroid	"S17"
 
 Asteroid	"S18"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.05869e-013
@@ -2407,7 +2407,7 @@ Asteroid	"S18"
 
 Asteroid	"S19"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.97256e-010
@@ -2514,7 +2514,7 @@ Asteroid	"S19"
 
 Asteroid	"S20"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.49894e-018
@@ -2621,7 +2621,7 @@ Asteroid	"S20"
 
 Asteroid	"S21"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.14887e-015
@@ -2728,7 +2728,7 @@ Asteroid	"S21"
 
 Asteroid	"S22"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.57684e-012
@@ -2835,7 +2835,7 @@ Asteroid	"S22"
 
 Asteroid	"S23"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.11498e-008
@@ -2942,7 +2942,7 @@ Asteroid	"S23"
 
 Asteroid	"S24"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.53192e-017
@@ -3049,7 +3049,7 @@ Asteroid	"S24"
 
 Asteroid	"S25"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            9.61207e-014
@@ -3156,7 +3156,7 @@ Asteroid	"S25"
 
 Asteroid	"S26"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.41447e-010
@@ -3263,7 +3263,7 @@ Asteroid	"S26"
 
 Asteroid	"S27"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.08146e-007
@@ -3370,7 +3370,7 @@ Asteroid	"S27"
 
 Asteroid	"S28"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.2194e-015
@@ -3477,7 +3477,7 @@ Asteroid	"S28"
 
 Asteroid	"S29"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.79441e-012
@@ -3584,7 +3584,7 @@ Asteroid	"S29"
 
 Asteroid	"S30"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.64057e-009
@@ -3691,7 +3691,7 @@ Asteroid	"S30"
 
 Asteroid	"S31"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.54694e-017
@@ -3798,7 +3798,7 @@ Asteroid	"S31"
 
 Asteroid	"S32"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.2764e-014
@@ -3905,7 +3905,7 @@ Asteroid	"S32"
 
 Asteroid	"S33"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.34985e-011
@@ -4012,7 +4012,7 @@ Asteroid	"S33"
 
 Asteroid	"S34"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.92948e-008
@@ -4119,7 +4119,7 @@ Asteroid	"S34"
 
 Asteroid	"S35"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.88787e-016
@@ -4226,7 +4226,7 @@ Asteroid	"S35"
 
 Asteroid	"S36"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.24965e-013
@@ -4333,7 +4333,7 @@ Asteroid	"S36"
 
 Asteroid	"S37"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.25358e-010
@@ -4440,7 +4440,7 @@ Asteroid	"S37"
 
 Asteroid	"S38"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.66358e-018
@@ -4547,7 +4547,7 @@ Asteroid	"S38"
 
 Asteroid	"S39"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.39116e-015
@@ -4654,7 +4654,7 @@ Asteroid	"S39"
 
 Asteroid	"S40"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.93338e-012
@@ -4761,7 +4761,7 @@ Asteroid	"S40"
 
 Asteroid	"S41"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.16744e-008
@@ -4868,7 +4868,7 @@ Asteroid	"S41"
 
 Asteroid	"S42"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.83926e-017
@@ -4975,7 +4975,7 @@ Asteroid	"S42"
 
 Asteroid	"S43"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.00643e-013
@@ -5082,7 +5082,7 @@ Asteroid	"S43"
 
 Asteroid	"S44"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.48102e-010
@@ -5189,7 +5189,7 @@ Asteroid	"S44"
 
 Asteroid	"S45"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.1794e-007
@@ -5296,7 +5296,7 @@ Asteroid	"S45"
 
 Asteroid	"S46"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.27677e-015
@@ -5403,7 +5403,7 @@ Asteroid	"S46"
 
 Asteroid	"S47"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.87884e-012
@@ -5510,7 +5510,7 @@ Asteroid	"S47"
 
 Asteroid	"S48"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.76481e-009
@@ -5617,7 +5617,7 @@ Asteroid	"S48"
 
 Asteroid	"S49"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.61973e-017
@@ -5724,7 +5724,7 @@ Asteroid	"S49"
 
 Asteroid	"S50"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.38351e-014
@@ -5831,7 +5831,7 @@ Asteroid	"S50"
 
 Asteroid	"S51"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.50747e-011
@@ -5938,7 +5938,7 @@ Asteroid	"S51"
 
 Asteroid	"S52"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.16142e-008
@@ -6045,7 +6045,7 @@ Asteroid	"S52"
 
 Asteroid	"S53"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.02375e-016
@@ -6152,7 +6152,7 @@ Asteroid	"S53"
 
 Asteroid	"S54"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.44961e-013
@@ -6259,7 +6259,7 @@ Asteroid	"S54"
 
 Asteroid	"S55"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.54783e-010
@@ -6366,7 +6366,7 @@ Asteroid	"S55"
 
 Asteroid	"S56"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.83596e-018
@@ -6473,7 +6473,7 @@ Asteroid	"S56"
 
 Asteroid	"S57"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.64482e-015
@@ -6580,7 +6580,7 @@ Asteroid	"S57"
 
 Asteroid	"S58"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            8.30666e-012
@@ -6687,7 +6687,7 @@ Asteroid	"S58"
 
 Asteroid	"S59"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.22237e-008
@@ -6794,7 +6794,7 @@ Asteroid	"S59"
 
 Asteroid	"S60"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.16109e-017
@@ -6901,7 +6901,7 @@ Asteroid	"S60"
 
 Asteroid	"S61"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.05379e-013
@@ -7008,7 +7008,7 @@ Asteroid	"S61"
 
 Asteroid	"S62"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.55071e-010
@@ -7115,7 +7115,7 @@ Asteroid	"S62"
 
 Asteroid	"S63"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.28195e-007
@@ -7222,7 +7222,7 @@ Asteroid	"S63"
 
 Asteroid	"S64"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.33685e-015
@@ -7329,7 +7329,7 @@ Asteroid	"S64"
 
 Asteroid	"S65"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.96724e-012
@@ -7436,7 +7436,7 @@ Asteroid	"S65"
 
 Asteroid	"S66"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.8949e-009
@@ -7543,7 +7543,7 @@ Asteroid	"S66"
 
 Asteroid	"S67"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.69594e-017
@@ -7650,7 +7650,7 @@ Asteroid	"S67"
 
 Asteroid	"S68"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.49567e-014
@@ -7757,7 +7757,7 @@ Asteroid	"S68"
 
 Asteroid	"S69"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.6725e-011
@@ -7864,7 +7864,7 @@ Asteroid	"S69"
 
 Asteroid	"S70"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.40428e-008
@@ -7971,7 +7971,7 @@ Asteroid	"S70"
 
 Asteroid	"S71"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.16603e-016
@@ -8078,7 +8078,7 @@ Asteroid	"S71"
 
 Asteroid	"S72"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.65898e-013
@@ -8185,7 +8185,7 @@ Asteroid	"S72"
 
 Asteroid	"S73"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.85593e-010
@@ -8292,7 +8292,7 @@ Asteroid	"S73"
 
 Asteroid	"S74"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.01645e-018
@@ -8399,7 +8399,7 @@ Asteroid	"S74"
 
 Asteroid	"S75"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.91042e-015
@@ -8506,7 +8506,7 @@ Asteroid	"S75"
 
 Asteroid	"S76"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            8.6975e-012
@@ -8613,7 +8613,7 @@ Asteroid	"S76"
 
 Asteroid	"S77"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.27988e-008
@@ -8720,7 +8720,7 @@ Asteroid	"S77"
 
 Asteroid	"S78"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.49803e-017
@@ -8827,7 +8827,7 @@ Asteroid	"S78"
 
 Asteroid	"S79"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.10337e-013
@@ -8934,7 +8934,7 @@ Asteroid	"S79"
 
 Asteroid	"S80"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.62368e-010
@@ -9041,7 +9041,7 @@ Asteroid	"S80"
 
 Asteroid	"S81"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.38932e-007
@@ -9148,7 +9148,7 @@ Asteroid	"S81"
 
 Asteroid	"S82"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.39975e-015
@@ -9255,7 +9255,7 @@ Asteroid	"S82"
 
 Asteroid	"S83"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.0598e-012
@@ -9362,7 +9362,7 @@ Asteroid	"S83"
 
 Asteroid	"S84"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.03112e-009
@@ -9469,7 +9469,7 @@ Asteroid	"S84"
 
 Asteroid	"S85"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.77574e-017
@@ -9576,7 +9576,7 @@ Asteroid	"S85"
 
 Asteroid	"S86"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.61309e-014
@@ -9683,7 +9683,7 @@ Asteroid	"S86"
 
 Asteroid	"S87"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.8453e-011
@@ -9790,7 +9790,7 @@ Asteroid	"S87"
 
 Asteroid	"S88"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.65857e-008
@@ -9897,7 +9897,7 @@ Asteroid	"S88"
 
 Asteroid	"S89"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.315e-016
@@ -10004,7 +10004,7 @@ Asteroid	"S89"
 
 Asteroid	"S90"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.8782e-013
@@ -10111,7 +10111,7 @@ Asteroid	"S90"
 
 Asteroid	"S91"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.17852e-010
@@ -10218,7 +10218,7 @@ Asteroid	"S91"
 
 Asteroid	"S92"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.20545e-018
@@ -10325,7 +10325,7 @@ Asteroid	"S92"
 
 Asteroid	"S93"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.18854e-015
@@ -10432,7 +10432,7 @@ Asteroid	"S93"
 
 Asteroid	"S94"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            9.10675e-012
@@ -10539,7 +10539,7 @@ Asteroid	"S94"
 
 Asteroid	"S95"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.3401e-008
@@ -10646,7 +10646,7 @@ Asteroid	"S95"
 
 Asteroid	"S96"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.85082e-017
@@ -10753,7 +10753,7 @@ Asteroid	"S96"
 
 Asteroid	"S97"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.15529e-013
@@ -10860,7 +10860,7 @@ Asteroid	"S97"
 
 Asteroid	"S98"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.70007e-010
@@ -10967,7 +10967,7 @@ Asteroid	"S98"
 
 Asteroid	"S99"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.50175e-007
@@ -11074,7 +11074,7 @@ Asteroid	"S99"
 
 Asteroid	"S100"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.46561e-015
@@ -11181,7 +11181,7 @@ Asteroid	"S100"
 
 Comet	"C1"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.03285e-015
@@ -11301,7 +11301,7 @@ Comet	"C1"
 
 Comet	"C2"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.98834e-012
@@ -11421,7 +11421,7 @@ Comet	"C2"
 
 Comet	"C3"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.17841e-008
@@ -11541,7 +11541,7 @@ Comet	"C3"
 
 Comet	"C4"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.90238e-015
@@ -11661,7 +11661,7 @@ Comet	"C4"
 
 Comet	"C5"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.47135e-011
@@ -11781,7 +11781,7 @@ Comet	"C5"
 
 Comet	"C6"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.13798e-007
@@ -11901,7 +11901,7 @@ Comet	"C6"
 
 Comet	"C7"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.50393e-015
@@ -12021,7 +12021,7 @@ Comet	"C7"
 
 Comet	"C8"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.71004e-011
@@ -12141,7 +12141,7 @@ Comet	"C8"
 
 Comet	"C9"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.09602e-007
@@ -12261,7 +12261,7 @@ Comet	"C9"
 
 Comet	"C10"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.45382e-015
@@ -12381,7 +12381,7 @@ Comet	"C10"
 
 Comet	"C11"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.99157e-011
@@ -12501,7 +12501,7 @@ Comet	"C11"
 
 Comet	"C12"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.86061e-007
@@ -12621,7 +12621,7 @@ Comet	"C12"
 
 Comet	"C13"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.18871e-014
@@ -12741,7 +12741,7 @@ Comet	"C13"
 
 Comet	"C14"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            9.19383e-011
@@ -12861,7 +12861,7 @@ Comet	"C14"
 
 Comet	"C15"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.11077e-007
@@ -12981,7 +12981,7 @@ Comet	"C15"
 
 Comet	"C16"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.18946e-014
@@ -13101,7 +13101,7 @@ Comet	"C16"
 
 Comet	"C17"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.69339e-010
@@ -13221,7 +13221,7 @@ Comet	"C17"
 
 Comet	"C18"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.21407e-018
@@ -13341,7 +13341,7 @@ Comet	"C18"
 
 Comet	"C19"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.03271e-014
@@ -13461,7 +13461,7 @@ Comet	"C19"
 
 Comet	"C20"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.11901e-010
@@ -13581,7 +13581,7 @@ Comet	"C20"
 
 Comet	"C21"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            9.60368e-018
@@ -13701,7 +13701,7 @@ Comet	"C21"
 
 Comet	"C22"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.42774e-014
@@ -13821,7 +13821,7 @@ Comet	"C22"
 
 Comet	"C23"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.74482e-010
@@ -13941,7 +13941,7 @@ Comet	"C23"
 
 Comet	"C24"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.76887e-017
@@ -14061,7 +14061,7 @@ Comet	"C24"
 
 Comet	"C25"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.3681e-013
@@ -14181,7 +14181,7 @@ Comet	"C25"
 
 Comet	"C26"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.05812e-009
@@ -14301,7 +14301,7 @@ Comet	"C26"
 
 Comet	"C27"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.25804e-017
@@ -14421,7 +14421,7 @@ Comet	"C27"
 
 Comet	"C28"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.51986e-013
@@ -14541,7 +14541,7 @@ Comet	"C28"
 
 Comet	"C29"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.94893e-009
@@ -14661,7 +14661,7 @@ Comet	"C29"
 
 Comet	"C30"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.00092e-017
@@ -14781,7 +14781,7 @@ Comet	"C30"
 
 Comet	"C31"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.64127e-013
@@ -14901,7 +14901,7 @@ Comet	"C31"
 
 Comet	"C32"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.58969e-009
@@ -15021,7 +15021,7 @@ Comet	"C32"
 
 Comet	"C33"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.10529e-016
@@ -15141,7 +15141,7 @@ Comet	"C33"
 
 Comet	"C34"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            8.54863e-013
@@ -15261,7 +15261,7 @@ Comet	"C34"
 
 Comet	"C35"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.61175e-009
@@ -15381,7 +15381,7 @@ Comet	"C35"
 
 Comet	"C36"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.03581e-016
@@ -15501,7 +15501,7 @@ Comet	"C36"
 
 Comet	"C37"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.57455e-012
@@ -15621,7 +15621,7 @@ Comet	"C37"
 
 Comet	"C38"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.2178e-008
@@ -15741,7 +15741,7 @@ Comet	"C38"
 
 Comet	"C39"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.74971e-016
@@ -15861,7 +15861,7 @@ Comet	"C39"
 
 Comet	"C40"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.90012e-012
@@ -15981,7 +15981,7 @@ Comet	"C40"
 
 Comet	"C41"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.24304e-008
@@ -16101,7 +16101,7 @@ Comet	"C41"
 
 Comet	"C42"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.90648e-016
@@ -16221,7 +16221,7 @@ Comet	"C42"
 
 Comet	"C43"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.34167e-012
@@ -16341,7 +16341,7 @@ Comet	"C43"
 
 Comet	"C44"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.1314e-008
@@ -16461,7 +16461,7 @@ Comet	"C44"
 
 Comet	"C45"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.27209e-015
@@ -16581,7 +16581,7 @@ Comet	"C45"
 
 Comet	"C46"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            9.83869e-012
@@ -16701,7 +16701,7 @@ Comet	"C46"
 
 Comet	"C47"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.60951e-008
@@ -16821,7 +16821,7 @@ Comet	"C47"
 
 Comet	"C48"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.34303e-015
@@ -16941,7 +16941,7 @@ Comet	"C48"
 
 Comet	"C49"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.81216e-011
@@ -17061,7 +17061,7 @@ Comet	"C49"
 
 Comet	"C50"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.40157e-007
@@ -17181,7 +17181,7 @@ Comet	"C50"
 
 Comet	"C51"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.31556e-015
@@ -17301,7 +17301,7 @@ Comet	"C51"
 
 Comet	"C52"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.33777e-011
@@ -17421,7 +17421,7 @@ Comet	"C52"
 
 Comet	"C53"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.58152e-007
@@ -17541,7 +17541,7 @@ Comet	"C53"
 
 Comet	"C54"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.94873e-015
@@ -17661,7 +17661,7 @@ Comet	"C54"
 
 Comet	"C55"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.14777e-011
@@ -17781,7 +17781,7 @@ Comet	"C55"
 
 Comet	"C56"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.75485e-007
@@ -17901,7 +17901,7 @@ Comet	"C56"
 
 Comet	"C57"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.46405e-014
@@ -18021,7 +18021,7 @@ Comet	"C57"
 
 Comet	"C58"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.13234e-010
@@ -18141,7 +18141,7 @@ Comet	"C58"
 
 Comet	"C59"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.48656e-018
@@ -18261,7 +18261,7 @@ Comet	"C59"
 
 Comet	"C60"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.6966e-014
@@ -18381,7 +18381,7 @@ Comet	"C60"
 
 Comet	"C61"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.08563e-010
@@ -18501,7 +18501,7 @@ Comet	"C61"
 
 Comet	"C62"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.42181e-018
@@ -18621,7 +18621,7 @@ Comet	"C62"
 
 Comet	"C63"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.96681e-014
@@ -18741,7 +18741,7 @@ Comet	"C63"
 
 Comet	"C64"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.84146e-010
@@ -18861,7 +18861,7 @@ Comet	"C64"
 
 Comet	"C65"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.18281e-017
@@ -18981,7 +18981,7 @@ Comet	"C65"
 
 Comet	"C66"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            9.14822e-014
@@ -19101,7 +19101,7 @@ Comet	"C66"
 
 Comet	"C67"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.07549e-010
@@ -19221,7 +19221,7 @@ Comet	"C67"
 
 Comet	"C68"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.1786e-017
@@ -19341,7 +19341,7 @@ Comet	"C68"
 
 Comet	"C69"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.68499e-013
@@ -19461,7 +19461,7 @@ Comet	"C69"
 
 Comet	"C70"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.30322e-009
@@ -19581,7 +19581,7 @@ Comet	"C70"
 
 Comet	"C71"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.01271e-017
@@ -19701,7 +19701,7 @@ Comet	"C71"
 
 Comet	"C72"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.10354e-013
@@ -19821,7 +19821,7 @@ Comet	"C72"
 
 Comet	"C73"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.40036e-009
@@ -19941,7 +19941,7 @@ Comet	"C73"
 
 Comet	"C74"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.39089e-017
@@ -20061,7 +20061,7 @@ Comet	"C74"
 
 Comet	"C75"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.71632e-013
@@ -20181,7 +20181,7 @@ Comet	"C75"
 
 Comet	"C76"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.42117e-009
@@ -20301,7 +20301,7 @@ Comet	"C76"
 
 Comet	"C77"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.36131e-016
@@ -20421,7 +20421,7 @@ Comet	"C77"
 
 Comet	"C78"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.05288e-012
@@ -20541,7 +20541,7 @@ Comet	"C78"
 
 Comet	"C79"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            8.14324e-009
@@ -20661,7 +20661,7 @@ Comet	"C79"
 
 Comet	"C80"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.50737e-016
@@ -20781,7 +20781,7 @@ Comet	"C80"
 
 Comet	"C81"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.93926e-012
@@ -20901,7 +20901,7 @@ Comet	"C81"
 
 Comet	"C82"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.49988e-008
@@ -21021,7 +21021,7 @@ Comet	"C82"
 
 Comet	"C83"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.61824e-016
@@ -21141,7 +21141,7 @@ Comet	"C83"
 
 Comet	"C84"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.57188e-012
@@ -21261,7 +21261,7 @@ Comet	"C84"
 
 Comet	"C85"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.76259e-008
@@ -21381,7 +21381,7 @@ Comet	"C85"
 
 Comet	"C86"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            8.50624e-016
@@ -21501,7 +21501,7 @@ Comet	"C86"
 
 Comet	"C87"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.57896e-012
@@ -21621,7 +21621,7 @@ Comet	"C87"
 
 Comet	"C88"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.08835e-008
@@ -21741,7 +21741,7 @@ Comet	"C88"
 
 Comet	"C89"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.56674e-015
@@ -21861,7 +21861,7 @@ Comet	"C89"
 
 Comet	"C90"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.21176e-011
@@ -21981,7 +21981,7 @@ Comet	"C90"
 
 Comet	"C91"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            9.37209e-008
@@ -22101,7 +22101,7 @@ Comet	"C91"
 
 Comet	"C92"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.88574e-015
@@ -22221,7 +22221,7 @@ Comet	"C92"
 
 Comet	"C93"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.23191e-011
@@ -22341,7 +22341,7 @@ Comet	"C93"
 
 Comet	"C94"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.72622e-007
@@ -22461,7 +22461,7 @@ Comet	"C94"
 
 Comet	"C95"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.31518e-015
@@ -22581,7 +22581,7 @@ Comet	"C95"
 
 Comet	"C96"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.11091e-011
@@ -22701,7 +22701,7 @@ Comet	"C96"
 
 Comet	"C97"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.17949e-007
@@ -22821,7 +22821,7 @@ Comet	"C97"
 
 Comet	"C98"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            9.7899e-015
@@ -22941,7 +22941,7 @@ Comet	"C98"
 
 Comet	"C99"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.57177e-011
@@ -23061,7 +23061,7 @@ Comet	"C99"
 
 Comet	"C100"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.85621e-007
@@ -23181,7 +23181,7 @@ Comet	"C100"
 
 Comet	"C101"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.80317e-014
@@ -23301,7 +23301,7 @@ Comet	"C101"
 
 Comet	"C102"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.39462e-010
@@ -23421,7 +23421,7 @@ Comet	"C102"
 
 Comet	"C103"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.29416e-018
@@ -23541,7 +23541,7 @@ Comet	"C103"
 
 Comet	"C104"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.32122e-014
@@ -23661,7 +23661,7 @@ Comet	"C104"
 
 Comet	"C105"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.56872e-010
@@ -23781,7 +23781,7 @@ Comet	"C105"
 
 Comet	"C106"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.90931e-018
@@ -23901,7 +23901,7 @@ Comet	"C106"
 
 Comet	"C107"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            6.11727e-014
@@ -24021,7 +24021,7 @@ Comet	"C107"
 
 Comet	"C108"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.73127e-010
@@ -24141,7 +24141,7 @@ Comet	"C108"
 
 Comet	"C109"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.45679e-017
@@ -24261,7 +24261,7 @@ Comet	"C109"
 
 Comet	"C110"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.12672e-013
@@ -24381,7 +24381,7 @@ Comet	"C110"
 
 Comet	"C111"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            8.7144e-010
@@ -24501,7 +24501,7 @@ Comet	"C111"
 
 Comet	"C112"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.68323e-017
@@ -24621,7 +24621,7 @@ Comet	"C112"
 
 Comet	"C113"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.07529e-013
@@ -24741,7 +24741,7 @@ Comet	"C113"
 
 Comet	"C114"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.60508e-009
@@ -24861,7 +24861,7 @@ Comet	"C114"
 
 Comet	"C115"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.94216e-017
@@ -24981,7 +24981,7 @@ Comet	"C115"
 
 Comet	"C116"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.82241e-013
@@ -25101,7 +25101,7 @@ Comet	"C116"
 
 Comet	"C117"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.95636e-009
@@ -25221,7 +25221,7 @@ Comet	"C117"
 
 Comet	"C118"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            9.10285e-017
@@ -25341,7 +25341,7 @@ Comet	"C118"
 
 Comet	"C119"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            7.0404e-013
@@ -25461,7 +25461,7 @@ Comet	"C119"
 
 Comet	"C120"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.44525e-009
@@ -25581,7 +25581,7 @@ Comet	"C120"
 
 Comet	"C121"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.67663e-016
@@ -25701,7 +25701,7 @@ Comet	"C121"
 
 Comet	"C122"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.29675e-012
@@ -25821,7 +25821,7 @@ Comet	"C122"
 
 Comet	"C123"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.00295e-008
@@ -25941,7 +25941,7 @@ Comet	"C123"
 
 Comet	"C124"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            3.08814e-016
@@ -26061,7 +26061,7 @@ Comet	"C124"
 
 Comet	"C125"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            2.38845e-012
@@ -26181,7 +26181,7 @@ Comet	"C125"
 
 Comet	"C126"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            1.8473e-008
@@ -26301,7 +26301,7 @@ Comet	"C126"
 
 Comet	"C127"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            5.68797e-016
@@ -26421,7 +26421,7 @@ Comet	"C127"
 
 Comet	"C128"
 {
-	ParentBody     "Ziost (S)"
+	ParentBody     "Ziost System"
 	Class	       "Asteroid"
 
 	Mass            4.39924e-012

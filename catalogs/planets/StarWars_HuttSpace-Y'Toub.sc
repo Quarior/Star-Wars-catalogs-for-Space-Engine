@@ -916,19 +916,25 @@ Moon	"Nar Shaddaa/Vertical City/Smugglers' Moon/Little Coruscant"
 		Class   "Organic"
 		Type    "Multicellular"
 		Biome   "Terrestrial"
-		Panspermia true	} Surface
+		Panspermia true
+	}
+
+	Surface
 	{
-	
-		DiffMap        "NarShaddaa.*" 		DiffTileSize    258
+		/*** COMMENTED OUT UNTIL TEXTURES AVAILABLE ***
+		DiffMap        "NarShaddaa.*"
+ 		DiffTileSize    258
 		DiffTileBorder  1  
-                BumpMap        "NarShaddaa_bump.*" 	BumpTileSize    258
+           BumpMap        "NarShaddaa_bump.*"
+	 	BumpTileSize    258
 		BumpTileBorder  1  
 		GlowMap        "NarShaddaa_night.*"
 		GlowMode       "Night"
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0
+		***********************************************/
 		Exposure		1.7
-	SurfStyle       0.133241
+		SurfStyle       0.133241
 		OceanStyle      0.887023
 		Randomize      (0.063, -0.291, -0.882)
 		colorDistMagn   0.0804392
@@ -953,7 +959,8 @@ Moon	"Nar Shaddaa/Vertical City/Smugglers' Moon/Little Coruscant"
 		mareDensity     0.0357909
 		terraceProb     0.241348
 		erosion         0
-		montesMagn      0		montesFreq      141.79
+		montesMagn      0
+		montesFreq      141.79
 		montesSpiky     0.928275
 		montesFraction  0
 		dunesMagn       0.0553081
@@ -1006,7 +1013,8 @@ Moon	"Nar Shaddaa/Vertical City/Smugglers' Moon/Little Coruscant"
 		colorSnow      (1.000, 1.000, 1.000, 0.769)
 		colorLowPlants (0.460, 0.440, 0.410, 0.000)
 		colorUpPlants  (0.390, 0.360, 0.330, 0.000)
-		BumpHeight      10		DiffMapAlpha   "Ice"
+		BumpHeight      10
+		DiffMapAlpha   "Ice"
 		SpecBrightWater 0.5
 		SpecBrightIce   0.5
 		SpecularPower   30
@@ -1073,7 +1081,8 @@ Moon	"Nar Shaddaa/Vertical City/Smugglers' Moon/Little Coruscant"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   0.000562009162836		Period          0.00993338
+		SemiMajorAxis   0.000562009162836
+		Period          0.00993338
 		Eccentricity    0.00508
 		Inclination     48.2288
 		AscendingNode   86.3075
