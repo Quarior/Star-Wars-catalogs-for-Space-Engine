@@ -160,21 +160,29 @@ Planet	"Coruscant"
 
 	Surface
 	{
-		DiffMap        "coruscant.*"
+		DiffMap        "Coruscant/Diff"
+		DiffTileSize    1024
+		DiffTileBorder  1  
 		DiffMapAlpha   "Water"
-		BumpMap        "coruscant_bump.*"
-		GlowMap        "coruscant_night.*"
+		BumpMap        "Coruscant/Bump"
+		BumpTileSize    1024
+		BumpTileBorder  1
+		BumpHeight 20
+		BumpOffset 0
+		GlowMap        "Coruscant/Glow"
 		GlowMode       "Permanent" //"Night"
+		GlowTileSize    1024
+		GlowTileBorder  1  
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0
 		Exposure		1.7
 	}
 
 	NoOcean    true
-	//Ocean
-	//{
-	//	Height 0.907
-	//}
+	/*Ocean
+	{
+		Height 0.907
+	}*/
 
 	Clouds
 	{

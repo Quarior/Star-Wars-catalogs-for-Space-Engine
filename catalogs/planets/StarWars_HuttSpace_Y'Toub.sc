@@ -916,15 +916,23 @@ Moon	"Nar Shaddaa/Vertical City/Smugglers' Moon/Little Coruscant"
 		Class   "Organic"
 		Type    "Multicellular"
 		Biome   "Terrestrial"
-		Panspermia true	} Surface
+		Panspermia true	
+	} 
+	Surface
 	{
 	
-		DiffMap        "NarShaddaa.*" 		DiffTileSize    258
+		DiffMap        "Nar Shaddaa/Diff"
+		DiffTileSize    1024
 		DiffTileBorder  1  
-                BumpMap        "NarShaddaa_bump.*" 	BumpTileSize    258
-		BumpTileBorder  1  
-		GlowMap        "NarShaddaa_night.*"
-		GlowMode       "Night"
+        BumpMap        "Nar Shaddaa/Bump" 
+		BumpTileSize    1024
+		BumpTileBorder  1
+		BumpHeight 15
+		BumpOffset 0
+		GlowMap        "Nar Shaddaa/Glow"
+		GlowTileSize 1024
+		GlowTileBorder 1
+		GlowMode       "Permanent" //"Night"
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0
 		Exposure		1.7

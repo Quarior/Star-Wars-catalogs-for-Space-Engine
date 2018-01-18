@@ -72,18 +72,28 @@ Planet	"Mustafar"
 		Class   "Organic"
 		Type    "Multicellular"
 		Biome   "Terrestrial"
+		Panspermia true
 	}*/
 
 	Surface
 	{
 		/* //No procedural
-		DiffMap        "Mustafar.*"
+		DiffMap        "Mustafar/Diff"
+		DiffMap        "Coruscant/Diff"
+		DiffTileSize    1024
+		DiffTileBorder  1  
 		DiffMapAlpha   "Water"
-		GlowMap        "Mustafar_lava.*"
+		GlowMap        "Mustafar/Glow.*"
 		GlowMode       "Permanent"
 		GlowColor      (0.90 0.24 0.05)
 		GlowBright      1.0
-		Exposure		1.7 */
+		Exposure		1.7
+		GlowTileSize    1024
+		GlowTileBorder  1  
+		GlowColor      (1.00 0.90 0.66)
+		GlowBright      1.0
+		Exposure		1.7
+		 */
 		
 		//Procedural
 		seaLevel		0
