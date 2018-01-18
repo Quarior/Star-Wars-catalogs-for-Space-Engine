@@ -29,8 +29,8 @@ Planet	"Tion/Proper Tion/Tion System 5"
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Terrestrial"
-		Panspermia "true"
+		Biome   "Marine/Terrestrial"
+		Panspermia "false"
 	}
 
 	Surface
@@ -194,6 +194,275 @@ Planet	"Tion/Proper Tion/Tion System 5"
 		AscendingNode   -179.078
 		ArgOfPericenter 306.508
 		MeanAnomaly     32.9068
+	}
+}
+
+// Tion's 3 industrialized moons
+Moon	"Tion's Moon 1/Tion System 5.1"
+{
+	ParentBody     "Tion"
+	Class	       "Terra"
+
+	Mass            0.00441723
+	Radius          1249.34
+	InertiaMoment   0.395017
+
+	Oblateness      0.00636769
+
+	Obliquity       -0.794312
+	EqAscendNode    -37.1361
+	TidalLocked     false
+
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      3.5
+	Color          (0.807 0.761 0.674)
+	
+	Life
+	{
+		Class   "Organic"
+		Type    "Multicellular"
+		Biome   "Terrestrial"
+		Panspermia "true"
+	}
+
+	Surface
+	{
+		DiffMap        "coruscant.*"
+		DiffMapAlpha   "Water"
+		BumpMap        "coruscant_bump.*"
+		GlowMap        "coruscant_night.*"
+		GlowMode       "Permanent" //"Night"
+		GlowColor      (1.00 0.90 0.66)
+		GlowBright      1.0
+		Exposure		1.7
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	Atmosphere
+	{
+		Model          "Earth"
+		Height          964.111
+		Density         100
+		Pressure        0.8
+		Greenhouse      83.7629
+		Bright          2.13686
+		Opacity         0.5
+		SkyLight        0.712286
+		Hue             0.00793654
+		Saturation      1.42857
+
+		Composition
+		{
+			N2    	77.7729
+			O2    	20.8625
+			Ar    	0.9303
+			H2O   	0.4
+			CO2   	0.0398
+		}
+	}
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.000297904
+		Period          0.00290841
+		Eccentricity    0.0294731
+		Inclination     -0.794312
+		AscendingNode   -37.1361
+		ArgOfPericenter 31.6987
+		MeanAnomaly     -113.6
+	}
+}
+
+Moon	"Tion's Moon 2/Tion System 5.2"
+{
+	ParentBody     "Tion"
+	Class	       "Terra"
+
+	Mass            0.00511616
+	Radius          1418.68
+	InertiaMoment   0.390926
+
+	Oblateness      0.00167362
+
+	Obliquity       -0.340463
+	EqAscendNode    18.7063
+	TidalLocked     false
+
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      3.5
+	Color          (0.894 0.900 0.945)
+	
+	Life
+	{
+		Class   "Organic"
+		Type    "Multicellular"
+		Biome   "Terrestrial"
+		Panspermia "true"
+	}
+
+	Surface
+	{
+		DiffMap        "coruscant.*"
+		DiffMapAlpha   "Water"
+		BumpMap        "coruscant_bump.*"
+		GlowMap        "coruscant_night.*"
+		GlowMode       "Permanent" //"Night"
+		GlowColor      (1.00 0.90 0.66)
+		GlowBright      1.0
+		Exposure		1.7
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	Atmosphere
+	{
+		Model          "Earth"
+		Height          964.111
+		Density         100
+		Pressure        0.8
+		Greenhouse      83.7629
+		Bright          2.13686
+		Opacity         0.5
+		SkyLight        0.712286
+		Hue             0.00793654
+		Saturation      1.42857
+
+		Composition
+		{
+			N2    	77.7729
+			O2    	20.8625
+			Ar    	0.9303
+			H2O   	0.4
+			CO2   	0.0398
+		}
+	}
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.000500416
+		Period          0.00632986
+		Eccentricity    0.0304991
+		Inclination     -0.340463
+		AscendingNode   18.7063
+		ArgOfPericenter -159.876
+		MeanAnomaly     5.78637
+	}
+}
+
+Moon	"Tion's Moon 3/Tion System 5.3"
+{
+	ParentBody     "Tion"
+	Class	       "Terra"
+
+	Mass            0.00592094
+	Radius          1375.74
+	InertiaMoment   0.387037
+
+	Obliquity       -0.351048
+	EqAscendNode    -11.0992
+	TidalLocked     false
+
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      3.5
+	Color          (0.778 0.769 0.818)
+	
+	Life
+	{
+		Class   "Organic"
+		Type    "Multicellular"
+		Biome   "Terrestrial"
+		Panspermia "true"
+	}
+
+	Surface
+	{
+		DiffMap        "coruscant.*"
+		DiffMapAlpha   "Water"
+		BumpMap        "coruscant_bump.*"
+		GlowMap        "coruscant_night.*"
+		GlowMode       "Permanent" //"Night"
+		GlowColor      (1.00 0.90 0.66)
+		GlowBright      1.0
+		Exposure		1.7
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	Atmosphere
+	{
+		Model          "Earth"
+		Height          964.111
+		Density         100
+		Pressure        0.8
+		Greenhouse      83.7629
+		Bright          2.13686
+		Opacity         0.5
+		SkyLight        0.712286
+		Hue             0.00793654
+		Saturation      1.42857
+
+		Composition
+		{
+			N2    	77.7729
+			O2    	20.8625
+			Ar    	0.9303
+			H2O   	0.4
+			CO2   	0.0398
+		}
+	}
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.000840596
+		Period          0.0137756
+		Eccentricity    0.0254795
+		Inclination     -0.351048
+		AscendingNode   -11.0992
+		ArgOfPericenter -118.802
+		MeanAnomaly     100.248
 	}
 }
 
