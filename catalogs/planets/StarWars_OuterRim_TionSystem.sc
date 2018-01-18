@@ -5,10 +5,10 @@
 // X : 11595.67, Y : 6119.69, Z : 208.14891304406
 
 // TODO : remove "water spikes" on the sea
-Planet	"Tion/Proper Tion/Tion Planet/Tion System 5"
+Planet	"Tion/Proper Tion/Tion System 5"
 {
 	ParentBody     "Tion System"
-	Class	       "Oceania"
+	Class	       "Terra"
 
 	Mass            0.4985
 	Radius          7562.3
@@ -23,13 +23,14 @@ Planet	"Tion/Proper Tion/Tion Planet/Tion System 5"
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
 	Brightness      3.5
-	Color          (0.871 0.798 0.662)
+	Color          (0.554 0.558 0.509)
 
 	Life
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Marine/Terrestrial"
+		Biome   "Terrestrial"
+		Panspermia "true"
 	}
 
 	Surface
@@ -42,27 +43,27 @@ Planet	"Tion/Proper Tion/Tion Planet/Tion System 5"
 		detailScale     6433.06
 		colorConversion true
 		drivenDarkening 0
-		seaLevel        0.916915
+		seaLevel        0.920635
 		snowLevel       1
 		tropicLatitude  0.505995
 		icecapLatitude  0.801587
 		icecapHeight    0.015873
-		climatePole     0.0952381
-		climateTropic   0.3125
+		climatePole     0.690476
+		climateTropic   0.619048
 		climateEquator  0.6875
 		heightTempGrad  0.047619
 		tropicWidth     0.07
-		mainFreq        3.88889
-		venusFreq       1
-		venusMagn       2.85714
+		mainFreq        0.277778
+		venusFreq       1.71429
+		venusMagn       1.26984
 		mareFreq        1000
-		mareDensity     0
+		mareDensity     1
 		terraceProb     0.25404
 		erosion         1
-		montesMagn      8.73016
-		montesFreq      31.746
+		montesMagn      0.47619
+		montesFreq      222.222
 		montesSpiky     1
-		montesFraction  0.825397
+		montesFraction  0.650794
 		dunesMagn       1.34921
 		dunesFreq       48.4127
 		dunesFraction   0.404762
@@ -96,11 +97,11 @@ Planet	"Tion/Proper Tion/Tion Planet/Tion System 5"
 		lavaCoverTidal  0.0873016
 		lavaCoverSun    0.0555556
 		lavaCoverYoung  0.0396825
-		stripeZones     2.30159
+		stripeZones     0
 		stripeFluct     0
-		stripeTwist     4.7619
+		stripeTwist     0.793651
 		cycloneMagn     0
-		cycloneFreq     0.253968
+		cycloneFreq     0
 		cycloneDensity  0
 		cycloneOctaves  0
 		colorSea       (0.040, 0.100, 0.200, 1.000)
@@ -111,8 +112,9 @@ Planet	"Tion/Proper Tion/Tion Planet/Tion System 5"
 		colorUpland    (0.091, 0.110, 0.041, 0.000)
 		colorRock      (0.730, 0.550, 0.390, 0.000)
 		colorSnow      (1.000, 1.000, 1.000, 0.016)
-		BumpHeight      20
-		BumpOffset      18.3383
+		colorLowPlants (0.100, 0.160, 0.070, 0.000)
+		colorUpPlants  (0.090, 0.110, 0.040, 0.000)
+		BumpHeight      20.6349
 		DiffMapAlpha   "Water"
 		SpecBrightWater 4.44444
 		SpecBrightIce   0.03
@@ -142,7 +144,7 @@ Planet	"Tion/Proper Tion/Tion Planet/Tion System 5"
 
 	Ocean
 	{
-		Height          18.3383
+		Height          18.9971
 		Hapke           0
 		SpotBright      2
 		SpotWidth       0.15
