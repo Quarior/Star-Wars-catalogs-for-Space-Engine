@@ -4,7 +4,6 @@
 // Grid location : S4
 // X : 11114.02, Y : 8366.03, Z : 391.6324793835114
 
-// TODO surface/atmosphere tunning
 Planet	"Cantonica/Cantonica System 3"
 {
 	ParentBody     "Cantonica System"
@@ -13,91 +12,92 @@ Planet	"Cantonica/Cantonica System 3"
 	Mass            1
 	Radius          5783.11
 	InertiaMoment   0.328397
-	
-	RotationPeriod  14.6784
+
 	Oblateness      0.00657296
 
+	RotationPeriod  14.6784
 	Obliquity       -57.1429
 	EqAscendNode    102.857
-	TidalLocked     false
 
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      2
-	Color          (0.685 0.681 0.679)
-	
+	AbsMagn         -3.78263
+	SlopeParam      5.44606
+	AlbedoBond      0.336606
+	AlbedoGeom      0.403927
+	Brightness      0.555556
+	Color          (0.377 0.257 0.164)
+
 	Life
 	{
 		Class   "Organic"
 		Type    "Multicellular"
 		Biome   "Terrestrial"
-		Panspermia "false"
+		Panspermia "true"
 	}
 
 	Surface
 	{
-		SurfStyle       -0.1
-		OceanStyle      0.0634921
-		Randomize      (-0.984, -0.277, 0.127)
-		colorDistMagn   0.206349
-		colorDistFreq   0.0964111
-		detailScale     14874.5
+		SurfStyle       0.938889
+		OceanStyle      0.0952381
+		Randomize      (0.210, -0.844, 0.570)
+		colorDistMagn   0.0667713
+		colorDistFreq   841.673
+		detailScale     17748.9
 		colorConversion true
-		drivenDarkening 0.984127
-		seaLevel        -0.253968
-		snowLevel       0
-		tropicLatitude  0.749217
+		drivenDarkening -1
+		seaLevel        -1
+		snowLevel       0.269841
+		tropicLatitude  0.855162
 		icecapLatitude  1
-		icecapHeight    0
-		climatePole     0.0714286
-		climateTropic   0.111111
+		icecapHeight    0.128119
+		climatePole     0.5625
+		climateTropic   0.5625
 		climateEquator  0.6875
 		heightTempGrad  0.375
-		tropicWidth     0.825397
-		mainFreq        0
-		venusFreq       0.984127
-		venusMagn       3.1746
-		mareFreq        0.026827
-		mareDensity     0
-		terraceProb     0.031746
-		erosion         0.595238
-		montesMagn      0.167391
-		montesFreq      138.889
-		montesSpiky     0.934766
-		montesFraction  0.984493
-		dunesMagn       0.0435443
-		dunesFreq       3.1746
-		dunesFraction   0.0714286
-		hillsMagn       0.1014
-		hillsFreq       39.6825
+		tropicWidth     0.07
+		mainFreq        5
+		venusFreq       0.269841
+		venusMagn       0.386521
+		mareFreq        2.28799
+		mareDensity     0.206712
+		terraceProb     0.194374
+		erosion         0
+		montesMagn      0.150416
+		montesFreq      225.583
+		montesSpiky     0.883729
+		montesFraction  0.949624
+		dunesMagn       0.0553337
+		dunesFreq       49.4435
+		dunesFraction   0.943761
+		hillsMagn       0.13835
+		hillsFreq       888.352
 		hillsFraction   0
 		hills2Fraction  0
-		riversMagn      9.52381
-		riversFreq      3.43087
-		riversSin       4.75977
+		riversMagn      62.2604
+		riversFreq      2.4096
+		riversSin       4.02225
 		riversOctaves   0
-		canyonsMagn     0.31746
-		canyonsFreq     11.1111
+		canyonsMagn     0.0227393
+		canyonsFreq     100
 		canyonFraction  0.813756
-		cracksMagn      0.0817742
-		cracksFreq      0.54684
+		cracksMagn      0.108734
+		cracksFreq      0.568279
 		cracksOctaves   0
-		craterMagn      0.561808
-		craterFreq      19.9137
-		craterDensity   0.451798
-		craterOctaves   7
+		craterMagn      0.634393
+		craterFreq      15.1896
+		craterDensity   0
+		craterOctaves   0
 		craterRayedFactor 0
-		volcanoMagn     0.76662
-		volcanoFreq     0.633491
-		volcanoDensity  0.231732
+		volcanoMagn     0.75329
+		volcanoFreq     0.718212
+		volcanoDensity  0.367416
 		volcanoOctaves  3
-		volcanoActivity 0.440572
-		volcanoFlows    0.918571
-		volcanoRadius   0.457064
-		volcanoTemp     1708.66
-		lavaCoverTidal  0.293651
-		lavaCoverSun    0.301587
-		lavaCoverYoung  0.325397
+		volcanoActivity 2
+		volcanoFlows    0.638031
+		volcanoRadius   0.424863
+		volcanoTemp     1218.05
+		lavaCoverTidal  0.326452
+		lavaCoverSun    1
+		lavaCoverYoung  0
 		stripeZones     0
 		stripeFluct     0
 		stripeTwist     0
@@ -107,24 +107,23 @@ Planet	"Cantonica/Cantonica System 3"
 		cycloneOctaves  0
 		colorSea       (0.040, 0.100, 0.200, 1.000)
 		colorShelf     (0.150, 0.480, 0.460, 1.000)
-		colorBeach     (0.690, 0.470, 0.320, 0.000)
-		colorDesert    (0.610, 0.380, 0.270, 0.000)
-		colorLowland   (0.102, 0.159, 0.071, 0.000)
-		colorUpland    (0.091, 0.110, 0.041, 0.000)
-		colorRock      (0.730, 0.550, 0.390, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 0.016)
-		colorLowPlants (0.117, 0.165, 0.063, 0.000)
-		colorUpPlants  (0.145, 0.158, 0.041, 0.000)
-		BumpHeight      23.8095
-		BumpOffset      5.55556
+		colorBeach     (0.480, 0.380, 0.280, 0.000)
+		colorDesert    (0.410, 0.280, 0.180, 0.000)
+		colorLowland   (0.310, 0.230, 0.170, 0.000)
+		colorUpland    (0.510, 0.330, 0.190, 0.000)
+		colorRock      (0.220, 0.210, 0.210, 0.000)
+		colorSnow      (1.000, 1.000, 1.000, 1.308)
+		colorLowPlants (0.100, 0.160, 0.070, 0.000)
+		colorUpPlants  (0.090, 0.110, 0.040, 0.000)
+		BumpHeight      17.9851
 		DiffMapAlpha   "Ice"
-		SpecBrightWater 0.5
-		SpecBrightIce   0.5
-		SpecularPower   30
-		Hapke           0.842471
-		SpotBright      4
+		SpecBrightWater 4.7619
+		SpecBrightIce   0
+		SpecularPower   1
+		Hapke           0
+		SpotBright      0
 		SpotWidth       0.05
-		DayAmbient      0.793651
+		DayAmbient      1.98413
 	}
 
 	Clouds
@@ -136,9 +135,27 @@ Planet	"Cantonica/Cantonica System 3"
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      2
-		mainFreq        0.714286
-		mainOctaves     1
-		Coverage        0.12
+		ModulateColor  (1.000 1.000 1.000 0.214)
+		mainFreq        0.571429
+		mainOctaves     3
+		Coverage        0.0873016
+		stripeZones     0
+		stripeFluct     0
+		stripeTwist     0
+	}
+
+	Clouds
+	{
+		Height          84.8345
+		Velocity        73.9576
+		BumpHeight      5.78151
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		mainFreq        0.571429
+		mainOctaves     3
+		Coverage        0.0873016
 		stripeZones     0
 		stripeFluct     0
 		stripeTwist     0
@@ -154,12 +171,12 @@ Planet	"Cantonica/Cantonica System 3"
 		Height          401.028
 		Density         1
 		Pressure        1
-		Greenhouse      14.2857
-		Bright          0.793651
-		Opacity         0.714286
+		Greenhouse      252.381
+		Bright          0.952381
+		Opacity         0.198413
 		SkyLight        1.19048
 		Hue             -0.111111
-		Saturation      0.587302
+		Saturation      0.396825
 
 		Composition
 		{

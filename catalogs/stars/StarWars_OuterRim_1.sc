@@ -1584,7 +1584,24 @@ Star "Cantonica System" // system name
     RA         0.08722215803474587
     Dec        24.58712588467552
     Dist       382999608.6726343
-    Class      "G8 V"
+    Class	       "G9.9 V"
+	Luminosity      6.68955e-006
+	MassSol         0.963829
+	RadSol          1.08994
+	Teff            4475.01
+
+	Age             8.68406
+
+	InertiaMoment   0.0691175
+
+	RotationPeriod  669.332
+	Obliquity       298.404
+	EqAscendNode    248.227
+
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      2
+	Color          (1.000 0.707 0.487)
 }
 
 // http://starwars.wikia.com/wiki/Cantras_Gola
