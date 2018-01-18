@@ -247,7 +247,6 @@ Planet	"Coruscant"
 		ArgOfPericen    138.15		// deg
 		//AscNodePreces   18.6		// years
 		//ArgOfPeriPreces 5.997		// years
-		RefPlane      "Ecliptic"
 	}
 }
 
@@ -332,7 +331,7 @@ Moon	"Centax-2"
 		Epoch          2454762
         //Period         0.00824     // Orbital period in years 
 		SemiMajorAxis  0.0012321
-		Inclination    54.2
+		Inclination    4.2
 		Eccentricity   0.03
 		ArgOfPericen   9.2
 	}
@@ -352,7 +351,7 @@ Moon	"Centax-3"
 		Epoch          2454762
         //Period         0.01624     // Orbital period in years 
 		SemiMajorAxis  0.0015321
-		Inclination    54.2
+		Inclination    2.2
 		Eccentricity   0.03
 		ArgOfPericen   9.2
 	}

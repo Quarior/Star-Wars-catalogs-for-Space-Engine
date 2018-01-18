@@ -2471,10 +2471,10 @@ Star "Korphir System" // system name
 // X : 9080.69, Y : 7855.08, Z : -74.71758964845243
 Star "Korriz System" // system name
 {
-    RA         0.08724054926331815
-    Dec        24.5870378447534
+    RA         0.08724273686	//0.08724054926331815
+    Dec        24.58704945		//24.5870378447534
     Dist       383000073.7311431
-    Class      "M9 III" // random
+    Class      "K0 IV"
 }
 
 // http://starwars.wikia.com/wiki/Kowak
