@@ -229,17 +229,17 @@ Moon	"Tion's Moon 1/Tion System 5.1"
 	Surface
 	{
 		DiffMap        "Coruscant/Diff"
-		DiffTileSize    1024
+		DiffTileSize    130
 		DiffTileBorder  1  
 		DiffMapAlpha   "Water"
 		BumpMap        "Coruscant/Bump"
-		BumpTileSize    1024
+		BumpTileSize    128
 		BumpTileBorder  1
 		BumpHeight 10
 		BumpOffset 0
 		GlowMap        "Coruscant/Glow"
 		GlowMode       "Permanent" //"Night"
-		GlowTileSize    1024
+		GlowTileSize    130
 		GlowTileBorder  1  
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0
@@ -327,17 +327,17 @@ Moon	"Tion's Moon 2/Tion System 5.2"
 	Surface
 	{
 		DiffMap        "Coruscant/Diff"
-		DiffTileSize    1024
+		DiffTileSize    130
 		DiffTileBorder  1  
 		DiffMapAlpha   "Water"
 		BumpMap        "Coruscant/Bump"
-		BumpTileSize    1024
+		BumpTileSize    128
 		BumpTileBorder  1
 		BumpHeight 10
 		BumpOffset 0
 		GlowMap        "Coruscant/Glow"
 		GlowMode       "Permanent" //"Night"
-		GlowTileSize    1024
+		GlowTileSize    130
 		GlowTileBorder  1  
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0
@@ -423,17 +423,17 @@ Moon	"Tion's Moon 3/Tion System 5.3"
 	Surface
 	{
 		DiffMap        "Coruscant/Diff"
-		DiffTileSize    1024
+		DiffTileSize    130
 		DiffTileBorder  1  
 		DiffMapAlpha   "Water"
 		BumpMap        "Coruscant/Bump"
-		BumpTileSize    1024
+		BumpTileSize    128
 		BumpTileBorder  1
 		BumpHeight 10
 		BumpOffset 0
 		GlowMap        "Coruscant/Glow"
 		GlowMode       "Permanent" //"Night"
-		GlowTileSize    1024
+		GlowTileSize    130
 		GlowTileBorder  1  
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0
