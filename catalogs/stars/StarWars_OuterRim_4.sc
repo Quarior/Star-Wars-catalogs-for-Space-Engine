@@ -2542,7 +2542,7 @@ Star "Zhanox System" // system name
 // Sector : Jospro Sector
 // Grid location : S7
 // X : 10636.37, Y : 3515.97, Z : 375.4130691757175
-Star "Zhar System" // system name
+Star "Kile System" // system name
 {
     RA         0.08722692172192681
     Dec        24.58640032784494

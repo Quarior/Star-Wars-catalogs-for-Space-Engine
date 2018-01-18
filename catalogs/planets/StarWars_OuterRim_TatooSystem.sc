@@ -7,6 +7,7 @@ Star	"Tatoo I"
 {
 	ParentBody     "Tatoo System"
 	Class	       "G1 V"
+	Luminosity 1.87068
 	
 	Orbit
 	{
@@ -25,6 +26,7 @@ Star	"Tatoo II"
 {
 	ParentBody     "Tatoo System"
 	Class	       "G2 V"
+	Luminosity 1.6293
 	
 	Orbit
 	{

@@ -2048,7 +2048,7 @@ Star "Kalaan System" // system name
 // Sector : Hevvrol Sector
 // Grid location : P15
 // X : 6151.64, Y : -8339.7, Z : -536.7222056363986
-Star "Kalarba System" // system name
+Star "Indobok System" // system name
 {
     RA         0.08727164882243246
     Dec        24.584626751675422

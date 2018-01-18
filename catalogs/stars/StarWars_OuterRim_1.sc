@@ -2021,7 +2021,7 @@ Star "Cotellier System" // system name
 // Sector : Rseik sector
 // Grid location : N18
 // X : 3771.93, Y : -13360.25, Z : -313.77217005735196
-Star "Cotellier System" // system name
+Star "Dravian Station" // system name
 {
     RA         0.08729538198562932
     Dec        24.583875690847528
@@ -2597,7 +2597,7 @@ Star "Dorvalla System" // system name
 // Sector : Tynquay Sector
 // Grid location : R4
 // X : 9673.95, Y : 8607.23, Z : 552.9909656411878
-Star "Dostra System/Brosi System" // system name
+Star "Dostra System/Thosa System" // system name
 {
     RA         0.08723652005110691
     Dec        24.587161968266532
