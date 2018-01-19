@@ -8,7 +8,7 @@
 Planet	"Crait/Crait System 5"
 {
 	ParentBody     "Crait System"
-	Class	       "Terra"
+	Class	       "Desert"
 
 	Mass            0.8
 	Radius          3381.18
@@ -19,11 +19,11 @@ Planet	"Crait/Crait System 5"
 	RotationPeriod  27 // According to wookieepedia
 	Obliquity       -1.61711
 	EqAscendNode    154.712
+	TidalLocked     false
 
-	AlbedoBond      0.3
-	AlbedoGeom      0.36
 	Brightness      3.5
-	Color          (0.965 0.989 1.027)
+	Color         ( 0.745 0.718 0.655 )
+	Albedo          0.64
 	
 	Life
 	{
@@ -35,91 +35,21 @@ Planet	"Crait/Crait System 5"
 
 	Surface
 	{
-		SurfStyle       0.642063
-		OceanStyle      0.547619
-		Randomize      (-1.048, 0.889, 0.095)
-		colorDistMagn   0.0451947
-		colorDistFreq   190.711
-		detailScale     4077.93
-		colorConversion false
-		drivenDarkening 0
-		seaLevel        0.920635
-		snowLevel       1
-		tropicLatitude  0.994444
-		icecapLatitude  1
-		icecapHeight    0.110747
-		climatePole     0.9375
-		climateTropic   0.269841
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.873016
-		venusFreq       1
-		venusMagn       0.396825
-		mareFreq        0.732335
-		mareDensity     0.174603
-		terraceProb     0.691478
-		erosion         0.52381
-		montesMagn      0.0796978
-		montesFreq      62.2933
-		montesSpiky     0.934062
-		montesFraction  0.851065
-		dunesMagn       0.15873
-		dunesFreq       1.5873
-		dunesFraction   0.571246
-		hillsMagn       1.11111
-		hillsFreq       170.908
-		hillsFraction   0.893872
-		hills2Fraction  0
-		riversMagn      68.1429
-		riversFreq      3.23887
-		riversSin       4.12902
-		riversOctaves   0
-		canyonsMagn     2.38095
-		canyonsFreq     66.6667
-		canyonFraction  0.674603
-		cracksMagn      0.0694606
-		cracksFreq      0
-		cracksOctaves   0
-		craterMagn      0
-		craterFreq      0
-		craterDensity   0
-		craterOctaves   11
-		craterRayedFactor 0
-		volcanoMagn     0.231993
-		volcanoFreq     0.717414
-		volcanoDensity  0.202994
-		volcanoOctaves  3
-		volcanoActivity 0.412698
-		volcanoFlows    0.355648
-		volcanoRadius   0.185912
-		volcanoTemp     1360.48
-		lavaCoverTidal  0.0396825
-		lavaCoverSun    0.0952381
-		lavaCoverYoung  0.0396825
-		stripeZones     0
-		stripeFluct     0
-		stripeTwist     0
-		cycloneMagn     0
-		cycloneFreq     0
-		cycloneDensity  0
-		cycloneOctaves  0
-		colorSea       (0.040, 0.100, 0.200, 1.000)
-		colorShelf     (0.150, 0.480, 0.460, 1.000)
-		colorBeach     (0.780, 0.750, 0.740, 0.000)
-		colorDesert    (0.470, 0.420, 0.390, 0.000)
-		colorLowland   (0.270, 0.250, 0.230, 0.000)
-		colorUpland    (0.490, 0.480, 0.460, 0.000)
-		colorRock      (0.260, 0.240, 0.230, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 1.308)
-		colorLowPlants (0.270, 0.250, 0.230, 0.000)
-		colorUpPlants  (0.490, 0.480, 0.460, 0.000)
-		BumpHeight      30.9524
-		DiffMapAlpha   "Water"
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   55
-		Hapke           1
+		DiffMap        "Europa/Surface-JVV"
+		DiffTileSize    258
+		DiffTileBorder  1
+		BumpMap        "Europa/Bump-fake-SE"
+		BumpTileSize    258
+		BumpTileBorder  1
+		GlowTileSize    256
+		GlowTileBorder  2
+		BumpHeight      2
+		BumpOffset      1
+		DiffMapAlpha   "Ice"
+		SpecBrightWater 0.5
+		SpecBrightIce   0.5
+		SpecularPower   30
+		Hapke           0.5
 		SpotBright      4
 		SpotWidth       0.05
 		DayAmbient      0.07
@@ -128,17 +58,18 @@ Planet	"Crait/Crait System 5"
 	Clouds
 	{
 		Height          15.5298
-		Velocity        128.368
+		Velocity        95.2383
 		BumpHeight      5.52964
 		Hapke           0.2
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      2
-		mainFreq        1.00679
-		mainOctaves     10
-		Coverage        0.159058
-		stripeZones     2.30204
-		stripeTwist     0.635345
+		mainFreq        3
+		mainOctaves     16
+		Coverage        0.15873
+		stripeZones     0
+		stripeFluct     1.55556
+		stripeTwist     12.6984
 	}
 
 	NoOcean         true
@@ -149,12 +80,12 @@ Planet	"Crait/Crait System 5"
 	{
 		Model          "Earth"
 		Height          74.1252
-		Density         1
+		Density         1e+006
 		Pressure        1
-		Greenhouse      19.0476
-		Bright          10
+		Greenhouse      95.2381
+		Bright          14.4444
 		Opacity         1
-		SkyLight        3.33333
+		SkyLight        1.5873
 		Hue             -0.0216387
 		Saturation      1
 
@@ -1096,7 +1027,7 @@ DwarfMoon	"Crait System 2.D4"
 
 	Obliquity       24.8467
 	EqAscendNode    161.265
-	TidalLocked     true
+	TidalLocked     false
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1423,7 +1354,7 @@ DwarfMoon	"Crait System 2.D7"
 
 	Obliquity       -74.2188
 	EqAscendNode    -23.9827
-	TidalLocked     true
+	TidalLocked     false
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
