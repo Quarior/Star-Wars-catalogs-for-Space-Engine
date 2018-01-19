@@ -305,13 +305,13 @@ Star "Aleen System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5150.07, Y : 814.29, Z : -428.4257124680162
+// X : 5150.07, Y : 814.29, Z : 1.1714964168387878
 Star "Algnadesh System" // system name
 {
-    RA         0.08728163760746656
-    Dec        24.585996162394483
-    Dist       383000428.47166556
-    Class      "K5 V" // random
+    RA         0.08728163754985523
+    Dec        24.585996162888758
+    Dist       382999998.87445676
+    Class      "M2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Ambria
@@ -331,12 +331,12 @@ Star "Ambria System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5019.46, Y : 692.11, Z : -335.9891093256125
+// X : 5019.46, Y : 692.11, Z : -1.4536185988754893
 Star "Andalia System" // system name
 {
-    RA         0.08728294018779373
-    Dec        24.585977884714413
-    Dist       383000336.0324083
+    RA         0.08728294014406844
+    Dec        24.585977885083352
+    Dist       383000001.49691755
     Class      "M5 III" // random
 }
 
@@ -357,12 +357,12 @@ Star "Aphran System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5254.75, Y : 813.29, Z : -133.20024495030816
+// X : 5254.75, Y : 813.29, Z : -3.6038104905907007
 Star "Arabanth System" // system name
 {
-    RA         0.08728059357829951
-    Dec        24.58599601313687
-    Dist       383000133.24761236
+    RA         0.08728059356056665
+    Dec        24.58599601328593
+    Dist       383000003.6511779
     Class      "M3 IV" // random
 }
 
@@ -370,12 +370,12 @@ Star "Arabanth System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5223.64, Y : 779.64, Z : -186.86707686908466
+// X : 5223.64, Y : 779.64, Z : -0.5845822538548582
 Star "Archais System" // system name
 {
-    RA         0.0872809038503653
-    Dec        24.58599097912726
-    Dist       383000186.91376144
+    RA         0.08728090382502691
+    Dec        24.58599097933907
+    Dist       383000000.63126683
     Class      "M2 III" // random
 }
 
@@ -448,12 +448,12 @@ Star "Babbadod System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5203.53, Y : 822.18, Z : 329.11111097242747
+// X : 5203.53, Y : 822.18, Z : 1.7287529275344191
 Star "Baldavia System" // system name
 {
-    RA         0.08728110434051471
-    Dec        24.585997343590062
-    Dist       382999670.9356256
+    RA         0.08728110438487431
+    Dec        24.58599734321238
+    Dist       382999998.3179836
     Class      "M8 V" // random
 }
 
@@ -565,12 +565,12 @@ Star "Borao System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5341.56, Y : 705.59, Z : -251.88279224914015
+// X : 5341.56, Y : 705.59, Z : -1.5018924875929907
 Star "Calfa System" // system name
 {
-    RA         0.08727972782546198
-    Dec        24.585979901377925
-    Dist       383000251.9305476
+    RA         0.08727972779063604
+    Dec        24.58597990165537
+    Dist       383000001.54964787
     Class      "M8 V" // random
 }
 
@@ -604,12 +604,12 @@ Star "Carest System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5250.73, Y : 828.53, Z : -377.9829220145666
+// X : 5250.73, Y : 828.53, Z : 1.1823098941851136
 Star "Carlania System" // system name
 {
-    RA         0.08728063370383979
-    Dec        24.585998292716475
-    Dist       383000378.0303517
+    RA         0.0872806336519978
+    Dec        24.585998293154834
+    Dist       382999998.8651199
     Class      "M8 V" // random
 }
 
@@ -656,12 +656,12 @@ Star "Chardaan System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5098.48, Y : 859, Z : -463.33956331679576
+// X : 5098.48, Y : 859, Z : -4.610163190378182
 Star "Charubah System" // system name
 {
-    RA         0.08728215212662886
-    Dec        24.58600285084309
-    Dist       383000463.38517267
+    RA         0.087282152065727
+    Dec        24.586002851378897
+    Dist       383000004.6557726
     Class      "M2 V" // random
 }
 
@@ -682,12 +682,12 @@ Star "Chazwa System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5142.13, Y : 854.77, Z : 241.85222840615927
+// X : 5142.13, Y : 854.77, Z : 4.308179434100346
 Star "Cheruba System" // system name
 {
-    RA         0.08728171670448484
-    Dec        24.58600221886964
-    Dist       382999758.1939316
+    RA         0.08728171673629173
+    Dec        24.586002218592576
+    Dist       382999995.7379805
     Class      "M5 V" // random
 }
 
@@ -695,12 +695,12 @@ Star "Cheruba System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5092.49, Y : 616.7, Z : 124.89562628560691
+// X : 5092.49, Y : 616.7, Z : -2.9323718200277016
 Star "Chosper System" // system name
 {
-    RA         0.08728221178775565
-    Dec        24.585966604083943
-    Dist       382999875.1480883
+    RA         0.08728221180470645
+    Dec        24.585966603946733
+    Dist       383000002.9760863
     Class      "M3 V" // random
 }
 
@@ -799,12 +799,12 @@ Star "Dartessex System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5043.71, Y : 758.72, Z : -589.8615624817824
+// X : 5043.71, Y : 758.72, Z : 4.897927509524852
 Star "Daruvvia System" // system name
 {
-    RA         0.08728269837232266
-    Dec        24.58598784909761
-    Dist       383000589.9056768
+    RA         0.08728269829420943
+    Dec        24.585987849769
+    Dist       382999995.1461869
     Class      "M7 IV" // random
 }
 
@@ -838,12 +838,12 @@ Star "Denon System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5124.14, Y : 805.56, Z : 387.60690747315925
+// X : 5124.14, Y : 805.56, Z : 0.531286627873568
 Star "Divora System" // system name
 {
-    RA         0.08728189610222105
-    Dec        24.585994857347313
-    Dist       382999612.4386309
+    RA         0.08728189615386876
+    Dec        24.58599485690328
+    Dist       382999999.5142517
     Class      "K5 V" // random
 }
 
@@ -877,12 +877,12 @@ Star "Drearia System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5377.02, Y : 739.99, Z : 419.96913097775007
+// X : 5377.02, Y : 739.99, Z : -3.16699256796807
 Star "Dreena System" // system name
 {
-    RA         0.08727937408352382
-    Dec        24.585985048276388
-    Dist       382999580.079377
+    RA         0.08727937414276941
+    Dec        24.585985047801827
+    Dist       383000003.2155004
     Class      "G7 III" // random
 }
 
@@ -903,12 +903,12 @@ Star "Dulin System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5241.63, Y : 842.93, Z : -429.81340980519474
+// X : 5241.63, Y : 842.93, Z : -3.8705614915983477
 Star "Ediorung System" // system name
 {
-    RA         0.08728072446654142
-    Dec        24.586000446855767
-    Dist       383000429.8608264
+    RA         0.08728072440840463
+    Dec        24.586000447350603
+    Dist       383000003.9179781
     Class      "M7 III" // random
 }
 
@@ -955,12 +955,12 @@ Star "Fadden System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5184.06, Y : 804.4, Z : -164.9799393233389
+// X : 5184.06, Y : 804.4, Z : -3.749357753212097
 Star "Farnica System" // system name
 {
-    RA         0.08728129858472079
-    Dec        24.58599468318058
-    Dist       383000165.02627516
+    RA         0.08728129856295617
+    Dec        24.585994683365463
+    Dist       383000003.7956936
     Class      "M7 V" // random
 }
 
@@ -968,12 +968,12 @@ Star "Farnica System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5215.42, Y : 898.95, Z : -363.04957872008896
+// X : 5215.42, Y : 898.95, Z : -1.7544220084702609
 Star "Febrini System" // system name
 {
-    RA         0.087280985853592
-    Dec        24.586008827368122
-    Dist       383000363.09707665
+    RA         0.08728098580452552
+    Dec        24.58600882779576
+    Dist       383000001.80192
     Class      "M4 II" // random
 }
 
@@ -994,12 +994,12 @@ Star "Fennesa System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5192.1, Y : 830.01, Z : 325.0710749409616
+// X : 5192.1, Y : 830.01, Z : 4.542724765033366
 Star "Gallinore System" // system name
 {
-    RA         0.08728121833432854
-    Dec        24.585998514933532
-    Dist       382999674.9755669
+    RA         0.08728121837766403
+    Dec        24.585998514562778
+    Dist       382999995.5039171
     Class      "M0 II" // random
 }
 
@@ -1059,12 +1059,12 @@ Star "H'ratth System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5259.63, Y : 800.65, Z : -487.8072697960495
+// X : 5259.63, Y : 800.65, Z : 2.7106276923586057
 Star "Hapes System" // system name
 {
-    RA         0.087280544957883
-    Dec        24.585994121821102
-    Dist       383000487.85460716
+    RA         0.08728054489070247
+    Dec        24.585994122382857
+    Dist       382999997.33670974
     Class      "M4 III" // random
 }
 
@@ -1085,12 +1085,12 @@ Star "Harrin System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5248.4, Y : 780.91, Z : 423.01259506950964
+// X : 5248.4, Y : 780.91, Z : 0.9030685833535754
 Star "Harterra System" // system name
 {
-    RA         0.0872806568318007
-    Dec        24.585991169809535
-    Dist       382999577.0344377
+    RA         0.08728065688948883
+    Dec        24.585991169329375
+    Dist       382999999.1439641
     Class      "M3 III" // random
 }
 
@@ -1215,12 +1215,12 @@ Star "Jandur System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5120.74, Y : 737.37, Z : 87.66913041851967
+// X : 5120.74, Y : 737.37, Z : -2.4067637872046044
 Star "Jodaka System" // system name
 {
-    RA         0.08728193005097908
-    Dec        24.585984655958594
-    Dist       382999912.3758456
+    RA         0.08728193006298995
+    Dec        24.585984655857665
+    Dist       383000002.4517398
     Class      "M3 V" // random
 }
 
@@ -1241,12 +1241,12 @@ Star "Joiol System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5262.16, Y : 770.32, Z : 317.4605726760352
+// X : 5262.16, Y : 770.32, Z : 2.7173259231190148
 Star "Jovaria System" // system name
 {
-    RA         0.08728051961548992
-    Dec        24.58598958545237
-    Dist       382999682.58656853
+    RA         0.08728051965861745
+    Dec        24.585989585095646
+    Dist       382999997.32981527
     Class      "K4 V" // random
 }
 
@@ -1267,12 +1267,12 @@ Star "K'taktaxka System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5212.45, Y : 635.21, Z : -209.69854205922957
+// X : 5212.45, Y : 635.21, Z : 2.144053457680661
 Star "k'Farri System" // system name
 {
-    RA         0.08728101545302205
-    Dec        24.58596937276996
-    Dist       383000209.74400365
+    RA         0.08728101542426868
+    Dec        24.58596937299888
+    Dist       382999997.90140814
     Class      "G5 III" // random
 }
 
@@ -1280,12 +1280,12 @@ Star "k'Farri System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5048.47, Y : 783.33, Z : 78.83838492712187
+// X : 5048.47, Y : 783.33, Z : -2.4387848985635188
 Star "Ket System" // system name
 {
-    RA         0.08728265081226746
-    Dec        24.585991531443657
-    Dist       382999921.2059787
+    RA         0.08728265082295217
+    Dec        24.585991531351127
+    Dist       383000002.4831485
     Class      "G3 Ib" // random
 }
 
@@ -1410,12 +1410,12 @@ Star "Laertos System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5217.08, Y : 790.01, Z : -116.33838063144356
+// X : 5217.08, Y : 790.01, Z : -3.470117052366035
 Star "Lalmy'ash System" // system name
 {
-    RA         0.08728096926465342
-    Dec        24.585992530531353
-    Dist       383000116.3850547
+    RA         0.08728096924932022
+    Dec        24.585992530660143
+    Dist       383000003.51679116
     Class      "M4 III" // random
 }
 
@@ -1436,12 +1436,12 @@ Star "Las Lagon System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5276.13, Y : 776.67, Z : -410.83077950587983
+// X : 5276.13, Y : 776.67, Z : 2.18117859314016
 Star "Lemmi System" // system name
 {
-    RA         0.08728038039044787
-    Dec        24.585990534569
-    Dist       383000410.87816095
+    RA         0.08728038033370498
+    Dec        24.585990535038125
+    Dist       382999997.86620295
     Class      "A1 V" // random
 }
 
@@ -1462,12 +1462,12 @@ Star "Levian System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5064.61, Y : 832.54, Z : 204.35148805561073
+// X : 5064.61, Y : 832.54, Z : -0.6993470298367992
 Star "Lovola System" // system name
 {
-    RA         0.0872824898289486
-    Dec        24.585998893275356
-    Dist       382999795.69346637
+    RA         0.08728248985599077
+    Dec        24.585998893037974
+    Dist       383000000.7443014
     Class      "G5 III" // random
 }
 
@@ -1475,12 +1475,12 @@ Star "Lovola System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5068.84, Y : 859, Z : -43.771719085781115
+// X : 5068.84, Y : 859, Z : 3.040562578444913
 Star "Maires System" // system name
 {
-    RA         0.08728244767522737
-    Dec        24.586002851333156
-    Dist       383000043.8169351
+    RA         0.08728244766904861
+    Dec        24.586002851387832
+    Dist       382999997.00465345
     Class      "M9 III" // random
 }
 
@@ -1566,12 +1566,12 @@ Star "Merson System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5214.54, Y : 803.56, Z : -386.2983149762281
+// X : 5214.54, Y : 803.56, Z : -3.1012771149778984
 Star "Millinar System" // system name
 {
-    RA         0.0872809946331175
-    Dec        24.58599455726516
-    Dist       383000386.3450581
+    RA         0.08728099458108539
+    Dec        24.585994557704446
+    Dist       383000003.14802027
     Class      "M6 III" // random
 }
 
@@ -1605,12 +1605,12 @@ Star "Mindabaal System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5099.27, Y : 883.08, Z : -281.97858463465786
+// X : 5099.27, Y : 883.08, Z : -3.611552757598603
 Star "Modus System" // system name
 {
-    RA         0.08728214422376382
-    Dec        24.586006453356113
-    Dist       383000282.0243933
+    RA         0.0872821441868015
+    Dec        24.58600645368387
+    Dist       383000003.6573615
     Class      "M3 IV" // random
 }
 
@@ -1644,12 +1644,12 @@ Star "Moorja System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5161.38, Y : 673.05, Z : 203.56419901124093
+// X : 5161.38, Y : 673.05, Z : -3.5833202556581
 Star "Nantuker System" // system name
 {
-    RA         0.08728152472626229
-    Dec        24.58597503398272
-    Dist       382999796.48084617
+    RA         0.08728152475410295
+    Dec        24.585975033755812
+    Dist       383000003.62836546
     Class      "M7 III" // random
 }
 
@@ -1696,12 +1696,12 @@ Star "Nouane System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5186.17, Y : 817.31, Z : -102.7416103007638
+// X : 5186.17, Y : 817.31, Z : 4.505196752160641
 Star "Novi System" // system name
 {
-    RA         0.08728127753296631
-    Dec        24.585996614553032
-    Dist       383000102.78807384
+    RA         0.08728127751848311
+    Dec        24.585996614676553
+    Dist       382999995.5412668
     Class      "M6 III" // random
 }
 
@@ -1748,12 +1748,12 @@ Star "Ord Lithone System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5270.26, Y : 969.3, Z : 217.2732925117706
+// X : 5270.26, Y : 969.3, Z : 1.4291001645441597
 Star "Orelon System" // system name
 {
-    RA         0.08728043884661103
-    Dec        24.58601935223353
-    Dist       382999782.77551925
+    RA         0.08728043887623249
+    Dec        24.586019351972123
+    Dist       382999998.6197116
     Class      "M4 III" // random
 }
 
@@ -1865,12 +1865,12 @@ Star "Phateem System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5226.27, Y : 868.79, Z : -78.24413459125583
+// X : 5226.27, Y : 868.79, Z : 1.2533034642036602
 Star "Phelope System" // system name
 {
-    RA         0.08728087760619613
-    Dec        24.586004315850506
-    Dist       383000078.291543
+    RA         0.08728087759537734
+    Dec        24.586004315943665
+    Dist       382999998.79410493
     Class      "M0 III" // random
 }
 
@@ -1930,12 +1930,12 @@ Star "Quarzite System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5340.11, Y : 953.01, Z : 64.66363935581114
+// X : 5340.11, Y : 953.01, Z : -3.893957739854421
 Star "Rainboh System" // system name
 {
-    RA         0.08727974224251116
-    Dec        24.5860169151077
-    Dist       382999935.3860084
+    RA         0.08727974225204438
+    Dec        24.586016915025102
+    Dist       383000003.9436055
     Class      "G2 III" // random
 }
 
@@ -1956,12 +1956,12 @@ Star "Rasterous System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5282.48, Y : 828.96, Z : -288.0101542470209
+// X : 5282.48, Y : 828.96, Z : 1.1898138982864248
 Star "Rbollea System" // system name
 {
-    RA         0.08728031704408273
-    Dec        24.5859983571473
-    Dist       383000288.05802387
+    RA         0.08728031700430229
+    Dec        24.585998357481696
+    Dist       382999998.8580558
     Class      "M7 II" // random
 }
 
@@ -1969,12 +1969,12 @@ Star "Rbollea System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5402.15, Y : 805.08, Z : 138.65919826644745
+// X : 5402.15, Y : 805.08, Z : -4.7934845230707746
 Star "Reboam System" // system name
 {
-    RA         0.08727912349741807
-    Dec        24.585994785254986
-    Dist       382999861.39015675
+    RA         0.08727912351759752
+    Dec        24.585994785090453
+    Dist       383000004.84283954
     Class      "M5 III" // random
 }
 
@@ -2008,12 +2008,12 @@ Star "Relatta System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5164.09, Y : 839.69, Z : 150.2709859120531
+// X : 5164.09, Y : 839.69, Z : -3.5663681090709165
 Star "Relephon System" // system name
 {
-    RA         0.08728149770616235
-    Dec        24.58599996283412
-    Dist       382999849.77535224
+    RA         0.08728149772684897
+    Dec        24.585999962655592
+    Dist       383000003.61270624
     Class      "M3 V" // random
 }
 
@@ -2073,12 +2073,12 @@ Star "Roundtree System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5303.91, Y : 936.92, Z : -418.4791553737629
+// X : 5303.91, Y : 936.92, Z : 3.828984601774721
 Star "Rynmar System" // system name
 {
-    RA         0.08728010333753601
-    Dec        24.586014507507137
-    Dist       383000418.52817076
+    RA         0.08728010327921046
+    Dec        24.586014508013253
+    Dist       382999996.22003084
     Class      "M3 III" // random
 }
 
@@ -2099,12 +2099,12 @@ Star "Sagar System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5142.93, Y : 908.48, Z : 501.81243465439934
+// X : 5142.93, Y : 908.48, Z : -0.5447654496413854
 Star "Sargon System" // system name
 {
-    RA         0.08728170869114138
-    Dec        24.58601025405627
-    Dist       382999498.23415864
+    RA         0.08728170875841698
+    Dec        24.586010253459797
+    Dist       383000000.5913587
     Class      "F1 V" // random
 }
 
@@ -2112,12 +2112,12 @@ Star "Sargon System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5240.15, Y : 774.13, Z : 225.26907824093644
+// X : 5240.15, Y : 774.13, Z : 1.190167191932491
 Star "Selab System" // system name
 {
-    RA         0.08728073913740851
-    Dec        24.585990155314065
-    Dist       382999774.77779
+    RA         0.08728073916798437
+    Dec        24.585990155059765
+    Dist       382999998.8567011
     Class      "K6 III" // random
 }
 
@@ -2138,12 +2138,12 @@ Star "Selvaris System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5027.57, Y : 725.39, Z : -301.51940392206217
+// X : 5027.57, Y : 725.39, Z : -1.9516204197403422
 Star "Sennex System" // system name
 {
-    RA         0.08728285930105932
-    Dec        24.585982863347837
-    Dist       383000301.56305605
+    RA         0.0872828592618412
+    Dec        24.5859828636821
+    Dist       383000001.9952725
     Class      "F3 V" // random
 }
 
@@ -2177,12 +2177,12 @@ Star "Shasfath System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5375.69, Y : 892.65, Z : 227.03980133895527
+// X : 5375.69, Y : 892.65, Z : 0.5668242961610552
 Star "Maad System" // system name
 {
-    RA         0.08727938737484187
-    Dec        24.586007885602793
-    Dist       382999773.00986284
+    RA         0.08727938740654372
+    Dec        24.58600788533529
+    Dist       382999999.4828399
     Class      "M6 III" // random
 }
 
@@ -2203,12 +2203,12 @@ Star "Shibric System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5183.63, Y : 790.43, Z : 393.85475249024546
+// X : 5183.63, Y : 790.43, Z : -2.9368761357638595
 Star "Sivoria System" // system name
 {
-    RA         0.08728130279774463
-    Dec        24.585992593944464
-    Dist       382999606.19147074
+    RA         0.08728130285130342
+    Dec        24.585992593491632
+    Dist       383000002.9830993
     Class      "M9 V" // random
 }
 
@@ -2242,12 +2242,12 @@ Star "Spirana System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5126.03, Y : 704.56, Z : -263.621761119682
+// X : 5126.03, Y : 704.56, Z : 3.3446509388756844
 Star "Stalsinek System" // system name
 {
-    RA         0.08728187733986349
-    Dec        24.58597974727977
-    Dist       383000263.6665636
+    RA         0.08728187730422894
+    Dec        24.585979747575486
+    Dist       382999996.70015156
     Class      "M5 III" // random
 }
 
@@ -2281,12 +2281,12 @@ StarBarycenter "Taanab System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5187.02, Y : 775.62, Z : 276.92262441120533
+// X : 5187.02, Y : 775.62, Z : 0.9217536956899464
 Star "Talcharaim System" // system name
 {
-    RA         0.08728126900450582
-    Dec        24.585990378272875
-    Dist       382999723.123532
+    RA         0.08728126904178467
+    Dec        24.58599037795949
+    Dist       382999999.1244027
     Class      "M0 V" // random
 }
 
@@ -2333,12 +2333,12 @@ Star "Sistooine System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5337.86, Y : 911.7, Z : 207.50111582809802
+// X : 5337.86, Y : 911.7, Z : 2.8775960568141645
 Star "Terephon System" // system name
 {
-    RA         0.08727976466226148
-    Dec        24.5860107354105
-    Dist       382999792.54817015
+    RA         0.08727976469070325
+    Dec        24.586010735167285
+    Dist       382999997.17168987
     Class      "M3 III" // random
 }
 
@@ -2346,12 +2346,12 @@ Star "Terephon System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5216.44, Y : 818.8, Z : -251.14075401279956
+// X : 5216.44, Y : 818.8, Z : 1.0894788483563307
 Star "Theselon System" // system name
 {
-    RA         0.08728097566578184
-    Dec        24.585996837282
-    Dist       383000251.18764
+    RA         0.08728097563152046
+    Dec        24.585996837572647
+    Dist       382999998.95740724
     Class      "M4 IV" // random
 }
 
@@ -2359,12 +2359,12 @@ Star "Theselon System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5275.71, Y : 761.43, Z : 364.31376982537097
+// X : 5275.71, Y : 761.43, Z : 4.725148294281638
 Star "Thrakia System" // system name
 {
-    RA         0.08728038447268159
-    Dec        24.585988255583896
-    Dist       382999635.7334906
+    RA         0.08728038452208092
+    Dec        24.585988255177593
+    Dist       382999995.322112
     Class      "K0 III" // random
 }
 
@@ -2372,12 +2372,12 @@ Star "Thrakia System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5274.86, Y : 835.31, Z : 159.162272703771
+// X : 5274.86, Y : 835.31, Z : -3.0633362530957875
 Star "Tinta System" // system name
 {
-    RA         0.08728039297805064
-    Dec        24.585999307607835
-    Dist       382999840.8855411
+    RA         0.08728039300033316
+    Dec        24.585999307419854
+    Dist       383000003.11115
     Class      "M8 III" // random
 }
 
@@ -2437,12 +2437,12 @@ Star "Truuine System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5260.47, Y : 841.66, Z : -84.17413718199418
+// X : 5260.47, Y : 841.66, Z : -4.5783172252018325
 Star "Tumani System" // system name
 {
-    RA         0.08728053652515314
-    Dec        24.586000257268736
-    Dist       383000084.22180223
+    RA         0.08728053651425006
+    Dec        24.586000257361167
+    Dist       383000004.6259823
     Class      "M5 V" // random
 }
 
@@ -2476,12 +2476,12 @@ Star "Uphrades System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5255.81, Y : 789.37, Z : 63.2032203290554
+// X : 5255.81, Y : 789.37, Z : 1.519543614094319
 Star "Ut System" // system name
 {
-    RA         0.08728058297987856
-    Dec        24.585992434993912
-    Dist       382999936.8439785
+    RA         0.08728058298832053
+    Dec        24.58599243492354
+    Dist       382999998.5276552
     Class      "K5 V" // random
 }
 
@@ -2515,12 +2515,12 @@ Star "Vanik System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5077.31, Y : 872.5, Z : 500.8375333415247
+// X : 5077.31, Y : 872.5, Z : 1.3667064980748052
 Star "Vergill System" // system name
 {
-    RA         0.08728236313060483
-    Dec        24.58600487153594
-    Dist       382999499.2079005
+    RA         0.08728236319664044
+    Dec        24.586004870949914
+    Dist       382999998.6787273
     Class      "M4 V" // random
 }
 
@@ -2593,12 +2593,12 @@ Star "Walalla System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5153.25, Y : 826.72, Z : -340.4028452255651
+// X : 5153.25, Y : 826.72, Z : 1.1884139157990106
 Star "Wodan System" // system name
 {
-    RA         0.08728160588105527
-    Dec        24.585998021988985
-    Dist       383000340.4489369
+    RA         0.08728160583521773
+    Dec        24.585998022383663
+    Dist       382999998.8576778
     Class      "M7 III" // random
 }
 
@@ -2645,12 +2645,12 @@ Star "Yn System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5226.8, Y : 882.81, Z : -119.62263015025985
+// X : 5226.8, Y : 882.81, Z : 2.153391999264281
 Star "Zadaria System" // system name
 {
-    RA         0.08728087232605646
-    Dec        24.586006413156007
-    Dist       383000119.6701559
+    RA         0.0872808723094823
+    Dec        24.586006413299376
+    Dist       382999997.89413375
     Class      "K2 II" // random
 }
 
@@ -2658,12 +2658,12 @@ Star "Zadaria System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5334.42, Y : 921.76, Z : -452.37125975090964
+// X : 5334.42, Y : 921.76, Z : -0.10935426850434737
 Star "Zalori System" // system name
 {
-    RA         0.08727979906159586
-    Dec        24.58601223957359
-    Dist       383000452.42057776
+    RA         0.08727979899877403
+    Dec        24.58601224011293
+    Dist       383000000.15867233
     Class      "K9 III" // random
 }
 
@@ -2671,1351 +2671,207 @@ Star "Zalori System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5229.78, Y : 898.03, Z : -3.233626021901273
+// X : 5229.78, Y : 898.03, Z : 4.13858869840028
 Star "Unnamed Hapes Cluster 1 System" // system name
 {
-    RA         0.08728084259021175
-    Dec        24.586008690164462
-    Dist       383000003.2813125
-    Class      "M2 V" // random
+    RA         0.08728084258920779
+    Dec        24.586008690173184
+    Dist       382999995.9090978
+    Class      "M6 V" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5333.86, Y : 726.28, Z : 194.56146663961772
+// X : 5333.86, Y : 726.28, Z : -0.4885760032617199
 Star "Unnamed Hapes Cluster 2 System" // system name
 {
-    RA         0.0872798045567031
-    Dec        24.585982997043075
-    Dist       382999805.4863352
-    Class      "K5 Ib" // random
+    RA         0.08727980458379389
+    Dec        24.585982996825365
+    Dist       383000000.53637785
+    Class      "M4 IV" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5077.69, Y : 847.54, Z : 119.53490720713296
+// X : 5077.69, Y : 847.54, Z : 2.127403031384448
 Star "Unnamed Hapes Cluster 3 System" // system name
 {
-    RA         0.08728235939121695
-    Dec        24.5860011371379
-    Dist       382999880.5103367
-    Class      "K6 V" // random
+    RA         0.08728235940674069
+    Dec        24.58600113700129
+    Dist       382999997.9178409
+    Class      "M2 V" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5107.22, Y : 772.45, Z : 173.5460833159517
+// X : 5107.22, Y : 772.45, Z : -4.761274022478572
 Star "Unnamed Hapes Cluster 4 System" // system name
 {
-    RA         0.08728206487665424
-    Dec        24.58598990393173
-    Dist       382999826.4989765
-    Class      "M1 IV" // random
+    RA         0.08728206490036731
+    Dec        24.58598990372949
+    Dist       383000004.8063339
+    Class      "M1 V" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5357.51, Y : 864.95, Z : -320.90261661450927
+// X : 5357.51, Y : 864.95, Z : -1.6476361551726573
 Star "Unnamed Hapes Cluster 5 System" // system name
 {
-    RA         0.08727956876336192
-    Dec        24.58600374111286
-    Dist       383000320.9518083
-    Class      "M2 III" // random
+    RA         0.08727956871882357
+    Dec        24.5860037414865
+    Dist       383000001.6968279
+    Class      "M0 V" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5147.86, Y : 679.25, Z : -522.5880246997972
+// X : 5147.86, Y : 679.25, Z : -0.6344997332373135
 Star "Unnamed Hapes Cluster 6 System" // system name
 {
-    RA         0.08728165966073824
-    Dec        24.585975960689517
-    Dist       383000522.63293326
-    Class      "M5 V" // random
+    RA         0.08728165959077148
+    Dec        24.585975961262523
+    Dist       383000000.6794084
+    Class      "M7 V" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5286.14, Y : 961.33, Z : 250.73724566638907
+// X : 5286.14, Y : 961.33, Z : 2.330880802302402
 Star "Unnamed Hapes Cluster 7 System" // system name
 {
-    RA         0.08728028046820238
-    Dec        24.586018159982515
-    Dist       382999749.3117205
-    Class      "G0 V" // random
+    RA         0.08728028050239524
+    Dec        24.586018159682443
+    Dist       382999997.71808535
+    Class      "M5 III" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5065.89, Y : 640.14, Z : 54.610688780768896
+// X : 5065.89, Y : 640.14, Z : 2.8543432548701304
 Star "Unnamed Hapes Cluster 8 System" // system name
 {
-    RA         0.08728247708305535
-    Dec        24.585970110570543
-    Dist       382999945.4328419
-    Class      "M2 V" // random
+    RA         0.08728247708988272
+    Dec        24.585970110514516
+    Dist       382999997.18918747
+    Class      "M5 III" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5175.8, Y : 849.98, Z : -34.6568210747763
+// X : 5175.8, Y : 849.98, Z : 4.623406992434266
 Star "Unnamed Hapes Cluster 9 System" // system name
 {
-    RA         0.08728138094538702
-    Dec        24.586001501975957
-    Dist       383000034.7033972
-    Class      "M1 III" // random
+    RA         0.08728138094009301
+    Dec        24.5860015020217
+    Dist       382999995.42316914
+    Class      "M0 III" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5042.14, Y : 801.59, Z : 34.711550133768014
+// X : 5042.14, Y : 801.59, Z : 3.5538897072861104
 Star "Unnamed Hapes Cluster 10 System" // system name
 {
-    RA         0.08728271394814968
-    Dec        24.585994263041012
-    Dist       382999965.3328695
-    Class      "M0 III" // random
+    RA         0.08728271395224053
+    Dec        24.58599426300532
+    Dist       382999996.49052995
+    Class      "M9 III" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5252.97, Y : 670.61, Z : 352.39357781958904
+// X : 5252.97, Y : 670.61, Z : 3.1182545334946354
 Star "Unnamed Hapes Cluster 11 System" // system name
 {
-    RA         0.08728061126408845
-    Dec        24.58597466912791
-    Dist       382999647.6526948
-    Class      "M6 V" // random
+    RA         0.08728061131186415
+    Dec        24.585974668745653
+    Dist       382999996.92801803
+    Class      "G6 V" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5376.56, Y : 907.97, Z : 112.53850323215909
+// X : 5376.56, Y : 907.97, Z : 1.954490624552375
 Star "Unnamed Hapes Cluster 12 System" // system name
 {
-    RA         0.08727937871422184
-    Dec        24.586010177299404
-    Dist       382999887.5112944
-    Class      "M6 III" // random
+    RA         0.08727937872970397
+    Dec        24.586010177168124
+    Dist       382999998.09530705
+    Class      "M2 III" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5047.48, Y : 670.93, Z : 541.7906074104524
+// X : 5047.48, Y : 670.93, Z : -1.1545225601055034
 Star "Unnamed Hapes Cluster 13 System" // system name
 {
-    RA         0.08728266062484578
-    Dec        24.585974717206412
-    Dist       382999458.25290436
-    Class      "M0 V" // random
+    RA         0.08728266069620745
+    Dec        24.585974716612125
+    Dist       383000001.1980342
+    Class      "M1 V" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5060.6, Y : 627.75, Z : -517.3151855319719
+// X : 5060.6, Y : 627.75, Z : -3.6166953665796586
 Star "Unnamed Hapes Cluster 14 System" // system name
 {
-    RA         0.08728252991642246
-    Dec        24.585968256442932
-    Dist       383000517.35855675
-    Class      "M5 V" // random
+    RA         0.0872825298487295
+    Dec        24.58596825699654
+    Dist       383000003.6600666
+    Class      "M9 III" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5365.98, Y : 826.19, Z : -544.652176095929
+// X : 5365.98, Y : 826.19, Z : 4.886391125249421
 Star "Unnamed Hapes Cluster 15 System" // system name
 {
-    RA         0.08727948432206788
-    Dec        24.58599794246652
-    Dist       383000544.701185
-    Class      "M8 III" // random
+    RA         0.08727948424528216
+    Dec        24.585997943101347
+    Dist       382999995.1626179
+    Class      "M3 V" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5161.2, Y : 686.44, Z : -327.53902549100144
+// X : 5161.2, Y : 686.44, Z : 3.7615697160242263
 Star "Unnamed Hapes Cluster 16 System" // system name
 {
-    RA         0.08728152659280908
-    Dec        24.585977036507565
-    Dist       383000327.58416647
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5175.06, Y : 662.95, Z : 49.73074115870156
-Star "Unnamed Hapes Cluster 17 System" // system name
-{
-    RA         0.08728138831414982
-    Dec        24.585973522880927
-    Dist       382999950.3144148
-    Class      "M5 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5348.99, Y : 849.69, Z : -456.4956913311052
-Star "Unnamed Hapes Cluster 18 System" // system name
-{
-    RA         0.08727965375346339
-    Dec        24.586001458101553
-    Dist       383000456.54464483
-    Class      "K2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5048.17, Y : 744.28, Z : 196.4419349624834
-Star "Unnamed Hapes Cluster 19 System" // system name
-{
-    RA         0.08728265378875553
-    Dec        24.585985689798594
-    Dist       382999803.6021295
-    Class      "K4 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5365.13, Y : 904.79, Z : -255.07127697491285
-Star "Unnamed Hapes Cluster 20 System" // system name
-{
-    RA         0.08727949275878215
-    Dec        24.586009701143784
-    Dist       383000255.120889
-    Class      "M0 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5346.98, Y : 742.37, Z : -560.8247436655927
-Star "Unnamed Hapes Cluster 21 System" // system name
-{
-    RA         0.08727967381400847
-    Dec        24.58598540321753
-    Dist       383000560.8728488
-    Class      "M7 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5396.4, Y : 796.52, Z : -263.7434269330962
-Star "Unnamed Hapes Cluster 22 System" // system name
-{
-    RA         0.08727918089962969
-    Dec        24.585993504241138
-    Dist       383000263.7926353
-    Class      "M7 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5344.89, Y : 720.01, Z : -92.74694080358807
-Star "Unnamed Hapes Cluster 23 System" // system name
-{
-    RA         0.08727969459272704
-    Dec        24.58598205874732
-    Dist       383000092.7948497
-    Class      "M9 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5061.5, Y : 804.2, Z : -506.3809755651318
-Star "Unnamed Hapes Cluster 24 System" // system name
-{
-    RA         0.08728252093915334
-    Dec        24.585994652869672
-    Dist       383000506.42567044
-    Class      "M6 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5276.39, Y : 683.04, Z : 357.4076928697543
-Star "Unnamed Hapes Cluster 25 System" // system name
-{
-    RA         0.08728037769187812
-    Dec        24.585976528630017
-    Dist       382999642.6389928
-    Class      "M9 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5026.1, Y : 637.91, Z : -130.23640241968172
-Star "Unnamed Hapes Cluster 26 System" // system name
-{
-    RA         0.0872828739391696
-    Dec        24.585969776768497
-    Dist       383000130.2793927
-    Class      "K2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5029.54, Y : 747.6, Z : 18.085262660184412
-Star "Unnamed Hapes Cluster 27 System" // system name
-{
-    RA         0.08728283961210041
-    Dec        24.58598618626144
-    Dist       382999981.9585816
-    Class      "M6 Ib" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5234.67, Y : 852.52, Z : 124.50288536626567
-Star "Unnamed Hapes Cluster 28 System" // system name
-{
-    RA         0.0872807938040692
-    Dec        24.586001882138653
-    Dist       382999875.5445107
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5139.6, Y : 756.58, Z : -319.49954656508584
-Star "Unnamed Hapes Cluster 29 System" // system name
-{
-    RA         0.08728174201171206
-    Dec        24.585987529264777
-    Dist       383000319.54491955
-    Class      "K9 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5209.19, Y : 617.91, Z : 445.68572838726345
-Star "Unnamed Hapes Cluster 30 System" // system name
-{
-    RA         0.08728104787659213
-    Dec        24.585966785441258
-    Dist       382999554.35956436
-    Class      "M5 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5309.15, Y : 948.23, Z : 403.29830720985217
-Star "Unnamed Hapes Cluster 31 System" // system name
-{
-    RA         0.08728005096464816
-    Dec        24.586016200439648
-    Dist       382999596.7508717
-    Class      "M6 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5140.08, Y : 695.39, Z : -558.9227363661045
-Star "Unnamed Hapes Cluster 32 System" // system name
-{
-    RA         0.08728173725664695
-    Dec        24.5859783751471
-    Dist       383000558.9676593
-    Class      "M1 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5121.16, Y : 896.73, Z : 223.29944470696478
-Star "Unnamed Hapes Cluster 33 System" // system name
-{
-    RA         0.08728192584416603
-    Dec        24.58600849595586
-    Dist       382999776.74676377
-    Class      "M2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5377.38, Y : 769.75, Z : 36.126610271230675
-Star "Unnamed Hapes Cluster 34 System" // system name
-{
-    RA         0.08727937054693131
-    Dec        24.58598949986302
-    Dist       382999963.92212695
-    Class      "K4 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5130.72, Y : 722.38, Z : 118.51825934432622
-Star "Unnamed Hapes Cluster 35 System" // system name
-{
-    RA         0.0872818305147409
-    Dec        24.58598241352841
-    Dist       382999881.5267383
-    Class      "M7 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5242.21, Y : 903.58, Z : -5.567130673070551
-Star "Unnamed Hapes Cluster 36 System" // system name
-{
-    RA         0.08728071862420597
-    Dec        24.5860095204269
-    Dist       383000005.61503106
-    Class      "M3 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5191.89, Y : 894.74, Z : -338.6768124975186
-Star "Unnamed Hapes Cluster 37 System" // system name
-{
-    RA         0.08728122051842814
-    Dec        24.586008197592744
-    Dist       383000338.7239574
-    Class      "M7 Ia" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5210.24, Y : 762.56, Z : 199.1636660328303
-Star "Unnamed Hapes Cluster 38 System" // system name
-{
-    RA         0.08728103743821276
-    Dec        24.585988424442366
-    Dist       382999800.88270664
-    Class      "M4 VII" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5359.17, Y : 732.6, Z : -569.5837697644549
-Star "Unnamed Hapes Cluster 39 System" // system name
-{
-    RA         0.08727955224264082
-    Dec        24.585983941643907
-    Dist       383000569.6319721
-    Class      "M0 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5347.03, Y : 887.96, Z : -96.10730739625723
-Star "Unnamed Hapes Cluster 40 System" // system name
-{
-    RA         0.0872796732506469
-    Dec        24.586007183609777
-    Dist       383000096.1565333
-    Class      "M6 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5378.01, Y : 754.83, Z : -291.0428314201196
-Star "Unnamed Hapes Cluster 41 System" // system name
-{
-    RA         0.08727936430965975
-    Dec        24.585987267501736
-    Dist       383000291.09146476
-    Class      "M9 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5013.82, Y : 646.59, Z : -230.53539851590233
-Star "Unnamed Hapes Cluster 42 System" // system name
-{
-    RA         0.08728299642257477
-    Dec        24.585971075164096
-    Dist       383000230.57829076
-    Class      "M9 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5177.18, Y : 896.23, Z : -120.64751488585483
-Star "Unnamed Hapes Cluster 43 System" // system name
-{
-    RA         0.08728136719402595
-    Dec        24.58600842075041
-    Dist       383000120.6944725
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5196.9, Y : 766.21, Z : 403.03930253629164
-Star "Unnamed Hapes Cluster 44 System" // system name
-{
-    RA         0.08728117045258947
-    Dec        24.585988970703667
-    Dist       382999597.0069165
-    Class      "M0 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5137.38, Y : 791.03, Z : -357.281213259334
-Star "Unnamed Hapes Cluster 45 System" // system name
-{
-    RA         0.08728176415715348
-    Dec        24.58599268284556
-    Dist       383000357.3268178
-    Class      "F2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5055.31, Y : 818.1, Z : -234.9520293767215
-Star "Unnamed Hapes Cluster 46 System" // system name
-{
-    RA         0.08728258263717519
-    Dec        24.585996732582583
-    Dist       383000234.99674934
-    Class      "M3 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5330.85, Y : 946.25, Z : 474.7232205118137
-Star "Unnamed Hapes Cluster 47 System" // system name
-{
-    RA         0.08727983453702684
-    Dec        24.586015904322473
-    Dist       382999525.3262439
-    Class      "M3 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5162.89, Y : 897.07, Z : -159.3916413147947
-Star "Unnamed Hapes Cluster 48 System" // system name
-{
-    RA         0.08728150971558475
-    Dec        24.5860085463663
-    Dist       383000159.43841267
-    Class      "M9 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5298.17, Y : 959.08, Z : -515.4807622173852
-Star "Unnamed Hapes Cluster 49 System" // system name
-{
-    RA         0.0872801605967697
-    Dec        24.58601782246338
-    Dist       383000515.52987635
-    Class      "M6 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5251.95, Y : 656.22, Z : -412.0426159910309
-Star "Unnamed Hapes Cluster 50 System" // system name
-{
-    RA         0.08728062154125978
-    Dec        24.585972515587944
-    Dist       383000412.0887695
-    Class      "K1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5344.55, Y : 856.35, Z : -92.01492160459753
-Star "Unnamed Hapes Cluster 51 System" // system name
-{
-    RA         0.08727969798349729
-    Dec        24.58600245484396
-    Dist       383000092.06386507
-    Class      "G5 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5353.54, Y : 907.33, Z : 134.20289233677147
-Star "Unnamed Hapes Cluster 52 System" // system name
-{
-    RA         0.08727960829331342
-    Dec        24.586010081582792
-    Dist       382999865.84657776
-    Class      "M1 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5033.51, Y : 680.99, Z : -134.20065825209298
-Star "Unnamed Hapes Cluster 53 System" // system name
-{
-    RA         0.08728280003863058
-    Dec        24.585976221415166
-    Dist       383000134.2440598
-    Class      "M2 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5368.46, Y : 838.43, Z : 67.33450216484914
-Star "Unnamed Hapes Cluster 54 System" // system name
-{
-    RA         0.08727945950312593
-    Dec        24.585999774245195
-    Dist       382999932.7146363
-    Class      "M7 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5386.54, Y : 913.17, Z : 313.0163068821771
-Star "Unnamed Hapes Cluster 55 System" // system name
-{
-    RA         0.08727927915397901
-    Dec        24.58601095544418
-    Dist       382999687.03367233
-    Class      "M9 II" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5321.59, Y : 944.66, Z : -4.413156975291145
-Star "Unnamed Hapes Cluster 56 System" // system name
-{
-    RA         0.08727992695495802
-    Dec        24.58601566588674
-    Dist       383000004.4624798
-    Class      "K3 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5131.03, Y : 817.06, Z : -436.11312323240804
-Star "Unnamed Hapes Cluster 57 System" // system name
-{
-    RA         0.0872818274971658
-    Dec        24.585996576769784
-    Dist       383000436.15884215
-    Class      "K0 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5381.16, Y : 830.34, Z : 64.39026288146522
-Star "Unnamed Hapes Cluster 58 System" // system name
-{
-    RA         0.08727933284443881
-    Dec        24.585998563999134
-    Dist       382999935.65899116
-    Class      "M6 Iab" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5388.68, Y : 756.55, Z : 585.9733173371276
-Star "Unnamed Hapes Cluster 59 System" // system name
-{
-    RA         0.08727925777310724
-    Dec        24.585987525798238
-    Dist       382999414.07547903
-    Class      "K9 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5320.66, Y : 928.78, Z : 446.10304462779277
-Star "Unnamed Hapes Cluster 60 System" // system name
-{
-    RA         0.08727993616757466
-    Dec        24.586013290819572
-    Dist       382999553.94613814
-    Class      "G5 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5224, Y : 639.26, Z : -289.38741437448607
-Star "Unnamed Hapes Cluster 61 System" // system name
-{
-    RA         0.08728090027397689
-    Dec        24.585969978552598
-    Dist       383000289.4330626
-    Class      "M0 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5057.42, Y : 654.21, Z : 107.0131539885399
-Star "Unnamed Hapes Cluster 62 System" // system name
-{
-    RA         0.08728256154879514
-    Dec        24.58597221546237
-    Dist       382999893.0303669
-    Class      "K6 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5188.93, Y : 884.06, Z : 295.0764066000138
-Star "Unnamed Hapes Cluster 63 System" // system name
-{
-    RA         0.08728124995331177
-    Dec        24.586006600641053
-    Dist       382999704.9706141
-    Class      "M0 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5388.46, Y : 822.88, Z : -221.92463741742318
-Star "Unnamed Hapes Cluster 64 System" // system name
-{
-    RA         0.0872792600805637
-    Dec        24.58599744767244
-    Dist       383000221.9739365
-    Class      "M0 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5369, Y : 793.33, Z : -311.42462343527353
-Star "Unnamed Hapes Cluster 65 System" // system name
-{
-    RA         0.08727945417057384
-    Dec        24.585993026971494
-    Dist       383000311.4734224
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5202.47, Y : 644.22, Z : 107.70499268489255
-Star "Unnamed Hapes Cluster 66 System" // system name
-{
-    RA         0.08728111494206278
-    Dec        24.585970720985323
-    Dist       382999892.34039843
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5325.07, Y : 698.26, Z : -374.68593068318216
-Star "Unnamed Hapes Cluster 67 System" // system name
-{
-    RA         0.0872798922997195
-    Dec        24.585978804694452
-    Dist       383000374.73340213
-    Class      "M2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5096.03, Y : 912.47, Z : -458.50455520946775
-Star "Unnamed Hapes Cluster 68 System" // system name
-{
-    RA         0.08728217656018918
-    Dec        24.586010849808694
-    Dist       383000458.5505532
-    Class      "M4 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5184.8, Y : 910.94, Z : -77.32537418842264
-Star "Unnamed Hapes Cluster 69 System" // system name
-{
-    RA         0.08728129119275452
-    Dec        24.586010621378
-    Dist       383000077.37255144
-    Class      "M1 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5159.19, Y : 658.72, Z : 124.14080645484592
-Star "Unnamed Hapes Cluster 70 System" // system name
-{
-    RA         0.08728154657815487
-    Dec        24.58597289016521
-    Dist       382999875.90410465
-    Class      "M3 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5365.4, Y : 718.45, Z : -59.6406107063317
-Star "Unnamed Hapes Cluster 71 System" // system name
-{
-    RA         0.08727949003872777
-    Dec        24.585981825412386
-    Dist       383000059.6887948
-    Class      "K7 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5348.05, Y : 948.36, Z : 274.82129853689014
-Star "Unnamed Hapes Cluster 72 System" // system name
-{
-    RA         0.08727966302637474
-    Dec        24.586016219732773
-    Dist       382999725.2284226
-    Class      "M2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5123.73, Y : 784.29, Z : 444.6473276239278
-Star "Unnamed Hapes Cluster 73 System" // system name
-{
-    RA         0.0872819001836087
-    Dec        24.585991675473725
-    Dist       382999555.3980428
-    Class      "K3 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5250.89, Y : 643.1, Z : -296.98692457530404
-Star "Unnamed Hapes Cluster 74 System" // system name
-{
-    RA         0.08728063209706181
-    Dec        24.585970552997697
-    Dist       383000297.03296834
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5189.35, Y : 857.17, Z : -300.47518995206747
-Star "Unnamed Hapes Cluster 75 System" // system name
-{
-    RA         0.0872812458450591
-    Dec        24.58600257727041
-    Dist       383000300.52200544
-    Class      "M2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5396.24, Y : 814.94, Z : 74.18366595623024
-Star "Unnamed Hapes Cluster 76 System" // system name
-{
-    RA         0.08727918244784943
-    Dec        24.585996260211047
-    Dist       382999925.8656815
-    Class      "M3 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5267.4, Y : 661.94, Z : -8.248965854442645
-Star "Unnamed Hapes Cluster 77 System" // system name
-{
-    RA         0.08728046740078536
-    Dec        24.58597337172434
-    Dist       383000008.29537326
-    Class      "M6 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5210.46, Y : 665.11, Z : 21.373068110735176
-Star "Unnamed Hapes Cluster 78 System" // system name
-{
-    RA         0.08728103526823967
-    Dec        24.58597384598024
-    Dist       382999978.6725836
-    Class      "M2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5343.22, Y : 903.36, Z : -194.98537791842256
-Star "Unnamed Hapes Cluster 79 System" // system name
-{
-    RA         0.08727971126211798
-    Dec        24.586009487290962
-    Dist       383000195.0346724
-    Class      "M8 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5043.14, Y : 653.79, Z : -116.33308070919219
-Star "Unnamed Hapes Cluster 80 System" // system name
-{
-    RA         0.08728270399482844
-    Dec        24.5859721523885
-    Dist       383000116.3764101
-    Class      "G8 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5116.8, Y : 916.44, Z : 269.32262327139017
-Star "Unnamed Hapes Cluster 81 System" // system name
-{
-    RA         0.08728196932101813
-    Dec        24.586011444575853
-    Dist       382999730.7236833
-    Class      "M2 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5141.35, Y : 822.62, Z : -573.1929610439876
-Star "Unnamed Hapes Cluster 82 System" // system name
-{
-    RA         0.08728172459266817
-    Dec        24.58599740837186
-    Dist       383000573.23886114
-    Class      "M2 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5308.3, Y : 919.27, Z : 257.2943847553495
-Star "Unnamed Hapes Cluster 83 System" // system name
-{
-    RA         0.087280059462021
-    Dec        24.586011867922277
-    Dist       382999742.7545506
-    Class      "K1 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5222.74, Y : 679.93, Z : -83.7596059827049
-Star "Unnamed Hapes Cluster 84 System" // system name
-{
-    RA         0.08728091281217866
-    Dec        24.585976062897434
-    Dist       383000083.8055334
-    Class      "M3 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5282.56, Y : 944.92, Z : 115.98208573332977
-Star "Unnamed Hapes Cluster 85 System" // system name
-{
-    RA         0.0872803161906595
-    Dec        24.586015704926712
-    Dist       382999884.0666989
-    Class      "M3 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5078.7, Y : 631.25, Z : 592.1885823097978
-Star "Unnamed Hapes Cluster 86 System" // system name
-{
-    RA         0.08728234925581933
-    Dec        24.58596878123012
-    Dist       382999407.85505384
-    Class      "M4 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5053.4, Y : 840.4, Z : 423.3297710635193
-Star "Unnamed Hapes Cluster 87 System" // system name
-{
-    RA         0.08728260159926862
-    Dec        24.586000069365223
-    Dist       382999576.7150962
-    Class      "G0 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5138.66, Y : 890.41, Z : 108.78115958801504
-Star "Unnamed Hapes Cluster 88 System" // system name
-{
-    RA         0.08728175132916302
-    Dec        24.586007550364982
-    Dist       382999891.26523334
-    Class      "M8 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5078.7, Y : 909.69, Z : -184.45091033454082
-Star "Unnamed Hapes Cluster 89 System" // system name
-{
-    RA         0.08728234935852781
-    Dec        24.586010434254124
-    Dist       383000184.49665606
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5346.55, Y : 874.47, Z : -407.60332433960934
-Star "Unnamed Hapes Cluster 90 System" // system name
-{
-    RA         0.08727967808112742
-    Dec        24.586005165176513
-    Dist       383000407.65243745
-    Class      "M3 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5325.66, Y : 905.09, Z : -60.465809090162224
-Star "Unnamed Hapes Cluster 91 System" // system name
-{
-    RA         0.08727988637198805
-    Dec        24.58600974625376
-    Dist       383000060.5148727
-    Class      "M2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5125.48, Y : 750.95, Z : -571.5538523659125
-Star "Unnamed Hapes Cluster 92 System" // system name
-{
-    RA         0.08728188286619351
-    Dec        24.585986686748715
-    Dist       383000571.5989937
-    Class      "M7 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5207.55, Y : 887.34, Z : -250.79957114294274
-Star "Unnamed Hapes Cluster 93 System" // system name
-{
-    RA         0.08728106432703162
-    Dec        24.586007090677054
-    Dist       383000250.84687036
-    Class      "M2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5129.92, Y : 774.92, Z : -300.8455199395011
-Star "Unnamed Hapes Cluster 94 System" // system name
-{
-    RA         0.0872818385492869
-    Dec        24.585990272898798
-    Dist       383000300.89090186
-    Class      "M4 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5143.25, Y : 802.93, Z : -589.2721609549349
-Star "Unnamed Hapes Cluster 95 System" // system name
-{
-    RA         0.08728170564585414
-    Dec        24.585994462786303
-    Dist       383000589.3179352
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5295.44, Y : 690.98, Z : -419.33120220836724
-Star "Unnamed Hapes Cluster 96 System" // system name
-{
-    RA         0.08728018781019
-    Dec        24.585977715577698
-    Dist       383000419.3782092
-    Class      "F2 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5245.1, Y : 904.99, Z : -90.31085567213967
-Star "Unnamed Hapes Cluster 97 System" // system name
-{
-    RA         0.08728068981336072
-    Dec        24.586009731258635
-    Dist       383000090.3588068
-    Class      "M4 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5082.4, Y : 896.07, Z : 246.81369218229565
-Star "Unnamed Hapes Cluster 98 System" // system name
-{
-    RA         0.08728231240079441
-    Dec        24.586008397249365
-    Dist       382999753.2319948
-    Class      "G4 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5234.32, Y : 650.63, Z : -211.7345761862628
-Star "Unnamed Hapes Cluster 99 System" // system name
-{
-    RA         0.0872807973405038
-    Dec        24.5859716795574
-    Dist       383000211.7804477
-    Class      "M3 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5328.36, Y : 652.2, Z : 462.45657847759117
-Star "Unnamed Hapes Cluster 100 System" // system name
-{
-    RA         0.08727985937191729
-    Dec        24.585971915158098
-    Dist       382999537.5906013
-    Class      "M7 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5185.96, Y : 647.71, Z : 51.37303759695578
-Star "Unnamed Hapes Cluster 101 System" // system name
-{
-    RA         0.08728127960651678
-    Dec        24.58597124301902
-    Dist       382999948.6721549
-    Class      "M9 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5119.6, Y : 872.15, Z : 391.75052955258093
-Star "Unnamed Hapes Cluster 102 System" // system name
-{
-    RA         0.08728194137984137
-    Dec        24.586004819048828
-    Dist       382999608.2954645
-    Class      "M2 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5100.26, Y : 898.45, Z : 412.49239810804386
-Star "Unnamed Hapes Cluster 103 System" // system name
-{
-    RA         0.08728213425811521
-    Dec        24.586008753487324
-    Dist       382999587.5535451
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5361.95, Y : 847.8, Z : 98.79842105902298
-Star "Unnamed Hapes Cluster 104 System" // system name
-{
-    RA         0.08727952442398787
-    Dec        24.586001176009088
-    Dist       382999901.250699
+    RA         0.08728152654828383
+    Dec        24.5859770368722
+    Dist       382999996.2835713
     Class      "G6 III" // random
 }
 
@@ -4023,12 +2879,142 @@ Star "Unnamed Hapes Cluster 104 System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5113.57, Y : 757.85, Z : -483.7997299839698
-Star "Unnamed Hapes Cluster 105 System" // system name
+// X : 5175.06, Y : 662.95, Z : 1.921048764870413
+Star "Unnamed Hapes Cluster 17 System" // system name
 {
-    RA         0.08728200163461577
-    Dec        24.58598771906782
-    Dist       383000483.8447641
+    RA         0.08728138832059248
+    Dec        24.585973522828745
+    Dist       382999998.1241072
+    Class      "G4 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5348.99, Y : 849.69, Z : -0.6226843023706614
+Star "Unnamed Hapes Cluster 18 System" // system name
+{
+    RA         0.08727965368996701
+    Dec        24.586001458632364
+    Dist       383000000.67163783
+    Class      "M3 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5048.17, Y : 744.28, Z : -2.543247891240169
+Star "Unnamed Hapes Cluster 19 System" // system name
+{
+    RA         0.08728265381491258
+    Dec        24.585985689575093
+    Dist       383000002.58731234
+    Class      "M6 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5365.13, Y : 904.79, Z : -2.3864179299375596
+Star "Unnamed Hapes Cluster 20 System" // system name
+{
+    RA         0.08727949272348066
+    Dec        24.586009701443444
+    Dist       383000002.43603003
+    Class      "M9 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5346.98, Y : 742.37, Z : 4.303200853419899
+Star "Unnamed Hapes Cluster 21 System" // system name
+{
+    RA         0.0872796737353241
+    Dec        24.58598540385187
+    Dist       382999995.74490434
+    Class      "K3 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5396.4, Y : 796.52, Z : -2.494982856798127
+Star "Unnamed Hapes Cluster 22 System" // system name
+{
+    RA         0.0872791808629191
+    Dec        24.585993504539903
+    Dist       383000002.5441913
+    Class      "M6 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5344.89, Y : 720.01, Z : 3.133415092971303
+Star "Unnamed Hapes Cluster 23 System" // system name
+{
+    RA         0.08727969457938255
+    Dec        24.585982058854103
+    Dist       382999996.9144938
+    Class      "G9 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5061.5, Y : 804.2, Z : 3.824739487716881
+Star "Unnamed Hapes Cluster 24 System" // system name
+{
+    RA         0.08728252087190867
+    Dec        24.58599465345468
+    Dist       382999996.21995544
+    Class      "M7 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5276.39, Y : 683.04, Z : -3.3869461020046554
+Star "Unnamed Hapes Cluster 25 System" // system name
+{
+    RA         0.08728037774144952
+    Dec        24.5859765282334
+    Dist       383000003.4336317
+    Class      "M9 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5026.1, Y : 637.91, Z : -2.5214061254991904
+Star "Unnamed Hapes Cluster 26 System" // system name
+{
+    RA         0.0872828739224546
+    Dec        24.58596977690664
+    Dist       383000002.56439644
+    Class      "G0 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5029.54, Y : 747.6, Z : 3.8793346387054584
+Star "Unnamed Hapes Cluster 27 System" // system name
+{
+    RA         0.08728283961396091
+    Dec        24.585986186245464
+    Dist       382999996.16450965
     Class      "M3 V" // random
 }
 
@@ -4036,12 +3022,324 @@ Star "Unnamed Hapes Cluster 105 System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5359.63, Y : 781.9, Z : 198.87185163727645
-Star "Unnamed Hapes Cluster 106 System" // system name
+// X : 5234.67, Y : 852.52, Z : 3.8265935418207278
+Star "Unnamed Hapes Cluster 28 System" // system name
 {
-    RA         0.08727954754774857
-    Dec        24.58599131765601
-    Dist       382999801.176729
+    RA         0.08728079382051841
+    Dec        24.58600188199801
+    Dist       382999996.22080255
+    Class      "M3 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5139.6, Y : 756.58, Z : 2.686389757337314
+Star "Unnamed Hapes Cluster 29 System" // system name
+{
+    RA         0.087281741968593
+    Dec        24.585987529628206
+    Dist       382999997.3589833
+    Class      "K5 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5209.19, Y : 617.91, Z : 0.9086664039518944
+Star "Unnamed Hapes Cluster 30 System" // system name
+{
+    RA         0.08728104793692402
+    Dec        24.585966784963635
+    Dist       382999999.13662624
+    Class      "M6 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5309.15, Y : 948.23, Z : 1.2725722588212065
+Star "Unnamed Hapes Cluster 31 System" // system name
+{
+    RA         0.08728005102022747
+    Dec        24.586016199956063
+    Dist       382999998.77660656
+    Class      "K3 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5140.08, Y : 695.39, Z : -3.2845324092344983
+Star "Unnamed Hapes Cluster 32 System" // system name
+{
+    RA         0.0872817371822774
+    Dec        24.585978375760586
+    Dist       383000003.3294554
+    Class      "M4 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5121.16, Y : 896.73, Z : 2.245160214592266
+Star "Unnamed Hapes Cluster 33 System" // system name
+{
+    RA         0.08728192587364425
+    Dec        24.586008495694408
+    Dist       382999997.8010482
+    Class      "K0 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5377.38, Y : 769.75, Z : -4.592556159474138
+Star "Unnamed Hapes Cluster 34 System" // system name
+{
+    RA         0.087279370552633
+    Dec        24.58598949981688
+    Dist       383000004.6412934
+    Class      "M4 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5130.72, Y : 722.38, Z : -0.6887752004896921
+Star "Unnamed Hapes Cluster 35 System" // system name
+{
+    RA         0.08728183053066717
+    Dec        24.585982413395534
+    Dist       383000000.7337728
+    Class      "M9 VI" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5242.21, Y : 903.58, Z : 4.866167968885147
+Star "Unnamed Hapes Cluster 36 System" // system name
+{
+    RA         0.08728071862278178
+    Dec        24.58600952043927
+    Dist       382999995.1817324
+    Class      "M3 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5191.89, Y : 894.74, Z : -4.492662353076407
+Star "Unnamed Hapes Cluster 37 System" // system name
+{
+    RA         0.0872812204732483
+    Dec        24.58600819798774
+    Dist       383000004.5398073
+    Class      "M1 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5210.24, Y : 762.56, Z : 1.3103353719268025
+Star "Unnamed Hapes Cluster 38 System" // system name
+{
+    RA         0.08728103746505601
+    Dec        24.585988424218723
+    Dist       382999998.7360372
+    Class      "M5 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5359.17, Y : 732.6, Z : -3.4368444203709303
+Star "Unnamed Hapes Cluster 39 System" // system name
+{
+    RA         0.08727955216363485
+    Dec        24.585983942277224
+    Dist       383000003.4850468
+    Class      "G2 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5347.03, Y : 887.96, Z : -0.21946740781790908
+Star "Unnamed Hapes Cluster 40 System" // system name
+{
+    RA         0.08727967323729602
+    Dec        24.58600718372286
+    Dist       383000000.2686933
+    Class      "M6 II" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5378.01, Y : 754.83, Z : -1.1603962798278133
+Star "Unnamed Hapes Cluster 41 System" // system name
+{
+    RA         0.08727936426906434
+    Dec        24.585987267828532
+    Dist       383000001.2090296
+    Class      "M1 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5013.82, Y : 646.59, Z : -0.736325094344906
+Star "Unnamed Hapes Cluster 42 System" // system name
+{
+    RA         0.08728299639257274
+    Dec        24.58597107541344
+    Dist       383000000.77921736
+    Class      "M5 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5177.18, Y : 896.23, Z : 0.9250754435152739
+Star "Unnamed Hapes Cluster 43 System" // system name
+{
+    RA         0.08728136717763656
+    Dec        24.586008420894178
+    Dist       382999999.1218822
+    Class      "M8 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5196.9, Y : 766.21, Z : 4.135768323459413
+Star "Unnamed Hapes Cluster 44 System" // system name
+{
+    RA         0.08728117050657117
+    Dec        24.5859889702522
+    Dist       382999995.9104507
+    Class      "M1 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5137.38, Y : 791.03, Z : 3.617191151875602
+Star "Unnamed Hapes Cluster 45 System" // system name
+{
+    RA         0.08728176410887428
+    Dec        24.585992683257516
+    Dist       382999996.42841345
+    Class      "M9 II" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5055.31, Y : 818.1, Z : 2.5217733293326647
+Star "Unnamed Hapes Cluster 46 System" // system name
+{
+    RA         0.08728258260591461
+    Dec        24.585996732856163
+    Dist       382999997.52294666
+    Class      "M1 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5330.85, Y : 946.25, Z : -4.66180287640086
+Star "Unnamed Hapes Cluster 47 System" // system name
+{
+    RA         0.08727983460357182
+    Dec        24.5860159037462
+    Dist       383000004.71126723
+    Class      "K5 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5162.89, Y : 897.07, Z : -0.07444790654750832
+Star "Unnamed Hapes Cluster 48 System" // system name
+{
+    RA         0.08728150969416625
+    Dec        24.58600854655476
+    Dist       383000000.1212193
+    Class      "M7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5298.17, Y : 959.08, Z : 2.640812095681609
+Star "Unnamed Hapes Cluster 49 System" // system name
+{
+    RA         0.08728016052528867
+    Dec        24.58601782308881
+    Dist       382999997.4083021
+    Class      "M0 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5251.95, Y : 656.22, Z : -2.845835241149355
+Star "Unnamed Hapes Cluster 50 System" // system name
+{
+    RA         0.08728062148529869
+    Dec        24.585972516033483
+    Dist       383000002.8919888
+    Class      "M6 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5344.55, Y : 856.35, Z : -2.8904968906644344
+Star "Unnamed Hapes Cluster 51 System" // system name
+{
+    RA         0.08727969797109386
+    Dec        24.58600245494797
+    Dist       383000002.93944037
+    Class      "G7 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5353.54, Y : 907.33, Z : -3.8231561637115776
+Star "Unnamed Hapes Cluster 52 System" // system name
+{
+    RA         0.08727960831255481
+    Dec        24.58601008141897
+    Dist       383000003.87262625
     Class      "M9 III" // random
 }
 
@@ -4049,12 +3347,493 @@ Star "Unnamed Hapes Cluster 106 System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5077.11, Y : 617.17, Z : 411.3447320835661
-Star "Unnamed Hapes Cluster 107 System" // system name
+// X : 5033.51, Y : 680.99, Z : -0.5698585960301781
+Star "Unnamed Hapes Cluster 53 System" // system name
 {
-    RA         0.08728236513707008
-    Dec        24.585966674702235
-    Dist       382999588.69878167
+    RA         0.08728280002111553
+    Dec        24.585976221561957
+    Dist       383000000.6132602
+    Class      "M6 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5368.46, Y : 838.43, Z : 4.02161470987641
+Star "Unnamed Hapes Cluster 54 System" // system name
+{
+    RA         0.08727945951197659
+    Dec        24.585999774171754
+    Dist       382999996.02752376
+    Class      "M8 II" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5386.54, Y : 913.17, Z : -0.7095331388101851
+Star "Unnamed Hapes Cluster 55 System" // system name
+{
+    RA         0.08727927919798323
+    Dec        24.586010955071103
+    Dist       383000000.7595123
+    Class      "M6 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5321.59, Y : 944.66, Z : -0.27598548007293644
+Star "Unnamed Hapes Cluster 56 System" // system name
+{
+    RA         0.08727992695438473
+    Dec        24.58601566589171
+    Dist       383000000.32530826
+    Class      "B8 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5131.03, Y : 817.06, Z : 0.11702921391757659
+Star "Unnamed Hapes Cluster 57 System" // system name
+{
+    RA         0.08728182743888124
+    Dec        24.585996577272162
+    Dist       382999999.9286898
+    Class      "M8 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5381.16, Y : 830.34, Z : -0.7757542220522549
+Star "Unnamed Hapes Cluster 58 System" // system name
+{
+    RA         0.08727933285357008
+    Dec        24.58599856392375
+    Dist       383000000.8250083
+    Class      "M9 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5388.68, Y : 756.55, Z : 1.4669233146852259
+Star "Unnamed Hapes Cluster 59 System" // system name
+{
+    RA         0.08727925785512468
+    Dec        24.58598752513891
+    Dist       382999998.581873
+    Class      "K8 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5320.66, Y : 928.78, Z : -0.4194565649511439
+Star "Unnamed Hapes Cluster 60 System" // system name
+{
+    RA         0.0872799362294394
+    Dec        24.58601329028585
+    Dist       383000000.46863925
+    Class      "M2 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5224, Y : 639.26, Z : -2.1812766415763205
+Star "Unnamed Hapes Cluster 61 System" // system name
+{
+    RA         0.08728090023490807
+    Dec        24.58596997886341
+    Dist       383000002.22692484
+    Class      "M6 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5057.42, Y : 654.21, Z : -1.417322710597758
+Star "Unnamed Hapes Cluster 62 System" // system name
+{
+    RA         0.08728256156307468
+    Dec        24.585972215344395
+    Dist       383000001.4608435
+    Class      "M4 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5188.93, Y : 884.06, Z : 0.33553894991802746
+Star "Unnamed Hapes Cluster 63 System" // system name
+{
+    RA         0.08728124999313644
+    Dec        24.586006600293906
+    Dist       382999999.71148175
+    Class      "M1 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5388.46, Y : 822.88, Z : 2.3404904218019675
+Star "Unnamed Hapes Cluster 64 System" // system name
+{
+    RA         0.08727926004909636
+    Dec        24.585997447931224
+    Dist       382999997.70880866
+    Class      "M0 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5369, Y : 793.33, Z : 1.809984425419417
+Star "Unnamed Hapes Cluster 65 System" // system name
+{
+    RA         0.08727945412678166
+    Dec        24.585993027329323
+    Dist       382999998.23881453
+    Class      "M0 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5202.47, Y : 644.22, Z : 1.0905587973306572
+Star "Unnamed Hapes Cluster 66 System" // system name
+{
+    RA         0.08728111495650585
+    Dec        24.58597072086974
+    Dist       382999998.9548323
+    Class      "M0 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5325.07, Y : 698.26, Z : 4.253245363883236
+Star "Unnamed Hapes Cluster 67 System" // system name
+{
+    RA         0.08727989224717488
+    Dec        24.585978805113267
+    Dist       382999995.79422617
+    Class      "M6 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5096.03, Y : 912.47, Z : -2.168638166874249
+Star "Unnamed Hapes Cluster 68 System" // system name
+{
+    RA         0.08728217649963418
+    Dec        24.586010850351233
+    Dist       383000002.2146362
+    Class      "K2 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5184.8, Y : 910.94, Z : -3.2968244417555557
+Star "Unnamed Hapes Cluster 69 System" // system name
+{
+    RA         0.08728129118275993
+    Dec        24.58601062146597
+    Dist       383000003.3440017
+    Class      "M7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5159.19, Y : 658.72, Z : -1.5819050720863892
+Star "Unnamed Hapes Cluster 70 System" // system name
+{
+    RA         0.08728154659504485
+    Dec        24.585972890028195
+    Dist       383000001.6268161
+    Class      "M3 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5365.4, Y : 718.45, Z : 3.8456798406169526
+Star "Unnamed Hapes Cluster 71 System" // system name
+{
+    RA         0.08727949002985794
+    Dec        24.585981825483053
+    Dist       382999996.2025043
+    Class      "M9 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5348.05, Y : 948.36, Z : -0.9040513764205995
+Star "Unnamed Hapes Cluster 72 System" // system name
+{
+    RA         0.08727966306477254
+    Dec        24.586016219401095
+    Dist       383000000.9537725
+    Class      "M3 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5123.73, Y : 784.29, Z : 0.6459275701578946
+Star "Unnamed Hapes Cluster 73 System" // system name
+{
+    RA         0.08728190024284731
+    Dec        24.585991674968078
+    Dist       382999999.3994428
+    Class      "K8 II" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5250.89, Y : 643.1, Z : -0.8849435090489708
+Star "Unnamed Hapes Cluster 74 System" // system name
+{
+    RA         0.08728063205657555
+    Dec        24.58597055331858
+    Dist       383000000.9309873
+    Class      "M6 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5189.35, Y : 857.17, Z : -2.918094546703144
+Star "Unnamed Hapes Cluster 75 System" // system name
+{
+    RA         0.08728124580485071
+    Dec        24.58600257761775
+    Dist       383000002.96491015
+    Class      "M1 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5396.24, Y : 814.94, Z : 1.8912762417171578
+Star "Unnamed Hapes Cluster 76 System" // system name
+{
+    RA         0.08727918245800766
+    Dec        24.585996260127853
+    Dist       382999998.1580712
+    Class      "A7 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5267.4, Y : 661.94, Z : 1.1323561079605993
+Star "Unnamed Hapes Cluster 77 System" // system name
+{
+    RA         0.0872804673994986
+    Dec        24.585973371734575
+    Dist       382999998.91405135
+    Class      "M4 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5210.46, Y : 665.11, Z : -0.8351986690306781
+Star "Unnamed Hapes Cluster 78 System" // system name
+{
+    RA         0.08728103527125286
+    Dec        24.585973845955984
+    Dist       383000000.8808503
+    Class      "M1 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5343.22, Y : 903.36, Z : -4.9501578151391525
+Star "Unnamed Hapes Cluster 79 System" // system name
+{
+    RA         0.08727971123567742
+    Dec        24.58600948751622
+    Dist       383000004.99945235
+    Class      "M0 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5043.14, Y : 653.79, Z : 4.0949599166952275
+Star "Unnamed Hapes Cluster 80 System" // system name
+{
+    RA         0.08728270397901369
+    Dec        24.58597215251951
+    Dist       382999995.94836956
+    Class      "M0 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5116.8, Y : 916.44, Z : -1.2916691533689164
+Star "Unnamed Hapes Cluster 81 System" // system name
+{
+    RA         0.0872819693570746
+    Dec        24.586011444253696
+    Dist       383000001.3379756
+    Class      "F5 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5141.35, Y : 822.62, Z : 3.55541984812994
+Star "Unnamed Hapes Cluster 82 System" // system name
+{
+    RA         0.08728172451545405
+    Dec        24.585997409037315
+    Dist       382999996.4904803
+    Class      "K7 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5308.3, Y : 919.27, Z : -3.903947089225394
+Star "Unnamed Hapes Cluster 83 System" // system name
+{
+    RA         0.08728005949812538
+    Dec        24.58601186761104
+    Dist       383000003.95288247
+    Class      "M1 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5222.74, Y : 679.93, Z : -4.04983733311882
+Star "Unnamed Hapes Cluster 84 System" // system name
+{
+    RA         0.0872809128013383
+    Dec        24.585976062984958
+    Dist       383000004.09576476
+    Class      "M9 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5282.56, Y : 944.92, Z : -1.5892318828834995
+Star "Unnamed Hapes Cluster 85 System" // system name
+{
+    RA         0.0872803162068321
+    Dec        24.586015704785442
+    Dist       383000001.6380165
+    Class      "M5 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5078.7, Y : 631.25, Z : 2.1504250489762633
+Star "Unnamed Hapes Cluster 86 System" // system name
+{
+    RA         0.08728234933385033
+    Dec        24.585968780593433
+    Dist       382999997.893211
+    Class      "M7 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5053.4, Y : 840.4, Z : 0.11234244501401136
+Star "Unnamed Hapes Cluster 87 System" // system name
+{
+    RA         0.08728260165495917
+    Dec        24.58600006887397
+    Dist       382999999.93252474
+    Class      "K5 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5138.66, Y : 890.41, Z : 0.712218785023464
+Star "Unnamed Hapes Cluster 88 System" // system name
+{
+    RA         0.08728175134362358
+    Dec        24.58600755023743
+    Dist       382999999.33417416
+    Class      "F8 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5078.7, Y : 909.69, Z : 2.6188556760534807
+Star "Unnamed Hapes Cluster 89 System" // system name
+{
+    RA         0.08728234933378838
+    Dec        24.58601043447633
+    Dist       382999997.4268901
+    Class      "K2 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5346.55, Y : 874.47, Z : -2.2798599596861036
+Star "Unnamed Hapes Cluster 90 System" // system name
+{
+    RA         0.08727967802469759
+    Dec        24.586005165652384
+    Dist       383000002.3289731
     Class      "M2 V" // random
 }
 
@@ -4062,24 +3841,245 @@ Star "Unnamed Hapes Cluster 107 System" // system name
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5339.95, Y : 863.02, Z : -399.43617503758117
-Star "Unnamed Hapes Cluster 108 System" // system name
+// X : 5325.66, Y : 905.09, Z : 1.19959903525963
+Star "Unnamed Hapes Cluster 91 System" // system name
 {
-    RA         0.08727974390274937
-    Dec        24.586003452298396
-    Dist       383000399.48510635
-    Class      "K4 III" // random
+    RA         0.08727988636343642
+    Dec        24.586009746326898
+    Dist       382999998.8494646
+    Class      "K8 Iab" // random
 }
 
 // 
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
 // Grid location : O9
-// X : 5306.56, Y : 674.64, Z : -176.52338612413735
+// X : 5125.48, Y : 750.95, Z : -2.4155566077175084
+Star "Unnamed Hapes Cluster 92 System" // system name
+{
+    RA         0.08728188279023341
+    Dec        24.585986687389457
+    Dist       383000002.460698
+    Class      "G1 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5207.55, Y : 887.34, Z : -4.991481419428134
+Star "Unnamed Hapes Cluster 93 System" // system name
+{
+    RA         0.08728106429369949
+    Dec        24.586007090966884
+    Dist       383000005.0387806
+    Class      "M9 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5129.92, Y : 774.92, Z : -0.07171763564603229
+Star "Unnamed Hapes Cluster 94 System" // system name
+{
+    RA         0.08728183850910928
+    Dec        24.585990273240228
+    Dist       383000000.11709964
+    Class      "M1 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5143.25, Y : 802.93, Z : 1.3646984422691224
+Star "Unnamed Hapes Cluster 95 System" // system name
+{
+    RA         0.08728170556675144
+    Dec        24.58599446346324
+    Dist       382999998.6810758
+    Class      "M0 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5295.44, Y : 690.98, Z : -4.738862774691903
+Star "Unnamed Hapes Cluster 96 System" // system name
+{
+    RA         0.08728018775302152
+    Dec        24.58597771603474
+    Dist       383000004.7858698
+    Class      "M0 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5245.1, Y : 904.99, Z : -1.5441934382719213
+Star "Unnamed Hapes Cluster 97 System" // system name
+{
+    RA         0.08728068980123696
+    Dec        24.586009731363912
+    Dist       383000001.5921446
+    Class      "M5 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5082.4, Y : 896.07, Z : 1.1411983659169325
+Star "Unnamed Hapes Cluster 98 System" // system name
+{
+    RA         0.08728231243330759
+    Dec        24.58600839695886
+    Dist       382999998.9044886
+    Class      "M5 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5234.32, Y : 650.63, Z : 3.7324197957649297
+Star "Unnamed Hapes Cluster 99 System" // system name
+{
+    RA         0.08728079731113579
+    Dec        24.58597167979153
+    Dist       382999996.3134518
+    Class      "M1 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5328.36, Y : 652.2, Z : 1.9055847673059354
+Star "Unnamed Hapes Cluster 100 System" // system name
+{
+    RA         0.087279859435818
+    Dec        24.585971914657364
+    Dist       382999998.141595
+    Class      "M1 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5185.96, Y : 647.71, Z : -3.3336574885012915
+Star "Unnamed Hapes Cluster 101 System" // system name
+{
+    RA         0.08728127961390439
+    Dec        24.585971242959637
+    Dist       383000003.37885004
+    Class      "M2 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5119.6, Y : 872.15, Z : 1.0562661838768959
+Star "Unnamed Hapes Cluster 102 System" // system name
+{
+    RA         0.08728194143192572
+    Dec        24.58600481859048
+    Dist       382999998.98972785
+    Class      "M7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5100.26, Y : 898.45, Z : 2.4022648245241474
+Star "Unnamed Hapes Cluster 103 System" // system name
+{
+    RA         0.08728213431257875
+    Dec        24.586008753002012
+    Dist       382999997.6436783
+    Class      "M7 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5361.95, Y : 847.8, Z : -1.9076014254641125
+Star "Unnamed Hapes Cluster 104 System" // system name
+{
+    RA         0.08727952443804875
+    Dec        24.586001175891905
+    Dist       383000001.9567215
+    Class      "M3 II" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5113.57, Y : 757.85, Z : -1.3392451973836272
+Star "Unnamed Hapes Cluster 105 System" // system name
+{
+    RA         0.08728200157037375
+    Dec        24.58598771961228
+    Dist       383000001.3842794
+    Class      "G2 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5359.63, Y : 781.9, Z : 3.9585969244792896
+Star "Unnamed Hapes Cluster 106 System" // system name
+{
+    RA         0.08727954757495116
+    Dec        24.585991317434218
+    Dist       382999996.0899837
+    Class      "M4 II" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5077.11, Y : 617.17, Z : -3.858169019872688
+Star "Unnamed Hapes Cluster 107 System" // system name
+{
+    RA         0.08728236519196235
+    Dec        24.585966674256486
+    Dist       383000003.90168273
+    Class      "M5 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5339.95, Y : 863.02, Z : 0.0850531401928496
+Star "Unnamed Hapes Cluster 108 System" // system name
+{
+    RA         0.08727974384719599
+    Dec        24.58600345276567
+    Dist       382999999.9638782
+    Class      "K2 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5306.56, Y : 674.64, Z : -3.4640023907859807
 Star "Unnamed Hapes Cluster 109 System" // system name
 {
-    RA         0.08728007687526876
-    Dec        24.58597527142603
-    Dist       383000176.57042694
-    Class      "G8 V" // random
+    RA         0.08728007685135533
+    Dec        24.585975271615705
+    Dist       383000003.5110432
+    Class      "M5 V" // random
 }
