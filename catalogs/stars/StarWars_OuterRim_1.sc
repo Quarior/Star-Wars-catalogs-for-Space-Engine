@@ -311,7 +311,24 @@ Star "Althir System" // system name
     RA         0.0872592319753172
     Dec        24.586581872120433
     Dist       383000089.2752794
-    Class      "M0 IV" // random
+    Class      "G0 V"
+	
+	Luminosity      13.5519
+	MassSol         2.71805
+	RadSol          15.5678
+	Teff            3800
+	
+	Age             0.0236427
+
+	InertiaMoment   0.0503665
+
+	RotationPeriod  2885.41
+	Obliquity       196.675
+	EqAscendNode    263.565
+
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      2
 }
 
 // http://starwars.wikia.com/wiki/Altratonne
