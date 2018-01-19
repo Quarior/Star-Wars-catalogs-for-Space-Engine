@@ -15,7 +15,7 @@ Planet	"Dellalt/Dellalt Planet/Dellalt System 6"
 
 	Obliquity       -2.03738
 	EqAscendNode    -45.529
-	TidalLocked     true
+	TidalLocked     false
 
 	RotationPeriod  23.8 // from wookieepedia
 	AlbedoBond      0.320772
