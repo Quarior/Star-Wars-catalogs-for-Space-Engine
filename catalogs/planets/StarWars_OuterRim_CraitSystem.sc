@@ -8,105 +8,118 @@
 Planet	"Crait/Crait System 5"
 {
 	ParentBody     "Crait System"
-	Class	       "Desert"
+	Class	       "Terra"
 
 	Mass            0.8
 	Radius          3381.18
 	InertiaMoment   0.329844
+	
+	Oblateness      0.00210191
 
 	RotationPeriod  27 // According to wookieepedia
 	Obliquity       -1.61711
 	EqAscendNode    154.712
 
-	AlbedoBond      0.279529
-	AlbedoGeom      0.335435
-	Brightness      2
-	Color          (0.558 0.521 0.452)
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      3.5
+	Color          (0.965 0.989 1.027)
+	
+	Life
+	{
+		Class   "Organic"
+		Type    "Multicellular"
+		Biome   "Terrestrial"
+		Panspermia "false"
+	}
 
 	Surface
 	{
-		SurfStyle       0.516486
-		OceanStyle      0.617427
-		Randomize      (-0.014, -0.344, 0.745)
-		colorDistMagn   0.0539277
-		colorDistFreq   464.235
-		detailScale     11268.6
-		colorConversion true
-		seaLevel        0.113176
-		snowLevel       2
-		tropicLatitude  0.0123524
-		icecapLatitude  0.818428
-		icecapHeight    0.130955
+		SurfStyle       0.642063
+		OceanStyle      0.547619
+		Randomize      (-1.048, 0.889, 0.095)
+		colorDistMagn   0.0451947
+		colorDistFreq   190.711
+		detailScale     4077.93
+		colorConversion false
+		drivenDarkening 0
+		seaLevel        0.920635
+		snowLevel       1
+		tropicLatitude  0.994444
+		icecapLatitude  1
+		icecapHeight    0.110747
 		climatePole     0.9375
-		climateTropic   0.3125
+		climateTropic   0.269841
 		climateEquator  0.6875
 		heightTempGrad  0.625
 		tropicWidth     0.07
-		mainFreq        0.881761
-		venusFreq       0.982448
-		venusMagn       0.435427
-		mareFreq        0.844517
-		mareDensity     0.0252649
-		terraceProb     0.182022
-		erosion         0
-		montesMagn      0.222409
-		montesFreq      224.17
-		montesSpiky     0.957221
-		montesFraction  0.812145
-		dunesMagn       0.0691974
-		dunesFreq       42.8915
-		dunesFraction   0.19696
-		hillsMagn       0.12593
-		hillsFreq       622.324
-		hillsFraction   0
+		mainFreq        0.873016
+		venusFreq       1
+		venusMagn       0.396825
+		mareFreq        0.732335
+		mareDensity     0.174603
+		terraceProb     0.691478
+		erosion         0.52381
+		montesMagn      0.0796978
+		montesFreq      62.2933
+		montesSpiky     0.934062
+		montesFraction  0.851065
+		dunesMagn       0.15873
+		dunesFreq       1.5873
+		dunesFraction   0.571246
+		hillsMagn       1.11111
+		hillsFreq       170.908
+		hillsFraction   0.893872
 		hills2Fraction  0
-		riversMagn      51.5787
-		riversFreq      3.37727
-		riversSin       6.34535
+		riversMagn      68.1429
+		riversFreq      3.23887
+		riversSin       4.12902
 		riversOctaves   0
-		canyonsMagn     0.0056713
-		canyonsFreq     119.618
-		canyonFraction  0
-		cracksMagn      0.0630784
-		cracksFreq      0.383815
+		canyonsMagn     2.38095
+		canyonsFreq     66.6667
+		canyonFraction  0.674603
+		cracksMagn      0.0694606
+		cracksFreq      0
 		cracksOctaves   0
-		craterMagn      0.527678
-		craterFreq      9.70588
-		craterDensity   0.345978
-		craterOctaves   4.79842
-		volcanoMagn     0.719033
-		volcanoFreq     0.75279
-		volcanoDensity  0.268047
+		craterMagn      0
+		craterFreq      0
+		craterDensity   0
+		craterOctaves   11
+		craterRayedFactor 0
+		volcanoMagn     0.231993
+		volcanoFreq     0.717414
+		volcanoDensity  0.202994
 		volcanoOctaves  3
-		volcanoActivity 0.196328
-		volcanoFlows    0.734908
-		volcanoRadius   0.466646
-		volcanoTemp     1294.23
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		stripeZones     2.30204
-		stripeTwist     0.635345
-		cycloneMagn     2.26946
-		cycloneFreq     1.08764
-		cycloneDensity  0.378357
-		cycloneOctaves  2
-		colorSea       (0.640, 0.620, 0.420, 0.000)
-		colorShelf     (0.680, 0.620, 0.470, 0.000)
-		colorBeach     (0.740, 0.730, 0.610, 0.000)
-		colorDesert    (0.450, 0.420, 0.380, 0.000)
-		colorLowland   (0.530, 0.480, 0.400, 0.000)
-		colorUpland    (0.600, 0.540, 0.420, 0.000)
-		colorRock      (0.170, 0.160, 0.160, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 0.769)
-		colorLowPlants (0.530, 0.480, 0.400, 0.000)
-		colorUpPlants  (0.600, 0.540, 0.420, 0.000)
-		BumpHeight      20
-		DiffMapAlpha   "Ice"
-		SpecBrightWater 0.5
-		SpecBrightIce   0.5
-		SpecularPower   30
-		Hapke           0
+		volcanoActivity 0.412698
+		volcanoFlows    0.355648
+		volcanoRadius   0.185912
+		volcanoTemp     1360.48
+		lavaCoverTidal  0.0396825
+		lavaCoverSun    0.0952381
+		lavaCoverYoung  0.0396825
+		stripeZones     0
+		stripeFluct     0
+		stripeTwist     0
+		cycloneMagn     0
+		cycloneFreq     0
+		cycloneDensity  0
+		cycloneOctaves  0
+		colorSea       (0.040, 0.100, 0.200, 1.000)
+		colorShelf     (0.150, 0.480, 0.460, 1.000)
+		colorBeach     (0.780, 0.750, 0.740, 0.000)
+		colorDesert    (0.470, 0.420, 0.390, 0.000)
+		colorLowland   (0.270, 0.250, 0.230, 0.000)
+		colorUpland    (0.490, 0.480, 0.460, 0.000)
+		colorRock      (0.260, 0.240, 0.230, 0.000)
+		colorSnow      (1.000, 1.000, 1.000, 1.308)
+		colorLowPlants (0.270, 0.250, 0.230, 0.000)
+		colorUpPlants  (0.490, 0.480, 0.460, 0.000)
+		BumpHeight      30.9524
+		DiffMapAlpha   "Water"
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   55
+		Hapke           1
 		SpotBright      4
 		SpotWidth       0.05
 		DayAmbient      0.07
@@ -138,7 +151,7 @@ Planet	"Crait/Crait System 5"
 		Height          74.1252
 		Density         1
 		Pressure        1
-		Greenhouse      61.9048
+		Greenhouse      19.0476
 		Bright          10
 		Opacity         1
 		SkyLight        3.33333
