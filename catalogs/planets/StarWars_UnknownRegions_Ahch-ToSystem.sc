@@ -48,30 +48,30 @@ Planet	"Ahch-To/Ahch-To System 2"
 		icecapLatitude  0.809524
 		icecapHeight    0.888603
 		climatePole     0.9375
-		climateTropic   0.3125
+		climateTropic   0.4125
 		climateEquator  0.6875
 		heightTempGrad  0
 		tropicWidth     0.07
-		mainFreq        7
+		mainFreq        50
 		venusFreq       1.88889
 		venusMagn       0.238095
 		mareFreq        6.05376
 		mareDensity     0.0599755
 		terraceProb     0.446393
 		erosion         0.72403
-		montesMagn      0.334921
-		montesFreq      29.3651
-		montesSpiky     0.652381
+		montesMagn      0.134921
+		montesFreq      69.3651
+		montesSpiky     0.452381
 		montesFraction  0.861905
 		dunesMagn       0.0593283
 		dunesFreq       54.5411
 		dunesFraction   0.390908
-		hillsMagn       3.4127
-		hillsFreq       152.381
-		hillsFraction   0.71568
-		hills2Fraction  0.308748
-		riversMagn      61.1893
-		riversFreq      3.78733
+		hillsMagn       2.4127
+		hillsFreq       62.381
+		hillsFraction   0.31568
+		hills2Fraction  0.708748
+		riversMagn      5.1893
+		riversFreq      1.78733
 		riversSin       4.50243
 		riversOctaves   2
 		canyonsMagn     0.0323704
@@ -106,7 +106,7 @@ Planet	"Ahch-To/Ahch-To System 2"
 		colorSea       (0.040, 0.100, 0.200, 1.000)
 		colorShelf     (0.150, 0.480, 0.460, 1.000)
 		colorBeach     (0.820, 0.730, 0.570, 0.000)
-		colorDesert    (0.420, 0.360, 0.220, 0.000)
+		colorDesert    (0.380, 0.320, 0.220, 0.000)
 		colorLowland   (0.220, 0.230, 0.220, 0.000)
 		colorUpland    (0.620, 0.620, 0.620, 0.000)
 		colorRock      (0.100, 0.100, 0.100, 0.000)

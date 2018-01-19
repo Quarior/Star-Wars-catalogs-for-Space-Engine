@@ -4,7 +4,6 @@
 // Grid location : S5
 // X : 11595.67, Y : 6119.69, Z : 208.14891304406
 
-// TODO : remove "water spikes" on the sea
 Planet	"Tion/Proper Tion/Tion System 5"
 {
 	ParentBody     "Tion System"
@@ -255,7 +254,7 @@ Moon	"Tion's Moon 1/Tion System 5.1"
 	Atmosphere
 	{
 		Model          "Earth"
-		Height          964.111
+		Height          64.111
 		Density         100
 		Pressure        0.8
 		Greenhouse      83.7629
@@ -353,7 +352,7 @@ Moon	"Tion's Moon 2/Tion System 5.2"
 	Atmosphere
 	{
 		Model          "Earth"
-		Height          964.111
+		Height          64.111
 		Density         100
 		Pressure        0.8
 		Greenhouse      83.7629
@@ -449,7 +448,7 @@ Moon	"Tion's Moon 3/Tion System 5.3"
 	Atmosphere
 	{
 		Model          "Earth"
-		Height          964.111
+		Height          64.111
 		Density         100
 		Pressure        0.8
 		Greenhouse      83.7629
