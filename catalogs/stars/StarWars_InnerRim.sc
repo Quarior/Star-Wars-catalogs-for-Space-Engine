@@ -189,12 +189,12 @@ Star "Polith/Polith System" // Star name / system name
 // Sector : Japrael Sector
 // Grid location : O9
 // X : 5559.23, Y : 261.08, Z : 18.110478964135723
-Star "Prael/Japrael System" // Star name / system name
+Star "Prael/Japrael System/Onderon System" //
 {
     RA         0.08727755693100406
     Dec        24.58591340416234
     Dist       382999981.9373394
-    Class      "K1 III" // random
+    Class      "K1 III"
 }
 
 // http://starwars.wikia.com/wiki/Tala_system
