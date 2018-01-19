@@ -2488,12 +2488,31 @@ Star "Dernatine System" // system name
 // Sector : Tion Hegemony Sector
 // Grid location : S6
 // X : 10790.92, Y : 5976.6, Z : 59.69954081254207
-Star "Desevro Syetm/Desev System" // system name
+StarBarycenter "Desevro System/Desev System" // system name
 {
     RA         0.08722538045791604
     Dec        24.58676843089755
     Dist       382999940.5382962
-    Class      "M9 III" // random
+    Class      "M8.9 III"
+	
+	Mass            3.75182e+006
+	Radius          1.72418e+009
+	RotationPeriod  24
+	Obliquity       0
+	EqAscendNode    0
+
+
+	Orbit
+	{
+		RefPlane        "Static"
+		SemiMajorAxis   0
+		Period          0
+		Eccentricity    0
+		Inclination     0
+		AscendingNode   0
+		ArgOfPericenter 0
+		MeanAnomaly     0
+	}
 }
 
 // http://starwars.wikia.com/wiki/Devon
