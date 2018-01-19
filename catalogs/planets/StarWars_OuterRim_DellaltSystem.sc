@@ -40,9 +40,9 @@ Planet	"Dellalt/Dellalt Planet/Dellalt System 6"
 		detailScale     11763.8
 		colorConversion true
 		drivenDarkening -1
-		seaLevel        0.68254
+		seaLevel        0.619048
 		snowLevel       0
-		tropicLatitude  0.0125582
+		tropicLatitude  0.0252167
 		icecapLatitude  1
 		icecapHeight    0.181133
 		climatePole     0.5625
@@ -50,12 +50,12 @@ Planet	"Dellalt/Dellalt Planet/Dellalt System 6"
 		climateEquator  0.6875
 		heightTempGrad  0.375
 		tropicWidth     0.07
-		mainFreq        0.839286
-		venusFreq       0.830727
+		mainFreq        0.714286
+		venusFreq       0
 		venusMagn       0.413725
 		mareFreq        0.00464159
 		mareDensity     0.0634921
-		terraceProb     0.111111
+		terraceProb     0.510724
 		erosion         0.547619
 		montesMagn      0.31746
 		montesFreq      178.571
@@ -94,9 +94,9 @@ Planet	"Dellalt/Dellalt Planet/Dellalt System 6"
 		lavaCoverTidal  0.0881683
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		stripeZones     0.714286
-		stripeFluct     0.015873
-		stripeTwist     1.11111
+		stripeZones     0.634921
+		stripeFluct     1.36508
+		stripeTwist     1.90476
 		cycloneMagn     0.634921
 		cycloneFreq     1.31746
 		cycloneDensity  0.833333
