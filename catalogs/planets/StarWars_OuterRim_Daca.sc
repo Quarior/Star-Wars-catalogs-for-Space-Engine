@@ -202,12 +202,13 @@ Planet	"Mon Calamari/Dac/Calamari/Mon Cala"
 		Class   "Organic"
 		Type    "Multicellular"
 		Biome   "Marine/Terrestrial"
-	Panspermia "false" }
+		Panspermia "false"
+	}
 
 	Surface
 	{
 		SurfStyle       0.115049
-		OceanStyle      0.301587
+		OceanStyle      0.8
 		Randomize      (-0.518, -0.862, -0.069)
 		colorDistMagn   0.0522856
 		colorDistFreq   766.954
@@ -257,13 +258,13 @@ Planet	"Mon Calamari/Dac/Calamari/Mon Cala"
 		craterDensity   0.193116
 		craterOctaves   0
 		craterRayedFactor 0
-		volcanoMagn     0.579365
-		volcanoFreq     0.238095
-		volcanoDensity  0.0873016
-		volcanoOctaves  2
+		volcanoMagn     0.659365
+		volcanoFreq     1.476095
+		volcanoDensity  0.0793016
+		volcanoOctaves  5
 		volcanoActivity 0.301587
 		volcanoFlows    0.5851
-		volcanoRadius   0.373016
+		volcanoRadius   1.0
 		volcanoTemp     1489.36
 		lavaCoverTidal  0
 		lavaCoverSun    0
@@ -275,7 +276,7 @@ Planet	"Mon Calamari/Dac/Calamari/Mon Cala"
 		cycloneFreq     1.12698
 		cycloneDensity  0.453247
 		cycloneOctaves  2
-		colorSea       (0.040, 0.100, 0.200, 1.000)
+		colorSea       (0.010, 0.050, 0.390, 1.000)
 		colorShelf     (0.150, 0.480, 0.460, 1.000)
 		colorBeach     (0.820, 0.730, 0.570, 0.000)
 		colorDesert    (0.420, 0.360, 0.220, 0.000)
