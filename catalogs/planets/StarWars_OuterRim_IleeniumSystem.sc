@@ -8,117 +8,226 @@
 // TODO surface/atmosphere
 Planet	"D'Qar/Ileenium System 8"
 {
-	ParentBody     "Ileenium System"
-	Class	       "Terra"  // Wookieepedia
+	ParentBody     "Ileenium"
+	Class	       "Terra"
 
 	Mass            0.0135371
-	Radius          5200 // Wookieepedia
+	Radius          5200
 	InertiaMoment   0.372801
 
 	Oblateness      0.00210191
 
 	RotationPeriod  34.7619
-	Obliquity       -276.659
-	EqAscendNode    103.173
+	Obliquity       -47.1339
+	EqAscendNode    0.631442
 
-	AlbedoBond      0.3
-	AlbedoGeom      0.36
-	Brightness      3.5
-	Color          (0.629 0.624 0.621)
+	AlbedoBond      0.283831
+	AlbedoGeom      0.340597
+	Brightness      0.634921
+	Color          (0.285 0.357 0.403)
+
+	Life
+	{
+		Class   "Organic"
+		Type    "Multicellular"
+		Biome   "Terrestrial"
+		Panspermia "true"
+	}
 
 	Surface
 	{
-		SurfStyle       0.312735
-		OceanStyle      0.777791
-		Randomize      (-0.046, -0.295, -0.355)
-		colorDistMagn   0.0451947
-		colorDistFreq   190.711
-		detailScale     4077.93
-		colorConversion true
-		drivenDarkening 0
-		seaLevel        0.187041
-		snowLevel       2
-		tropicLatitude  0.993815
-		icecapLatitude  10
-		icecapHeight    0.110747
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        1.87326
-		venusFreq       1.39216
-		venusMagn       0
-		mareFreq        0.732335
-		mareDensity     0.00564942
-		terraceProb     0.15087
-		erosion         0
-		montesMagn      0.0796978
-		montesFreq      62.2933
-		montesSpiky     0.934062
-		montesFraction  0.851065
-		dunesMagn       0.0427785
-		dunesFreq       2048.16
-		dunesFraction   0.571246
-		hillsMagn       0.112874
-		hillsFreq       170.908
-		hillsFraction   0.893872
-		hills2Fraction  0
-		riversMagn      68.1429
-		riversFreq      3.23887
-		riversSin       4.12902
-		riversOctaves   0
-		canyonsMagn     0.472183
-		canyonsFreq     0.653155
-		canyonFraction  0.857524
-		cracksMagn      0.0694606
-		cracksFreq      0.87786
-		cracksOctaves   0
-		craterMagn      0.600064
-		craterFreq      4.53597
-		craterDensity   0.87543
-		craterOctaves   11
+		SurfStyle       0.624603
+		OceanStyle      0.15873
+		Randomize      (0.197, 0.050, -0.285)
+		colorDistMagn   0.0606753
+		colorDistFreq   973.164
+		detailScale     101.06
+		colorConversion false
+		drivenDarkening -0.761905
+		seaLevel        0.0158731
+		snowLevel       0
+		tropicLatitude  0.726434
+		icecapLatitude  0
+		icecapHeight    0
+		climatePole     0.452381
+		climateTropic   0.539683
+		climateEquator  0.214286
+		heightTempGrad  0.436508
+		tropicWidth     0.0717336
+		mainFreq        0.0793651
+		venusFreq       0
+		venusMagn       0.31746
+		mareFreq        215.444
+		mareDensity     1
+		terraceProb     0.691478
+		erosion         0.126984
+		montesMagn      0.793651
+		montesFreq      15.873
+		montesSpiky     0.896825
+		montesFraction  0.388889
+		dunesMagn       0.0793651
+		dunesFreq       3.1746
+		dunesFraction   0.0396825
+		hillsMagn       0.238095
+		hillsFreq       333.333
+		hillsFraction   0.777778
+		hills2Fraction  0.301587
+		riversMagn      8.73016
+		riversFreq      0.31746
+		riversSin       0.47619
+		riversOctaves   1
+		canyonsMagn     0.15873
+		canyonsFreq     7.93651
+		canyonFraction  0.47016
+		cracksMagn      1.19048
+		cracksFreq      0.277778
+		cracksOctaves   1
+		craterMagn      0
+		craterFreq      0
+		craterDensity   0
+		craterOctaves   0
 		craterRayedFactor 0
-		volcanoMagn     0.231993
-		volcanoFreq     0.717414
-		volcanoDensity  0.202994
-		volcanoOctaves  3
-		volcanoActivity 0.163916
-		volcanoFlows    0.355648
-		volcanoRadius   0.185912
-		volcanoTemp     1360.48
+		volcanoMagn     0.015873
+		volcanoFreq     0.0793651
+		volcanoDensity  0.015873
+		volcanoOctaves  0
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.047619
+		volcanoTemp     0
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		colorSea       (0.420, 0.420, 0.430, 0.000)
-		colorShelf     (0.470, 0.480, 0.480, 0.000)
-		colorBeach     (0.346, 0.356, 0.372, 0.000)
-		colorDesert    (0.302, 0.287, 0.286, 0.000)
-		colorLowland   (0.384, 0.381, 0.348, 0.000)
-		colorUpland    (0.409, 0.406, 0.379, 0.000)
-		colorRock      (0.340, 0.340, 0.340, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 1.000)
-		BumpHeight      20
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   55
-		Hapke           1
+		stripeZones     1.97729
+		stripeFluct     0
+		stripeTwist     0.0664068
+		cycloneMagn     2.83283
+		cycloneFreq     1.05742
+		cycloneDensity  0.401564
+		cycloneOctaves  4
+		colorSea       (0.040, 0.100, 0.200, 1.000)
+		colorShelf     (0.150, 0.480, 0.460, 1.000)
+		colorBeach     (0.780, 0.750, 0.740, 0.000)
+		colorDesert    (0.470, 0.420, 0.390, 0.000)
+		colorLowland   (0.270, 0.250, 0.230, 0.000)
+		colorUpland    (0.490, 0.480, 0.460, 0.000)
+		colorRock      (0.260, 0.240, 0.230, 0.000)
+		colorSnow      (1.000, 1.000, 1.000, 1.308)
+		colorLowPlants (0.180, 0.330, 0.390, 0.000)
+		colorUpPlants  (0.150, 0.260, 0.330, 0.000)
+		BumpHeight      16.6667
+		BumpOffset      15.0794
+		DiffMapAlpha   "Water"
+		SpecBrightWater 1.5873
+		SpecBrightIce   1.11111
+		SpecularPower   1.57252
+		Hapke           0.444444
 		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
+		SpotWidth       0.0873016
+		DayAmbient      1.19048
 	}
 
-	NoClouds        true
+	Clouds
+	{
+		Height          5.64453
+		Velocity        25.196
+		BumpHeight      5.64433
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		mainFreq        0.961617
+		mainOctaves     10
+		Coverage        0.0238095
+		stripeZones     1.97729
+		stripeFluct     0
+		stripeTwist     0.0664068
+	}
 
-	NoOcean         true
+	Clouds
+	{
+		Height          11.2886
+		Velocity        102.513
+		BumpHeight      5.64433
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		ModulateColor  (1.000 1.000 1.000 0.849)
+		mainFreq        0.961617
+		mainOctaves     10
+		Coverage        0.0238095
+		stripeZones     1.97729
+		stripeFluct     0
+		stripeTwist     0.0664068
+	}
+
+	Ocean
+	{
+		Height          0.264459
+		Hapke           0
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+	}
 
 	NoLava          true
 
-	NoAtmosphere    true
+	Atmosphere
+	{
+		Model          "Earth"
+		Height          179.46
+		Density         1.07584
+		Pressure        1.07584
+		Greenhouse      23.8095
+		Bright          5.55556
+		Opacity         0.873016
+		SkyLight        4.20635
+		Hue             -0.103175
+		Saturation      0.15873
 
-	NoAurora        true
+		Composition
+		{
+			N2    	78.951
+			O2    	20.7233
+			CO2   	0.258892
+			H2O   	0.0497247
+			Ne    	0.0170738
+		}
+	}
 
-	NoRings         true
+	Aurora
+	{
+		Height      139.036
+		NorthLat    47.7648
+		NorthLon    -44.2708
+		NorthRadius 2246.56
+		NorthWidth  776.464
+		NorthRings  4
+		NorthBright 0.3
+		NorthParticles 0
+		SouthLat    -52.5734
+		SouthLon    111.297
+		SouthRadius 1951.44
+		SouthWidth  653.853
+		SouthRings  3
+		SouthBright 0.3
+		SouthParticles 0
+		TopColor    (1.000 1.000 1.000)
+		BottomColor (0.000 1.000 0.000)
+	}
+
+	Rings
+	{
+		InnerRadius     14959.8
+		OuterRadius     12014
+		RotationPeriod  10.3476
+		RotationOffset  0
+		FrontBright     0.555556
+		BackBright      2.14286
+		Density         0.0061054
+		Brightness      1
+	}
 
 	NoAccretionDisk true
 
@@ -128,7 +237,7 @@ Planet	"D'Qar/Ileenium System 8"
 	{
 		RefPlane        "Equator"
 		SemiMajorAxis   3.63565
-		Period          1.1362 // wookieepedia
+		Period          1.13621
 		Eccentricity    0.0180743
 		Inclination     -2.83744
 		AscendingNode   102.386
@@ -258,7 +367,7 @@ Moon	"D'Qar's Moon 1/Ileenium System 8.1"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   4.19057e-005
+		SemiMajorAxis   0.000223463
 		Period          0.0013401
 		Eccentricity    0.0117765
 		Inclination     -0.78928
@@ -542,7 +651,7 @@ Planet	"Ileenium System 9"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   4.31441
+		SemiMajorAxis   0.00032206
 		Period          1.15742
 		Eccentricity    0.0396365
 		Inclination     1.68363
