@@ -190,7 +190,7 @@ Planet	"Kamino"
 	Surface
 	{
 		SurfStyle       0.388889
-		OceanStyle      0
+		OceanStyle      0.45
 		Randomize      (-0.159, 0.508, 1.492)
 		colorDistMagn   0.0444129
 		colorDistFreq   1111.33
@@ -258,7 +258,7 @@ Planet	"Kamino"
 		cycloneFreq     0.910219
 		cycloneDensity  0.492844
 		cycloneOctaves  4
-		colorSea       (0.040, 0.100, 0.200, 1.000)
+		colorSea       (0.020, 0.060, 0.100, 1.000)
 		colorShelf     (0.150, 0.480, 0.460, 1.000)
 		colorBeach     (0.250, 0.550, 0.390, 0.000)
 		colorDesert    (0.250, 0.430, 0.280, 0.000)
@@ -315,11 +315,11 @@ Planet	"Kamino"
 		Density         100
 		Pressure        0.946
 		Greenhouse      83.7629
-		Bright          10.4762
+		Bright          5.87302
 		Opacity         1
-		SkyLight        2.30159
+		SkyLight        8.88889
 		Hue             0
-		Saturation      1
+		Saturation      0.714286
 
 		Composition
 		{
