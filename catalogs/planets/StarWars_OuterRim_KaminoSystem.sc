@@ -173,7 +173,7 @@ Planet	"Kamino"
 	RotationPeriod  27
 	Obliquity       41.2731
 	EqAscendNode    5.21515
-	Precession      0
+	Precession      1e-20
 
 	AlbedoBond      0.68
 	AlbedoGeom      0.816
