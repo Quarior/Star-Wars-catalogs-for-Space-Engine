@@ -182,17 +182,7 @@ Planet	"Foerost/Foerost System 8"
 		BottomColor (0.000 1.000 0.000)
 	}
 
-	Rings
-	{
-		InnerRadius     8379.17
-		OuterRadius     14261.9
-		RotationPeriod  5.76896
-		RotationOffset  0
-		FrontBright     0.52647
-		BackBright      0.620179
-		Density         0.695449
-		Brightness      1
-	}
+	NoRings 		true
 
 	NoAccretionDisk true
 
