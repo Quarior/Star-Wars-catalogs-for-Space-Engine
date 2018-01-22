@@ -662,62 +662,19 @@ Moon	"Lehon Moon 1"
 
 	Surface
 	{
-		SurfStyle       0.663109
-		OceanStyle      0.476502
-		Randomize      (0.786, -0.295, 0.434)
-		colorDistMagn   0.836958
-		colorDistFreq   0.0658456
-		detailScale     366.341
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.570644
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.642696
-		terraceProb     0.416108
-		erosion         0
-		montesMagn      0.592288
-		montesFreq      2.88851
-		montesSpiky     0.985736
-		montesFraction  0.0726819
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.497253
-		hillsFraction   0.753825
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.245486
-		craterFreq      0.216171
-		craterDensity   0.984007
-		craterOctaves   12
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.524437
-		volcanoTemp     1387.04
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.291, 0.253, 0.207, 0.000)
-		colorShelf     (0.298, 0.260, 0.237, 0.000)
-		colorBeach     (0.351, 0.305, 0.281, 0.000)
-		colorDesert    (0.381, 0.327, 0.274, 0.000)
-		colorLowland   (0.418, 0.350, 0.311, 0.000)
-		colorUpland    (0.463, 0.424, 0.377, 0.000)
-		colorRock      (0.500, 0.461, 0.407, 0.000)
-		colorSnow      (0.545, 0.491, 0.429, 1.000)
-		BumpHeight      12.0742
-		BumpOffset      2.41484
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
+		// Surface map author: John van Vliet
+		DiffMap        "Moon/Surface-JVV"
+		DiffTileSize    258
+		DiffTileBorder  1
+
+		// Elevation map author: Vladimir Romanyuk "SpaceEngineer"
+		BumpMap        "Moon/Bump-SE"
+		BumpTileSize    258
+		BumpTileBorder  1
+		BumpHeight      19.851
+		BumpOffset      9.058
+
+		Hapke           1.0
 	}
 
 	NoClouds        true
@@ -757,6 +714,8 @@ Moon	"Lehon Moon 2"
 	Mass            4.76684e-009
 	Radius          429.5841
 	InertiaMoment   0.399821
+	
+	Oblateness      0.001731
 
 	Obliquity       -39.3727
 	EqAscendNode    164.779
@@ -771,6 +730,7 @@ Moon	"Lehon Moon 2"
 	{
 		SurfStyle       0.194643
 		OceanStyle      0.577907
+		seaLevel        -1
 		Randomize      (-0.554, 0.611, 0.668)
 		colorDistMagn   0.833429
 		colorDistFreq   0.103088
