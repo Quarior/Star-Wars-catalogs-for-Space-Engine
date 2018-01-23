@@ -300,8 +300,8 @@ Planet	"Onderon/Japrael System 2"
 		terraceProb     0.388889
 		erosion         0.849206
 		montesMagn      0.31746
-		montesFreq      51.5873
-		montesSpiky     0.047619
+		montesFreq      21.5873
+		montesSpiky     0.847619
 		montesFraction  0.285714
 		dunesMagn       1.66667
 		dunesFreq       37.3016
@@ -353,7 +353,7 @@ Planet	"Onderon/Japrael System 2"
 		colorSnow      (1.000, 1.000, 1.000, 1.308)
 		colorLowPlants (0.100, 0.160, 0.070, 0.000)
 		colorUpPlants  (0.090, 0.110, 0.040, 0.000)
-		BumpHeight      20
+		BumpHeight      7
 		BumpOffset      4.29168
 		DiffMapAlpha   "Water"
 		SpecBrightWater 0.65
@@ -6023,7 +6023,7 @@ DwarfMoon	"Japrael System 5.D24"
 Planet	"Caloma/Japrael System 6"
 {
 	ParentBody     "Prael"
-	Class	       "GazGiant"
+	Class	       "GasGiant"
 
 	Mass            18.2229
 	Radius          22653
