@@ -59,7 +59,7 @@ Planet	"Ahch-To/Ahch-To System 2"
 		mareDensity     0.0599755
 		terraceProb     0.446393
 		erosion         0.72403
-		montesMagn      0.134921
+		montesMagn      0.094921
 		montesFreq      69.3651
 		montesSpiky     0.452381
 		montesFraction  0.861905
