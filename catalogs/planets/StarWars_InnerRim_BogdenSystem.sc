@@ -130,7 +130,7 @@ Planet	"Bogden/Bogg"
 		Height          153.96852
 		Density         100
 		Pressure        1.550516
-		Greenhouse      92.33102
+		Greenhouse      52.33102
 		Bright          15
 		Opacity         1
 		SkyLight        3.333333
@@ -238,6 +238,12 @@ Moon	"Bogg 4"
 	
 	Atmosphere
 	{
+		Model		"Earth"
+		Height	120
+		Density	100
+		Pressure	1.2
+		Greenhouse	46.959
+		
 		Composition // values in percent
 		{
 			N2  77.7729
@@ -246,6 +252,11 @@ Moon	"Bogg 4"
 			H2O 0.4000
 			CO2 0.0398
 		}
+	}
+
+	Clouds 
+	{
+		Height 20
 	}
 
 	Orbit
@@ -277,6 +288,12 @@ Moon	"Bogg 5/Bogg V"
 	
 	Atmosphere
 	{
+		Model		"Earth"
+		Height	120
+		Density	100
+		Pressure	0.94
+		Greenhouse	40.365
+		
 		Composition // values in percent
 		{
 			N2  77.7729
@@ -285,6 +302,11 @@ Moon	"Bogg 5/Bogg V"
 			H2O 0.4000
 			CO2 0.0398
 		}
+	}
+
+	Clouds 
+	{
+		Height 10
 	}
 
 	Orbit
@@ -395,7 +417,7 @@ DwarfMoon	"Bogg 10"
 		//Period         0.00342
 		SemiMajorAxis  0.002589289109
 		Eccentricity   0.0001
-		Inclination    24.321
+		Inclination    14.321
 		AscendingNode  8.998
 		ArgOfPericen   30.956
 		MeanAnomaly    7.538
@@ -612,7 +634,7 @@ Planet	"Bog moon of Bogden/Bogg 15"
 		Height          153.96852
 		Density         100
 		Pressure        1.550516
-		Greenhouse      92.33102
+		Greenhouse      52.33102
 		Bright          10
 		Opacity         1
 		SkyLight        3.333333
@@ -672,12 +694,15 @@ Moon	"Bogg 17"
 	Mass            0.25
     RotationPeriod  33        // Rotation period in hours 
 
+	NoAtmosphere	true
+	NoClouds		true
+
 	Orbit
 	{
 		Epoch          2454762
 		//Period         0.002831     // Orbital period in years 
 		SemiMajorAxis  0.005342819
-		Inclination    66.29
+		Inclination    26.29
 		Eccentricity   0.03
 		ArgOfPericen   9.2
 	}
@@ -810,7 +835,7 @@ Planet	"Kohlma/Bogg 18"
 		Height          70.96852
 		Density         100
 		Pressure        1.550516
-		Greenhouse      92.33102
+		Greenhouse      42.33102
 		Bright          10
 		Opacity         1
 		SkyLight        3.333333
@@ -861,6 +886,20 @@ DwarfMoon	"Bogg 19"
 	}
 }
 
+DwarfPlanet	"Bogden 1"
+{
+	ParentBody		"Bogden System"
+	Class			"Selena"
+	NoAtmosphere	true
+	NoClouds		true
+	NoRings		true
+
+	Orbit	
+	{
+		SemiMajorAxis	0.83821
+	}
+}
+
 Planet	"Bogden 3"
 {
 	ParentBody     "Bogden System"
@@ -877,11 +916,17 @@ Planet	"Bogden 3"
 		Biome   "Marine/Terrestrial"
 	}
 
-	Clouds {}
+	Clouds 
+	{
+		Height	20
+	}
 
 	Atmosphere
 	{
-		Model "Earth"
+		Model 	"Earth"
+		Density	100
+		Pressure	0.87
+		Greenhouse	79.451
 		
 		Composition // values in percent
 		{
@@ -896,8 +941,7 @@ Planet	"Bogden 3"
 	Orbit
 	{
 		Epoch          2454762
-        //Period         1.4     // Orbital period in years 
-		SemiMajorAxis  1.621
+		SemiMajorAxis  2.021
 		Inclination    5.3
 		Eccentricity   0.03
 		ArgOfPericen   9.2
