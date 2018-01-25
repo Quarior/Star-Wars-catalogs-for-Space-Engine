@@ -494,7 +494,7 @@ Planet	"Lehon/Rakata/Rakata Prime/Unknown World (KotOR)"
 		climateEquator  0.253968
 		heightTempGrad  0.375
 		tropicWidth     0.07
-		mainFreq        2.97619
+		mainFreq        5
 		venusFreq       0.52381
 		venusMagn       1.42857
 		mareFreq        1000
@@ -502,14 +502,14 @@ Planet	"Lehon/Rakata/Rakata Prime/Unknown World (KotOR)"
 		terraceProb     0.136814
 		erosion         0.920635
 		montesMagn      1.26984
-		montesFreq      170.26
-		montesSpiky     0.783802
+		montesFreq      70.26
+		montesSpiky     0.883802
 		montesFraction  0.896825
 		dunesMagn       1.11111
-		dunesFreq       48.4127
+		dunesFreq       28.4127
 		dunesFraction   0.880952
 		hillsMagn       0.145689
-		hillsFreq       369.139
+		hillsFreq       69.139
 		hillsFraction   0.483373
 		hills2Fraction  0.606898
 		riversMagn      67.8613
@@ -523,9 +523,9 @@ Planet	"Lehon/Rakata/Rakata Prime/Unknown World (KotOR)"
 		cracksFreq      0.442677
 		cracksOctaves   0
 		craterMagn      0.971951
-		craterFreq      17.4064
-		craterDensity   0
-		craterOctaves   0
+		craterFreq      10.476
+		craterDensity   0.286
+		craterOctaves   5
 		craterRayedFactor 0
 		volcanoMagn     0.620224
 		volcanoFreq     0.750095
@@ -565,21 +565,21 @@ Planet	"Lehon/Rakata/Rakata Prime/Unknown World (KotOR)"
 		SpotBright      4
 		SpotWidth       0.05
 		DayAmbient      1
-		ModulateColor  (0.000 0.000 0.000 0.000)
+		ModulateColor	(0.1, 0.35, 0.5, 1.0)
 	}
 
 	Clouds
 	{
-		Height          85.7656
+		Height          25.7656
 		Velocity        2194.12
-		BumpHeight      57.6048
+		BumpHeight      17.6048
 		Hapke           0
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      1
 		mainFreq        0.833333
 		mainOctaves     2
-		Coverage        0.0396825
+		Coverage        0.2396825
 		stripeZones     0
 		stripeFluct     0
 		stripeTwist     0
@@ -587,11 +587,7 @@ Planet	"Lehon/Rakata/Rakata Prime/Unknown World (KotOR)"
 
 	Ocean
 	{
-		Height          8.50359
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
+		Height          1.50359
 	}
 	
 	NoLava          true
@@ -660,23 +656,6 @@ Moon	"Lehon Moon 1"
 	Brightness      3.5
 	Color          (0.746 0.744 0.740)
 
-	Surface
-	{
-		// Surface map author: John van Vliet
-		DiffMap        "Moon/Surface-JVV"
-		DiffTileSize    258
-		DiffTileBorder  1
-
-		// Elevation map author: Vladimir Romanyuk "SpaceEngineer"
-		BumpMap        "Moon/Bump-SE"
-		BumpTileSize    258
-		BumpTileBorder  1
-		BumpHeight      19.851
-		BumpOffset      9.058
-
-		Hapke           1.0
-	}
-
 	NoClouds        true
 
 	NoOcean         true
@@ -714,8 +693,6 @@ Moon	"Lehon Moon 2"
 	Mass            4.76684e-009
 	Radius          429.5841
 	InertiaMoment   0.399821
-	
-	Oblateness      0.001731
 
 	Obliquity       -39.3727
 	EqAscendNode    164.779
@@ -725,67 +702,6 @@ Moon	"Lehon Moon 2"
 	AlbedoGeom      0.24
 	Brightness      3.5
 	Color          (0.634 0.627 0.623)
-
-	Surface
-	{
-		SurfStyle       0.194643
-		OceanStyle      0.577907
-		seaLevel        -1
-		Randomize      (-0.554, 0.611, 0.668)
-		colorDistMagn   0.833429
-		colorDistFreq   0.103088
-		detailScale     370.936
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.167438
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.734981
-		terraceProb     0.28255
-		erosion         0
-		montesMagn      0.376994
-		montesFreq      2.62479
-		montesSpiky     0.960763
-		montesFraction  0.500763
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.53512
-		hillsFraction   0.766496
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.267514
-		craterFreq      0.155131
-		craterDensity   1.04018
-		craterOctaves   12
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.419141
-		volcanoTemp     1477.48
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.254, 0.251, 0.249, 0.000)
-		colorShelf     (0.269, 0.266, 0.265, 0.000)
-		colorBeach     (0.285, 0.282, 0.280, 0.000)
-		colorDesert    (0.301, 0.298, 0.296, 0.000)
-		colorLowland   (0.317, 0.313, 0.312, 0.000)
-		colorUpland    (0.333, 0.329, 0.327, 0.000)
-		colorRock      (0.349, 0.345, 0.343, 0.000)
-		colorSnow      (0.364, 0.360, 0.358, 1.000)
-		BumpHeight      12.2257
-		BumpOffset      2.44514
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
 
 	NoClouds        true
 
@@ -3106,9 +3022,7 @@ Planet	"Verla Klest"
 		SpotWidth       0.05
 		DayAmbient      0.2
 	}
-
-	NoClouds        true
-
+	
 	NoOcean         true
 
 	NoLava          true

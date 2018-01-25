@@ -67,7 +67,7 @@ Planet	"Ahch-To/Ahch-To System 2"
 		dunesFreq       54.5411
 		dunesFraction   0.390908
 		hillsMagn       2.4127
-		hillsFreq       62.381
+		hillsFreq       102.381
 		hillsFraction   0.31568
 		hills2Fraction  0.708748
 		riversMagn      5.1893

@@ -4,7 +4,7 @@
 // Grid location : P6
 // X : 7396.66, Y : 4729.53, Z : -89.14240410441118
 
-Planet	"Althir III/Althir/Alhir System 3"
+Planet	"Althir III/Althir/Althir System 3"
 {
 	ParentBody     "Althir System"
 	Class	       "Terra"
@@ -199,8 +199,8 @@ Planet	"Althir III/Althir/Alhir System 3"
 	Rings
 	{
 		Texture        "J1407b-rings.png"
-		InnerRadius     90000
-		OuterRadius     9e+007
+		InnerRadius     20000
+		OuterRadius     3e+005
 		RotationPeriod  472981
 		RotationOffset  0
 		FrontBright     2.22222
@@ -230,7 +230,7 @@ Planet	"Althir III/Althir/Alhir System 3"
 // GENERATED //
 ///////////////
 
-Planet	"Alhir System 1"
+Planet	"Althir System 1"
 {
 	ParentBody     "Althir System"
 	Class	       "Desert"
@@ -463,9 +463,9 @@ Planet	"Alhir System 1"
 	}
 }
 
-DwarfMoon	"Alhir System 1.D1"
+DwarfMoon	"Althir System 1.D1"
 {
-	ParentBody     "Alhir System 1"
+	ParentBody     "Althir System 1"
 	Class	       "Asteroid"
 
 	Mass            1.4577e-007
@@ -572,9 +572,9 @@ DwarfMoon	"Alhir System 1.D1"
 	}
 }
 
-DwarfMoon	"Alhir System 1.D2"
+DwarfMoon	"Althir System 1.D2"
 {
-	ParentBody     "Alhir System 1"
+	ParentBody     "Althir System 1"
 	Class	       "Asteroid"
 
 	Mass            2.00468e-007
@@ -681,9 +681,9 @@ DwarfMoon	"Alhir System 1.D2"
 	}
 }
 
-DwarfMoon	"Alhir System 1.D3"
+DwarfMoon	"Althir System 1.D3"
 {
-	ParentBody     "Alhir System 1"
+	ParentBody     "Althir System 1"
 	Class	       "Asteroid"
 
 	Mass            2.77284e-007
@@ -790,9 +790,9 @@ DwarfMoon	"Alhir System 1.D3"
 	}
 }
 
-DwarfMoon	"Alhir System 1.D4"
+DwarfMoon	"Althir System 1.D4"
 {
-	ParentBody     "Alhir System 1"
+	ParentBody     "Althir System 1"
 	Class	       "Asteroid"
 
 	Mass            3.86249e-007
@@ -897,9 +897,9 @@ DwarfMoon	"Alhir System 1.D4"
 	}
 }
 
-DwarfMoon	"Alhir System 1.D5"
+DwarfMoon	"Althir System 1.D5"
 {
-	ParentBody     "Alhir System 1"
+	ParentBody     "Althir System 1"
 	Class	       "Asteroid"
 
 	Mass            5.42636e-007
@@ -1004,9 +1004,9 @@ DwarfMoon	"Alhir System 1.D5"
 	}
 }
 
-DwarfMoon	"Alhir System 1.D6"
+DwarfMoon	"Althir System 1.D6"
 {
-	ParentBody     "Alhir System 1"
+	ParentBody     "Althir System 1"
 	Class	       "Asteroid"
 
 	Mass            7.70174e-007
@@ -1111,9 +1111,9 @@ DwarfMoon	"Alhir System 1.D6"
 	}
 }
 
-DwarfMoon	"Alhir System 1.D7"
+DwarfMoon	"Althir System 1.D7"
 {
-	ParentBody     "Alhir System 1"
+	ParentBody     "Althir System 1"
 	Class	       "Asteroid"
 
 	Mass            1.10659e-006
@@ -1218,9 +1218,9 @@ DwarfMoon	"Alhir System 1.D7"
 	}
 }
 
-DwarfMoon	"Alhir System 1.D8"
+DwarfMoon	"Althir System 1.D8"
 {
-	ParentBody     "Alhir System 1"
+	ParentBody     "Althir System 1"
 	Class	       "Asteroid"
 
 	Mass            1.61346e-006
@@ -1325,9 +1325,9 @@ DwarfMoon	"Alhir System 1.D8"
 	}
 }
 
-DwarfMoon	"Alhir System 1.D9"
+DwarfMoon	"Althir System 1.D9"
 {
-	ParentBody     "Alhir System 1"
+	ParentBody     "Althir System 1"
 	Class	       "Asteroid"
 
 	Mass            2.39448e-006
@@ -1432,7 +1432,7 @@ DwarfMoon	"Alhir System 1.D9"
 	}
 }
 
-Planet	"Alhir System 2"
+Planet	"Althir System 2"
 {
 	ParentBody     "Althir System"
 	Class	       "Desert"
@@ -1627,9 +1627,9 @@ Planet	"Alhir System 2"
 	}
 }
 
-DwarfMoon	"Alhir System 2.D1"
+DwarfMoon	"Althir System 2.D1"
 {
-	ParentBody     "Alhir System 2"
+	ParentBody     "Althir System 2"
 	Class	       "Asteroid"
 
 	Mass            4.99326e-010
@@ -1736,9 +1736,9 @@ DwarfMoon	"Alhir System 2.D1"
 	}
 }
 
-DwarfMoon	"Alhir System 2.D2"
+DwarfMoon	"Althir System 2.D2"
 {
-	ParentBody     "Alhir System 2"
+	ParentBody     "Althir System 2"
 	Class	       "Asteroid"
 
 	Mass            7.349e-010
@@ -1845,9 +1845,9 @@ DwarfMoon	"Alhir System 2.D2"
 	}
 }
 
-DwarfMoon	"Alhir System 2.D3"
+DwarfMoon	"Althir System 2.D3"
 {
-	ParentBody     "Alhir System 2"
+	ParentBody     "Althir System 2"
 	Class	       "Asteroid"
 
 	Mass            1.06416e-009
@@ -1954,9 +1954,9 @@ DwarfMoon	"Alhir System 2.D3"
 	}
 }
 
-Moon	"Alhir System 2.1"
+Moon	"Althir System 2.1"
 {
-	ParentBody     "Alhir System 2"
+	ParentBody     "Althir System 2"
 	Class	       "Selena"
 
 	Mass            0.00903326
@@ -2085,9 +2085,9 @@ Moon	"Alhir System 2.1"
 	}
 }
 
-Moon	"Alhir System 2.2"
+Moon	"Althir System 2.2"
 {
-	ParentBody     "Alhir System 2"
+	ParentBody     "Althir System 2"
 	Class	       "Selena"
 
 	Mass            0.0107596
@@ -2216,9 +2216,9 @@ Moon	"Alhir System 2.2"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D1"
+DwarfMoon	"Althir System 3.D1"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            4.36375e-008
@@ -2325,9 +2325,9 @@ DwarfMoon	"Alhir System 3.D1"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D2"
+DwarfMoon	"Althir System 3.D2"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            5.92746e-008
@@ -2434,9 +2434,9 @@ DwarfMoon	"Alhir System 3.D2"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D3"
+DwarfMoon	"Althir System 3.D3"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            8.06595e-008
@@ -2543,9 +2543,9 @@ DwarfMoon	"Alhir System 3.D3"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D4"
+DwarfMoon	"Althir System 3.D4"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            1.10057e-007
@@ -2652,9 +2652,9 @@ DwarfMoon	"Alhir System 3.D4"
 	}
 }
 
-Moon	"Alhir System 3.1"
+Moon	"Althir System 3.1"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Selena"
 
 	Mass            0.00140425
@@ -2783,9 +2783,9 @@ Moon	"Alhir System 3.1"
 	}
 }
 
-Moon	"Alhir System 3.2"
+Moon	"Althir System 3.2"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Selena"
 
 	Mass            0.00164099
@@ -2914,9 +2914,9 @@ Moon	"Alhir System 3.2"
 	}
 }
 
-Moon	"Alhir System 3.3"
+Moon	"Althir System 3.3"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Selena"
 
 	Mass            0.0192591
@@ -3062,9 +3062,9 @@ Moon	"Alhir System 3.3"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D5"
+DwarfMoon	"Althir System 3.D5"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            4.00194e-007
@@ -3169,9 +3169,9 @@ DwarfMoon	"Alhir System 3.D5"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D6"
+DwarfMoon	"Althir System 3.D6"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            5.62787e-007
@@ -3276,9 +3276,9 @@ DwarfMoon	"Alhir System 3.D6"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D7"
+DwarfMoon	"Althir System 3.D7"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            7.99726e-007
@@ -3383,9 +3383,9 @@ DwarfMoon	"Alhir System 3.D7"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D8"
+DwarfMoon	"Althir System 3.D8"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            1.15069e-006
@@ -3490,9 +3490,9 @@ DwarfMoon	"Alhir System 3.D8"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D9"
+DwarfMoon	"Althir System 3.D9"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            1.68064e-006
@@ -3597,9 +3597,9 @@ DwarfMoon	"Alhir System 3.D9"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D10"
+DwarfMoon	"Althir System 3.D10"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            2.49935e-006
@@ -3704,9 +3704,9 @@ DwarfMoon	"Alhir System 3.D10"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D11"
+DwarfMoon	"Althir System 3.D11"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            3.79941e-006
@@ -3811,9 +3811,9 @@ DwarfMoon	"Alhir System 3.D11"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D12"
+DwarfMoon	"Althir System 3.D12"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            5.93395e-006
@@ -3918,9 +3918,9 @@ DwarfMoon	"Alhir System 3.D12"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D13"
+DwarfMoon	"Althir System 3.D13"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            1.92029e-011
@@ -4025,9 +4025,9 @@ DwarfMoon	"Alhir System 3.D13"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D14"
+DwarfMoon	"Althir System 3.D14"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            3.67922e-011
@@ -4132,9 +4132,9 @@ DwarfMoon	"Alhir System 3.D14"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D15"
+DwarfMoon	"Althir System 3.D15"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            6.53084e-011
@@ -4239,9 +4239,9 @@ DwarfMoon	"Alhir System 3.D15"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D16"
+DwarfMoon	"Althir System 3.D16"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            1.09651e-010
@@ -4346,9 +4346,9 @@ DwarfMoon	"Alhir System 3.D16"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D17"
+DwarfMoon	"Althir System 3.D17"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            1.76483e-010
@@ -4453,9 +4453,9 @@ DwarfMoon	"Alhir System 3.D17"
 	}
 }
 
-DwarfMoon	"Alhir System 3.D18"
+DwarfMoon	"Althir System 3.D18"
 {
-	ParentBody     "Alhir System 3"
+	ParentBody     "Althir System 3"
 	Class	       "Asteroid"
 
 	Mass            2.74811e-010
@@ -4560,7 +4560,7 @@ DwarfMoon	"Alhir System 3.D18"
 	}
 }
 
-DwarfPlanet	"Alhir System 4"
+DwarfPlanet	"Althir System 4"
 {
 	ParentBody     "Althir System"
 	Class	       "Selena"
@@ -4691,9 +4691,9 @@ DwarfPlanet	"Alhir System 4"
 	}
 }
 
-DwarfMoon	"Alhir System 4.D1"
+DwarfMoon	"Althir System 4.D1"
 {
-	ParentBody     "Alhir System 4"
+	ParentBody     "Althir System 4"
 	Class	       "Asteroid"
 
 	Mass            8.16272e-009
@@ -4800,7 +4800,7 @@ DwarfMoon	"Alhir System 4.D1"
 	}
 }
 
-Planet	"Alhir System 5"
+Planet	"Althir System 5"
 {
 	ParentBody     "Althir System"
 	Class	       "GasGiant"
@@ -4958,9 +4958,9 @@ Planet	"Alhir System 5"
 	}
 }
 
-Moon	"Alhir System 5.1"
+Moon	"Althir System 5.1"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Selena"
 
 	Mass            0.00973879
@@ -5089,9 +5089,9 @@ Moon	"Alhir System 5.1"
 	}
 }
 
-Moon	"Alhir System 5.2"
+Moon	"Althir System 5.2"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Selena"
 
 	Mass            0.0113853
@@ -5218,9 +5218,9 @@ Moon	"Alhir System 5.2"
 	}
 }
 
-Moon	"Alhir System 5.3"
+Moon	"Althir System 5.3"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Desert"
 
 	Mass            0.13369
@@ -5377,9 +5377,9 @@ Moon	"Alhir System 5.3"
 	}
 }
 
-Moon	"Alhir System 5.4"
+Moon	"Althir System 5.4"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Selena"
 
 	Mass            0.0157847
@@ -5506,9 +5506,9 @@ Moon	"Alhir System 5.4"
 	}
 }
 
-Moon	"Alhir System 5.5"
+Moon	"Althir System 5.5"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Selena"
 
 	Mass            0.0187645
@@ -5655,9 +5655,9 @@ Moon	"Alhir System 5.5"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D1"
+DwarfMoon	"Althir System 5.D1"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            8.30527e-007
@@ -5762,9 +5762,9 @@ DwarfMoon	"Alhir System 5.D1"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D2"
+DwarfMoon	"Althir System 5.D2"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.19674e-006
@@ -5869,9 +5869,9 @@ DwarfMoon	"Alhir System 5.D2"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D3"
+DwarfMoon	"Althir System 5.D3"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.75096e-006
@@ -5976,9 +5976,9 @@ DwarfMoon	"Alhir System 5.D3"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D4"
+DwarfMoon	"Althir System 5.D4"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            2.60946e-006
@@ -6083,9 +6083,9 @@ DwarfMoon	"Alhir System 5.D4"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D5"
+DwarfMoon	"Althir System 5.D5"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            3.97707e-006
@@ -6190,9 +6190,9 @@ DwarfMoon	"Alhir System 5.D5"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D6"
+DwarfMoon	"Althir System 5.D6"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            6.23142e-006
@@ -6297,9 +6297,9 @@ DwarfMoon	"Alhir System 5.D6"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D7"
+DwarfMoon	"Althir System 5.D7"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            2.066e-011
@@ -6404,9 +6404,9 @@ DwarfMoon	"Alhir System 5.D7"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D8"
+DwarfMoon	"Althir System 5.D8"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            3.92143e-011
@@ -6511,9 +6511,9 @@ DwarfMoon	"Alhir System 5.D8"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D9"
+DwarfMoon	"Althir System 5.D9"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            6.91436e-011
@@ -6618,9 +6618,9 @@ DwarfMoon	"Alhir System 5.D9"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D10"
+DwarfMoon	"Althir System 5.D10"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.15511e-010
@@ -6725,9 +6725,9 @@ DwarfMoon	"Alhir System 5.D10"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D11"
+DwarfMoon	"Althir System 5.D11"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.85197e-010
@@ -6832,9 +6832,9 @@ DwarfMoon	"Alhir System 5.D11"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D12"
+DwarfMoon	"Althir System 5.D12"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            2.87495e-010
@@ -6939,9 +6939,9 @@ DwarfMoon	"Alhir System 5.D12"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D13"
+DwarfMoon	"Althir System 5.D13"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            4.34905e-010
@@ -7046,9 +7046,9 @@ DwarfMoon	"Alhir System 5.D13"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D14"
+DwarfMoon	"Althir System 5.D14"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            6.44183e-010
@@ -7153,9 +7153,9 @@ DwarfMoon	"Alhir System 5.D14"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D15"
+DwarfMoon	"Althir System 5.D15"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            9.3775e-010
@@ -7260,9 +7260,9 @@ DwarfMoon	"Alhir System 5.D15"
 	}
 }
 
-Moon	"Alhir System 5.6"
+Moon	"Althir System 5.6"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Selena"
 
 	Mass            0.000966414
@@ -7391,9 +7391,9 @@ Moon	"Alhir System 5.6"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D16"
+DwarfMoon	"Althir System 5.D16"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.90767e-009
@@ -7498,9 +7498,9 @@ DwarfMoon	"Alhir System 5.D16"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D17"
+DwarfMoon	"Althir System 5.D17"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            2.67757e-009
@@ -7605,9 +7605,9 @@ DwarfMoon	"Alhir System 5.D17"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D18"
+DwarfMoon	"Althir System 5.D18"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            3.7269e-009
@@ -7712,9 +7712,9 @@ DwarfMoon	"Alhir System 5.D18"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D19"
+DwarfMoon	"Althir System 5.D19"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            5.15172e-009
@@ -7819,9 +7819,9 @@ DwarfMoon	"Alhir System 5.D19"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D20"
+DwarfMoon	"Althir System 5.D20"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            7.08117e-009
@@ -7926,9 +7926,9 @@ DwarfMoon	"Alhir System 5.D20"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D21"
+DwarfMoon	"Althir System 5.D21"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            9.68948e-009
@@ -8033,9 +8033,9 @@ DwarfMoon	"Alhir System 5.D21"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D22"
+DwarfMoon	"Althir System 5.D22"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.32126e-008
@@ -8140,9 +8140,9 @@ DwarfMoon	"Alhir System 5.D22"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D23"
+DwarfMoon	"Althir System 5.D23"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.79714e-008
@@ -8247,9 +8247,9 @@ DwarfMoon	"Alhir System 5.D23"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D24"
+DwarfMoon	"Althir System 5.D24"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            2.4405e-008
@@ -8354,9 +8354,9 @@ DwarfMoon	"Alhir System 5.D24"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D25"
+DwarfMoon	"Althir System 5.D25"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            3.31175e-008
@@ -8461,9 +8461,9 @@ DwarfMoon	"Alhir System 5.D25"
 	}
 }
 
-Moon	"Alhir System 5.7"
+Moon	"Althir System 5.7"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Selena"
 
 	Mass            0.00535084
@@ -8592,9 +8592,9 @@ Moon	"Alhir System 5.7"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D26"
+DwarfMoon	"Althir System 5.D26"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            6.10606e-008
@@ -8699,9 +8699,9 @@ DwarfMoon	"Alhir System 5.D26"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D27"
+DwarfMoon	"Althir System 5.D27"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            8.31082e-008
@@ -8806,9 +8806,9 @@ DwarfMoon	"Alhir System 5.D27"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D28"
+DwarfMoon	"Althir System 5.D28"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.13434e-007
@@ -8913,9 +8913,9 @@ DwarfMoon	"Alhir System 5.D28"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D29"
+DwarfMoon	"Althir System 5.D29"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.5541e-007
@@ -9020,9 +9020,9 @@ DwarfMoon	"Alhir System 5.D29"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D30"
+DwarfMoon	"Althir System 5.D30"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            2.13954e-007
@@ -9127,9 +9127,9 @@ DwarfMoon	"Alhir System 5.D30"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D31"
+DwarfMoon	"Althir System 5.D31"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            2.96328e-007
@@ -9234,9 +9234,9 @@ DwarfMoon	"Alhir System 5.D31"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D32"
+DwarfMoon	"Althir System 5.D32"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            4.13437e-007
@@ -9341,9 +9341,9 @@ DwarfMoon	"Alhir System 5.D32"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D33"
+DwarfMoon	"Althir System 5.D33"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            5.81948e-007
@@ -9448,9 +9448,9 @@ DwarfMoon	"Alhir System 5.D33"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D34"
+DwarfMoon	"Althir System 5.D34"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            8.27874e-007
@@ -9555,9 +9555,9 @@ DwarfMoon	"Alhir System 5.D34"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D35"
+DwarfMoon	"Althir System 5.D35"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.19277e-006
@@ -9662,9 +9662,9 @@ DwarfMoon	"Alhir System 5.D35"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D36"
+DwarfMoon	"Althir System 5.D36"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.74489e-006
@@ -9769,9 +9769,9 @@ DwarfMoon	"Alhir System 5.D36"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D37"
+DwarfMoon	"Althir System 5.D37"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            2.59994e-006
@@ -9876,9 +9876,9 @@ DwarfMoon	"Alhir System 5.D37"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D38"
+DwarfMoon	"Althir System 5.D38"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            3.96169e-006
@@ -9983,9 +9983,9 @@ DwarfMoon	"Alhir System 5.D38"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D39"
+DwarfMoon	"Althir System 5.D39"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            6.20561e-006
@@ -10090,9 +10090,9 @@ DwarfMoon	"Alhir System 5.D39"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D40"
+DwarfMoon	"Althir System 5.D40"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            2.05335e-011
@@ -10197,9 +10197,9 @@ DwarfMoon	"Alhir System 5.D40"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D41"
+DwarfMoon	"Althir System 5.D41"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            3.90047e-011
@@ -10304,9 +10304,9 @@ DwarfMoon	"Alhir System 5.D41"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D42"
+DwarfMoon	"Althir System 5.D42"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            6.88125e-011
@@ -10411,9 +10411,9 @@ DwarfMoon	"Alhir System 5.D42"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D43"
+DwarfMoon	"Althir System 5.D43"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.15006e-010
@@ -10518,9 +10518,9 @@ DwarfMoon	"Alhir System 5.D43"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D44"
+DwarfMoon	"Althir System 5.D44"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.84447e-010
@@ -10625,9 +10625,9 @@ DwarfMoon	"Alhir System 5.D44"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D45"
+DwarfMoon	"Althir System 5.D45"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            2.86404e-010
@@ -10732,9 +10732,9 @@ DwarfMoon	"Alhir System 5.D45"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D46"
+DwarfMoon	"Althir System 5.D46"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            4.33343e-010
@@ -10839,9 +10839,9 @@ DwarfMoon	"Alhir System 5.D46"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D47"
+DwarfMoon	"Althir System 5.D47"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            6.4198e-010
@@ -10946,9 +10946,9 @@ DwarfMoon	"Alhir System 5.D47"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D48"
+DwarfMoon	"Althir System 5.D48"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            9.34674e-010
@@ -11053,9 +11053,9 @@ DwarfMoon	"Alhir System 5.D48"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D49"
+DwarfMoon	"Althir System 5.D49"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.34131e-009
@@ -11160,9 +11160,9 @@ DwarfMoon	"Alhir System 5.D49"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D50"
+DwarfMoon	"Althir System 5.D50"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.90182e-009
@@ -11267,9 +11267,9 @@ DwarfMoon	"Alhir System 5.D50"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D51"
+DwarfMoon	"Althir System 5.D51"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            2.66958e-009
@@ -11374,9 +11374,9 @@ DwarfMoon	"Alhir System 5.D51"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D52"
+DwarfMoon	"Althir System 5.D52"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            3.71604e-009
@@ -11481,9 +11481,9 @@ DwarfMoon	"Alhir System 5.D52"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D53"
+DwarfMoon	"Althir System 5.D53"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            5.13699e-009
@@ -11588,9 +11588,9 @@ DwarfMoon	"Alhir System 5.D53"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D54"
+DwarfMoon	"Althir System 5.D54"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            7.06125e-009
@@ -11695,9 +11695,9 @@ DwarfMoon	"Alhir System 5.D54"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D55"
+DwarfMoon	"Althir System 5.D55"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            9.66256e-009
@@ -11802,9 +11802,9 @@ DwarfMoon	"Alhir System 5.D55"
 	}
 }
 
-DwarfMoon	"Alhir System 5.D56"
+DwarfMoon	"Althir System 5.D56"
 {
-	ParentBody     "Alhir System 5"
+	ParentBody     "Althir System 5"
 	Class	       "Asteroid"
 
 	Mass            1.31762e-008
@@ -11909,7 +11909,7 @@ DwarfMoon	"Alhir System 5.D56"
 	}
 }
 
-Planet	"Alhir System 6"
+Planet	"Althir System 6"
 {
 	ParentBody     "Althir System"
 	Class	       "Titan"
@@ -12129,7 +12129,7 @@ Planet	"Alhir System 6"
 	}
 }
 
-Planet	"Alhir System 7"
+Planet	"Althir System 7"
 {
 	ParentBody     "Althir System"
 	Class	       "Titan"
@@ -12360,7 +12360,7 @@ Planet	"Alhir System 7"
 	}
 }
 
-Planet	"Alhir System 8"
+Planet	"Althir System 8"
 {
 	ParentBody     "Althir System"
 	Class	       "Titan"
@@ -12580,9 +12580,9 @@ Planet	"Alhir System 8"
 	}
 }
 
-DwarfMoon	"Alhir System 8.D1"
+DwarfMoon	"Althir System 8.D1"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "Asteroid"
 
 	Mass            8.2493e-010
@@ -12689,9 +12689,9 @@ DwarfMoon	"Alhir System 8.D1"
 	}
 }
 
-Moon	"Alhir System 8.1"
+Moon	"Althir System 8.1"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "Selena"
 
 	Mass            9.73546e-005
@@ -12820,9 +12820,9 @@ Moon	"Alhir System 8.1"
 	}
 }
 
-DwarfMoon	"Alhir System 8.D2"
+DwarfMoon	"Althir System 8.D2"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "Asteroid"
 
 	Mass            1.69267e-009
@@ -12929,9 +12929,9 @@ DwarfMoon	"Alhir System 8.D2"
 	}
 }
 
-Moon	"Alhir System 8.2"
+Moon	"Althir System 8.2"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "IceWorld"
 
 	Mass            0.00138619
@@ -13061,9 +13061,9 @@ Moon	"Alhir System 8.2"
 	}
 }
 
-Moon	"Alhir System 8.3"
+Moon	"Althir System 8.3"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "IceWorld"
 
 	Mass            0.000163612
@@ -13193,9 +13193,9 @@ Moon	"Alhir System 8.3"
 	}
 }
 
-Moon	"Alhir System 8.4"
+Moon	"Althir System 8.4"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "IceWorld"
 
 	Mass            0.000192065
@@ -13325,9 +13325,9 @@ Moon	"Alhir System 8.4"
 	}
 }
 
-Moon	"Alhir System 8.5"
+Moon	"Althir System 8.5"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "IceWorld"
 
 	Mass            0.000224488
@@ -13457,9 +13457,9 @@ Moon	"Alhir System 8.5"
 	}
 }
 
-Moon	"Alhir System 8.6"
+Moon	"Althir System 8.6"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "IceWorld"
 
 	Mass            0.000261484
@@ -13589,9 +13589,9 @@ Moon	"Alhir System 8.6"
 	}
 }
 
-Moon	"Alhir System 8.7"
+Moon	"Althir System 8.7"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "IceWorld"
 
 	Mass            0.000303773
@@ -13721,9 +13721,9 @@ Moon	"Alhir System 8.7"
 	}
 }
 
-Moon	"Alhir System 8.8"
+Moon	"Althir System 8.8"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "IceWorld"
 
 	Mass            0.00352218
@@ -13855,9 +13855,9 @@ Moon	"Alhir System 8.8"
 	}
 }
 
-Moon	"Alhir System 8.9"
+Moon	"Althir System 8.9"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "IceWorld"
 
 	Mass            0.000407864
@@ -13987,9 +13987,9 @@ Moon	"Alhir System 8.9"
 	}
 }
 
-DwarfMoon	"Alhir System 8.D3"
+DwarfMoon	"Althir System 8.D3"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "Asteroid"
 
 	Mass            2.97981e-008
@@ -14094,9 +14094,9 @@ DwarfMoon	"Alhir System 8.D3"
 	}
 }
 
-DwarfMoon	"Alhir System 8.D4"
+DwarfMoon	"Althir System 8.D4"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "Asteroid"
 
 	Mass            4.04355e-008
@@ -14201,9 +14201,9 @@ DwarfMoon	"Alhir System 8.D4"
 	}
 }
 
-DwarfMoon	"Alhir System 8.D5"
+DwarfMoon	"Althir System 8.D5"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "Asteroid"
 
 	Mass            5.49083e-008
@@ -14308,9 +14308,9 @@ DwarfMoon	"Alhir System 8.D5"
 	}
 }
 
-DwarfMoon	"Alhir System 8.D6"
+DwarfMoon	"Althir System 8.D6"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "Asteroid"
 
 	Mass            7.46783e-008
@@ -14415,9 +14415,9 @@ DwarfMoon	"Alhir System 8.D6"
 	}
 }
 
-DwarfMoon	"Alhir System 8.D7"
+DwarfMoon	"Althir System 8.D7"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "Asteroid"
 
 	Mass            1.01818e-007
@@ -14522,9 +14522,9 @@ DwarfMoon	"Alhir System 8.D7"
 	}
 }
 
-DwarfMoon	"Alhir System 8.D8"
+DwarfMoon	"Althir System 8.D8"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "Asteroid"
 
 	Mass            1.39298e-007
@@ -14629,9 +14629,9 @@ DwarfMoon	"Alhir System 8.D8"
 	}
 }
 
-DwarfMoon	"Alhir System 8.D9"
+DwarfMoon	"Althir System 8.D9"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "Asteroid"
 
 	Mass            1.91427e-007
@@ -14736,9 +14736,9 @@ DwarfMoon	"Alhir System 8.D9"
 	}
 }
 
-DwarfMoon	"Alhir System 8.D10"
+DwarfMoon	"Althir System 8.D10"
 {
-	ParentBody     "Alhir System 8"
+	ParentBody     "Althir System 8"
 	Class	       "Asteroid"
 
 	Mass            2.6454e-007
@@ -14843,7 +14843,7 @@ DwarfMoon	"Alhir System 8.D10"
 	}
 }
 
-Asteroid	"Alhir System S1"
+Asteroid	"Althir System S1"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -14950,7 +14950,7 @@ Asteroid	"Alhir System S1"
 	}
 }
 
-Asteroid	"Alhir System S2"
+Asteroid	"Althir System S2"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -15057,7 +15057,7 @@ Asteroid	"Alhir System S2"
 	}
 }
 
-Asteroid	"Alhir System S3"
+Asteroid	"Althir System S3"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -15164,7 +15164,7 @@ Asteroid	"Alhir System S3"
 	}
 }
 
-Asteroid	"Alhir System S4"
+Asteroid	"Althir System S4"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -15271,7 +15271,7 @@ Asteroid	"Alhir System S4"
 	}
 }
 
-Asteroid	"Alhir System S5"
+Asteroid	"Althir System S5"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -15378,7 +15378,7 @@ Asteroid	"Alhir System S5"
 	}
 }
 
-Asteroid	"Alhir System S6"
+Asteroid	"Althir System S6"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -15485,7 +15485,7 @@ Asteroid	"Alhir System S6"
 	}
 }
 
-Asteroid	"Alhir System S7"
+Asteroid	"Althir System S7"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -15592,7 +15592,7 @@ Asteroid	"Alhir System S7"
 	}
 }
 
-Asteroid	"Alhir System S8"
+Asteroid	"Althir System S8"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -15699,7 +15699,7 @@ Asteroid	"Alhir System S8"
 	}
 }
 
-Asteroid	"Alhir System S9"
+Asteroid	"Althir System S9"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -15806,7 +15806,7 @@ Asteroid	"Alhir System S9"
 	}
 }
 
-Asteroid	"Alhir System S10"
+Asteroid	"Althir System S10"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -15913,7 +15913,7 @@ Asteroid	"Alhir System S10"
 	}
 }
 
-Asteroid	"Alhir System S11"
+Asteroid	"Althir System S11"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -16020,7 +16020,7 @@ Asteroid	"Alhir System S11"
 	}
 }
 
-Asteroid	"Alhir System S12"
+Asteroid	"Althir System S12"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -16127,7 +16127,7 @@ Asteroid	"Alhir System S12"
 	}
 }
 
-Asteroid	"Alhir System S13"
+Asteroid	"Althir System S13"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -16234,7 +16234,7 @@ Asteroid	"Alhir System S13"
 	}
 }
 
-Asteroid	"Alhir System S14"
+Asteroid	"Althir System S14"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -16341,7 +16341,7 @@ Asteroid	"Alhir System S14"
 	}
 }
 
-Asteroid	"Alhir System S15"
+Asteroid	"Althir System S15"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -16448,7 +16448,7 @@ Asteroid	"Alhir System S15"
 	}
 }
 
-Asteroid	"Alhir System S16"
+Asteroid	"Althir System S16"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -16555,7 +16555,7 @@ Asteroid	"Alhir System S16"
 	}
 }
 
-Asteroid	"Alhir System S17"
+Asteroid	"Althir System S17"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -16662,7 +16662,7 @@ Asteroid	"Alhir System S17"
 	}
 }
 
-Asteroid	"Alhir System S18"
+Asteroid	"Althir System S18"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -16769,7 +16769,7 @@ Asteroid	"Alhir System S18"
 	}
 }
 
-Asteroid	"Alhir System S19"
+Asteroid	"Althir System S19"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -16876,7 +16876,7 @@ Asteroid	"Alhir System S19"
 	}
 }
 
-Asteroid	"Alhir System S20"
+Asteroid	"Althir System S20"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -16983,7 +16983,7 @@ Asteroid	"Alhir System S20"
 	}
 }
 
-Asteroid	"Alhir System S21"
+Asteroid	"Althir System S21"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -17090,7 +17090,7 @@ Asteroid	"Alhir System S21"
 	}
 }
 
-Asteroid	"Alhir System S22"
+Asteroid	"Althir System S22"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -17197,7 +17197,7 @@ Asteroid	"Alhir System S22"
 	}
 }
 
-Asteroid	"Alhir System S23"
+Asteroid	"Althir System S23"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -17304,7 +17304,7 @@ Asteroid	"Alhir System S23"
 	}
 }
 
-Asteroid	"Alhir System S24"
+Asteroid	"Althir System S24"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -17411,7 +17411,7 @@ Asteroid	"Alhir System S24"
 	}
 }
 
-Asteroid	"Alhir System S25"
+Asteroid	"Althir System S25"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -17518,7 +17518,7 @@ Asteroid	"Alhir System S25"
 	}
 }
 
-Asteroid	"Alhir System S26"
+Asteroid	"Althir System S26"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -17625,7 +17625,7 @@ Asteroid	"Alhir System S26"
 	}
 }
 
-Asteroid	"Alhir System S27"
+Asteroid	"Althir System S27"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -17732,7 +17732,7 @@ Asteroid	"Alhir System S27"
 	}
 }
 
-Asteroid	"Alhir System S28"
+Asteroid	"Althir System S28"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -17839,7 +17839,7 @@ Asteroid	"Alhir System S28"
 	}
 }
 
-Asteroid	"Alhir System S29"
+Asteroid	"Althir System S29"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -17946,7 +17946,7 @@ Asteroid	"Alhir System S29"
 	}
 }
 
-Asteroid	"Alhir System S30"
+Asteroid	"Althir System S30"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -18053,7 +18053,7 @@ Asteroid	"Alhir System S30"
 	}
 }
 
-Asteroid	"Alhir System S31"
+Asteroid	"Althir System S31"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -18160,7 +18160,7 @@ Asteroid	"Alhir System S31"
 	}
 }
 
-Asteroid	"Alhir System S32"
+Asteroid	"Althir System S32"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -18267,7 +18267,7 @@ Asteroid	"Alhir System S32"
 	}
 }
 
-Asteroid	"Alhir System S33"
+Asteroid	"Althir System S33"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -18374,7 +18374,7 @@ Asteroid	"Alhir System S33"
 	}
 }
 
-Asteroid	"Alhir System S34"
+Asteroid	"Althir System S34"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -18481,7 +18481,7 @@ Asteroid	"Alhir System S34"
 	}
 }
 
-Asteroid	"Alhir System S35"
+Asteroid	"Althir System S35"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -18588,7 +18588,7 @@ Asteroid	"Alhir System S35"
 	}
 }
 
-Asteroid	"Alhir System S36"
+Asteroid	"Althir System S36"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -18695,7 +18695,7 @@ Asteroid	"Alhir System S36"
 	}
 }
 
-Asteroid	"Alhir System S37"
+Asteroid	"Althir System S37"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -18802,7 +18802,7 @@ Asteroid	"Alhir System S37"
 	}
 }
 
-Asteroid	"Alhir System S38"
+Asteroid	"Althir System S38"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -18909,7 +18909,7 @@ Asteroid	"Alhir System S38"
 	}
 }
 
-Asteroid	"Alhir System S39"
+Asteroid	"Althir System S39"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -19016,7 +19016,7 @@ Asteroid	"Alhir System S39"
 	}
 }
 
-Asteroid	"Alhir System S40"
+Asteroid	"Althir System S40"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -19123,7 +19123,7 @@ Asteroid	"Alhir System S40"
 	}
 }
 
-Asteroid	"Alhir System S41"
+Asteroid	"Althir System S41"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -19230,7 +19230,7 @@ Asteroid	"Alhir System S41"
 	}
 }
 
-Asteroid	"Alhir System S42"
+Asteroid	"Althir System S42"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -19337,7 +19337,7 @@ Asteroid	"Alhir System S42"
 	}
 }
 
-Asteroid	"Alhir System S43"
+Asteroid	"Althir System S43"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -19444,7 +19444,7 @@ Asteroid	"Alhir System S43"
 	}
 }
 
-Asteroid	"Alhir System S44"
+Asteroid	"Althir System S44"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -19551,7 +19551,7 @@ Asteroid	"Alhir System S44"
 	}
 }
 
-Asteroid	"Alhir System S45"
+Asteroid	"Althir System S45"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -19658,7 +19658,7 @@ Asteroid	"Alhir System S45"
 	}
 }
 
-Asteroid	"Alhir System S46"
+Asteroid	"Althir System S46"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -19765,7 +19765,7 @@ Asteroid	"Alhir System S46"
 	}
 }
 
-Asteroid	"Alhir System S47"
+Asteroid	"Althir System S47"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -19872,7 +19872,7 @@ Asteroid	"Alhir System S47"
 	}
 }
 
-Asteroid	"Alhir System S48"
+Asteroid	"Althir System S48"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -19979,7 +19979,7 @@ Asteroid	"Alhir System S48"
 	}
 }
 
-Asteroid	"Alhir System S49"
+Asteroid	"Althir System S49"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -20086,7 +20086,7 @@ Asteroid	"Alhir System S49"
 	}
 }
 
-Asteroid	"Alhir System S50"
+Asteroid	"Althir System S50"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -20193,7 +20193,7 @@ Asteroid	"Alhir System S50"
 	}
 }
 
-Asteroid	"Alhir System S51"
+Asteroid	"Althir System S51"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -20300,7 +20300,7 @@ Asteroid	"Alhir System S51"
 	}
 }
 
-Asteroid	"Alhir System S52"
+Asteroid	"Althir System S52"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -20407,7 +20407,7 @@ Asteroid	"Alhir System S52"
 	}
 }
 
-Asteroid	"Alhir System S53"
+Asteroid	"Althir System S53"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -20514,7 +20514,7 @@ Asteroid	"Alhir System S53"
 	}
 }
 
-Asteroid	"Alhir System S54"
+Asteroid	"Althir System S54"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -20621,7 +20621,7 @@ Asteroid	"Alhir System S54"
 	}
 }
 
-Asteroid	"Alhir System S55"
+Asteroid	"Althir System S55"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -20728,7 +20728,7 @@ Asteroid	"Alhir System S55"
 	}
 }
 
-Asteroid	"Alhir System S56"
+Asteroid	"Althir System S56"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -20835,7 +20835,7 @@ Asteroid	"Alhir System S56"
 	}
 }
 
-Asteroid	"Alhir System S57"
+Asteroid	"Althir System S57"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -20942,7 +20942,7 @@ Asteroid	"Alhir System S57"
 	}
 }
 
-Asteroid	"Alhir System S58"
+Asteroid	"Althir System S58"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -21049,7 +21049,7 @@ Asteroid	"Alhir System S58"
 	}
 }
 
-Asteroid	"Alhir System S59"
+Asteroid	"Althir System S59"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -21156,7 +21156,7 @@ Asteroid	"Alhir System S59"
 	}
 }
 
-Asteroid	"Alhir System S60"
+Asteroid	"Althir System S60"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -21263,7 +21263,7 @@ Asteroid	"Alhir System S60"
 	}
 }
 
-Asteroid	"Alhir System S61"
+Asteroid	"Althir System S61"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -21370,7 +21370,7 @@ Asteroid	"Alhir System S61"
 	}
 }
 
-Asteroid	"Alhir System S62"
+Asteroid	"Althir System S62"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -21477,7 +21477,7 @@ Asteroid	"Alhir System S62"
 	}
 }
 
-Asteroid	"Alhir System S63"
+Asteroid	"Althir System S63"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -21584,7 +21584,7 @@ Asteroid	"Alhir System S63"
 	}
 }
 
-Asteroid	"Alhir System S64"
+Asteroid	"Althir System S64"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -21691,7 +21691,7 @@ Asteroid	"Alhir System S64"
 	}
 }
 
-Asteroid	"Alhir System S65"
+Asteroid	"Althir System S65"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -21798,7 +21798,7 @@ Asteroid	"Alhir System S65"
 	}
 }
 
-Asteroid	"Alhir System S66"
+Asteroid	"Althir System S66"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -21905,7 +21905,7 @@ Asteroid	"Alhir System S66"
 	}
 }
 
-Asteroid	"Alhir System S67"
+Asteroid	"Althir System S67"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -22012,7 +22012,7 @@ Asteroid	"Alhir System S67"
 	}
 }
 
-Asteroid	"Alhir System S68"
+Asteroid	"Althir System S68"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -22119,7 +22119,7 @@ Asteroid	"Alhir System S68"
 	}
 }
 
-Asteroid	"Alhir System S69"
+Asteroid	"Althir System S69"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -22226,7 +22226,7 @@ Asteroid	"Alhir System S69"
 	}
 }
 
-Asteroid	"Alhir System S70"
+Asteroid	"Althir System S70"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -22333,7 +22333,7 @@ Asteroid	"Alhir System S70"
 	}
 }
 
-Asteroid	"Alhir System S71"
+Asteroid	"Althir System S71"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -22440,7 +22440,7 @@ Asteroid	"Alhir System S71"
 	}
 }
 
-Asteroid	"Alhir System S72"
+Asteroid	"Althir System S72"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -22547,7 +22547,7 @@ Asteroid	"Alhir System S72"
 	}
 }
 
-Asteroid	"Alhir System S73"
+Asteroid	"Althir System S73"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -22654,7 +22654,7 @@ Asteroid	"Alhir System S73"
 	}
 }
 
-Asteroid	"Alhir System S74"
+Asteroid	"Althir System S74"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -22761,7 +22761,7 @@ Asteroid	"Alhir System S74"
 	}
 }
 
-Asteroid	"Alhir System S75"
+Asteroid	"Althir System S75"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -22868,7 +22868,7 @@ Asteroid	"Alhir System S75"
 	}
 }
 
-Asteroid	"Alhir System S76"
+Asteroid	"Althir System S76"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -22975,7 +22975,7 @@ Asteroid	"Alhir System S76"
 	}
 }
 
-Asteroid	"Alhir System S77"
+Asteroid	"Althir System S77"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -23082,7 +23082,7 @@ Asteroid	"Alhir System S77"
 	}
 }
 
-Asteroid	"Alhir System S78"
+Asteroid	"Althir System S78"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -23189,7 +23189,7 @@ Asteroid	"Alhir System S78"
 	}
 }
 
-Asteroid	"Alhir System S79"
+Asteroid	"Althir System S79"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -23296,7 +23296,7 @@ Asteroid	"Alhir System S79"
 	}
 }
 
-Asteroid	"Alhir System S80"
+Asteroid	"Althir System S80"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -23403,7 +23403,7 @@ Asteroid	"Alhir System S80"
 	}
 }
 
-Asteroid	"Alhir System S81"
+Asteroid	"Althir System S81"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -23510,7 +23510,7 @@ Asteroid	"Alhir System S81"
 	}
 }
 
-Asteroid	"Alhir System S82"
+Asteroid	"Althir System S82"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -23617,7 +23617,7 @@ Asteroid	"Alhir System S82"
 	}
 }
 
-Asteroid	"Alhir System S83"
+Asteroid	"Althir System S83"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -23724,7 +23724,7 @@ Asteroid	"Alhir System S83"
 	}
 }
 
-Asteroid	"Alhir System S84"
+Asteroid	"Althir System S84"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -23831,7 +23831,7 @@ Asteroid	"Alhir System S84"
 	}
 }
 
-Asteroid	"Alhir System S85"
+Asteroid	"Althir System S85"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -23938,7 +23938,7 @@ Asteroid	"Alhir System S85"
 	}
 }
 
-Asteroid	"Alhir System S86"
+Asteroid	"Althir System S86"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -24045,7 +24045,7 @@ Asteroid	"Alhir System S86"
 	}
 }
 
-Asteroid	"Alhir System S87"
+Asteroid	"Althir System S87"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -24152,7 +24152,7 @@ Asteroid	"Alhir System S87"
 	}
 }
 
-Asteroid	"Alhir System S88"
+Asteroid	"Althir System S88"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -24259,7 +24259,7 @@ Asteroid	"Alhir System S88"
 	}
 }
 
-Asteroid	"Alhir System S89"
+Asteroid	"Althir System S89"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -24366,7 +24366,7 @@ Asteroid	"Alhir System S89"
 	}
 }
 
-Asteroid	"Alhir System S90"
+Asteroid	"Althir System S90"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -24473,7 +24473,7 @@ Asteroid	"Alhir System S90"
 	}
 }
 
-Asteroid	"Alhir System S91"
+Asteroid	"Althir System S91"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -24580,7 +24580,7 @@ Asteroid	"Alhir System S91"
 	}
 }
 
-Asteroid	"Alhir System S92"
+Asteroid	"Althir System S92"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -24687,7 +24687,7 @@ Asteroid	"Alhir System S92"
 	}
 }
 
-Asteroid	"Alhir System S93"
+Asteroid	"Althir System S93"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -24794,7 +24794,7 @@ Asteroid	"Alhir System S93"
 	}
 }
 
-Asteroid	"Alhir System S94"
+Asteroid	"Althir System S94"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -24901,7 +24901,7 @@ Asteroid	"Alhir System S94"
 	}
 }
 
-Asteroid	"Alhir System S95"
+Asteroid	"Althir System S95"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -25008,7 +25008,7 @@ Asteroid	"Alhir System S95"
 	}
 }
 
-Asteroid	"Alhir System S96"
+Asteroid	"Althir System S96"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -25115,7 +25115,7 @@ Asteroid	"Alhir System S96"
 	}
 }
 
-Asteroid	"Alhir System S97"
+Asteroid	"Althir System S97"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -25222,7 +25222,7 @@ Asteroid	"Alhir System S97"
 	}
 }
 
-Asteroid	"Alhir System S98"
+Asteroid	"Althir System S98"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -25329,7 +25329,7 @@ Asteroid	"Alhir System S98"
 	}
 }
 
-Asteroid	"Alhir System S99"
+Asteroid	"Althir System S99"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -25436,7 +25436,7 @@ Asteroid	"Alhir System S99"
 	}
 }
 
-Asteroid	"Alhir System S100"
+Asteroid	"Althir System S100"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -25543,7 +25543,7 @@ Asteroid	"Alhir System S100"
 	}
 }
 
-Asteroid	"Alhir System S101"
+Asteroid	"Althir System S101"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -25650,7 +25650,7 @@ Asteroid	"Alhir System S101"
 	}
 }
 
-Asteroid	"Alhir System S102"
+Asteroid	"Althir System S102"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -25757,7 +25757,7 @@ Asteroid	"Alhir System S102"
 	}
 }
 
-Asteroid	"Alhir System S103"
+Asteroid	"Althir System S103"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -25864,7 +25864,7 @@ Asteroid	"Alhir System S103"
 	}
 }
 
-Asteroid	"Alhir System S104"
+Asteroid	"Althir System S104"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -25971,7 +25971,7 @@ Asteroid	"Alhir System S104"
 	}
 }
 
-Asteroid	"Alhir System S105"
+Asteroid	"Althir System S105"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -26078,7 +26078,7 @@ Asteroid	"Alhir System S105"
 	}
 }
 
-Asteroid	"Alhir System S106"
+Asteroid	"Althir System S106"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -26185,7 +26185,7 @@ Asteroid	"Alhir System S106"
 	}
 }
 
-Asteroid	"Alhir System S107"
+Asteroid	"Althir System S107"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -26292,7 +26292,7 @@ Asteroid	"Alhir System S107"
 	}
 }
 
-Asteroid	"Alhir System S108"
+Asteroid	"Althir System S108"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -26399,7 +26399,7 @@ Asteroid	"Alhir System S108"
 	}
 }
 
-Asteroid	"Alhir System S109"
+Asteroid	"Althir System S109"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -26506,7 +26506,7 @@ Asteroid	"Alhir System S109"
 	}
 }
 
-Asteroid	"Alhir System S110"
+Asteroid	"Althir System S110"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -26613,7 +26613,7 @@ Asteroid	"Alhir System S110"
 	}
 }
 
-Asteroid	"Alhir System S111"
+Asteroid	"Althir System S111"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -26720,7 +26720,7 @@ Asteroid	"Alhir System S111"
 	}
 }
 
-Asteroid	"Alhir System S112"
+Asteroid	"Althir System S112"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -26827,7 +26827,7 @@ Asteroid	"Alhir System S112"
 	}
 }
 
-Asteroid	"Alhir System S113"
+Asteroid	"Althir System S113"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -26934,7 +26934,7 @@ Asteroid	"Alhir System S113"
 	}
 }
 
-Asteroid	"Alhir System S114"
+Asteroid	"Althir System S114"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -27041,7 +27041,7 @@ Asteroid	"Alhir System S114"
 	}
 }
 
-Asteroid	"Alhir System S115"
+Asteroid	"Althir System S115"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -27148,7 +27148,7 @@ Asteroid	"Alhir System S115"
 	}
 }
 
-Asteroid	"Alhir System S116"
+Asteroid	"Althir System S116"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -27255,7 +27255,7 @@ Asteroid	"Alhir System S116"
 	}
 }
 
-Asteroid	"Alhir System S117"
+Asteroid	"Althir System S117"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -27362,7 +27362,7 @@ Asteroid	"Alhir System S117"
 	}
 }
 
-Asteroid	"Alhir System S118"
+Asteroid	"Althir System S118"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -27469,7 +27469,7 @@ Asteroid	"Alhir System S118"
 	}
 }
 
-Asteroid	"Alhir System S119"
+Asteroid	"Althir System S119"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -27576,7 +27576,7 @@ Asteroid	"Alhir System S119"
 	}
 }
 
-Asteroid	"Alhir System S120"
+Asteroid	"Althir System S120"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -27683,7 +27683,7 @@ Asteroid	"Alhir System S120"
 	}
 }
 
-Asteroid	"Alhir System S121"
+Asteroid	"Althir System S121"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -27790,7 +27790,7 @@ Asteroid	"Alhir System S121"
 	}
 }
 
-Asteroid	"Alhir System S122"
+Asteroid	"Althir System S122"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -27897,7 +27897,7 @@ Asteroid	"Alhir System S122"
 	}
 }
 
-Asteroid	"Alhir System S123"
+Asteroid	"Althir System S123"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -28004,7 +28004,7 @@ Asteroid	"Alhir System S123"
 	}
 }
 
-Asteroid	"Alhir System S124"
+Asteroid	"Althir System S124"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -28111,7 +28111,7 @@ Asteroid	"Alhir System S124"
 	}
 }
 
-Asteroid	"Alhir System S125"
+Asteroid	"Althir System S125"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -28218,7 +28218,7 @@ Asteroid	"Alhir System S125"
 	}
 }
 
-Asteroid	"Alhir System S126"
+Asteroid	"Althir System S126"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -28325,7 +28325,7 @@ Asteroid	"Alhir System S126"
 	}
 }
 
-Asteroid	"Alhir System S127"
+Asteroid	"Althir System S127"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -28432,7 +28432,7 @@ Asteroid	"Alhir System S127"
 	}
 }
 
-Asteroid	"Alhir System S128"
+Asteroid	"Althir System S128"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -28539,7 +28539,7 @@ Asteroid	"Alhir System S128"
 	}
 }
 
-Asteroid	"Alhir System S129"
+Asteroid	"Althir System S129"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -28646,7 +28646,7 @@ Asteroid	"Alhir System S129"
 	}
 }
 
-Asteroid	"Alhir System S130"
+Asteroid	"Althir System S130"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -28753,7 +28753,7 @@ Asteroid	"Alhir System S130"
 	}
 }
 
-Asteroid	"Alhir System S131"
+Asteroid	"Althir System S131"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -28860,7 +28860,7 @@ Asteroid	"Alhir System S131"
 	}
 }
 
-Asteroid	"Alhir System S132"
+Asteroid	"Althir System S132"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -28967,7 +28967,7 @@ Asteroid	"Alhir System S132"
 	}
 }
 
-Asteroid	"Alhir System S133"
+Asteroid	"Althir System S133"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -29074,7 +29074,7 @@ Asteroid	"Alhir System S133"
 	}
 }
 
-Asteroid	"Alhir System S134"
+Asteroid	"Althir System S134"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -29181,7 +29181,7 @@ Asteroid	"Alhir System S134"
 	}
 }
 
-Asteroid	"Alhir System S135"
+Asteroid	"Althir System S135"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -29288,7 +29288,7 @@ Asteroid	"Alhir System S135"
 	}
 }
 
-Asteroid	"Alhir System S136"
+Asteroid	"Althir System S136"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -29395,7 +29395,7 @@ Asteroid	"Alhir System S136"
 	}
 }
 
-Asteroid	"Alhir System S137"
+Asteroid	"Althir System S137"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -29502,7 +29502,7 @@ Asteroid	"Alhir System S137"
 	}
 }
 
-Asteroid	"Alhir System S138"
+Asteroid	"Althir System S138"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -29609,7 +29609,7 @@ Asteroid	"Alhir System S138"
 	}
 }
 
-Asteroid	"Alhir System S139"
+Asteroid	"Althir System S139"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -29716,7 +29716,7 @@ Asteroid	"Alhir System S139"
 	}
 }
 
-Asteroid	"Alhir System S140"
+Asteroid	"Althir System S140"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -29823,7 +29823,7 @@ Asteroid	"Alhir System S140"
 	}
 }
 
-Asteroid	"Alhir System S141"
+Asteroid	"Althir System S141"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -29930,7 +29930,7 @@ Asteroid	"Alhir System S141"
 	}
 }
 
-Asteroid	"Alhir System S142"
+Asteroid	"Althir System S142"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -30037,7 +30037,7 @@ Asteroid	"Alhir System S142"
 	}
 }
 
-Asteroid	"Alhir System S143"
+Asteroid	"Althir System S143"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -30144,7 +30144,7 @@ Asteroid	"Alhir System S143"
 	}
 }
 
-Asteroid	"Alhir System S144"
+Asteroid	"Althir System S144"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -30251,7 +30251,7 @@ Asteroid	"Alhir System S144"
 	}
 }
 
-Asteroid	"Alhir System S145"
+Asteroid	"Althir System S145"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -30358,7 +30358,7 @@ Asteroid	"Alhir System S145"
 	}
 }
 
-Asteroid	"Alhir System S146"
+Asteroid	"Althir System S146"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -30465,7 +30465,7 @@ Asteroid	"Alhir System S146"
 	}
 }
 
-Asteroid	"Alhir System S147"
+Asteroid	"Althir System S147"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -30572,7 +30572,7 @@ Asteroid	"Alhir System S147"
 	}
 }
 
-Asteroid	"Alhir System S148"
+Asteroid	"Althir System S148"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -30679,7 +30679,7 @@ Asteroid	"Alhir System S148"
 	}
 }
 
-Asteroid	"Alhir System S149"
+Asteroid	"Althir System S149"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -30786,7 +30786,7 @@ Asteroid	"Alhir System S149"
 	}
 }
 
-Asteroid	"Alhir System S150"
+Asteroid	"Althir System S150"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -30893,7 +30893,7 @@ Asteroid	"Alhir System S150"
 	}
 }
 
-Asteroid	"Alhir System S151"
+Asteroid	"Althir System S151"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -31000,7 +31000,7 @@ Asteroid	"Alhir System S151"
 	}
 }
 
-Asteroid	"Alhir System S152"
+Asteroid	"Althir System S152"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -31107,7 +31107,7 @@ Asteroid	"Alhir System S152"
 	}
 }
 
-Asteroid	"Alhir System S153"
+Asteroid	"Althir System S153"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -31214,7 +31214,7 @@ Asteroid	"Alhir System S153"
 	}
 }
 
-Asteroid	"Alhir System S154"
+Asteroid	"Althir System S154"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -31321,7 +31321,7 @@ Asteroid	"Alhir System S154"
 	}
 }
 
-Asteroid	"Alhir System S155"
+Asteroid	"Althir System S155"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -31428,7 +31428,7 @@ Asteroid	"Alhir System S155"
 	}
 }
 
-Asteroid	"Alhir System S156"
+Asteroid	"Althir System S156"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -31535,7 +31535,7 @@ Asteroid	"Alhir System S156"
 	}
 }
 
-Asteroid	"Alhir System S157"
+Asteroid	"Althir System S157"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -31642,7 +31642,7 @@ Asteroid	"Alhir System S157"
 	}
 }
 
-Asteroid	"Alhir System S158"
+Asteroid	"Althir System S158"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -31749,7 +31749,7 @@ Asteroid	"Alhir System S158"
 	}
 }
 
-Asteroid	"Alhir System S159"
+Asteroid	"Althir System S159"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -31856,7 +31856,7 @@ Asteroid	"Alhir System S159"
 	}
 }
 
-Asteroid	"Alhir System S160"
+Asteroid	"Althir System S160"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -31963,7 +31963,7 @@ Asteroid	"Alhir System S160"
 	}
 }
 
-Asteroid	"Alhir System S161"
+Asteroid	"Althir System S161"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -32070,7 +32070,7 @@ Asteroid	"Alhir System S161"
 	}
 }
 
-Asteroid	"Alhir System S162"
+Asteroid	"Althir System S162"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -32177,7 +32177,7 @@ Asteroid	"Alhir System S162"
 	}
 }
 
-Asteroid	"Alhir System S163"
+Asteroid	"Althir System S163"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -32284,7 +32284,7 @@ Asteroid	"Alhir System S163"
 	}
 }
 
-Asteroid	"Alhir System S164"
+Asteroid	"Althir System S164"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -32391,7 +32391,7 @@ Asteroid	"Alhir System S164"
 	}
 }
 
-Asteroid	"Alhir System S165"
+Asteroid	"Althir System S165"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -32498,7 +32498,7 @@ Asteroid	"Alhir System S165"
 	}
 }
 
-Asteroid	"Alhir System S166"
+Asteroid	"Althir System S166"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -32605,7 +32605,7 @@ Asteroid	"Alhir System S166"
 	}
 }
 
-Asteroid	"Alhir System S167"
+Asteroid	"Althir System S167"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -32712,7 +32712,7 @@ Asteroid	"Alhir System S167"
 	}
 }
 
-Asteroid	"Alhir System S168"
+Asteroid	"Althir System S168"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -32819,7 +32819,7 @@ Asteroid	"Alhir System S168"
 	}
 }
 
-Asteroid	"Alhir System S169"
+Asteroid	"Althir System S169"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -32926,7 +32926,7 @@ Asteroid	"Alhir System S169"
 	}
 }
 
-Asteroid	"Alhir System S170"
+Asteroid	"Althir System S170"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -33033,7 +33033,7 @@ Asteroid	"Alhir System S170"
 	}
 }
 
-Asteroid	"Alhir System S171"
+Asteroid	"Althir System S171"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -33140,7 +33140,7 @@ Asteroid	"Alhir System S171"
 	}
 }
 
-Asteroid	"Alhir System S172"
+Asteroid	"Althir System S172"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -33247,7 +33247,7 @@ Asteroid	"Alhir System S172"
 	}
 }
 
-Asteroid	"Alhir System S173"
+Asteroid	"Althir System S173"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -33354,7 +33354,7 @@ Asteroid	"Alhir System S173"
 	}
 }
 
-Asteroid	"Alhir System S174"
+Asteroid	"Althir System S174"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -33461,7 +33461,7 @@ Asteroid	"Alhir System S174"
 	}
 }
 
-Asteroid	"Alhir System S175"
+Asteroid	"Althir System S175"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -33568,7 +33568,7 @@ Asteroid	"Alhir System S175"
 	}
 }
 
-Asteroid	"Alhir System S176"
+Asteroid	"Althir System S176"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -33675,7 +33675,7 @@ Asteroid	"Alhir System S176"
 	}
 }
 
-Asteroid	"Alhir System S177"
+Asteroid	"Althir System S177"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -33782,7 +33782,7 @@ Asteroid	"Alhir System S177"
 	}
 }
 
-Asteroid	"Alhir System S178"
+Asteroid	"Althir System S178"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -33889,7 +33889,7 @@ Asteroid	"Alhir System S178"
 	}
 }
 
-Asteroid	"Alhir System S179"
+Asteroid	"Althir System S179"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -33996,7 +33996,7 @@ Asteroid	"Alhir System S179"
 	}
 }
 
-Asteroid	"Alhir System S180"
+Asteroid	"Althir System S180"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -34103,7 +34103,7 @@ Asteroid	"Alhir System S180"
 	}
 }
 
-Asteroid	"Alhir System S181"
+Asteroid	"Althir System S181"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -34210,7 +34210,7 @@ Asteroid	"Alhir System S181"
 	}
 }
 
-Asteroid	"Alhir System S182"
+Asteroid	"Althir System S182"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -34317,7 +34317,7 @@ Asteroid	"Alhir System S182"
 	}
 }
 
-Asteroid	"Alhir System S183"
+Asteroid	"Althir System S183"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -34424,7 +34424,7 @@ Asteroid	"Alhir System S183"
 	}
 }
 
-Asteroid	"Alhir System S184"
+Asteroid	"Althir System S184"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -34531,7 +34531,7 @@ Asteroid	"Alhir System S184"
 	}
 }
 
-Asteroid	"Alhir System S185"
+Asteroid	"Althir System S185"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -34638,7 +34638,7 @@ Asteroid	"Alhir System S185"
 	}
 }
 
-Asteroid	"Alhir System S186"
+Asteroid	"Althir System S186"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -34745,7 +34745,7 @@ Asteroid	"Alhir System S186"
 	}
 }
 
-Asteroid	"Alhir System S187"
+Asteroid	"Althir System S187"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -34852,7 +34852,7 @@ Asteroid	"Alhir System S187"
 	}
 }
 
-Asteroid	"Alhir System S188"
+Asteroid	"Althir System S188"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -34959,7 +34959,7 @@ Asteroid	"Alhir System S188"
 	}
 }
 
-Asteroid	"Alhir System S189"
+Asteroid	"Althir System S189"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -35066,7 +35066,7 @@ Asteroid	"Alhir System S189"
 	}
 }
 
-Asteroid	"Alhir System S190"
+Asteroid	"Althir System S190"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -35173,7 +35173,7 @@ Asteroid	"Alhir System S190"
 	}
 }
 
-Asteroid	"Alhir System S191"
+Asteroid	"Althir System S191"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -35280,7 +35280,7 @@ Asteroid	"Alhir System S191"
 	}
 }
 
-Asteroid	"Alhir System S192"
+Asteroid	"Althir System S192"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -35387,7 +35387,7 @@ Asteroid	"Alhir System S192"
 	}
 }
 
-Asteroid	"Alhir System S193"
+Asteroid	"Althir System S193"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -35494,7 +35494,7 @@ Asteroid	"Alhir System S193"
 	}
 }
 
-Asteroid	"Alhir System S194"
+Asteroid	"Althir System S194"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -35601,7 +35601,7 @@ Asteroid	"Alhir System S194"
 	}
 }
 
-Asteroid	"Alhir System S195"
+Asteroid	"Althir System S195"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -35708,7 +35708,7 @@ Asteroid	"Alhir System S195"
 	}
 }
 
-Asteroid	"Alhir System S196"
+Asteroid	"Althir System S196"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -35815,7 +35815,7 @@ Asteroid	"Alhir System S196"
 	}
 }
 
-Asteroid	"Alhir System S197"
+Asteroid	"Althir System S197"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -35922,7 +35922,7 @@ Asteroid	"Alhir System S197"
 	}
 }
 
-Asteroid	"Alhir System S198"
+Asteroid	"Althir System S198"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -36029,7 +36029,7 @@ Asteroid	"Alhir System S198"
 	}
 }
 
-Asteroid	"Alhir System S199"
+Asteroid	"Althir System S199"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -36136,7 +36136,7 @@ Asteroid	"Alhir System S199"
 	}
 }
 
-Asteroid	"Alhir System S200"
+Asteroid	"Althir System S200"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -36243,7 +36243,7 @@ Asteroid	"Alhir System S200"
 	}
 }
 
-Asteroid	"Alhir System S201"
+Asteroid	"Althir System S201"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -36350,7 +36350,7 @@ Asteroid	"Alhir System S201"
 	}
 }
 
-Asteroid	"Alhir System S202"
+Asteroid	"Althir System S202"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -36457,7 +36457,7 @@ Asteroid	"Alhir System S202"
 	}
 }
 
-Asteroid	"Alhir System S203"
+Asteroid	"Althir System S203"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -36564,7 +36564,7 @@ Asteroid	"Alhir System S203"
 	}
 }
 
-Asteroid	"Alhir System S204"
+Asteroid	"Althir System S204"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -36671,7 +36671,7 @@ Asteroid	"Alhir System S204"
 	}
 }
 
-Asteroid	"Alhir System S205"
+Asteroid	"Althir System S205"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -36778,7 +36778,7 @@ Asteroid	"Alhir System S205"
 	}
 }
 
-Asteroid	"Alhir System S206"
+Asteroid	"Althir System S206"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -36885,7 +36885,7 @@ Asteroid	"Alhir System S206"
 	}
 }
 
-Asteroid	"Alhir System S207"
+Asteroid	"Althir System S207"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -36992,7 +36992,7 @@ Asteroid	"Alhir System S207"
 	}
 }
 
-Asteroid	"Alhir System S208"
+Asteroid	"Althir System S208"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -37099,7 +37099,7 @@ Asteroid	"Alhir System S208"
 	}
 }
 
-Asteroid	"Alhir System S209"
+Asteroid	"Althir System S209"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -37206,7 +37206,7 @@ Asteroid	"Alhir System S209"
 	}
 }
 
-Asteroid	"Alhir System S210"
+Asteroid	"Althir System S210"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -37313,7 +37313,7 @@ Asteroid	"Alhir System S210"
 	}
 }
 
-Asteroid	"Alhir System S211"
+Asteroid	"Althir System S211"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -37420,7 +37420,7 @@ Asteroid	"Alhir System S211"
 	}
 }
 
-Asteroid	"Alhir System S212"
+Asteroid	"Althir System S212"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -37527,7 +37527,7 @@ Asteroid	"Alhir System S212"
 	}
 }
 
-Asteroid	"Alhir System S213"
+Asteroid	"Althir System S213"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -37634,7 +37634,7 @@ Asteroid	"Alhir System S213"
 	}
 }
 
-Asteroid	"Alhir System S214"
+Asteroid	"Althir System S214"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -37741,7 +37741,7 @@ Asteroid	"Alhir System S214"
 	}
 }
 
-Asteroid	"Alhir System S215"
+Asteroid	"Althir System S215"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -37848,7 +37848,7 @@ Asteroid	"Alhir System S215"
 	}
 }
 
-Asteroid	"Alhir System S216"
+Asteroid	"Althir System S216"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -37955,7 +37955,7 @@ Asteroid	"Alhir System S216"
 	}
 }
 
-Asteroid	"Alhir System S217"
+Asteroid	"Althir System S217"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -38062,7 +38062,7 @@ Asteroid	"Alhir System S217"
 	}
 }
 
-Asteroid	"Alhir System S218"
+Asteroid	"Althir System S218"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -38169,7 +38169,7 @@ Asteroid	"Alhir System S218"
 	}
 }
 
-Asteroid	"Alhir System S219"
+Asteroid	"Althir System S219"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -38276,7 +38276,7 @@ Asteroid	"Alhir System S219"
 	}
 }
 
-Asteroid	"Alhir System S220"
+Asteroid	"Althir System S220"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -38383,7 +38383,7 @@ Asteroid	"Alhir System S220"
 	}
 }
 
-Asteroid	"Alhir System S221"
+Asteroid	"Althir System S221"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -38490,7 +38490,7 @@ Asteroid	"Alhir System S221"
 	}
 }
 
-Asteroid	"Alhir System S222"
+Asteroid	"Althir System S222"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -38597,7 +38597,7 @@ Asteroid	"Alhir System S222"
 	}
 }
 
-Asteroid	"Alhir System S223"
+Asteroid	"Althir System S223"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -38704,7 +38704,7 @@ Asteroid	"Alhir System S223"
 	}
 }
 
-Asteroid	"Alhir System S224"
+Asteroid	"Althir System S224"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -38811,7 +38811,7 @@ Asteroid	"Alhir System S224"
 	}
 }
 
-Asteroid	"Alhir System S225"
+Asteroid	"Althir System S225"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -38918,7 +38918,7 @@ Asteroid	"Alhir System S225"
 	}
 }
 
-Asteroid	"Alhir System S226"
+Asteroid	"Althir System S226"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -39025,7 +39025,7 @@ Asteroid	"Alhir System S226"
 	}
 }
 
-Asteroid	"Alhir System S227"
+Asteroid	"Althir System S227"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -39132,7 +39132,7 @@ Asteroid	"Alhir System S227"
 	}
 }
 
-Asteroid	"Alhir System S228"
+Asteroid	"Althir System S228"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -39239,7 +39239,7 @@ Asteroid	"Alhir System S228"
 	}
 }
 
-Asteroid	"Alhir System S229"
+Asteroid	"Althir System S229"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -39346,7 +39346,7 @@ Asteroid	"Alhir System S229"
 	}
 }
 
-Asteroid	"Alhir System S230"
+Asteroid	"Althir System S230"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -39453,7 +39453,7 @@ Asteroid	"Alhir System S230"
 	}
 }
 
-Asteroid	"Alhir System S231"
+Asteroid	"Althir System S231"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -39560,7 +39560,7 @@ Asteroid	"Alhir System S231"
 	}
 }
 
-Asteroid	"Alhir System S232"
+Asteroid	"Althir System S232"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -39667,7 +39667,7 @@ Asteroid	"Alhir System S232"
 	}
 }
 
-Asteroid	"Alhir System S233"
+Asteroid	"Althir System S233"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -39774,7 +39774,7 @@ Asteroid	"Alhir System S233"
 	}
 }
 
-Asteroid	"Alhir System S234"
+Asteroid	"Althir System S234"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -39881,7 +39881,7 @@ Asteroid	"Alhir System S234"
 	}
 }
 
-Asteroid	"Alhir System S235"
+Asteroid	"Althir System S235"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -39988,7 +39988,7 @@ Asteroid	"Alhir System S235"
 	}
 }
 
-Asteroid	"Alhir System S236"
+Asteroid	"Althir System S236"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -40095,7 +40095,7 @@ Asteroid	"Alhir System S236"
 	}
 }
 
-Asteroid	"Alhir System S237"
+Asteroid	"Althir System S237"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -40202,7 +40202,7 @@ Asteroid	"Alhir System S237"
 	}
 }
 
-Asteroid	"Alhir System S238"
+Asteroid	"Althir System S238"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -40309,7 +40309,7 @@ Asteroid	"Alhir System S238"
 	}
 }
 
-Asteroid	"Alhir System S239"
+Asteroid	"Althir System S239"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -40416,7 +40416,7 @@ Asteroid	"Alhir System S239"
 	}
 }
 
-Asteroid	"Alhir System S240"
+Asteroid	"Althir System S240"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -40523,7 +40523,7 @@ Asteroid	"Alhir System S240"
 	}
 }
 
-Asteroid	"Alhir System S241"
+Asteroid	"Althir System S241"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -40630,7 +40630,7 @@ Asteroid	"Alhir System S241"
 	}
 }
 
-Asteroid	"Alhir System S242"
+Asteroid	"Althir System S242"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -40737,7 +40737,7 @@ Asteroid	"Alhir System S242"
 	}
 }
 
-Asteroid	"Alhir System S243"
+Asteroid	"Althir System S243"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -40844,7 +40844,7 @@ Asteroid	"Alhir System S243"
 	}
 }
 
-Asteroid	"Alhir System S244"
+Asteroid	"Althir System S244"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -40951,7 +40951,7 @@ Asteroid	"Alhir System S244"
 	}
 }
 
-Asteroid	"Alhir System S245"
+Asteroid	"Althir System S245"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -41058,7 +41058,7 @@ Asteroid	"Alhir System S245"
 	}
 }
 
-Asteroid	"Alhir System S246"
+Asteroid	"Althir System S246"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -41165,7 +41165,7 @@ Asteroid	"Alhir System S246"
 	}
 }
 
-Asteroid	"Alhir System S247"
+Asteroid	"Althir System S247"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -41272,7 +41272,7 @@ Asteroid	"Alhir System S247"
 	}
 }
 
-Asteroid	"Alhir System S248"
+Asteroid	"Althir System S248"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -41379,7 +41379,7 @@ Asteroid	"Alhir System S248"
 	}
 }
 
-Asteroid	"Alhir System S249"
+Asteroid	"Althir System S249"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -41486,7 +41486,7 @@ Asteroid	"Alhir System S249"
 	}
 }
 
-Asteroid	"Alhir System S250"
+Asteroid	"Althir System S250"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -41593,7 +41593,7 @@ Asteroid	"Alhir System S250"
 	}
 }
 
-Asteroid	"Alhir System S251"
+Asteroid	"Althir System S251"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -41700,7 +41700,7 @@ Asteroid	"Alhir System S251"
 	}
 }
 
-Asteroid	"Alhir System S252"
+Asteroid	"Althir System S252"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -41807,7 +41807,7 @@ Asteroid	"Alhir System S252"
 	}
 }
 
-Asteroid	"Alhir System S253"
+Asteroid	"Althir System S253"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -41914,7 +41914,7 @@ Asteroid	"Alhir System S253"
 	}
 }
 
-Asteroid	"Alhir System S254"
+Asteroid	"Althir System S254"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -42021,7 +42021,7 @@ Asteroid	"Alhir System S254"
 	}
 }
 
-Asteroid	"Alhir System S255"
+Asteroid	"Althir System S255"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -42128,7 +42128,7 @@ Asteroid	"Alhir System S255"
 	}
 }
 
-Asteroid	"Alhir System S256"
+Asteroid	"Althir System S256"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -42235,7 +42235,7 @@ Asteroid	"Alhir System S256"
 	}
 }
 
-Asteroid	"Alhir System S257"
+Asteroid	"Althir System S257"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -42342,7 +42342,7 @@ Asteroid	"Alhir System S257"
 	}
 }
 
-Asteroid	"Alhir System S258"
+Asteroid	"Althir System S258"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -42449,7 +42449,7 @@ Asteroid	"Alhir System S258"
 	}
 }
 
-Asteroid	"Alhir System S259"
+Asteroid	"Althir System S259"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -42556,7 +42556,7 @@ Asteroid	"Alhir System S259"
 	}
 }
 
-Asteroid	"Alhir System S260"
+Asteroid	"Althir System S260"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -42663,7 +42663,7 @@ Asteroid	"Alhir System S260"
 	}
 }
 
-Asteroid	"Alhir System S261"
+Asteroid	"Althir System S261"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -42770,7 +42770,7 @@ Asteroid	"Alhir System S261"
 	}
 }
 
-Asteroid	"Alhir System S262"
+Asteroid	"Althir System S262"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -42877,7 +42877,7 @@ Asteroid	"Alhir System S262"
 	}
 }
 
-Asteroid	"Alhir System S263"
+Asteroid	"Althir System S263"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -42984,7 +42984,7 @@ Asteroid	"Alhir System S263"
 	}
 }
 
-Asteroid	"Alhir System S264"
+Asteroid	"Althir System S264"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -43091,7 +43091,7 @@ Asteroid	"Alhir System S264"
 	}
 }
 
-Asteroid	"Alhir System S265"
+Asteroid	"Althir System S265"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -43198,7 +43198,7 @@ Asteroid	"Alhir System S265"
 	}
 }
 
-Asteroid	"Alhir System S266"
+Asteroid	"Althir System S266"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -43305,7 +43305,7 @@ Asteroid	"Alhir System S266"
 	}
 }
 
-Asteroid	"Alhir System S267"
+Asteroid	"Althir System S267"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -43412,7 +43412,7 @@ Asteroid	"Alhir System S267"
 	}
 }
 
-Asteroid	"Alhir System S268"
+Asteroid	"Althir System S268"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -43519,7 +43519,7 @@ Asteroid	"Alhir System S268"
 	}
 }
 
-Asteroid	"Alhir System S269"
+Asteroid	"Althir System S269"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -43626,7 +43626,7 @@ Asteroid	"Alhir System S269"
 	}
 }
 
-Asteroid	"Alhir System S270"
+Asteroid	"Althir System S270"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -43733,7 +43733,7 @@ Asteroid	"Alhir System S270"
 	}
 }
 
-Asteroid	"Alhir System S271"
+Asteroid	"Althir System S271"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -43840,7 +43840,7 @@ Asteroid	"Alhir System S271"
 	}
 }
 
-Asteroid	"Alhir System S272"
+Asteroid	"Althir System S272"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -43947,7 +43947,7 @@ Asteroid	"Alhir System S272"
 	}
 }
 
-Asteroid	"Alhir System S273"
+Asteroid	"Althir System S273"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -44054,7 +44054,7 @@ Asteroid	"Alhir System S273"
 	}
 }
 
-Asteroid	"Alhir System S274"
+Asteroid	"Althir System S274"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -44161,7 +44161,7 @@ Asteroid	"Alhir System S274"
 	}
 }
 
-Asteroid	"Alhir System S275"
+Asteroid	"Althir System S275"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -44268,7 +44268,7 @@ Asteroid	"Alhir System S275"
 	}
 }
 
-Asteroid	"Alhir System S276"
+Asteroid	"Althir System S276"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -44375,7 +44375,7 @@ Asteroid	"Alhir System S276"
 	}
 }
 
-Asteroid	"Alhir System S277"
+Asteroid	"Althir System S277"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -44482,7 +44482,7 @@ Asteroid	"Alhir System S277"
 	}
 }
 
-Asteroid	"Alhir System S278"
+Asteroid	"Althir System S278"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -44589,7 +44589,7 @@ Asteroid	"Alhir System S278"
 	}
 }
 
-Asteroid	"Alhir System S279"
+Asteroid	"Althir System S279"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -44696,7 +44696,7 @@ Asteroid	"Alhir System S279"
 	}
 }
 
-Asteroid	"Alhir System S280"
+Asteroid	"Althir System S280"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -44803,7 +44803,7 @@ Asteroid	"Alhir System S280"
 	}
 }
 
-Asteroid	"Alhir System S281"
+Asteroid	"Althir System S281"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -44910,7 +44910,7 @@ Asteroid	"Alhir System S281"
 	}
 }
 
-Asteroid	"Alhir System S282"
+Asteroid	"Althir System S282"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -45017,7 +45017,7 @@ Asteroid	"Alhir System S282"
 	}
 }
 
-Asteroid	"Alhir System S283"
+Asteroid	"Althir System S283"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -45124,7 +45124,7 @@ Asteroid	"Alhir System S283"
 	}
 }
 
-Asteroid	"Alhir System S284"
+Asteroid	"Althir System S284"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -45231,7 +45231,7 @@ Asteroid	"Alhir System S284"
 	}
 }
 
-Asteroid	"Alhir System S285"
+Asteroid	"Althir System S285"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -45338,7 +45338,7 @@ Asteroid	"Alhir System S285"
 	}
 }
 
-Asteroid	"Alhir System S286"
+Asteroid	"Althir System S286"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -45445,7 +45445,7 @@ Asteroid	"Alhir System S286"
 	}
 }
 
-Asteroid	"Alhir System S287"
+Asteroid	"Althir System S287"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -45552,7 +45552,7 @@ Asteroid	"Alhir System S287"
 	}
 }
 
-Asteroid	"Alhir System S288"
+Asteroid	"Althir System S288"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -45659,7 +45659,7 @@ Asteroid	"Alhir System S288"
 	}
 }
 
-Asteroid	"Alhir System S289"
+Asteroid	"Althir System S289"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -45766,7 +45766,7 @@ Asteroid	"Alhir System S289"
 	}
 }
 
-Asteroid	"Alhir System S290"
+Asteroid	"Althir System S290"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -45873,7 +45873,7 @@ Asteroid	"Alhir System S290"
 	}
 }
 
-Asteroid	"Alhir System S291"
+Asteroid	"Althir System S291"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -45980,7 +45980,7 @@ Asteroid	"Alhir System S291"
 	}
 }
 
-Asteroid	"Alhir System S292"
+Asteroid	"Althir System S292"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -46087,7 +46087,7 @@ Asteroid	"Alhir System S292"
 	}
 }
 
-Asteroid	"Alhir System S293"
+Asteroid	"Althir System S293"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -46194,7 +46194,7 @@ Asteroid	"Alhir System S293"
 	}
 }
 
-Asteroid	"Alhir System S294"
+Asteroid	"Althir System S294"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -46301,7 +46301,7 @@ Asteroid	"Alhir System S294"
 	}
 }
 
-Asteroid	"Alhir System S295"
+Asteroid	"Althir System S295"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -46408,7 +46408,7 @@ Asteroid	"Alhir System S295"
 	}
 }
 
-Asteroid	"Alhir System S296"
+Asteroid	"Althir System S296"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -46515,7 +46515,7 @@ Asteroid	"Alhir System S296"
 	}
 }
 
-Asteroid	"Alhir System S297"
+Asteroid	"Althir System S297"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -46622,7 +46622,7 @@ Asteroid	"Alhir System S297"
 	}
 }
 
-Asteroid	"Alhir System S298"
+Asteroid	"Althir System S298"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -46729,7 +46729,7 @@ Asteroid	"Alhir System S298"
 	}
 }
 
-Asteroid	"Alhir System S299"
+Asteroid	"Althir System S299"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -46836,7 +46836,7 @@ Asteroid	"Alhir System S299"
 	}
 }
 
-Asteroid	"Alhir System S300"
+Asteroid	"Althir System S300"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -46943,7 +46943,7 @@ Asteroid	"Alhir System S300"
 	}
 }
 
-Asteroid	"Alhir System S301"
+Asteroid	"Althir System S301"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -47050,7 +47050,7 @@ Asteroid	"Alhir System S301"
 	}
 }
 
-Asteroid	"Alhir System S302"
+Asteroid	"Althir System S302"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -47157,7 +47157,7 @@ Asteroid	"Alhir System S302"
 	}
 }
 
-Asteroid	"Alhir System S303"
+Asteroid	"Althir System S303"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -47264,7 +47264,7 @@ Asteroid	"Alhir System S303"
 	}
 }
 
-Asteroid	"Alhir System S304"
+Asteroid	"Althir System S304"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -47371,7 +47371,7 @@ Asteroid	"Alhir System S304"
 	}
 }
 
-Asteroid	"Alhir System S305"
+Asteroid	"Althir System S305"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -47478,7 +47478,7 @@ Asteroid	"Alhir System S305"
 	}
 }
 
-Asteroid	"Alhir System S306"
+Asteroid	"Althir System S306"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -47585,7 +47585,7 @@ Asteroid	"Alhir System S306"
 	}
 }
 
-Asteroid	"Alhir System S307"
+Asteroid	"Althir System S307"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -47692,7 +47692,7 @@ Asteroid	"Alhir System S307"
 	}
 }
 
-Asteroid	"Alhir System S308"
+Asteroid	"Althir System S308"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -47799,7 +47799,7 @@ Asteroid	"Alhir System S308"
 	}
 }
 
-Asteroid	"Alhir System S309"
+Asteroid	"Althir System S309"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -47906,7 +47906,7 @@ Asteroid	"Alhir System S309"
 	}
 }
 
-Asteroid	"Alhir System S310"
+Asteroid	"Althir System S310"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -48013,7 +48013,7 @@ Asteroid	"Alhir System S310"
 	}
 }
 
-Asteroid	"Alhir System S311"
+Asteroid	"Althir System S311"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -48120,7 +48120,7 @@ Asteroid	"Alhir System S311"
 	}
 }
 
-Asteroid	"Alhir System S312"
+Asteroid	"Althir System S312"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -48227,7 +48227,7 @@ Asteroid	"Alhir System S312"
 	}
 }
 
-Asteroid	"Alhir System S313"
+Asteroid	"Althir System S313"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -48334,7 +48334,7 @@ Asteroid	"Alhir System S313"
 	}
 }
 
-Asteroid	"Alhir System S314"
+Asteroid	"Althir System S314"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -48441,7 +48441,7 @@ Asteroid	"Alhir System S314"
 	}
 }
 
-Asteroid	"Alhir System S315"
+Asteroid	"Althir System S315"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -48548,7 +48548,7 @@ Asteroid	"Alhir System S315"
 	}
 }
 
-Asteroid	"Alhir System S316"
+Asteroid	"Althir System S316"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -48655,7 +48655,7 @@ Asteroid	"Alhir System S316"
 	}
 }
 
-Asteroid	"Alhir System S317"
+Asteroid	"Althir System S317"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -48762,7 +48762,7 @@ Asteroid	"Alhir System S317"
 	}
 }
 
-Asteroid	"Alhir System S318"
+Asteroid	"Althir System S318"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -48869,7 +48869,7 @@ Asteroid	"Alhir System S318"
 	}
 }
 
-Asteroid	"Alhir System S319"
+Asteroid	"Althir System S319"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -48976,7 +48976,7 @@ Asteroid	"Alhir System S319"
 	}
 }
 
-Asteroid	"Alhir System S320"
+Asteroid	"Althir System S320"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -49083,7 +49083,7 @@ Asteroid	"Alhir System S320"
 	}
 }
 
-Asteroid	"Alhir System S321"
+Asteroid	"Althir System S321"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -49190,7 +49190,7 @@ Asteroid	"Alhir System S321"
 	}
 }
 
-Asteroid	"Alhir System S322"
+Asteroid	"Althir System S322"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -49297,7 +49297,7 @@ Asteroid	"Alhir System S322"
 	}
 }
 
-Asteroid	"Alhir System S323"
+Asteroid	"Althir System S323"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -49404,7 +49404,7 @@ Asteroid	"Alhir System S323"
 	}
 }
 
-Asteroid	"Alhir System S324"
+Asteroid	"Althir System S324"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -49511,7 +49511,7 @@ Asteroid	"Alhir System S324"
 	}
 }
 
-Asteroid	"Alhir System S325"
+Asteroid	"Althir System S325"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -49618,7 +49618,7 @@ Asteroid	"Alhir System S325"
 	}
 }
 
-Asteroid	"Alhir System S326"
+Asteroid	"Althir System S326"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -49725,7 +49725,7 @@ Asteroid	"Alhir System S326"
 	}
 }
 
-Asteroid	"Alhir System S327"
+Asteroid	"Althir System S327"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -49832,7 +49832,7 @@ Asteroid	"Alhir System S327"
 	}
 }
 
-Asteroid	"Alhir System S328"
+Asteroid	"Althir System S328"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -49939,7 +49939,7 @@ Asteroid	"Alhir System S328"
 	}
 }
 
-Asteroid	"Alhir System S329"
+Asteroid	"Althir System S329"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -50046,7 +50046,7 @@ Asteroid	"Alhir System S329"
 	}
 }
 
-Asteroid	"Alhir System S330"
+Asteroid	"Althir System S330"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -50153,7 +50153,7 @@ Asteroid	"Alhir System S330"
 	}
 }
 
-Asteroid	"Alhir System S331"
+Asteroid	"Althir System S331"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -50260,7 +50260,7 @@ Asteroid	"Alhir System S331"
 	}
 }
 
-Asteroid	"Alhir System S332"
+Asteroid	"Althir System S332"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -50367,7 +50367,7 @@ Asteroid	"Alhir System S332"
 	}
 }
 
-Asteroid	"Alhir System S333"
+Asteroid	"Althir System S333"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -50474,7 +50474,7 @@ Asteroid	"Alhir System S333"
 	}
 }
 
-Asteroid	"Alhir System S334"
+Asteroid	"Althir System S334"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -50581,7 +50581,7 @@ Asteroid	"Alhir System S334"
 	}
 }
 
-Asteroid	"Alhir System S335"
+Asteroid	"Althir System S335"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -50688,7 +50688,7 @@ Asteroid	"Alhir System S335"
 	}
 }
 
-Asteroid	"Alhir System S336"
+Asteroid	"Althir System S336"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -50795,7 +50795,7 @@ Asteroid	"Alhir System S336"
 	}
 }
 
-Asteroid	"Alhir System S337"
+Asteroid	"Althir System S337"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -50902,7 +50902,7 @@ Asteroid	"Alhir System S337"
 	}
 }
 
-Asteroid	"Alhir System S338"
+Asteroid	"Althir System S338"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -51009,7 +51009,7 @@ Asteroid	"Alhir System S338"
 	}
 }
 
-Asteroid	"Alhir System S339"
+Asteroid	"Althir System S339"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -51116,7 +51116,7 @@ Asteroid	"Alhir System S339"
 	}
 }
 
-Asteroid	"Alhir System S340"
+Asteroid	"Althir System S340"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -51223,7 +51223,7 @@ Asteroid	"Alhir System S340"
 	}
 }
 
-Asteroid	"Alhir System S341"
+Asteroid	"Althir System S341"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -51330,7 +51330,7 @@ Asteroid	"Alhir System S341"
 	}
 }
 
-Asteroid	"Alhir System S342"
+Asteroid	"Althir System S342"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -51437,7 +51437,7 @@ Asteroid	"Alhir System S342"
 	}
 }
 
-Asteroid	"Alhir System S343"
+Asteroid	"Althir System S343"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -51544,7 +51544,7 @@ Asteroid	"Alhir System S343"
 	}
 }
 
-Asteroid	"Alhir System S344"
+Asteroid	"Althir System S344"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -51651,7 +51651,7 @@ Asteroid	"Alhir System S344"
 	}
 }
 
-Asteroid	"Alhir System S345"
+Asteroid	"Althir System S345"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -51758,7 +51758,7 @@ Asteroid	"Alhir System S345"
 	}
 }
 
-Asteroid	"Alhir System S346"
+Asteroid	"Althir System S346"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -51865,7 +51865,7 @@ Asteroid	"Alhir System S346"
 	}
 }
 
-Asteroid	"Alhir System S347"
+Asteroid	"Althir System S347"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -51972,7 +51972,7 @@ Asteroid	"Alhir System S347"
 	}
 }
 
-Asteroid	"Alhir System S348"
+Asteroid	"Althir System S348"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -52079,7 +52079,7 @@ Asteroid	"Alhir System S348"
 	}
 }
 
-Asteroid	"Alhir System S349"
+Asteroid	"Althir System S349"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -52186,7 +52186,7 @@ Asteroid	"Alhir System S349"
 	}
 }
 
-Asteroid	"Alhir System S350"
+Asteroid	"Althir System S350"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -52293,7 +52293,7 @@ Asteroid	"Alhir System S350"
 	}
 }
 
-Asteroid	"Alhir System S351"
+Asteroid	"Althir System S351"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -52400,7 +52400,7 @@ Asteroid	"Alhir System S351"
 	}
 }
 
-Asteroid	"Alhir System S352"
+Asteroid	"Althir System S352"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -52507,7 +52507,7 @@ Asteroid	"Alhir System S352"
 	}
 }
 
-Asteroid	"Alhir System S353"
+Asteroid	"Althir System S353"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -52614,7 +52614,7 @@ Asteroid	"Alhir System S353"
 	}
 }
 
-Asteroid	"Alhir System S354"
+Asteroid	"Althir System S354"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -52721,7 +52721,7 @@ Asteroid	"Alhir System S354"
 	}
 }
 
-Asteroid	"Alhir System S355"
+Asteroid	"Althir System S355"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -52828,7 +52828,7 @@ Asteroid	"Alhir System S355"
 	}
 }
 
-Asteroid	"Alhir System S356"
+Asteroid	"Althir System S356"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -52935,7 +52935,7 @@ Asteroid	"Alhir System S356"
 	}
 }
 
-Asteroid	"Alhir System S357"
+Asteroid	"Althir System S357"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -53042,7 +53042,7 @@ Asteroid	"Alhir System S357"
 	}
 }
 
-Asteroid	"Alhir System S358"
+Asteroid	"Althir System S358"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -53149,7 +53149,7 @@ Asteroid	"Alhir System S358"
 	}
 }
 
-Asteroid	"Alhir System S359"
+Asteroid	"Althir System S359"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -53256,7 +53256,7 @@ Asteroid	"Alhir System S359"
 	}
 }
 
-Asteroid	"Alhir System S360"
+Asteroid	"Althir System S360"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -53363,7 +53363,7 @@ Asteroid	"Alhir System S360"
 	}
 }
 
-Asteroid	"Alhir System S361"
+Asteroid	"Althir System S361"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -53470,7 +53470,7 @@ Asteroid	"Alhir System S361"
 	}
 }
 
-Asteroid	"Alhir System S362"
+Asteroid	"Althir System S362"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -53577,7 +53577,7 @@ Asteroid	"Alhir System S362"
 	}
 }
 
-Asteroid	"Alhir System S363"
+Asteroid	"Althir System S363"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -53684,7 +53684,7 @@ Asteroid	"Alhir System S363"
 	}
 }
 
-Asteroid	"Alhir System S364"
+Asteroid	"Althir System S364"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -53791,7 +53791,7 @@ Asteroid	"Alhir System S364"
 	}
 }
 
-Asteroid	"Alhir System S365"
+Asteroid	"Althir System S365"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -53898,7 +53898,7 @@ Asteroid	"Alhir System S365"
 	}
 }
 
-Asteroid	"Alhir System S366"
+Asteroid	"Althir System S366"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -54005,7 +54005,7 @@ Asteroid	"Alhir System S366"
 	}
 }
 
-Asteroid	"Alhir System S367"
+Asteroid	"Althir System S367"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -54112,7 +54112,7 @@ Asteroid	"Alhir System S367"
 	}
 }
 
-Asteroid	"Alhir System S368"
+Asteroid	"Althir System S368"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -54219,7 +54219,7 @@ Asteroid	"Alhir System S368"
 	}
 }
 
-Asteroid	"Alhir System S369"
+Asteroid	"Althir System S369"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -54326,7 +54326,7 @@ Asteroid	"Alhir System S369"
 	}
 }
 
-Asteroid	"Alhir System S370"
+Asteroid	"Althir System S370"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -54433,7 +54433,7 @@ Asteroid	"Alhir System S370"
 	}
 }
 
-Asteroid	"Alhir System S371"
+Asteroid	"Althir System S371"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -54540,7 +54540,7 @@ Asteroid	"Alhir System S371"
 	}
 }
 
-Asteroid	"Alhir System S372"
+Asteroid	"Althir System S372"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -54647,7 +54647,7 @@ Asteroid	"Alhir System S372"
 	}
 }
 
-Asteroid	"Alhir System S373"
+Asteroid	"Althir System S373"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -54754,7 +54754,7 @@ Asteroid	"Alhir System S373"
 	}
 }
 
-Asteroid	"Alhir System S374"
+Asteroid	"Althir System S374"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -54861,7 +54861,7 @@ Asteroid	"Alhir System S374"
 	}
 }
 
-Asteroid	"Alhir System S375"
+Asteroid	"Althir System S375"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -54968,7 +54968,7 @@ Asteroid	"Alhir System S375"
 	}
 }
 
-Asteroid	"Alhir System S376"
+Asteroid	"Althir System S376"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -55075,7 +55075,7 @@ Asteroid	"Alhir System S376"
 	}
 }
 
-Asteroid	"Alhir System S377"
+Asteroid	"Althir System S377"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -55182,7 +55182,7 @@ Asteroid	"Alhir System S377"
 	}
 }
 
-Asteroid	"Alhir System S378"
+Asteroid	"Althir System S378"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -55289,7 +55289,7 @@ Asteroid	"Alhir System S378"
 	}
 }
 
-Asteroid	"Alhir System S379"
+Asteroid	"Althir System S379"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -55396,7 +55396,7 @@ Asteroid	"Alhir System S379"
 	}
 }
 
-Asteroid	"Alhir System S380"
+Asteroid	"Althir System S380"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -55503,7 +55503,7 @@ Asteroid	"Alhir System S380"
 	}
 }
 
-Asteroid	"Alhir System S381"
+Asteroid	"Althir System S381"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -55610,7 +55610,7 @@ Asteroid	"Alhir System S381"
 	}
 }
 
-Asteroid	"Alhir System S382"
+Asteroid	"Althir System S382"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -55717,7 +55717,7 @@ Asteroid	"Alhir System S382"
 	}
 }
 
-Asteroid	"Alhir System S383"
+Asteroid	"Althir System S383"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -55824,7 +55824,7 @@ Asteroid	"Alhir System S383"
 	}
 }
 
-Asteroid	"Alhir System S384"
+Asteroid	"Althir System S384"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -55931,7 +55931,7 @@ Asteroid	"Alhir System S384"
 	}
 }
 
-Asteroid	"Alhir System S385"
+Asteroid	"Althir System S385"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -56038,7 +56038,7 @@ Asteroid	"Alhir System S385"
 	}
 }
 
-Asteroid	"Alhir System S386"
+Asteroid	"Althir System S386"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -56145,7 +56145,7 @@ Asteroid	"Alhir System S386"
 	}
 }
 
-Asteroid	"Alhir System S387"
+Asteroid	"Althir System S387"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -56252,7 +56252,7 @@ Asteroid	"Alhir System S387"
 	}
 }
 
-Asteroid	"Alhir System S388"
+Asteroid	"Althir System S388"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -56359,7 +56359,7 @@ Asteroid	"Alhir System S388"
 	}
 }
 
-Asteroid	"Alhir System S389"
+Asteroid	"Althir System S389"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -56466,7 +56466,7 @@ Asteroid	"Alhir System S389"
 	}
 }
 
-Asteroid	"Alhir System S390"
+Asteroid	"Althir System S390"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -56573,7 +56573,7 @@ Asteroid	"Alhir System S390"
 	}
 }
 
-Asteroid	"Alhir System S391"
+Asteroid	"Althir System S391"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -56680,7 +56680,7 @@ Asteroid	"Alhir System S391"
 	}
 }
 
-Asteroid	"Alhir System S392"
+Asteroid	"Althir System S392"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -56787,7 +56787,7 @@ Asteroid	"Alhir System S392"
 	}
 }
 
-Asteroid	"Alhir System S393"
+Asteroid	"Althir System S393"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -56894,7 +56894,7 @@ Asteroid	"Alhir System S393"
 	}
 }
 
-Asteroid	"Alhir System S394"
+Asteroid	"Althir System S394"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -57001,7 +57001,7 @@ Asteroid	"Alhir System S394"
 	}
 }
 
-Asteroid	"Alhir System S395"
+Asteroid	"Althir System S395"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -57108,7 +57108,7 @@ Asteroid	"Alhir System S395"
 	}
 }
 
-Asteroid	"Alhir System S396"
+Asteroid	"Althir System S396"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -57215,7 +57215,7 @@ Asteroid	"Alhir System S396"
 	}
 }
 
-Asteroid	"Alhir System S397"
+Asteroid	"Althir System S397"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -57322,7 +57322,7 @@ Asteroid	"Alhir System S397"
 	}
 }
 
-Asteroid	"Alhir System S398"
+Asteroid	"Althir System S398"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -57429,7 +57429,7 @@ Asteroid	"Alhir System S398"
 	}
 }
 
-Asteroid	"Alhir System S399"
+Asteroid	"Althir System S399"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -57536,7 +57536,7 @@ Asteroid	"Alhir System S399"
 	}
 }
 
-Asteroid	"Alhir System S400"
+Asteroid	"Althir System S400"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -57643,7 +57643,7 @@ Asteroid	"Alhir System S400"
 	}
 }
 
-Asteroid	"Alhir System S401"
+Asteroid	"Althir System S401"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -57750,7 +57750,7 @@ Asteroid	"Alhir System S401"
 	}
 }
 
-Asteroid	"Alhir System S402"
+Asteroid	"Althir System S402"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -57857,7 +57857,7 @@ Asteroid	"Alhir System S402"
 	}
 }
 
-Asteroid	"Alhir System S403"
+Asteroid	"Althir System S403"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -57964,7 +57964,7 @@ Asteroid	"Alhir System S403"
 	}
 }
 
-Asteroid	"Alhir System S404"
+Asteroid	"Althir System S404"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -58071,7 +58071,7 @@ Asteroid	"Alhir System S404"
 	}
 }
 
-Asteroid	"Alhir System S405"
+Asteroid	"Althir System S405"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -58178,7 +58178,7 @@ Asteroid	"Alhir System S405"
 	}
 }
 
-Asteroid	"Alhir System S406"
+Asteroid	"Althir System S406"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -58285,7 +58285,7 @@ Asteroid	"Alhir System S406"
 	}
 }
 
-Asteroid	"Alhir System S407"
+Asteroid	"Althir System S407"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -58392,7 +58392,7 @@ Asteroid	"Alhir System S407"
 	}
 }
 
-Asteroid	"Alhir System S408"
+Asteroid	"Althir System S408"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -58499,7 +58499,7 @@ Asteroid	"Alhir System S408"
 	}
 }
 
-Asteroid	"Alhir System S409"
+Asteroid	"Althir System S409"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -58606,7 +58606,7 @@ Asteroid	"Alhir System S409"
 	}
 }
 
-Asteroid	"Alhir System S410"
+Asteroid	"Althir System S410"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -58713,7 +58713,7 @@ Asteroid	"Alhir System S410"
 	}
 }
 
-Asteroid	"Alhir System S411"
+Asteroid	"Althir System S411"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -58820,7 +58820,7 @@ Asteroid	"Alhir System S411"
 	}
 }
 
-Asteroid	"Alhir System S412"
+Asteroid	"Althir System S412"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -58927,7 +58927,7 @@ Asteroid	"Alhir System S412"
 	}
 }
 
-Asteroid	"Alhir System S413"
+Asteroid	"Althir System S413"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -59034,7 +59034,7 @@ Asteroid	"Alhir System S413"
 	}
 }
 
-Asteroid	"Alhir System S414"
+Asteroid	"Althir System S414"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -59141,7 +59141,7 @@ Asteroid	"Alhir System S414"
 	}
 }
 
-Asteroid	"Alhir System S415"
+Asteroid	"Althir System S415"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -59248,7 +59248,7 @@ Asteroid	"Alhir System S415"
 	}
 }
 
-Asteroid	"Alhir System S416"
+Asteroid	"Althir System S416"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -59355,7 +59355,7 @@ Asteroid	"Alhir System S416"
 	}
 }
 
-Asteroid	"Alhir System S417"
+Asteroid	"Althir System S417"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -59462,7 +59462,7 @@ Asteroid	"Alhir System S417"
 	}
 }
 
-Asteroid	"Alhir System S418"
+Asteroid	"Althir System S418"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -59569,7 +59569,7 @@ Asteroid	"Alhir System S418"
 	}
 }
 
-Asteroid	"Alhir System S419"
+Asteroid	"Althir System S419"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -59676,7 +59676,7 @@ Asteroid	"Alhir System S419"
 	}
 }
 
-Asteroid	"Alhir System S420"
+Asteroid	"Althir System S420"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -59783,7 +59783,7 @@ Asteroid	"Alhir System S420"
 	}
 }
 
-Asteroid	"Alhir System S421"
+Asteroid	"Althir System S421"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -59890,7 +59890,7 @@ Asteroid	"Alhir System S421"
 	}
 }
 
-Asteroid	"Alhir System S422"
+Asteroid	"Althir System S422"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -59997,7 +59997,7 @@ Asteroid	"Alhir System S422"
 	}
 }
 
-Asteroid	"Alhir System S423"
+Asteroid	"Althir System S423"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -60104,7 +60104,7 @@ Asteroid	"Alhir System S423"
 	}
 }
 
-Asteroid	"Alhir System S424"
+Asteroid	"Althir System S424"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -60211,7 +60211,7 @@ Asteroid	"Alhir System S424"
 	}
 }
 
-Asteroid	"Alhir System S425"
+Asteroid	"Althir System S425"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -60318,7 +60318,7 @@ Asteroid	"Alhir System S425"
 	}
 }
 
-Asteroid	"Alhir System S426"
+Asteroid	"Althir System S426"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -60425,7 +60425,7 @@ Asteroid	"Alhir System S426"
 	}
 }
 
-Asteroid	"Alhir System S427"
+Asteroid	"Althir System S427"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -60532,7 +60532,7 @@ Asteroid	"Alhir System S427"
 	}
 }
 
-Asteroid	"Alhir System S428"
+Asteroid	"Althir System S428"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -60639,7 +60639,7 @@ Asteroid	"Alhir System S428"
 	}
 }
 
-Asteroid	"Alhir System S429"
+Asteroid	"Althir System S429"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -60746,7 +60746,7 @@ Asteroid	"Alhir System S429"
 	}
 }
 
-Asteroid	"Alhir System S430"
+Asteroid	"Althir System S430"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -60853,7 +60853,7 @@ Asteroid	"Alhir System S430"
 	}
 }
 
-Asteroid	"Alhir System S431"
+Asteroid	"Althir System S431"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -60960,7 +60960,7 @@ Asteroid	"Alhir System S431"
 	}
 }
 
-Asteroid	"Alhir System S432"
+Asteroid	"Althir System S432"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -61067,7 +61067,7 @@ Asteroid	"Alhir System S432"
 	}
 }
 
-Asteroid	"Alhir System S433"
+Asteroid	"Althir System S433"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -61174,7 +61174,7 @@ Asteroid	"Alhir System S433"
 	}
 }
 
-Asteroid	"Alhir System S434"
+Asteroid	"Althir System S434"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -61281,7 +61281,7 @@ Asteroid	"Alhir System S434"
 	}
 }
 
-Asteroid	"Alhir System S435"
+Asteroid	"Althir System S435"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -61388,7 +61388,7 @@ Asteroid	"Alhir System S435"
 	}
 }
 
-Asteroid	"Alhir System S436"
+Asteroid	"Althir System S436"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -61495,7 +61495,7 @@ Asteroid	"Alhir System S436"
 	}
 }
 
-Asteroid	"Alhir System S437"
+Asteroid	"Althir System S437"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -61602,7 +61602,7 @@ Asteroid	"Alhir System S437"
 	}
 }
 
-Asteroid	"Alhir System S438"
+Asteroid	"Althir System S438"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -61709,7 +61709,7 @@ Asteroid	"Alhir System S438"
 	}
 }
 
-Asteroid	"Alhir System S439"
+Asteroid	"Althir System S439"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -61816,7 +61816,7 @@ Asteroid	"Alhir System S439"
 	}
 }
 
-Asteroid	"Alhir System S440"
+Asteroid	"Althir System S440"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -61923,7 +61923,7 @@ Asteroid	"Alhir System S440"
 	}
 }
 
-Asteroid	"Alhir System S441"
+Asteroid	"Althir System S441"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -62030,7 +62030,7 @@ Asteroid	"Alhir System S441"
 	}
 }
 
-Asteroid	"Alhir System S442"
+Asteroid	"Althir System S442"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -62137,7 +62137,7 @@ Asteroid	"Alhir System S442"
 	}
 }
 
-Asteroid	"Alhir System S443"
+Asteroid	"Althir System S443"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -62244,7 +62244,7 @@ Asteroid	"Alhir System S443"
 	}
 }
 
-Asteroid	"Alhir System S444"
+Asteroid	"Althir System S444"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -62351,7 +62351,7 @@ Asteroid	"Alhir System S444"
 	}
 }
 
-Asteroid	"Alhir System S445"
+Asteroid	"Althir System S445"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -62458,7 +62458,7 @@ Asteroid	"Alhir System S445"
 	}
 }
 
-Asteroid	"Alhir System S446"
+Asteroid	"Althir System S446"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -62565,7 +62565,7 @@ Asteroid	"Alhir System S446"
 	}
 }
 
-Asteroid	"Alhir System S447"
+Asteroid	"Althir System S447"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -62672,7 +62672,7 @@ Asteroid	"Alhir System S447"
 	}
 }
 
-Asteroid	"Alhir System S448"
+Asteroid	"Althir System S448"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -62779,7 +62779,7 @@ Asteroid	"Alhir System S448"
 	}
 }
 
-Asteroid	"Alhir System S449"
+Asteroid	"Althir System S449"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -62886,7 +62886,7 @@ Asteroid	"Alhir System S449"
 	}
 }
 
-Asteroid	"Alhir System S450"
+Asteroid	"Althir System S450"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -62993,7 +62993,7 @@ Asteroid	"Alhir System S450"
 	}
 }
 
-Asteroid	"Alhir System S451"
+Asteroid	"Althir System S451"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -63100,7 +63100,7 @@ Asteroid	"Alhir System S451"
 	}
 }
 
-Asteroid	"Alhir System S452"
+Asteroid	"Althir System S452"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -63207,7 +63207,7 @@ Asteroid	"Alhir System S452"
 	}
 }
 
-Asteroid	"Alhir System S453"
+Asteroid	"Althir System S453"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -63314,7 +63314,7 @@ Asteroid	"Alhir System S453"
 	}
 }
 
-Asteroid	"Alhir System S454"
+Asteroid	"Althir System S454"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -63421,7 +63421,7 @@ Asteroid	"Alhir System S454"
 	}
 }
 
-Asteroid	"Alhir System S455"
+Asteroid	"Althir System S455"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -63528,7 +63528,7 @@ Asteroid	"Alhir System S455"
 	}
 }
 
-Asteroid	"Alhir System S456"
+Asteroid	"Althir System S456"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -63635,7 +63635,7 @@ Asteroid	"Alhir System S456"
 	}
 }
 
-Asteroid	"Alhir System S457"
+Asteroid	"Althir System S457"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -63742,7 +63742,7 @@ Asteroid	"Alhir System S457"
 	}
 }
 
-Asteroid	"Alhir System S458"
+Asteroid	"Althir System S458"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -63849,7 +63849,7 @@ Asteroid	"Alhir System S458"
 	}
 }
 
-Asteroid	"Alhir System S459"
+Asteroid	"Althir System S459"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -63956,7 +63956,7 @@ Asteroid	"Alhir System S459"
 	}
 }
 
-Asteroid	"Alhir System S460"
+Asteroid	"Althir System S460"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -64063,7 +64063,7 @@ Asteroid	"Alhir System S460"
 	}
 }
 
-Asteroid	"Alhir System S461"
+Asteroid	"Althir System S461"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -64170,7 +64170,7 @@ Asteroid	"Alhir System S461"
 	}
 }
 
-Asteroid	"Alhir System S462"
+Asteroid	"Althir System S462"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -64277,7 +64277,7 @@ Asteroid	"Alhir System S462"
 	}
 }
 
-Asteroid	"Alhir System S463"
+Asteroid	"Althir System S463"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -64384,7 +64384,7 @@ Asteroid	"Alhir System S463"
 	}
 }
 
-Asteroid	"Alhir System S464"
+Asteroid	"Althir System S464"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -64491,7 +64491,7 @@ Asteroid	"Alhir System S464"
 	}
 }
 
-Asteroid	"Alhir System S465"
+Asteroid	"Althir System S465"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -64598,7 +64598,7 @@ Asteroid	"Alhir System S465"
 	}
 }
 
-Asteroid	"Alhir System S466"
+Asteroid	"Althir System S466"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -64705,7 +64705,7 @@ Asteroid	"Alhir System S466"
 	}
 }
 
-Asteroid	"Alhir System S467"
+Asteroid	"Althir System S467"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -64812,7 +64812,7 @@ Asteroid	"Alhir System S467"
 	}
 }
 
-Asteroid	"Alhir System S468"
+Asteroid	"Althir System S468"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -64919,7 +64919,7 @@ Asteroid	"Alhir System S468"
 	}
 }
 
-Asteroid	"Alhir System S469"
+Asteroid	"Althir System S469"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -65026,7 +65026,7 @@ Asteroid	"Alhir System S469"
 	}
 }
 
-Asteroid	"Alhir System S470"
+Asteroid	"Althir System S470"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -65133,7 +65133,7 @@ Asteroid	"Alhir System S470"
 	}
 }
 
-Asteroid	"Alhir System S471"
+Asteroid	"Althir System S471"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -65240,7 +65240,7 @@ Asteroid	"Alhir System S471"
 	}
 }
 
-Asteroid	"Alhir System S472"
+Asteroid	"Althir System S472"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -65347,7 +65347,7 @@ Asteroid	"Alhir System S472"
 	}
 }
 
-Asteroid	"Alhir System S473"
+Asteroid	"Althir System S473"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -65454,7 +65454,7 @@ Asteroid	"Alhir System S473"
 	}
 }
 
-Asteroid	"Alhir System S474"
+Asteroid	"Althir System S474"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -65561,7 +65561,7 @@ Asteroid	"Alhir System S474"
 	}
 }
 
-Asteroid	"Alhir System S475"
+Asteroid	"Althir System S475"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -65668,7 +65668,7 @@ Asteroid	"Alhir System S475"
 	}
 }
 
-Asteroid	"Alhir System S476"
+Asteroid	"Althir System S476"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -65775,7 +65775,7 @@ Asteroid	"Alhir System S476"
 	}
 }
 
-Asteroid	"Alhir System S477"
+Asteroid	"Althir System S477"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -65882,7 +65882,7 @@ Asteroid	"Alhir System S477"
 	}
 }
 
-Asteroid	"Alhir System S478"
+Asteroid	"Althir System S478"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -65989,7 +65989,7 @@ Asteroid	"Alhir System S478"
 	}
 }
 
-Asteroid	"Alhir System S479"
+Asteroid	"Althir System S479"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -66096,7 +66096,7 @@ Asteroid	"Alhir System S479"
 	}
 }
 
-Asteroid	"Alhir System S480"
+Asteroid	"Althir System S480"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -66203,7 +66203,7 @@ Asteroid	"Alhir System S480"
 	}
 }
 
-Asteroid	"Alhir System S481"
+Asteroid	"Althir System S481"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -66310,7 +66310,7 @@ Asteroid	"Alhir System S481"
 	}
 }
 
-Asteroid	"Alhir System S482"
+Asteroid	"Althir System S482"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -66417,7 +66417,7 @@ Asteroid	"Alhir System S482"
 	}
 }
 
-Asteroid	"Alhir System S483"
+Asteroid	"Althir System S483"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -66524,7 +66524,7 @@ Asteroid	"Alhir System S483"
 	}
 }
 
-Asteroid	"Alhir System S484"
+Asteroid	"Althir System S484"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -66631,7 +66631,7 @@ Asteroid	"Alhir System S484"
 	}
 }
 
-Asteroid	"Alhir System S485"
+Asteroid	"Althir System S485"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -66738,7 +66738,7 @@ Asteroid	"Alhir System S485"
 	}
 }
 
-Asteroid	"Alhir System S486"
+Asteroid	"Althir System S486"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -66845,7 +66845,7 @@ Asteroid	"Alhir System S486"
 	}
 }
 
-Asteroid	"Alhir System S487"
+Asteroid	"Althir System S487"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -66952,7 +66952,7 @@ Asteroid	"Alhir System S487"
 	}
 }
 
-Asteroid	"Alhir System S488"
+Asteroid	"Althir System S488"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -67059,7 +67059,7 @@ Asteroid	"Alhir System S488"
 	}
 }
 
-Asteroid	"Alhir System S489"
+Asteroid	"Althir System S489"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -67166,7 +67166,7 @@ Asteroid	"Alhir System S489"
 	}
 }
 
-Asteroid	"Alhir System S490"
+Asteroid	"Althir System S490"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -67273,7 +67273,7 @@ Asteroid	"Alhir System S490"
 	}
 }
 
-Asteroid	"Alhir System S491"
+Asteroid	"Althir System S491"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -67380,7 +67380,7 @@ Asteroid	"Alhir System S491"
 	}
 }
 
-Asteroid	"Alhir System S492"
+Asteroid	"Althir System S492"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -67487,7 +67487,7 @@ Asteroid	"Alhir System S492"
 	}
 }
 
-Asteroid	"Alhir System S493"
+Asteroid	"Althir System S493"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -67594,7 +67594,7 @@ Asteroid	"Alhir System S493"
 	}
 }
 
-Asteroid	"Alhir System S494"
+Asteroid	"Althir System S494"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -67701,7 +67701,7 @@ Asteroid	"Alhir System S494"
 	}
 }
 
-Asteroid	"Alhir System S495"
+Asteroid	"Althir System S495"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -67808,7 +67808,7 @@ Asteroid	"Alhir System S495"
 	}
 }
 
-Asteroid	"Alhir System S496"
+Asteroid	"Althir System S496"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -67915,7 +67915,7 @@ Asteroid	"Alhir System S496"
 	}
 }
 
-Asteroid	"Alhir System S497"
+Asteroid	"Althir System S497"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -68022,7 +68022,7 @@ Asteroid	"Alhir System S497"
 	}
 }
 
-Asteroid	"Alhir System S498"
+Asteroid	"Althir System S498"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -68129,7 +68129,7 @@ Asteroid	"Alhir System S498"
 	}
 }
 
-Asteroid	"Alhir System S499"
+Asteroid	"Althir System S499"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -68236,7 +68236,7 @@ Asteroid	"Alhir System S499"
 	}
 }
 
-Asteroid	"Alhir System S500"
+Asteroid	"Althir System S500"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -68343,7 +68343,7 @@ Asteroid	"Alhir System S500"
 	}
 }
 
-Asteroid	"Alhir System S501"
+Asteroid	"Althir System S501"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -68450,7 +68450,7 @@ Asteroid	"Alhir System S501"
 	}
 }
 
-Asteroid	"Alhir System S502"
+Asteroid	"Althir System S502"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -68557,7 +68557,7 @@ Asteroid	"Alhir System S502"
 	}
 }
 
-Asteroid	"Alhir System S503"
+Asteroid	"Althir System S503"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -68664,7 +68664,7 @@ Asteroid	"Alhir System S503"
 	}
 }
 
-Asteroid	"Alhir System S504"
+Asteroid	"Althir System S504"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -68771,7 +68771,7 @@ Asteroid	"Alhir System S504"
 	}
 }
 
-Asteroid	"Alhir System S505"
+Asteroid	"Althir System S505"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -68878,7 +68878,7 @@ Asteroid	"Alhir System S505"
 	}
 }
 
-Asteroid	"Alhir System S506"
+Asteroid	"Althir System S506"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -68985,7 +68985,7 @@ Asteroid	"Alhir System S506"
 	}
 }
 
-Asteroid	"Alhir System S507"
+Asteroid	"Althir System S507"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -69092,7 +69092,7 @@ Asteroid	"Alhir System S507"
 	}
 }
 
-Asteroid	"Alhir System S508"
+Asteroid	"Althir System S508"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -69199,7 +69199,7 @@ Asteroid	"Alhir System S508"
 	}
 }
 
-Asteroid	"Alhir System S509"
+Asteroid	"Althir System S509"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -69306,7 +69306,7 @@ Asteroid	"Alhir System S509"
 	}
 }
 
-Asteroid	"Alhir System S510"
+Asteroid	"Althir System S510"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -69413,7 +69413,7 @@ Asteroid	"Alhir System S510"
 	}
 }
 
-Asteroid	"Alhir System S511"
+Asteroid	"Althir System S511"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -69520,7 +69520,7 @@ Asteroid	"Alhir System S511"
 	}
 }
 
-Asteroid	"Alhir System S512"
+Asteroid	"Althir System S512"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -69627,7 +69627,7 @@ Asteroid	"Alhir System S512"
 	}
 }
 
-Asteroid	"Alhir System S513"
+Asteroid	"Althir System S513"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -69734,7 +69734,7 @@ Asteroid	"Alhir System S513"
 	}
 }
 
-Asteroid	"Alhir System S514"
+Asteroid	"Althir System S514"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -69841,7 +69841,7 @@ Asteroid	"Alhir System S514"
 	}
 }
 
-Asteroid	"Alhir System S515"
+Asteroid	"Althir System S515"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -69948,7 +69948,7 @@ Asteroid	"Alhir System S515"
 	}
 }
 
-Asteroid	"Alhir System S516"
+Asteroid	"Althir System S516"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -70055,7 +70055,7 @@ Asteroid	"Alhir System S516"
 	}
 }
 
-Asteroid	"Alhir System S517"
+Asteroid	"Althir System S517"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -70162,7 +70162,7 @@ Asteroid	"Alhir System S517"
 	}
 }
 
-Asteroid	"Alhir System S518"
+Asteroid	"Althir System S518"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -70269,7 +70269,7 @@ Asteroid	"Alhir System S518"
 	}
 }
 
-Asteroid	"Alhir System S519"
+Asteroid	"Althir System S519"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -70376,7 +70376,7 @@ Asteroid	"Alhir System S519"
 	}
 }
 
-Asteroid	"Alhir System S520"
+Asteroid	"Althir System S520"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -70483,7 +70483,7 @@ Asteroid	"Alhir System S520"
 	}
 }
 
-Asteroid	"Alhir System S521"
+Asteroid	"Althir System S521"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -70590,7 +70590,7 @@ Asteroid	"Alhir System S521"
 	}
 }
 
-Asteroid	"Alhir System S522"
+Asteroid	"Althir System S522"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -70697,7 +70697,7 @@ Asteroid	"Alhir System S522"
 	}
 }
 
-Asteroid	"Alhir System S523"
+Asteroid	"Althir System S523"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -70804,7 +70804,7 @@ Asteroid	"Alhir System S523"
 	}
 }
 
-Asteroid	"Alhir System S524"
+Asteroid	"Althir System S524"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -70911,7 +70911,7 @@ Asteroid	"Alhir System S524"
 	}
 }
 
-Asteroid	"Alhir System S525"
+Asteroid	"Althir System S525"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -71018,7 +71018,7 @@ Asteroid	"Alhir System S525"
 	}
 }
 
-Asteroid	"Alhir System S526"
+Asteroid	"Althir System S526"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -71125,7 +71125,7 @@ Asteroid	"Alhir System S526"
 	}
 }
 
-Asteroid	"Alhir System S527"
+Asteroid	"Althir System S527"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -71232,7 +71232,7 @@ Asteroid	"Alhir System S527"
 	}
 }
 
-Asteroid	"Alhir System S528"
+Asteroid	"Althir System S528"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -71339,7 +71339,7 @@ Asteroid	"Alhir System S528"
 	}
 }
 
-Asteroid	"Alhir System S529"
+Asteroid	"Althir System S529"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -71446,7 +71446,7 @@ Asteroid	"Alhir System S529"
 	}
 }
 
-Asteroid	"Alhir System S530"
+Asteroid	"Althir System S530"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -71553,7 +71553,7 @@ Asteroid	"Alhir System S530"
 	}
 }
 
-Asteroid	"Alhir System S531"
+Asteroid	"Althir System S531"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -71660,7 +71660,7 @@ Asteroid	"Alhir System S531"
 	}
 }
 
-Asteroid	"Alhir System S532"
+Asteroid	"Althir System S532"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -71767,7 +71767,7 @@ Asteroid	"Alhir System S532"
 	}
 }
 
-Asteroid	"Alhir System S533"
+Asteroid	"Althir System S533"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -71874,7 +71874,7 @@ Asteroid	"Alhir System S533"
 	}
 }
 
-Asteroid	"Alhir System S534"
+Asteroid	"Althir System S534"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -71981,7 +71981,7 @@ Asteroid	"Alhir System S534"
 	}
 }
 
-Asteroid	"Alhir System S535"
+Asteroid	"Althir System S535"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -72088,7 +72088,7 @@ Asteroid	"Alhir System S535"
 	}
 }
 
-Asteroid	"Alhir System S536"
+Asteroid	"Althir System S536"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -72195,7 +72195,7 @@ Asteroid	"Alhir System S536"
 	}
 }
 
-Asteroid	"Alhir System S537"
+Asteroid	"Althir System S537"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -72302,7 +72302,7 @@ Asteroid	"Alhir System S537"
 	}
 }
 
-Asteroid	"Alhir System S538"
+Asteroid	"Althir System S538"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -72409,7 +72409,7 @@ Asteroid	"Alhir System S538"
 	}
 }
 
-Asteroid	"Alhir System S539"
+Asteroid	"Althir System S539"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -72516,7 +72516,7 @@ Asteroid	"Alhir System S539"
 	}
 }
 
-Asteroid	"Alhir System S540"
+Asteroid	"Althir System S540"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -72623,7 +72623,7 @@ Asteroid	"Alhir System S540"
 	}
 }
 
-Asteroid	"Alhir System S541"
+Asteroid	"Althir System S541"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -72730,7 +72730,7 @@ Asteroid	"Alhir System S541"
 	}
 }
 
-Asteroid	"Alhir System S542"
+Asteroid	"Althir System S542"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -72837,7 +72837,7 @@ Asteroid	"Alhir System S542"
 	}
 }
 
-Asteroid	"Alhir System S543"
+Asteroid	"Althir System S543"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -72944,7 +72944,7 @@ Asteroid	"Alhir System S543"
 	}
 }
 
-Asteroid	"Alhir System S544"
+Asteroid	"Althir System S544"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -73051,7 +73051,7 @@ Asteroid	"Alhir System S544"
 	}
 }
 
-Asteroid	"Alhir System S545"
+Asteroid	"Althir System S545"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -73158,7 +73158,7 @@ Asteroid	"Alhir System S545"
 	}
 }
 
-Asteroid	"Alhir System S546"
+Asteroid	"Althir System S546"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -73265,7 +73265,7 @@ Asteroid	"Alhir System S546"
 	}
 }
 
-Asteroid	"Alhir System S547"
+Asteroid	"Althir System S547"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -73372,7 +73372,7 @@ Asteroid	"Alhir System S547"
 	}
 }
 
-Asteroid	"Alhir System S548"
+Asteroid	"Althir System S548"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -73479,7 +73479,7 @@ Asteroid	"Alhir System S548"
 	}
 }
 
-Asteroid	"Alhir System S549"
+Asteroid	"Althir System S549"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -73586,7 +73586,7 @@ Asteroid	"Alhir System S549"
 	}
 }
 
-Asteroid	"Alhir System S550"
+Asteroid	"Althir System S550"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -73693,7 +73693,7 @@ Asteroid	"Alhir System S550"
 	}
 }
 
-Asteroid	"Alhir System S551"
+Asteroid	"Althir System S551"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -73800,7 +73800,7 @@ Asteroid	"Alhir System S551"
 	}
 }
 
-Asteroid	"Alhir System S552"
+Asteroid	"Althir System S552"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -73907,7 +73907,7 @@ Asteroid	"Alhir System S552"
 	}
 }
 
-Asteroid	"Alhir System S553"
+Asteroid	"Althir System S553"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -74014,7 +74014,7 @@ Asteroid	"Alhir System S553"
 	}
 }
 
-Asteroid	"Alhir System S554"
+Asteroid	"Althir System S554"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -74121,7 +74121,7 @@ Asteroid	"Alhir System S554"
 	}
 }
 
-Asteroid	"Alhir System S555"
+Asteroid	"Althir System S555"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -74228,7 +74228,7 @@ Asteroid	"Alhir System S555"
 	}
 }
 
-Asteroid	"Alhir System S556"
+Asteroid	"Althir System S556"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -74335,7 +74335,7 @@ Asteroid	"Alhir System S556"
 	}
 }
 
-Asteroid	"Alhir System S557"
+Asteroid	"Althir System S557"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -74442,7 +74442,7 @@ Asteroid	"Alhir System S557"
 	}
 }
 
-Asteroid	"Alhir System S558"
+Asteroid	"Althir System S558"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -74549,7 +74549,7 @@ Asteroid	"Alhir System S558"
 	}
 }
 
-Asteroid	"Alhir System S559"
+Asteroid	"Althir System S559"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -74656,7 +74656,7 @@ Asteroid	"Alhir System S559"
 	}
 }
 
-Asteroid	"Alhir System S560"
+Asteroid	"Althir System S560"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -74763,7 +74763,7 @@ Asteroid	"Alhir System S560"
 	}
 }
 
-Asteroid	"Alhir System S561"
+Asteroid	"Althir System S561"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -74870,7 +74870,7 @@ Asteroid	"Alhir System S561"
 	}
 }
 
-Asteroid	"Alhir System S562"
+Asteroid	"Althir System S562"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -74977,7 +74977,7 @@ Asteroid	"Alhir System S562"
 	}
 }
 
-Asteroid	"Alhir System S563"
+Asteroid	"Althir System S563"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -75084,7 +75084,7 @@ Asteroid	"Alhir System S563"
 	}
 }
 
-Asteroid	"Alhir System S564"
+Asteroid	"Althir System S564"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -75191,7 +75191,7 @@ Asteroid	"Alhir System S564"
 	}
 }
 
-Asteroid	"Alhir System S565"
+Asteroid	"Althir System S565"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -75298,7 +75298,7 @@ Asteroid	"Alhir System S565"
 	}
 }
 
-Asteroid	"Alhir System S566"
+Asteroid	"Althir System S566"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -75405,7 +75405,7 @@ Asteroid	"Alhir System S566"
 	}
 }
 
-Asteroid	"Alhir System S567"
+Asteroid	"Althir System S567"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -75512,7 +75512,7 @@ Asteroid	"Alhir System S567"
 	}
 }
 
-Asteroid	"Alhir System S568"
+Asteroid	"Althir System S568"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -75619,7 +75619,7 @@ Asteroid	"Alhir System S568"
 	}
 }
 
-Asteroid	"Alhir System S569"
+Asteroid	"Althir System S569"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -75726,7 +75726,7 @@ Asteroid	"Alhir System S569"
 	}
 }
 
-Asteroid	"Alhir System S570"
+Asteroid	"Althir System S570"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -75833,7 +75833,7 @@ Asteroid	"Alhir System S570"
 	}
 }
 
-Asteroid	"Alhir System S571"
+Asteroid	"Althir System S571"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -75940,7 +75940,7 @@ Asteroid	"Alhir System S571"
 	}
 }
 
-Asteroid	"Alhir System S572"
+Asteroid	"Althir System S572"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -76047,7 +76047,7 @@ Asteroid	"Alhir System S572"
 	}
 }
 
-Asteroid	"Alhir System S573"
+Asteroid	"Althir System S573"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -76154,7 +76154,7 @@ Asteroid	"Alhir System S573"
 	}
 }
 
-Asteroid	"Alhir System S574"
+Asteroid	"Althir System S574"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -76261,7 +76261,7 @@ Asteroid	"Alhir System S574"
 	}
 }
 
-Asteroid	"Alhir System S575"
+Asteroid	"Althir System S575"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -76368,7 +76368,7 @@ Asteroid	"Alhir System S575"
 	}
 }
 
-Asteroid	"Alhir System S576"
+Asteroid	"Althir System S576"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -76475,7 +76475,7 @@ Asteroid	"Alhir System S576"
 	}
 }
 
-Asteroid	"Alhir System S577"
+Asteroid	"Althir System S577"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -76582,7 +76582,7 @@ Asteroid	"Alhir System S577"
 	}
 }
 
-Asteroid	"Alhir System S578"
+Asteroid	"Althir System S578"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -76689,7 +76689,7 @@ Asteroid	"Alhir System S578"
 	}
 }
 
-Asteroid	"Alhir System S579"
+Asteroid	"Althir System S579"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -76796,7 +76796,7 @@ Asteroid	"Alhir System S579"
 	}
 }
 
-Asteroid	"Alhir System S580"
+Asteroid	"Althir System S580"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -76903,7 +76903,7 @@ Asteroid	"Alhir System S580"
 	}
 }
 
-Asteroid	"Alhir System S581"
+Asteroid	"Althir System S581"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -77010,7 +77010,7 @@ Asteroid	"Alhir System S581"
 	}
 }
 
-Asteroid	"Alhir System S582"
+Asteroid	"Althir System S582"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -77117,7 +77117,7 @@ Asteroid	"Alhir System S582"
 	}
 }
 
-Asteroid	"Alhir System S583"
+Asteroid	"Althir System S583"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -77224,7 +77224,7 @@ Asteroid	"Alhir System S583"
 	}
 }
 
-Asteroid	"Alhir System S584"
+Asteroid	"Althir System S584"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -77331,7 +77331,7 @@ Asteroid	"Alhir System S584"
 	}
 }
 
-Asteroid	"Alhir System S585"
+Asteroid	"Althir System S585"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -77438,7 +77438,7 @@ Asteroid	"Alhir System S585"
 	}
 }
 
-Asteroid	"Alhir System S586"
+Asteroid	"Althir System S586"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -77545,7 +77545,7 @@ Asteroid	"Alhir System S586"
 	}
 }
 
-Asteroid	"Alhir System S587"
+Asteroid	"Althir System S587"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -77652,7 +77652,7 @@ Asteroid	"Alhir System S587"
 	}
 }
 
-Asteroid	"Alhir System S588"
+Asteroid	"Althir System S588"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -77759,7 +77759,7 @@ Asteroid	"Alhir System S588"
 	}
 }
 
-Asteroid	"Alhir System S589"
+Asteroid	"Althir System S589"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -77866,7 +77866,7 @@ Asteroid	"Alhir System S589"
 	}
 }
 
-Asteroid	"Alhir System S590"
+Asteroid	"Althir System S590"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -77973,7 +77973,7 @@ Asteroid	"Alhir System S590"
 	}
 }
 
-Asteroid	"Alhir System S591"
+Asteroid	"Althir System S591"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -78080,7 +78080,7 @@ Asteroid	"Alhir System S591"
 	}
 }
 
-Asteroid	"Alhir System S592"
+Asteroid	"Althir System S592"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -78187,7 +78187,7 @@ Asteroid	"Alhir System S592"
 	}
 }
 
-Asteroid	"Alhir System S593"
+Asteroid	"Althir System S593"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -78294,7 +78294,7 @@ Asteroid	"Alhir System S593"
 	}
 }
 
-Asteroid	"Alhir System S594"
+Asteroid	"Althir System S594"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -78401,7 +78401,7 @@ Asteroid	"Alhir System S594"
 	}
 }
 
-Asteroid	"Alhir System S595"
+Asteroid	"Althir System S595"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -78508,7 +78508,7 @@ Asteroid	"Alhir System S595"
 	}
 }
 
-Asteroid	"Alhir System S596"
+Asteroid	"Althir System S596"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -78615,7 +78615,7 @@ Asteroid	"Alhir System S596"
 	}
 }
 
-Asteroid	"Alhir System S597"
+Asteroid	"Althir System S597"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -78722,7 +78722,7 @@ Asteroid	"Alhir System S597"
 	}
 }
 
-Asteroid	"Alhir System S598"
+Asteroid	"Althir System S598"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -78829,7 +78829,7 @@ Asteroid	"Alhir System S598"
 	}
 }
 
-Asteroid	"Alhir System S599"
+Asteroid	"Althir System S599"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -78936,7 +78936,7 @@ Asteroid	"Alhir System S599"
 	}
 }
 
-Asteroid	"Alhir System S600"
+Asteroid	"Althir System S600"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -79043,7 +79043,7 @@ Asteroid	"Alhir System S600"
 	}
 }
 
-Asteroid	"Alhir System S601"
+Asteroid	"Althir System S601"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -79150,7 +79150,7 @@ Asteroid	"Alhir System S601"
 	}
 }
 
-Asteroid	"Alhir System S602"
+Asteroid	"Althir System S602"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -79257,7 +79257,7 @@ Asteroid	"Alhir System S602"
 	}
 }
 
-Asteroid	"Alhir System S603"
+Asteroid	"Althir System S603"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -79364,7 +79364,7 @@ Asteroid	"Alhir System S603"
 	}
 }
 
-Asteroid	"Alhir System S604"
+Asteroid	"Althir System S604"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -79471,7 +79471,7 @@ Asteroid	"Alhir System S604"
 	}
 }
 
-Asteroid	"Alhir System S605"
+Asteroid	"Althir System S605"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -79578,7 +79578,7 @@ Asteroid	"Alhir System S605"
 	}
 }
 
-Asteroid	"Alhir System S606"
+Asteroid	"Althir System S606"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -79685,7 +79685,7 @@ Asteroid	"Alhir System S606"
 	}
 }
 
-Asteroid	"Alhir System S607"
+Asteroid	"Althir System S607"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -79792,7 +79792,7 @@ Asteroid	"Alhir System S607"
 	}
 }
 
-Asteroid	"Alhir System S608"
+Asteroid	"Althir System S608"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -79899,7 +79899,7 @@ Asteroid	"Alhir System S608"
 	}
 }
 
-Asteroid	"Alhir System S609"
+Asteroid	"Althir System S609"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -80006,7 +80006,7 @@ Asteroid	"Alhir System S609"
 	}
 }
 
-Asteroid	"Alhir System S610"
+Asteroid	"Althir System S610"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -80113,7 +80113,7 @@ Asteroid	"Alhir System S610"
 	}
 }
 
-Asteroid	"Alhir System S611"
+Asteroid	"Althir System S611"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -80220,7 +80220,7 @@ Asteroid	"Alhir System S611"
 	}
 }
 
-Asteroid	"Alhir System S612"
+Asteroid	"Althir System S612"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -80327,7 +80327,7 @@ Asteroid	"Alhir System S612"
 	}
 }
 
-Asteroid	"Alhir System S613"
+Asteroid	"Althir System S613"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -80434,7 +80434,7 @@ Asteroid	"Alhir System S613"
 	}
 }
 
-Asteroid	"Alhir System S614"
+Asteroid	"Althir System S614"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -80541,7 +80541,7 @@ Asteroid	"Alhir System S614"
 	}
 }
 
-Asteroid	"Alhir System S615"
+Asteroid	"Althir System S615"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -80648,7 +80648,7 @@ Asteroid	"Alhir System S615"
 	}
 }
 
-Asteroid	"Alhir System S616"
+Asteroid	"Althir System S616"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -80755,7 +80755,7 @@ Asteroid	"Alhir System S616"
 	}
 }
 
-Asteroid	"Alhir System S617"
+Asteroid	"Althir System S617"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -80862,7 +80862,7 @@ Asteroid	"Alhir System S617"
 	}
 }
 
-Asteroid	"Alhir System S618"
+Asteroid	"Althir System S618"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -80969,7 +80969,7 @@ Asteroid	"Alhir System S618"
 	}
 }
 
-Asteroid	"Alhir System S619"
+Asteroid	"Althir System S619"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -81076,7 +81076,7 @@ Asteroid	"Alhir System S619"
 	}
 }
 
-Asteroid	"Alhir System S620"
+Asteroid	"Althir System S620"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -81183,7 +81183,7 @@ Asteroid	"Alhir System S620"
 	}
 }
 
-Asteroid	"Alhir System S621"
+Asteroid	"Althir System S621"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -81290,7 +81290,7 @@ Asteroid	"Alhir System S621"
 	}
 }
 
-Asteroid	"Alhir System S622"
+Asteroid	"Althir System S622"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -81397,7 +81397,7 @@ Asteroid	"Alhir System S622"
 	}
 }
 
-Asteroid	"Alhir System S623"
+Asteroid	"Althir System S623"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -81504,7 +81504,7 @@ Asteroid	"Alhir System S623"
 	}
 }
 
-Asteroid	"Alhir System S624"
+Asteroid	"Althir System S624"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -81611,7 +81611,7 @@ Asteroid	"Alhir System S624"
 	}
 }
 
-Asteroid	"Alhir System S625"
+Asteroid	"Althir System S625"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -81718,7 +81718,7 @@ Asteroid	"Alhir System S625"
 	}
 }
 
-Asteroid	"Alhir System S626"
+Asteroid	"Althir System S626"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -81825,7 +81825,7 @@ Asteroid	"Alhir System S626"
 	}
 }
 
-Asteroid	"Alhir System S627"
+Asteroid	"Althir System S627"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -81932,7 +81932,7 @@ Asteroid	"Alhir System S627"
 	}
 }
 
-Asteroid	"Alhir System S628"
+Asteroid	"Althir System S628"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -82039,7 +82039,7 @@ Asteroid	"Alhir System S628"
 	}
 }
 
-Asteroid	"Alhir System S629"
+Asteroid	"Althir System S629"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -82146,7 +82146,7 @@ Asteroid	"Alhir System S629"
 	}
 }
 
-Asteroid	"Alhir System S630"
+Asteroid	"Althir System S630"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -82253,7 +82253,7 @@ Asteroid	"Alhir System S630"
 	}
 }
 
-Asteroid	"Alhir System S631"
+Asteroid	"Althir System S631"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -82360,7 +82360,7 @@ Asteroid	"Alhir System S631"
 	}
 }
 
-Asteroid	"Alhir System S632"
+Asteroid	"Althir System S632"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -82467,7 +82467,7 @@ Asteroid	"Alhir System S632"
 	}
 }
 
-Asteroid	"Alhir System S633"
+Asteroid	"Althir System S633"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -82574,7 +82574,7 @@ Asteroid	"Alhir System S633"
 	}
 }
 
-Asteroid	"Alhir System S634"
+Asteroid	"Althir System S634"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -82681,7 +82681,7 @@ Asteroid	"Alhir System S634"
 	}
 }
 
-Asteroid	"Alhir System S635"
+Asteroid	"Althir System S635"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -82788,7 +82788,7 @@ Asteroid	"Alhir System S635"
 	}
 }
 
-Asteroid	"Alhir System S636"
+Asteroid	"Althir System S636"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -82895,7 +82895,7 @@ Asteroid	"Alhir System S636"
 	}
 }
 
-Asteroid	"Alhir System S637"
+Asteroid	"Althir System S637"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -83002,7 +83002,7 @@ Asteroid	"Alhir System S637"
 	}
 }
 
-Asteroid	"Alhir System S638"
+Asteroid	"Althir System S638"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -83109,7 +83109,7 @@ Asteroid	"Alhir System S638"
 	}
 }
 
-Asteroid	"Alhir System S639"
+Asteroid	"Althir System S639"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -83216,7 +83216,7 @@ Asteroid	"Alhir System S639"
 	}
 }
 
-Asteroid	"Alhir System S640"
+Asteroid	"Althir System S640"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -83323,7 +83323,7 @@ Asteroid	"Alhir System S640"
 	}
 }
 
-Asteroid	"Alhir System S641"
+Asteroid	"Althir System S641"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -83430,7 +83430,7 @@ Asteroid	"Alhir System S641"
 	}
 }
 
-Asteroid	"Alhir System S642"
+Asteroid	"Althir System S642"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -83537,7 +83537,7 @@ Asteroid	"Alhir System S642"
 	}
 }
 
-Asteroid	"Alhir System S643"
+Asteroid	"Althir System S643"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -83644,7 +83644,7 @@ Asteroid	"Alhir System S643"
 	}
 }
 
-Asteroid	"Alhir System S644"
+Asteroid	"Althir System S644"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -83751,7 +83751,7 @@ Asteroid	"Alhir System S644"
 	}
 }
 
-Asteroid	"Alhir System S645"
+Asteroid	"Althir System S645"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -83858,7 +83858,7 @@ Asteroid	"Alhir System S645"
 	}
 }
 
-Asteroid	"Alhir System S646"
+Asteroid	"Althir System S646"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -83965,7 +83965,7 @@ Asteroid	"Alhir System S646"
 	}
 }
 
-Asteroid	"Alhir System S647"
+Asteroid	"Althir System S647"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -84072,7 +84072,7 @@ Asteroid	"Alhir System S647"
 	}
 }
 
-Asteroid	"Alhir System S648"
+Asteroid	"Althir System S648"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -84179,7 +84179,7 @@ Asteroid	"Alhir System S648"
 	}
 }
 
-Asteroid	"Alhir System S649"
+Asteroid	"Althir System S649"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -84286,7 +84286,7 @@ Asteroid	"Alhir System S649"
 	}
 }
 
-Asteroid	"Alhir System S650"
+Asteroid	"Althir System S650"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -84393,7 +84393,7 @@ Asteroid	"Alhir System S650"
 	}
 }
 
-Asteroid	"Alhir System S651"
+Asteroid	"Althir System S651"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -84500,7 +84500,7 @@ Asteroid	"Alhir System S651"
 	}
 }
 
-Asteroid	"Alhir System S652"
+Asteroid	"Althir System S652"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -84607,7 +84607,7 @@ Asteroid	"Alhir System S652"
 	}
 }
 
-Asteroid	"Alhir System S653"
+Asteroid	"Althir System S653"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -84714,7 +84714,7 @@ Asteroid	"Alhir System S653"
 	}
 }
 
-Asteroid	"Alhir System S654"
+Asteroid	"Althir System S654"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -84821,7 +84821,7 @@ Asteroid	"Alhir System S654"
 	}
 }
 
-Asteroid	"Alhir System S655"
+Asteroid	"Althir System S655"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -84928,7 +84928,7 @@ Asteroid	"Alhir System S655"
 	}
 }
 
-Asteroid	"Alhir System S656"
+Asteroid	"Althir System S656"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -85035,7 +85035,7 @@ Asteroid	"Alhir System S656"
 	}
 }
 
-Asteroid	"Alhir System S657"
+Asteroid	"Althir System S657"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -85142,7 +85142,7 @@ Asteroid	"Alhir System S657"
 	}
 }
 
-Asteroid	"Alhir System S658"
+Asteroid	"Althir System S658"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -85249,7 +85249,7 @@ Asteroid	"Alhir System S658"
 	}
 }
 
-Asteroid	"Alhir System S659"
+Asteroid	"Althir System S659"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -85356,7 +85356,7 @@ Asteroid	"Alhir System S659"
 	}
 }
 
-Asteroid	"Alhir System S660"
+Asteroid	"Althir System S660"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -85463,7 +85463,7 @@ Asteroid	"Alhir System S660"
 	}
 }
 
-Asteroid	"Alhir System S661"
+Asteroid	"Althir System S661"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -85570,7 +85570,7 @@ Asteroid	"Alhir System S661"
 	}
 }
 
-Asteroid	"Alhir System S662"
+Asteroid	"Althir System S662"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -85677,7 +85677,7 @@ Asteroid	"Alhir System S662"
 	}
 }
 
-Asteroid	"Alhir System S663"
+Asteroid	"Althir System S663"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -85784,7 +85784,7 @@ Asteroid	"Alhir System S663"
 	}
 }
 
-Asteroid	"Alhir System S664"
+Asteroid	"Althir System S664"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -85891,7 +85891,7 @@ Asteroid	"Alhir System S664"
 	}
 }
 
-Asteroid	"Alhir System S665"
+Asteroid	"Althir System S665"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -85998,7 +85998,7 @@ Asteroid	"Alhir System S665"
 	}
 }
 
-Asteroid	"Alhir System S666"
+Asteroid	"Althir System S666"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -86105,7 +86105,7 @@ Asteroid	"Alhir System S666"
 	}
 }
 
-Asteroid	"Alhir System S667"
+Asteroid	"Althir System S667"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -86212,7 +86212,7 @@ Asteroid	"Alhir System S667"
 	}
 }
 
-Asteroid	"Alhir System S668"
+Asteroid	"Althir System S668"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -86319,7 +86319,7 @@ Asteroid	"Alhir System S668"
 	}
 }
 
-Asteroid	"Alhir System S669"
+Asteroid	"Althir System S669"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -86426,7 +86426,7 @@ Asteroid	"Alhir System S669"
 	}
 }
 
-Asteroid	"Alhir System S670"
+Asteroid	"Althir System S670"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -86533,7 +86533,7 @@ Asteroid	"Alhir System S670"
 	}
 }
 
-Asteroid	"Alhir System S671"
+Asteroid	"Althir System S671"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -86640,7 +86640,7 @@ Asteroid	"Alhir System S671"
 	}
 }
 
-Asteroid	"Alhir System S672"
+Asteroid	"Althir System S672"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -86747,7 +86747,7 @@ Asteroid	"Alhir System S672"
 	}
 }
 
-Asteroid	"Alhir System S673"
+Asteroid	"Althir System S673"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -86854,7 +86854,7 @@ Asteroid	"Alhir System S673"
 	}
 }
 
-Asteroid	"Alhir System S674"
+Asteroid	"Althir System S674"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -86961,7 +86961,7 @@ Asteroid	"Alhir System S674"
 	}
 }
 
-Asteroid	"Alhir System S675"
+Asteroid	"Althir System S675"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -87068,7 +87068,7 @@ Asteroid	"Alhir System S675"
 	}
 }
 
-Asteroid	"Alhir System S676"
+Asteroid	"Althir System S676"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -87175,7 +87175,7 @@ Asteroid	"Alhir System S676"
 	}
 }
 
-Asteroid	"Alhir System S677"
+Asteroid	"Althir System S677"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -87282,7 +87282,7 @@ Asteroid	"Alhir System S677"
 	}
 }
 
-Asteroid	"Alhir System S678"
+Asteroid	"Althir System S678"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -87389,7 +87389,7 @@ Asteroid	"Alhir System S678"
 	}
 }
 
-Asteroid	"Alhir System S679"
+Asteroid	"Althir System S679"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -87496,7 +87496,7 @@ Asteroid	"Alhir System S679"
 	}
 }
 
-Asteroid	"Alhir System S680"
+Asteroid	"Althir System S680"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -87603,7 +87603,7 @@ Asteroid	"Alhir System S680"
 	}
 }
 
-Asteroid	"Alhir System S681"
+Asteroid	"Althir System S681"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -87710,7 +87710,7 @@ Asteroid	"Alhir System S681"
 	}
 }
 
-Asteroid	"Alhir System S682"
+Asteroid	"Althir System S682"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -87817,7 +87817,7 @@ Asteroid	"Alhir System S682"
 	}
 }
 
-Asteroid	"Alhir System S683"
+Asteroid	"Althir System S683"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -87924,7 +87924,7 @@ Asteroid	"Alhir System S683"
 	}
 }
 
-Asteroid	"Alhir System S684"
+Asteroid	"Althir System S684"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -88031,7 +88031,7 @@ Asteroid	"Alhir System S684"
 	}
 }
 
-Asteroid	"Alhir System S685"
+Asteroid	"Althir System S685"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -88138,7 +88138,7 @@ Asteroid	"Alhir System S685"
 	}
 }
 
-Asteroid	"Alhir System S686"
+Asteroid	"Althir System S686"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -88245,7 +88245,7 @@ Asteroid	"Alhir System S686"
 	}
 }
 
-Asteroid	"Alhir System S687"
+Asteroid	"Althir System S687"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -88352,7 +88352,7 @@ Asteroid	"Alhir System S687"
 	}
 }
 
-Asteroid	"Alhir System S688"
+Asteroid	"Althir System S688"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -88459,7 +88459,7 @@ Asteroid	"Alhir System S688"
 	}
 }
 
-Asteroid	"Alhir System S689"
+Asteroid	"Althir System S689"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -88566,7 +88566,7 @@ Asteroid	"Alhir System S689"
 	}
 }
 
-Asteroid	"Alhir System S690"
+Asteroid	"Althir System S690"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -88673,7 +88673,7 @@ Asteroid	"Alhir System S690"
 	}
 }
 
-Asteroid	"Alhir System S691"
+Asteroid	"Althir System S691"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -88780,7 +88780,7 @@ Asteroid	"Alhir System S691"
 	}
 }
 
-Asteroid	"Alhir System S692"
+Asteroid	"Althir System S692"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -88887,7 +88887,7 @@ Asteroid	"Alhir System S692"
 	}
 }
 
-Asteroid	"Alhir System S693"
+Asteroid	"Althir System S693"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -88994,7 +88994,7 @@ Asteroid	"Alhir System S693"
 	}
 }
 
-Asteroid	"Alhir System S694"
+Asteroid	"Althir System S694"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -89101,7 +89101,7 @@ Asteroid	"Alhir System S694"
 	}
 }
 
-Asteroid	"Alhir System S695"
+Asteroid	"Althir System S695"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -89208,7 +89208,7 @@ Asteroid	"Alhir System S695"
 	}
 }
 
-Asteroid	"Alhir System S696"
+Asteroid	"Althir System S696"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -89315,7 +89315,7 @@ Asteroid	"Alhir System S696"
 	}
 }
 
-Asteroid	"Alhir System S697"
+Asteroid	"Althir System S697"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -89422,7 +89422,7 @@ Asteroid	"Alhir System S697"
 	}
 }
 
-Asteroid	"Alhir System S698"
+Asteroid	"Althir System S698"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -89529,7 +89529,7 @@ Asteroid	"Alhir System S698"
 	}
 }
 
-Asteroid	"Alhir System S699"
+Asteroid	"Althir System S699"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -89636,7 +89636,7 @@ Asteroid	"Alhir System S699"
 	}
 }
 
-Asteroid	"Alhir System S700"
+Asteroid	"Althir System S700"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -89743,7 +89743,7 @@ Asteroid	"Alhir System S700"
 	}
 }
 
-Asteroid	"Alhir System S701"
+Asteroid	"Althir System S701"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -89850,7 +89850,7 @@ Asteroid	"Alhir System S701"
 	}
 }
 
-Asteroid	"Alhir System S702"
+Asteroid	"Althir System S702"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -89957,7 +89957,7 @@ Asteroid	"Alhir System S702"
 	}
 }
 
-Asteroid	"Alhir System S703"
+Asteroid	"Althir System S703"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -90064,7 +90064,7 @@ Asteroid	"Alhir System S703"
 	}
 }
 
-Asteroid	"Alhir System S704"
+Asteroid	"Althir System S704"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -90171,7 +90171,7 @@ Asteroid	"Alhir System S704"
 	}
 }
 
-Asteroid	"Alhir System S705"
+Asteroid	"Althir System S705"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -90278,7 +90278,7 @@ Asteroid	"Alhir System S705"
 	}
 }
 
-Asteroid	"Alhir System S706"
+Asteroid	"Althir System S706"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -90385,7 +90385,7 @@ Asteroid	"Alhir System S706"
 	}
 }
 
-Asteroid	"Alhir System S707"
+Asteroid	"Althir System S707"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -90492,7 +90492,7 @@ Asteroid	"Alhir System S707"
 	}
 }
 
-Asteroid	"Alhir System S708"
+Asteroid	"Althir System S708"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -90599,7 +90599,7 @@ Asteroid	"Alhir System S708"
 	}
 }
 
-Asteroid	"Alhir System S709"
+Asteroid	"Althir System S709"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -90706,7 +90706,7 @@ Asteroid	"Alhir System S709"
 	}
 }
 
-Asteroid	"Alhir System S710"
+Asteroid	"Althir System S710"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -90813,7 +90813,7 @@ Asteroid	"Alhir System S710"
 	}
 }
 
-Asteroid	"Alhir System S711"
+Asteroid	"Althir System S711"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -90920,7 +90920,7 @@ Asteroid	"Alhir System S711"
 	}
 }
 
-Asteroid	"Alhir System S712"
+Asteroid	"Althir System S712"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -91027,7 +91027,7 @@ Asteroid	"Alhir System S712"
 	}
 }
 
-Asteroid	"Alhir System S713"
+Asteroid	"Althir System S713"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -91134,7 +91134,7 @@ Asteroid	"Alhir System S713"
 	}
 }
 
-Asteroid	"Alhir System S714"
+Asteroid	"Althir System S714"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -91241,7 +91241,7 @@ Asteroid	"Alhir System S714"
 	}
 }
 
-Asteroid	"Alhir System S715"
+Asteroid	"Althir System S715"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -91348,7 +91348,7 @@ Asteroid	"Alhir System S715"
 	}
 }
 
-Asteroid	"Alhir System S716"
+Asteroid	"Althir System S716"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -91455,7 +91455,7 @@ Asteroid	"Alhir System S716"
 	}
 }
 
-Asteroid	"Alhir System S717"
+Asteroid	"Althir System S717"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -91562,7 +91562,7 @@ Asteroid	"Alhir System S717"
 	}
 }
 
-Asteroid	"Alhir System S718"
+Asteroid	"Althir System S718"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -91669,7 +91669,7 @@ Asteroid	"Alhir System S718"
 	}
 }
 
-Asteroid	"Alhir System S719"
+Asteroid	"Althir System S719"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -91776,7 +91776,7 @@ Asteroid	"Alhir System S719"
 	}
 }
 
-Asteroid	"Alhir System S720"
+Asteroid	"Althir System S720"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -91883,7 +91883,7 @@ Asteroid	"Alhir System S720"
 	}
 }
 
-Asteroid	"Alhir System S721"
+Asteroid	"Althir System S721"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -91990,7 +91990,7 @@ Asteroid	"Alhir System S721"
 	}
 }
 
-Asteroid	"Alhir System S722"
+Asteroid	"Althir System S722"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -92097,7 +92097,7 @@ Asteroid	"Alhir System S722"
 	}
 }
 
-Asteroid	"Alhir System S723"
+Asteroid	"Althir System S723"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -92204,7 +92204,7 @@ Asteroid	"Alhir System S723"
 	}
 }
 
-Asteroid	"Alhir System S724"
+Asteroid	"Althir System S724"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -92311,7 +92311,7 @@ Asteroid	"Alhir System S724"
 	}
 }
 
-Asteroid	"Alhir System S725"
+Asteroid	"Althir System S725"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -92418,7 +92418,7 @@ Asteroid	"Alhir System S725"
 	}
 }
 
-Asteroid	"Alhir System S726"
+Asteroid	"Althir System S726"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -92525,7 +92525,7 @@ Asteroid	"Alhir System S726"
 	}
 }
 
-Asteroid	"Alhir System S727"
+Asteroid	"Althir System S727"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -92632,7 +92632,7 @@ Asteroid	"Alhir System S727"
 	}
 }
 
-Asteroid	"Alhir System S728"
+Asteroid	"Althir System S728"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -92739,7 +92739,7 @@ Asteroid	"Alhir System S728"
 	}
 }
 
-Asteroid	"Alhir System S729"
+Asteroid	"Althir System S729"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -92846,7 +92846,7 @@ Asteroid	"Alhir System S729"
 	}
 }
 
-Asteroid	"Alhir System S730"
+Asteroid	"Althir System S730"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -92953,7 +92953,7 @@ Asteroid	"Alhir System S730"
 	}
 }
 
-Asteroid	"Alhir System S731"
+Asteroid	"Althir System S731"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -93060,7 +93060,7 @@ Asteroid	"Alhir System S731"
 	}
 }
 
-Asteroid	"Alhir System S732"
+Asteroid	"Althir System S732"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -93167,7 +93167,7 @@ Asteroid	"Alhir System S732"
 	}
 }
 
-Asteroid	"Alhir System S733"
+Asteroid	"Althir System S733"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -93274,7 +93274,7 @@ Asteroid	"Alhir System S733"
 	}
 }
 
-Asteroid	"Alhir System S734"
+Asteroid	"Althir System S734"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -93381,7 +93381,7 @@ Asteroid	"Alhir System S734"
 	}
 }
 
-Asteroid	"Alhir System S735"
+Asteroid	"Althir System S735"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -93488,7 +93488,7 @@ Asteroid	"Alhir System S735"
 	}
 }
 
-Asteroid	"Alhir System S736"
+Asteroid	"Althir System S736"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -93595,7 +93595,7 @@ Asteroid	"Alhir System S736"
 	}
 }
 
-Asteroid	"Alhir System S737"
+Asteroid	"Althir System S737"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -93702,7 +93702,7 @@ Asteroid	"Alhir System S737"
 	}
 }
 
-Asteroid	"Alhir System S738"
+Asteroid	"Althir System S738"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -93809,7 +93809,7 @@ Asteroid	"Alhir System S738"
 	}
 }
 
-Asteroid	"Alhir System S739"
+Asteroid	"Althir System S739"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -93916,7 +93916,7 @@ Asteroid	"Alhir System S739"
 	}
 }
 
-Asteroid	"Alhir System S740"
+Asteroid	"Althir System S740"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -94023,7 +94023,7 @@ Asteroid	"Alhir System S740"
 	}
 }
 
-Asteroid	"Alhir System S741"
+Asteroid	"Althir System S741"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -94130,7 +94130,7 @@ Asteroid	"Alhir System S741"
 	}
 }
 
-Asteroid	"Alhir System S742"
+Asteroid	"Althir System S742"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -94237,7 +94237,7 @@ Asteroid	"Alhir System S742"
 	}
 }
 
-Asteroid	"Alhir System S743"
+Asteroid	"Althir System S743"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -94344,7 +94344,7 @@ Asteroid	"Alhir System S743"
 	}
 }
 
-Asteroid	"Alhir System S744"
+Asteroid	"Althir System S744"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -94451,7 +94451,7 @@ Asteroid	"Alhir System S744"
 	}
 }
 
-Asteroid	"Alhir System S745"
+Asteroid	"Althir System S745"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -94558,7 +94558,7 @@ Asteroid	"Alhir System S745"
 	}
 }
 
-Asteroid	"Alhir System S746"
+Asteroid	"Althir System S746"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -94665,7 +94665,7 @@ Asteroid	"Alhir System S746"
 	}
 }
 
-Asteroid	"Alhir System S747"
+Asteroid	"Althir System S747"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -94772,7 +94772,7 @@ Asteroid	"Alhir System S747"
 	}
 }
 
-Asteroid	"Alhir System S748"
+Asteroid	"Althir System S748"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -94879,7 +94879,7 @@ Asteroid	"Alhir System S748"
 	}
 }
 
-Asteroid	"Alhir System S749"
+Asteroid	"Althir System S749"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -94986,7 +94986,7 @@ Asteroid	"Alhir System S749"
 	}
 }
 
-Asteroid	"Alhir System S750"
+Asteroid	"Althir System S750"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -95093,7 +95093,7 @@ Asteroid	"Alhir System S750"
 	}
 }
 
-Asteroid	"Alhir System S751"
+Asteroid	"Althir System S751"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -95200,7 +95200,7 @@ Asteroid	"Alhir System S751"
 	}
 }
 
-Asteroid	"Alhir System S752"
+Asteroid	"Althir System S752"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -95307,7 +95307,7 @@ Asteroid	"Alhir System S752"
 	}
 }
 
-Asteroid	"Alhir System S753"
+Asteroid	"Althir System S753"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -95414,7 +95414,7 @@ Asteroid	"Alhir System S753"
 	}
 }
 
-Asteroid	"Alhir System S754"
+Asteroid	"Althir System S754"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -95521,7 +95521,7 @@ Asteroid	"Alhir System S754"
 	}
 }
 
-Asteroid	"Alhir System S755"
+Asteroid	"Althir System S755"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -95628,7 +95628,7 @@ Asteroid	"Alhir System S755"
 	}
 }
 
-Asteroid	"Alhir System S756"
+Asteroid	"Althir System S756"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -95735,7 +95735,7 @@ Asteroid	"Alhir System S756"
 	}
 }
 
-Asteroid	"Alhir System S757"
+Asteroid	"Althir System S757"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -95842,7 +95842,7 @@ Asteroid	"Alhir System S757"
 	}
 }
 
-Asteroid	"Alhir System S758"
+Asteroid	"Althir System S758"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -95949,7 +95949,7 @@ Asteroid	"Alhir System S758"
 	}
 }
 
-Asteroid	"Alhir System S759"
+Asteroid	"Althir System S759"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -96056,7 +96056,7 @@ Asteroid	"Alhir System S759"
 	}
 }
 
-Asteroid	"Alhir System S760"
+Asteroid	"Althir System S760"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -96163,7 +96163,7 @@ Asteroid	"Alhir System S760"
 	}
 }
 
-Asteroid	"Alhir System S761"
+Asteroid	"Althir System S761"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -96270,7 +96270,7 @@ Asteroid	"Alhir System S761"
 	}
 }
 
-Asteroid	"Alhir System S762"
+Asteroid	"Althir System S762"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -96377,7 +96377,7 @@ Asteroid	"Alhir System S762"
 	}
 }
 
-Asteroid	"Alhir System S763"
+Asteroid	"Althir System S763"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -96484,7 +96484,7 @@ Asteroid	"Alhir System S763"
 	}
 }
 
-Asteroid	"Alhir System S764"
+Asteroid	"Althir System S764"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -96591,7 +96591,7 @@ Asteroid	"Alhir System S764"
 	}
 }
 
-Asteroid	"Alhir System S765"
+Asteroid	"Althir System S765"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -96698,7 +96698,7 @@ Asteroid	"Alhir System S765"
 	}
 }
 
-Asteroid	"Alhir System S766"
+Asteroid	"Althir System S766"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -96805,7 +96805,7 @@ Asteroid	"Alhir System S766"
 	}
 }
 
-Asteroid	"Alhir System S767"
+Asteroid	"Althir System S767"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -96912,7 +96912,7 @@ Asteroid	"Alhir System S767"
 	}
 }
 
-Asteroid	"Alhir System S768"
+Asteroid	"Althir System S768"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -97019,7 +97019,7 @@ Asteroid	"Alhir System S768"
 	}
 }
 
-Asteroid	"Alhir System S769"
+Asteroid	"Althir System S769"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -97126,7 +97126,7 @@ Asteroid	"Alhir System S769"
 	}
 }
 
-Asteroid	"Alhir System S770"
+Asteroid	"Althir System S770"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -97233,7 +97233,7 @@ Asteroid	"Alhir System S770"
 	}
 }
 
-Asteroid	"Alhir System S771"
+Asteroid	"Althir System S771"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -97340,7 +97340,7 @@ Asteroid	"Alhir System S771"
 	}
 }
 
-Asteroid	"Alhir System S772"
+Asteroid	"Althir System S772"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -97447,7 +97447,7 @@ Asteroid	"Alhir System S772"
 	}
 }
 
-Asteroid	"Alhir System S773"
+Asteroid	"Althir System S773"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -97554,7 +97554,7 @@ Asteroid	"Alhir System S773"
 	}
 }
 
-Asteroid	"Alhir System S774"
+Asteroid	"Althir System S774"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -97661,7 +97661,7 @@ Asteroid	"Alhir System S774"
 	}
 }
 
-Asteroid	"Alhir System S775"
+Asteroid	"Althir System S775"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -97768,7 +97768,7 @@ Asteroid	"Alhir System S775"
 	}
 }
 
-Asteroid	"Alhir System S776"
+Asteroid	"Althir System S776"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -97875,7 +97875,7 @@ Asteroid	"Alhir System S776"
 	}
 }
 
-Asteroid	"Alhir System S777"
+Asteroid	"Althir System S777"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -97982,7 +97982,7 @@ Asteroid	"Alhir System S777"
 	}
 }
 
-Asteroid	"Alhir System S778"
+Asteroid	"Althir System S778"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -98089,7 +98089,7 @@ Asteroid	"Alhir System S778"
 	}
 }
 
-Asteroid	"Alhir System S779"
+Asteroid	"Althir System S779"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -98196,7 +98196,7 @@ Asteroid	"Alhir System S779"
 	}
 }
 
-Asteroid	"Alhir System S780"
+Asteroid	"Althir System S780"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -98303,7 +98303,7 @@ Asteroid	"Alhir System S780"
 	}
 }
 
-Asteroid	"Alhir System S781"
+Asteroid	"Althir System S781"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -98410,7 +98410,7 @@ Asteroid	"Alhir System S781"
 	}
 }
 
-Asteroid	"Alhir System S782"
+Asteroid	"Althir System S782"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -98517,7 +98517,7 @@ Asteroid	"Alhir System S782"
 	}
 }
 
-Asteroid	"Alhir System S783"
+Asteroid	"Althir System S783"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -98624,7 +98624,7 @@ Asteroid	"Alhir System S783"
 	}
 }
 
-Asteroid	"Alhir System S784"
+Asteroid	"Althir System S784"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -98731,7 +98731,7 @@ Asteroid	"Alhir System S784"
 	}
 }
 
-Asteroid	"Alhir System S785"
+Asteroid	"Althir System S785"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -98838,7 +98838,7 @@ Asteroid	"Alhir System S785"
 	}
 }
 
-Asteroid	"Alhir System S786"
+Asteroid	"Althir System S786"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -98945,7 +98945,7 @@ Asteroid	"Alhir System S786"
 	}
 }
 
-Asteroid	"Alhir System S787"
+Asteroid	"Althir System S787"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -99052,7 +99052,7 @@ Asteroid	"Alhir System S787"
 	}
 }
 
-Asteroid	"Alhir System S788"
+Asteroid	"Althir System S788"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -99159,7 +99159,7 @@ Asteroid	"Alhir System S788"
 	}
 }
 
-Asteroid	"Alhir System S789"
+Asteroid	"Althir System S789"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -99266,7 +99266,7 @@ Asteroid	"Alhir System S789"
 	}
 }
 
-Asteroid	"Alhir System S790"
+Asteroid	"Althir System S790"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -99373,7 +99373,7 @@ Asteroid	"Alhir System S790"
 	}
 }
 
-Asteroid	"Alhir System S791"
+Asteroid	"Althir System S791"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -99480,7 +99480,7 @@ Asteroid	"Alhir System S791"
 	}
 }
 
-Asteroid	"Alhir System S792"
+Asteroid	"Althir System S792"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -99587,7 +99587,7 @@ Asteroid	"Alhir System S792"
 	}
 }
 
-Asteroid	"Alhir System S793"
+Asteroid	"Althir System S793"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -99694,7 +99694,7 @@ Asteroid	"Alhir System S793"
 	}
 }
 
-Asteroid	"Alhir System S794"
+Asteroid	"Althir System S794"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -99801,7 +99801,7 @@ Asteroid	"Alhir System S794"
 	}
 }
 
-Asteroid	"Alhir System S795"
+Asteroid	"Althir System S795"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -99908,7 +99908,7 @@ Asteroid	"Alhir System S795"
 	}
 }
 
-Asteroid	"Alhir System S796"
+Asteroid	"Althir System S796"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -100015,7 +100015,7 @@ Asteroid	"Alhir System S796"
 	}
 }
 
-Asteroid	"Alhir System S797"
+Asteroid	"Althir System S797"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -100122,7 +100122,7 @@ Asteroid	"Alhir System S797"
 	}
 }
 
-Asteroid	"Alhir System S798"
+Asteroid	"Althir System S798"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -100229,7 +100229,7 @@ Asteroid	"Alhir System S798"
 	}
 }
 
-Asteroid	"Alhir System S799"
+Asteroid	"Althir System S799"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -100336,7 +100336,7 @@ Asteroid	"Alhir System S799"
 	}
 }
 
-Asteroid	"Alhir System S800"
+Asteroid	"Althir System S800"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -100443,7 +100443,7 @@ Asteroid	"Alhir System S800"
 	}
 }
 
-Asteroid	"Alhir System S801"
+Asteroid	"Althir System S801"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -100550,7 +100550,7 @@ Asteroid	"Alhir System S801"
 	}
 }
 
-Asteroid	"Alhir System S802"
+Asteroid	"Althir System S802"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -100657,7 +100657,7 @@ Asteroid	"Alhir System S802"
 	}
 }
 
-Asteroid	"Alhir System S803"
+Asteroid	"Althir System S803"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -100764,7 +100764,7 @@ Asteroid	"Alhir System S803"
 	}
 }
 
-Asteroid	"Alhir System S804"
+Asteroid	"Althir System S804"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -100871,7 +100871,7 @@ Asteroid	"Alhir System S804"
 	}
 }
 
-Asteroid	"Alhir System S805"
+Asteroid	"Althir System S805"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -100978,7 +100978,7 @@ Asteroid	"Alhir System S805"
 	}
 }
 
-Asteroid	"Alhir System S806"
+Asteroid	"Althir System S806"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -101085,7 +101085,7 @@ Asteroid	"Alhir System S806"
 	}
 }
 
-Asteroid	"Alhir System S807"
+Asteroid	"Althir System S807"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -101192,7 +101192,7 @@ Asteroid	"Alhir System S807"
 	}
 }
 
-Asteroid	"Alhir System S808"
+Asteroid	"Althir System S808"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -101299,7 +101299,7 @@ Asteroid	"Alhir System S808"
 	}
 }
 
-Asteroid	"Alhir System S809"
+Asteroid	"Althir System S809"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -101406,7 +101406,7 @@ Asteroid	"Alhir System S809"
 	}
 }
 
-Asteroid	"Alhir System S810"
+Asteroid	"Althir System S810"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -101513,7 +101513,7 @@ Asteroid	"Alhir System S810"
 	}
 }
 
-Asteroid	"Alhir System S811"
+Asteroid	"Althir System S811"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -101620,7 +101620,7 @@ Asteroid	"Alhir System S811"
 	}
 }
 
-Asteroid	"Alhir System S812"
+Asteroid	"Althir System S812"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -101727,7 +101727,7 @@ Asteroid	"Alhir System S812"
 	}
 }
 
-Asteroid	"Alhir System S813"
+Asteroid	"Althir System S813"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -101834,7 +101834,7 @@ Asteroid	"Alhir System S813"
 	}
 }
 
-Asteroid	"Alhir System S814"
+Asteroid	"Althir System S814"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -101941,7 +101941,7 @@ Asteroid	"Alhir System S814"
 	}
 }
 
-Asteroid	"Alhir System S815"
+Asteroid	"Althir System S815"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -102048,7 +102048,7 @@ Asteroid	"Alhir System S815"
 	}
 }
 
-Asteroid	"Alhir System S816"
+Asteroid	"Althir System S816"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -102155,7 +102155,7 @@ Asteroid	"Alhir System S816"
 	}
 }
 
-Asteroid	"Alhir System S817"
+Asteroid	"Althir System S817"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -102262,7 +102262,7 @@ Asteroid	"Alhir System S817"
 	}
 }
 
-Asteroid	"Alhir System S818"
+Asteroid	"Althir System S818"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -102369,7 +102369,7 @@ Asteroid	"Alhir System S818"
 	}
 }
 
-Asteroid	"Alhir System S819"
+Asteroid	"Althir System S819"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -102476,7 +102476,7 @@ Asteroid	"Alhir System S819"
 	}
 }
 
-Asteroid	"Alhir System S820"
+Asteroid	"Althir System S820"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -102583,7 +102583,7 @@ Asteroid	"Alhir System S820"
 	}
 }
 
-Asteroid	"Alhir System S821"
+Asteroid	"Althir System S821"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -102690,7 +102690,7 @@ Asteroid	"Alhir System S821"
 	}
 }
 
-Asteroid	"Alhir System S822"
+Asteroid	"Althir System S822"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -102797,7 +102797,7 @@ Asteroid	"Alhir System S822"
 	}
 }
 
-Asteroid	"Alhir System S823"
+Asteroid	"Althir System S823"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -102904,7 +102904,7 @@ Asteroid	"Alhir System S823"
 	}
 }
 
-Asteroid	"Alhir System S824"
+Asteroid	"Althir System S824"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -103011,7 +103011,7 @@ Asteroid	"Alhir System S824"
 	}
 }
 
-Asteroid	"Alhir System S825"
+Asteroid	"Althir System S825"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -103118,7 +103118,7 @@ Asteroid	"Alhir System S825"
 	}
 }
 
-Asteroid	"Alhir System S826"
+Asteroid	"Althir System S826"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -103225,7 +103225,7 @@ Asteroid	"Alhir System S826"
 	}
 }
 
-Asteroid	"Alhir System S827"
+Asteroid	"Althir System S827"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -103332,7 +103332,7 @@ Asteroid	"Alhir System S827"
 	}
 }
 
-Asteroid	"Alhir System S828"
+Asteroid	"Althir System S828"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -103439,7 +103439,7 @@ Asteroid	"Alhir System S828"
 	}
 }
 
-Asteroid	"Alhir System S829"
+Asteroid	"Althir System S829"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -103546,7 +103546,7 @@ Asteroid	"Alhir System S829"
 	}
 }
 
-Asteroid	"Alhir System S830"
+Asteroid	"Althir System S830"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -103653,7 +103653,7 @@ Asteroid	"Alhir System S830"
 	}
 }
 
-Asteroid	"Alhir System S831"
+Asteroid	"Althir System S831"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -103760,7 +103760,7 @@ Asteroid	"Alhir System S831"
 	}
 }
 
-Asteroid	"Alhir System S832"
+Asteroid	"Althir System S832"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -103867,7 +103867,7 @@ Asteroid	"Alhir System S832"
 	}
 }
 
-Asteroid	"Alhir System S833"
+Asteroid	"Althir System S833"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -103974,7 +103974,7 @@ Asteroid	"Alhir System S833"
 	}
 }
 
-Asteroid	"Alhir System S834"
+Asteroid	"Althir System S834"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -104081,7 +104081,7 @@ Asteroid	"Alhir System S834"
 	}
 }
 
-Asteroid	"Alhir System S835"
+Asteroid	"Althir System S835"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -104188,7 +104188,7 @@ Asteroid	"Alhir System S835"
 	}
 }
 
-Asteroid	"Alhir System S836"
+Asteroid	"Althir System S836"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -104295,7 +104295,7 @@ Asteroid	"Alhir System S836"
 	}
 }
 
-Asteroid	"Alhir System S837"
+Asteroid	"Althir System S837"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -104402,7 +104402,7 @@ Asteroid	"Alhir System S837"
 	}
 }
 
-Asteroid	"Alhir System S838"
+Asteroid	"Althir System S838"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -104509,7 +104509,7 @@ Asteroid	"Alhir System S838"
 	}
 }
 
-Asteroid	"Alhir System S839"
+Asteroid	"Althir System S839"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -104616,7 +104616,7 @@ Asteroid	"Alhir System S839"
 	}
 }
 
-Asteroid	"Alhir System S840"
+Asteroid	"Althir System S840"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -104723,7 +104723,7 @@ Asteroid	"Alhir System S840"
 	}
 }
 
-Asteroid	"Alhir System S841"
+Asteroid	"Althir System S841"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -104830,7 +104830,7 @@ Asteroid	"Alhir System S841"
 	}
 }
 
-Asteroid	"Alhir System S842"
+Asteroid	"Althir System S842"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -104937,7 +104937,7 @@ Asteroid	"Alhir System S842"
 	}
 }
 
-Asteroid	"Alhir System S843"
+Asteroid	"Althir System S843"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -105044,7 +105044,7 @@ Asteroid	"Alhir System S843"
 	}
 }
 
-Asteroid	"Alhir System S844"
+Asteroid	"Althir System S844"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -105151,7 +105151,7 @@ Asteroid	"Alhir System S844"
 	}
 }
 
-Asteroid	"Alhir System S845"
+Asteroid	"Althir System S845"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -105258,7 +105258,7 @@ Asteroid	"Alhir System S845"
 	}
 }
 
-Asteroid	"Alhir System S846"
+Asteroid	"Althir System S846"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -105365,7 +105365,7 @@ Asteroid	"Alhir System S846"
 	}
 }
 
-Asteroid	"Alhir System S847"
+Asteroid	"Althir System S847"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -105472,7 +105472,7 @@ Asteroid	"Alhir System S847"
 	}
 }
 
-Asteroid	"Alhir System S848"
+Asteroid	"Althir System S848"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -105579,7 +105579,7 @@ Asteroid	"Alhir System S848"
 	}
 }
 
-Asteroid	"Alhir System S849"
+Asteroid	"Althir System S849"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -105686,7 +105686,7 @@ Asteroid	"Alhir System S849"
 	}
 }
 
-Asteroid	"Alhir System S850"
+Asteroid	"Althir System S850"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -105793,7 +105793,7 @@ Asteroid	"Alhir System S850"
 	}
 }
 
-Asteroid	"Alhir System S851"
+Asteroid	"Althir System S851"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -105900,7 +105900,7 @@ Asteroid	"Alhir System S851"
 	}
 }
 
-Asteroid	"Alhir System S852"
+Asteroid	"Althir System S852"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -106007,7 +106007,7 @@ Asteroid	"Alhir System S852"
 	}
 }
 
-Asteroid	"Alhir System S853"
+Asteroid	"Althir System S853"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -106114,7 +106114,7 @@ Asteroid	"Alhir System S853"
 	}
 }
 
-Asteroid	"Alhir System S854"
+Asteroid	"Althir System S854"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -106221,7 +106221,7 @@ Asteroid	"Alhir System S854"
 	}
 }
 
-Asteroid	"Alhir System S855"
+Asteroid	"Althir System S855"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -106328,7 +106328,7 @@ Asteroid	"Alhir System S855"
 	}
 }
 
-Asteroid	"Alhir System S856"
+Asteroid	"Althir System S856"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -106435,7 +106435,7 @@ Asteroid	"Alhir System S856"
 	}
 }
 
-Asteroid	"Alhir System S857"
+Asteroid	"Althir System S857"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -106542,7 +106542,7 @@ Asteroid	"Alhir System S857"
 	}
 }
 
-Asteroid	"Alhir System S858"
+Asteroid	"Althir System S858"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -106649,7 +106649,7 @@ Asteroid	"Alhir System S858"
 	}
 }
 
-Asteroid	"Alhir System S859"
+Asteroid	"Althir System S859"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -106756,7 +106756,7 @@ Asteroid	"Alhir System S859"
 	}
 }
 
-Asteroid	"Alhir System S860"
+Asteroid	"Althir System S860"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -106863,7 +106863,7 @@ Asteroid	"Alhir System S860"
 	}
 }
 
-Asteroid	"Alhir System S861"
+Asteroid	"Althir System S861"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -106970,7 +106970,7 @@ Asteroid	"Alhir System S861"
 	}
 }
 
-Asteroid	"Alhir System S862"
+Asteroid	"Althir System S862"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -107077,7 +107077,7 @@ Asteroid	"Alhir System S862"
 	}
 }
 
-Asteroid	"Alhir System S863"
+Asteroid	"Althir System S863"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -107184,7 +107184,7 @@ Asteroid	"Alhir System S863"
 	}
 }
 
-Asteroid	"Alhir System S864"
+Asteroid	"Althir System S864"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -107291,7 +107291,7 @@ Asteroid	"Alhir System S864"
 	}
 }
 
-Asteroid	"Alhir System S865"
+Asteroid	"Althir System S865"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -107398,7 +107398,7 @@ Asteroid	"Alhir System S865"
 	}
 }
 
-Asteroid	"Alhir System S866"
+Asteroid	"Althir System S866"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -107505,7 +107505,7 @@ Asteroid	"Alhir System S866"
 	}
 }
 
-Asteroid	"Alhir System S867"
+Asteroid	"Althir System S867"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -107612,7 +107612,7 @@ Asteroid	"Alhir System S867"
 	}
 }
 
-Asteroid	"Alhir System S868"
+Asteroid	"Althir System S868"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -107719,7 +107719,7 @@ Asteroid	"Alhir System S868"
 	}
 }
 
-Asteroid	"Alhir System S869"
+Asteroid	"Althir System S869"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -107826,7 +107826,7 @@ Asteroid	"Alhir System S869"
 	}
 }
 
-Asteroid	"Alhir System S870"
+Asteroid	"Althir System S870"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -107933,7 +107933,7 @@ Asteroid	"Alhir System S870"
 	}
 }
 
-Asteroid	"Alhir System S871"
+Asteroid	"Althir System S871"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -108040,7 +108040,7 @@ Asteroid	"Alhir System S871"
 	}
 }
 
-Asteroid	"Alhir System S872"
+Asteroid	"Althir System S872"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -108147,7 +108147,7 @@ Asteroid	"Alhir System S872"
 	}
 }
 
-Asteroid	"Alhir System S873"
+Asteroid	"Althir System S873"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -108254,7 +108254,7 @@ Asteroid	"Alhir System S873"
 	}
 }
 
-Asteroid	"Alhir System S874"
+Asteroid	"Althir System S874"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -108361,7 +108361,7 @@ Asteroid	"Alhir System S874"
 	}
 }
 
-Asteroid	"Alhir System S875"
+Asteroid	"Althir System S875"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -108468,7 +108468,7 @@ Asteroid	"Alhir System S875"
 	}
 }
 
-Asteroid	"Alhir System S876"
+Asteroid	"Althir System S876"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -108575,7 +108575,7 @@ Asteroid	"Alhir System S876"
 	}
 }
 
-Asteroid	"Alhir System S877"
+Asteroid	"Althir System S877"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -108682,7 +108682,7 @@ Asteroid	"Alhir System S877"
 	}
 }
 
-Asteroid	"Alhir System S878"
+Asteroid	"Althir System S878"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -108789,7 +108789,7 @@ Asteroid	"Alhir System S878"
 	}
 }
 
-Asteroid	"Alhir System S879"
+Asteroid	"Althir System S879"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -108896,7 +108896,7 @@ Asteroid	"Alhir System S879"
 	}
 }
 
-Asteroid	"Alhir System S880"
+Asteroid	"Althir System S880"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -109003,7 +109003,7 @@ Asteroid	"Alhir System S880"
 	}
 }
 
-Asteroid	"Alhir System S881"
+Asteroid	"Althir System S881"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -109110,7 +109110,7 @@ Asteroid	"Alhir System S881"
 	}
 }
 
-Asteroid	"Alhir System S882"
+Asteroid	"Althir System S882"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -109217,7 +109217,7 @@ Asteroid	"Alhir System S882"
 	}
 }
 
-Asteroid	"Alhir System S883"
+Asteroid	"Althir System S883"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -109324,7 +109324,7 @@ Asteroid	"Alhir System S883"
 	}
 }
 
-Asteroid	"Alhir System S884"
+Asteroid	"Althir System S884"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -109431,7 +109431,7 @@ Asteroid	"Alhir System S884"
 	}
 }
 
-Asteroid	"Alhir System S885"
+Asteroid	"Althir System S885"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -109538,7 +109538,7 @@ Asteroid	"Alhir System S885"
 	}
 }
 
-Asteroid	"Alhir System S886"
+Asteroid	"Althir System S886"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -109645,7 +109645,7 @@ Asteroid	"Alhir System S886"
 	}
 }
 
-Asteroid	"Alhir System S887"
+Asteroid	"Althir System S887"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -109752,7 +109752,7 @@ Asteroid	"Alhir System S887"
 	}
 }
 
-Asteroid	"Alhir System S888"
+Asteroid	"Althir System S888"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -109859,7 +109859,7 @@ Asteroid	"Alhir System S888"
 	}
 }
 
-Asteroid	"Alhir System S889"
+Asteroid	"Althir System S889"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -109966,7 +109966,7 @@ Asteroid	"Alhir System S889"
 	}
 }
 
-Asteroid	"Alhir System S890"
+Asteroid	"Althir System S890"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -110073,7 +110073,7 @@ Asteroid	"Alhir System S890"
 	}
 }
 
-Asteroid	"Alhir System S891"
+Asteroid	"Althir System S891"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -110180,7 +110180,7 @@ Asteroid	"Alhir System S891"
 	}
 }
 
-Asteroid	"Alhir System S892"
+Asteroid	"Althir System S892"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -110287,7 +110287,7 @@ Asteroid	"Alhir System S892"
 	}
 }
 
-Asteroid	"Alhir System S893"
+Asteroid	"Althir System S893"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -110394,7 +110394,7 @@ Asteroid	"Alhir System S893"
 	}
 }
 
-Asteroid	"Alhir System S894"
+Asteroid	"Althir System S894"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -110501,7 +110501,7 @@ Asteroid	"Alhir System S894"
 	}
 }
 
-Asteroid	"Alhir System S895"
+Asteroid	"Althir System S895"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -110608,7 +110608,7 @@ Asteroid	"Alhir System S895"
 	}
 }
 
-Asteroid	"Alhir System S896"
+Asteroid	"Althir System S896"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -110715,7 +110715,7 @@ Asteroid	"Alhir System S896"
 	}
 }
 
-Asteroid	"Alhir System S897"
+Asteroid	"Althir System S897"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -110822,7 +110822,7 @@ Asteroid	"Alhir System S897"
 	}
 }
 
-Asteroid	"Alhir System S898"
+Asteroid	"Althir System S898"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -110929,7 +110929,7 @@ Asteroid	"Alhir System S898"
 	}
 }
 
-Asteroid	"Alhir System S899"
+Asteroid	"Althir System S899"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -111036,7 +111036,7 @@ Asteroid	"Alhir System S899"
 	}
 }
 
-Asteroid	"Alhir System S900"
+Asteroid	"Althir System S900"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -111143,7 +111143,7 @@ Asteroid	"Alhir System S900"
 	}
 }
 
-Asteroid	"Alhir System S901"
+Asteroid	"Althir System S901"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -111250,7 +111250,7 @@ Asteroid	"Alhir System S901"
 	}
 }
 
-Asteroid	"Alhir System S902"
+Asteroid	"Althir System S902"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -111357,7 +111357,7 @@ Asteroid	"Alhir System S902"
 	}
 }
 
-Asteroid	"Alhir System S903"
+Asteroid	"Althir System S903"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -111464,7 +111464,7 @@ Asteroid	"Alhir System S903"
 	}
 }
 
-Asteroid	"Alhir System S904"
+Asteroid	"Althir System S904"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -111571,7 +111571,7 @@ Asteroid	"Alhir System S904"
 	}
 }
 
-Asteroid	"Alhir System S905"
+Asteroid	"Althir System S905"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -111678,7 +111678,7 @@ Asteroid	"Alhir System S905"
 	}
 }
 
-Asteroid	"Alhir System S906"
+Asteroid	"Althir System S906"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -111785,7 +111785,7 @@ Asteroid	"Alhir System S906"
 	}
 }
 
-Asteroid	"Alhir System S907"
+Asteroid	"Althir System S907"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -111892,7 +111892,7 @@ Asteroid	"Alhir System S907"
 	}
 }
 
-Asteroid	"Alhir System S908"
+Asteroid	"Althir System S908"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -111999,7 +111999,7 @@ Asteroid	"Alhir System S908"
 	}
 }
 
-Asteroid	"Alhir System S909"
+Asteroid	"Althir System S909"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -112106,7 +112106,7 @@ Asteroid	"Alhir System S909"
 	}
 }
 
-Asteroid	"Alhir System S910"
+Asteroid	"Althir System S910"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -112213,7 +112213,7 @@ Asteroid	"Alhir System S910"
 	}
 }
 
-Asteroid	"Alhir System S911"
+Asteroid	"Althir System S911"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -112320,7 +112320,7 @@ Asteroid	"Alhir System S911"
 	}
 }
 
-Asteroid	"Alhir System S912"
+Asteroid	"Althir System S912"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -112427,7 +112427,7 @@ Asteroid	"Alhir System S912"
 	}
 }
 
-Asteroid	"Alhir System S913"
+Asteroid	"Althir System S913"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -112534,7 +112534,7 @@ Asteroid	"Alhir System S913"
 	}
 }
 
-Asteroid	"Alhir System S914"
+Asteroid	"Althir System S914"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -112641,7 +112641,7 @@ Asteroid	"Alhir System S914"
 	}
 }
 
-Asteroid	"Alhir System S915"
+Asteroid	"Althir System S915"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -112748,7 +112748,7 @@ Asteroid	"Alhir System S915"
 	}
 }
 
-Asteroid	"Alhir System S916"
+Asteroid	"Althir System S916"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -112855,7 +112855,7 @@ Asteroid	"Alhir System S916"
 	}
 }
 
-Asteroid	"Alhir System S917"
+Asteroid	"Althir System S917"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -112962,7 +112962,7 @@ Asteroid	"Alhir System S917"
 	}
 }
 
-Asteroid	"Alhir System S918"
+Asteroid	"Althir System S918"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -113069,7 +113069,7 @@ Asteroid	"Alhir System S918"
 	}
 }
 
-Asteroid	"Alhir System S919"
+Asteroid	"Althir System S919"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -113176,7 +113176,7 @@ Asteroid	"Alhir System S919"
 	}
 }
 
-Asteroid	"Alhir System S920"
+Asteroid	"Althir System S920"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -113283,7 +113283,7 @@ Asteroid	"Alhir System S920"
 	}
 }
 
-Asteroid	"Alhir System S921"
+Asteroid	"Althir System S921"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -113390,7 +113390,7 @@ Asteroid	"Alhir System S921"
 	}
 }
 
-Asteroid	"Alhir System S922"
+Asteroid	"Althir System S922"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -113497,7 +113497,7 @@ Asteroid	"Alhir System S922"
 	}
 }
 
-Asteroid	"Alhir System S923"
+Asteroid	"Althir System S923"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -113604,7 +113604,7 @@ Asteroid	"Alhir System S923"
 	}
 }
 
-Asteroid	"Alhir System S924"
+Asteroid	"Althir System S924"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -113711,7 +113711,7 @@ Asteroid	"Alhir System S924"
 	}
 }
 
-Asteroid	"Alhir System S925"
+Asteroid	"Althir System S925"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -113818,7 +113818,7 @@ Asteroid	"Alhir System S925"
 	}
 }
 
-Asteroid	"Alhir System S926"
+Asteroid	"Althir System S926"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -113925,7 +113925,7 @@ Asteroid	"Alhir System S926"
 	}
 }
 
-Asteroid	"Alhir System S927"
+Asteroid	"Althir System S927"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -114032,7 +114032,7 @@ Asteroid	"Alhir System S927"
 	}
 }
 
-Asteroid	"Alhir System S928"
+Asteroid	"Althir System S928"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -114139,7 +114139,7 @@ Asteroid	"Alhir System S928"
 	}
 }
 
-Asteroid	"Alhir System S929"
+Asteroid	"Althir System S929"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -114246,7 +114246,7 @@ Asteroid	"Alhir System S929"
 	}
 }
 
-Asteroid	"Alhir System S930"
+Asteroid	"Althir System S930"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -114353,7 +114353,7 @@ Asteroid	"Alhir System S930"
 	}
 }
 
-Asteroid	"Alhir System S931"
+Asteroid	"Althir System S931"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -114460,7 +114460,7 @@ Asteroid	"Alhir System S931"
 	}
 }
 
-Asteroid	"Alhir System S932"
+Asteroid	"Althir System S932"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -114567,7 +114567,7 @@ Asteroid	"Alhir System S932"
 	}
 }
 
-Asteroid	"Alhir System S933"
+Asteroid	"Althir System S933"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -114674,7 +114674,7 @@ Asteroid	"Alhir System S933"
 	}
 }
 
-Asteroid	"Alhir System S934"
+Asteroid	"Althir System S934"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -114781,7 +114781,7 @@ Asteroid	"Alhir System S934"
 	}
 }
 
-Asteroid	"Alhir System S935"
+Asteroid	"Althir System S935"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -114888,7 +114888,7 @@ Asteroid	"Alhir System S935"
 	}
 }
 
-Asteroid	"Alhir System S936"
+Asteroid	"Althir System S936"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -114995,7 +114995,7 @@ Asteroid	"Alhir System S936"
 	}
 }
 
-Asteroid	"Alhir System S937"
+Asteroid	"Althir System S937"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -115102,7 +115102,7 @@ Asteroid	"Alhir System S937"
 	}
 }
 
-Asteroid	"Alhir System S938"
+Asteroid	"Althir System S938"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -115209,7 +115209,7 @@ Asteroid	"Alhir System S938"
 	}
 }
 
-Asteroid	"Alhir System S939"
+Asteroid	"Althir System S939"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -115316,7 +115316,7 @@ Asteroid	"Alhir System S939"
 	}
 }
 
-Asteroid	"Alhir System S940"
+Asteroid	"Althir System S940"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -115423,7 +115423,7 @@ Asteroid	"Alhir System S940"
 	}
 }
 
-Asteroid	"Alhir System S941"
+Asteroid	"Althir System S941"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -115530,7 +115530,7 @@ Asteroid	"Alhir System S941"
 	}
 }
 
-Asteroid	"Alhir System S942"
+Asteroid	"Althir System S942"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -115637,7 +115637,7 @@ Asteroid	"Alhir System S942"
 	}
 }
 
-Asteroid	"Alhir System S943"
+Asteroid	"Althir System S943"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -115744,7 +115744,7 @@ Asteroid	"Alhir System S943"
 	}
 }
 
-Asteroid	"Alhir System S944"
+Asteroid	"Althir System S944"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -115851,7 +115851,7 @@ Asteroid	"Alhir System S944"
 	}
 }
 
-Asteroid	"Alhir System S945"
+Asteroid	"Althir System S945"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -115958,7 +115958,7 @@ Asteroid	"Alhir System S945"
 	}
 }
 
-Asteroid	"Alhir System S946"
+Asteroid	"Althir System S946"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -116065,7 +116065,7 @@ Asteroid	"Alhir System S946"
 	}
 }
 
-Asteroid	"Alhir System S947"
+Asteroid	"Althir System S947"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -116172,7 +116172,7 @@ Asteroid	"Alhir System S947"
 	}
 }
 
-Asteroid	"Alhir System S948"
+Asteroid	"Althir System S948"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -116279,7 +116279,7 @@ Asteroid	"Alhir System S948"
 	}
 }
 
-Asteroid	"Alhir System S949"
+Asteroid	"Althir System S949"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -116386,7 +116386,7 @@ Asteroid	"Alhir System S949"
 	}
 }
 
-Asteroid	"Alhir System S950"
+Asteroid	"Althir System S950"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -116493,7 +116493,7 @@ Asteroid	"Alhir System S950"
 	}
 }
 
-Asteroid	"Alhir System S951"
+Asteroid	"Althir System S951"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -116600,7 +116600,7 @@ Asteroid	"Alhir System S951"
 	}
 }
 
-Asteroid	"Alhir System S952"
+Asteroid	"Althir System S952"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -116707,7 +116707,7 @@ Asteroid	"Alhir System S952"
 	}
 }
 
-Asteroid	"Alhir System S953"
+Asteroid	"Althir System S953"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -116814,7 +116814,7 @@ Asteroid	"Alhir System S953"
 	}
 }
 
-Asteroid	"Alhir System S954"
+Asteroid	"Althir System S954"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -116921,7 +116921,7 @@ Asteroid	"Alhir System S954"
 	}
 }
 
-Asteroid	"Alhir System S955"
+Asteroid	"Althir System S955"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -117028,7 +117028,7 @@ Asteroid	"Alhir System S955"
 	}
 }
 
-Asteroid	"Alhir System S956"
+Asteroid	"Althir System S956"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -117135,7 +117135,7 @@ Asteroid	"Alhir System S956"
 	}
 }
 
-Asteroid	"Alhir System S957"
+Asteroid	"Althir System S957"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -117242,7 +117242,7 @@ Asteroid	"Alhir System S957"
 	}
 }
 
-Asteroid	"Alhir System S958"
+Asteroid	"Althir System S958"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -117349,7 +117349,7 @@ Asteroid	"Alhir System S958"
 	}
 }
 
-Asteroid	"Alhir System S959"
+Asteroid	"Althir System S959"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -117456,7 +117456,7 @@ Asteroid	"Alhir System S959"
 	}
 }
 
-Asteroid	"Alhir System S960"
+Asteroid	"Althir System S960"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -117563,7 +117563,7 @@ Asteroid	"Alhir System S960"
 	}
 }
 
-Asteroid	"Alhir System S961"
+Asteroid	"Althir System S961"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -117670,7 +117670,7 @@ Asteroid	"Alhir System S961"
 	}
 }
 
-Asteroid	"Alhir System S962"
+Asteroid	"Althir System S962"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -117777,7 +117777,7 @@ Asteroid	"Alhir System S962"
 	}
 }
 
-Asteroid	"Alhir System S963"
+Asteroid	"Althir System S963"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -117884,7 +117884,7 @@ Asteroid	"Alhir System S963"
 	}
 }
 
-Asteroid	"Alhir System S964"
+Asteroid	"Althir System S964"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -117991,7 +117991,7 @@ Asteroid	"Alhir System S964"
 	}
 }
 
-Asteroid	"Alhir System S965"
+Asteroid	"Althir System S965"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -118098,7 +118098,7 @@ Asteroid	"Alhir System S965"
 	}
 }
 
-Asteroid	"Alhir System S966"
+Asteroid	"Althir System S966"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -118205,7 +118205,7 @@ Asteroid	"Alhir System S966"
 	}
 }
 
-Asteroid	"Alhir System S967"
+Asteroid	"Althir System S967"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -118312,7 +118312,7 @@ Asteroid	"Alhir System S967"
 	}
 }
 
-Asteroid	"Alhir System S968"
+Asteroid	"Althir System S968"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -118419,7 +118419,7 @@ Asteroid	"Alhir System S968"
 	}
 }
 
-Asteroid	"Alhir System S969"
+Asteroid	"Althir System S969"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -118526,7 +118526,7 @@ Asteroid	"Alhir System S969"
 	}
 }
 
-Asteroid	"Alhir System S970"
+Asteroid	"Althir System S970"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -118633,7 +118633,7 @@ Asteroid	"Alhir System S970"
 	}
 }
 
-Asteroid	"Alhir System S971"
+Asteroid	"Althir System S971"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -118740,7 +118740,7 @@ Asteroid	"Alhir System S971"
 	}
 }
 
-Asteroid	"Alhir System S972"
+Asteroid	"Althir System S972"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -118847,7 +118847,7 @@ Asteroid	"Alhir System S972"
 	}
 }
 
-Asteroid	"Alhir System S973"
+Asteroid	"Althir System S973"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -118954,7 +118954,7 @@ Asteroid	"Alhir System S973"
 	}
 }
 
-Asteroid	"Alhir System S974"
+Asteroid	"Althir System S974"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -119061,7 +119061,7 @@ Asteroid	"Alhir System S974"
 	}
 }
 
-Asteroid	"Alhir System S975"
+Asteroid	"Althir System S975"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -119168,7 +119168,7 @@ Asteroid	"Alhir System S975"
 	}
 }
 
-Asteroid	"Alhir System S976"
+Asteroid	"Althir System S976"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -119275,7 +119275,7 @@ Asteroid	"Alhir System S976"
 	}
 }
 
-Asteroid	"Alhir System S977"
+Asteroid	"Althir System S977"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -119382,7 +119382,7 @@ Asteroid	"Alhir System S977"
 	}
 }
 
-Asteroid	"Alhir System S978"
+Asteroid	"Althir System S978"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -119489,7 +119489,7 @@ Asteroid	"Alhir System S978"
 	}
 }
 
-Asteroid	"Alhir System S979"
+Asteroid	"Althir System S979"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -119596,7 +119596,7 @@ Asteroid	"Alhir System S979"
 	}
 }
 
-Asteroid	"Alhir System S980"
+Asteroid	"Althir System S980"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -119703,7 +119703,7 @@ Asteroid	"Alhir System S980"
 	}
 }
 
-Asteroid	"Alhir System S981"
+Asteroid	"Althir System S981"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -119810,7 +119810,7 @@ Asteroid	"Alhir System S981"
 	}
 }
 
-Asteroid	"Alhir System S982"
+Asteroid	"Althir System S982"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -119917,7 +119917,7 @@ Asteroid	"Alhir System S982"
 	}
 }
 
-Asteroid	"Alhir System S983"
+Asteroid	"Althir System S983"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -120024,7 +120024,7 @@ Asteroid	"Alhir System S983"
 	}
 }
 
-Asteroid	"Alhir System S984"
+Asteroid	"Althir System S984"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -120131,7 +120131,7 @@ Asteroid	"Alhir System S984"
 	}
 }
 
-Asteroid	"Alhir System S985"
+Asteroid	"Althir System S985"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -120238,7 +120238,7 @@ Asteroid	"Alhir System S985"
 	}
 }
 
-Asteroid	"Alhir System S986"
+Asteroid	"Althir System S986"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -120345,7 +120345,7 @@ Asteroid	"Alhir System S986"
 	}
 }
 
-Asteroid	"Alhir System S987"
+Asteroid	"Althir System S987"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -120452,7 +120452,7 @@ Asteroid	"Alhir System S987"
 	}
 }
 
-Asteroid	"Alhir System S988"
+Asteroid	"Althir System S988"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -120559,7 +120559,7 @@ Asteroid	"Alhir System S988"
 	}
 }
 
-Asteroid	"Alhir System S989"
+Asteroid	"Althir System S989"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -120666,7 +120666,7 @@ Asteroid	"Alhir System S989"
 	}
 }
 
-Asteroid	"Alhir System S990"
+Asteroid	"Althir System S990"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -120773,7 +120773,7 @@ Asteroid	"Alhir System S990"
 	}
 }
 
-Asteroid	"Alhir System S991"
+Asteroid	"Althir System S991"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -120880,7 +120880,7 @@ Asteroid	"Alhir System S991"
 	}
 }
 
-Asteroid	"Alhir System S992"
+Asteroid	"Althir System S992"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -120987,7 +120987,7 @@ Asteroid	"Alhir System S992"
 	}
 }
 
-Asteroid	"Alhir System S993"
+Asteroid	"Althir System S993"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -121094,7 +121094,7 @@ Asteroid	"Alhir System S993"
 	}
 }
 
-Asteroid	"Alhir System S994"
+Asteroid	"Althir System S994"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -121201,7 +121201,7 @@ Asteroid	"Alhir System S994"
 	}
 }
 
-Asteroid	"Alhir System S995"
+Asteroid	"Althir System S995"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -121308,7 +121308,7 @@ Asteroid	"Alhir System S995"
 	}
 }
 
-Asteroid	"Alhir System S996"
+Asteroid	"Althir System S996"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -121415,7 +121415,7 @@ Asteroid	"Alhir System S996"
 	}
 }
 
-Asteroid	"Alhir System S997"
+Asteroid	"Althir System S997"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -121522,7 +121522,7 @@ Asteroid	"Alhir System S997"
 	}
 }
 
-Asteroid	"Alhir System S998"
+Asteroid	"Althir System S998"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -121629,7 +121629,7 @@ Asteroid	"Alhir System S998"
 	}
 }
 
-Asteroid	"Alhir System S999"
+Asteroid	"Althir System S999"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -121736,7 +121736,7 @@ Asteroid	"Alhir System S999"
 	}
 }
 
-Asteroid	"Alhir System S1000"
+Asteroid	"Althir System S1000"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -121843,7 +121843,7 @@ Asteroid	"Alhir System S1000"
 	}
 }
 
-Comet	"Alhir System C1"
+Comet	"Althir System C1"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -121963,7 +121963,7 @@ Comet	"Alhir System C1"
 	}
 }
 
-Comet	"Alhir System C2"
+Comet	"Althir System C2"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -122083,7 +122083,7 @@ Comet	"Alhir System C2"
 	}
 }
 
-Comet	"Alhir System C3"
+Comet	"Althir System C3"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -122203,7 +122203,7 @@ Comet	"Alhir System C3"
 	}
 }
 
-Comet	"Alhir System C4"
+Comet	"Althir System C4"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -122323,7 +122323,7 @@ Comet	"Alhir System C4"
 	}
 }
 
-Comet	"Alhir System C5"
+Comet	"Althir System C5"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -122443,7 +122443,7 @@ Comet	"Alhir System C5"
 	}
 }
 
-Comet	"Alhir System C6"
+Comet	"Althir System C6"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -122563,7 +122563,7 @@ Comet	"Alhir System C6"
 	}
 }
 
-Comet	"Alhir System C7"
+Comet	"Althir System C7"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -122683,7 +122683,7 @@ Comet	"Alhir System C7"
 	}
 }
 
-Comet	"Alhir System C8"
+Comet	"Althir System C8"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -122803,7 +122803,7 @@ Comet	"Alhir System C8"
 	}
 }
 
-Comet	"Alhir System C9"
+Comet	"Althir System C9"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -122923,7 +122923,7 @@ Comet	"Alhir System C9"
 	}
 }
 
-Comet	"Alhir System C10"
+Comet	"Althir System C10"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -123043,7 +123043,7 @@ Comet	"Alhir System C10"
 	}
 }
 
-Comet	"Alhir System C11"
+Comet	"Althir System C11"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -123163,7 +123163,7 @@ Comet	"Alhir System C11"
 	}
 }
 
-Comet	"Alhir System C12"
+Comet	"Althir System C12"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -123283,7 +123283,7 @@ Comet	"Alhir System C12"
 	}
 }
 
-Comet	"Alhir System C13"
+Comet	"Althir System C13"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -123403,7 +123403,7 @@ Comet	"Alhir System C13"
 	}
 }
 
-Comet	"Alhir System C14"
+Comet	"Althir System C14"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -123523,7 +123523,7 @@ Comet	"Alhir System C14"
 	}
 }
 
-Comet	"Alhir System C15"
+Comet	"Althir System C15"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -123643,7 +123643,7 @@ Comet	"Alhir System C15"
 	}
 }
 
-Comet	"Alhir System C16"
+Comet	"Althir System C16"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -123763,7 +123763,7 @@ Comet	"Alhir System C16"
 	}
 }
 
-Comet	"Alhir System C17"
+Comet	"Althir System C17"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -123883,7 +123883,7 @@ Comet	"Alhir System C17"
 	}
 }
 
-Comet	"Alhir System C18"
+Comet	"Althir System C18"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -124003,7 +124003,7 @@ Comet	"Alhir System C18"
 	}
 }
 
-Comet	"Alhir System C19"
+Comet	"Althir System C19"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -124123,7 +124123,7 @@ Comet	"Alhir System C19"
 	}
 }
 
-Comet	"Alhir System C20"
+Comet	"Althir System C20"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -124243,7 +124243,7 @@ Comet	"Alhir System C20"
 	}
 }
 
-Comet	"Alhir System C21"
+Comet	"Althir System C21"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -124363,7 +124363,7 @@ Comet	"Alhir System C21"
 	}
 }
 
-Comet	"Alhir System C22"
+Comet	"Althir System C22"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -124483,7 +124483,7 @@ Comet	"Alhir System C22"
 	}
 }
 
-Comet	"Alhir System C23"
+Comet	"Althir System C23"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -124603,7 +124603,7 @@ Comet	"Alhir System C23"
 	}
 }
 
-Comet	"Alhir System C24"
+Comet	"Althir System C24"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -124723,7 +124723,7 @@ Comet	"Alhir System C24"
 	}
 }
 
-Comet	"Alhir System C25"
+Comet	"Althir System C25"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -124843,7 +124843,7 @@ Comet	"Alhir System C25"
 	}
 }
 
-Comet	"Alhir System C26"
+Comet	"Althir System C26"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -124963,7 +124963,7 @@ Comet	"Alhir System C26"
 	}
 }
 
-Comet	"Alhir System C27"
+Comet	"Althir System C27"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -125083,7 +125083,7 @@ Comet	"Alhir System C27"
 	}
 }
 
-Comet	"Alhir System C28"
+Comet	"Althir System C28"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -125203,7 +125203,7 @@ Comet	"Alhir System C28"
 	}
 }
 
-Comet	"Alhir System C29"
+Comet	"Althir System C29"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -125323,7 +125323,7 @@ Comet	"Alhir System C29"
 	}
 }
 
-Comet	"Alhir System C30"
+Comet	"Althir System C30"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -125443,7 +125443,7 @@ Comet	"Alhir System C30"
 	}
 }
 
-Comet	"Alhir System C31"
+Comet	"Althir System C31"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -125563,7 +125563,7 @@ Comet	"Alhir System C31"
 	}
 }
 
-Comet	"Alhir System C32"
+Comet	"Althir System C32"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -125683,7 +125683,7 @@ Comet	"Alhir System C32"
 	}
 }
 
-Comet	"Alhir System C33"
+Comet	"Althir System C33"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -125803,7 +125803,7 @@ Comet	"Alhir System C33"
 	}
 }
 
-Comet	"Alhir System C34"
+Comet	"Althir System C34"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -125923,7 +125923,7 @@ Comet	"Alhir System C34"
 	}
 }
 
-Comet	"Alhir System C35"
+Comet	"Althir System C35"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -126043,7 +126043,7 @@ Comet	"Alhir System C35"
 	}
 }
 
-Comet	"Alhir System C36"
+Comet	"Althir System C36"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -126163,7 +126163,7 @@ Comet	"Alhir System C36"
 	}
 }
 
-Comet	"Alhir System C37"
+Comet	"Althir System C37"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -126283,7 +126283,7 @@ Comet	"Alhir System C37"
 	}
 }
 
-Comet	"Alhir System C38"
+Comet	"Althir System C38"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -126403,7 +126403,7 @@ Comet	"Alhir System C38"
 	}
 }
 
-Comet	"Alhir System C39"
+Comet	"Althir System C39"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -126523,7 +126523,7 @@ Comet	"Alhir System C39"
 	}
 }
 
-Comet	"Alhir System C40"
+Comet	"Althir System C40"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -126643,7 +126643,7 @@ Comet	"Alhir System C40"
 	}
 }
 
-Comet	"Alhir System C41"
+Comet	"Althir System C41"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -126763,7 +126763,7 @@ Comet	"Alhir System C41"
 	}
 }
 
-Comet	"Alhir System C42"
+Comet	"Althir System C42"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -126883,7 +126883,7 @@ Comet	"Alhir System C42"
 	}
 }
 
-Comet	"Alhir System C43"
+Comet	"Althir System C43"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -127003,7 +127003,7 @@ Comet	"Alhir System C43"
 	}
 }
 
-Comet	"Alhir System C44"
+Comet	"Althir System C44"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -127123,7 +127123,7 @@ Comet	"Alhir System C44"
 	}
 }
 
-Comet	"Alhir System C45"
+Comet	"Althir System C45"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -127243,7 +127243,7 @@ Comet	"Alhir System C45"
 	}
 }
 
-Comet	"Alhir System C46"
+Comet	"Althir System C46"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -127363,7 +127363,7 @@ Comet	"Alhir System C46"
 	}
 }
 
-Comet	"Alhir System C47"
+Comet	"Althir System C47"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -127483,7 +127483,7 @@ Comet	"Alhir System C47"
 	}
 }
 
-Comet	"Alhir System C48"
+Comet	"Althir System C48"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -127603,7 +127603,7 @@ Comet	"Alhir System C48"
 	}
 }
 
-Comet	"Alhir System C49"
+Comet	"Althir System C49"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -127723,7 +127723,7 @@ Comet	"Alhir System C49"
 	}
 }
 
-Comet	"Alhir System C50"
+Comet	"Althir System C50"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -127843,7 +127843,7 @@ Comet	"Alhir System C50"
 	}
 }
 
-Comet	"Alhir System C51"
+Comet	"Althir System C51"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -127963,7 +127963,7 @@ Comet	"Alhir System C51"
 	}
 }
 
-Comet	"Alhir System C52"
+Comet	"Althir System C52"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -128083,7 +128083,7 @@ Comet	"Alhir System C52"
 	}
 }
 
-Comet	"Alhir System C53"
+Comet	"Althir System C53"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -128203,7 +128203,7 @@ Comet	"Alhir System C53"
 	}
 }
 
-Comet	"Alhir System C54"
+Comet	"Althir System C54"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -128323,7 +128323,7 @@ Comet	"Alhir System C54"
 	}
 }
 
-Comet	"Alhir System C55"
+Comet	"Althir System C55"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -128443,7 +128443,7 @@ Comet	"Alhir System C55"
 	}
 }
 
-Comet	"Alhir System C56"
+Comet	"Althir System C56"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -128563,7 +128563,7 @@ Comet	"Alhir System C56"
 	}
 }
 
-Comet	"Alhir System C57"
+Comet	"Althir System C57"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -128683,7 +128683,7 @@ Comet	"Alhir System C57"
 	}
 }
 
-Comet	"Alhir System C58"
+Comet	"Althir System C58"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -128803,7 +128803,7 @@ Comet	"Alhir System C58"
 	}
 }
 
-Comet	"Alhir System C59"
+Comet	"Althir System C59"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -128923,7 +128923,7 @@ Comet	"Alhir System C59"
 	}
 }
 
-Comet	"Alhir System C60"
+Comet	"Althir System C60"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -129043,7 +129043,7 @@ Comet	"Alhir System C60"
 	}
 }
 
-Comet	"Alhir System C61"
+Comet	"Althir System C61"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -129163,7 +129163,7 @@ Comet	"Alhir System C61"
 	}
 }
 
-Comet	"Alhir System C62"
+Comet	"Althir System C62"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -129283,7 +129283,7 @@ Comet	"Alhir System C62"
 	}
 }
 
-Comet	"Alhir System C63"
+Comet	"Althir System C63"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -129403,7 +129403,7 @@ Comet	"Alhir System C63"
 	}
 }
 
-Comet	"Alhir System C64"
+Comet	"Althir System C64"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -129523,7 +129523,7 @@ Comet	"Alhir System C64"
 	}
 }
 
-Comet	"Alhir System C65"
+Comet	"Althir System C65"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -129643,7 +129643,7 @@ Comet	"Alhir System C65"
 	}
 }
 
-Comet	"Alhir System C66"
+Comet	"Althir System C66"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -129763,7 +129763,7 @@ Comet	"Alhir System C66"
 	}
 }
 
-Comet	"Alhir System C67"
+Comet	"Althir System C67"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -129883,7 +129883,7 @@ Comet	"Alhir System C67"
 	}
 }
 
-Comet	"Alhir System C68"
+Comet	"Althir System C68"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -130003,7 +130003,7 @@ Comet	"Alhir System C68"
 	}
 }
 
-Comet	"Alhir System C69"
+Comet	"Althir System C69"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -130123,7 +130123,7 @@ Comet	"Alhir System C69"
 	}
 }
 
-Comet	"Alhir System C70"
+Comet	"Althir System C70"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -130243,7 +130243,7 @@ Comet	"Alhir System C70"
 	}
 }
 
-Comet	"Alhir System C71"
+Comet	"Althir System C71"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -130363,7 +130363,7 @@ Comet	"Alhir System C71"
 	}
 }
 
-Comet	"Alhir System C72"
+Comet	"Althir System C72"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -130483,7 +130483,7 @@ Comet	"Alhir System C72"
 	}
 }
 
-Comet	"Alhir System C73"
+Comet	"Althir System C73"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -130603,7 +130603,7 @@ Comet	"Alhir System C73"
 	}
 }
 
-Comet	"Alhir System C74"
+Comet	"Althir System C74"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -130723,7 +130723,7 @@ Comet	"Alhir System C74"
 	}
 }
 
-Comet	"Alhir System C75"
+Comet	"Althir System C75"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -130843,7 +130843,7 @@ Comet	"Alhir System C75"
 	}
 }
 
-Comet	"Alhir System C76"
+Comet	"Althir System C76"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -130963,7 +130963,7 @@ Comet	"Alhir System C76"
 	}
 }
 
-Comet	"Alhir System C77"
+Comet	"Althir System C77"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -131083,7 +131083,7 @@ Comet	"Alhir System C77"
 	}
 }
 
-Comet	"Alhir System C78"
+Comet	"Althir System C78"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -131203,7 +131203,7 @@ Comet	"Alhir System C78"
 	}
 }
 
-Comet	"Alhir System C79"
+Comet	"Althir System C79"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -131323,7 +131323,7 @@ Comet	"Alhir System C79"
 	}
 }
 
-Comet	"Alhir System C80"
+Comet	"Althir System C80"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -131443,7 +131443,7 @@ Comet	"Alhir System C80"
 	}
 }
 
-Comet	"Alhir System C81"
+Comet	"Althir System C81"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -131563,7 +131563,7 @@ Comet	"Alhir System C81"
 	}
 }
 
-Comet	"Alhir System C82"
+Comet	"Althir System C82"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -131683,7 +131683,7 @@ Comet	"Alhir System C82"
 	}
 }
 
-Comet	"Alhir System C83"
+Comet	"Althir System C83"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -131803,7 +131803,7 @@ Comet	"Alhir System C83"
 	}
 }
 
-Comet	"Alhir System C84"
+Comet	"Althir System C84"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -131923,7 +131923,7 @@ Comet	"Alhir System C84"
 	}
 }
 
-Comet	"Alhir System C85"
+Comet	"Althir System C85"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -132043,7 +132043,7 @@ Comet	"Alhir System C85"
 	}
 }
 
-Comet	"Alhir System C86"
+Comet	"Althir System C86"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -132163,7 +132163,7 @@ Comet	"Alhir System C86"
 	}
 }
 
-Comet	"Alhir System C87"
+Comet	"Althir System C87"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -132283,7 +132283,7 @@ Comet	"Alhir System C87"
 	}
 }
 
-Comet	"Alhir System C88"
+Comet	"Althir System C88"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -132403,7 +132403,7 @@ Comet	"Alhir System C88"
 	}
 }
 
-Comet	"Alhir System C89"
+Comet	"Althir System C89"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -132523,7 +132523,7 @@ Comet	"Alhir System C89"
 	}
 }
 
-Comet	"Alhir System C90"
+Comet	"Althir System C90"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -132643,7 +132643,7 @@ Comet	"Alhir System C90"
 	}
 }
 
-Comet	"Alhir System C91"
+Comet	"Althir System C91"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -132763,7 +132763,7 @@ Comet	"Alhir System C91"
 	}
 }
 
-Comet	"Alhir System C92"
+Comet	"Althir System C92"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -132883,7 +132883,7 @@ Comet	"Alhir System C92"
 	}
 }
 
-Comet	"Alhir System C93"
+Comet	"Althir System C93"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -133003,7 +133003,7 @@ Comet	"Alhir System C93"
 	}
 }
 
-Comet	"Alhir System C94"
+Comet	"Althir System C94"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -133123,7 +133123,7 @@ Comet	"Alhir System C94"
 	}
 }
 
-Comet	"Alhir System C95"
+Comet	"Althir System C95"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -133243,7 +133243,7 @@ Comet	"Alhir System C95"
 	}
 }
 
-Comet	"Alhir System C96"
+Comet	"Althir System C96"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -133363,7 +133363,7 @@ Comet	"Alhir System C96"
 	}
 }
 
-Comet	"Alhir System C97"
+Comet	"Althir System C97"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -133483,7 +133483,7 @@ Comet	"Alhir System C97"
 	}
 }
 
-Comet	"Alhir System C98"
+Comet	"Althir System C98"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -133603,7 +133603,7 @@ Comet	"Alhir System C98"
 	}
 }
 
-Comet	"Alhir System C99"
+Comet	"Althir System C99"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -133723,7 +133723,7 @@ Comet	"Alhir System C99"
 	}
 }
 
-Comet	"Alhir System C100"
+Comet	"Althir System C100"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -133843,7 +133843,7 @@ Comet	"Alhir System C100"
 	}
 }
 
-Comet	"Alhir System C101"
+Comet	"Althir System C101"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -133963,7 +133963,7 @@ Comet	"Alhir System C101"
 	}
 }
 
-Comet	"Alhir System C102"
+Comet	"Althir System C102"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -134083,7 +134083,7 @@ Comet	"Alhir System C102"
 	}
 }
 
-Comet	"Alhir System C103"
+Comet	"Althir System C103"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -134203,7 +134203,7 @@ Comet	"Alhir System C103"
 	}
 }
 
-Comet	"Alhir System C104"
+Comet	"Althir System C104"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -134323,7 +134323,7 @@ Comet	"Alhir System C104"
 	}
 }
 
-Comet	"Alhir System C105"
+Comet	"Althir System C105"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -134443,7 +134443,7 @@ Comet	"Alhir System C105"
 	}
 }
 
-Comet	"Alhir System C106"
+Comet	"Althir System C106"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -134563,7 +134563,7 @@ Comet	"Alhir System C106"
 	}
 }
 
-Comet	"Alhir System C107"
+Comet	"Althir System C107"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -134683,7 +134683,7 @@ Comet	"Alhir System C107"
 	}
 }
 
-Comet	"Alhir System C108"
+Comet	"Althir System C108"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -134803,7 +134803,7 @@ Comet	"Alhir System C108"
 	}
 }
 
-Comet	"Alhir System C109"
+Comet	"Althir System C109"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -134923,7 +134923,7 @@ Comet	"Alhir System C109"
 	}
 }
 
-Comet	"Alhir System C110"
+Comet	"Althir System C110"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -135043,7 +135043,7 @@ Comet	"Alhir System C110"
 	}
 }
 
-Comet	"Alhir System C111"
+Comet	"Althir System C111"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -135163,7 +135163,7 @@ Comet	"Alhir System C111"
 	}
 }
 
-Comet	"Alhir System C112"
+Comet	"Althir System C112"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -135283,7 +135283,7 @@ Comet	"Alhir System C112"
 	}
 }
 
-Comet	"Alhir System C113"
+Comet	"Althir System C113"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -135403,7 +135403,7 @@ Comet	"Alhir System C113"
 	}
 }
 
-Comet	"Alhir System C114"
+Comet	"Althir System C114"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -135523,7 +135523,7 @@ Comet	"Alhir System C114"
 	}
 }
 
-Comet	"Alhir System C115"
+Comet	"Althir System C115"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -135643,7 +135643,7 @@ Comet	"Alhir System C115"
 	}
 }
 
-Comet	"Alhir System C116"
+Comet	"Althir System C116"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -135763,7 +135763,7 @@ Comet	"Alhir System C116"
 	}
 }
 
-Comet	"Alhir System C117"
+Comet	"Althir System C117"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -135883,7 +135883,7 @@ Comet	"Alhir System C117"
 	}
 }
 
-Comet	"Alhir System C118"
+Comet	"Althir System C118"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -136003,7 +136003,7 @@ Comet	"Alhir System C118"
 	}
 }
 
-Comet	"Alhir System C119"
+Comet	"Althir System C119"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -136123,7 +136123,7 @@ Comet	"Alhir System C119"
 	}
 }
 
-Comet	"Alhir System C120"
+Comet	"Althir System C120"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -136243,7 +136243,7 @@ Comet	"Alhir System C120"
 	}
 }
 
-Comet	"Alhir System C121"
+Comet	"Althir System C121"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -136363,7 +136363,7 @@ Comet	"Alhir System C121"
 	}
 }
 
-Comet	"Alhir System C122"
+Comet	"Althir System C122"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -136483,7 +136483,7 @@ Comet	"Alhir System C122"
 	}
 }
 
-Comet	"Alhir System C123"
+Comet	"Althir System C123"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -136603,7 +136603,7 @@ Comet	"Alhir System C123"
 	}
 }
 
-Comet	"Alhir System C124"
+Comet	"Althir System C124"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -136723,7 +136723,7 @@ Comet	"Alhir System C124"
 	}
 }
 
-Comet	"Alhir System C125"
+Comet	"Althir System C125"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -136843,7 +136843,7 @@ Comet	"Alhir System C125"
 	}
 }
 
-Comet	"Alhir System C126"
+Comet	"Althir System C126"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -136963,7 +136963,7 @@ Comet	"Alhir System C126"
 	}
 }
 
-Comet	"Alhir System C127"
+Comet	"Althir System C127"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -137083,7 +137083,7 @@ Comet	"Alhir System C127"
 	}
 }
 
-Comet	"Alhir System C128"
+Comet	"Althir System C128"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -137203,7 +137203,7 @@ Comet	"Alhir System C128"
 	}
 }
 
-Comet	"Alhir System C129"
+Comet	"Althir System C129"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -137323,7 +137323,7 @@ Comet	"Alhir System C129"
 	}
 }
 
-Comet	"Alhir System C130"
+Comet	"Althir System C130"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -137443,7 +137443,7 @@ Comet	"Alhir System C130"
 	}
 }
 
-Comet	"Alhir System C131"
+Comet	"Althir System C131"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -137563,7 +137563,7 @@ Comet	"Alhir System C131"
 	}
 }
 
-Comet	"Alhir System C132"
+Comet	"Althir System C132"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -137683,7 +137683,7 @@ Comet	"Alhir System C132"
 	}
 }
 
-Comet	"Alhir System C133"
+Comet	"Althir System C133"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -137803,7 +137803,7 @@ Comet	"Alhir System C133"
 	}
 }
 
-Comet	"Alhir System C134"
+Comet	"Althir System C134"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -137923,7 +137923,7 @@ Comet	"Alhir System C134"
 	}
 }
 
-Comet	"Alhir System C135"
+Comet	"Althir System C135"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -138043,7 +138043,7 @@ Comet	"Alhir System C135"
 	}
 }
 
-Comet	"Alhir System C136"
+Comet	"Althir System C136"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -138163,7 +138163,7 @@ Comet	"Alhir System C136"
 	}
 }
 
-Comet	"Alhir System C137"
+Comet	"Althir System C137"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -138283,7 +138283,7 @@ Comet	"Alhir System C137"
 	}
 }
 
-Comet	"Alhir System C138"
+Comet	"Althir System C138"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -138403,7 +138403,7 @@ Comet	"Alhir System C138"
 	}
 }
 
-Comet	"Alhir System C139"
+Comet	"Althir System C139"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -138523,7 +138523,7 @@ Comet	"Alhir System C139"
 	}
 }
 
-Comet	"Alhir System C140"
+Comet	"Althir System C140"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -138643,7 +138643,7 @@ Comet	"Alhir System C140"
 	}
 }
 
-Comet	"Alhir System C141"
+Comet	"Althir System C141"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -138763,7 +138763,7 @@ Comet	"Alhir System C141"
 	}
 }
 
-Comet	"Alhir System C142"
+Comet	"Althir System C142"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -138883,7 +138883,7 @@ Comet	"Alhir System C142"
 	}
 }
 
-Comet	"Alhir System C143"
+Comet	"Althir System C143"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
@@ -139003,7 +139003,7 @@ Comet	"Alhir System C143"
 	}
 }
 
-Comet	"Alhir System C144"
+Comet	"Althir System C144"
 {
 	ParentBody     "Althir System"
 	Class	       "Asteroid"
