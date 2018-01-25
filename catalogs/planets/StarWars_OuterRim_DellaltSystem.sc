@@ -4,7 +4,7 @@
 // Grid location : T6
 // X : 12414.46, Y : 4803.3, Z : 299.5206462553954
 // TODO : remove the two much spiky mounts
-Planet	"Dellalt/Dellalt Planet/Dellalt System 6"
+Planet	"Dellalt/Dellalt System 6"
 {
 	ParentBody     "Dellalt System"
 	Class	       "Terra"

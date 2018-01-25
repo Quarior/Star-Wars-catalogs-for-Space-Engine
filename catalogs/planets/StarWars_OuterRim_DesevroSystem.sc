@@ -258,30 +258,13 @@ Planet	"Arjus/Desevro System 1"
 
 	Clouds
 	{
-		Height          13.0859
+		Height          63.0859
 		Velocity        782.428
 		BumpHeight      9.65671
 		Hapke           0
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      1
-		mainFreq        1.22267
-		mainOctaves     12
-		Coverage        0.407964
-		stripeZones     6.31583
-		stripeFluct     0.483326
-		stripeTwist     12.3475
-	}
-
-	Clouds
-	{
-		Height          22.75
-		Velocity        -510.325
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      1
-		ModulateColor  (1.000 1.000 1.000 0.350)
 		mainFreq        1.22267
 		mainOctaves     12
 		Coverage        0.407964
@@ -297,7 +280,7 @@ Planet	"Arjus/Desevro System 1"
 	Atmosphere
 	{
 		Model          "Jupiter"
-		Height          100
+		Height          150
 		Density         5410.24
 		Pressure        1e+006
 		Bright          10
@@ -5278,58 +5261,80 @@ Moon	"Desevro System 2.1"
 
 	Surface
 	{
-		SurfStyle       0.219162
-		OceanStyle      0.179382
-		Randomize      (0.400, 0.420, 0.588)
-		colorDistMagn   0.851891
-		colorDistFreq   0.00924641
-		detailScale     96.9433
+		SurfStyle       0.874079
+		OceanStyle      0.377204
+		Randomize      (-0.376, 0.399, 0.795)
+		colorDistMagn   0.0803546
+		colorDistFreq   258.543
+		detailScale     6589.61
 		colorConversion true
+		drivenDarkening 0
+		seaLevel        0.3032
 		snowLevel       2
 		tropicLatitude  0
-		icecapLatitude  1
+		icecapLatitude  10
+		icecapHeight    0.1316
 		climatePole     0.9375
 		climateTropic   0.3125
 		climateEquator  0.6875
 		heightTempGrad  0.625
 		tropicWidth     0.07
-		mainFreq        0.399112
-		terraceProb     0.700537
+		mainFreq        1.59782
+		venusFreq       1.4278
+		venusMagn       0
+		mareFreq        1.26348
+		mareDensity     1.0059e-019
+		terraceProb     0.113715
 		erosion         0
-		montesMagn      0.481552
-		montesFreq      3.3626
-		montesSpiky     0.865878
-		montesFraction  0.365115
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.0303447
-		hillsFraction   0.851929
+		montesMagn      0.18733
+		montesFreq      147.67
+		montesSpiky     0.9968
+		montesFraction  0.205654
+		dunesMagn       0.0551225
+		dunesFreq       3319.06
+		dunesFraction   0.928971
+		hillsMagn       0.148216
+		hillsFreq       273.345
+		hillsFraction   0.0093271
 		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.215263
-		craterFreq      0.168476
-		craterDensity   0.854725
-		craterOctaves   10
+		riversMagn      54.6297
+		riversFreq      2.43279
+		riversSin       7.24405
+		riversOctaves   0
+		canyonsMagn     0.387295
+		canyonsFreq     0.867009
+		canyonFraction  0.43244
+		cracksMagn      0.0376615
+		cracksFreq      1.48414
+		cracksOctaves   0
+		craterMagn      0.597094
+		craterFreq      6.6653
+		craterDensity   0.804514
+		craterOctaves   12
+		craterRayedFactor 0.0689691
+		volcanoMagn     0.445675
+		volcanoFreq     0.794133
+		volcanoDensity  0.211328
+		volcanoOctaves  3
 		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.496058
-		volcanoTemp     1283.33
+		volcanoFlows    0.100198
+		volcanoRadius   0.449863
+		volcanoTemp     1501.68
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		colorSea       (0.258, 0.257, 0.255, 0.000)
-		colorShelf     (0.275, 0.273, 0.271, 0.000)
-		colorBeach     (0.291, 0.289, 0.287, 0.000)
-		colorDesert    (0.307, 0.305, 0.303, 0.000)
-		colorLowland   (0.323, 0.321, 0.318, 0.000)
-		colorUpland    (0.339, 0.337, 0.334, 0.000)
-		colorRock      (0.355, 0.354, 0.350, 0.000)
-		colorSnow      (0.372, 0.370, 0.366, 1.000)
-		BumpHeight      3.19515
-		BumpOffset      0.639031
+		colorSea       (0.570, 0.560, 0.530, 0.000)
+		colorShelf     (0.580, 0.580, 0.580, 0.000)
+		colorBeach     (0.490, 0.478, 0.473, 0.000)
+		colorDesert    (0.650, 0.637, 0.631, 0.000)
+		colorLowland   (0.560, 0.537, 0.532, 0.000)
+		colorUpland    (0.610, 0.587, 0.582, 0.000)
+		colorRock      (0.620, 0.600, 0.600, 0.000)
+		colorSnow      (0.470, 0.450, 0.450, 1.000)
+		BumpHeight      20
 		SpecBrightWater 0
 		SpecBrightIce   0.03
-		SpecularPower   30
+		SpecularPower   55
 		Hapke           1
 		SpotBright      4
 		SpotWidth       0.05
