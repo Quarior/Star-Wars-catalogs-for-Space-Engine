@@ -125,7 +125,10 @@ Planet	"Foerost/Foerost System 8"
 		DayAmbient      0.2
 	}
 
-	NoClouds        true
+	Clouds
+	{
+		Height		40
+	}
 
 	Ocean
 	{
