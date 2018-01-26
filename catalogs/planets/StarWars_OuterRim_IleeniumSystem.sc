@@ -5,13 +5,11 @@
 // X : 5066.38, Y : -11776.55, Z : -376.6042786598674
 // Two habitable planets
 
-// TODO surface/atmosphere
 Planet	"D'Qar/Ileenium System 8"
 {
 	ParentBody     "Ileenium"
 	Class	       "Terra"
 
-	Mass            0.0135371
 	Radius          5200
 	InertiaMoment   0.372801
 
@@ -30,8 +28,8 @@ Planet	"D'Qar/Ileenium System 8"
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Terrestrial"
-		Panspermia "true"
+		Biome   "Marine/Terrestrial"
+		Panspermia "false"
 	}
 
 	Surface
@@ -171,8 +169,6 @@ Planet	"D'Qar/Ileenium System 8"
 		DayAmbient      2
 	}
 
-	NoLava          true
-
 	Atmosphere
 	{
 		Model          "Earth"
@@ -237,7 +233,6 @@ Planet	"D'Qar/Ileenium System 8"
 	{
 		RefPlane        "Equator"
 		SemiMajorAxis   3.63565
-		Period          1.13621
 		Eccentricity    0.0180743
 		Inclination     -2.83744
 		AscendingNode   102.386
@@ -509,13 +504,11 @@ Moon	"D'Qar's Moon 2/Ileenium System 8.2"
 }
 
 // 2nd habitable planet
-// TODO surface/atmosphere
 Planet	"Ileenium System 9"
 {
 	ParentBody     "Ileenium System"
-	Class	       "Selena"
+	Class	       "Desert"
 
-	Mass            0.0705258
 	Radius          3081.14
 	InertiaMoment   0.334318
 
@@ -525,122 +518,41 @@ Planet	"Ileenium System 9"
 	Obliquity       -325.428
 	EqAscendNode    -136.117
 
-	AlbedoBond      0.3
-	AlbedoGeom      0.36
-	Brightness      3.5
-	Color          (0.613 0.606 0.603)
-
-	Surface
+	Life
 	{
-		SurfStyle       0.446943
-		OceanStyle      0.571773
-		Randomize      (0.087, 0.843, -0.660)
-		colorDistMagn   0.0876756
-		colorDistFreq   390.046
-		detailScale     7924.88
-		colorConversion true
-		drivenDarkening 0
-		seaLevel        0.206573
-		snowLevel       2
-		tropicLatitude  0.547313
-		icecapLatitude  1
-		icecapHeight    0.206573
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        1.78147
-		venusFreq       0.932733
-		venusMagn       0
-		mareFreq        1.82493
-		mareDensity     0.0110601
-		terraceProb     0.279906
-		erosion         0
-		montesMagn      0.23676
-		montesFreq      121.393
-		montesSpiky     0.926815
-		montesFraction  0.00264001
-		dunesMagn       0.0358738
-		dunesFreq       4157.36
-		dunesFraction   0.603127
-		hillsMagn       0.143282
-		hillsFreq       393.733
-		hillsFraction   0.228479
-		hills2Fraction  0
-		riversMagn      62.0235
-		riversFreq      3.64704
-		riversSin       5.7729
-		riversOctaves   0
-		canyonsMagn     0.553875
-		canyonsFreq     0.913909
-		canyonFraction  0.0672753
-		cracksMagn      0.0402872
-		cracksFreq      1.32805
-		cracksOctaves   0
-		craterMagn      0.617144
-		craterFreq      8.96528
-		craterDensity   0.985746
-		craterOctaves   12
-		craterRayedFactor 0.146576
-		volcanoMagn     0.594281
-		volcanoFreq     0.703093
-		volcanoDensity  0.38921
-		volcanoOctaves  3
-		volcanoActivity 0.838899
-		volcanoFlows    0.220208
-		volcanoRadius   0.50635
-		volcanoTemp     1340.77
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.420, 0.420, 0.430, 0.000)
-		colorShelf     (0.470, 0.480, 0.480, 0.000)
-		colorBeach     (0.337, 0.346, 0.362, 0.000)
-		colorDesert    (0.294, 0.279, 0.278, 0.000)
-		colorLowland   (0.374, 0.370, 0.338, 0.000)
-		colorUpland    (0.398, 0.394, 0.368, 0.000)
-		colorRock      (0.340, 0.340, 0.340, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 1.000)
-		BumpHeight      20
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   55
-		Hapke           0.997705
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
+		Class   "Organic"
+		Type    "Multicellular"
+		Biome   "Terrestrial"
+		Panspermia "false"
 	}
 
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
+	Clouds
+	{
+		Height		23.216
+	}
 
 	Atmosphere
 	{
-		Model          "Sun"
+		Model          "Earth"
 		Height          89.3078
-		Density         0.000229513
-		Pressure        5.35614e-005
-		Greenhouse      0.0141765
-		Bright          2.96593
-		Opacity         0
-		SkyLight        0.988645
-		Hue             -0.012626
-		Saturation      1
+		Density         1.26173
+		Pressure        0.54592
+		Greenhouse      56.8206
+		Bright          3.55556
+		Opacity         0.573016
+		SkyLight        3.20635
 
 		Composition
 		{
-			SO2   	99.5428
-			Cl2   	0.443189
-			Kr    	0.013903
-			Xe    	0.00015535
+			N2    	78.921
+			O2    	20.7333
+			CO2   	0.288892
+			H2O   	0.0397247
+			Ar    	0.0170738
 		}
 	}
 
-	NoAurora        true
+	NoOcean		true
 
 	NoRings         true
 
@@ -651,8 +563,7 @@ Planet	"Ileenium System 9"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   0.00032206
-		Period          1.15742
+		SemiMajorAxis   4.98411
 		Eccentricity    0.0396365
 		Inclination     1.68363
 		AscendingNode   -146.278
