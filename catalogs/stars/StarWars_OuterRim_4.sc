@@ -1164,12 +1164,11 @@ Star "Tinoon System" // system name
 // Sector : Tion Hegemony Sector
 // Grid location : S5
 // X : 11595.67, Y : 6119.69, Z : 208.14891304406
-Star "Tion System" // system name
+StarBarycenter "Tion System" // system name
 {
     RA         0.08721735451479622
     Dec        24.586789837262042
     Dist       382999792.1154991
-    Class      "K4 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Tirsa
