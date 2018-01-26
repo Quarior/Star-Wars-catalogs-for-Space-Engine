@@ -431,23 +431,6 @@ Star "Malrev System" // system name
     Class      "K5 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Kalevala
-// Region : Outer Rim
-// Sector : Mandalore Sector
-// Grid location : O7
-// X : 5266.23, Y : 4271.92, Z : 263.95989003279874
-Star "Kalevala System" // system name
-{
-    RA         0.08728047903204915
-    Dec        24.58651341578281
-    Dist       382999736.1298428
-    Class   "F9 V"
-    MassSol  1.09882
-    RadSol   1.20382
-    Lum      1.40841
-    Teff     6228
-}
-
 // http://starwars.wikia.com/wiki/Mandalore
 // Region : Outer Rim
 // Sector : Mandalore Sector
@@ -458,7 +441,11 @@ Star "Mandalore System" // system name
     RA         0.08727862856677703
     Dec        24.586485178325102
     Dist       383000123.86351055
-    Class      "M5 III" // random
+    Class   "F9 V"
+    MassSol  1.09882
+    RadSol   1.20382
+    Lum      1.40841
+    Teff     6228
 }
 
 // http://starwars.wikia.com/wiki/Mannova
