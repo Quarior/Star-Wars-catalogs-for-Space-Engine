@@ -1992,7 +1992,7 @@ Moon	"Japrael System 4.2"
 
 Moon	"Japrael System 4.3"
 {
-	ParentBody     "4Japrael System 4"
+	ParentBody     "Japrael System 4"
 	Class	       "Selena"
 
 	Mass            3.36559e-009
@@ -2232,7 +2232,7 @@ Moon	"Japrael System 4.4"
 
 DwarfMoon	"Japrael System 4.D5"
 {
-	ParentBody     "4"
+	ParentBody     "Japrael System 4"
 	Class	       "Asteroid"
 
 	Mass            8.79328e-009
@@ -14680,7 +14680,7 @@ DwarfMoon	"Japrael System 8.D4"
 
 DwarfMoon	"Japrael System 8.D5"
 {
-	ParentBody     "8"
+	ParentBody     "Japrael System 8"
 	Class	       "Asteroid"
 
 	Mass            4.3598e-008
