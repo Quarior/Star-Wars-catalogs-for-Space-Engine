@@ -462,7 +462,7 @@ Star "Smuggler's Run System" // system name
 // Sector : Kiblini Sector
 // Grid location : Q17
 // X : 7727.83, Y : -11533.5, Z : -294.30792898433265
-StarBarycenter "Sokor/Socorro System" // Star name / system name
+Star "Sokor/Socorro System" // Star name / system name
 {
     RA         0.08725592920739837
     Dec        24.584148967484673
@@ -605,7 +605,7 @@ Star "Suarbi System" // system name
 // Sector : Subterrel Sector
 // Grid location : L20
 // X : 198.02, Y : -16421.64, Z : -359.0191134383607
-StarBarycenter "Subterrel System" // system name
+Star "Subterrel System" // system name
 {
     RA         0.08733102511755894
     Dec        24.58341771568873
@@ -618,7 +618,7 @@ StarBarycenter "Subterrel System" // system name
 // Sector : Brema Sector
 // Grid location : M17
 // X : 2340.41, Y : -11719.53, Z : 427.2415128233861
-StarBarycenter "Sullust System" // system name
+Star "Sullust System" // system name
 {
     RA         0.08730965870062417
     Dec        24.584121135211486
@@ -1462,7 +1462,7 @@ Star "Troska System" // system name
 // Sector : Centrality Sector
 // Grid location : U8
 // X : 14333.16, Y : 2181.67, Z : -358.7749968962388
-StarBarycenter "Tund System" // system name
+Star "Tund System" // system name
 {
     RA         0.08719005329757758
     Dec        24.586200718687657
@@ -1852,7 +1852,7 @@ Star "Usta System" // system name
 // Sector : Tarabba Sector
 // Grid location : N19
 // X : 3085.86, Y : -14765.72, Z : 427.5846005468238
-StarBarycenter "Utapau System" // system name
+Star "Utapau System" // system name
 {
     RA         0.08730222420338497
     Dec        24.583665432794277
@@ -2619,7 +2619,7 @@ Star "Skustell Cluster System" // system name
 // Sector : Kessel Sector
 // Grid location : T10
 // X : 12446.44, Y : -143.42, Z : -552.0392007260274
-StarBarycenter "The Maw System" // system name
+Star "The Maw Central Black Hole/The Maw System" // system name
 {
     RA         0.08720886989489268
     Dec        24.585852891594545

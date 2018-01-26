@@ -669,6 +669,19 @@ Star "Melnea's World System" // system name
     Class      "M9 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Mev_system
+// Region : Outer Rim
+// Sector : Anoat Sector
+// Grid location : K18
+// X : -1003.73, Y : -13245.93, Z : 94.5415159949464
+Star "Mev System" // system name
+{
+    RA         0.08734301035804463
+    Dec        24.5838927910283
+    Dist       382999905.6210701
+    Class      "M0 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Mexeluine
 // Region : Outer Rim
 // Sector : Anoat Sector
@@ -1896,7 +1909,7 @@ Star "Plooma System" // system name
 // Sector : Subterrel Sector
 // Grid location : K20
 // X : -465.39, Y : -16097.44, Z : 432.23915981607183
-StarBarycenter "Polis Massa System" // system name
+Star "Polis Massa System" // system name
 {
     RA         0.08733764141217068
     Dec        24.583466210783026
@@ -2602,7 +2615,7 @@ Star "Saila Na System" // system name
 // Sector : Suolriep Sector
 // Grid location : S8
 // X : 10996.89, Y : 2522.65, Z : 61.880286285465445
-StarBarycenter "Saleucami System" // system name
+Star "Saleucami System" // system name
 {
     RA         0.08722332628609293
     Dec        24.58625172910402

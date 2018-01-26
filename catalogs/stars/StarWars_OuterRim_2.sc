@@ -2534,7 +2534,7 @@ Star "Krylon System" // system name
 // Sector : Calaron Sector
 // Grid location : T9
 // X : 13036.77, Y : 410.67, Z : -78.88771869102777
-StarBarycenter "Ku'Bakai System" // system name
+Star "Ku'Bakai/Ku'Bakai System/Kubindi System"
 {
     RA         0.08720298228975765
     Dec        24.585935782332513

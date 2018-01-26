@@ -1554,7 +1554,7 @@ Star "Roona System" // system name
 // Sector : Kira Sector
 // Grid location : N16
 // X : 3782.62, Y : -9028.61, Z : 141.90389088808706
-StarBarycenter "Ropagi System" // system name
+Star "Ropagi System" // system name
 {
     RA         0.08729527532779914
     Dec        24.58452369089122

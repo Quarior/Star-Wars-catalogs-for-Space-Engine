@@ -33,7 +33,7 @@ Star "Alee System" // system name
 // Sector : Hutt Space Sector
 // Grid location : S11
 // X : 11550.98, Y : -2334.91, Z : -14.532042871364979
-StarBarycenter "Ardos System" // system name
+Star "Ardos System" // system name
 {
     RA         0.08721780028234498
     Dec        24.58552505095948

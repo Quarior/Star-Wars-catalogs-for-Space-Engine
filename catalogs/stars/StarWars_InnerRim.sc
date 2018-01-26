@@ -2269,7 +2269,7 @@ Star "Sukkult System" // system name
 // Sector : 
 // Grid location : O8
 // X : 5300.39, Y : 1652.44, Z : -50.41851502105021
-StarBarycenter "Taanab System" // system name
+Star "Taanab System" // system name
 {
     RA         0.08728013839220611
     Dec        24.58612154781967

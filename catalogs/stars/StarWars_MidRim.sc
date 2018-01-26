@@ -670,12 +670,12 @@ Star "Bresnia System" // system name
 // Sector : Bright Jewel Sector
 // Grid location : L7
 // X : 71.13, Y : 3824.46, Z : 130.29783200959514
-StarBarycenter "Bright Jewel System" // system name
+Star "Bright Jewel System" // system name
 {
     RA         0.08733229060919351
     Dec        24.586446476601992
     Dist       382999869.7484826
-    Class      "F9 V"
+    Class      "B9 V"
 }
 
 // http://starwars.wikia.com/wiki/Bryx
@@ -2646,7 +2646,7 @@ Star "Maerdocia System" // system name
 // Sector : 
 // Grid location : Q13
 // X : 8418.16, Y : -4817.96, Z : -22.442035835106026
-StarBarycenter "Makeb System" // system name
+Star "Makeb System" // system name
 {
     RA         0.08724904438452112
     Dec        24.585153593317862

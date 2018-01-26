@@ -370,19 +370,6 @@ Star "Amarin System" // system name
     Class      "M6 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Mev
-// Region : Outer Rim
-// Sector : Anoat Sector
-// Grid location : K18
-// X : -1003.73, Y : -13245.93, Z : 94.5415159949464
-Star "Ambria System" // system name
-{
-    RA         0.08734301035804463
-    Dec        24.5838927910283
-    Dist       382999905.6210701
-    Class      "M0 III" // random
-}
-
 // http://starwars.wikia.com/wiki/Anantapar
 // Region : Outer Rim
 // Sector : Yarith Sector
@@ -934,7 +921,7 @@ Star "Bandomeer System" // system name
 // Sector : Albanin Sector
 // Grid location : U12
 // X : 13571.63, Y : -4437.77, Z : 18.639930669691694
-StarBarycenter "Barab System" // system name
+Star "Barab System" // system name
 {
     RA         0.08719764801433734
     Dec        24.585210468688516
@@ -1938,7 +1925,7 @@ Star "Cmaoli Di System" // system name
 // Sector : Mayagil Sector
 // Grid location : M18
 // X : 2353.5, Y : -13151.95, Z : -332.33045911067944
-StarBarycenter "Colu System" // system name
+Star "Colu System" // system name
 {
     RA         0.08730952819842011
     Dec        24.583906852026853
@@ -2558,12 +2545,12 @@ Star "Dilonexa System" // system name
 // Region : Outer Rim
 // Sector : Moddell Sector
 // Grid location : H16
-// X : -5097.17, Y : -10244.79, Z : 390.26881766889187
-StarBarycenter "Din System" // system name
+// X : -5097.17, Y : -10244.79, Z : 990.26881766889187
+Star "Din Pulsar"
 {
     RA         0.08738383492185077
     Dec        24.584341752749257
-    Dist       382999609.8510372
+    Dist       382999009.8510372
     Class      "Q"
 }
 
