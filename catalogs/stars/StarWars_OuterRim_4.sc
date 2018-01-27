@@ -72,7 +72,7 @@ Star "Scillal System" // system name
 // Sector : 
 // Grid location : K5
 // X : -967.99, Y : 7229.36, Z : -276.2444986948203
-Star "Scipio System / Albarrio (Canon) System" // system name
+Star "Scipio System/Albarrio (Canon) System" // system name
 {
     RA         0.08734265390802579
     Dec        24.586955839256447
