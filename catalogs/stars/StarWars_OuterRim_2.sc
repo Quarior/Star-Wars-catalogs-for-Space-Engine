@@ -168,7 +168,7 @@ Star "Eadu System" // system name
     RA         0.08721196224966717
     Dec        24.58595957683788
     Dist       383000497.96075135
-    Class      "M8 III" // random
+    Class      "B7 V"
 }
 
 // http://starwars.wikia.com/wiki/Edusa
