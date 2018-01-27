@@ -3,8 +3,8 @@ Planet	"Eadu/Eadu System 7"
 	ParentBody     "Eadu System"
 	Class	       "Desert"
 
-	Mass            3.33226
-	Radius          10816.8
+	Mass            1.021
+	Radius          7060.5
 	InertiaMoment   0.328833
 
 	Oblateness      0.0137973
