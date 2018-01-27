@@ -925,7 +925,7 @@ Moon	"Nar Shaddaa/Vertical City/Smugglers' Moon/Little Coruscant"
 		DiffTileSize    130
 		DiffTileBorder  1  
         BumpMap        "Nar Shaddaa/Bump" 
-		BumpTileSize    128
+		BumpTileSize    1024
 		BumpTileBorder  1
 		BumpHeight 15
 		BumpOffset 0
