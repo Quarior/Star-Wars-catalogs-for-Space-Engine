@@ -165,7 +165,7 @@ Planet	"Coruscant"
 		DiffTileBorder  1  
 		DiffMapAlpha   "Water"
 		BumpMap        "Coruscant/Bump"
-		BumpTileSize    1024
+		BumpTileSize    128
 		BumpTileBorder  1
 		BumpHeight 20
 		BumpOffset 0

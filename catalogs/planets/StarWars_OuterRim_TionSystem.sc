@@ -232,7 +232,7 @@ Moon	"Tion's Moon 1/Tion System 4.1"
 		DiffTileBorder  1  
 		DiffMapAlpha   "Water"
 		BumpMap        "Coruscant/Bump"
-		BumpTileSize    1024
+		BumpTileSize    128
 		BumpTileBorder  1
 		BumpHeight 10
 		BumpOffset 0
@@ -330,7 +330,7 @@ Moon	"Tion's Moon 2/Tion System 4.2"
 		DiffTileBorder  1  
 		DiffMapAlpha   "Water"
 		BumpMap        "Coruscant/Bump"
-		BumpTileSize    1024
+		BumpTileSize    128
 		BumpTileBorder  1
 		BumpHeight 10
 		BumpOffset 0
@@ -426,7 +426,7 @@ Moon	"Tion's Moon 3/Tion System 4.3"
 		DiffTileBorder  1  
 		DiffMapAlpha   "Water"
 		BumpMap        "Coruscant/Bump"
-		BumpTileSize    1024
+		BumpTileSize    128
 		BumpTileBorder  1
 		BumpHeight 10
 		BumpOffset 0
