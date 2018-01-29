@@ -1467,7 +1467,7 @@ DwarfMoon	"Ordaj XVI"
 	}
 }
 
-Planet	"Hoth/Hoth Planet"
+Planet	"Hoth"
 {
 	ParentBody     "Hoth System"
 	Class	       "IceWorld"
@@ -1623,7 +1623,7 @@ Planet	"Hoth/Hoth Planet"
 
 Moon	"Hoth I"
 {
-	ParentBody     "Hoth Planet"
+	ParentBody     "Hoth"
 	Class	       "Selena"
 
 	Mass            0.0008653703
@@ -1651,7 +1651,7 @@ Moon	"Hoth I"
 
 Moon	"Hoth III"
 {
-	ParentBody     "Hoth Planet"
+	ParentBody     "Hoth"
 	Class	       "Selena"
 
 	Mass            0.033132
@@ -1679,7 +1679,7 @@ Moon	"Hoth III"
 
 Moon	"Hoth II"
 {
-	ParentBody     "Hoth Planet"
+	ParentBody     "Hoth"
 	Class	       "Selena"
 
 	Mass            0.001012677

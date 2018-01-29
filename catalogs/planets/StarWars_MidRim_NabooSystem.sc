@@ -3,7 +3,7 @@
 // Sector : Chommel Sector
 // Grid location : O17
 // X : 5016.62, Y : -10608.46, Z : 545.398828227475
-Planet "Naboo/Naboo Planet"
+Planet "Naboo"
 {
 	ParentBody "Naboo System"
 	
@@ -79,7 +79,7 @@ Planet "Naboo/Naboo Planet"
 
 Moon "Ohma-D'un/Naboo 1"
 {
-	ParentBody "Naboo Planet"
+	ParentBody "Naboo"
 	
 	Class "Terra"
 
@@ -215,7 +215,7 @@ Moon "Ohma-D'un/Naboo 1"
 
 Moon "Rori/Naboo 2"
 {
-	ParentBody "Naboo Planet"
+	ParentBody "Naboo"
 	
 	Class "Desert"
 	
@@ -254,7 +254,7 @@ Moon "Rori/Naboo 2"
 
 Moon "Naboo 3"
 {
-	ParentBody "Naboo Planet"
+	ParentBody "Naboo"
 	
 	Radius 421.14
 	

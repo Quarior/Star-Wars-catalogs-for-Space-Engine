@@ -148,7 +148,7 @@ Planet	"Mustafar"
 		Height          95.7
 		Density         57.6294
 		Pressure        1.7
-		Greenhouse      1627
+		Greenhouse      27
 		Bright          1.249
 		Opacity         1
 		SkyLight        0.873

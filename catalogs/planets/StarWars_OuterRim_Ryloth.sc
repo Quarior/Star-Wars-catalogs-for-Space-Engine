@@ -179,7 +179,7 @@ Planet	"Mon Bala"
 
 
 
-Planet	"Ryloth/Ryloth Planet/Twi'lek/Twi'lek Prime"
+Planet	"Ryloth/Twi'lek/Twi'lek Prime"
 {
 	ParentBody     "Ryloth System"
 	Class	       "Terra"
@@ -390,9 +390,9 @@ Planet	"Ryloth/Ryloth Planet/Twi'lek/Twi'lek Prime"
 
 
 
-DwarfMoon	"Ryloth.D1"
+DwarfMoon	"Ryloth D1"
 {
-	ParentBody     "Ryloth Planet"
+	ParentBody     "Ryloth"
 	Class	       "Asteroid"
 
 	Mass            3.12273e-009
@@ -496,9 +496,9 @@ DwarfMoon	"Ryloth.D1"
 
 
 
-DwarfMoon	"Ryloth.D2"
+DwarfMoon	"Ryloth D2"
 {
-	ParentBody     "Ryloth Planet"
+	ParentBody     "Ryloth"
 	Class	       "Asteroid"
 
 	Mass            4.33192e-009
@@ -603,9 +603,9 @@ DwarfMoon	"Ryloth.D2"
 }
 
 
-DwarfMoon	"Ryloth.D3"
+DwarfMoon	"Ryloth D3"
 {
-	ParentBody     "Ryloth Planet"
+	ParentBody     "Ryloth"
 	Class	       "Asteroid"
 
 	Mass            5.97156e-009
@@ -710,9 +710,9 @@ DwarfMoon	"Ryloth.D3"
 }
 
 
-DwarfMoon	"Ryloth.D4"
+DwarfMoon	"Ryloth D4"
 {
-	ParentBody     "Ryloth Planet"
+	ParentBody     "Ryloth"
 	Class	       "Asteroid"
 
 	Mass            8.18988e-009
@@ -816,9 +816,9 @@ DwarfMoon	"Ryloth.D4"
 	}
 }
 
-DwarfMoon	"Ryloth.D5"
+DwarfMoon	"Ryloth D5"
 {
-	ParentBody     "Ryloth Planet"
+	ParentBody     "Ryloth"
 	Class	       "Asteroid"
 
 	Mass            6.17548e-009

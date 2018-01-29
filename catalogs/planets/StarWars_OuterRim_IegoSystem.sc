@@ -3,7 +3,7 @@
 // Sector : Ash Worlds Sector
 // Grid location : T7
 // X : 12414.74, Y : 3743.37, Z : -55.83242692112992
-Planet	"Iego/Iego Planet"
+Planet	"Iego"
 {
 	ParentBody     "Iego System"
 	Class	       "Terra"
@@ -162,7 +162,7 @@ Planet	"Iego/Iego Planet"
 
 Moon	"Millius Prime"
 {
-	ParentBody     "Iego Planet"
+	ParentBody     "Iego"
 	Class          "Terra"
 
     Radius         998      // Radius in km  
