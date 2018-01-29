@@ -101,7 +101,10 @@ Planet	"Mustafar"
 		cycloneFreq     0
 		cycloneDensity  0
 		cycloneOctaves  0 
-		volcanoMagn     0.31746
+		montesFraction  0.224415
+		hillsFraction   0.268997
+		hills2Fraction  0.5492394
+		volcanoMagn     0.33746
 		volcanoFreq     3.37302
 		volcanoDensity  0.785714
 		volcanoOctaves  5
@@ -116,6 +119,7 @@ Planet	"Mustafar"
 		colorLowland   (0.000, 0.000, 0.000, 0.000)
 		colorUpland    (0.000, 0.000, 0.000, 0.125)
 		colorRock      (0.000, 0.000, 0.000, 0.000)
+		BumpHeight		30
 		GlowMode		"Thermal"
 		GlowBright		3.5
 	}
@@ -134,7 +138,7 @@ Planet	"Mustafar"
 	Clouds
 	{
 		GlowBright		0.250
-		Height          12.00244
+		Height          15.00244
 		ModulateColor  (0.898 0.824 0.722 0.256)
 		mainFreq		1.881
 		Coverage        0.671
@@ -148,7 +152,7 @@ Planet	"Mustafar"
 		Height          95.7
 		Density         57.6294
 		Pressure        1.7
-		Greenhouse      27
+		Greenhouse      1627
 		Bright          1.249
 		Opacity         1
 		SkyLight        0.873
@@ -194,6 +198,12 @@ Planet	"Jestefad"
 	Albedo          0.7
 	Color         ( 0.909 0.850 0.764 )
 	
+	Surface
+	{
+		SurfStyle		0.756
+	}
+
+	NoRings	true
 
 	Orbit
 	{
@@ -220,6 +230,12 @@ Planet	"Lefrani"
 	Albedo          0.7
 	Color         ( 0.909 0.850 0.764 )
 	
+	Surface
+	{
+		SurfStyle		0.939
+	}
+
+	NoRings	true
 
 	Orbit
 	{
