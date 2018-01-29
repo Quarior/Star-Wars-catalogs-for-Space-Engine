@@ -557,6 +557,8 @@ Planet	"Trandosha/Dosha/Hsskhor"
 			CO2 0.0398
 		}
 	}
+
+	NoRings		true
 	
 	Orbit
 	{
@@ -596,6 +598,8 @@ Moon	"Akoshisss"
 		colorLowPlants (0.440, 0.290, 0.170, 0.000)
 		colorUpPlants  (0.640, 0.570, 0.470, 0.000)
 	}
+
+	NoRings		true
 
 	Orbit
 	{
