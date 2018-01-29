@@ -134,14 +134,12 @@ Planet	"Endor"
 
 	Orbit
 	{
-		SemiMajorAxis   0.821
-		//Period          1.1
+		Period          1.1
 		Eccentricity    0
-		Inclination     351.8819
+		Inclination     0.038
 		AscendingNode   325.7146
 		ArgOfPericenter 189.6115
 		MeanAnomaly     141.9982
-		RefPlane       "Ecliptic"
 	}
 }
 
@@ -207,7 +205,7 @@ Moon	"Endor 4/Forest moon of Endor/Sanctuary Moon"
 	ParentBody     "Endor"
 	Class	       "Terra"
 
-	Mass            0.7195672
+	Mass			0.09386
 	Radius          2450
 	InertiaMoment   0.3314455
 
@@ -241,23 +239,69 @@ Moon	"Endor 4/Forest moon of Endor/Sanctuary Moon"
 		tropicWidth     0.301587
 		mainFreq        2.18254
 		mareFreq		0
-		mareDensity		0
+		mareDensity	0
+		montesMagn      0.160825
+		montesFreq      400.794
+		montesSpiky     0.985
+		montesFraction  0.4
+		dunesMagn       0.1617843
+		dunesFreq       48.7545
+		dunesFraction   0.389333
+		hillsMagn       0.20873
+		hillsFreq       347.619
+		hillsFraction   0.4
+		hills2Fraction  0.554921
+		riversMagn      35
+		riversFreq      3
+		riversSin       8.5
+		riversOctaves   3
+		canyonsMagn     0.0379935
+		canyonsFreq     108.522
+		canyonFraction  0.644319
+		cracksMagn      0.131347
+		cracksFreq      0.288534
+		cracksOctaves   0
+		craterMagn      0.714286
+		craterFreq      13.3333
+		craterDensity   0.0396825
+		craterOctaves   5
+		craterRayedFactor 0
+		volcanoMagn     0.35
+		volcanoFreq     1.53968
+		volcanoDensity  0.206349
+		volcanoOctaves  5
+		volcanoActivity 0.9
+		volcanoFlows    0.7
+		volcanoRadius   0.626984
+		volcanoTemp     1466.75
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		cycloneMagn     0
-		cycloneFreq     0
-		cycloneDensity  0
-		cycloneOctaves  0
+		cycloneMagn     1.16071
+		cycloneDensity  0.322694
+		cycloneOctaves  1
 		colorSea       (0.086, 0.114, 0.278, 1.000)
-		colorBeach     (0.910, 0.867, 0.725, 0.000)
+		colorShelf     (0.180, 0.450, 0.330, 1.000)
+		colorBeach     (0.250, 0.550, 0.390, 0.000)
+		colorDesert    (0.250, 0.430, 0.280, 0.000)
+		colorLowland   (0.140, 0.120, 0.100, 0.000)
+		colorUpland    (0.610, 0.410, 0.250, 0.000)
+		colorRock      (0.100, 0.120, 0.105, 0.000)
+		colorSnow      (1.000, 1.000, 1.000, 1.308)
 		colorLowPlants (0.212, 0.282, 0.298, 0.000)
-		colorUpPlants  (0.153, 0.231, 0.259, 0.075)
+		colorUpPlants  (0.052, 0.169, 0.111, 0.000)
+		BumpHeight      12
+		BumpOffset      6
 	}
 
 	Ocean
 	{
 		Height          3.0188
+	}
+
+	Clouds
+	{
+		Height		12
 	}
 
 	Atmosphere
@@ -266,7 +310,7 @@ Moon	"Endor 4/Forest moon of Endor/Sanctuary Moon"
 		Height          70.96852
 		Density         100
 		Pressure        1.550516
-		Greenhouse      1.33102
+		Greenhouse      26.33102
 		Bright          5
 		Opacity         1
 		
