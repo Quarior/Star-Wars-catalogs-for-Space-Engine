@@ -223,7 +223,7 @@ Moon	"Endor 4/Forest moon of Endor/Sanctuary Moon"
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Terrestrial"
+		Biome   "Marine/Terrestrial"
 	}
 
 	Surface

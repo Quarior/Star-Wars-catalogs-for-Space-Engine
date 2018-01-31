@@ -665,7 +665,7 @@ Planet	"Naboo"
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Terrestrial"
+		Biome   "Marine/Terrestrial"
 	}
 
 	Surface
@@ -892,7 +892,7 @@ Moon	"Ohma-D'un/Naboo 1"
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Terrestrial"
+		Biome   "Marine/Terrestrial"
 		Panspermia "true"
 	}
 
@@ -1929,7 +1929,7 @@ Planet	"Storm"
 	}
 }
 
-Moon	"Storm.1"
+Moon	"Storm 1"
 {
 	ParentBody     "Storm"
 	Class	       "Selena"
@@ -2081,7 +2081,7 @@ Moon	"Storm.1"
 	}
 }
 
-Moon	"Storm.2"
+Moon	"Storm 2"
 {
 	ParentBody     "Storm"
 	Class	       "Desert"
@@ -2262,7 +2262,7 @@ Moon	"Storm.2"
 	}
 }
 
-Moon	"Storm.3"
+Moon	"Storm 3"
 {
 	ParentBody     "Storm"
 	Class	       "IceWorld"
@@ -2395,7 +2395,7 @@ Moon	"Storm.3"
 	}
 }
 
-Moon	"Storm.4"
+Moon	"Storm 4"
 {
 	ParentBody     "Storm"
 	Class	       "IceWorld"
@@ -2549,7 +2549,7 @@ Moon	"Storm.4"
 	}
 }
 
-Moon	"Storm.5"
+Moon	"Storm 5"
 {
 	ParentBody     "Storm"
 	Class	       "IceWorld"
@@ -2706,7 +2706,7 @@ Moon	"Storm.5"
 	}
 }
 
-Moon	"Storm.6"
+Moon	"Storm 6"
 {
 	ParentBody     "Storm"
 	Class	       "IceWorld"
@@ -2865,7 +2865,7 @@ Moon	"Storm.6"
 	}
 }
 
-Moon	"Storm.7"
+Moon	"Storm 7"
 {
 	ParentBody     "Storm"
 	Class	       "IceWorld"
@@ -2998,7 +2998,7 @@ Moon	"Storm.7"
 	}
 }
 
-Moon	"Storm.8"
+Moon	"Storm 8"
 {
 	ParentBody     "Storm"
 	Class	       "IceWorld"
@@ -3131,7 +3131,7 @@ Moon	"Storm.8"
 	}
 }
 
-Moon	"Storm.9"
+Moon	"Storm 9"
 {
 	ParentBody     "Storm"
 	Class	       "IceWorld"
@@ -3264,7 +3264,7 @@ Moon	"Storm.9"
 	}
 }
 
-DwarfMoon	"Storm.D1"
+DwarfMoon	"Storm D1"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -3375,7 +3375,7 @@ DwarfMoon	"Storm.D1"
 	}
 }
 
-DwarfMoon	"Storm.D2"
+DwarfMoon	"Storm D2"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -3486,7 +3486,7 @@ DwarfMoon	"Storm.D2"
 	}
 }
 
-DwarfMoon	"Storm.D3"
+DwarfMoon	"Storm D3"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -3597,7 +3597,7 @@ DwarfMoon	"Storm.D3"
 	}
 }
 
-DwarfMoon	"Storm.D4"
+DwarfMoon	"Storm D4"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -3708,7 +3708,7 @@ DwarfMoon	"Storm.D4"
 	}
 }
 
-DwarfMoon	"Storm.D5"
+DwarfMoon	"Storm D5"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -3819,7 +3819,7 @@ DwarfMoon	"Storm.D5"
 	}
 }
 
-DwarfMoon	"Storm.D6"
+DwarfMoon	"Storm D6"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -3928,7 +3928,7 @@ DwarfMoon	"Storm.D6"
 	}
 }
 
-DwarfMoon	"Storm.D7"
+DwarfMoon	"Storm D7"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -4037,7 +4037,7 @@ DwarfMoon	"Storm.D7"
 	}
 }
 
-DwarfMoon	"Storm.D8"
+DwarfMoon	"Storm D8"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -4146,7 +4146,7 @@ DwarfMoon	"Storm.D8"
 	}
 }
 
-DwarfMoon	"Storm.D9"
+DwarfMoon	"Storm D9"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -4255,7 +4255,7 @@ DwarfMoon	"Storm.D9"
 	}
 }
 
-DwarfMoon	"Storm.D10"
+DwarfMoon	"Storm D10"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -4364,7 +4364,7 @@ DwarfMoon	"Storm.D10"
 	}
 }
 
-DwarfMoon	"Storm.D11"
+DwarfMoon	"Storm D11"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -4473,7 +4473,7 @@ DwarfMoon	"Storm.D11"
 	}
 }
 
-DwarfMoon	"Storm.D12"
+DwarfMoon	"Storm D12"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -4582,7 +4582,7 @@ DwarfMoon	"Storm.D12"
 	}
 }
 
-DwarfMoon	"Storm.D13"
+DwarfMoon	"Storm D13"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -4691,7 +4691,7 @@ DwarfMoon	"Storm.D13"
 	}
 }
 
-DwarfMoon	"Storm.D14"
+DwarfMoon	"Storm D14"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -4800,7 +4800,7 @@ DwarfMoon	"Storm.D14"
 	}
 }
 
-DwarfMoon	"Storm.D15"
+DwarfMoon	"Storm D15"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -4909,7 +4909,7 @@ DwarfMoon	"Storm.D15"
 	}
 }
 
-DwarfMoon	"Storm.D16"
+DwarfMoon	"Storm D16"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -5018,7 +5018,7 @@ DwarfMoon	"Storm.D16"
 	}
 }
 
-DwarfMoon	"Storm.D17"
+DwarfMoon	"Storm D17"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -5127,7 +5127,7 @@ DwarfMoon	"Storm.D17"
 	}
 }
 
-DwarfMoon	"Storm.D18"
+DwarfMoon	"Storm D18"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -5236,7 +5236,7 @@ DwarfMoon	"Storm.D18"
 	}
 }
 
-DwarfMoon	"Storm.D19"
+DwarfMoon	"Storm D19"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -5345,7 +5345,7 @@ DwarfMoon	"Storm.D19"
 	}
 }
 
-DwarfMoon	"Storm.D20"
+DwarfMoon	"Storm D20"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -5454,7 +5454,7 @@ DwarfMoon	"Storm.D20"
 	}
 }
 
-DwarfMoon	"Storm.D21"
+DwarfMoon	"Storm D21"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -5563,7 +5563,7 @@ DwarfMoon	"Storm.D21"
 	}
 }
 
-DwarfMoon	"Storm.D22"
+DwarfMoon	"Storm D22"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
@@ -5672,7 +5672,7 @@ DwarfMoon	"Storm.D22"
 	}
 }
 
-DwarfMoon	"Storm.D23"
+DwarfMoon	"Storm D23"
 {
 	ParentBody     "Storm"
 	Class	       "Asteroid"
