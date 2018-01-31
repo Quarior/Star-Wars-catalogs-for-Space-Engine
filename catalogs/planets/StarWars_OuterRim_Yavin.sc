@@ -278,7 +278,7 @@ Moon	"Yavin 4"
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Terrestrial"
+		Biome   "Marine/Terrestrial"
 	}
 
 	Surface
@@ -325,7 +325,7 @@ Moon	"Yavin 4"
 		Height          70.96852
 		Density         100
 		Pressure        1.550516
-		Greenhouse      92.33102
+		Greenhouse      42.33102
 		Bright          5
 		Opacity         1
 		
@@ -530,7 +530,7 @@ Moon	"Yavin 7"
 		Height          29.93577
 		Density         100
 		Pressure        1.075836
-		Greenhouse      106.4794
+		Greenhouse      46.4794
 		Bright          10
 		Opacity         1
 		SkyLight        3.333333
@@ -855,7 +855,7 @@ Moon	"Yavin 13"
 		Height          173.0196
 		Density         7.399968
 		Pressure        0.5179474
-		Greenhouse      90.47619
+		Greenhouse      20.47619
 		Bright          3
 		Opacity         0.3
 		SkyLight        1
