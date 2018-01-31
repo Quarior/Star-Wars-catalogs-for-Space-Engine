@@ -309,7 +309,7 @@ Planet	"Kashyyyk"
 		Height          144.78
 		Density         100
 		Pressure        0.976
-		Greenhouse      5.76289
+		Greenhouse      10.76289
 		Bright          10.27619
 		Opacity         1
 		SkyLight        2.301587
