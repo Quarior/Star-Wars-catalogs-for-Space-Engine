@@ -40,6 +40,31 @@ Cluster "Starswarm Cluster" // system name
 	NStars   2000  // default	
 }
 
+/////////////////////////////////////
+//           Inner Rim             //
+/////////////////////////////////////
+
+// http://starwars.wikia.com/wiki/Inner_Cluster
+// Region : Inner Rim
+// Sector : Inner Cluster Sector
+// Grid location : O11
+// X : 4904.13, Y : -1802.26, Z : 137.4087407418673 // Cluster center is Teke Ro System
+Cluster "Inner Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         	0.08728409033037816
+    Dec        	24.585604733996767
+    Dist       	382999862.62279814
+	Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+
 //////////////////////////////////////
 //            Colonies              //
 //////////////////////////////////////
@@ -61,4 +86,74 @@ Cluster	"Zenox"
 	CenPow   0.5        // star concentration parameter
 	//Age      
 	NStars     1500  // default		
+}
+
+//////////////////////////////////////
+//           Hutt Space             //
+//////////////////////////////////////
+
+// http://starwars.wikia.com/wiki/Si%27Klaata_Cluster
+// Region : Hutt Space
+// Sector :
+// Grid location : S12
+// Coordinates are barycenter 1/4 Vontor coords, 1/4 Klatooine coords, 1/2 Tas-la coord 
+// Based on this map : https://vignette.wikia.nocookie.net/starwars/images/b/b5/Sisar_Run.png/revision/latest?cb=20080330194644
+Cluster "Si'Klaata Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08721718161939204
+    Dec        24.586094106333125
+    Dist       382999591.9036164
+	Radius		54.202606641 // 3 times cluster center-vontor distance
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+//////////////////////////////////////
+//           Outer Rim              //
+//////////////////////////////////////
+
+http://starwars.wikia.com/wiki/Jaga%27s_Cluster
+// Region : Outer Rim
+// Sector : Esstran Sector
+// Grid location : Q5
+// X : 8697.2, Y : 6973.15, Z : 180.0175011215423 // Cluster center is Jagomir System
+Cluster "Jaga's Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08724626142946693
+    Dec        24.58691751257332
+    Dist       382999820.1894619
+	Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Skustell
+// http://starwars.wikia.com/wiki/Skustell_Cluster
+// Region : Outer Rim
+// Sector : Tarabba Sector
+// Grid location : N19
+// X : 3351.22, Y : -14395.61, Z : 196.75751906411347 // Cluster center is Skustell System
+Cluster "Skustell Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.0872995777439763
+    Dec        24.58372080143163
+    Dist       382999803.4535023
+	Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
