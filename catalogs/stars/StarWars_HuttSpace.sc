@@ -353,6 +353,19 @@ Star "Keldooine System" // system name
     Class      "M6 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Kintan/Legends
+// Region : Hutt Space
+// Sector : Si’Klaata Cluster
+// Grid location : S9
+// X : 11578, Y : 1443, Z : -537.7922352012565
+Star "Kintan/Kintan System" // Star name / system name
+{
+    RA         0.08721753096544384
+    Dec        24.58609021547741
+    Dist       383000537.983914
+    Class      "M2 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Klatooine
 // Region : Hutt Space
 // Sector : Hutt Space Sector
@@ -925,6 +938,19 @@ Star "Sleheyron System" // system name
     Class      "M4 Ib" // random
 }
 
+// http://starwars.wikia.com/wiki/Tas-La
+// Region : Hutt Space
+// Sector : Si’Klaata Cluster
+// Grid location : S9
+// X : 11592, Y : 1495, Z : 590.3602923603366
+Star "Tas-La System" // system name
+{
+    RA         0.08721739100092649
+    Dec        24.58609799612589
+    Dist       382999409.83229935
+    Class      "M1 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Tal_Nami
 // Region : Hutt Space
 // Sector : Hutt Space Sector
@@ -1042,17 +1068,30 @@ Star "Usk System" // system name
     Class      "M3 II" // random
 }
 
+// http://starwars.wikia.com/wiki/Vodran/Legends
+// Region : Hutt Space
+// Sector : Si’Klaata Cluster
+// Grid location : S9
+// X : 11572, Y : 1475, Z : -274.8036031350752
+Star "Vodran System" // system name
+{
+    RA         0.0872175907250478
+    Dec        24.586095002955876
+    Dist       383000274.9954007
+    Class      "M2 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Vontor
 // Region : Hutt Space
-// Sector : Hutt Space Sector
+// Sector : Si’Klaata Cluster
 // Grid location : S9
-// X : 11633.11, Y : 1442.36, Z : -447.1904925213092
+// X : 11631, Y : 1468, Z : -430.5996660403126
 Star "Vontor System" // system name
 {
-    RA         0.08721698131816019
-    Dec        24.586090119861716
-    Dist       383000447.3838354
-    Class      "M8 III" // random
+    RA         0.08721700235646934
+    Dec        24.586093955556244
+    Dist       383000430.79318494
+    Class      "M7 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Xolu

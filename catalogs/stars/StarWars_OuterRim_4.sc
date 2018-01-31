@@ -80,6 +80,19 @@ Star "Scipio System/Albarrio (Canon) System" // system name
     Class      "M4 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Sedri_system
+// Region : "Outer Rim Territories"
+// Sector : Tharin sector
+// Grid location : S8
+// X : 11695, Y : 1638, Z : -116.72017262628628
+Star "Sedri System" // system name
+{
+    RA         0.0872163639796361
+    Dec        24.586119387536815
+    Dist       383000116.91727597
+    Class      "M3 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Seline
 // Region : Outer Rim
 // Sector : Dalonbian Sector
@@ -143,6 +156,19 @@ Star "Sernpidal System/Julevian System" // system name
     Dec        24.58742963254822
     Dist       383000394.0460432
     Class      "M5 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Sespe_system
+// Region : "Outer Rim Territories"
+// Sector : Tharin sector
+// Grid location : S9
+// X : 11530, Y : 1550, Z : 115.79350559495776
+Star "Sespe/Sespe System" // Star name / system name
+{
+    RA         0.08721800948001503
+    Dec        24.586106223309635
+    Dist       382999884.39773905
+    Class      "M2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Sevarcos
@@ -470,6 +496,20 @@ Star "Sokor/Socorro System" // Star name / system name
     Class      "M5 III"
 }
 
+
+// http://starwars.wikia.com/wiki/Solacton_system
+// Region : "Outer Rim Territories"
+// Sector : Tharin sector
+// Grid location : S8
+// X : 11506, Y : 1637, Z : 326.6390735347294
+Star "Solacton System" // system name
+{
+    RA         0.08721824877265226
+    Dec        24.586119238592104
+    Dist       382999673.55229557
+    Class      "G3 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Sorjus
 // Region : Outer Rim
 // Sector : Meridian Sector
@@ -626,6 +666,19 @@ Star "Sullust System" // system name
     Class      "G0 V"
 }
 
+// http://starwars.wikia.com/wiki/Sulorine_system
+// Region : "Outer Rim Territories"
+// Sector : "Suolriep sector"
+// Grid location : S7
+// X : 11218, Y : 1497, Z : -240.86801452736483
+Star "Sulorine System" // system name
+{
+    RA         0.08722112120971738
+    Dec        24.58609829414299
+    Dist       383000241.04948777
+    Class      "M1 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Sump
 // Region : Outer Rim
 // Sector : Koradin Sector
@@ -728,6 +781,19 @@ Star "Syvris System" // system name
     Dec        24.58510069104766
     Dist       382999881.5819819
     Class      "M0 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Talir_system
+// Region : "Outer Rim Territories"
+// Sector : Tharin sector
+// Grid location : S8
+// X : 11434, Y : 1640, Z : -242.33052048256292
+Star "Talir System" // system name
+{
+    RA         0.08721896700987765
+    Dec        24.58611968654636
+    Dist       383000242.5197627
+    Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Tammar
@@ -1314,6 +1380,19 @@ Star "Tothis System" // system name
     Class      "K1 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Station_3
+// Region : "Outer Rim Territories"
+// Sector : Tharin sector
+// Grid location : S9
+// X : 11598, Y : 1633, Z : 577.2147994811899
+Star "Tragud System" // system name
+{
+    RA         0.08721733116587013
+    Dec        24.586118640570685
+    Dist       382999422.9793054
+    Class      "M3 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Trammis
 // Region : Outer Rim
 // Sector : Centrality Sector
@@ -1886,12 +1965,13 @@ Star "Vaal System" // system name
     Class      "F2 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Vaath'kror_system
 // http://starwars.wikia.com/wiki/Vaathkree
 // Region : Outer Rim
 // Sector : Periphery Sector
 // Grid location : S8
 // X : 11560.53, Y : 1716.95, Z : -278.6957694124474
-Star "Vaathkree System" // system name
+Star "Vaath'kror System" // system name
 {
     RA         0.0872177051182332
     Dec        24.586131197999386
@@ -2092,6 +2172,19 @@ Star "Verdanth System" // system name
     Dec        24.58422304135531
     Dist       383000526.368795
     Class      "M9 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Verde_system
+// Region : "Outer Rim Territories"
+// Sector : Tharin sector
+// Grid location : S8
+// X : 11609, Y : 1577, Z : 257.4084205027683
+Star "Verde System" // system name
+{
+    RA         0.08721722155766773
+    Dec        24.58611026264404
+    Dist       382999742.78547114
+    Class      "K3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Vergesso
@@ -2601,12 +2694,13 @@ Star "Zygerria System" // system name
     Class      "M5 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Skustell
 // http://starwars.wikia.com/wiki/Skustell_Cluster
 // Region : Outer Rim
 // Sector : Tarabba Sector
 // Grid location : N19
 // X : 3351.22, Y : -14395.61, Z : 196.75751906411347
-Star "Skustell Cluster System" // system name
+Star "Skustell System" // system name
 {
     RA         0.0872995777439763
     Dec        24.58372080143163
