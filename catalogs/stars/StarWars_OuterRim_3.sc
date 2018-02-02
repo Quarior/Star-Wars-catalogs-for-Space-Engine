@@ -389,7 +389,7 @@ Star "Maldra System" // system name
     RA         0.0871935656987225
     Dec        24.586301629268007
     Dist       382999697.82186055
-    Class      "M6 Ib" // random
+    Class      "G6 IV"
 }
 
 // http://starwars.wikia.com/wiki/Mall'ordian
@@ -2266,7 +2266,7 @@ Star "Ranroon System" // system name
     RA         0.08723050863501321
     Dec        24.586961420745517
     Dist       382999864.46760315
-    Class      "M1 Ib" // random
+    Class      "F1 III"
 }
 
 // http://starwars.wikia.com/wiki/Raxus

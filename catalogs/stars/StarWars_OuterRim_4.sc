@@ -428,7 +428,7 @@ Star "Skeebo System" // system name
     RA         0.08719474975633762
     Dec        24.586270146773852
     Dist       382999542.4127106
-    Class      "M5 Ia" // random
+    Class      "F5 IV"
 }
 
 // http://starwars.wikia.com/wiki/Skye

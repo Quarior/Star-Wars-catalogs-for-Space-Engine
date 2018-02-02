@@ -146,6 +146,8 @@ Star "Esfandia System" // system name
 }
 
 // http://starwars.wikia.com/wiki/Parthovian_Cluster
+// http://starwars.wikia.com/wiki/Faarlsun_system
+// http://starwars.wikia.com/wiki/Jun
 // Region : Wild Space
 // Sector : 
 // Grid location : T4
@@ -155,7 +157,7 @@ Star "Faarlsun System" // system name
     RA         0.08720877162892937
     Dec        24.587192447438838
     Dist       383000458.29969484
-    Class      "M1 Ia" // random
+    Class      "F9 III" // "yellow-white" in Jun article
 }
 
 // http://starwars.wikia.com/wiki/Farana

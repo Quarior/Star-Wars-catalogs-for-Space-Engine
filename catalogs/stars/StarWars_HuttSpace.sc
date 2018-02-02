@@ -480,7 +480,7 @@ Star "Kor Jiramma System" // system name
     RA         0.0872166261637367
     Dec        24.585620672009163
     Dist       383000411.9431624
-    Class      "M1 0" // random
+    Class      "K1 IV"
 }
 
 // http://starwars.wikia.com/wiki/Kor_Nasirii
