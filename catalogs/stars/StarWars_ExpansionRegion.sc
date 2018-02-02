@@ -67,6 +67,19 @@ Star "Altier System" // system name
     Class      "M0 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Aramand_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5738.7118181818, Y : -6976.7, Z : 5
+Star "Aramand/Aramand System" // Star name / system name
+{
+    RA         0.08727576693276039
+    Dec        24.584830651532748
+    Dist       382999995.0736424
+    Class      "G3 V"
+}
+
 // http://starwars.wikia.com/wiki/Arrgaw
 // Region : Expansion Region
 // Sector : Kira Sector
@@ -104,6 +117,19 @@ Star "Aruza System" // system name
     Dec        24.5847995539112
     Dist       382999578.07056355
     Class      "M2 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Asran_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5731.8936363636, Y : -6985.3, Z : 10.0833333333
+Star "Asran System" // system name
+{
+    RA         0.08727583493079143
+    Dec        24.58482936498601
+    Dist       382999989.9903158
+    Class      "G5 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Nkllon
@@ -146,16 +172,17 @@ Star "Avhn-Bendara System" // system name
 }
 
 // http://starwars.wikia.com/wiki/Bacrana
+// http://starwars.wikia.com/wiki/Bacrana_system
 // Region : Expansion Region
 // Sector : Brak Sector
 // Grid location : O14
-// X : 5736.53, Y : -6989.2, Z : 398.11580061556924
+// X : 5736.53, Y : -6989.2, Z : -352.3871879146818
 Star "Bacrana/Bacrana System" // Star name / system name
 {
-    RA         0.08727578863365068
-    Dec        24.584828780820118
-    Dist       382999601.9579675
-    Class      "M0 V" // random
+    RA         0.0872757887457584
+    Dec        24.584828782244152
+    Dist       383000352.46095586
+    Class      "G6 V"
 }
 
 // http://starwars.wikia.com/wiki/Barenth
@@ -431,6 +458,19 @@ Star "Circarpous System" // system name
     Class      "G0 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Cirra_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5740.2572727273, Y : -6973.2, Z : 5.2083333333
+Star "Cirra System" // system name
+{
+    RA         0.08727575151967024
+    Dec        24.584831175123036
+    Dist       382999994.8652879
+    Class      "K9 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Coonee
 // Region : Expansion Region
 // Sector : Brevost Sector
@@ -520,6 +560,32 @@ Star "Daemen System" // system name
     Dec        24.584448488140016
     Dist       383000326.3428668
     Class      "G7 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Demar_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5728.6209090909, Y : -6972.3, Z : -3.0833333333
+Star "Demar/Demar System" // Star name / system name
+{
+    RA         0.08727586757217502
+    Dec        24.58483130977632
+    Dist       383000003.1567689
+    Class      "K3 Ia"
+}
+
+// http://starwars.wikia.com/wiki/De%27nel_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5736.1209090909, Y : -6957.8, Z : 5.9583333333
+Star "De'nel System" // system name
+{
+    RA         0.08727579277215736
+    Dec        24.584833478920622
+    Dist       382999994.11503154
+    Class      "K5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Derra
@@ -613,6 +679,19 @@ Star "Emberlene System" // system name
     Class      "M6 IV" // random
 }
 
+// http://starwars.wikia.com/wiki/Enet_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5755.1209090909, Y : -6952.8, Z : 0.9583333333
+Star "Enet System" // system name
+{
+    RA         0.0872756032829454
+    Dec        24.584834226916726
+    Dist       382999999.1152536
+    Class      "M9 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Epica
 // Region : Expansion Region
 // Sector : Bes Ber Bikade Sector
@@ -689,6 +768,32 @@ Star "Gamor System" // system name
     Dec        24.58488390622411
     Dist       382999729.98930365
     Class      "M4 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Garia_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5731.1663636364, Y : -7001.6, Z : -2
+Star "Garia System" // system name
+{
+    RA         0.08727584218579905
+    Dec        24.58482692657236
+    Dist       383000002.07384515
+    Class      "F1 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Genesia_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5717.1209090909, Y : -6997.5, Z : 14.1666666667
+Star "Genesia/Genesia System" // Star name / system name
+{
+    RA         0.08727598226089663
+    Dec        24.584827539890707
+    Dist       382999985.90691644
+    Class      "G5 V"
 }
 
 // http://starwars.wikia.com/wiki/Gholondreine
@@ -834,6 +939,19 @@ Star "Immalia System" // system name
     Class      "M0 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Intran_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5733.6663636364, Y : -6972, Z : 24.125
+Star "Intran System" // system name
+{
+    RA         0.0872758172490094
+    Dec        24.584831354604077
+    Dist       382999975.94850737
+    Class      "M4 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Ishanna
 // Region : Expansion Region
 // Sector : Circarpous Sector
@@ -884,6 +1002,19 @@ Star "Jestan System" // system name
     Dec        24.58633808317971
     Dist       383000427.6578493
     Class      "K3 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Jinet_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5750.03, Y : -6998, Z : 11.0833333333
+Star "Jinet System" // system name
+{
+    RA         0.08727565405385855
+    Dec        24.5848274650979
+    Dist       382999988.9907489
+    Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Jurzan
@@ -1029,6 +1160,32 @@ Star "Lahag Erli System" // system name
     Class      "M3 II" // random
 }
 
+// http://starwars.wikia.com/wiki/Latoma_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5714.2118181818, Y : -6972.2, Z : -15.375
+Star "Latoma System" // system name
+{
+    RA         0.08727601127810995
+    Dec        24.584831324759293
+    Dist       383000015.4482191
+    Class      "M3 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Laud_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5730.53, Y : -6991.2, Z : -12.2916666667
+Star "Laud System" // system name
+{
+    RA         0.08727584853388837
+    Dec        24.58482848240418
+    Dist       383000012.3653703
+    Class      "K6 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Lazerian
 // Region : Expansion Region
 // Sector : Kira Sector
@@ -1068,6 +1225,19 @@ Star "Lohopa System" // system name
     Class      "M7 IV" // random
 }
 
+// http://starwars.wikia.com/wiki/Lota_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5739.0754545455, Y : -6975.9, Z : 6.125
+Star "Lota System" // system name
+{
+    RA         0.08727576330599014
+    Dec        24.58483077120849
+    Dist       382999993.9486377
+    Class      "M8 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Majoor
 // Region : Expansion Region
 // Sector : Majoor Sector
@@ -1079,6 +1249,32 @@ Star "Majoor System" // system name
     Dec        24.584656989623483
     Dist       382999848.3876268
     Class      "M1 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Mangez_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5735.6209090909, Y : -6998.8, Z : -1
+Star "Mangez System" // system name
+{
+    RA         0.08727579775977452
+    Dec        24.584827345443
+    Dist       383000001.07387626
+    Class      "M6 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Maxca_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5719.2118181818, Y : -6962.5, Z : -20.2916666667
+Star "Maxca System" // system name
+{
+    RA         0.08727596141306568
+    Dec        24.58483277586267
+    Dist       383000020.364838
+    Class      "M5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Mek_va_Uil
@@ -1118,6 +1314,19 @@ Star "Merren System" // system name
     Dec        24.58489531125644
     Dist       382999569.5394226
     Class      "F5 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Mila_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5738.1209090909, Y : -6974.9, Z : 3.9166666667
+Star "Mila System" // system name
+{
+    RA         0.0872757728261507
+    Dec        24.584830920810006
+    Dist       382999996.15694404
+    Class      "M0 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Milagro
@@ -1315,6 +1524,19 @@ Star "Ord Vaug System" // system name
     Class      "M4 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Orma_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5740.1209090909, Y : -6975.7, Z : 4.0416666667
+Star "Orma System" // system name
+{
+    RA         0.08727575287982041
+    Dec        24.5848308011319
+    Dist       382999996.0319841
+    Class      "M0 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Rhommamool
 // Region : Expansion Region
 // Sector : Merthian Sector
@@ -1510,6 +1732,19 @@ Star "Rainos Cluster System" // system name
     Class      "M8 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Ralme_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5747.8027272727, Y : -6982.8, Z : -7.125
+Star "Ralme System" // system name
+{
+    RA         0.08727567626952214
+    Dec        24.584829739011965
+    Dist       383000007.1988559
+    Class      "M6 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Ramordia
 // Region : Expansion Region
 // Sector : Majoor Sector
@@ -1521,6 +1756,19 @@ Star "Ramordia System" // system name
     Dec        24.58462562520567
     Dist       382999919.22385025
     Class      "M5 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Rehn_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5743.8027272727, Y : -7004.4, Z : 0.9583333333
+Star "Rehn System" // system name
+{
+    RA         0.0872757161609352
+    Dec        24.584826507694196
+    Dist       382999999.1157368
+    Class      "M9 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Reytha
@@ -1692,6 +1940,19 @@ Star "Sika System" // system name
     Class      "M6 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Skone_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5739.7118181818, Y : -6998.9, Z : -1
+Star "Skone System" // system name
+{
+    RA         0.08727575696050131
+    Dec        24.584827330483265
+    Dist       383000001.07393885
+    Class      "M6 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Solibus
 // Region : Expansion Region
 // Sector : Chitarghar Sector
@@ -1796,6 +2057,19 @@ Star "Tarmidia System" // system name
     Class      "M3 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Tel_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5723.8936363636, Y : -6949.5, Z : -14.375
+Star "Tel System" // system name
+{
+    RA         0.08727591471968459
+    Dec        24.58483472061679
+    Dist       383000014.4480775
+    Class      "M0 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Terrijo
 // Region : Expansion Region
 // Sector : Venzeiia Sector
@@ -1872,6 +2146,19 @@ Star "Tlactehon System" // system name
     Dec        24.58498702886774
     Dist       383000160.9071752
     Class      "G8 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Torve_system
+// Region : Expansion Region
+// Sector : Brak sector
+// Grid location : O14
+// X : 5746.2118181818, Y : -6955.6, Z : -15.3333333333
+Star "Torve System" // system name
+{
+    RA         0.08727569213713411
+    Dec        24.584833808074883
+    Dist       383000015.4068218
+    Class      "G8 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Trammen
