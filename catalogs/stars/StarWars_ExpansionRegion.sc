@@ -176,12 +176,12 @@ Star "Avhn-Bendara System" // system name
 // Region : Expansion Region
 // Sector : Brak Sector
 // Grid location : O14
-// X : 5736.53, Y : -6989.2, Z : -352.3871879146818
+// X : 5736.53, Y : -6989.2, Z : 0
 Star "Bacrana/Bacrana System" // Star name / system name
 {
-    RA         0.0872757887457584
-    Dec        24.584828782244152
-    Dist       383000352.46095586
+    RA         0.08727578869312
+    Dec        24.584828781575517
+    Dist       383000000.073768
     Class      "G6 V"
 }
 
