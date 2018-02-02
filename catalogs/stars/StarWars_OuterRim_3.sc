@@ -1220,7 +1220,7 @@ Star "Nuswatta System" // system name
 // Sector : Tharin sector
 // Grid location : S8
 // X : 11623.8802370121, Y : 1793.6202746561, Z : -518.7684605945624
-Star "Nwarcol system System" // system name
+Star "Nwarcol System" // system name
 {
     RA         0.08721707338958123
     Dec        24.586142667291792
@@ -2324,7 +2324,7 @@ Star "Reginard System" // system name
 
 // http://starwars.wikia.com/wiki/Reibrin_system
 // Region : "Outer Rim Territories"
-// Sector : Suolriep sector. Ansuroer subsector
+// Sector : Suolriep sector, Ansuroer subsector
 // Grid location : S8
 // X : 11371.8612796385, Y : 1843.559678113, Z : -157.38770244919579
 Star "Reibrin System" // system name

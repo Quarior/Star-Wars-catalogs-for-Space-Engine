@@ -1949,7 +1949,7 @@ Star "K749 System" // system name
 // Sector : Tharin sector
 // Grid location : S8
 // X : 11570.6041706555, Y : 1741.7030730425, Z : -206.81031451432943
-Star "Ka'Dedus/Ka’Dedus System" // Star name / system name
+Star "Ka'Dedus/Ka'Dedus System" // Star name / system name
 {
     RA         0.08721760462537527
     Dec        24.58613490109921
