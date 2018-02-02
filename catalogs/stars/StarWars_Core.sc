@@ -1507,7 +1507,7 @@ Star "Shawken System" // system name
     RA         0.08732871343944613
     Dec        24.585975220609654
     Dist       383000133.9258909
-    Class      "M7 0" // random
+    Class      "G7 V"
 }
 
 // http://starwars.wikia.com/wiki/Shulxi

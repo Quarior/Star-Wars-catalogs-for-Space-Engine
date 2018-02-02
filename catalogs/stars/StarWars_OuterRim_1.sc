@@ -2194,17 +2194,18 @@ Star "Dactruria System" // system name
     Class      "M9 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Dagelin_system
 // http://starwars.wikia.com/wiki/Dagelin_Minor
 // Region : Outer Rim
 // Sector : Cadma Sector
 // Grid location : T8
 // X : 12512.72, Y : 2368.61, Z : 441.9450777928437
-Star "Dagelin Minor System" // system name
+Star "Dagelin System" // system name
 {
     RA         0.08720820855122047
     Dec        24.58622868579476
     Dist       382999558.28575534
-    Class      "M7 Ia" // random
+    Class      "F7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Dagobah

@@ -1759,7 +1759,7 @@ Star "Jagomir System" // system name
     RA         0.08724626142946693
     Dec        24.58691751257332
     Dist       382999820.1894619
-    Class      "M2 Ib" // random
+    Class      "F9 V"
 }
 
 // http://starwars.wikia.com/wiki/Jaguada
@@ -1824,7 +1824,7 @@ Star "Jelucan System" // system name
     RA         0.0872558100217251
     Dec        24.587127712105886
     Dist       382999767.1630382
-    Class      "M7 Ia" // random
+    Class      "G0 VI"
 }
 
 // http://starwars.wikia.com/wiki/Jerne
