@@ -1180,12 +1180,12 @@ Star "Nothoiin System" // system name
 // Region : "Outer Rim Territories"
 // Sector : Tharin sector
 // Grid location : S8
-// X : 11686, Y : 1601, Z : -136.10865018835796
+// X : 11686.8849763555, Y : 1725.8806877889, Z : 427.38157758869556
 Star "Novolek Beacon/Novolek System" // Star name / system name
 {
-    RA         0.08721645374390986
-    Dec        24.586113852408822
-    Dist       383000136.3051164
+    RA         0.08721644474642372
+    Dec        24.5861325350693
+    Dist       382999572.8161532
     Class      "Q"
 }
 
@@ -1193,13 +1193,13 @@ Star "Novolek Beacon/Novolek System" // Star name / system name
 // Region : "Outer Rim Territories"
 // Sector : Tharin sector
 // Grid location : S8
-// X : 11496, Y : 1493, Z : 106.32295889525358
+// X : 11496.4809478986, Y : 1851.965320279, Z : 498.30855455237247
 Star "Novor System" // system name
 {
-    RA         0.08721834857024616
-    Dec        24.586097696245524
-    Dist       382999893.86672014
-    Class      "M8 V" // random
+    RA         0.08721834365633022
+    Dec        24.58615139712577
+    Dist       382999501.8847043
+    Class      "M4 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Nuswatta
@@ -1219,13 +1219,13 @@ Star "Nuswatta System" // system name
 // Region : "Outer Rim Territories"
 // Sector : Tharin sector
 // Grid location : S8
-// X : 11623, Y : 1543, Z : 449.70280535204824
-Star "Nwarcol System" // system name
+// X : 11623.8802370121, Y : 1793.6202746561, Z : -518.7684605945624
+Star "Nwarcol system System" // system name
 {
-    RA         0.08721708187519465
-    Dec        24.58610517660719
-    Dist       382999550.49118334
-    Class      "M1 V" // random
+    RA         0.08721707338958123
+    Dec        24.586142667291792
+    Dist       383000518.96496177
+    Class      "M7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Nyny
@@ -1896,13 +1896,13 @@ Star "Pinperu System" // system name
 // Region : "Outer Rim Territories"
 // Sector : Tharin sector
 // Grid location : S8
-// X : 11237, Y : 1583, Z : 571.7700562435368
+// X : 11237.5129383916, Y : 1746.6475684343, Z : -304.4350360343578
 Star "Pirek System" // system name
 {
-    RA         0.08722093148209484
-    Dec        24.586111160684737
-    Dist       382999428.41279876
-    Class      "M8 V" // random
+    RA         0.0872209266228681
+    Dec        24.586135640634275
+    Dist       383000304.6195277
+    Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Piroket
@@ -2324,15 +2324,15 @@ Star "Reginard System" // system name
 
 // http://starwars.wikia.com/wiki/Reibrin_system
 // Region : "Outer Rim Territories"
-// Sector : Suolriep sector, Ansuroer subsector
+// Sector : Suolriep sector. Ansuroer subsector
 // Grid location : S8
-// X : 11371, Y : 1500, Z : -30.966571873828798
+// X : 11371.8612796385, Y : 1843.559678113, Z : -157.38770244919579
 Star "Reibrin System" // system name
 {
-    RA         0.08721959525570487
-    Dec        24.586098743232434
-    Dist       383000031.15258557
-    Class      "M9 IV" // random
+    RA         0.08721958670346523
+    Dec        24.58615013864444
+    Dist       383000157.57715315
+    Class      "M8 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Rekkiad

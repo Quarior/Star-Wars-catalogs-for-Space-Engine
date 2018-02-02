@@ -97,14 +97,15 @@ Cluster	"Zenox"
 // Sector :
 // Grid location : S12
 // Coordinates are barycenter 1/4 Vontor coords, 1/4 Klatooine coords, 1/2 Tas-la coord 
+// X : 11613.2250237408, Y : 1438.6055055271, Z : 0
 // Based on this map : https://vignette.wikia.nocookie.net/starwars/images/b/b5/Sisar_Run.png/revision/latest?cb=20080330194644
 Cluster "Si'Klaata Cluster"
 {
 	Galaxy     	"Star Wars galaxy"
 	Type       	"Open"	// within galaxy disk
-    RA         0.08721718161939204
-    Dec        24.586094106333125
-    Dist       382999591.9036164
+    RA         0.08721717949866106
+    Dec        24.586089558823566
+    Dist       383000000.19270456
 	Radius		54.202606641 // 3 times cluster center-vontor distance
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter

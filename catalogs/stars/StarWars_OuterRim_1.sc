@@ -58,13 +58,13 @@ Space station "Spice Terminus System" // system name
 // Region : "Outer Rim Territories"
 // Sector : Tharin sector
 // Grid location : S9
-// X : 11561, Y : 1607, Z : -244.51667780116526
+// X : 11561.8020379531, Y : 1598.8071562204, Z : -566.799367737716
 Space Station "Station 3 System" // system name
 {
-    RA         0.08721770042056405
-    Dec        24.58611474983422
-    Dist       383000244.7094089
-    Class      "F7 III" // random
+    RA         0.0872176925187474
+    Dec        24.586113523737843
+    Dist       383000566.99204296
+    Class      "M6 V" // random
 }
 */
 
@@ -2573,13 +2573,13 @@ Star "Din Pulsar"
 // Region : "Outer Rim Territories"
 // Sector : Tharin sector
 // Grid location : S9
-// X : 11506, Y : 1635, Z : -330.11092921987887
+// X : 11506.2096208855, Y : 1631.4408258061, Z : -160.00357781835805
 Star "Dles System" // system name
 {
-    RA         0.08721824896942199
-    Dec        24.58611893843102
-    Dist       383000330.30227834
-    Class      "K2 III" // random
+    RA         0.08721824682787511
+    Dec        24.586118406238516
+    Dist       383000160.19489837
+    Class      "M3 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Dolis

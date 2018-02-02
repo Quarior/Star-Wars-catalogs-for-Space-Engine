@@ -357,13 +357,13 @@ Star "Keldooine System" // system name
 // Region : Hutt Space
 // Sector : Si’Klaata Cluster
 // Grid location : S9
-// X : 11578, Y : 1443, Z : -537.7922352012565
+// X : 11599.6793657504, Y : 1408.4440836374, Z : 431.27333700476834
 Star "Kintan/Kintan System" // Star name / system name
 {
-    RA         0.08721753096544384
-    Dec        24.58609021547741
-    Dist       383000537.983914
-    Class      "M2 V" // random
+    RA         0.08721731446135063
+    Dec        24.58608504735151
+    Dist       382999568.9186774
+    Class      "M5 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Klatooine
@@ -942,13 +942,13 @@ Star "Sleheyron System" // system name
 // Region : Hutt Space
 // Sector : Si’Klaata Cluster
 // Grid location : S9
-// X : 11592, Y : 1495, Z : 590.3602923603366
+// X : 11592.8411374826, Y : 1468.7669274169, Z : -239.44655112793998
 Star "Tas-La System" // system name
 {
-    RA         0.08721739100092649
-    Dec        24.58609799612589
-    Dist       382999409.83229935
-    Class      "M1 V" // random
+    RA         0.08721738286261467
+    Dec        24.586094070555212
+    Dist       383000239.6389204
+    Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Tal_Nami
@@ -1072,26 +1072,26 @@ Star "Usk System" // system name
 // Region : Hutt Space
 // Sector : Si’Klaata Cluster
 // Grid location : S9
-// X : 11572, Y : 1475, Z : -274.8036031350752
+// X : 11572.9205213667, Y : 1445.0333495364, Z : 350.9130754070786
 Star "Vodran System" // system name
 {
-    RA         0.0872175907250478
-    Dec        24.586095002955876
-    Dist       383000274.9954007
-    Class      "M2 III" // random
+    RA         0.08721758135598928
+    Dec        24.586090520902104
+    Dist       382999649.2784693
+    Class      "F2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Vontor
 // Region : Hutt Space
 // Sector : Si’Klaata Cluster
 // Grid location : S9
-// X : 11631, Y : 1468, Z : -430.5996660403126
+// X : 11631.2925592878, Y : 1437.1221569096, Z : 544.4761748559067
 Star "Vontor System" // system name
 {
-    RA         0.08721700235646934
-    Dec        24.586093955556244
-    Dist       383000430.79318494
-    Class      "M7 IV" // random
+    RA         0.08721699914340822
+    Dec        24.586089337677475
+    Dist       382999455.71706444
+    Class      "M1 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Xolu

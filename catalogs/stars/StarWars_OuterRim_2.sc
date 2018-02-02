@@ -1944,16 +1944,16 @@ Star "K749 System" // system name
     Class      "K2 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Af%27El
-// Region : Outer Rim
-// Sector : Tharin sector/Periphery Sector
+// http://starwars.wikia.com/wiki/Ka'Dedus_system
+// Region : "Outer Rim Territories"
+// Sector : Tharin sector
 // Grid location : S8
-// X : 11608.18, Y : 1783.66, Z : -488.44271581204237
-Star "Ka'Dedus/Ka'Dedus System" // Star name / system name
+// X : 11570.6041706555, Y : 1741.7030730425, Z : -206.81031451432943
+Star "Ka'Dedus/Ka’Dedus System" // Star name / system name
 {
-    RA         0.0872172299611107
-    Dec        24.586141177309635
-    Dist       383000488.638639
+    RA         0.08721760462537527
+    Dec        24.58613490109921
+    Dist       383000207.0046742
     Class      "B0 Ia"
 }
 
@@ -2143,13 +2143,13 @@ Star "Karideph System" // system name
 // Region : "Outer Rim Territories"
 // Sector : Tharin sector
 // Grid location : S8
-// X : 11401, Y : 1614, Z : -403.13608551297824
+// X : 11401.0472985991, Y : 1711.0472016136, Z : 343.3138054301261
 Star "Karnst System" // system name
 {
-    RA         0.08721929617154674
-    Dec        24.586115796782853
-    Dist       383000403.3240887
-    Class      "K5 V" // random
+    RA         0.08721929547822614
+    Dec        24.586130315890642
+    Dist       382999656.8751609
+    Class      "G8 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Karra
