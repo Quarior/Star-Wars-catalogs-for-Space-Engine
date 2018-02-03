@@ -2279,7 +2279,7 @@ Star "Raxus System" // system name
     RA         0.08721780838287552
     Dec        24.58679671245093
     Dist       382999425.6633777
-    Class      "G0 Ia" // random
+    Class      "G0 IV"
 }
 
 // http://starwars.wikia.com/wiki/Raydonia
