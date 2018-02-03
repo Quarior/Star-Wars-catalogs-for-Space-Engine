@@ -202,7 +202,8 @@ Star "Basilisk System" // system name
 // Sector : 
 // Grid location : K13
 // X : -179.32, Y : -5015.29, Z : -287.0357198803972
-Star "Binary Matanya A (orange) and Matanya B (yellow)/Belgaroth System" // Star name / system name
+// TODO Binary Matanya A (orange) and Matanya B (yellow)
+Star "Mantanya/Belgaroth System" // Star name / system name
 {
     RA         0.08733478838494035
     Dec        24.585124073575418
@@ -561,17 +562,46 @@ Star "Diamal System" // system name
     Class      "M3 V" // random
 }
 
+
+
+// http://starwars.wikia.com/wiki/Doornik-319
+// Region : Core Worlds
+// Sector : Farlax sector
+// Grid location : K10
+// X : -1391.7, Y : -852.17, Z : 590.0529575824121
+Star "Doornik-319 System/Morning Bell System/Morning's Bell System/Preza System" // system name
+{
+    RA         0.08734687966217476
+    Dec        24.585746865206445
+    Dist       382999409.9517072
+    Class      "M1 III" // random
+}
+
 // http://starwars.wikia.com/wiki/J't'p'tan
+// http://starwars.wikia.com/wiki/Doornik-628_system
 // Region : Core
 // Sector : Farlax
 // Grid location : K10
-// X : -1449.08, Y : -848.4, Z : 146.49643244550896
+// X : -1407.2, Y : -853.97, Z : -10.824051225199128
 Star "Doornik-628/Doornik-628 System" // Star name / system name
 {
-    RA         0.08734745190599368
-    Dec        24.585747428966997
-    Dist       382999853.5084577
+    RA         0.08734703422430841
+    Dec        24.585746595631022
+    Dist       383000010.8287665
     Class      "G1 V"
+}
+
+// http://starwars.wikia.com/wiki/Doornik-1142
+// Region : Core Worlds
+// Sector : Farlax sector
+// Grid location : K10
+// X : -1406.4, Y : -869.07, Z : 96.89002449952432
+Star "Doornik-1142/Doornik-1142 System" // Star name / system name
+{
+    RA         0.08734702624972879
+    Dec        24.585744336764428
+    Dist       382999903.11463785
+    Class      "T9 I" // Brown dwarf star
 }
 
 // http://starwars.wikia.com/wiki/Duro
@@ -899,6 +929,19 @@ Star "Jaciprus System" // system name
     Class      "M6 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Joruna_system
+// Region : Core Worlds
+// Sector : Farlax sector
+// Grid location : K10
+// X : -1426.8, Y : -871.67, Z : -336.0597164116034
+Star "Joruna System" // system name
+{
+    RA         0.0873472296860711
+    Dec        24.585743947598232
+    Dist       383000336.0644457
+    Class      "M7 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Kailor
 // Region : Core
 // Sector : 
@@ -1198,6 +1241,32 @@ Star "Nubus/Nubia System" // Star name / system name
     Class      "M2 III" // random
 }
 
+// http://starwars.wikia.com/wiki/N'zoth_system
+// Region : Core Worlds
+// Sector : Farlax sector
+// Grid location : K10
+// X : -1399.6, Y : -851.27, Z : -445.2373578265225
+Star "C'rel/N’Zoth System" // Star name / system name
+{
+    RA         0.08734695841249504
+    Dec        24.585746999326613
+    Dist       383000445.2420544
+    Class      "M4 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Orooturoo_system
+// Region : Core Worlds
+// Sector : Farlax sector
+// Grid location : K10
+// X : -1379.3, Y : -824.77, Z : -498.24898408849555
+Star "Orooturoo System" // system name
+{
+    RA         0.08734675595576565
+    Dec        24.585750963624342
+    Dist       383000498.25369644
+    Class      "M6 IV" // random
+}
+
 // http://starwars.wikia.com/wiki/Osadia
 // Region : Core
 // Sector : 
@@ -1261,6 +1330,19 @@ Star "Plexis System" // system name
     Dec        24.58517608864169
     Dist       383000399.78855944
     Class      "M7 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Polneye_system
+// Region : Core Worlds
+// Sector : Farlax sector
+// Grid location : K10
+// X : -1415.2, Y : -841.47, Z : 392.4786285372139
+Star "Polneye System" // system name
+{
+    RA         0.08734711402441397
+    Dec        24.585748465800858
+    Dist       382999607.5261582
+    Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Pria
@@ -1666,6 +1748,19 @@ Star "Thebeon System" // system name
     Class      "G0 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Thobek_system
+// Region : Core Worlds
+// Sector : Farlax sector
+// Grid location : K10
+// X : -1401.7, Y : -822.87, Z : 213.0686180452044
+Star "Thobek System" // system name
+{
+    RA         0.0873469793801256
+    Dec        24.585751248222458
+    Dist       382999786.93618214
+    Class      "M9 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Thokos
 // Region : Core
 // Sector : 
@@ -1771,6 +1866,7 @@ Star "Twith System" // system name
 }
 
 // http://starwars.wikia.com/wiki/Galantos
+// http://starwars.wikia.com/wiki/Utos_system
 // Region : Core
 // Sector : Farlax
 // Grid location : K10
@@ -1885,6 +1981,32 @@ Star "Weerden System" // system name
     Dec        24.585914910153033
     Dist       383000466.2801033
     Class      "M6 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Wehttam_system
+// Region : Core Worlds
+// Sector : Farlax sector
+// Grid location : K10
+// X : -1384, Y : -820.37, Z : -475.7563978148319
+Star "Wehttam System" // system name
+{
+    RA         0.08734680283034707
+    Dec        24.585751621863277
+    Dist       383000475.7611422
+    Class      "M7 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Widek_system
+// Region : Core Worlds
+// Sector : Farlax sector
+// Grid location : K10
+// X : -1421.7, Y : -873.57, Z : -323.6061490362994
+Star "Widek System" // system name
+{
+    RA         0.08734717882348268
+    Dec        24.585743663369662
+    Dist       383000323.6108531
+    Class      "M7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Worru'du
