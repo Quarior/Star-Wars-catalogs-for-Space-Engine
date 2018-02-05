@@ -80,6 +80,19 @@ Star "Alsakan System" // system name
     Class      "M0 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Altawar_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2364.0707017544, Y : -2789.2629824561, Z : 401.08420543222144
+Star "Altawar System" // system name
+{
+    RA         0.08730942273010854
+    Dec        24.585457080859687
+    Dist       382999598.92365575
+    Class      "M5 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Andara
 // Region : Core
 // Sector : 
@@ -130,6 +143,19 @@ Star "Atrisian System" // system name
     Dec        24.585230867575692
     Dist       382999737.75502414
     Class      "M1 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Aurea_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2362.0268421053, Y : -2791.7629824561, Z : -241.80786673663238
+Star "Aurea System" // system name
+{
+    RA         0.08730944315340225
+    Dec        24.58545670703179
+    Dist       383000241.8157196
+    Class      "M8 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Anaxes
@@ -393,6 +419,19 @@ Star "Corell/Corellia System" // Star name / system name
     Class      "G6 V"
 }
 
+// http://starwars.wikia.com/wiki/Corfai_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2363.3952631579, Y : -2794.9998245614, Z : -330.9879969101857
+Star "Corfai System" // system name
+{
+    RA         0.08730942951142294
+    Dec        24.585456222832256
+    Dist       383000330.9958638
+    Class      "M6 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Cortina
 // Region : Core
 // Sector : 
@@ -430,6 +469,19 @@ Star "Coruscant Prime/Coruscant System" // Star name / system name
     Dec        24.585874347736027
     Dist       382999443.88510805
     Class      "B7 VI" //"G7 V"
+}
+
+// http://starwars.wikia.com/wiki/Craeen_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2361.0970175439, Y : -2789.2629824561, Z : 157.8587339754414
+Star "Craeen System" // system name
+{
+    RA         0.08730945240210924
+    Dec        24.58545708092219
+    Dist       382999842.1491089
+    Class      "M1 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Cuvacia
@@ -604,17 +656,30 @@ Star "Doornik-1142/Doornik-1142 System" // Star name / system name
     Class      "T9 I" // Brown dwarf star
 }
 
+// http://starwars.wikia.com/wiki/Dorsis_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2360.3075438597, Y : -2787.7366666667, Z : -370.93401121651675
+Star "Dorsis System" // system name
+{
+    RA         0.08730946030815678
+    Dec        24.585457309390627
+    Dist       383000370.94184655
+    Class      "M3 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Duro_system
 // http://starwars.wikia.com/wiki/Duro
 // Region : Core
 // Sector : Duro
 // Grid location : M11
-// X : 2363.665, Y : -2847.82, Z : 321.04138116196566
+// X : 2360.7636842105, Y : -2798.3156140351, Z : 160.6447830601063
 Star "Duro/Duro System/Duros System" // Star name / system name
 {
-    RA         0.0873094267811661
-    Dec        24.58544832089911
-    Dist       382999678.9665826
+    RA         0.08730945572632458
+    Dec        24.58545572667134
+    Dist       382999839.36307335
     Class      "G8 IV" // random
 }
 
@@ -683,6 +748,19 @@ Star "Foerost System" // system name
     Class      "M4 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Forvand_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2362.8864912281, Y : -2797.4735087719, Z : 80.18163072775928
+Star "Forvand System" // system name
+{
+    RA         0.08730943456018157
+    Dec        24.585455852669032
+    Dist       382999919.82623726
+    Class      "M9 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Fresia
 // Region : Core
 // Sector : Torranix
@@ -713,12 +791,12 @@ Star "Frego System" // system name
 // Region : Core Worlds
 // Sector : Corellian sector
 // Grid location : M11
-// X : 2370.54, Y : -2807.07, Z : 452.91183538489463
+// X : 2364.5794736842, Y : -2794.4471929825, Z : -167.87996299566402
 Star "Froz System" // system name
 {
-    RA         0.08730935820752307
-    Dec        24.58545441696084
-    Dist       382999547.0960968
+    RA         0.0873094176910742
+    Dec        24.585456305462152
+    Dist       383000167.8878362
     Class      "M6 III" // random
 }
 
@@ -804,13 +882,39 @@ Star "Glithnos System" // system name
 // Region : Core
 // Sector : Corellian
 // Grid location : M11
-// X : 2317.84, Y : -2704.3, Z : -191.0049670933504
+// X : 2367.1057894737, Y : -2794.2892982456, Z : -218.39369632237708
 Star "Goorla System" // system name
 {
-    RA         0.0873098838323141
-    Dec        24.58546979124129
-    Dist       383000191.0124092
+    RA         0.08730939249885811
+    Dec        24.58545632909585
+    Dist       383000218.4015849
     Class      "M3 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Govia_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2367.0707017544, Y : -2790.2542105263, Z : -509.64946337360936
+Star "Govia System" // system name
+{
+    RA         0.08730939286674544
+    Dec        24.585456932808835
+    Dist       383000509.65734476
+    Class      "M5 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Graland_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2360.5707017544, Y : -2790.6138596491, Z : 130.2688072442578
+Star "Graland System" // system name
+{
+    RA         0.08730945765283663
+    Dec        24.58545687884158
+    Dist       382999869.7390347
+    Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Grizmallt
@@ -960,12 +1064,12 @@ Star "Joruna System" // system name
 // Region : Core Worlds
 // Sector : Corellian sector
 // Grid location : M11
-// X : 2364.915, Y : -2820.32, Z : -343.2782882811287
+// X : 2358.2198245614, Y : -2793.4735087719, Z : 168.36633312227855
 Star "Jumus System" // system name
 {
-    RA         0.08730941435562073
-    Dec        24.585452435008055
-    Dist       383000343.2862093
+    RA         0.08730948109616943
+    Dec        24.585456451035693
+    Dist       382999831.6414992
     Class      "M8 V" // random
 }
 
@@ -1006,6 +1110,32 @@ Star "Karvoss System" // system name
     Dec        24.58541383113118
     Dist       382999480.7689536
     Class      "M5 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Keral_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2365.5443859649, Y : -2789.1752631579, Z : -220.27377887651454
+Star "Keral System" // system name
+{
+    RA         0.08730940807108534
+    Dec        24.585457094141923
+    Dist       383000220.281649
+    Class      "K1 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Khomr_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2362.9128070176, Y : -2792.622631579, Z : -299.39801709918225
+Star "Khomr System" // system name
+{
+    RA         0.08730943432108527
+    Dec        24.585456578445527
+    Dist       383000299.40587693
+    Class      "M3 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Kidiet_Olgo
@@ -1246,12 +1376,12 @@ Star "Rydo/Namaryne System/Rydonni Prime System" // Star name / system name
 // Region : Core Worlds
 // Sector : Corellian sector
 // Grid location : M11
-// X : 2364.165, Y : -2834.195, Z : 532.5022483915786
+// X : 2361.6671929825, Y : -2795.1401754386, Z : -248.07002353085454
 Star "Pym/New Plympto/New Plympto System" // Star name x2 / system name
 {
-    RA         0.08730942178156612
-    Dec        24.585450359106467
-    Dist       382999467.50569314
+    RA         0.08730944674062179
+    Dec        24.585456201814658
+    Dist       383000248.07787997
     Class      "M9 III" // random
 }
 
@@ -1273,12 +1403,12 @@ Star "Norkronia System" // system name
 // Region : Core
 // Sector : Corellian sector, Outlier systems
 // Grid location : M11
-// X : 2379.54, Y : -2821.32, Z : 19.07605683902011
-Star "Nubus/Nubus System/Nubia System" // Star name / system name
+// X : 2366.3514035088, Y : -2798.2103508772, Z : 115.84593118511225
+Star "Nubus/Nubus System" // Star name / system name
 {
-    RA         0.08730926847589705
-    Dec        24.585452285313202
-    Dist       382999980.9319565
+    RA         0.08730940000186707
+    Dec        24.585455742430103
+    Dist       382999884.1619595
     Class      "M2 III" // random
 }
 
@@ -1360,6 +1490,19 @@ Star "Perma System" // system name
     Class      "M6 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Phemis_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2366.5443859649, Y : -2791.5173684211, Z : -270.1505269623133
+Star "Phemis System" // system name
+{
+    RA         0.08730939810100896
+    Dec        24.585456743782277
+    Dist       383000270.1584072
+    Class      "M2 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Plexis
 // Region : Core
 // Sector : 
@@ -1371,6 +1514,32 @@ Star "Plexis System" // system name
     Dec        24.58517608864169
     Dist       383000399.78855944
     Class      "M7 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Plympto_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2362.2636842105, Y : -2793.122631579, Z : 60.42314496283848
+Star "Plympto/Plympto System" // Star name / system name
+{
+    RA         0.08730944077274962
+    Dec        24.58545650355391
+    Dist       382999939.58471173
+    Class      "M8 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Polanis_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2364.8601754386, Y : -2792.4296491228, Z : -235.3875384579947
+Star "Polanis System" // system name
+{
+    RA         0.08730941489575023
+    Dec        24.585456607298635
+    Dist       383000235.39540994
+    Class      "K4 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Polneye_system
@@ -1529,16 +1698,29 @@ Star "Ruul System" // system name
     Class      "M4 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Saberhing_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2362.0619298246, Y : -2788.2805263158, Z : 285.8608841784337
+Star "Saberhing System" // system name
+{
+    RA         0.08730944277101181
+    Dec        24.58545722786223
+    Dist       382999714.1469629
+    Class      "M3 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Sacorria
 // Region : Core
 // Sector : 
 // Grid location : M11
-// X : 2278.13, Y : -2768.18, Z : -562.9523127781035
+// X : 2359.6935087719, Y : -2792.57, Z : 498.3656518019627
 Star "Sacorria/Sacorrian System" // Star name / system name
 {
-    RA         0.08731027988819398
-    Dec        24.58546023506078
-    Dist       383000562.95961744
+    RA         0.0873094663786039
+    Dec        24.585456586113033
+    Dist       382999501.64218813
     Class      "F4 III" // random
 }
 
@@ -1659,6 +1841,19 @@ Star "Shumogi System" // system name
     Class      "M7 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Sileria_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2366.29, Y : -2795.2278947369, Z : -264.12681245020644
+Star "Sileria System" // system name
+{
+    RA         0.08730940063766685
+    Dec        24.585456188696256
+    Dist       383000264.1346976
+    Class      "M9 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Skako
 // Region : Core
 // Sector : 
@@ -1728,12 +1923,12 @@ Star "Sz Fel System/Xa Fel System" // system name
 // Region : Core Worlds
 // Sector : Corellian sector
 // Grid location : M11
-// X : 2330.165, Y : -2834.82, Z : -400.4556503804862
+// X : 2367.5356140351, Y : -2796.3068421053, Z : 547.4827784716038
 Star "Talfaglio System" // system name
 {
-    RA         0.08730976092594009
-    Dec        24.585450265864345
-    Dist       383000400.46338475
+    RA         0.08730938816493725
+    Dec        24.585456027077925
+    Dist       382999452.52511626
     Class      "M7 III" // random
 }
 
@@ -1787,6 +1982,19 @@ Star "Tepasi System" // system name
     Dec        24.585914909110485
     Dist       382999983.0949795
     Class      "G0 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Tanthior_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2364.2110526316, Y : -2793.4384210526, Z : -3.623369974847151
+Star "Tanthior System" // system name
+{
+    RA         0.08730942135528098
+    Dec        24.5854564563292
+    Dist       383000003.63123924
+    Class      "M0 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Thebeon
@@ -1906,6 +2114,19 @@ Star "Trellen System" // system name
     Class      "M4 IV" // random
 }
 
+// http://starwars.wikia.com/wiki/Truuzdann_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2365.0794736842, Y : -2795.5875438597, Z : -132.86397281433153
+Star "Truuzdann System" // system name
+{
+    RA         0.08730941270234205
+    Dec        24.58545613485969
+    Dist       383000132.87185115
+    Class      "M8 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Twith
 // Region : Core
 // Sector : 
@@ -1946,6 +2167,19 @@ Star "Utrost System" // system name
     Class      "M8 II" // random
 }
 
+// http://starwars.wikia.com/wiki/Vagran_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2361.3250877193, Y : -2792.8068421053, Z : 360.06410128209257
+Star "Vagran System" // system name
+{
+    RA         0.08730945011509574
+    Dec        24.58545655071777
+    Dist       382999639.94374907
+    Class      "M7 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Pollillus
 // Region : Core
 // Sector : Vannell
@@ -1959,6 +2193,19 @@ Star "Vannell System" // system name
     Class      "M1 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Vasar_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2362.1233333333, Y : -2789.6050877193, Z : -596.2906146343208
+Star "Vasar System" // system name
+{
+    RA         0.08730944221288453
+    Dec        24.585457029938027
+    Dist       383000596.2984643
+    Class      "M1 Iab" // random
+}
+
 // http://starwars.wikia.com/wiki/Velusia
 // Region : Core
 // Sector : 
@@ -1970,6 +2217,19 @@ Star "Velus/Velus System/Velusia System" // Star name / system name
     Dec        24.585954880073274
     Dist       382999936.159738
     Class      "M2 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Velx-Shel_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2359.1233333333, Y : -2790.4033333333, Z : 262.2732982929118
+Star "Velx-shel System" // system name
+{
+    RA         0.08730947207956304
+    Dec        24.585456910301787
+    Dist       382999737.7345343
+    Class      "M0 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Voktunma
@@ -2100,6 +2360,19 @@ Star "Xorth System" // system name
     Dec        24.58581070141644
     Dist       382999505.06058687
     Class      "K6 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Xyquine_system
+// Region : Core Worlds
+// Sector : Corellian sector
+// Grid location : M11
+// X : 2360.6671929825, Y : -2795.7103508772, Z : -447.94827050045615
+Star "Xyquine System" // system name
+{
+    RA         0.08730945672605767
+    Dec        24.585456116569855
+    Dist       383000447.9561218
+    Class      "M2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Yulant
