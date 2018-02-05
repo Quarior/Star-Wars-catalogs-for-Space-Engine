@@ -870,7 +870,7 @@ Star "Drearia System" // system name
     RA         0.08732112398306885
     Dec        24.586194109174105
     Dist       383000544.3973277
-    Class      "M4 Iab" // random
+    Class      "F4 V"
 }
 
 // http://starwars.wikia.com/wiki/Dreena
@@ -2755,7 +2755,7 @@ Star "Unnamed Hapes Cluster 7 System" // system name
     RA         0.08728028050239524
     Dec        24.586018159682443
     Dist       382999997.71808535
-    Class      "M5 III" // random
+    Class      "M5 IV" // random
 }
 
 // 
@@ -2768,7 +2768,7 @@ Star "Unnamed Hapes Cluster 8 System" // system name
     RA         0.08728247708988272
     Dec        24.585970110514516
     Dist       382999997.18918747
-    Class      "M5 III" // random
+    Class      "M5 IV" // random
 }
 
 // 
@@ -2781,7 +2781,7 @@ Star "Unnamed Hapes Cluster 9 System" // system name
     RA         0.08728138094009301
     Dec        24.5860015020217
     Dist       382999995.42316914
-    Class      "M0 III" // random
+    Class      "M0 V" // random
 }
 
 // 
@@ -2794,7 +2794,7 @@ Star "Unnamed Hapes Cluster 10 System" // system name
     RA         0.08728271395224053
     Dec        24.58599426300532
     Dist       382999996.49052995
-    Class      "M9 III" // random
+    Class      "M9 IV" // random
 }
 
 // 
@@ -2820,7 +2820,7 @@ Star "Unnamed Hapes Cluster 12 System" // system name
     RA         0.08727937872970397
     Dec        24.586010177168124
     Dist       382999998.09530705
-    Class      "M2 III" // random
+    Class      "M2 IV" // random
 }
 
 // 
@@ -2846,7 +2846,7 @@ Star "Unnamed Hapes Cluster 14 System" // system name
     RA         0.0872825298487295
     Dec        24.58596825699654
     Dist       383000003.6600666
-    Class      "M9 III" // random
+    Class      "M9 IV" // random
 }
 
 // 
@@ -2872,7 +2872,7 @@ Star "Unnamed Hapes Cluster 16 System" // system name
     RA         0.08728152654828383
     Dec        24.5859770368722
     Dist       382999996.2835713
-    Class      "G6 III" // random
+    Class      "G6 IV" // random
 }
 
 // 
@@ -2898,7 +2898,7 @@ Star "Unnamed Hapes Cluster 18 System" // system name
     RA         0.08727965368996701
     Dec        24.586001458632364
     Dist       383000000.67163783
-    Class      "M3 III" // random
+    Class      "M3 IV" // random
 }
 
 // 
@@ -2911,7 +2911,7 @@ Star "Unnamed Hapes Cluster 19 System" // system name
     RA         0.08728265381491258
     Dec        24.585985689575093
     Dist       383000002.58731234
-    Class      "M6 III" // random
+    Class      "M6 V" // random
 }
 
 // 
@@ -2976,7 +2976,7 @@ Star "Unnamed Hapes Cluster 24 System" // system name
     RA         0.08728252087190867
     Dec        24.58599465345468
     Dist       382999996.21995544
-    Class      "M7 III" // random
+    Class      "M7 V" // random
 }
 
 // 
@@ -3002,7 +3002,7 @@ Star "Unnamed Hapes Cluster 26 System" // system name
     RA         0.0872828739224546
     Dec        24.58596977690664
     Dist       383000002.56439644
-    Class      "G0 III" // random
+    Class      "G0 IV" // random
 }
 
 // 
@@ -3041,7 +3041,7 @@ Star "Unnamed Hapes Cluster 29 System" // system name
     RA         0.087281741968593
     Dec        24.585987529628206
     Dist       382999997.3589833
-    Class      "K5 III" // random
+    Class      "K5 V" // random
 }
 
 // 
@@ -3171,7 +3171,7 @@ Star "Unnamed Hapes Cluster 39 System" // system name
     RA         0.08727955216363485
     Dec        24.585983942277224
     Dist       383000003.4850468
-    Class      "G2 III" // random
+    Class      "G2 VI" // random
 }
 
 // 
@@ -3249,7 +3249,7 @@ Star "Unnamed Hapes Cluster 45 System" // system name
     RA         0.08728176410887428
     Dec        24.585992683257516
     Dist       382999996.42841345
-    Class      "M9 II" // random
+    Class      "M9 IV" // random
 }
 
 // 
@@ -3262,7 +3262,7 @@ Star "Unnamed Hapes Cluster 46 System" // system name
     RA         0.08728258260591461
     Dec        24.585996732856163
     Dist       382999997.52294666
-    Class      "M1 III" // random
+    Class      "M1 V" // random
 }
 
 // 
@@ -3275,7 +3275,7 @@ Star "Unnamed Hapes Cluster 47 System" // system name
     RA         0.08727983460357182
     Dec        24.5860159037462
     Dist       383000004.71126723
-    Class      "K5 III" // random
+    Class      "K5 V" // random
 }
 
 // 
@@ -3301,7 +3301,7 @@ Star "Unnamed Hapes Cluster 49 System" // system name
     RA         0.08728016052528867
     Dec        24.58601782308881
     Dist       382999997.4083021
-    Class      "M0 III" // random
+    Class      "M0 IV" // random
 }
 
 // 
@@ -3314,7 +3314,7 @@ Star "Unnamed Hapes Cluster 50 System" // system name
     RA         0.08728062148529869
     Dec        24.585972516033483
     Dist       383000002.8919888
-    Class      "M6 III" // random
+    Class      "M6 V" // random
 }
 
 // 
@@ -3340,7 +3340,7 @@ Star "Unnamed Hapes Cluster 52 System" // system name
     RA         0.08727960831255481
     Dec        24.58601008141897
     Dist       383000003.87262625
-    Class      "M9 III" // random
+    Class      "M9 VI" // random
 }
 
 // 
@@ -3353,7 +3353,7 @@ Star "Unnamed Hapes Cluster 53 System" // system name
     RA         0.08728280002111553
     Dec        24.585976221561957
     Dist       383000000.6132602
-    Class      "M6 III" // random
+    Class      "M6 V" // random
 }
 
 // 
@@ -3366,7 +3366,7 @@ Star "Unnamed Hapes Cluster 54 System" // system name
     RA         0.08727945951197659
     Dec        24.585999774171754
     Dist       382999996.02752376
-    Class      "M8 II" // random
+    Class      "M8 IV" // random
 }
 
 // 
@@ -3392,7 +3392,7 @@ Star "Unnamed Hapes Cluster 56 System" // system name
     RA         0.08727992695438473
     Dec        24.58601566589171
     Dist       383000000.32530826
-    Class      "B8 III" // random
+    Class      "B8 V" // random
 }
 
 // 
@@ -3405,7 +3405,7 @@ Star "Unnamed Hapes Cluster 57 System" // system name
     RA         0.08728182743888124
     Dec        24.585996577272162
     Dist       382999999.9286898
-    Class      "M8 III" // random
+    Class      "M8 V" // random
 }
 
 // 
@@ -3444,7 +3444,7 @@ Star "Unnamed Hapes Cluster 60 System" // system name
     RA         0.0872799362294394
     Dec        24.58601329028585
     Dist       383000000.46863925
-    Class      "M2 III" // random
+    Class      "M2 IV" // random
 }
 
 // 
@@ -3457,7 +3457,7 @@ Star "Unnamed Hapes Cluster 61 System" // system name
     RA         0.08728090023490807
     Dec        24.58596997886341
     Dist       383000002.22692484
-    Class      "M6 III" // random
+    Class      "M6 V" // random
 }
 
 // 
@@ -3535,7 +3535,7 @@ Star "Unnamed Hapes Cluster 67 System" // system name
     RA         0.08727989224717488
     Dec        24.585978805113267
     Dist       382999995.79422617
-    Class      "M6 III" // random
+    Class      "M6 V" // random
 }
 
 // 
@@ -3587,7 +3587,7 @@ Star "Unnamed Hapes Cluster 71 System" // system name
     RA         0.08727949002985794
     Dec        24.585981825483053
     Dist       382999996.2025043
-    Class      "M9 III" // random
+    Class      "M9 VI" // random
 }
 
 // 
@@ -3613,7 +3613,7 @@ Star "Unnamed Hapes Cluster 73 System" // system name
     RA         0.08728190024284731
     Dec        24.585991674968078
     Dist       382999999.3994428
-    Class      "K8 II" // random
+    Class      "K8 VI" // random
 }
 
 // 
@@ -3626,7 +3626,7 @@ Star "Unnamed Hapes Cluster 74 System" // system name
     RA         0.08728063205657555
     Dec        24.58597055331858
     Dist       383000000.9309873
-    Class      "M6 III" // random
+    Class      "M6 V" // random
 }
 
 // 
@@ -3652,7 +3652,7 @@ Star "Unnamed Hapes Cluster 76 System" // system name
     RA         0.08727918245800766
     Dec        24.585996260127853
     Dist       382999998.1580712
-    Class      "A7 III" // random
+    Class      "A7 V" // random
 }
 
 // 
@@ -3678,7 +3678,7 @@ Star "Unnamed Hapes Cluster 78 System" // system name
     RA         0.08728103527125286
     Dec        24.585973845955984
     Dist       383000000.8808503
-    Class      "M1 III" // random
+    Class      "M1 IV" // random
 }
 
 // 
@@ -3691,7 +3691,7 @@ Star "Unnamed Hapes Cluster 79 System" // system name
     RA         0.08727971123567742
     Dec        24.58600948751622
     Dist       383000004.99945235
-    Class      "M0 III" // random
+    Class      "M0 V" // random
 }
 
 // 
@@ -3704,7 +3704,7 @@ Star "Unnamed Hapes Cluster 80 System" // system name
     RA         0.08728270397901369
     Dec        24.58597215251951
     Dist       382999995.94836956
-    Class      "M0 III" // random
+    Class      "M0 VI" // random
 }
 
 // 
@@ -3730,7 +3730,7 @@ Star "Unnamed Hapes Cluster 82 System" // system name
     RA         0.08728172451545405
     Dec        24.585997409037315
     Dist       382999996.4904803
-    Class      "K7 III" // random
+    Class      "K7 IV" // random
 }
 
 // 
@@ -3769,7 +3769,7 @@ Star "Unnamed Hapes Cluster 85 System" // system name
     RA         0.0872803162068321
     Dec        24.586015704785442
     Dist       383000001.6380165
-    Class      "M5 III" // random
+    Class      "M5 VI" // random
 }
 
 // 
@@ -3782,7 +3782,7 @@ Star "Unnamed Hapes Cluster 86 System" // system name
     RA         0.08728234933385033
     Dec        24.585968780593433
     Dist       382999997.893211
-    Class      "M7 III" // random
+    Class      "M7 V" // random
 }
 
 // 
@@ -3808,7 +3808,7 @@ Star "Unnamed Hapes Cluster 88 System" // system name
     RA         0.08728175134362358
     Dec        24.58600755023743
     Dist       382999999.33417416
-    Class      "F8 III" // random
+    Class      "F8 IV" // random
 }
 
 // 
@@ -3821,7 +3821,7 @@ Star "Unnamed Hapes Cluster 89 System" // system name
     RA         0.08728234933378838
     Dec        24.58601043447633
     Dist       382999997.4268901
-    Class      "K2 III" // random
+    Class      "K2 VI" // random
 }
 
 // 
@@ -3847,7 +3847,7 @@ Star "Unnamed Hapes Cluster 91 System" // system name
     RA         0.08727988636343642
     Dec        24.586009746326898
     Dist       382999998.8494646
-    Class      "K8 Iab" // random
+    Class      "K8 V"
 }
 
 // 
@@ -3860,7 +3860,7 @@ Star "Unnamed Hapes Cluster 92 System" // system name
     RA         0.08728188279023341
     Dec        24.585986687389457
     Dist       383000002.460698
-    Class      "G1 III" // random
+    Class      "G1 V" // random
 }
 
 // 
@@ -3873,7 +3873,7 @@ Star "Unnamed Hapes Cluster 93 System" // system name
     RA         0.08728106429369949
     Dec        24.586007090966884
     Dist       383000005.0387806
-    Class      "M9 III" // random
+    Class      "M9 IV" // random
 }
 
 // 
@@ -3899,7 +3899,7 @@ Star "Unnamed Hapes Cluster 95 System" // system name
     RA         0.08728170556675144
     Dec        24.58599446346324
     Dist       382999998.6810758
-    Class      "M0 III" // random
+    Class      "M0 V" // random
 }
 
 // 
@@ -3912,7 +3912,7 @@ Star "Unnamed Hapes Cluster 96 System" // system name
     RA         0.08728018775302152
     Dec        24.58597771603474
     Dist       383000004.7858698
-    Class      "M0 III" // random
+    Class      "M0 VI" // random
 }
 
 // 
@@ -3964,7 +3964,7 @@ Star "Unnamed Hapes Cluster 100 System" // system name
     RA         0.087279859435818
     Dec        24.585971914657364
     Dist       382999998.141595
-    Class      "M1 III" // random
+    Class      "M1 IV" // random
 }
 
 // 
@@ -3977,7 +3977,7 @@ Star "Unnamed Hapes Cluster 101 System" // system name
     RA         0.08728127961390439
     Dec        24.585971242959637
     Dist       383000003.37885004
-    Class      "M2 III" // random
+    Class      "M2 V" // random
 }
 
 // 
@@ -4003,7 +4003,7 @@ Star "Unnamed Hapes Cluster 103 System" // system name
     RA         0.08728213431257875
     Dec        24.586008753002012
     Dist       382999997.6436783
-    Class      "M7 III" // random
+    Class      "M7 VI" // random
 }
 
 // 
@@ -4016,7 +4016,7 @@ Star "Unnamed Hapes Cluster 104 System" // system name
     RA         0.08727952443804875
     Dec        24.586001175891905
     Dist       383000001.9567215
-    Class      "M3 II" // random
+    Class      "M3 IV" // random
 }
 
 // 
@@ -4029,7 +4029,7 @@ Star "Unnamed Hapes Cluster 105 System" // system name
     RA         0.08728200157037375
     Dec        24.58598771961228
     Dist       383000001.3842794
-    Class      "G2 III" // random
+    Class      "G2 V" // random
 }
 
 // 
@@ -4042,7 +4042,7 @@ Star "Unnamed Hapes Cluster 106 System" // system name
     RA         0.08727954757495116
     Dec        24.585991317434218
     Dist       382999996.0899837
-    Class      "M4 II" // random
+    Class      "M4 IV" // random
 }
 
 // 
@@ -4055,7 +4055,7 @@ Star "Unnamed Hapes Cluster 107 System" // system name
     RA         0.08728236519196235
     Dec        24.585966674256486
     Dist       383000003.90168273
-    Class      "M5 III" // random
+    Class      "M5 VI" // random
 }
 
 // 
@@ -4068,7 +4068,7 @@ Star "Unnamed Hapes Cluster 108 System" // system name
     RA         0.08727974384719599
     Dec        24.58600345276567
     Dist       382999999.9638782
-    Class      "K2 III" // random
+    Class      "K2 V" // random
 }
 
 // 
