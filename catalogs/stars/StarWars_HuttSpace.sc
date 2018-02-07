@@ -935,7 +935,7 @@ Star "Sleheyron System" // system name
     RA         0.08721784246157332
     Dec        24.585823564968166
     Dist       382999990.7019858
-    Class      "M4 Ib" // random
+    Class      "F4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Tas-La
@@ -974,7 +974,7 @@ Star "Terman System" // system name
     RA         0.0872175598499318
     Dec        24.586111977552612
     Dist       383000413.1620845
-    Class      "M9 III" // random
+    Class      "M9 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/The_Godsheart
@@ -982,7 +982,7 @@ Star "Terman System" // system name
 // Sector : Hutt Space Sector
 // Grid location : T11
 // X : 12450.56, Y : -1989.26, Z : 373.1694868382597
-Star "The Godsheart System" // system name
+Star "The Godsheart"
 {
     RA         0.08720882850559124
     Dec        24.585576759298068

@@ -2718,6 +2718,7 @@ Star "The Maw Central Black Hole/The Maw System" // system name
     Dec        24.585852891594545
     Dist       383000552.24659705
     Class      "X"
+    AccretionDisk {}
 }
 
 // http://starwars.wikia.com/wiki/Vallusk_Cluster

@@ -337,7 +337,7 @@ Star "Andalia System" // system name
     RA         0.08728294014406844
     Dec        24.585977885083352
     Dist       383000001.49691755
-    Class      "M5 III" // random
+    Class      "M5 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Aphran
@@ -974,7 +974,7 @@ Star "Febrini System" // system name
     RA         0.08728098580452552
     Dec        24.58600882779576
     Dist       383000001.80192
-    Class      "M4 II" // random
+    Class      "M4 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Fennesa
@@ -1000,7 +1000,7 @@ Star "Gallinore System" // system name
     RA         0.08728121837766403
     Dec        24.585998514562778
     Dist       382999995.5039171
-    Class      "M0 II" // random
+    Class      "M0 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Gendrah-Narvin_system
@@ -1065,7 +1065,7 @@ Star "Hapes System" // system name
     RA         0.08728054489070247
     Dec        24.585994122382857
     Dist       382999997.33670974
-    Class      "M4 III" // random
+    Class      "F4 V"
 }
 
 // http://starwars.wikia.com/wiki/Harrin
@@ -1091,7 +1091,7 @@ Star "Harterra System" // system name
     RA         0.08728065688948883
     Dec        24.585991169329375
     Dist       382999999.1439641
-    Class      "M3 III" // random
+    Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Heptalia
@@ -1273,7 +1273,7 @@ Star "k'Farri System" // system name
     RA         0.08728101542426868
     Dec        24.58596937299888
     Dist       382999997.90140814
-    Class      "G5 III" // random
+    Class      "G5 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Ket
@@ -1286,7 +1286,7 @@ Star "Ket System" // system name
     RA         0.08728265082295217
     Dec        24.585991531351127
     Dist       383000002.4831485
-    Class      "G3 Ib" // random
+    Class      "G3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Ketal
@@ -1468,7 +1468,7 @@ Star "Lovola System" // system name
     RA         0.08728248985599077
     Dec        24.585998893037974
     Dist       383000000.7443014
-    Class      "G5 III" // random
+    Class      "G5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Maires
@@ -1481,7 +1481,7 @@ Star "Maires System" // system name
     RA         0.08728244766904861
     Dec        24.586002851387832
     Dist       382999997.00465345
-    Class      "M9 III" // random
+    Class      "M9 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Manaan
@@ -1572,7 +1572,7 @@ Star "Millinar System" // system name
     RA         0.08728099458108539
     Dec        24.585994557704446
     Dist       383000003.14802027
-    Class      "M6 III" // random
+    Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Milvayne
@@ -1650,7 +1650,7 @@ Star "Nantuker System" // system name
     RA         0.08728152475410295
     Dec        24.585975033755812
     Dist       383000003.62836546
-    Class      "M7 III" // random
+    Class      "M7 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Neshtab
@@ -1702,7 +1702,7 @@ Star "Novi System" // system name
     RA         0.08728127751848311
     Dec        24.585996614676553
     Dist       382999995.5412668
-    Class      "M6 III" // random
+    Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Obroa-skai
@@ -1754,7 +1754,7 @@ Star "Orelon System" // system name
     RA         0.08728043887623249
     Dec        24.586019351972123
     Dist       382999998.6197116
-    Class      "M4 III" // random
+    Class      "M4 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Pa_Tho_(planet)
@@ -1871,7 +1871,7 @@ Star "Phelope System" // system name
     RA         0.08728087759537734
     Dec        24.586004315943665
     Dist       382999998.79410493
-    Class      "M0 III" // random
+    Class      "M0 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Pitrolea
@@ -1936,7 +1936,7 @@ Star "Rainboh System" // system name
     RA         0.08727974225204438
     Dec        24.586016915025102
     Dist       383000003.9436055
-    Class      "G2 III" // random
+    Class      "G2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Rasterous
@@ -1962,7 +1962,7 @@ Star "Rbollea System" // system name
     RA         0.08728031700430229
     Dec        24.585998357481696
     Dist       382999998.8580558
-    Class      "M7 II" // random
+    Class      "M7 VI" // random
 }
 
 // http://starwars.wikia.com/wiki/Reboam
@@ -1975,7 +1975,7 @@ Star "Reboam System" // system name
     RA         0.08727912351759752
     Dec        24.585994785090453
     Dist       383000004.84283954
-    Class      "M5 III" // random
+    Class      "M5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Reecee
@@ -2079,7 +2079,7 @@ Star "Rynmar System" // system name
     RA         0.08728010327921046
     Dec        24.586014508013253
     Dist       382999996.22003084
-    Class      "M3 III" // random
+    Class      "M3 VI" // random
 }
 
 // http://starwars.wikia.com/wiki/Sagar_system
@@ -2183,7 +2183,7 @@ Star "Maad System" // system name
     RA         0.08727938740654372
     Dec        24.58600788533529
     Dist       382999999.4828399
-    Class      "M6 III" // random
+    Class      "M6 VI" // random
 }
 
 // http://starwars.wikia.com/wiki/Shibric
@@ -2248,7 +2248,7 @@ Star "Stalsinek System" // system name
     RA         0.08728187730422894
     Dec        24.585979747575486
     Dist       382999996.70015156
-    Class      "M5 III" // random
+    Class      "M5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Sukkult
@@ -2365,7 +2365,7 @@ Star "Thrakia System" // system name
     RA         0.08728038452208092
     Dec        24.585988255177593
     Dist       382999995.322112
-    Class      "K0 III" // random
+    Class      "K0 VI" // random
 }
 
 // http://starwars.wikia.com/wiki/Tinta
@@ -2378,7 +2378,7 @@ Star "Tinta System" // system name
     RA         0.08728039300033316
     Dec        24.585999307419854
     Dist       383000003.11115
-    Class      "M8 III" // random
+    Class      "M8 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Tirahnn
@@ -2651,7 +2651,7 @@ Star "Zadaria System" // system name
     RA         0.0872808723094823
     Dec        24.586006413299376
     Dist       382999997.89413375
-    Class      "K2 II" // random
+    Class      "K2 VI" // random
 }
 
 // http://starwars.wikia.com/wiki/Zalori
@@ -2664,7 +2664,7 @@ Star "Zalori System" // system name
     RA         0.08727979899877403
     Dec        24.58601224011293
     Dist       383000000.15867233
-    Class      "K9 III" // random
+    Class      "K9 V" // random
 }
 
 // 
