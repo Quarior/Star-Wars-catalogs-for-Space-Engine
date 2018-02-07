@@ -343,7 +343,7 @@ Star "Rhigar System" // system name
     RA         0.08742324929890176
     Dec        24.58606419687002
     Dist       382999920.04623353
-    Class      "K9 Ib" // random
+    Class      "A9 VI"
 }
 
 // http://starwars.wikia.com/wiki/Thearterra

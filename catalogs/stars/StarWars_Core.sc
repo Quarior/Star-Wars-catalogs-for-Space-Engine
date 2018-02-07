@@ -1396,7 +1396,7 @@ Star "Norkronia System" // system name
     RA         0.08733799964991192
     Dec        24.585859024456692
     Dist       382999446.41670775
-    Class      "M7 Ib" // random
+    Class      "M7 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Nubia
@@ -2191,7 +2191,7 @@ Star "Vasar System" // system name
     RA         0.08730944221288453
     Dec        24.585457029938027
     Dist       383000596.2984643
-    Class      "M1 Iab" // random
+    Class      "F1 VI"
 }
 
 // http://starwars.wikia.com/wiki/Velusia

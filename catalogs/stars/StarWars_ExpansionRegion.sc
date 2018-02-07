@@ -1638,7 +1638,7 @@ Star "Plynn System" // system name
     RA         0.0873007165908334
     Dec        24.58457786630231
     Dist       382999941.196429
-    Class      "M6 Iab" // random
+    Class      "K6 VI"
 }
 
 // http://starwars.wikia.com/wiki/Poviduze

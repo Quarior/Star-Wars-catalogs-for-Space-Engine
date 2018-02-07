@@ -987,7 +987,7 @@ Star "Contruum System" // system name
     RA         0.08727356882962622
     Dec        24.586186743258594
     Dist       383000394.68536884
-    Class      "M7 Ib" // random
+    Class      "G7 V"
 }
 
 // http://starwars.wikia.com/wiki/Crovna
@@ -3405,7 +3405,7 @@ Star "Patitite Pattuna System" // system name
     RA         0.08732942820997876
     Dec        24.586378486736223
     Dist       382999567.0698283
-    Class      "M1 III" // random
+    Class      "F1 V"
 }
 
 // http://starwars.wikia.com/wiki/Peg_Shar
@@ -3418,7 +3418,7 @@ Star "Peg Shar System" // system name
     RA         0.08722945227549354
     Dec        24.58612337659071
     Dist       383000592.9194176
-    Class      "M3 Ib" // random
+    Class      "G3 V"
 }
 
 // http://starwars.wikia.com/wiki/Pesmenben
@@ -3613,7 +3613,7 @@ Star "Rago System" // system name
     RA         0.08737139887383019
     Dec        24.586444638448796
     Dist       382999698.0339311
-    Class      "K6 Ia" // random
+    Class      "K6 V"
 }
 
 // http://starwars.wikia.com/wiki/Rakhuuun
@@ -4731,7 +4731,7 @@ Star "Vicondor System" // system name
     RA         0.08735160083008704
     Dec        24.586340520872398
     Dist       383000059.3965468
-    Class      "M9 Ib" // random
+    Class      "F9 IV"
 }
 
 // http://starwars.wikia.com/wiki/Vogel

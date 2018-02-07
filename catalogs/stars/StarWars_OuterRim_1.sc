@@ -836,7 +836,7 @@ Star "Azzameen Station System" // system name
     RA         0.0873007885437048
     Dec        24.584113075371565
     Dist       383000493.0581477
-    Class      "M8 Ib" // random
+    Class      "M8 IV"
 }
 
 // http://starwars.wikia.com/wiki/B-Foroon
@@ -1347,6 +1347,7 @@ Star "Bosph System" // system name
 }
 
 // http://starwars.wikia.com/wiki/Bosthirda
+// http://starwars.wikia.com/wiki/Bosthirda%27s_sun
 // Region : Outer Rim
 // Sector : Sith Worlds Sector
 // Grid location : R5
@@ -1356,7 +1357,7 @@ Star "Bosthirda System" // system name
     RA         0.0872395328090928
     Dec        24.586945450321924
     Dist       383000113.0898593
-    Class      "M0 III" // random
+    Class      "K4 V" // "orange sun"
 }
 
 // http://starwars.wikia.com/wiki/Botajef
@@ -2469,7 +2470,7 @@ Star "Derellium System" // system name
     RA         0.08721834381221609
     Dec        24.586645998779243
     Dist       382999991.07841116
-    Class      "G9 Ib" // random
+    Class      "G9 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Boonta

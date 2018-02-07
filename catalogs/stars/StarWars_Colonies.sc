@@ -1130,7 +1130,7 @@ Star "Uquine System" // system name
     RA         0.08730215379828127
     Dec        24.585798755967968
     Dist       382999640.15247315
-    Class      "M6 Ib" // random
+    Class      "G6 V"
 }
 
 // http://starwars.wikia.com/wiki/Uviuy_Exen

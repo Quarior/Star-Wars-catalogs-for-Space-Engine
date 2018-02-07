@@ -1876,7 +1876,7 @@ Star "Joodrudda System" // system name
     RA         0.0872198341737225
     Dec        24.58718203049252
     Dist       383000575.1292549
-    Class      "M9 II" // random
+    Class      "M9 VI"
 }
 
 // http://starwars.wikia.com/wiki/Jovan

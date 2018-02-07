@@ -1415,7 +1415,7 @@ Star "Trassitan System" // system name
     RA         0.0873295658486143
     Dec        24.587360088508905
     Dist       383000563.29369885
-    Class      "M3 Iab" // random
+    Class      "K3 IV"
 }
 
 // http://starwars.wikia.com/wiki/Trenwyth

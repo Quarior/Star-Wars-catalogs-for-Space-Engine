@@ -142,7 +142,7 @@ Star "Dirha System" // system name
     RA         0.08722002381066868
     Dec        24.586046941068137
     Dist       382999721.85875165
-    Class      "M5 Ib" // random
+    Class      "K5 IV"
 }
 
 // http://starwars.wikia.com/wiki/Diyu
