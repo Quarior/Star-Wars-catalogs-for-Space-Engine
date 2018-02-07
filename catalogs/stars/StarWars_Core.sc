@@ -1346,12 +1346,13 @@ Star "Metellos/Metellos System" // Star name / system name
     Class      "M1 III" // random
 }
 
-// http://starwars.wikia.com/wiki/N'Zoth
+// http://starwars.wikia.com/wiki/N'zoth
+// http://starwars.wikia.com/wiki/N'zoth_system
 // Region : Core
 // Sector : Farlax
 // Grid location : K10
 // X : -1435.35, Y : -866.51, Z : 391.46637506345724
-Star "C'rel/N'Zoth System" // Star name / system name
+Star "C'rel/N'zoth System" // Star name / system name
 {
     RA         0.08734731498366949
     Dec        24.58574471987924
@@ -1410,19 +1411,6 @@ Star "Nubus/Nubus System" // Star name / system name
     Dec        24.585455742430103
     Dist       382999884.1619595
     Class      "M2 III" // random
-}
-
-// http://starwars.wikia.com/wiki/N'zoth_system
-// Region : Core Worlds
-// Sector : Farlax sector
-// Grid location : K10
-// X : -1399.6, Y : -851.27, Z : -445.2373578265225
-Star "C'rel/N’Zoth System" // Star name / system name
-{
-    RA         0.08734695841249504
-    Dec        24.585746999326613
-    Dist       383000445.2420544
-    Class      "M4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Orooturoo_system

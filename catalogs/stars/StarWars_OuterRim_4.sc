@@ -519,7 +519,7 @@ Star "Sorjus System" // system name
     RA         0.08724175893250367
     Dec        24.586535848278427
     Dist       383000180.12221396
-    Class      "M1 Iab" // random
+    Class      "K1 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Sorrus
@@ -1013,7 +1013,7 @@ Star "Tenara System" // system name
     RA         0.08725421196016164
     Dec        24.5866865262475
     Dist       382999466.4184231
-    Class      "M9 Ib" // random
+    Class      "G9 V" 
 }
 
 // http://starwars.wikia.com/wiki/Terminus
@@ -1026,7 +1026,7 @@ Star "Terminus System" // system name
     RA         0.08734383972371793
     Dec        24.583420247762007
     Dist       382999982.03398067
-    Class      "M6 Ib" // random
+    Class      "F6 VI"
 }
 
 // http://starwars.wikia.com/wiki/Tertiary_Feswe

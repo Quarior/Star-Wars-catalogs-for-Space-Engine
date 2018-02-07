@@ -2009,19 +2009,6 @@ Star "Kalishik System" // system name
     Class      "M7 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Kalki_Nebula
-// Region : Outer Rim
-// Sector : Cassander Sector
-// Grid location : L5
-// X : 34.05, Y : 6611.34, Z : 540.9718766089907
-Star "Kalki Nebula System" // system name
-{
-    RA         0.08733266041356866
-    Dec        24.586863387968542
-    Dist       382999459.1279096
-	Class "M2 V" //random
-}
-
 // http://starwars.wikia.com/wiki/Kalla
 // Region : Outer Rim
 // Sector : Corporate Sector

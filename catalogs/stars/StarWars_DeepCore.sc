@@ -7,7 +7,7 @@
 // Sector : 
 // Grid location : K11
 // X : 0, Y : -2131.37, Z : 70.91719562934213
-Star "Galactic Center System/Star Wars galaxy center system" // system name
+Star "Galactic Center/Star Wars galaxy center"
 {
 	CenterOf "Star Wars galaxy"
 	Class    "X"

@@ -1157,7 +1157,7 @@ DwarfMoon	"Eadu System 1.D6"
 	}
 }
 
-Barycenter	"Eadu System2-2.1"
+Barycenter	"Eadu System 2-2.1"
 {
 	ParentBody     "Eadu System"
 	Mass            0.045991
