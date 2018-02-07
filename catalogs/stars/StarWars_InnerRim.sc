@@ -909,7 +909,7 @@ Star "Ediorung System" // system name
     RA         0.08728072440840463
     Dec        24.586000447350603
     Dist       383000003.9179781
-    Class      "M7 III" // random
+    Class      "M7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Ejolus
@@ -3184,7 +3184,7 @@ Star "Unnamed Hapes Cluster 40 System" // system name
     RA         0.08727967323729602
     Dec        24.58600718372286
     Dist       383000000.2686933
-    Class      "M6 II" // random
+    Class      "M6 V" // random
 }
 
 // 
