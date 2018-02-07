@@ -246,7 +246,7 @@ Star "Zel/Zel System" // Star name / system name
     RA         0.08728018931821753
     Dec        24.5857182380575
     Dist       382999783.5168329
-    Class      "M5 II" // random
+    Class      "F5 V"
 }
 
 // http://starwars.wikia.com/wiki/Adari

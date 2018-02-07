@@ -402,7 +402,7 @@ Star "Avenelle System" // system name
     RA         0.08726754919551094
     Dec        24.58603314090629
     Dist       382999559.4600278
-    Class      "M2 Ib" // random
+    Class      "G2 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Azure
@@ -3119,7 +3119,7 @@ Star "Nixor System" // system name
     RA         0.0872536872816213
     Dec        24.58533457343424
     Dist       383000477.4178972
-    Class      "M7 Ib" // random
+    Class      "K7 VI"
 }
 
 // http://starwars.wikia.com/wiki/Nooli
