@@ -2578,7 +2578,7 @@ Star "Kuna's Eye System" // system name
     RA         0.0873834482901498
     Dec        24.584318469660662
     Dist       383000154.89411026
-    Class      "K4 V" // random
+    Class      "O4 III"
 }
 
 // http://starwars.wikia.com/wiki/Kuna%27s_Fist
@@ -2591,7 +2591,7 @@ Star "Kuna's Fist System" // system name
     RA         0.08738370284900189
     Dec        24.58432464638858
     Dist       383000575.71731144
-    Class      "G5 III" // random
+    Class      "M5 III"
 }
 
 // http://starwars.wikia.com/wiki/Kuna%27s_Horn
@@ -2604,7 +2604,7 @@ Star "Kuna's Horn System" // system name
     RA         0.08738356438664316
     Dec        24.58432854332258
     Dist       383000086.6623681
-    Class      "K4 III" // random
+    Class      "M3 III"
 }
 
 // http://starwars.wikia.com/wiki/Kuna%27s_Tail
@@ -2630,7 +2630,7 @@ Star "Kuna's Tooth System" // system name
     RA         0.08738310646625892
     Dec        24.584322883862257
     Dist       383000491.08791435
-    Class      "K2 III" // random
+    Class      "K2 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Kushibah

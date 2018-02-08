@@ -169,7 +169,8 @@ Nebula "Red Nebula"
 NEBULAE TO DO
 The following nebulae appear in maps from The Essential Atlas.
 Each grid square is 1500 parsecs on a side: will be helpful
-for determining nebulae radii.
+for determining nebulae radii. "Between" = average coordinates
+of these two objects to find center?
 
 Hutt Space (p. 28):
 http://starwars.wikia.com/wiki/Ganath_Cloud/Legends
@@ -189,7 +190,13 @@ Between Itani and Nordra
 Outer Rim - Arkanis Sector (p. 146):
 http://starwars.wikia.com/wiki/D%27Anjon_Nebula
 D'Anjon Nebula
-North of Vuzsa
+Supernova remnant, north of Vuzsa
+
+Mid Rim - Kashyyk and Neighbors (p. 152):
+http://starwars.wikia.com/wiki/Thornhedge_Nebula
+http://starwars.wikia.com/wiki/Thornhedge_Pulsar
+Thornhedge Nebula, Thornhedge Pulsar
+Supernova remnant, between Coachelle and Ota
 
 Outer Rim - Corporate Sector (p. 163):
 http://starwars.wikia.com/wiki/Thandon_Cluster

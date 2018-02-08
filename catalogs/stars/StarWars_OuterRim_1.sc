@@ -1278,7 +1278,7 @@ Star "Bnar System" // system name
     RA         0.08734160973484459
     Dec        24.58728954441927
     Dist       382999588.34469104
-    Class      "M9 III" // random
+    Class      "F9 V"
 }
 
 // http://starwars.wikia.com/wiki/Bonadan
@@ -1291,7 +1291,7 @@ Star "Bonadan System" // system name
     RA         0.08722233044720144
     Dec        24.587224646301088
     Dist       382999527.07695985
-    Class      "M3 III" // random
+    Class      "M3 III" // red giant
 }
 
 // http://starwars.wikia.com/wiki/Borgo_Prime

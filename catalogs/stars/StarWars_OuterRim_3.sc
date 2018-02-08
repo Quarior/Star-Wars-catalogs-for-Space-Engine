@@ -1194,12 +1194,12 @@ Star "Novolek Beacon/Novolek System" // Star name / system name
 // Sector : Tharin sector
 // Grid location : S8
 // X : 11496.4809478986, Y : 1851.965320279, Z : 498.30855455237247
-Star "Novor System" // system name
+Star "Novor Major/Novor System" // Star name / system name
 {
     RA         0.08721834365633022
     Dec        24.58615139712577
     Dist       382999501.8847043
-    Class      "M4 III" // random
+    Class      "M4 III" // red giant
 }
 
 // http://starwars.wikia.com/wiki/Nuswatta
@@ -2266,7 +2266,7 @@ Star "Ranroon System" // system name
     RA         0.08723050863501321
     Dec        24.586961420745517
     Dist       382999864.46760315
-    Class      "F1 III"
+    Class      "F1 V"
 }
 
 // http://starwars.wikia.com/wiki/Raxus

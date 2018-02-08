@@ -2,19 +2,6 @@
 //           Inner Rim              //
 //////////////////////////////////////
 
-/*// http://starwars.wikia.com/wiki/Roqoo_Depot
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5433.4, Y : 935.73, Z : 511.2050832354639
-SpaceStation "Roqoo Depot System" // system name
-{
-    RA         0.08727881178348043
-    Dec        24.586014330600257
-    Dist       382999488.8457379
-    Class      "Space Station"
-}*/
-
 /*// http://starwars.wikia.com/wiki/Telkur_Station
 // Region : Inner Rim
 // Sector : Hapes Cluster Sector
@@ -727,7 +714,7 @@ Star "Teke Ro System" // system name
     RA         0.08728409033037816
     Dec        24.585604733996767
     Dist       382999862.62279814
-    Class      "M2 V" // random
+    Class      "B2 III" // blue giant
 }
 
 // http://starwars.wikia.com/wiki/Corvanni_IV
@@ -2053,7 +2040,21 @@ Star "Ronyards System" // system name
     RA         0.08729846335165813
     Dec        24.58508743374975
     Dist       382999899.44583154
-    Class      "M8 III" // random
+    Class      "G8 V"
+}
+
+// http://starwars.wikia.com/wiki/Roqoo
+// http://starwars.wikia.com/wiki/Roqoo_Depot
+// Region : Inner Rim
+// Sector : Hapes Cluster Sector
+// Grid location : O9
+// X : 5433.4, Y : 935.73, Z : 1.2050832354639
+Star "Roqoo" // system name
+{
+    RA         0.08727881178348043
+    Dec        24.586014330600257
+    Dist       382999998.8457379
+    Class      "O4 III"
 }
 
 // http://starwars.wikia.com/wiki/Roundtree_system

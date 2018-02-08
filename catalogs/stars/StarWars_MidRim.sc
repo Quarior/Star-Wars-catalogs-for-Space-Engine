@@ -2339,7 +2339,7 @@ Star "Koth'lar/Kothlis System" // Star name / system name
     RA         0.08723960493080686
     Dec        24.58484513814042
     Dist       383000586.8654618
-    Class      "K6 IV" // random
+    Class      "M9 III" // dim red giant
 }
 
 // http://starwars.wikia.com/wiki/Krant
@@ -3213,7 +3213,7 @@ Star "Old Mankoo System" // system name
     Class      "M6 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Opiteihr
+// http://starwars.wikia.com/wiki/Opiteihr_system
 // Region : Mid Rim
 // Sector : Var Hagen Sector
 // Grid location : M16
@@ -3223,8 +3223,10 @@ Star "Opiteihr System" // system name
     RA         0.08730525617193757
     Dec        24.58441209445244
     Dist       382999932.84519774
-    Class      "M0 II" // random
+    Class      "M0 II" // red giant
 }
+// Should be converted to StarBarycenter orbited by 4 red giants:
+// Opiteihr, Kalnus, Terax, Dal
 
 // http://starwars.wikia.com/wiki/Ord_Pardron
 // Region : Mid Rim
