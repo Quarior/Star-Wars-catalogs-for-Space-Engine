@@ -33,9 +33,8 @@ Cluster "Starswarm Cluster" // system name
     RA         0.08733154052977352
     Dec        24.585784667941773
     Dist       383000361.90666986
-	Radius   4 // default
-	AbsMagn  1 // default
-	CenPow   0.9   // default     // star concentration parameter
+	Radius   40 // default
+	CenPow   10  // star concentration parameter
 	//Age      
 	NStars   2000  // default	
 }
@@ -118,7 +117,7 @@ Cluster "Si'Klaata Cluster"
 //           Outer Rim              //
 //////////////////////////////////////
 
-http://starwars.wikia.com/wiki/Jaga%27s_Cluster
+// http://starwars.wikia.com/wiki/Jaga%27s_Cluster
 // Region : Outer Rim
 // Sector : Esstran Sector
 // Grid location : Q5

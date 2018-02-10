@@ -389,7 +389,7 @@ Star "Kleeva System" // system name
     RA         0.0872301770080837
     Dec        24.58545402946975
     Dist       382999420.66257244
-    Class      "M2 Iab" // random
+    Class      "K2 IV"
 }
 
 // http://starwars.wikia.com/wiki/Kor_Anjiliac

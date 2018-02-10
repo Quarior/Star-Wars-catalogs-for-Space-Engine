@@ -546,7 +546,7 @@ Star "Darada System" // system name
     RA         0.08733689531061717
     Dec        24.585930504180038
     Dist       383000446.1266218
-    Class      "O5 V" // random
+    Class      "F5 V"
 }
 
 // http://starwars.wikia.com/wiki/Daupherm
@@ -1956,7 +1956,7 @@ Star "Tanjay System" // system name
     RA         0.0873340610426579
     Dec        24.585900704379497
     Dist       383000497.1770864
-    Class      "M8 III" // random
+    Class      "K8 IV"
 }
 
 // http://starwars.wikia.com/wiki/Tepasi
@@ -2021,7 +2021,7 @@ Star "Thokos System" // system name
     RA         0.08733209942466429
     Dec        24.585912790548672
     Dist       383000265.49667156
-    Class      "M9 III" // random
+    Class      "F9 VI"
 }
 
 // http://starwars.wikia.com/wiki/Thomork
@@ -2125,7 +2125,7 @@ Star "Twith System" // system name
     RA         0.0873372637291509
     Dec        24.58596992555745
     Dist       382999494.74732685
-    Class      "M9 III" // random
+    Class      "F9 IV"
 }
 
 // http://starwars.wikia.com/wiki/Galantos
@@ -2152,7 +2152,7 @@ Star "Utrost System" // system name
     RA         0.08733087651673284
     Dec        24.58588371489667
     Dist       383000188.50558454
-    Class      "M8 II" // random
+    Class      "G8 VI"
 }
 
 // http://starwars.wikia.com/wiki/Vagran_system
@@ -2165,7 +2165,7 @@ Star "Vagran System" // system name
     RA         0.08730945011509574
     Dec        24.58545655071777
     Dist       382999639.94374907
-    Class      "M7 III" // random
+    Class      "G7 V"
 }
 
 // http://starwars.wikia.com/wiki/Pollillus
