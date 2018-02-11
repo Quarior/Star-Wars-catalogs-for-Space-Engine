@@ -1663,7 +1663,7 @@ Star "Norah System" // system name
     RA         0.08732179205480597
     Dec        24.584928040171146
     Dist       382999552.929704
-    Class      "F4 III" // random
+    Class      "F4 IV"
 }
 
 // http://starwars.wikia.com/wiki/Nouane
@@ -1676,7 +1676,7 @@ Star "Nouane System" // system name
     RA         0.08730258717670622
     Dec        24.586308650385757
     Dist       383000199.3588864
-    Class      "M9 III" // random
+    Class      "G9 V"
 }
 
 // http://starwars.wikia.com/wiki/Novi
@@ -1702,7 +1702,7 @@ Star "Obroa-skai System" // system name
     RA         0.08728937141501368
     Dec        24.586267074980608
     Dist       382999841.59678674
-    Class      "M9 III" // random
+    Class      "F9 VI"
 }
 
 // http://starwars.wikia.com/wiki/Omonoth
@@ -1715,7 +1715,7 @@ Star "Omonoth System" // system name
     RA         0.08731400434947957
     Dec        24.586113599209437
     Dist       383000396.89343935
-    Class      "G7 Ib" // random
+    Class      "DC" // white dwarf
 }
 
 // http://starwars.wikia.com/wiki/Ord_Lithone
@@ -1780,7 +1780,7 @@ Star "Paqualis System" // system name
     RA         0.08731863396910866
     Dec        24.58624640030059
     Dist       383000018.7976391
-    Class      "M9 III" // random
+    Class      "G9 VI"
 }
 
 // http://starwars.wikia.com/wiki/Pavo_Prime
@@ -1819,7 +1819,7 @@ Star "Per Lupelo System" // system name
     RA         0.0873198881796694
     Dec        24.58622067173788
     Dist       382999626.2384429
-    Class      "M8 III" // random
+    Class      "F8 V"
 }
 
 // http://starwars.wikia.com/wiki/Perithal_VI
@@ -1832,7 +1832,7 @@ Star "Perithal System" // system name
     RA         0.08729656817843169
     Dec        24.58513349807514
     Dist       383000173.29615444
-    Class      "M8 III" // random
+    Class      "K8 IV"
 }
 
 // http://starwars.wikia.com/wiki/Phateem

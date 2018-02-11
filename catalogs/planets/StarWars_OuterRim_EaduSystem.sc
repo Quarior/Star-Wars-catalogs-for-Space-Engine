@@ -1,4 +1,4 @@
-Planet	"Eadu/Eadu System 7"
+Planet	"Eadu/Eadu System 4"
 {
 	ParentBody     "Eadu System"
 	Class	       "Desert"
@@ -53,18 +53,18 @@ Planet	"Eadu/Eadu System 7"
 		mareDensity     0.0952381
 		terraceProb     0.143537
 		erosion         0.65873
-		montesMagn      1.03175
-		montesFreq      345.937
-		montesSpiky     0.68254
+		montesMagn      10.03175
+		montesFreq      845.937
+		montesSpiky     0.28254
 		montesFraction  0.865134
-		dunesMagn       0.0516509
-		dunesFreq       100
+		dunesMagn       9.816509
+		dunesFreq       3
 		dunesFraction   0.845485
 		hillsMagn       0.167766
 		hillsFreq       1000
 		hillsFraction   0
 		hills2Fraction  0
-		riversMagn      61.0978
+		riversMagn      40.0978
 		riversFreq      3.55338
 		riversSin       5.98391
 		riversOctaves   0
@@ -97,18 +97,18 @@ Planet	"Eadu/Eadu System 7"
 		cycloneFreq     1.71429
 		cycloneDensity  0.285714
 		cycloneOctaves  5
-		colorSea       (0.240, 0.230, 0.230, 0.000)
-		colorShelf     (0.380, 0.360, 0.350, 0.000)
-		colorBeach     (0.550, 0.520, 0.480, 0.000)
-		colorDesert    (0.520, 0.490, 0.470, 0.000)
-		colorLowland   (0.460, 0.440, 0.410, 0.000)
-		colorUpland    (0.390, 0.360, 0.330, 0.000)
-		colorRock      (0.170, 0.160, 0.160, 0.000)
+		colorSea       (0.230, 0.230, 0.240, 0.000)
+		colorShelf     (0.350, 0.360, 0.380, 0.000)
+		colorBeach     (0.480, 0.520, 0.550, 0.000)
+		colorDesert    (0.470, 0.490, 0.520, 0.000)
+		colorLowland   (0.410, 0.440, 0.460, 0.000)
+		colorUpland    (0.330, 0.330, 0.330, 0.000)
+		colorRock      (0.160, 0.160, 0.160, 0.000)
 		colorSnow      (1.000, 1.000, 1.000, 0.769)
-		colorLowPlants (0.250, 0.110, 0.200, 0.000)
+		colorLowPlants (0.150, 0.110, 0.250, 0.000)
 		colorUpPlants  (0.150, 0.070, 0.180, 0.000)
-		BumpHeight      16.6667
-		BumpOffset      11.1111
+		BumpHeight      3.66667
+		BumpOffset      2.11111
 		DiffMapAlpha   "Ice"
 		SpecBrightWater 0.5
 		SpecBrightIce   0.5
@@ -164,27 +164,21 @@ Planet	"Eadu/Eadu System 7"
 		Model          "Earth"
 		Height          401.028
 		Density         0.283388
-		Pressure        0.163789
-		Greenhouse      176.19
-		Bright          10
-		Opacity         0.357143
-		SkyLight        3.33333
+		Pressure        0.863789
+		Greenhouse      13.19
+		Bright          3
+		Opacity         0.857143
+		SkyLight        1
 		Hue             0
-		Saturation      1
+		Saturation      0.25
 
 		Composition
 		{
-			CH4   	99.1399
-			N2    	0.835704
-			CO    	0.016529
-			C2H4  	0.00296935
-			He    	0.00251477
-			Ar    	0.000844199
-			Kr    	0.000429774
-			C2H2  	0.000362186
-			C2H6  	0.000312233
-			Ne    	0.000228711
-			O2    	0.000176415
+			N2    	77.7729
+			O2    	20.8625
+			Xe    	0.8303
+			H2O   	0.5
+			CO2   	0.0398
 		}
 	}
 
@@ -218,16 +212,16 @@ Planet	"Eadu/Eadu System 7"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   55.7226
-		Eccentricity    0.0258983
-		Inclination     -5.71429
-		AscendingNode   -200
-		ArgOfPericenter 274.286
-		MeanAnomaly     -74.2857
+		SemiMajorAxis   13.8471
+		Eccentricity    0.0336662
+		Inclination     2.00605
+		AscendingNode   62.6105
+		ArgOfPericenter 302.916
+		MeanAnomaly     30.2103
 	}
 }
 
-Moon	"Eadu Moon 1/Eadu System 7.1"
+Moon	"Eadu Moon 1/Eadu System 4.1"
 {
 	ParentBody     "Eadu"
 	Class	       "Selena"
@@ -356,7 +350,7 @@ Moon	"Eadu Moon 1/Eadu System 7.1"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   0.00032206
+		SemiMajorAxis   0.00062206
 		Eccentricity    0.31746
 		Inclination     11.4286
 		AscendingNode   154.286
@@ -2986,7 +2980,7 @@ DwarfMoon	"Eadu System 3.D9"
 	}
 }
 
-Barycenter	"Eadu System 4-4.1"
+Barycenter	"Eadu System 5-5.1"
 {
 	ParentBody     "Eadu System"
 	Mass            0.602278
@@ -2996,23 +2990,21 @@ Barycenter	"Eadu System 4-4.1"
 	EqAscendNode    0
 	Precession      0
 
-
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   13.8471
-		Period          23.5871
-		Eccentricity    0.0336662
-		Inclination     2.00605
-		AscendingNode   62.6105
-		ArgOfPericenter 302.916
-		MeanAnomaly     30.2103
+		SemiMajorAxis   26.6746
+		Eccentricity    0.0669204
+		Inclination     -0.139622
+		AscendingNode   132.989
+		ArgOfPericenter 187.671
+		MeanAnomaly     275.453
 	}
 }
 
-Planet	"Eadu System 4"
+Planet	"Eadu System 5"
 {
-	ParentBody     "Eadu System 4-4.1"
+	ParentBody     "Eadu System 5-5.1"
 	Class	       "Desert"
 
 	Mass            0.582247
@@ -3193,9 +3185,9 @@ Planet	"Eadu System 4"
 	}
 }
 
-Moon	"Eadu System 4.1"
+Moon	"Eadu System 5.1"
 {
-	ParentBody     "Eadu System 4-4.1"
+	ParentBody     "Eadu System 5-5.1"
 	Class	       "Selena"
 
 	Mass            0.0200306
@@ -3320,493 +3312,6 @@ Moon	"Eadu System 4.1"
 		AscendingNode   -111.752
 		ArgOfPericenter 40.62
 		MeanAnomaly     153.86
-	}
-}
-
-Barycenter	"Eadu System 5-5.1"
-{
-	ParentBody     "Eadu System"
-	Mass            3.82386
-	Radius          48797.5
-	RotationPeriod  24
-	Obliquity       0
-	EqAscendNode    0
-	Precession      0
-
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   26.6746
-		Period          63.0641
-		Eccentricity    0.0669204
-		Inclination     -0.139622
-		AscendingNode   132.989
-		ArgOfPericenter 187.671
-		MeanAnomaly     275.453
-	}
-}
-
-Planet	"Eadu System 5"
-{
-	ParentBody     "Eadu System 5-5.1"
-	Class	       "Terra"
-
-	Mass            2.77701
-	Radius          10973.9
-	InertiaMoment   0.328973
-
-	Oblateness      0.0141985
-
-	RotationPeriod  15.6821
-	Obliquity       -14.2386
-	EqAscendNode    136.9
-	Precession      0
-
-	AlbedoBond      0.297558
-	AlbedoGeom      0.35707
-	Brightness      2
-	Color          (0.795 0.760 0.748)
-
-	Surface
-	{
-		SurfStyle       0.464715
-		OceanStyle      0.696569
-		Randomize      (-0.417, -0.676, 0.317)
-		colorDistMagn   0.0521777
-		colorDistFreq   1353.96
-		detailScale     28225.5
-		colorConversion true
-		seaLevel        0.326731
-		snowLevel       0.827782
-		tropicLatitude  0.256036
-		icecapLatitude  10
-		icecapHeight    0.146595
-		climatePole     0.5625
-		climateTropic   0.5625
-		climateEquator  0.6875
-		heightTempGrad  0.375
-		tropicWidth     0.5
-		mainFreq        0.639111
-		venusFreq       1.24614
-		venusMagn       0.341584
-		mareFreq        4.96583
-		mareDensity     0.0530175
-		terraceProb     0.537222
-		erosion         0.121184
-		montesMagn      0.18066
-		montesFreq      415.962
-		montesSpiky     0.853882
-		montesFraction  0.0610928
-		dunesMagn       0.0369431
-		dunesFreq       79.0218
-		dunesFraction   0.672785
-		hillsMagn       0.135685
-		hillsFreq       1550.35
-		hillsFraction   0.198234
-		hills2Fraction  0.585722
-		riversMagn      58.2878
-		riversFreq      3.77858
-		riversSin       8.25893
-		riversOctaves   2
-		canyonsMagn     0.0520612
-		canyonsFreq     297.342
-		canyonFraction  0.963431
-		cracksMagn      0.098463
-		cracksFreq      0.71008
-		cracksOctaves   0
-		craterMagn      0.564517
-		craterFreq      30.6077
-		craterDensity   0
-		craterOctaves   0
-		volcanoMagn     0.688844
-		volcanoFreq     0.723897
-		volcanoDensity  0.4
-		volcanoOctaves  3
-		volcanoActivity 2
-		volcanoFlows    0.893609
-		volcanoRadius   0.4965
-		volcanoTemp     1491.77
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		stripeZones     2.70137
-		stripeTwist     0
-		cycloneMagn     2.60819
-		cycloneFreq     0.476869
-		cycloneDensity  0.237849
-		cycloneOctaves  4
-		colorSea       (0.040, 0.200, 0.200, 1.000)
-		colorShelf     (0.150, 0.370, 0.370, 1.000)
-		colorBeach     (0.400, 0.330, 0.280, 0.000)
-		colorDesert    (0.260, 0.240, 0.220, 0.000)
-		colorLowland   (0.500, 0.420, 0.350, 0.000)
-		colorUpland    (0.240, 0.210, 0.210, 0.000)
-		colorRock      (0.220, 0.210, 0.210, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 1.308)
-		colorLowPlants (0.500, 0.420, 0.350, 0.000)
-		colorUpPlants  (0.240, 0.210, 0.210, 0.000)
-		BumpHeight      20
-		BumpOffset      6.53463
-		DiffMapAlpha   "Water"
-		SpecBrightWater 0.65
-		SpecBrightIce   0.85
-		SpecularPower   55
-		Hapke           0
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	Clouds
-	{
-		Height          6.54883
-		Velocity        36.505
-		BumpHeight      6.54849
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        1.02146
-		mainOctaves     10
-		Coverage        0.162597
-		stripeZones     2.70137
-		stripeTwist     0
-	}
-
-	Clouds
-	{
-		Height          13.0967
-		Velocity        147.509
-		BumpHeight      5.8056
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        1.02146
-		mainOctaves     10
-		Coverage        0.162597
-		stripeZones     2.70137
-		stripeTwist     0
-	}
-
-	Clouds
-	{
-		Height          19.6455
-		Velocity        65.8956
-		BumpHeight      5.49847
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        1.02146
-		mainOctaves     10
-		Coverage        0.162597
-		stripeZones     2.70137
-		stripeTwist     0
-	}
-
-	Ocean
-	{
-		Height          6.53463
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-	}
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Venus"
-		Height          90.8097
-		Density         348.238
-		Pressure        215.192
-		Greenhouse      131.454
-		Bright          10
-		Opacity         1
-		SkyLight        3.33333
-		Hue             0.549577
-		Saturation      0.699153
-
-		Composition
-		{
-			CO2   	96.6523
-			SO2   	0.926413
-			N2    	0.721712
-			C2H2  	0.705827
-			H2S   	0.469071
-			CH4   	0.304169
-			C2H6  	0.145056
-			C3H8  	0.0534564
-			C2H4  	0.00863297
-			H2O   	0.00786142
-			NH3   	0.00396392
-			CO    	0.00109308
-			Ar    	0.000460212
-			He    	1.97366e-005
-			Ne    	1.16161e-005
-		}
-	}
-
-	Aurora
-	{
-		Height      128.096
-		NorthLat    79.1202
-		NorthLon    -129.66
-		NorthRadius 3127.15
-		NorthWidth  1144.62
-		NorthRings  2
-		NorthBright 0.3
-		NorthParticles 50000
-		SouthLat    -68.2157
-		SouthLon    42.5194
-		SouthRadius 2607.22
-		SouthWidth  750.063
-		SouthRings  5
-		SouthBright 0.3
-		SouthParticles 50000
-		TopColor    (1.000 1.000 1.000)
-		BottomColor (0.000 1.000 0.000)
-	}
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00247383
-		Period          0.254044
-		Eccentricity    0.00587721
-		Inclination     -0.596429
-		AscendingNode   -1.01256
-		ArgOfPericenter 130.735
-		MeanAnomaly     170.948
-	}
-}
-
-Moon	"Eadu System 5.1"
-{
-	ParentBody     "Eadu System 5-5.1"
-	Class	       "Desert"
-
-	Mass            1.04685
-	Radius          7737.71
-	InertiaMoment   0.328583
-
-	Oblateness      0.0100173
-
-	RotationPeriod  17.9914
-	Obliquity       21.6921
-	EqAscendNode    2.14901
-	Precession      0
-
-	AlbedoBond      0.298945
-	AlbedoGeom      0.358734
-	Brightness      2
-	Color          (0.814 0.776 0.721)
-
-	Surface
-	{
-		SurfStyle       0.295387
-		OceanStyle      0.637371
-		Randomize      (-0.293, -0.744, 0.710)
-		colorDistMagn   0.0415727
-		colorDistFreq   1118.57
-		detailScale     19901.8
-		colorConversion true
-		seaLevel        0.1358
-		snowLevel       0.85
-		tropicLatitude  0.359928
-		icecapLatitude  0.845169
-		icecapHeight    0.148884
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.660007
-		venusFreq       0.721552
-		venusMagn       0.564581
-		mareFreq        2.32126
-		mareDensity     0.101701
-		terraceProb     0.456395
-		erosion         0
-		montesMagn      0.175173
-		montesFreq      465.785
-		montesSpiky     0.964045
-		montesFraction  0.938648
-		dunesMagn       0.0486163
-		dunesFreq       51.4177
-		dunesFraction   0.841555
-		hillsMagn       0.115493
-		hillsFreq       918.961
-		hillsFraction   0
-		hills2Fraction  0
-		riversMagn      65.9835
-		riversFreq      3.52354
-		riversSin       5.00252
-		riversOctaves   0
-		canyonsMagn     0.0238871
-		canyonsFreq     199.5
-		canyonFraction  0
-		cracksMagn      0.0971658
-		cracksFreq      0.613589
-		cracksOctaves   0
-		craterMagn      0.579655
-		craterFreq      15.2255
-		craterDensity   0.216541
-		craterOctaves   2.83145
-		volcanoMagn     0.75295
-		volcanoFreq     0.778097
-		volcanoDensity  0.4
-		volcanoOctaves  3
-		volcanoActivity 2
-		volcanoFlows    0.622388
-		volcanoRadius   0.451777
-		volcanoTemp     1451.43
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		stripeZones     1.49587
-		stripeTwist     0
-		cycloneMagn     3.26113
-		cycloneFreq     0.527139
-		cycloneDensity  0.422181
-		cycloneOctaves  2
-		colorSea       (0.640, 0.620, 0.420, 0.000)
-		colorShelf     (0.680, 0.620, 0.470, 0.000)
-		colorBeach     (0.740, 0.730, 0.610, 0.000)
-		colorDesert    (0.450, 0.420, 0.380, 0.000)
-		colorLowland   (0.530, 0.480, 0.400, 0.000)
-		colorUpland    (0.600, 0.540, 0.420, 0.000)
-		colorRock      (0.170, 0.160, 0.160, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 0.769)
-		colorLowPlants (0.530, 0.480, 0.400, 0.000)
-		colorUpPlants  (0.600, 0.540, 0.420, 0.000)
-		BumpHeight      20
-		DiffMapAlpha   "Ice"
-		SpecBrightWater 0.5
-		SpecBrightIce   0.5
-		SpecularPower   30
-		Hapke           0
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	Clouds
-	{
-		Height          14.5298
-		Velocity        219.106
-		BumpHeight      4.52998
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        0.980695
-		mainOctaves     10
-		Coverage        0.197891
-		stripeZones     1.49587
-		stripeTwist     0
-	}
-
-	Clouds
-	{
-		Height          19.0601
-		Velocity        67.9599
-		BumpHeight      4.52998
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        0.980695
-		mainOctaves     10
-		Coverage        0.197891
-		stripeZones     1.49587
-		stripeTwist     0
-	}
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Neptune"
-		Height          44.054
-		Density         0.491312
-		Pressure        0.222121
-		Greenhouse      1.26186
-		Bright          10
-		Opacity         1
-		SkyLight        3.33333
-		Hue             0
-		Saturation      1
-
-		Composition
-		{
-			CO2   	64.2545
-			CH4   	15.6543
-			C2H4  	12.5786
-			C2H2  	3.75907
-			NH3   	2.00785
-			H2S   	1.15646
-			N2    	0.389686
-			C3H8  	0.136502
-			C2H6  	0.050684
-			SO2   	0.0105077
-			Ar    	0.0008775
-			H2O   	0.000634972
-			CO    	0.00024579
-			Cl2   	4.61764e-005
-			O2    	4.23969e-005
-			Ne    	1.02545e-005
-		}
-	}
-
-	Aurora
-	{
-		Height      161.607
-		NorthLat    85.8661
-		NorthLon    -153.651
-		NorthRadius 2499.74
-		NorthWidth  725.183
-		NorthRings  2
-		NorthBright 0.3
-		NorthParticles 50000
-		SouthLat    -90
-		SouthLon    37.349
-		SouthRadius 2052.04
-		SouthWidth  650.791
-		SouthRings  5
-		SouthBright 0.3
-		SouthParticles 50000
-		TopColor    (1.000 1.000 1.000)
-		BottomColor (0.000 1.000 0.000)
-	}
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00656239
-		Period          0.254044
-		Eccentricity    0.00587721
-		Inclination     -0.596429
-		AscendingNode   -1.01256
-		ArgOfPericenter -49.2649
-		MeanAnomaly     170.948
 	}
 }
 
@@ -13665,7 +13170,7 @@ DwarfMoon	"Eadu System 6.D75"
 	}
 }
 
-DwarfPlanet	"Eadu System 8"
+DwarfPlanet	"Eadu System 7"
 {
 	ParentBody     "Eadu System"
 	Class	       "IceWorld"
@@ -13800,9 +13305,9 @@ DwarfPlanet	"Eadu System 8"
 	}
 }
 
-DwarfMoon	"Eadu System 8.D1"
+DwarfMoon	"Eadu System 7.D1"
 {
-	ParentBody     "Eadu System 8"
+	ParentBody     "Eadu System 7"
 	Class	       "Asteroid"
 
 	Mass            1.28993e-007
@@ -13910,9 +13415,9 @@ DwarfMoon	"Eadu System 8.D1"
 	}
 }
 
-DwarfMoon	"Eadu System 8.D2"
+DwarfMoon	"Eadu System 7.D2"
 {
-	ParentBody     "Eadu System 8"
+	ParentBody     "Eadu System 7"
 	Class	       "Asteroid"
 
 	Mass            4.54629e-007
@@ -14020,7 +13525,7 @@ DwarfMoon	"Eadu System 8.D2"
 	}
 }
 
-Planet	"Eadu System 9"
+Planet	"Eadu System 8"
 {
 	ParentBody     "Eadu System"
 	Class	       "IceGiant"
@@ -14191,7 +13696,7 @@ Planet	"Eadu System 9"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D1"
+DwarfMoon	"Eadu System 8.D1"
 {
 	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
@@ -14301,9 +13806,9 @@ DwarfMoon	"Eadu System 9.D1"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D2"
+DwarfMoon	"Eadu System 8.D2"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            2.61281e-009
@@ -14411,9 +13916,9 @@ DwarfMoon	"Eadu System 9.D2"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D3"
+DwarfMoon	"Eadu System 8.D3"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            3.6388e-009
@@ -14521,9 +14026,9 @@ DwarfMoon	"Eadu System 9.D3"
 	}
 }
 
-Moon	"Eadu System 9.1"
+Moon	"Eadu System 8.1"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "IceWorld"
 
 	Mass            0.00110746
@@ -14656,9 +14161,9 @@ Moon	"Eadu System 9.1"
 	}
 }
 
-Moon	"Eadu System 9.2"
+Moon	"Eadu System 8.2"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "IceWorld"
 
 	Mass            0.00129309
@@ -14791,9 +14296,9 @@ Moon	"Eadu System 9.2"
 	}
 }
 
-Moon	"Eadu System 9.3"
+Moon	"Eadu System 8.3"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "IceWorld"
 
 	Mass            0.00150499
@@ -14924,9 +14429,9 @@ Moon	"Eadu System 9.3"
 	}
 }
 
-Moon	"Eadu System 9.4"
+Moon	"Eadu System 8.4"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "IceWorld"
 
 	Mass            0.00174735
@@ -15057,9 +14562,9 @@ Moon	"Eadu System 9.4"
 	}
 }
 
-Moon	"Eadu System 9.5"
+Moon	"Eadu System 8.5"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "IceWorld"
 
 	Mass            0.0202517
@@ -15190,9 +14695,9 @@ Moon	"Eadu System 9.5"
 	}
 }
 
-Moon	"Eadu System 9.6"
+Moon	"Eadu System 8.6"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "IceWorld"
 
 	Mass            0.00234455
@@ -15323,9 +14828,9 @@ Moon	"Eadu System 9.6"
 	}
 }
 
-Moon	"Eadu System 9.7"
+Moon	"Eadu System 8.7"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "IceWorld"
 
 	Mass            0.00271289
@@ -15456,9 +14961,9 @@ Moon	"Eadu System 9.7"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D4"
+DwarfMoon	"Eadu System 8.D4"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            4.39529e-008
@@ -15564,9 +15069,9 @@ DwarfMoon	"Eadu System 9.D4"
 	}
 }
 
-Moon	"Eadu System 9.8"
+Moon	"Eadu System 8.8"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "IceWorld"
 
 	Mass            0.0036352
@@ -15699,9 +15204,9 @@ Moon	"Eadu System 9.8"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D5"
+DwarfMoon	"Eadu System 8.D5"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            8.12494e-008
@@ -15807,9 +15312,9 @@ DwarfMoon	"Eadu System 9.D5"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D6"
+DwarfMoon	"Eadu System 8.D6"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            1.1087e-007
@@ -15915,9 +15420,9 @@ DwarfMoon	"Eadu System 9.D6"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D7"
+DwarfMoon	"Eadu System 8.D7"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            1.51851e-007
@@ -16023,9 +15528,9 @@ DwarfMoon	"Eadu System 9.D7"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D8"
+DwarfMoon	"Eadu System 8.D8"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            2.08973e-007
@@ -16131,9 +15636,9 @@ DwarfMoon	"Eadu System 9.D8"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D9"
+DwarfMoon	"Eadu System 8.D9"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            2.89289e-007
@@ -16239,9 +15744,9 @@ DwarfMoon	"Eadu System 9.D9"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D10"
+DwarfMoon	"Eadu System 8.D10"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            4.0338e-007
@@ -16347,9 +15852,9 @@ DwarfMoon	"Eadu System 9.D10"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D11"
+DwarfMoon	"Eadu System 8.D11"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            5.67393e-007
@@ -16455,9 +15960,9 @@ DwarfMoon	"Eadu System 9.D11"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D12"
+DwarfMoon	"Eadu System 8.D12"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            8.06488e-007
@@ -16563,9 +16068,9 @@ DwarfMoon	"Eadu System 9.D12"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D13"
+DwarfMoon	"Eadu System 8.D13"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            1.16079e-006
@@ -16671,9 +16176,9 @@ DwarfMoon	"Eadu System 9.D13"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D14"
+DwarfMoon	"Eadu System 8.D14"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            1.69605e-006
@@ -16779,9 +16284,9 @@ DwarfMoon	"Eadu System 9.D14"
 	}
 }
 
-DwarfMoon	"Eadu System 9.D15"
+DwarfMoon	"Eadu System 8.D15"
 {
-	ParentBody     "Eadu System 9"
+	ParentBody     "Eadu System 8"
 	Class	       "Asteroid"
 
 	Mass            2.52346e-006
