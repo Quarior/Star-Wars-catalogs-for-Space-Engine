@@ -9,6 +9,26 @@ LogLevel    1
 //            Colonies              //
 //////////////////////////////////////
 
+// http://starwars.wikia.com/wiki/Anarid_Cluster
+// Region : Colonies
+// Sector : Duluur
+// Grid location : M13
+// Location is arbitrary centered on Kelada system for X-Y coords
+// X : 1816.82, Y : -5299, Z : 14.913586246782756
+Cluster "Anarid Cluster"
+{
+	Galaxy     "Star Wars galaxy"
+	Type       "Open"	// within galaxy disk
+    RA         0.08731488057055047
+    Dec        24.585081630973573
+    Dist       382999985.103822
+    Radius     200 // not far from bestine
+	AbsMagn    1 // default
+	CenPow   0.5 // default star concentration parameter
+	//Age      
+	NStars     1500  // default
+}
+
 // http://starwars.wikia.com/wiki/Zenox_Cluster
 // Region : Colonies
 // Sector : 
@@ -23,7 +43,7 @@ Cluster	"Zenox"
     Dist       382999523.07058537
 	Radius     4 // default
 	AbsMagn    1 // default
-	CenPow   0.5        // star concentration parameter
+	CenPow   0.5 // default star concentration parameter
 	//Age      
 	NStars     1500  // default		
 }
@@ -56,7 +76,7 @@ Cluster	"Galactic Center Cluster/Star Wars galaxy center cluster"
 // Sector : 
 // Grid location : L10
 // X : 146.34, Y : -599.47, Z : -361.9035783614696
-Cluster "Starswarm Cluster" // system name
+Cluster "Starswarm Cluster"
 {
 	Galaxy   "Star Wars galaxy"
 	Type     "Open"	// within galaxy disk
