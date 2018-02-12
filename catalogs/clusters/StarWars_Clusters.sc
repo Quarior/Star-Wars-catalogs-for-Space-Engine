@@ -4,6 +4,36 @@
 // 2 - log everything
 LogLevel    1
 
+
+//////////////////////////////////////
+//            Colonies              //
+//////////////////////////////////////
+
+// http://starwars.wikia.com/wiki/Zenox_Cluster
+// Region : Colonies
+// Sector : 
+// Grid location : K13
+// X : -1112.95, Y : -5428.37, Z : 476.94522256228424
+Cluster	"Zenox"
+{
+	Galaxy     "Star Wars galaxy"
+	Type       "Open"	// within galaxy disk
+	RA         0.08734409963746173
+    Dec        24.585062276970522
+    Dist       382999523.07058537
+	Radius     4 // default
+	AbsMagn    1 // default
+	CenPow   0.5        // star concentration parameter
+	//Age      
+	NStars     1500  // default		
+}
+
+//////////////////////////////////////
+//              Core                //
+//////////////////////////////////////
+
+
+
 //////////////////////////////////////
 //            Deep Core             //
 //////////////////////////////////////
@@ -39,54 +69,6 @@ Cluster "Starswarm Cluster" // system name
 	NStars   2000  // default	
 }
 
-/////////////////////////////////////
-//           Inner Rim             //
-/////////////////////////////////////
-
-// http://starwars.wikia.com/wiki/Inner_Cluster
-// Region : Inner Rim
-// Sector : Inner Cluster Sector
-// Grid location : O11
-// X : 4904.13, Y : -1802.26, Z : 137.4087407418673 // Cluster center is Teke Ro System
-Cluster "Inner Cluster"
-{
-	Galaxy     	"Star Wars galaxy"
-	Type       	"Open"	// within galaxy disk
-    RA         	0.08728409033037816
-    Dec        	24.585604733996767
-    Dist       	382999862.62279814
-	Radius		4.68       // default radius
-	AbsMagn 	-3.6        // default absolute magnitude
-	CenPow   	0.5        // default star concentration parameter
-	Age      	760        // default age
-	NStars   	1500       // default number of stars
-	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
-}
-
-
-//////////////////////////////////////
-//            Colonies              //
-//////////////////////////////////////
-
-// http://starwars.wikia.com/wiki/Zenox_Cluster
-// Region : Colonies
-// Sector : 
-// Grid location : K13
-// X : -1112.95, Y : -5428.37, Z : 476.94522256228424
-Cluster	"Zenox"
-{
-	Galaxy     "Star Wars galaxy"
-	Type       "Open"	// within galaxy disk
-	RA         0.08734409963746173
-    Dec        24.585062276970522
-    Dist       382999523.07058537
-	Radius     4 // default
-	AbsMagn    1 // default
-	CenPow   0.5        // star concentration parameter
-	//Age      
-	NStars     1500  // default		
-}
-
 //////////////////////////////////////
 //           Hutt Space             //
 //////////////////////////////////////
@@ -106,6 +88,56 @@ Cluster "Si'Klaata Cluster"
     Dec        24.586089558823566
     Dist       383000000.19270456
 	Radius		54.202606641 // 3 times cluster center-vontor distance
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+/////////////////////////////////////
+//           Inner Rim             //
+/////////////////////////////////////
+
+// Cluster is centered on Millinar (X and Y)
+// Data are set according to these maps
+// https://www.starwars-universe.com/images/chronologie/anciennerep/grand_conflits1/hapes.jpg
+// http://www.hapes.org/images/revelations/hapescluster.jpg
+// https://vignette.wikia.nocookie.net/starwars/images/2/21/HapesClusterMap-TEA.jpg/revision/latest?cb=20090903052149
+//
+// http://starwars.wikia.com/wiki/Hapes_Cluster
+// Region : Inner Rim
+// Sector : 
+// Grid location : O9
+// X : 5214.54, Y : 803.56, Z : 0
+Cluster "Hapes Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08728099458066428
+    Dec        24.585994557708
+    Dist       383000000.04674315
+    Radius		1012 // according to this map http://holocron.swcombine.com/images/0/04/HapesCluster.jpg
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Inner_Cluster
+// Region : Inner Rim
+// Sector : Inner Cluster Sector
+// Grid location : O11
+// X : 4904.13, Y : -1802.26, Z : 137.4087407418673 // Cluster center is Teke Ro System
+Cluster "Inner Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         	0.08728409033037816
+    Dec        	24.585604733996767
+    Dist       	382999862.62279814
+	Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
 	Age      	760        // default age
@@ -157,3 +189,13 @@ Cluster "Skustell Cluster"
 	NStars   	1500       // default number of stars
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
+
+
+//////////////////////////////////////
+//           Unknown Regions        //
+//////////////////////////////////////
+
+
+//////////////////////////////////////
+//           Wild Space             //
+//////////////////////////////////////
