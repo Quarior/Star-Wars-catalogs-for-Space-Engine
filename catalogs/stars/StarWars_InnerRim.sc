@@ -1481,7 +1481,7 @@ Star "Pyrshak System" // system name
     RA         0.08728543223522613
     Dec        24.585550783195934
     Dist       382999993.596738
-    Class      "M5 V" // random
+    Class      "G4 V" // 1 luminosity class (V) and temperature level (3 = cooler than sun) are arbitrary
 }
 
 // http://starwars.wikia.com/wiki/Manress
