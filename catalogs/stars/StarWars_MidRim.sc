@@ -623,7 +623,7 @@ Star "Boro-borosa and 2 others/Boro-borosa System" // Star name / system name
     RA         0.08732720570249529
     Dec        24.584053840568043
     Dist       383000411.7403664
-    Class      "M8 III" // random
+    Class      "M8 V"
 }
 
 // http://starwars.wikia.com/wiki/Bothawui
@@ -662,7 +662,7 @@ Star "Bresnia System" // system name
     RA         0.08724991694499036
     Dec        24.584959901529523
     Dist       382999604.8865421
-    Class      "K5 III" // random
+    Class      "K5 V"
 }
 
 // http://starwars.wikia.com/wiki/Ord_Mantell
@@ -688,7 +688,7 @@ Star "Bryx System" // system name
     RA         0.08723800608279948
     Dec        24.58630799859729
     Dist       382999967.5890192
-    Class      "M6 III" // random
+    Class      "M6 V"
 }
 
 // http://starwars.wikia.com/wiki/Bseto
@@ -701,7 +701,7 @@ Star "Bseto System" // system name
     RA         0.08726845701817258
     Dec        24.58644433581116
     Dist       383000536.92698133
-    Class      "M4 III" // random
+    Class      "M4 IV"
 }
 
 // http://starwars.wikia.com/wiki/Burska
@@ -714,7 +714,7 @@ Star "Burska System" // system name
     RA         0.08737156517743762
     Dec        24.58646602225353
     Dist       383000182.2917324
-    Class      "M8 III" // random
+    Class      "M8 VI"
 }
 
 // http://starwars.wikia.com/wiki/Tibrin
@@ -727,7 +727,7 @@ Star "Cal/Cal System" // Star name / system name
     RA         0.08732229133923934
     Dec        24.58407573761318
     Dist       383000542.88015735
-    Class      "M6 III" // random
+    Class      "M6 V"
 }
 
 // http://starwars.wikia.com/wiki/Caltinia
@@ -740,7 +740,7 @@ Star "Caltinia System" // system name
     RA         0.087328039748807
     Dec        24.58409864262996
     Dist       382999809.20465076
-    Class      "K6 III" // random
+    Class      "K6 VI"
 }
 
 // http://starwars.wikia.com/wiki/Cargamalis
@@ -753,7 +753,7 @@ Star "Cargamalis System" // system name
     RA         0.08734494546402037
     Dec        24.58406118803495
     Dist       382999453.6054095
-    Class      "M0 Ib" // random
+    Class      "G2 V"
 }
 
 // http://starwars.wikia.com/wiki/Carsanza
@@ -779,7 +779,7 @@ Star "Casfield System" // system name
     RA         0.08725219119257265
     Dec        24.58637251057096
     Dist       382999447.5932118
-    Class      "F6 III" // random
+    Class      "F6 VI"
 }
 
 // http://starwars.wikia.com/wiki/Centares
@@ -818,7 +818,7 @@ Star "Chalacta System" // system name
     RA         0.08723503799844415
     Dec        24.585827867606934
     Dist       382999682.287515
-    Class      "M6 III" // random
+    Class      "M6 IV"
 }
 
 // http://starwars.wikia.com/wiki/Chalcedon
@@ -831,7 +831,7 @@ Star "Chalcedon System" // system name
     RA         0.08736463317872527
     Dec        24.58444106481804
     Dist       382999706.2003486
-    Class      "M0 III" // random
+    Class      "K0 V"
 }
 
 // http://starwars.wikia.com/wiki/Chamble
@@ -844,7 +844,7 @@ Star "Chamble System" // system name
     RA         0.0872574553262103
     Dec        24.585845141821217
     Dist       382999423.5728297
-    Class      "M4 III" // random
+    Class      "K4 VI" // random
 }
 
 // http://starwars.wikia.com/wiki/Charros
@@ -857,7 +857,7 @@ Star "Charros System" // system name
     RA         0.08724122411403183
     Dec        24.586034699239327
     Dist       382999937.55623883
-    Class      "M1 III" // random
+    Class      "G1 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Cheelit
@@ -870,7 +870,7 @@ Star "Cheelit System" // system name
     RA         0.08736717562514416
     Dec        24.584350892389967
     Dist       382999841.9868555
-    Class      "M6 III" // random
+    Class      "G6 VI" // random
 }
 
 // http://starwars.wikia.com/wiki/Chibias
@@ -896,7 +896,7 @@ Star "Chokan System" // system name
     RA         0.08725502551476552
     Dec        24.585133475090103
     Dist       382999678.3475292
-    Class      "M8 III" // random
+    Class      "M8 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Chryya
@@ -935,7 +935,7 @@ Star "Coachelle System" // system name
     RA         0.08725868263044703
     Dec        24.58579675414746
     Dist       382999967.68612695
-    Class      "F0 III" // random
+    Class      "F0 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Codia
@@ -3771,7 +3771,7 @@ Star "Romin System" // system name
     RA         0.0872531891434376
     Dec        24.586294812266217
     Dist       382999617.78033596
-    Class      "M5 III" // random
+    Class      "F5 VI"
 }
 
 // http://starwars.wikia.com/wiki/Rorgam
@@ -3810,7 +3810,7 @@ Star "Rulaar System" // system name
     RA         0.08732879183213609
     Dec        24.584099436520113
     Dist       383000472.0215841
-    Class      "M5 III" // random
+    Class      "G5 IV"
 }
 
 // http://starwars.wikia.com/wiki/Rustibar
@@ -3823,7 +3823,7 @@ Star "Rustibar System" // system name
     RA         0.08736039758152199
     Dec        24.586521624455717
     Dist       382999632.4582055
-    Class      "M5 III" // random
+    Class      "F5 VI" // random
 }
 
 // http://starwars.wikia.com/wiki/Ruusan
@@ -3836,33 +3836,21 @@ Star "Ruusan System" // system name
     RA         0.08725950370240519
     Dec        24.585647773162965
     Dist       382999873.7768521
-    Class      "M5 III" // random
+    Class      "K5 IV"
 }
 
+// http://starwars.wikia.com/wiki/Ryndellia
 // http://starwars.wikia.com/wiki/Kaliida_Shoals
 // Region : Mid Rim
 // Sector : Ryndellian Sector
 // Grid location : O17
-// X : 5779.02, Y : -10975.37, Z : 199.07807164409974
-Star "Ryndellia System" // system name
-{
-    RA         0.08727536490377635
-    Dec        24.584232460476994
-    Dist       382999801.0676378
-    Class      "M9 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Ryndellia
-// Region : Mid Rim
-// Sector : Ryndellian Sector
-// Grid location : O17
 // X : 5655.13, Y : -10591.79, Z : 337.8208208190691
-Star "Ryndellian System" // system name
+Star "Ryndellia System" // system name
 {
     RA         0.08727660045824745
     Dec        24.58428984259427
     Dist       382999662.3143741
-    Class      "G2 III" // random
+    Class      "G9 V" 
 }
 
 // http://starwars.wikia.com/wiki/Bimmisaari
@@ -3875,7 +3863,7 @@ Star "Saari Ha System" // system name
     RA         0.0872314842165143
     Dec        24.58606573327368
     Dist       382999891.02005035
-    Class      "M4 III" // random
+    Class      "K4 V"
 }
 
 // http://starwars.wikia.com/wiki/Salvara
@@ -3914,7 +3902,7 @@ Star "Sarka System" // system name
     RA         0.08724499190105754
     Dec        24.586213191871398
     Dist       383000493.07934713
-    Class      "K2 III" // random
+    Class      "K2 IV"
 }
 
 // http://starwars.wikia.com/wiki/Sedesia
@@ -3966,7 +3954,7 @@ Star "Senex System" // system name
     RA         0.08732631518947079
     Dec        24.584099707678064
     Dist       382999786.72220063
-    Class      "M6 III" // random
+    Class      "G6 V"
 }
 
 // http://starwars.wikia.com/wiki/Serat
@@ -3979,7 +3967,7 @@ Star "Serat System" // system name
     RA         0.0873267828311354
     Dec        24.58405592652959
     Dist       382999794.9316338
-    Class      "M2 III" // random
+    Class      "M2 V"
 }
 
 // http://starwars.wikia.com/wiki/Sev_Tok
@@ -4005,7 +3993,7 @@ Star "Shador System" // system name
     RA         0.08725264959014954
     Dec        24.58516804793967
     Dist       383000544.5657381
-    Class      "M4 III" // random
+    Class      "K4 VI"
 }
 
 // http://starwars.wikia.com/wiki/Shoon
@@ -4052,12 +4040,12 @@ Star "Sinton System" // system name
 // Sector : Senex Sector
 // Grid location : L17
 // X : 368.79, Y : -11761.47, Z : 287.01048774241997
-Star "Skärtis System" // system name
+Star "Sk�rtis System" // system name
 {
     RA         0.08732932199715213
     Dec        24.58411486161971
     Dist       382999713.1107589
-    Class      "G0 III" // random
+    Class      "G0 VI"
 }
 
 // http://starwars.wikia.com/wiki/Skorrupon
@@ -4564,7 +4552,7 @@ Star "Umthyg System" // system name
     RA         0.08733321202942655
     Dec        24.58404792589832
     Dist       382999753.9078274
-    Class      "K7 Ib" // random
+    Class      "K7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Uogo%27cor
@@ -4793,12 +4781,25 @@ Star "Vulcar System" // system name
 // Sector : Shiwal Sector
 // Grid location : M7
 // X : 1709.68, Y : 3318.77, Z : 78.66834233911902
-Star "Walin’or System" // system name
+Star "Walin'or System" // system name
 {
     RA         0.08731594909165573
     Dec        24.586370826589754
     Dist       382999921.37425166
     Class      "M5 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Wobani
+// Region : Mid Rim
+// Sector : Bryx Sector
+// Grid location : R8
+// X : 10039.1, Y : 2862.97, Z : 12.69834702101855
+Star "Wobani System" // system name
+{
+    RA         0.0872331784925166
+    Dec        24.58630264965068
+    Dist       382999987.3016530
+    Class      "F8 V"
 }
 
 // http://starwars.wikia.com/wiki/Womrik
