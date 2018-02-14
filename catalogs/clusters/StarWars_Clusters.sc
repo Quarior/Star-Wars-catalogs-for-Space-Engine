@@ -90,6 +90,35 @@ Cluster "Starswarm Cluster"
 }
 
 //////////////////////////////////////
+//         Expansion Region         //
+//////////////////////////////////////
+
+// http://starwars.wikia.com/wiki/Aramand_Cluster
+// Region : Expansion Region
+// Sector : Brak
+// Grid location : O14
+// Based on these maps :
+// http://soeempire.freeservers.com/cgi-bin/i/images/brak.jpg
+// http://pro.bols.netdna-cdn.com/wp-content/uploads/2017/03/brak-sector.png 
+// Average coordinates of Aramand, Orma, Cirra, Mila, Lota
+// X : 5739.2118181818, Y : -6975, Z : 4.875
+Cluster "Aramand Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08727576405882764
+    Dec        24.584830905850115
+    Dist       382999996.07362515
+    Radius		4
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+
+//////////////////////////////////////
 //           Hutt Space             //
 //////////////////////////////////////
 
@@ -168,6 +197,27 @@ Cluster "Inner Cluster"
 //////////////////////////////////////
 //           Outer Rim              //
 //////////////////////////////////////
+
+// http://starwars.wikia.com/wiki/Aturi_Cluster
+// Region : Outer Rim Territories
+// Sector : Sarin
+// Grid location : P19
+// Arbitrary placed within the hook nebula/Sarin sector
+// X : 5588, Y : -12089, Z : 0
+Cluster "Aturi Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08727727000593621
+    Dec        24.58406586508401
+    Dist       383000000.17020905
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
 
 // http://starwars.wikia.com/wiki/Jaga%27s_Cluster
 // Region : Outer Rim
