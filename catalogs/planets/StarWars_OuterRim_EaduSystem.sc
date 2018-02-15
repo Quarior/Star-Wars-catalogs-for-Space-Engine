@@ -51,20 +51,20 @@ Planet	"Eadu/Eadu System 4"
 		venusMagn       0
 		mareFreq        1.28466
 		mareDensity     0.0952381
-		terraceProb     0.143537
-		erosion         0.65873
-		montesMagn      10.03175
-		montesFreq      845.937
-		montesSpiky     0.28254
-		montesFraction  0.865134
-		dunesMagn       9.816509
-		dunesFreq       3
-		dunesFraction   0.845485
-		hillsMagn       0.167766
-		hillsFreq       1000
-		hillsFraction   0
-		hills2Fraction  0
-		riversMagn      40.0978
+		terraceProb     0.743537
+		erosion         0.85873
+		montesMagn      0.33175
+		montesFreq      745.937
+		montesSpiky     0.93254
+		montesFraction  0.265134
+		dunesMagn       0.0516509
+		dunesFreq       100
+		dunesFraction   0.3671
+		hillsMagn       0.767766
+		hillsFreq       3000
+		hillsFraction   0.05
+		hills2Fraction  0.384866
+		riversMagn      31.0978
 		riversFreq      3.55338
 		riversSin       5.98391
 		riversOctaves   0
@@ -107,8 +107,8 @@ Planet	"Eadu/Eadu System 4"
 		colorSnow      (1.000, 1.000, 1.000, 0.769)
 		colorLowPlants (0.150, 0.110, 0.250, 0.000)
 		colorUpPlants  (0.150, 0.070, 0.180, 0.000)
-		BumpHeight      3.66667
-		BumpOffset      2.11111
+		BumpHeight      16.6667
+		BumpOffset      11.1111
 		DiffMapAlpha   "Ice"
 		SpecBrightWater 0.5
 		SpecBrightIce   0.5
