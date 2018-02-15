@@ -195,6 +195,35 @@ Cluster "Inner Cluster"
 }
 
 //////////////////////////////////////
+//            Mid Rim               //
+//////////////////////////////////////
+
+// No known systems are included in this cluster since it's not mentioned in wookieepedia
+// So it was arbitrary located in order not to include those systems
+// X : Grakouine system,  Y : Talay system
+//
+// http://starwars.wikia.com/wiki/Baylin_Cluster
+// Region : Mid Rim
+// Sector : Trans-Nebular
+// Grid location : R16
+// X : 9638.65, Y : -9171.82, Z : 114.71441859282857
+Cluster "Baylin Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA          0.0872368722140129
+    Dec         24.584502267123636
+    Dist        382999885.4715756
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+
+//////////////////////////////////////
 //           Outer Rim              //
 //////////////////////////////////////
 
@@ -211,6 +240,32 @@ Cluster "Aturi Cluster"
     RA         0.08727727000593621
     Dec        24.58406586508401
     Dist       383000000.17020905
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Bekkra_Star_Cluster
+// Region : Outer Rim
+// Sector : ?
+// Grid location : ?
+// Not enough sources about its location
+
+// http://starwars.wikia.com/wiki/Bi-Boran_Cluster
+// Region : Outer Rim Territories
+// Sector : Toblain
+// Grid location : O18
+// X : 4854.33, Y : -12089.32, Z : -488.1793910313817
+Cluster "Bi-Boran Cluster" // Centered on Shadda-Bi Boran system
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08728458707278747
+    Dec        24.58406581911164
+    Dist       383000488.3396066
     Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
