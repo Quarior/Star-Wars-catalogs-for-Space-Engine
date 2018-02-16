@@ -4,6 +4,12 @@
 // 2 - log everything
 LogLevel    1
 
+// http://starwars.wikia.com/wiki/Bittelari_Cluster
+// Region : ?
+// Sector : ?
+// Grid location : ?
+// Not enough sources about its location
+
 
 //////////////////////////////////////
 //            Colonies              //
@@ -222,6 +228,45 @@ Cluster "Baylin Cluster"
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
 
+// http://starwars.wikia.com/wiki/Bortele_Cluster
+// Region : Mid Rim
+// Sector : Bortele sector
+// Grid location : R8
+// X : 10219.87, Y : 2545.34, Z : 390.98372540692753 // arbitrary centered on Ingo system
+Cluster "Bortele Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08723107554120182
+    Dec        24.586255124069282
+    Dist       382999609.1811799
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Bright_Jewel_Cluster
+// Region : Mid Rim
+// Sector : Bright Jewel
+// Grid location : L7
+// X : 71.13, Y : 3824.46, Z : 130.29783200959514 // arbitrary centered on Bright Jewel system
+Cluster "Bright Jewel Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08733229060919351
+    Dec        24.586446476601992
+    Dist       382999869.7484826
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
 
 //////////////////////////////////////
 //           Outer Rim              //
