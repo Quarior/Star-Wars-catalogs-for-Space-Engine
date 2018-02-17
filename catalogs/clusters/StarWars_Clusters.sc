@@ -123,6 +123,12 @@ Cluster "Aramand Cluster"
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
 
+// http://starwars.wikia.com/wiki/Chaykin_Cluster
+// Region : Expansion Region
+// Sector : Chaykin
+// Grid location : O14
+// Near corbantis system, not found on any map
+
 
 //////////////////////////////////////
 //           Hutt Space             //
@@ -200,6 +206,27 @@ Cluster "Inner Cluster"
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
 
+// http://starwars.wikia.com/wiki/Zeemacht_Cluster
+// Region : Inner Rim
+// Sector : 
+// Grid location : N8
+// X : 3936.91, Y : 1792.53, Z : 253.7672676357372 // centered on Tirahnn system
+Cluster "Zeemacht Cluster"
+{
+	alaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08729373655756804
+    Dec        24.586142505373857
+    Dist       382999746.27306694
+    Class      "K6 II" // random
+	Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
 //////////////////////////////////////
 //            Mid Rim               //
 //////////////////////////////////////
@@ -268,6 +295,27 @@ Cluster "Bright Jewel Cluster"
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
 
+// http://starwars.wikia.com/wiki/Corbett_Cluster
+// Region : Mid Rim
+// Sector : Corbett sector
+// Grid location : I17
+// X : -3576.85, Y : -10669.73, Z : -72.7875581797465
+Cluster "Corbett Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08736867247519542
+    Dec        24.58427818433705
+    Dist       383000072.89943475
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+
 //////////////////////////////////////
 //           Outer Rim              //
 //////////////////////////////////////
@@ -312,6 +360,27 @@ Cluster "Bi-Boran Cluster" // Centered on Shadda-Bi Boran system
     Dec        24.58406581911164
     Dist       383000488.3396066
     Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Cron_Cluster
+// Region : Outer Rim Territories
+// Sector : Auril
+// Grid location : R6
+// X : 10423.56, Y : 4688.15, Z : 444.54064232783367
+// Arbitrary located on X_Yutusk and Y_Belderone
+Cluster "Cron Cluster" // Was destroyed by the Sith sorceress Aleema Keto during the great Sith War
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08722904409250769
+    Dec        24.586575683205684
+    Dist       382999555.661912
+	Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
 	Age      	760        // default age
@@ -369,3 +438,23 @@ Cluster "Skustell Cluster"
 //////////////////////////////////////
 //           Wild Space             //
 //////////////////////////////////////
+
+// http://starwars.wikia.com/wiki/Cosm%27s_Well
+// Region : Wild Space/Far above Inner Rim
+// Sector : 
+// Grid location : N8
+// X : 3936.91, Y : 1792.53, Z : 4265 // Far above Zeemacht Cluster
+Cluster "Cosm's Well"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Globular"	// out of galaxy disk
+    RA         0.08729373614634987
+    Dec        24.586142511521746
+    Dist       382995735.040335
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
