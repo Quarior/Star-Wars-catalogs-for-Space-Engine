@@ -213,12 +213,11 @@ Cluster "Inner Cluster"
 // X : 3936.91, Y : 1792.53, Z : 253.7672676357372 // centered on Tirahnn system
 Cluster "Zeemacht Cluster"
 {
-	alaxy     	"Star Wars galaxy"
+	Galaxy     	"Star Wars galaxy"
 	Type       	"Open"	// within galaxy disk
     RA         0.08729373655756804
     Dec        24.586142505373857
     Dist       382999746.27306694
-    Class      "K6 II" // random
 	Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
