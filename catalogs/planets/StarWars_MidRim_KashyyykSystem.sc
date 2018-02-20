@@ -225,21 +225,21 @@ Planet	"Kashyyyk"
 		montesMagn      0.15873
 		montesFreq      111.111
 		montesSpiky     0.992063
-		montesFraction  0.134921
+		montesFraction  0.234921
 		dunesMagn       0.0351884
 		dunesFreq       73.6853
 		dunesFraction   0.304581
 		hillsMagn       1.67778
 		hillsFreq       2500
-		hillsFraction   0.111111
-		hills2Fraction  0.902381
+		hillsFraction   0.011111
+		hills2Fraction  0.602381
 		riversMagn      2.38095
 		riversFreq      1.66667
 		riversSin       10
 		riversOctaves   3
-		canyonsMagn     2.30159
+		canyonsMagn     1.30159
 		canyonsFreq     46.0317
-		canyonFraction  0.134921
+		canyonFraction  0.084921
 		cracksMagn      2.46032
 		cracksFreq      1.50794
 		cracksOctaves   4
@@ -762,6 +762,14 @@ Moon	"Alaris Prime/Wookiee Colony 3"
 		colorSnow      (1.000, 1.000, 1.000, 1.000)
 		colorLowPlants (0.235, 0.254, 0.172, 1.000)
 		colorUpPlants  (0.223, 0.239, 0.176, 1.000)
+		DiffMapAlpha   "Water"
+		SpecBrightWater 0.65
+		SpecBrightIce   0.85
+		SpecularPower   55
+		Hapke           0
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
 	}
 
 	Clouds
@@ -784,7 +792,7 @@ Moon	"Alaris Prime/Wookiee Colony 3"
 		Height          100
 		Density         100
 		Pressure        0.976
-		Greenhouse      53.76289
+		Greenhouse      23.76289
 		Bright          10.27619
 		Opacity         1
 		SkyLight        2.301587
@@ -802,7 +810,7 @@ Moon	"Alaris Prime/Wookiee Colony 3"
 	Orbit
 	{
 		Epoch          2454762
-		SemiMajorAxis  0.00147182483
+		SemiMajorAxis  0.00307182483
         //Period         0.0728     // Orbital period in years 
 		Inclination    5.89
 		Eccentricity   0.02
