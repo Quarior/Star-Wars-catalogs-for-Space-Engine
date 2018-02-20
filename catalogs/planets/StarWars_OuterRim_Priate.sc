@@ -64,16 +64,14 @@ Planet	"Mustafar"
 	Albedo          0.32
 	Brightness		5.540
 	Color         ( 1.000 0.000 0.000 )
-
-	NoLife true
 	
-	/*Life
+	Life
 	{
 		Class   "Organic"
 		Type    "Multicellular"
 		Biome   "Terrestrial"
 		Panspermia true
-	}*/
+	}
 
 	Surface
 	{
@@ -89,22 +87,59 @@ Planet	"Mustafar"
 		Exposure		1.7
 		GlowTileSize    130
 		GlowTileBorder  1 
-		 */
+		*/
 		
 		//Procedural
-		seaLevel		0
+		SurfStyle       0.629149
+		OceanStyle      0.16048
+		Randomize      (-0.708, 0.388, -0.257)
+		colorDistMagn   0.0444995
+		colorDistFreq   253.297
+		detailScale     5401.32
+		colorConversion true
+		seaLevel        0
+		snowLevel       2
+		tropicLatitude  0.600501
+		icecapLatitude  10
+		icecapHeight    0.132219
+		climatePole     0.5625
+		climateTropic   0.5625
+		climateEquator  0.6875
+		heightTempGrad  0.375
+		tropicWidth     0.5
+		mainFreq        1.16882
+		venusFreq       0.871459
+		venusMagn       0
 		mareFreq        0
 		mareDensity     0
-		twistZones      1.984
-		twistMagn       0.397
-		cycloneMagn     0
-		cycloneFreq     0
-		cycloneDensity  0
-		cycloneOctaves  0 
-		montesFraction  0.224415
-		hillsFraction   0.268997
-		hills2Fraction  0.5492394
-		volcanoMagn     0.33746
+		terraceProb     0.155415
+		erosion         0
+		montesMagn      0.123456
+		montesFreq      122.141
+		montesSpiky     0.952489
+		montesFraction  0.442314
+		dunesMagn       0.0566337
+		dunesFreq       12.6431
+		dunesFraction   0.176131
+		hillsMagn       0.132956
+		hillsFreq       259.856
+		hillsFraction   0
+		hills2Fraction  0
+		riversMagn      60.476
+		riversFreq      3.06382
+		riversSin       6.07726
+		riversOctaves   0
+		canyonsMagn     0.0594997
+		canyonsFreq     44.326
+		canyonFraction  0
+		cracksMagn      0.0864346
+		cracksFreq      0.19366
+		cracksOctaves   0
+		craterMagn      0.574679
+		craterFreq      7.70428
+		craterDensity   0
+		craterOctaves   0
+		volcanoMagn     0.31746
 		volcanoFreq     3.37302
 		volcanoDensity  0.785714
 		volcanoOctaves  5
@@ -112,38 +147,69 @@ Planet	"Mustafar"
 		volcanoFlows    1
 		volcanoRadius   0.555556
 		volcanoTemp     2261.9
-		lavaCoverTidal	0.4
-		lavaCoverSun	0
-		lavaCoverYoung	0.075
-		ModulateColor  (0.250, 0.250, 0.250, 1.000)
+		lavaCoverTidal  0.275
+		lavaCoverSun    0.175
+		lavaCoverYoung  0.075
+		stripeZones     1.84685
+		stripeTwist     0.188299
+		cycloneMagn     0
+		cycloneFreq     0
+		cycloneDensity  0
+		cycloneOctaves  0
+		colorSea       (0.840, 0.650, 0.200, 0.950)
+		colorShelf     (0.800, 0.670, 0.260, 0.980)
+		colorBeach     (0.860, 0.670, 0.220, 0.000)
+		colorDesert    (0.830, 0.680, 0.220, 0.000)
 		colorLowland   (0.000, 0.000, 0.000, 0.000)
 		colorUpland    (0.000, 0.000, 0.000, 0.125)
 		colorRock      (0.000, 0.000, 0.000, 0.000)
-		BumpHeight		30
-		GlowMode		"Thermal"
-		GlowBright		3.5
+		colorSnow      (0.830, 0.710, 0.230, 0.769)
+		colorLowPlants (0.000, 0.000, 0.000, 0.000)
+		colorUpPlants  (0.000, 0.000, 0.000, 0.125)
+		BumpHeight      20
+		DiffMapAlpha   "Ice"
+		SpecBrightWater 0.5
+		SpecBrightIce   0.5
+		SpecularPower   30
+		Hapke           0
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+		ModulateColor  (0.250 0.250 0.250 1.000)
 	}
 	
 	Clouds
 	{
-		GlowBright		0.250
-		Height          14.00244
+		Height          14.0024
+		Velocity        93.4327
+		BumpHeight      4.18268
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
 		ModulateColor  (1.000 1.000 1.000 0.256)
-		mainFreq		1.881
+		mainFreq        1.881
+		mainOctaves     10
 		Coverage        0.671
-		twistZones      1.984
-		twistMagn       0.397
+		stripeZones     1.84685
+		stripeTwist     0.188299
 	}
-	
+
 	Clouds
 	{
-		GlowBright		0.250
-		Height          15.00244
+		Height          12.0024
+		Velocity        179.27
+		BumpHeight      4.18268
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
 		ModulateColor  (0.898 0.824 0.722 0.256)
-		mainFreq		1.881
+		mainFreq        1.881
+		mainOctaves     10
 		Coverage        0.671
-		twistZones      1.484
-		twistMagn       0.297
+		stripeZones     1.84685
+		stripeTwist     0.188299
 	}
 	
 	Atmosphere
@@ -185,6 +251,7 @@ Planet	"Mustafar"
 		RefPlane       "Equator"
 	}
 }
+
 Planet	"Jestefad"
 {
 	ParentBody     "Jestefad-Lefrani"
