@@ -10,6 +10,12 @@ LogLevel    1
 // Grid location : ?
 // Not enough sources about its location
 
+// http://starwars.wikia.com/wiki/Mooshie_Cluster
+// Region : ?
+// Sector : ?
+// Grid location : ?
+// Not enough sources about its location
+
 
 //////////////////////////////////////
 //            Colonies              //
@@ -35,12 +41,18 @@ Cluster "Anarid Cluster"
 	NStars     1500  // default
 }
 
+// http://starwars.wikia.com/wiki/Novoil_Cluster
+// Region : Colonies
+// Sector : 
+// Grid location : N12
+
 // http://starwars.wikia.com/wiki/Zenox_Cluster
+// http://starwars.wikia.com/wiki/Zenox_Star_Cluster
 // Region : Colonies
 // Sector : 
 // Grid location : K13
 // X : -1112.95, Y : -5428.37, Z : 476.94522256228424
-Cluster	"Zenox"
+Cluster	"Zenox Cluster"
 {
 	Galaxy     "Star Wars galaxy"
 	Type       "Open"	// within galaxy disk
@@ -51,14 +63,76 @@ Cluster	"Zenox"
 	AbsMagn    1 // default
 	CenPow   0.5 // default star concentration parameter
 	//Age      
-	NStars     1500  // default		
+	NStars     1500  // default
 }
 
 //////////////////////////////////////
 //              Core                //
 //////////////////////////////////////
 
+// Koornacht Cluster is cut in 2 parts since it’s not spherical
+// source : http://soeempire.freeservers.com/cgi-bin/i/images/farlax.jpg
 
+// http://starwars.wikia.com/wiki/Koornacht_Cluster
+// Region : Core Worlds
+// Sector : Farlax sector
+// Grid location : K10
+// X : -1410.7, Y : -855.47, Z : -334.76137882230626
+Cluster "Koornacht Cluster (Part A)"
+{
+	Galaxy     "Star Wars galaxy"
+	Type       "Open"	// within galaxy disk
+    RA         0.08734706911845287
+    Dec        24.58574637107359
+    Dist       383000334.7661021
+	Radius   37
+	AbsMagn    1 // default
+	CenPow   0.5 // default star concentration parameter
+	//Age      
+	NStars   2000  // default
+	
+}
+
+// http://starwars.wikia.com/wiki/Koornacht_Cluster
+// Region : 
+// Sector : 
+// Grid location : 
+// X : -1388.3, Y : -837.47, Z : -221.93460982457782
+Cluster "Koornacht Cluster (Part B)"
+{
+	Galaxy     "Star Wars galaxy"
+	Type       "Open"	// within galaxy disk
+    RA         0.08734684572403915
+    Dec        24.585749063880296
+    Dist       383000221.9393116
+    Radius   30.3
+	AbsMagn    1 // default
+	CenPow   0.5 // default star concentration parameter
+	//Age      
+	NStars   2000  // default
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Ringali_Shell
+// Region : Core Worlds
+// Sector : Bormea/Darpa
+// Grid location : L9
+// X : 907.48, Y : 538.41, Z : -88.30110858544464
+// Arbitrary centered on Brentaal, radius distance between Brentaal and barycenter Corulag-Anaxes 389.676161095pcs
+Cluster "Ringali Shell"
+{
+	Galaxy     "Star Wars galaxy"
+	Type       "Open"	// within galaxy disk
+    RA         	0.08732394956274935
+    Dec        	24.585954891882402
+    Dist       	383000088.3114888
+    Radius   	389.676161095
+	AbsMagn    	1 // default
+	CenPow   	0.5 // default star concentration parameter
+	//Age      
+	NStars   	2000  // default
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
 
 //////////////////////////////////////
 //            Deep Core             //
@@ -92,7 +166,8 @@ Cluster "Starswarm Cluster"
 	Radius   40 // default
 	CenPow   10  // star concentration parameter
 	//Age      
-	NStars   2000  // default	
+	NStars   2000  // default
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
 
 //////////////////////////////////////
@@ -129,6 +204,69 @@ Cluster "Aramand Cluster"
 // Grid location : O14
 // Near corbantis system, not found on any map
 
+// http://starwars.wikia.com/wiki/Greater_Plooriod_Cluster
+// Region : Expansion Region
+// Sector : Ploo
+// Grid location : N7
+// X : 2848.04, Y : 3501.22, Z : -525.6521815685704
+Cluster "Greater Plooriod Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08730459609261569
+    Dec        24.586398119299687
+    Dist       383000525.7041886
+    Class      "Arbitrary centered on Corsin System"
+	Radius		4			// default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+
+// http://starwars.wikia.com/wiki/Rainos_Cluster
+// Region : Expansion Region
+// Sector : Rocantor
+// Grid location : L15
+// X : 940.32, Y : -8544.97, Z : -438.60574901192246
+Cluster "Rainos Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08732362205296895
+    Dec        24.584596043627606
+    Dist       383000438.66060334
+    Radius		4			// default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Zuni_Cluster
+// Region : Expansion Region
+// Sector : 
+// Grid location : N14
+// X : 4022, Y : -7200, Z : -500
+// Arbitrary located near Vernet system
+Cluster "Zuni Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08729288802012997
+    Dec        24.584797247447078
+    Dist       383000500.0546572
+	Radius		4			// default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
 
 //////////////////////////////////////
 //           Hutt Space             //
@@ -159,6 +297,26 @@ Cluster "Si'Klaata Cluster"
 /////////////////////////////////////
 //           Inner Rim             //
 /////////////////////////////////////
+
+// http://starwars.wikia.com/wiki/Gelviddis_Cluster
+// Region : Inner Rim
+// Sector : 
+// Grid location : N9
+// X : 3882.27, Y : 401.17, Z : -538.5059289928776
+Cluster "Gelviddis System"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08729428157124959
+    Dec        24.585934360703465
+    Dist       383000538.5339783
+	Radius		4.68       // default radius
+    AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
 
 // Cluster is centered on Millinar (X and Y)
 // Data are set according to these maps
@@ -199,6 +357,26 @@ Cluster "Inner Cluster"
     Dec        	24.585604733996767
     Dist       	382999862.62279814
 	Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Shasfath_Cluster
+// Region : Inner Rim
+// Sector : 
+// Grid location : J14
+// X : -2786.8, Y : -6855.08, Z : -502.9989099912457
+Cluster "Shasfath Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08736079315381119
+    Dec        24.584848846498215
+    Dist       383000503.0381785
+    Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
 	Age      	760        // default age
@@ -314,6 +492,56 @@ Cluster "Corbett Cluster"
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
 
+// http://starwars.wikia.com/wiki/Delphidian_Cluster
+// Region : Mid Rim
+// Sector : ?
+// Grid location : ?
+// Not enough sources about its location aside beneath wookieepedia description
+// The Delphidian Cluster was a stellar nursery situated in the galaxy's Mid Rim, on the fringes of Wild Space.
+
+// http://starwars.wikia.com/wiki/Lesser_Plooriod_Cluster
+// Region : Mid Rim
+// Sector : Ottega
+// Grid location : M6
+// X : 1336.51, Y : 4825.1, Z : 449.46077648796654
+// Urce Space and the Ottega sector lay in the cluster 
+// Arbitrary Y_Ithor, X(Generis+(2x Per lupelo-Generis)). Radius : Ithor-Genassa : 386"
+Cluster "Lesser Plooroid Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08731967076202936
+    Dec        24.58659617059793
+    Dist       382999550.604731
+	Radius		386
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Mektrun_Cluster
+// Region : Mid Rim
+// Sector : Senex/Juvex
+// Grid location : L17
+// X : 471.65, Y : -11734.88, Z : 348.1338497694437
+// The Mektrun Cluster was in the Mid Rim, possibly in Senex sector or Juvex sector. The cluster contained the planet Veron. 
+// Veron is in Senex sector. Arbitrary centered Mektrun cluster on Veron
+Cluster "Mektrun Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.0873282961568371
+    Dec        24.584118839186566
+    Dist       382999651.9868421
+	Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
 
 //////////////////////////////////////
 //           Outer Rim              //
@@ -387,6 +615,43 @@ Cluster "Cron Cluster" // Was destroyed by the Sith sorceress Aleema Keto during
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
 
+// http://starwars.wikia.com/wiki/Gevarno_Cluster
+// Region : Outer Rim Territories
+// Sector : Brema
+// Grid location : M17
+// X : ?, Y : ?, Z : ?
+// Contains systems of Gevarno Loop
+// Gevarno Cluster
+
+// http://starwars.wikia.com/wiki/Greeb-Streebling_Cluster
+// Region : Outer Rim Territories
+// Sector : Bozhnee sector
+// Grid location : L18
+// X : 475.15, Y : -12255.84, Z : -320.4538010585476
+// Ninth Quadrant (include Belsavis) near Senex and Juvex cluster. Arbitrary X Yetoom and Y Ossel
+Cluster "Greeb-Streebling Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08732826125903265
+    Dec        24.58404090753182
+    Dist       383000320.58791405
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Iti_Cluster
+// Region : Outer Rim Territories
+// Sector : Tammuz
+// Grid location : T14
+// X : ?, Y : ?, Z : ?
+// Not enough data except it contains Iti system
+// Gevarno Cluster
+
 // http://starwars.wikia.com/wiki/Jaga%27s_Cluster
 // Region : Outer Rim
 // Sector : Esstran Sector
@@ -400,6 +665,54 @@ Cluster "Jaga's Cluster"
     Dec        24.58691751257332
     Dist       382999820.1894619
 	Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Minos_Cluster/Legends
+// Region : Outer Rim Territories
+// Sector : 
+// Grid location : M20
+// X : 2436.12, Y : -16048.04, Z : -481.5987720179705
+// Arbitrary centered on Karideph, Radius : Arbitrary Adarlon-Pergitor : 415.5
+Cluster "Minos Cluster System"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08730870422647984
+    Dec        24.583473605867134
+    Dist       383000481.85935706
+    Radius		415.5      // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Naps_Fral_Cluster
+// Region : Outer Rim Territories
+// Sector : Ferra
+// Grid location : S16
+// Between Ryloth and Nal hutta (on hyperlanes)
+
+// http://starwars.wikia.com/wiki/Pacanth_Reach
+// Region : Outer Rim Territories
+// Sector : 
+// Grid location : H16
+// X : -5726.08, Y : -9422.715, Z : 17
+// Arbitrary centered on Panatha-Bunduki barycenter, radius is half Panatha-Bunduki distance i.e. 397.9490840832pcs
+Cluster "Pacanth Reach"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.0873901070899377
+    Dec        24.58446473416719
+    Dist       382999983.1122085
+    Radius		397.9490840832
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
 	Age      	760        // default age
@@ -428,10 +741,125 @@ Cluster "Skustell Cluster"
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
 
+// http://starwars.wikia.com/wiki/Thandon_Cluster
+// Region : Outer Rim Territories
+// Sector : Corporate
+// Grid location : S3
+// X : 11200.36, Y : 9298.05, Z : -405.45679722885967
+// Arbitrary centered on Brosi system
+Cluster "Thandon Cluster/Thandon Nebula"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08722129718407584
+    Dec        24.587265308968238
+    Dist       383000405.7911046
+	Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Tion_Cluster/Legends
+// Region : Outer Rim Territories
+// Sector : 
+// Grid location : S5
+// X : 11458.05, Y : 5583.52, Z : 555.210767863819
+// Arbitrary centered on Jaminere system, radius : jaminere-desevro x2 : 919.2963066574pcs
+Cluster "Tion Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.0872187269176782
+    Dec        24.586709628660923
+    Dist       382999445.03832704
+	Radius		919.2963066574
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Vallusk_Cluster
+// Region : Outer Rim Territories
+// Sector : Gordian Reach
+// Grid location : Q6
+// X : 7520.32, Y : 5746.59, Z : -489.9834562441322
+Cluster "Vallusk Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08725799877366544
+    Dec        24.586734020317635
+    Dist       383000490.1383092
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Vorzyd_Cluster
+// Region : Outer Rim Territories
+// Sector : Vorzyd
+// Grid location : R6
+// X : 9225.64, Y : 5161.03, Z : -46.55953379920334
+// Arbitrary centered on Vorzyd
+Cluster "Vorzyd Cluster System"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08724099126702409
+    Dec        24.586646423476967
+    Dist       383000046.74007094
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
 
 //////////////////////////////////////
 //           Unknown Regions        //
 //////////////////////////////////////
+
+// http://starwars.wikia.com/wiki/Nihil_Retreat
+// Region : Unknown Regions
+// Sector : ?
+// Grid location : ?
+// 12 star clusters surrounding Perann Nebula
+
+// http://starwars.wikia.com/wiki/Ssi-ruuk_Star_Cluster
+// Region : Unknown Regions
+// Sector : 
+// Grid location : C16
+// X : -12229.03, Y : -9521.08, Z : -203.57308510503975
+// Arbitrary centered on Lwhekk
+Cluster "Ssi-ruuk Star Cluster/Ssi-Ruuvi Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.0874549619554183
+    Dec        24.58445001966129
+    Dist       383000203.8396085
+	Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Unidentified_Unknown_Regions_star_cluster
+// Region : Unknown Regions
+// Sector : ?
+// Grid location : ?
 
 
 //////////////////////////////////////
@@ -450,6 +878,67 @@ Cluster "Cosm's Well"
     RA         0.08729373614634987
     Dec        24.586142511521746
     Dist       382995735.040335
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Morellian_Commonwealth/Legends
+// Region : Wild Space
+// Sector : 
+// Grid location : S3
+// X : 11474.7, Y : 9763.99, Z : 403.81962518371313
+// Arbitrary centered on Morellia system
+Cluster "Morellian Commonwealth"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.0872185609096304
+    Dec        24.587335016037006
+    Dist       382999596.5369918
+	Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/Parthovian_Cluster
+// Region : Wild Space
+// Sector : 
+// Grid location : T4
+// X : 12456.29, Y : 8811, Z : 61.254667264624004
+Cluster "Parthovian Cluster"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08720877146052514
+    Dec        24.587192449657888
+    Dist       382999939.10420305
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// http://starwars.wikia.com/wiki/The_Redoubt
+// Region : Wild Space
+// Sector : 
+// Grid location : H7
+// X : -4835.31, Y : 3155.78, Z : 225.65862565454347
+Cluster "The Redoubt/Chiss Redoubt System"
+{
+	Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08738122332791172
+    Dec        24.586346444018584
+    Dist       382999774.4083903
     Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
