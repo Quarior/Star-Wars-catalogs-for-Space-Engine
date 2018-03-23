@@ -1571,7 +1571,7 @@ Star "Tyrius System" // system name
     RA         0.08724364012451098
     Dec        24.58438311332946
     Dist       382999566.38297194
-    Class      "M6 III" // random
+    Class      "G6 V"
 }
 
 // http://starwars.wikia.com/wiki/Tythe
