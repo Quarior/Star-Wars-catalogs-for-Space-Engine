@@ -1978,7 +1978,7 @@ Planet	"Rasapan/Kuat System 6"
 
 DwarfMoon	"Rasapan D1"
 {
-	ParentBody     "2"
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            3.46074e-010
@@ -2087,7 +2087,7 @@ DwarfMoon	"Rasapan D1"
 
 Moon	"Rasapan 1"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Selena"
 
 	Mass            0.0244417
@@ -2237,7 +2237,7 @@ Moon	"Rasapan 1"
 
 DwarfMoon	"Rasapan D2"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            7.61703e-010
@@ -2344,7 +2344,7 @@ DwarfMoon	"Rasapan D2"
 
 DwarfMoon	"Rasapan D3"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            1.10144e-009
@@ -2451,7 +2451,7 @@ DwarfMoon	"Rasapan D3"
 
 DwarfMoon	"Rasapan D4"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            1.57166e-009
@@ -2558,7 +2558,7 @@ DwarfMoon	"Rasapan D4"
 
 DwarfMoon	"Rasapan D5"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            2.21787e-009
@@ -2665,7 +2665,7 @@ DwarfMoon	"Rasapan D5"
 
 DwarfMoon	"Rasapan D6"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            3.10092e-009
@@ -2772,7 +2772,7 @@ DwarfMoon	"Rasapan D6"
 
 DwarfMoon	"Rasapan D7"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            4.3023e-009
@@ -2879,7 +2879,7 @@ DwarfMoon	"Rasapan D7"
 
 DwarfMoon	"Rasapan D8"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            5.93144e-009
@@ -2986,7 +2986,7 @@ DwarfMoon	"Rasapan D8"
 
 DwarfMoon	"Rasapan D9"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            8.13564e-009
@@ -3093,7 +3093,7 @@ DwarfMoon	"Rasapan D9"
 
 DwarfMoon	"Rasapan D10"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            1.11139e-008
@@ -3200,7 +3200,7 @@ DwarfMoon	"Rasapan D10"
 
 DwarfMoon	"Rasapan D11"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            1.51364e-008
@@ -3307,7 +3307,7 @@ DwarfMoon	"Rasapan D11"
 
 DwarfMoon	"Rasapan D12"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            2.05713e-008
@@ -3414,7 +3414,7 @@ DwarfMoon	"Rasapan D12"
 
 DwarfMoon	"Rasapan D13"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            2.79237e-008
@@ -3521,7 +3521,7 @@ DwarfMoon	"Rasapan D13"
 
 DwarfMoon	"Rasapan D14"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            3.78906e-008
@@ -3628,7 +3628,7 @@ DwarfMoon	"Rasapan D14"
 
 DwarfMoon	"Rasapan D15"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            5.14412e-008
@@ -3735,7 +3735,7 @@ DwarfMoon	"Rasapan D15"
 
 DwarfMoon	"Rasapan D16"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            6.99342e-008
@@ -3842,7 +3842,7 @@ DwarfMoon	"Rasapan D16"
 
 DwarfMoon	"Rasapan D17"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            9.52923e-008
@@ -3949,7 +3949,7 @@ DwarfMoon	"Rasapan D17"
 
 DwarfMoon	"Rasapan D18"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            1.30264e-007
@@ -4056,7 +4056,7 @@ DwarfMoon	"Rasapan D18"
 
 DwarfMoon	"Rasapan D19"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            1.78826e-007
@@ -4163,7 +4163,7 @@ DwarfMoon	"Rasapan D19"
 
 DwarfMoon	"Rasapan D20"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            2.46807e-007
@@ -4270,7 +4270,7 @@ DwarfMoon	"Rasapan D20"
 
 DwarfMoon	"Rasapan D21"
 {
-	ParentBody     "Rasapan "
+	ParentBody     "Rasapan"
 	Class	       "Asteroid"
 
 	Mass            3.42878e-007

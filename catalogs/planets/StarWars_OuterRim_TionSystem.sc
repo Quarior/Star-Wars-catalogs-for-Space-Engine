@@ -4,6 +4,145 @@
 // Grid location : S5
 // X : 11595.67, Y : 6119.69, Z : 208.14891304406
 
+Star	"Tion System A"
+{
+	ParentBody     "Tion System"
+	Class	       "B8.2 V"
+	Luminosity      58.4281
+	//MassSol         3.67881
+	RadSol          2.73586
+	Teff            11620
+
+	InertiaMoment   0.0397552
+
+	Obliquity       -177.916
+	EqAscendNode    47.4346
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      2
+	Color          (0.531 0.641 1.000)
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	Atmosphere
+	{
+		Model          "Sun"
+		Height          19041.6
+		Density         0
+		Pressure        1
+		Bright          10
+		Opacity         0
+		SkyLight        0
+		Hue             0
+		Saturation      1
+	}
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	Corona
+	{
+		Radius      1.07766e+007
+		Period      0.0399982
+		Brightness  0.5
+		RayDensity  5.15607
+		RayCurv     14.3811
+	}
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.171362
+		Period          0.146676
+		Eccentricity    0.511968
+		Inclination     -177.916
+		AscendingNode   47.4346
+		ArgOfPericenter 72.9635
+		MeanAnomaly     162.843
+	}
+}
+
+Star	"Tion System B"
+{
+	ParentBody     "Tion System"
+	Class	       "B9.6 V"
+	Luminosity      22.6664
+	//MassSol         2.31466
+	RadSol          2.71912
+
+	InertiaMoment   0.0662978
+
+	Obliquity       -177.916
+	EqAscendNode    47.4346
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      2
+	Color          (0.764 0.801 1.000)
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	Atmosphere
+	{
+		Model          "Sun"
+		Height          18925
+		Density         0
+		Pressure        1
+		Bright          10
+		Opacity         0
+		SkyLight        0
+		Hue             0
+		Saturation      1
+	}
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	Corona
+	{
+		Radius      1.00977e+007
+		Period      0.0352608
+		Brightness  0.5
+		RayDensity  3.67771
+		RayCurv     22.7447
+	}
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.272354
+		Period          0.146676
+		Eccentricity    0.511968
+		Inclination     -177.916
+		AscendingNode   47.4346
+		ArgOfPericenter 252.964
+		MeanAnomaly     162.843
+	}
+}
+
 Planet	"Tion/Tion Proper/Tion System 4"
 {
 	ParentBody     "Tion System"
@@ -492,145 +631,6 @@ Moon	"Tion's Moon 3/Tion System 4.3"
 ///////////////
 // Generated //
 ///////////////
-
-Star	"Tion System A"
-{
-	ParentBody     "Tion System"
-	Class	       "B8.2 V"
-	Luminosity      58.4281
-	MassSol         3.67881
-	RadSol          2.73586
-	Teff            11620
-
-	InertiaMoment   0.0397552
-
-	Obliquity       -177.916
-	EqAscendNode    47.4346
-	Precession      0
-	TidalLocked     true
-
-	AlbedoBond      0.3
-	AlbedoGeom      0.36
-	Brightness      2
-	Color          (0.531 0.641 1.000)
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Sun"
-		Height          19041.6
-		Density         0
-		Pressure        1
-		Bright          10
-		Opacity         0
-		SkyLight        0
-		Hue             0
-		Saturation      1
-	}
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	Corona
-	{
-		Radius      1.07766e+007
-		Period      0.0399982
-		Brightness  0.5
-		RayDensity  5.15607
-		RayCurv     14.3811
-	}
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.171362
-		Period          0.146676
-		Eccentricity    0.511968
-		Inclination     -177.916
-		AscendingNode   47.4346
-		ArgOfPericenter 72.9635
-		MeanAnomaly     162.843
-	}
-}
-
-Star	"Tion System B"
-{
-	ParentBody     "Tion System"
-	Class	       "B9.6 V"
-	Luminosity      22.6664
-	MassSol         2.31466
-	RadSol          2.71912
-
-	InertiaMoment   0.0662978
-
-	Obliquity       -177.916
-	EqAscendNode    47.4346
-	Precession      0
-	TidalLocked     true
-
-	AlbedoBond      0.3
-	AlbedoGeom      0.36
-	Brightness      2
-	Color          (0.764 0.801 1.000)
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Sun"
-		Height          18925
-		Density         0
-		Pressure        1
-		Bright          10
-		Opacity         0
-		SkyLight        0
-		Hue             0
-		Saturation      1
-	}
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	Corona
-	{
-		Radius      1.00977e+007
-		Period      0.0352608
-		Brightness  0.5
-		RayDensity  3.67771
-		RayCurv     22.7447
-	}
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.272354
-		Period          0.146676
-		Eccentricity    0.511968
-		Inclination     -177.916
-		AscendingNode   47.4346
-		ArgOfPericenter 252.964
-		MeanAnomaly     162.843
-	}
-}
 
 DwarfPlanet	"Tion System 1"
 {

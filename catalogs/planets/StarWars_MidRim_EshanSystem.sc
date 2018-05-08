@@ -4035,7 +4035,7 @@ Planet	"Eshan System 6"
 	}
 }
 
-Barycenter	"7-7.1"
+Barycenter	"Eshan System 7-7.1"
 {
 	ParentBody     "Eshan System"
 	Mass            2.35768
@@ -11058,7 +11058,7 @@ DwarfMoon	"Eshan System 8.D35"
 	}
 }
 
-Barycenter	"9-9.1"
+Barycenter	"Eshan System 9-9.1"
 {
 	ParentBody     "Eshan System"
 	Mass            0.00433808
