@@ -1191,6 +1191,7 @@ Star "Korfo System" // system name
 }
 
 // http://starwars.wikia.com/wiki/Kuat
+// http://starwars.wikia.com/wiki/Kuat_(star)
 // Region : Core
 // Sector : Kuat
 // Grid location : M10
@@ -1200,7 +1201,7 @@ Star "Kuat/Kuat System" // Star name / system name
     RA         0.0873050532872023
     Dec        24.585739804152293
     Dist       382999511.86446863
-    Class      "K2 V"
+    Class      "M3 IV"
 }
 
 // http://starwars.wikia.com/wiki/Lansono
