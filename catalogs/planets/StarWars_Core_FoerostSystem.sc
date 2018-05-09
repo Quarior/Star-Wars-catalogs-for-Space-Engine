@@ -28,8 +28,8 @@ Planet	"Foerost/Foerost System 8"
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Terrestrial"
-		Panspermia "true"
+		Biome   "Marine/Terrestrial"
+		Panspermia "false"
 	}
 
 	Surface
