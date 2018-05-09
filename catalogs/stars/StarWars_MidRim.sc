@@ -1884,7 +1884,7 @@ Star "Iridonia System" // system name
     RA         0.08735027172241722
     Dec        24.58653308485429
     Dist       382999736.00090075
-    Class      "M9 III" // random
+    Class      "M8 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Iskalon
