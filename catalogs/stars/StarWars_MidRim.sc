@@ -1512,7 +1512,7 @@ Star "Fengrine System" // system name
 
 // http://starwars.wikia.com/wiki/Fornax
 // Region : Mid Rim
-// Sector : Clythe Sector
+// Sector : Glythe Sector
 // Grid location : J7
 // X : -1503.1, Y : 3951.32, Z : -431.5478049477909
 Star "Fornax System" // system name
@@ -1876,7 +1876,7 @@ Star "Ingo System" // system name
 
 // http://starwars.wikia.com/wiki/Iridonia
 // Region : Mid Rim
-// Sector : Clythe Sector
+// Sector : Glythe Sector
 // Grid location : J7
 // X : -1731.82, Y : 4403.4, Z : 264.05876303407706
 Star "Iridonia System" // system name
@@ -3007,7 +3007,7 @@ Star "Neelanon System" // system name
 
 // http://starwars.wikia.com/wiki/Nentan
 // Region : Mid Rim
-// Sector : Clythe Sector
+// Sector : Glythe Sector
 // Grid location : K7
 // X : -1045.66, Y : 3483.17, Z : 445.5306145476641
 Star "Nentan System" // system name
@@ -4040,7 +4040,7 @@ Star "Sinton System" // system name
 // Sector : Senex Sector
 // Grid location : L17
 // X : 368.79, Y : -11761.47, Z : 287.01048774241997
-Star "Skärtis System" // system name
+Star "Skï¿½rtis System" // system name
 {
     RA         0.08732932199715213
     Dec        24.58411486161971
@@ -4232,7 +4232,7 @@ Star "Tekurr'k System" // system name
 
 // http://starwars.wikia.com/wiki/Vortex
 // Region : Mid Rim
-// Sector : Clythe Sector
+// Sector : Glythe Sector
 // Grid location : K7
 // X : -1372.58, Y : 3317.21, Z : -198.7021801838108
 Star "Ten Tempests system System" // system name
@@ -4635,7 +4635,7 @@ Star "Valorsi System" // system name
 
 // http://starwars.wikia.com/wiki/Valrar
 // Region : Mid Rim
-// Sector : Clythe Sector
+// Sector : Glythe Sector
 // Grid location : J7
 // X : -1781.85, Y : 4103.21, Z : -107.15882289220218
 Star "Valrar System" // system name
