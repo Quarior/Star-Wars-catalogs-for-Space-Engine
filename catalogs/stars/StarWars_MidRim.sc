@@ -4040,7 +4040,7 @@ Star "Sinton System" // system name
 // Sector : Senex Sector
 // Grid location : L17
 // X : 368.79, Y : -11761.47, Z : 287.01048774241997
-Star "Sk�rtis System" // system name
+Star "Skärtis System" // system name
 {
     RA         0.08732932199715213
     Dec        24.58411486161971
