@@ -904,12 +904,12 @@ Star "Taral System" // system name
 // Sector : Ojoster Sector
 // Grid location : N7
 // X : 4077.09, Y : 4354.77, Z : -470.41515632534947
-Star "Taris System" // system name
+Star "Taris/Taris System" // system name
 {
     RA         0.08729233859655873
     Dec        24.5865258080701
     Dist       383000470.4917785
-    Class      "M7 III" // random
+    Class      "K7 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Tarnoonga
