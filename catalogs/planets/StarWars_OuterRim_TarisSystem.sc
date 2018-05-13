@@ -10465,22 +10465,22 @@ Planet	"Taris/Taris System 6"
 		detailScale     15689.6
 		colorConversion true
 		drivenDarkening -1
-		seaLevel        0.285714
+		seaLevel        0.285705
 		snowLevel       0.85
 		tropicLatitude  0.611277
 		icecapLatitude  1
 		icecapHeight    0
-		climatePole     0.9375
-		climateTropic   0.3125
+		climatePole     0.571429
+		climateTropic   0.325397
 		climateEquator  0.6875
 		heightTempGrad  0.625
 		tropicWidth     0.07
 		mainFreq        0.68297
-		venusFreq       0.623948
+		venusFreq       0.85
 		venusMagn       0.396825
 		mareFreq        6.05128
 		mareDensity     2.40283e-006
-		terraceProb     0.385967
+		terraceProb     0.685292
 		erosion         0.117686
 		montesMagn      0.189838
 		montesFreq      227.143
@@ -10499,7 +10499,7 @@ Planet	"Taris/Taris System 6"
 		riversOctaves   2
 		canyonsMagn     0.0437206
 		canyonsFreq     100
-		canyonFraction  0.900266
+		canyonFraction  0.59812
 		cracksMagn      0.0657829
 		cracksFreq      0.508728
 		cracksOctaves   0
@@ -10529,13 +10529,13 @@ Planet	"Taris/Taris System 6"
 		colorSea       (0.040, 0.200, 0.200, 1.000)
 		colorShelf     (0.150, 0.370, 0.370, 1.000)
 		colorBeach     (0.740, 0.730, 0.610, 0.000)
-		colorDesert    (0.450, 0.420, 0.380, 0.000)
-		colorLowland   (0.480, 0.380, 0.280, 0.000)
-		colorUpland    (0.600, 0.540, 0.420, 0.000)
-		colorRock      (0.170, 0.160, 0.160, 0.000)
+		colorDesert    (0.810, 0.890, 0.730, 0.000)
+		colorLowland   (0.380, 0.540, 0.490, 0.000)
+		colorUpland    (0.560, 0.600, 0.580, 0.000)
+		colorRock      (0.860, 0.820, 0.730, 0.000)
 		colorSnow      (1.000, 1.000, 1.000, 1.308)
-		colorLowPlants (0.230, 0.200, 0.020, 0.000)
-		colorUpPlants  (0.500, 0.470, 0.050, 0.000)
+		colorLowPlants (0.380, 0.540, 0.490, 0.000)
+		colorUpPlants  (0.460, 0.670, 0.510, 0.000)
 		BumpHeight      30.1587
 		BumpOffset      7.14286
 		DiffMapAlpha   "Water"
@@ -10583,11 +10583,11 @@ Planet	"Taris/Taris System 6"
 		Density         1
 		Pressure        1
 		Greenhouse      223.81
-		Bright          3.94471
-		Opacity         0
-		SkyLight        1.3149
-		Hue             -0.0458227
-		Saturation      1
+		Bright          20
+		Opacity         0.928571
+		SkyLight        0.873016
+		Hue             0.015873
+		Saturation      2
 
 		Composition
 		{
@@ -10636,6 +10636,22170 @@ Planet	"Taris/Taris System 6"
 		AscendingNode   -112.963
 		ArgOfPericenter 242.935
 		MeanAnomaly     233.355
+	}
+}
+
+// http://starwars.wikia.com/wiki/Rogue_moon
+Moon	"Rogue Moon/Taris System 6.4"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Selena"
+
+	Mass            0.00234621
+	Radius          1097.16
+	InertiaMoment   0.398089
+
+	Oblateness      0.00120108
+
+	RotationPeriod  66.6692
+	Obliquity       -57.9915
+	EqAscendNode    115.266
+	Precession      0
+
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      2
+	Color          (0.532 0.528 0.526)
+
+	Surface
+	{
+		SurfStyle       0.310317
+		OceanStyle      0.144295
+		Randomize      (0.698, -0.752, 0.925)
+		colorDistMagn   0.444444
+		colorDistFreq   299.358
+		detailScale     1342.33
+		colorConversion true
+		drivenDarkening 0
+		seaLevel        0.185321
+		snowLevel       1
+		tropicLatitude  0.853819
+		icecapLatitude  1
+		icecapHeight    0.0951951
+		climatePole     0.4375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        4.40476
+		venusFreq       2
+		venusMagn       0
+		mareFreq        0.001
+		mareDensity     0.00031093
+		terraceProb     0.161816
+		erosion         0.325397
+		montesMagn      0.0793651
+		montesFreq      39.6825
+		montesSpiky     0.0396825
+		montesFraction  0.624856
+		dunesMagn       0.0438886
+		dunesFreq       100
+		dunesFraction   0.266799
+		hillsMagn       0.634921
+		hillsFreq       547.619
+		hillsFraction   0.66691
+		hills2Fraction  0
+		riversMagn      59.0456
+		riversFreq      3.85713
+		riversSin       6.06461
+		riversOctaves   0
+		canyonsMagn     0.457532
+		canyonsFreq     0.150004
+		canyonFraction  0.633147
+		cracksMagn      0.0671763
+		cracksFreq      0.330077
+		cracksOctaves   0
+		craterMagn      0.633717
+		craterFreq      22.8571
+		craterDensity   0.753968
+		craterOctaves   9
+		craterRayedFactor 0.0683399
+		volcanoMagn     0.18388
+		volcanoFreq     0.879522
+		volcanoDensity  0.4
+		volcanoOctaves  3
+		volcanoActivity 1.73979
+		volcanoFlows    0.288055
+		volcanoRadius   0.154273
+		volcanoTemp     1491.6
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		stripeZones     0
+		stripeFluct     0
+		stripeTwist     0
+		cycloneMagn     0
+		cycloneFreq     0
+		cycloneDensity  0
+		cycloneOctaves  0
+		colorSea       (0.420, 0.420, 0.430, 0.000)
+		colorShelf     (0.470, 0.480, 0.480, 0.000)
+		colorBeach     (0.550, 0.566, 0.593, 0.000)
+		colorDesert    (0.480, 0.457, 0.455, 0.000)
+		colorLowland   (0.620, 0.590, 0.580, 1.000)
+		colorUpland    (0.650, 0.645, 0.603, 0.000)
+		colorRock      (0.340, 0.340, 0.340, 0.000)
+		colorSnow      (1.000, 1.000, 1.000, 1.000)
+		BumpHeight      20
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   55
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	NoClouds        true
+
+	Ocean
+	{
+		Height          8.61649
+		Hapke           0
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+	}
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.0113798
+		Period          1.01185
+		Eccentricity    0.0471682
+		Inclination     181.46997  // Retrograde Orbit
+		AscendingNode   115.312
+		ArgOfPericenter -10.5512
+		MeanAnomaly     11.0855
+	}
+}
+
+
+// 3 other Taris moons
+Moon	"Taris System 6.1"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Selena"
+
+	Mass            0.000666394
+	Radius          723.452
+	InertiaMoment   0.399491
+
+	Oblateness      0.00925198
+
+	Obliquity       0.79302
+	EqAscendNode    11.5795
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      3.5
+	Color          (0.662 0.659 0.653)
+
+	Surface
+	{
+		SurfStyle       0.635817
+		OceanStyle      0.56588
+		Randomize      (-0.264, 0.673, 0.243)
+		colorDistMagn   0.0540472
+		colorDistFreq   88.5595
+		detailScale     1860.76
+		colorConversion true
+		drivenDarkening 0
+		seaLevel        0.321006
+		snowLevel       2
+		tropicLatitude  0.0275366
+		icecapLatitude  0.561011
+		icecapHeight    0.346724
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        1.74877
+		venusFreq       0.907588
+		venusMagn       0
+		mareFreq        0.094793
+		mareDensity     0.000407534
+		terraceProb     0.259388
+		erosion         0
+		montesMagn      0.0482291
+		montesFreq      29.0155
+		montesSpiky     0.901737
+		montesFraction  0.269677
+		dunesMagn       0.0309639
+		dunesFreq       916.621
+		dunesFraction   0.554474
+		hillsMagn       0.132368
+		hillsFreq       84.3809
+		hillsFraction   0.715733
+		hills2Fraction  0
+		riversMagn      56.3129
+		riversFreq      3.14603
+		riversSin       3.17716
+		riversOctaves   0
+		canyonsMagn     0.402174
+		canyonsFreq     0.232177
+		canyonFraction  0.760341
+		cracksMagn      0.0682124
+		cracksFreq      0.235498
+		cracksOctaves   0
+		craterMagn      0.665109
+		craterFreq      1.58542
+		craterDensity   0.884642
+		craterOctaves   9.18001
+		craterRayedFactor 0.140554
+		volcanoMagn     0.16453
+		volcanoFreq     0.665861
+		volcanoDensity  0.4
+		volcanoOctaves  3
+		volcanoActivity 2
+		volcanoFlows    0.159161
+		volcanoRadius   0.157201
+		volcanoTemp     1386.02
+		lavaCoverTidal  0.0911103
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.430, 0.400, 0.370, 0.000)
+		colorShelf     (0.620, 0.600, 0.530, 0.000)
+		colorBeach     (0.411, 0.402, 0.353, 0.000)
+		colorDesert    (0.431, 0.409, 0.359, 0.000)
+		colorLowland   (0.338, 0.303, 0.274, 0.000)
+		colorUpland    (0.497, 0.468, 0.405, 0.000)
+		colorRock      (0.300, 0.260, 0.220, 0.000)
+		colorSnow      (1.000, 1.000, 1.000, 1.000)
+		BumpHeight      20
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   55
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.000221922
+		Period          0.00276041
+		Eccentricity    0.0238164
+		Inclination     0.79302
+		AscendingNode   11.5795
+		ArgOfPericenter 132.129
+		MeanAnomaly     78.853
+	}
+}
+
+Moon	"Taris System 6.2"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Selena"
+
+	Mass            0.000937545
+	Radius          810.078
+	InertiaMoment   0.398436
+
+	Obliquity       -1.30177
+	EqAscendNode    107.311
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      2
+	Color          (0.739 0.631 0.572)
+
+	Surface
+	{
+		SurfStyle       0.0442854
+		OceanStyle      0.395499
+		Randomize      (0.144, 0.395, 0.103)
+		colorDistMagn   0.0436127
+		colorDistFreq   105.415
+		detailScale     2083.57
+		colorConversion true
+		drivenDarkening 0
+		seaLevel        0.152485
+		snowLevel       2
+		tropicLatitude  0.026924
+		icecapLatitude  0.917536
+		icecapHeight    0.158711
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        1.74064
+		venusFreq       0.477698
+		venusMagn       0
+		mareFreq        0.159399
+		mareDensity     0.000640861
+		terraceProb     0.385813
+		erosion         0
+		montesMagn      0.0505144
+		montesFreq      30.5356
+		montesSpiky     0.952091
+		montesFraction  0.123085
+		dunesMagn       0.0527905
+		dunesFreq       1068.71
+		dunesFraction   0.670213
+		hillsMagn       0.119714
+		hillsFreq       106.899
+		hillsFraction   0.0720563
+		hills2Fraction  0.246742
+		riversMagn      46.6636
+		riversFreq      3.22774
+		riversSin       5.38441
+		riversOctaves   0
+		canyonsMagn     0.602659
+		canyonsFreq     0.306789
+		canyonFraction  0
+		cracksMagn      0.0579015
+		cracksFreq      0.458134
+		cracksOctaves   0
+		craterMagn      0.6038
+		craterFreq      2.14235
+		craterDensity   0.85533
+		craterOctaves   10
+		craterRayedFactor 0.0682166
+		volcanoMagn     0.174758
+		volcanoFreq     0.816039
+		volcanoDensity  0.183206
+		volcanoOctaves  3
+		volcanoActivity 0
+		volcanoFlows    0.217958
+		volcanoRadius   0.131836
+		volcanoTemp     1580
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.739, 0.631, 0.572, 0.500)
+		colorShelf     (0.702, 0.600, 0.544, 0.500)
+		colorBeach     (0.517, 0.442, 0.400, 0.750)
+		colorDesert    (0.628, 0.537, 0.486, 1.000)
+		colorLowland   (0.650, 0.555, 0.503, 1.000)
+		colorUpland    (0.687, 0.587, 0.532, 1.000)
+		colorRock      (1.000, 1.000, 1.000, 1.000)
+		colorSnow      (1.000, 1.000, 1.000, 0.154)
+		colorLowPlants (0.650, 0.555, 0.503, 1.000)
+		colorUpPlants  (0.687, 0.587, 0.532, 1.000)
+		BumpHeight      20
+		DiffMapAlpha   "Ice"
+		SpecBrightWater 0.03
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.2
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.000593861
+		Period          0.0120803
+		Eccentricity    0.00450409
+		Inclination     -1.30177
+		AscendingNode   107.311
+		ArgOfPericenter -31.2777
+		MeanAnomaly     15.488
+	}
+}
+
+Moon	"Taris System 6.3"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Selena"
+
+	Mass            0.00128898
+	Radius          900.097
+	InertiaMoment   0.396366
+
+	Obliquity       -1.15648
+	EqAscendNode    -115.102
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      2
+	Color          (0.636 0.634 0.631)
+
+	Surface
+	{
+		SurfStyle       0.971484
+		OceanStyle      0.936643
+		Randomize      (0.921, 0.456, -0.494)
+		colorDistMagn   0.0787935
+		colorDistFreq   99.0716
+		detailScale     2315.1
+		colorConversion true
+		drivenDarkening 0
+		seaLevel        0.188627
+		snowLevel       2
+		tropicLatitude  0.0216572
+		icecapLatitude  0.912504
+		icecapHeight    0.192882
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        1.7984
+		venusFreq       1.5278
+		venusMagn       0
+		mareFreq        0.232831
+		mareDensity     0.000640413
+		terraceProb     0.365719
+		erosion         0
+		montesMagn      0.066727
+		montesFreq      52.8366
+		montesSpiky     0.910484
+		montesFraction  0.401149
+		dunesMagn       0.0406127
+		dunesFreq       1159.28
+		dunesFraction   0.83582
+		hillsMagn       0.131089
+		hillsFreq       96.3689
+		hillsFraction   0.0354444
+		hills2Fraction  0.101418
+		riversMagn      57.9692
+		riversFreq      2.62166
+		riversSin       8.19904
+		riversOctaves   0
+		canyonsMagn     0.408944
+		canyonsFreq     0.343257
+		canyonFraction  0
+		cracksMagn      0.0488345
+		cracksFreq      0.298898
+		cracksOctaves   0
+		craterMagn      0.634071
+		craterFreq      1.75425
+		craterDensity   0.707662
+		craterOctaves   10
+		craterRayedFactor 0.189325
+		volcanoMagn     0.187698
+		volcanoFreq     0.909233
+		volcanoDensity  0.208727
+		volcanoOctaves  3
+		volcanoActivity 0
+		volcanoFlows    0.167142
+		volcanoRadius   0.163761
+		volcanoTemp     1431.73
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.483, 0.450, 0.366, 1.000)
+		colorShelf     (0.483, 0.450, 0.366, 1.000)
+		colorBeach     (0.445, 0.393, 0.316, 1.000)
+		colorDesert    (0.445, 0.393, 0.316, 1.000)
+		colorLowland   (0.541, 0.514, 0.480, 1.000)
+		colorUpland    (0.566, 0.564, 0.543, 1.000)
+		colorRock      (0.930, 0.910, 0.860, 1.000)
+		colorSnow      (1.000, 1.000, 1.000, 0.154)
+		colorLowPlants (0.541, 0.514, 0.480, 1.000)
+		colorUpPlants  (0.566, 0.564, 0.543, 1.000)
+		BumpHeight      20
+		DiffMapAlpha   "Ice"
+		SpecBrightWater 0.03
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.2
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.00158916
+		Period          0.0528618
+		Eccentricity    0.0385547
+		Inclination     -1.15648
+		AscendingNode   -115.102
+		ArgOfPericenter 143.346
+		MeanAnomaly     -152.893
+	}
+}
+
+// Taris asteroid field
+Asteroid	"T1"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.05757e-014
+	Radius          0.168902
+	InertiaMoment   0.399853
+
+	RotationPeriod  316.616
+	Obliquity       -1.95906
+	EqAscendNode    71.7802
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.798 0.730 0.662)
+
+	Surface
+	{
+		SurfStyle       0.565932
+		OceanStyle      0.47025
+		Randomize      (0.766, -0.124, -0.264)
+		colorDistMagn   0.119581
+		colorDistFreq   2.00531e-005
+		detailScale     4.61214
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0553691
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.394797
+		terraceProb     0.234885
+		erosion         0
+		montesMagn      0.621033
+		montesFreq      3.07111
+		montesSpiky     0.909145
+		montesFraction  0.327108
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       5.76279e-005
+		hillsFraction   0.554103
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.248281
+		craterFreq      0.255935
+		craterDensity   0.822357
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.487158
+		volcanoTemp     1669.91
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.311, 0.248, 0.185, 0.000)
+		colorShelf     (0.319, 0.256, 0.212, 0.000)
+		colorBeach     (0.375, 0.299, 0.252, 0.000)
+		colorDesert    (0.407, 0.321, 0.245, 0.000)
+		colorLowland   (0.447, 0.343, 0.278, 0.000)
+		colorUpland    (0.495, 0.416, 0.338, 0.000)
+		colorRock      (0.535, 0.453, 0.364, 0.000)
+		colorSnow      (0.583, 0.482, 0.384, 1.000)
+		BumpHeight      0.152012
+		BumpOffset      0.0304023
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01394
+		Period          0.0541792
+		Eccentricity    0.106972
+		Inclination     -1.95906
+		AscendingNode   71.7802
+		ArgOfPericenter -63.5859
+		MeanAnomaly     140.172
+	}
+}
+
+Asteroid	"T2"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.55627e-011
+	Radius          1.50304
+	InertiaMoment   0.397919
+
+	Obliquity       1.66402
+	EqAscendNode    -58.4754
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.425 0.419 0.416)
+
+	Surface
+	{
+		SurfStyle       0.869651
+		OceanStyle      0.336605
+		Randomize      (-0.669, -0.053, 0.812)
+		colorDistMagn   0.580728
+		colorDistFreq   0.00044695
+		detailScale     41.0429
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0506616
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.263954
+		terraceProb     0.481509
+		erosion         0
+		montesMagn      0.478727
+		montesFreq      2.51675
+		montesSpiky     0.918326
+		montesFraction  0.683624
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00663538
+		hillsFraction   0.747134
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.237225
+		craterFreq      0.195134
+		craterDensity   0.8193
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.491146
+		volcanoTemp     1441.06
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.145, 0.147, 0.166, 0.050)
+		colorShelf     (0.170, 0.172, 0.191, 0.040)
+		colorBeach     (0.196, 0.197, 0.216, 0.030)
+		colorDesert    (0.221, 0.222, 0.245, 0.020)
+		colorLowland   (0.247, 0.247, 0.270, 0.030)
+		colorUpland    (0.272, 0.272, 0.295, 0.050)
+		colorRock      (0.298, 0.297, 0.329, 0.020)
+		colorSnow      (0.298, 0.297, 0.329, 1.000)
+		BumpHeight      1.35273
+		BumpOffset      0.270546
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015565
+		Period          0.055099
+		Eccentricity    0.116938
+		Inclination     1.66402
+		AscendingNode   -58.4754
+		ArgOfPericenter -73.078
+		MeanAnomaly     -90.7263
+	}
+}
+
+Asteroid	"T3"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.29012e-008
+	Radius          19.2013
+	InertiaMoment   0.399106
+
+	Obliquity       3.91517
+	EqAscendNode    -107.411
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.588 0.585 0.579)
+
+	Surface
+	{
+		SurfStyle       0.390752
+		OceanStyle      0.388809
+		Randomize      (0.879, 0.538, 0.134)
+		colorDistMagn   0.539165
+		colorDistFreq   0.214966
+		detailScale     524.323
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0807685
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.631531
+		terraceProb     0.377797
+		erosion         0
+		montesMagn      0.658462
+		montesFreq      3.19731
+		montesSpiky     0.92558
+		montesFraction  0.611348
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.59123
+		hillsFraction   0.626012
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.238639
+		craterFreq      0.245003
+		craterDensity   0.937052
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.527929
+		volcanoTemp     1248.57
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.235, 0.234, 0.232, 0.000)
+		colorShelf     (0.250, 0.249, 0.246, 0.000)
+		colorBeach     (0.265, 0.263, 0.261, 0.000)
+		colorDesert    (0.279, 0.278, 0.275, 0.000)
+		colorLowland   (0.294, 0.292, 0.290, 0.000)
+		colorUpland    (0.309, 0.307, 0.304, 0.000)
+		colorRock      (0.323, 0.322, 0.319, 0.000)
+		colorSnow      (0.338, 0.336, 0.333, 1.000)
+		BumpHeight      17.2812
+		BumpOffset      3.45623
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015395
+		Period          0.049427
+		Eccentricity    0.0506109
+		Inclination     3.91517
+		AscendingNode   -107.411
+		ArgOfPericenter 32.8538
+		MeanAnomaly     -52.0919
+	}
+}
+
+Asteroid	"T4"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.34164e-016
+	Radius          0.0346174
+	InertiaMoment   0.394957
+
+	Obliquity       4.81716
+	EqAscendNode    73.9827
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.689 0.687 0.685)
+
+	Surface
+	{
+		SurfStyle       0.152591
+		OceanStyle      0.557707
+		Randomize      (-0.209, 0.302, -0.002)
+		colorDistMagn   0.352155
+		colorDistFreq   7.72312e-007
+		detailScale     0.945285
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.133846
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.660931
+		terraceProb     0.449439
+		erosion         0
+		montesMagn      0.512893
+		montesFreq      4.46071
+		montesSpiky     0.87661
+		montesFraction  0.439893
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.09964e-006
+		hillsFraction   0.800127
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.283203
+		craterFreq      0.199687
+		craterDensity   0.813895
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.454825
+		volcanoTemp     1525.81
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.275, 0.275, 0.274, 0.000)
+		colorShelf     (0.293, 0.292, 0.291, 0.000)
+		colorBeach     (0.310, 0.309, 0.308, 0.000)
+		colorDesert    (0.327, 0.326, 0.325, 0.000)
+		colorLowland   (0.344, 0.343, 0.342, 0.000)
+		colorUpland    (0.362, 0.361, 0.360, 0.000)
+		colorRock      (0.379, 0.378, 0.377, 0.000)
+		colorSnow      (0.396, 0.395, 0.394, 1.000)
+		BumpHeight      0.0311556
+		BumpOffset      0.00623112
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015854
+		Period          0.0496787
+		Eccentricity    0.0538203
+		Inclination     4.81715
+		AscendingNode   73.9827
+		ArgOfPericenter -135.894
+		MeanAnomaly     175.6
+	}
+}
+
+Asteroid	"T5"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.9743e-013
+	Radius          0.448059
+	InertiaMoment   0.398201
+
+	RotationPeriod  980.542
+	Obliquity       -1.84343
+	EqAscendNode    161.742
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.510 0.504 0.500)
+
+	Surface
+	{
+		SurfStyle       0.948982
+		OceanStyle      0.999872
+		Randomize      (0.322, 0.356, 0.861)
+		colorDistMagn   0.875791
+		colorDistFreq   9.42762e-005
+		detailScale     12.235
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0102072
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.266631
+		terraceProb     0.413206
+		erosion         0
+		montesMagn      0.518458
+		montesFreq      2.71192
+		montesSpiky     0.888689
+		montesFraction  0.671532
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000435292
+		hillsFraction   0.531829
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.245315
+		craterFreq      0.266491
+		craterDensity   0.77026
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.455189
+		volcanoTemp     1657.83
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.173, 0.176, 0.200, 0.050)
+		colorShelf     (0.204, 0.207, 0.230, 0.040)
+		colorBeach     (0.235, 0.237, 0.260, 0.030)
+		colorDesert    (0.265, 0.267, 0.295, 0.020)
+		colorLowland   (0.296, 0.297, 0.325, 0.030)
+		colorUpland    (0.326, 0.328, 0.355, 0.050)
+		colorRock      (0.357, 0.358, 0.395, 0.020)
+		colorSnow      (0.357, 0.358, 0.395, 1.000)
+		BumpHeight      0.403253
+		BumpOffset      0.0806505
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017025
+		Period          0.05593
+		Eccentricity    0.0927967
+		Inclination     -1.84343
+		AscendingNode   161.742
+		ArgOfPericenter 45.5307
+		MeanAnomaly     -157.145
+	}
+}
+
+Asteroid	"T6"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.90528e-010
+	Radius          3.98718
+	InertiaMoment   0.399297
+
+	RotationPeriod  302.207
+	Obliquity       2.27269
+	EqAscendNode    -67.2549
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.481 0.418 0.392)
+
+	Surface
+	{
+		SurfStyle       0.144843
+		OceanStyle      0.742168
+		Randomize      (0.192, -0.003, 0.125)
+		colorDistMagn   0.536606
+		colorDistFreq   0.00652045
+		detailScale     108.876
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.066003
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.648486
+		terraceProb     0.488167
+		erosion         0
+		montesMagn      0.58507
+		montesFreq      3.10034
+		montesSpiky     0.954802
+		montesFraction  0.474223
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0350987
+		hillsFraction   0.50977
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.22466
+		craterFreq      0.215286
+		craterDensity   0.851833
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.512456
+		volcanoTemp     1527.49
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.192, 0.167, 0.157, 0.000)
+		colorShelf     (0.205, 0.178, 0.166, 0.000)
+		colorBeach     (0.217, 0.188, 0.176, 0.000)
+		colorDesert    (0.229, 0.199, 0.186, 0.000)
+		colorLowland   (0.241, 0.209, 0.196, 0.000)
+		colorUpland    (0.253, 0.219, 0.206, 0.000)
+		colorRock      (0.265, 0.230, 0.215, 0.000)
+		colorSnow      (0.277, 0.240, 0.225, 1.000)
+		BumpHeight      3.58846
+		BumpOffset      0.717692
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019539
+		Period          0.0517135
+		Eccentricity    0.0788059
+		Inclination     2.27269
+		AscendingNode   -67.2549
+		ArgOfPericenter -157.902
+		MeanAnomaly     176.24
+	}
+}
+
+Asteroid	"T7"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.27527e-007
+	Radius          50.9273
+	InertiaMoment   0.396521
+
+	Obliquity       -1.3462
+	EqAscendNode    -171.545
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.752 0.749 0.746)
+
+	Surface
+	{
+		SurfStyle       0.692847
+		OceanStyle      0.113142
+		Randomize      (-0.782, 0.892, 0.943)
+		colorDistMagn   0.924918
+		colorDistFreq   2.02936
+		detailScale     1390.65
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00346989
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.604086
+		terraceProb     0.459229
+		erosion         0
+		montesMagn      0.578976
+		montesFreq      3.15773
+		montesSpiky     0.875271
+		montesFraction  0.75251
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       4.73006
+		hillsFraction   0.438941
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.235209
+		craterFreq      0.192299
+		craterDensity   0.898288
+		craterOctaves   14
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.497994
+		volcanoTemp     1251.87
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.293, 0.255, 0.209, 0.000)
+		colorShelf     (0.301, 0.262, 0.239, 0.000)
+		colorBeach     (0.353, 0.307, 0.283, 0.000)
+		colorDesert    (0.383, 0.329, 0.276, 0.000)
+		colorLowland   (0.421, 0.352, 0.313, 0.000)
+		colorUpland    (0.466, 0.427, 0.380, 0.000)
+		colorRock      (0.504, 0.464, 0.410, 0.000)
+		colorSnow      (0.549, 0.494, 0.433, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012636
+		Period          0.0534445
+		Eccentricity    0.0988054
+		Inclination     -1.3462
+		AscendingNode   -171.545
+		ArgOfPericenter 101.865
+		MeanAnomaly     80.4762
+	}
+}
+
+Asteroid	"T8"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.5046e-015
+	Radius          0.104499
+	InertiaMoment   0.398451
+
+	RotationPeriod  661.844
+	Obliquity       0.469571
+	EqAscendNode    72.1023
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.769 0.764 0.762)
+
+	Surface
+	{
+		SurfStyle       0.443581
+		OceanStyle      0.492999
+		Randomize      (-0.371, 0.314, 0.558)
+		colorDistMagn   0.407449
+		colorDistFreq   8.85795e-006
+		detailScale     2.85351
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0132509
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.564336
+		terraceProb     0.26167
+		erosion         0
+		montesMagn      0.464215
+		montesFreq      2.81074
+		montesSpiky     0.820442
+		montesFraction  0.747283
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.03717e-005
+		hillsFraction   0.664151
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.214677
+		craterFreq      0.191421
+		craterDensity   0.850713
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.433081
+		volcanoTemp     1457.89
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.307, 0.306, 0.305, 0.000)
+		colorShelf     (0.327, 0.325, 0.324, 0.000)
+		colorBeach     (0.346, 0.344, 0.343, 0.000)
+		colorDesert    (0.365, 0.363, 0.362, 0.000)
+		colorLowland   (0.384, 0.382, 0.381, 0.000)
+		colorUpland    (0.404, 0.401, 0.400, 0.000)
+		colorRock      (0.423, 0.420, 0.419, 0.000)
+		colorSnow      (0.442, 0.439, 0.438, 1.000)
+		BumpHeight      0.0940489
+		BumpOffset      0.0188098
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018244
+		Period          0.0566272
+		Eccentricity    0.132898
+		Inclination     0.469571
+		AscendingNode   72.1023
+		ArgOfPericenter -178.924
+		MeanAnomaly     -177.246
+	}
+}
+
+Asteroid	"T9"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.68566e-012
+	Radius          0.929923
+	InertiaMoment   0.399482
+
+	RotationPeriod  876.713
+	Obliquity       4.94577
+	EqAscendNode    37.9589
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.774 0.773 0.772)
+
+	Surface
+	{
+		SurfStyle       0.734579
+		OceanStyle      0.705679
+		Randomize      (0.359, -0.617, -0.326)
+		colorDistMagn   0.489189
+		colorDistFreq   0.000753047
+		detailScale     25.3931
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.162509
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.652221
+		terraceProb     0.377137
+		erosion         0
+		montesMagn      0.334528
+		montesFreq      2.42911
+		montesSpiky     0.965045
+		montesFraction  0.624784
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00197968
+		hillsFraction   0.732127
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.251185
+		craterFreq      0.243962
+		craterDensity   0.981871
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.514879
+		volcanoTemp     1425.88
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.302, 0.263, 0.216, 0.000)
+		colorShelf     (0.310, 0.270, 0.247, 0.000)
+		colorBeach     (0.364, 0.317, 0.293, 0.000)
+		colorDesert    (0.395, 0.340, 0.285, 0.000)
+		colorLowland   (0.434, 0.363, 0.324, 0.000)
+		colorUpland    (0.480, 0.440, 0.393, 0.000)
+		colorRock      (0.519, 0.479, 0.424, 0.000)
+		colorSnow      (0.565, 0.510, 0.447, 1.000)
+		BumpHeight      0.83693
+		BumpOffset      0.167386
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014089
+		Period          0.0600091
+		Eccentricity    0.165789
+		Inclination     4.94577
+		AscendingNode   37.9589
+		ArgOfPericenter -89.176
+		MeanAnomaly     87.0444
+	}
+}
+
+Asteroid	"T10"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.42365e-009
+	Radius          11.8802
+	InertiaMoment   0.397136
+
+	Obliquity       -0.9767
+	EqAscendNode    16.9164
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.698 0.697 0.695)
+
+	Surface
+	{
+		SurfStyle       0.621843
+		OceanStyle      0.1052
+		Randomize      (-0.327, -0.096, 0.757)
+		colorDistMagn   0.795843
+		colorDistFreq   0.0765221
+		detailScale     324.409
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0337167
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.662225
+		terraceProb     0.237435
+		erosion         0
+		montesMagn      0.499755
+		montesFreq      2.79763
+		montesSpiky     0.963522
+		montesFraction  0.713583
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.38037
+		hillsFraction   0.431477
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.29165
+		craterFreq      0.188693
+		craterDensity   0.83108
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.450364
+		volcanoTemp     1330.05
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.272, 0.237, 0.195, 0.000)
+		colorShelf     (0.279, 0.244, 0.222, 0.000)
+		colorBeach     (0.328, 0.286, 0.264, 0.000)
+		colorDesert    (0.356, 0.307, 0.257, 0.000)
+		colorLowland   (0.391, 0.327, 0.292, 0.000)
+		colorUpland    (0.433, 0.397, 0.355, 0.000)
+		colorRock      (0.468, 0.432, 0.382, 0.000)
+		colorSnow      (0.510, 0.460, 0.403, 1.000)
+		BumpHeight      10.6922
+		BumpOffset      2.13844
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014613
+		Period          0.0545597
+		Eccentricity    0.0776559
+		Inclination     -0.9767
+		AscendingNode   16.9164
+		ArgOfPericenter 66.981
+		MeanAnomaly     53.991
+	}
+}
+
+Asteroid	"T11"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.17737e-017
+	Radius          0.0243718
+	InertiaMoment   0.398679
+
+	Obliquity       -0.44403
+	EqAscendNode    -42.1945
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.435 0.430 0.427)
+
+	Surface
+	{
+		SurfStyle       0.412708
+		OceanStyle      0.97024
+		Randomize      (-0.691, -0.379, 0.659)
+		colorDistMagn   0.913396
+		colorDistFreq   5.1014e-007
+		detailScale     0.665512
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0144597
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.414969
+		terraceProb     0.55453
+		erosion         0
+		montesMagn      0.520595
+		montesFreq      3.17695
+		montesSpiky     0.984689
+		montesFraction  0.446104
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.77733e-006
+		hillsFraction   0.599988
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.254964
+		craterFreq      0.269273
+		craterDensity   0.892567
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.52727
+		volcanoTemp     1353.08
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.174, 0.172, 0.171, 0.000)
+		colorShelf     (0.185, 0.183, 0.182, 0.000)
+		colorBeach     (0.196, 0.194, 0.192, 0.000)
+		colorDesert    (0.206, 0.204, 0.203, 0.000)
+		colorLowland   (0.217, 0.215, 0.214, 0.000)
+		colorUpland    (0.228, 0.226, 0.224, 0.000)
+		colorRock      (0.239, 0.237, 0.235, 0.000)
+		colorSnow      (0.250, 0.247, 0.246, 1.000)
+		BumpHeight      0.0219346
+		BumpOffset      0.00438692
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018304
+		Period          0.0566615
+		Eccentricity    0.120808
+		Inclination     -0.44403
+		AscendingNode   -42.1945
+		ArgOfPericenter 131.724
+		MeanAnomaly     72.0824
+	}
+}
+
+Asteroid	"T12"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.67567e-014
+	Radius          0.216882
+	InertiaMoment   0.399662
+
+	Obliquity       1.08689
+	EqAscendNode    10.7021
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.532 0.406 0.299)
+
+	Surface
+	{
+		SurfStyle       0.948809
+		OceanStyle      0.947928
+		Randomize      (0.745, 0.664, 0.897)
+		colorDistMagn   0.0998909
+		colorDistFreq   2.40845e-005
+		detailScale     5.92233
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0377649
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.329212
+		terraceProb     0.236381
+		erosion         0
+		montesMagn      0.497866
+		montesFreq      3.11479
+		montesSpiky     0.97972
+		montesFraction  0.613815
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000109692
+		hillsFraction   0.727209
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.265173
+		craterFreq      0.2136
+		craterDensity   0.847452
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.471785
+		volcanoTemp     1067.51
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.181, 0.142, 0.120, 0.050)
+		colorShelf     (0.213, 0.166, 0.138, 0.040)
+		colorBeach     (0.245, 0.191, 0.155, 0.030)
+		colorDesert    (0.277, 0.215, 0.176, 0.020)
+		colorLowland   (0.309, 0.239, 0.194, 0.030)
+		colorUpland    (0.340, 0.264, 0.212, 0.050)
+		colorRock      (0.372, 0.288, 0.236, 0.020)
+		colorSnow      (0.372, 0.288, 0.236, 1.000)
+		BumpHeight      0.195194
+		BumpOffset      0.0390388
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012278
+		Period          0.0477299
+		Eccentricity    0.0282369
+		Inclination     1.08689
+		AscendingNode   10.7021
+		ArgOfPericenter -75.1832
+		MeanAnomaly     132.999
+	}
+}
+
+Asteroid	"T13"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.8805e-011
+	Radius          2.77088
+	InertiaMoment   0.39756
+
+	Obliquity       1.08941
+	EqAscendNode    -96.5854
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.742 0.739 0.735)
+
+	Surface
+	{
+		SurfStyle       0.52854
+		OceanStyle      0.849414
+		Randomize      (0.718, -0.159, -0.394)
+		colorDistMagn   0.593775
+		colorDistFreq   0.00264305
+		detailScale     75.6636
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0252969
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.66563
+		terraceProb     0.448953
+		erosion         0
+		montesMagn      0.631905
+		montesFreq      2.93508
+		montesSpiky     0.976702
+		montesFraction  0.620868
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0224057
+		hillsFraction   0.547706
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.241292
+		craterFreq      0.235265
+		craterDensity   0.822582
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.496643
+		volcanoTemp     1270.82
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.290, 0.251, 0.206, 0.000)
+		colorShelf     (0.297, 0.259, 0.235, 0.000)
+		colorBeach     (0.349, 0.303, 0.279, 0.000)
+		colorDesert    (0.379, 0.325, 0.272, 0.000)
+		colorLowland   (0.416, 0.347, 0.309, 0.000)
+		colorUpland    (0.460, 0.421, 0.375, 0.000)
+		colorRock      (0.497, 0.458, 0.404, 0.000)
+		colorSnow      (0.542, 0.488, 0.426, 1.000)
+		BumpHeight      2.49379
+		BumpOffset      0.498759
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013091
+		Period          0.0537006
+		Eccentricity    0.101674
+		Inclination     1.08941
+		AscendingNode   -96.5854
+		ArgOfPericenter -164.125
+		MeanAnomaly     170.95
+	}
+}
+
+Asteroid	"T14"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.0125e-007
+	Radius          35.8588
+	InertiaMoment   0.398891
+
+	RotationPeriod  638.181
+	Obliquity       -1.13761
+	EqAscendNode    148.637
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.629 0.500 0.385)
+
+	Surface
+	{
+		SurfStyle       0.141288
+		OceanStyle      0.0570031
+		Randomize      (-0.335, -0.997, 0.725)
+		colorDistMagn   0.132497
+		colorDistFreq   0.741767
+		detailScale     979.183
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0107309
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.505985
+		terraceProb     0.428429
+		erosion         0
+		montesMagn      0.682927
+		montesFreq      2.645
+		montesSpiky     0.854657
+		montesFraction  0.484723
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.44769
+		hillsFraction   0.72933
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.223163
+		craterFreq      0.187273
+		craterDensity   0.999693
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.499812
+		volcanoTemp     1763.84
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.252, 0.200, 0.154, 0.000)
+		colorShelf     (0.267, 0.212, 0.164, 0.000)
+		colorBeach     (0.283, 0.225, 0.173, 0.000)
+		colorDesert    (0.299, 0.237, 0.183, 0.000)
+		colorLowland   (0.314, 0.250, 0.193, 0.000)
+		colorUpland    (0.330, 0.262, 0.202, 0.000)
+		colorRock      (0.346, 0.275, 0.212, 0.000)
+		colorSnow      (0.362, 0.287, 0.221, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014689
+		Period          0.0546027
+		Eccentricity    0.111594
+		Inclination     -1.13761
+		AscendingNode   148.637
+		ArgOfPericenter 81.872
+		MeanAnomaly     112.413
+	}
+}
+
+Asteroid	"T15"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.93161e-016
+	Radius          0.0505825
+	InertiaMoment   0.399839
+
+	RotationPeriod  859.98
+	Obliquity       3.29677
+	EqAscendNode    -1.52957
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.569 0.564 0.561)
+
+	Surface
+	{
+		SurfStyle       0.52393
+		OceanStyle      0.0175924
+		Randomize      (0.311, 0.261, 0.170)
+		colorDistMagn   0.0904953
+		colorDistFreq   1.90622e-006
+		detailScale     1.38124
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.114815
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.406477
+		terraceProb     0.516498
+		erosion         0
+		montesMagn      0.512773
+		montesFreq      3.13842
+		montesSpiky     0.970223
+		montesFraction  0.590671
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       5.38599e-006
+		hillsFraction   0.644654
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.246792
+		craterFreq      0.192986
+		craterDensity   0.843597
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.447443
+		volcanoTemp     1834.64
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.222, 0.192, 0.157, 0.000)
+		colorShelf     (0.228, 0.197, 0.180, 0.000)
+		colorBeach     (0.267, 0.231, 0.213, 0.000)
+		colorDesert    (0.290, 0.248, 0.208, 0.000)
+		colorLowland   (0.319, 0.265, 0.236, 0.000)
+		colorUpland    (0.353, 0.322, 0.286, 0.000)
+		colorRock      (0.381, 0.350, 0.309, 0.000)
+		colorSnow      (0.415, 0.372, 0.326, 1.000)
+		BumpHeight      0.0455242
+		BumpOffset      0.00910485
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012122
+		Period          0.0588638
+		Eccentricity    0.155003
+		Inclination     3.29677
+		AscendingNode   -1.52957
+		ArgOfPericenter -31.7501
+		MeanAnomaly     -121.291
+	}
+}
+
+Asteroid	"T16"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            8.72867e-013
+	Radius          0.646245
+	InertiaMoment   0.397896
+
+	RotationPeriod  1012.73
+	Obliquity       0.000778401
+	EqAscendNode    150.4
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.599 0.424 0.332)
+
+	Surface
+	{
+		SurfStyle       0.893589
+		OceanStyle      0.338763
+		Randomize      (-0.202, -0.928, 0.551)
+		colorDistMagn   0.31209
+		colorDistFreq   0.000302139
+		detailScale     17.6468
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.586337
+		terraceProb     0.211835
+		erosion         0
+		montesMagn      0.357691
+		montesFreq      2.88083
+		montesSpiky     0.959113
+		montesFraction  0.470197
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000923293
+		hillsFraction   0.75407
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.272199
+		craterFreq      0.224422
+		craterDensity   0.933649
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.505251
+		volcanoTemp     1670.31
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.204, 0.148, 0.133, 0.050)
+		colorShelf     (0.240, 0.174, 0.153, 0.040)
+		colorBeach     (0.276, 0.199, 0.173, 0.030)
+		colorDesert    (0.312, 0.225, 0.196, 0.020)
+		colorLowland   (0.348, 0.250, 0.216, 0.030)
+		colorUpland    (0.383, 0.275, 0.236, 0.050)
+		colorRock      (0.419, 0.301, 0.262, 0.020)
+		colorSnow      (0.419, 0.301, 0.262, 1.000)
+		BumpHeight      0.581621
+		BumpOffset      0.116324
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010225
+		Period          0.0577662
+		Eccentricity    0.144334
+		Inclination     0.000778401
+		AscendingNode   150.4
+		ArgOfPericenter -174.337
+		MeanAnomaly     3.88528
+	}
+}
+
+Asteroid	"T17"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.28447e-009
+	Radius          8.36425
+	InertiaMoment   0.399091
+
+	Obliquity       1.21279
+	EqAscendNode    167.395
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.648 0.575 0.507)
+
+	Surface
+	{
+		SurfStyle       0.833387
+		OceanStyle      0.277678
+		Randomize      (-0.339, 0.780, -0.818)
+		colorDistMagn   0.660304
+		colorDistFreq   0.0215862
+		detailScale     228.4
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00464508
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.580616
+		terraceProb     0.19414
+		erosion         0
+		montesMagn      0.422503
+		montesFreq      3.6086
+		montesSpiky     0.980899
+		montesFraction  0.46872
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.212663
+		hillsFraction   0.503122
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.234146
+		craterFreq      0.185309
+		craterDensity   0.960463
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.542203
+		volcanoTemp     1819.57
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.253, 0.195, 0.142, 0.000)
+		colorShelf     (0.259, 0.201, 0.162, 0.000)
+		colorBeach     (0.305, 0.236, 0.193, 0.000)
+		colorDesert    (0.330, 0.253, 0.188, 0.000)
+		colorLowland   (0.363, 0.270, 0.213, 0.000)
+		colorUpland    (0.402, 0.328, 0.259, 0.000)
+		colorRock      (0.434, 0.356, 0.279, 0.000)
+		colorSnow      (0.473, 0.379, 0.294, 1.000)
+		BumpHeight      7.52782
+		BumpOffset      1.50557
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013381
+		Period          0.059596
+		Eccentricity    0.161939
+		Inclination     1.21279
+		AscendingNode   167.395
+		ArgOfPericenter 71.8233
+		MeanAnomaly     -28.5757
+	}
+}
+
+Asteroid	"T18"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            7.52488e-018
+	Radius          0.0117971
+	InertiaMoment   0.394531
+
+	Obliquity       -3.51651
+	EqAscendNode    166.366
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.630 0.625 0.620)
+
+	Surface
+	{
+		SurfStyle       0.0941284
+		OceanStyle      0.380983
+		Randomize      (0.172, -0.660, -0.274)
+		colorDistMagn   0.0078575
+		colorDistFreq   7.87129e-008
+		detailScale     0.32214
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0145624
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.668323
+		terraceProb     0.139776
+		erosion         0
+		montesMagn      0.310344
+		montesFreq      2.4513
+		montesSpiky     0.773831
+		montesFraction  0.450721
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.38699e-007
+		hillsFraction   0.57452
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.211461
+		craterFreq      0.227397
+		craterDensity   0.956037
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.496298
+		volcanoTemp     1628.18
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.252, 0.250, 0.248, 0.000)
+		colorShelf     (0.268, 0.266, 0.264, 0.000)
+		colorBeach     (0.284, 0.281, 0.279, 0.000)
+		colorDesert    (0.299, 0.297, 0.295, 0.000)
+		colorLowland   (0.315, 0.313, 0.310, 0.000)
+		colorUpland    (0.331, 0.328, 0.326, 0.000)
+		colorRock      (0.347, 0.344, 0.341, 0.000)
+		colorSnow      (0.362, 0.360, 0.357, 1.000)
+		BumpHeight      0.0106174
+		BumpOffset      0.00212348
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016043
+		Period          0.0553706
+		Eccentricity    0.119827
+		Inclination     -3.51651
+		AscendingNode   166.366
+		ArgOfPericenter -47.9358
+		MeanAnomaly     27.9372
+	}
+}
+
+Asteroid	"T19"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.10733e-014
+	Radius          0.150721
+	InertiaMoment   0.398181
+
+	Obliquity       1.2217
+	EqAscendNode    133.411
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.611 0.606 0.600)
+
+	Surface
+	{
+		SurfStyle       0.269521
+		OceanStyle      0.977169
+		Randomize      (-0.564, 0.361, -0.813)
+		colorDistMagn   0.58942
+		colorDistFreq   1.82168e-005
+		detailScale     4.11569
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.016861
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.535221
+		terraceProb     0.368465
+		erosion         0
+		montesMagn      0.553422
+		montesFreq      3.14116
+		montesSpiky     0.897297
+		montesFraction  0.565045
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       7.14279e-005
+		hillsFraction   0.672094
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.261806
+		craterFreq      0.243395
+		craterDensity   0.875215
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.531351
+		volcanoTemp     1426.81
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.245, 0.242, 0.240, 0.000)
+		colorShelf     (0.260, 0.258, 0.255, 0.000)
+		colorBeach     (0.275, 0.273, 0.270, 0.000)
+		colorDesert    (0.290, 0.288, 0.285, 0.000)
+		colorLowland   (0.306, 0.303, 0.300, 0.000)
+		colorUpland    (0.321, 0.318, 0.315, 0.000)
+		colorRock      (0.336, 0.333, 0.330, 0.000)
+		colorSnow      (0.351, 0.349, 0.345, 1.000)
+		BumpHeight      0.135649
+		BumpOffset      0.0271298
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018765
+		Period          0.0458414
+		Eccentricity    0.00172927
+		Inclination     1.2217
+		AscendingNode   133.411
+		ArgOfPericenter -73.778
+		MeanAnomaly     173.308
+	}
+}
+
+Asteroid	"T20"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.62949e-011
+	Radius          1.9508
+	InertiaMoment   0.399282
+
+	RotationPeriod  1010.79
+	Obliquity       2.40306
+	EqAscendNode    157.759
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.675 0.672 0.670)
+
+	Surface
+	{
+		SurfStyle       0.681019
+		OceanStyle      0.937887
+		Randomize      (0.494, 0.843, -0.659)
+		colorDistMagn   0.518791
+		colorDistFreq   0.00163985
+		detailScale     53.2698
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0161718
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.296892
+		terraceProb     0.128267
+		erosion         0
+		montesMagn      0.518566
+		montesFreq      4.11258
+		montesSpiky     0.987456
+		montesFraction  0.411811
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00692489
+		hillsFraction   0.653573
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.251897
+		craterFreq      0.230057
+		craterDensity   0.557952
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.533777
+		volcanoTemp     1193.82
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.263, 0.229, 0.188, 0.000)
+		colorShelf     (0.270, 0.235, 0.214, 0.000)
+		colorBeach     (0.317, 0.276, 0.255, 0.000)
+		colorDesert    (0.344, 0.296, 0.248, 0.000)
+		colorLowland   (0.378, 0.316, 0.281, 0.000)
+		colorUpland    (0.419, 0.383, 0.342, 0.000)
+		colorRock      (0.452, 0.417, 0.368, 0.000)
+		colorSnow      (0.493, 0.444, 0.388, 1.000)
+		BumpHeight      1.75572
+		BumpOffset      0.351144
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010033
+		Period          0.0576554
+		Eccentricity    0.143238
+		Inclination     2.40306
+		AscendingNode   157.759
+		ArgOfPericenter -48.0617
+		MeanAnomaly     -67.6222
+	}
+}
+
+Asteroid	"T21"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.39788e-008
+	Radius          17.3586
+	InertiaMoment   0.396457
+
+	Obliquity       -3.75715
+	EqAscendNode    149.169
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.653 0.649 0.648)
+
+	Surface
+	{
+		SurfStyle       0.653381
+		OceanStyle      0.131219
+		Randomize      (0.081, -0.965, -0.835)
+		colorDistMagn   0.565616
+		colorDistFreq   0.259042
+		detailScale     474.004
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0348308
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.70053
+		terraceProb     0.383154
+		erosion         0
+		montesMagn      0.46048
+		montesFreq      2.66441
+		montesSpiky     0.877822
+		montesFraction  0.453514
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.71514
+		hillsFraction   0.880477
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.220837
+		craterFreq      0.235858
+		craterDensity   0.978404
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.462001
+		volcanoTemp     1901.43
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.255, 0.221, 0.181, 0.000)
+		colorShelf     (0.261, 0.227, 0.207, 0.000)
+		colorBeach     (0.307, 0.266, 0.246, 0.000)
+		colorDesert    (0.333, 0.286, 0.240, 0.000)
+		colorLowland   (0.366, 0.305, 0.272, 0.000)
+		colorUpland    (0.405, 0.370, 0.330, 0.000)
+		colorRock      (0.438, 0.403, 0.356, 0.000)
+		colorSnow      (0.477, 0.429, 0.376, 1.000)
+		BumpHeight      15.6227
+		BumpOffset      3.12454
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013801
+		Period          0.0598409
+		Eccentricity    0.052956
+		Inclination     -3.75715
+		AscendingNode   149.169
+		ArgOfPericenter 7.16792
+		MeanAnomaly     39.9997
+	}
+}
+
+Asteroid	"T22"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.40477e-016
+	Radius          0.035152
+	InertiaMoment   0.398433
+
+	Obliquity       1.60327
+	EqAscendNode    -140.628
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.701 0.623 0.594)
+
+	Surface
+	{
+		SurfStyle       0.828183
+		OceanStyle      0.266615
+		Randomize      (0.489, -0.825, -0.927)
+		colorDistMagn   0.340363
+		colorDistFreq   6.36259e-007
+		detailScale     0.959883
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0188502
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.471244
+		terraceProb     0.249726
+		erosion         0
+		montesMagn      0.490114
+		montesFreq      2.69022
+		montesSpiky     0.866686
+		montesFraction  0.427443
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.16845e-006
+		hillsFraction   0.635363
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.262237
+		craterFreq      0.164865
+		craterDensity   0.988015
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.466235
+		volcanoTemp     1480.91
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.273, 0.212, 0.166, 0.000)
+		colorShelf     (0.280, 0.218, 0.190, 0.000)
+		colorBeach     (0.329, 0.256, 0.226, 0.000)
+		colorDesert    (0.357, 0.274, 0.220, 0.000)
+		colorLowland   (0.393, 0.293, 0.250, 0.000)
+		colorUpland    (0.435, 0.355, 0.303, 0.000)
+		colorRock      (0.470, 0.386, 0.327, 0.000)
+		colorSnow      (0.512, 0.411, 0.345, 1.000)
+		BumpHeight      0.0316368
+		BumpOffset      0.00632735
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018089
+		Period          0.0509095
+		Eccentricity    0.0691319
+		Inclination     1.60327
+		AscendingNode   -140.628
+		ArgOfPericenter 62.1253
+		MeanAnomaly     -77.3847
+	}
+}
+
+Asteroid	"T23"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.06719e-013
+	Radius          0.454978
+	InertiaMoment   0.399467
+
+	Obliquity       0.912791
+	EqAscendNode    -139.882
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.599 0.509 0.453)
+
+	Surface
+	{
+		SurfStyle       0.542822
+		OceanStyle      0.781132
+		Randomize      (-0.555, -0.730, -0.931)
+		colorDistMagn   0.312861
+		colorDistFreq   9.57022e-005
+		detailScale     12.4239
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.010929
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.632565
+		terraceProb     0.212871
+		erosion         0
+		montesMagn      0.557734
+		montesFreq      2.67767
+		montesSpiky     0.89612
+		montesFraction  0.520393
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000437509
+		hillsFraction   0.589603
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.21291
+		craterFreq      0.19261
+		craterDensity   0.838683
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.521302
+		volcanoTemp     1133.4
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.234, 0.173, 0.127, 0.000)
+		colorShelf     (0.240, 0.178, 0.145, 0.000)
+		colorBeach     (0.281, 0.209, 0.172, 0.000)
+		colorDesert    (0.305, 0.224, 0.168, 0.000)
+		colorLowland   (0.335, 0.239, 0.190, 0.000)
+		colorUpland    (0.371, 0.290, 0.231, 0.000)
+		colorRock      (0.401, 0.316, 0.249, 0.000)
+		colorSnow      (0.437, 0.336, 0.263, 1.000)
+		BumpHeight      0.40948
+		BumpOffset      0.0818961
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012138
+		Period          0.0531648
+		Eccentricity    0.0956481
+		Inclination     0.912791
+		AscendingNode   -139.882
+		ArgOfPericenter -113.458
+		MeanAnomaly     32.407
+	}
+}
+
+Asteroid	"T24"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.04198e-010
+	Radius          4.04876
+	InertiaMoment   0.397098
+
+	Obliquity       6.15112
+	EqAscendNode    94.9079
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.661 0.658 0.656)
+
+	Surface
+	{
+		SurfStyle       0.900587
+		OceanStyle      0.704425
+		Randomize      (0.336, 0.336, 0.509)
+		colorDistMagn   0.975366
+		colorDistFreq   0.00962112
+		detailScale     110.558
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.144527
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.539195
+		terraceProb     0.486484
+		erosion         0
+		montesMagn      0.402543
+		montesFreq      2.47778
+		montesSpiky     0.896985
+		montesFraction  0.451901
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0537678
+		hillsFraction   0.755825
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.259496
+		craterFreq      0.232744
+		craterDensity   0.871946
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.459603
+		volcanoTemp     1413.18
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.225, 0.230, 0.262, 0.050)
+		colorShelf     (0.264, 0.270, 0.302, 0.040)
+		colorBeach     (0.304, 0.309, 0.341, 0.030)
+		colorDesert    (0.344, 0.349, 0.387, 0.020)
+		colorLowland   (0.383, 0.388, 0.426, 0.030)
+		colorUpland    (0.423, 0.428, 0.466, 0.050)
+		colorRock      (0.463, 0.467, 0.518, 0.020)
+		colorSnow      (0.463, 0.467, 0.518, 1.000)
+		BumpHeight      3.64388
+		BumpOffset      0.728776
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014065
+		Period          0.0542496
+		Eccentricity    0.107745
+		Inclination     6.15112
+		AscendingNode   94.9079
+		ArgOfPericenter 131.366
+		MeanAnomaly     118.336
+	}
+}
+
+Asteroid	"T25"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.47643e-007
+	Radius          51.7135
+	InertiaMoment   0.398662
+
+	Obliquity       1.41767
+	EqAscendNode    -143.92
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.771 0.771 0.769)
+
+	Surface
+	{
+		SurfStyle       0.905235
+		OceanStyle      0.527856
+		Randomize      (0.242, 0.866, -0.884)
+		colorDistMagn   0.747489
+		colorDistFreq   0.953303
+		detailScale     1412.12
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0153241
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.335672
+		terraceProb     0.676404
+		erosion         0
+		montesMagn      0.541344
+		montesFreq      2.33863
+		montesSpiky     0.987687
+		montesFraction  0.77963
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       4.22014
+		hillsFraction   0.554897
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.264003
+		craterFreq      0.223
+		craterDensity   0.914725
+		craterOctaves   14
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.498532
+		volcanoTemp     1649.19
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.262, 0.270, 0.308, 0.050)
+		colorShelf     (0.309, 0.316, 0.354, 0.040)
+		colorBeach     (0.355, 0.362, 0.400, 0.030)
+		colorDesert    (0.401, 0.408, 0.454, 0.020)
+		colorLowland   (0.447, 0.455, 0.500, 0.030)
+		colorUpland    (0.494, 0.501, 0.546, 0.050)
+		colorRock      (0.540, 0.547, 0.607, 0.020)
+		colorSnow      (0.540, 0.547, 0.607, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012844
+		Period          0.059283
+		Eccentricity    0.158992
+		Inclination     1.41767
+		AscendingNode   -143.92
+		ArgOfPericenter 17.1414
+		MeanAnomaly     34.2874
+	}
+}
+
+Asteroid	"T26"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.62246e-015
+	Radius          0.106113
+	InertiaMoment   0.399648
+
+	RotationPeriod  1124.37
+	Obliquity       1.84308
+	EqAscendNode    102.378
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.626 0.624 0.620)
+
+	Surface
+	{
+		SurfStyle       0.184574
+		OceanStyle      0.751892
+		Randomize      (-0.530, -0.272, 0.799)
+		colorDistMagn   0.879813
+		colorDistFreq   6.84229e-006
+		detailScale     2.89759
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0403083
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.524547
+		terraceProb     0.195186
+		erosion         0
+		montesMagn      0.472348
+		montesFreq      3.50729
+		montesSpiky     0.909267
+		montesFraction  0.581112
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.51985e-005
+		hillsFraction   0.673636
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.231236
+		craterFreq      0.250295
+		craterDensity   1.02827
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.45818
+		volcanoTemp     1694.85
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.250, 0.250, 0.248, 0.000)
+		colorShelf     (0.266, 0.265, 0.264, 0.000)
+		colorBeach     (0.282, 0.281, 0.279, 0.000)
+		colorDesert    (0.297, 0.296, 0.295, 0.000)
+		colorLowland   (0.313, 0.312, 0.310, 0.000)
+		colorUpland    (0.329, 0.328, 0.326, 0.000)
+		colorRock      (0.344, 0.343, 0.341, 0.000)
+		colorSnow      (0.360, 0.359, 0.357, 1.000)
+		BumpHeight      0.0955015
+		BumpOffset      0.0191003
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018807
+		Period          0.0513071
+		Eccentricity    0.0739472
+		Inclination     1.84308
+		AscendingNode   102.378
+		ArgOfPericenter -133.841
+		MeanAnomaly     90.5868
+	}
+}
+
+Asteroid	"T27"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.85908e-012
+	Radius          0.944284
+	InertiaMoment   0.397531
+
+	RotationPeriod  1593.35
+	Obliquity       -0.749091
+	EqAscendNode    -133.382
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.653 0.650 0.645)
+
+	Surface
+	{
+		SurfStyle       0.488156
+		OceanStyle      0.473999
+		Randomize      (-0.814, 0.648, 0.239)
+		colorDistMagn   0.148529
+		colorDistFreq   0.000454024
+		detailScale     25.7852
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0103464
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.6113
+		terraceProb     0.165254
+		erosion         0
+		montesMagn      0.593559
+		montesFreq      1.71185
+		montesSpiky     0.930808
+		montesFraction  0.745423
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0031696
+		hillsFraction   0.665572
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.210155
+		craterFreq      0.267258
+		craterDensity   0.87994
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.460033
+		volcanoTemp     1555.17
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.261, 0.260, 0.258, 0.000)
+		colorShelf     (0.277, 0.276, 0.274, 0.000)
+		colorBeach     (0.294, 0.292, 0.290, 0.000)
+		colorDesert    (0.310, 0.309, 0.306, 0.000)
+		colorLowland   (0.326, 0.325, 0.322, 0.000)
+		colorUpland    (0.343, 0.341, 0.339, 0.000)
+		colorRock      (0.359, 0.357, 0.355, 0.000)
+		colorSnow      (0.375, 0.374, 0.371, 1.000)
+		BumpHeight      0.849855
+		BumpOffset      0.169971
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015081
+		Period          0.0605897
+		Eccentricity    0.171127
+		Inclination     -0.749091
+		AscendingNode   -133.382
+		ArgOfPericenter -86.0917
+		MeanAnomaly     42.7628
+	}
+}
+
+Asteroid	"T28"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.67885e-009
+	Radius          12.0637
+	InertiaMoment   0.398875
+
+	RotationPeriod  1487.79
+	Obliquity       -4.85242
+	EqAscendNode    32.808
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.698 0.692 0.689)
+
+	Surface
+	{
+		SurfStyle       0.099473
+		OceanStyle      0.529907
+		Randomize      (-0.320, -0.672, 0.361)
+		colorDistMagn   0.653951
+		colorDistFreq   0.125193
+		detailScale     329.419
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.161757
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.72907
+		terraceProb     0.479798
+		erosion         0
+		montesMagn      0.393892
+		montesFreq      2.96443
+		montesSpiky     0.916211
+		montesFraction  0.368439
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.349433
+		hillsFraction   0.645964
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.257657
+		craterFreq      0.248527
+		craterDensity   0.897432
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.503245
+		volcanoTemp     1612.56
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.279, 0.277, 0.276, 0.000)
+		colorShelf     (0.297, 0.294, 0.293, 0.000)
+		colorBeach     (0.314, 0.311, 0.310, 0.000)
+		colorDesert    (0.331, 0.329, 0.327, 0.000)
+		colorLowland   (0.349, 0.346, 0.344, 0.000)
+		colorUpland    (0.366, 0.363, 0.362, 0.000)
+		colorRock      (0.384, 0.381, 0.379, 0.000)
+		colorSnow      (0.401, 0.398, 0.396, 1.000)
+		BumpHeight      10.8573
+		BumpOffset      2.17147
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018154
+		Period          0.0565757
+		Eccentricity    0.132372
+		Inclination     -4.85242
+		AscendingNode   32.808
+		ArgOfPericenter -51.852
+		MeanAnomaly     -66.1939
+	}
+}
+
+Asteroid	"T29"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.32687e-017
+	Radius          0.0247482
+	InertiaMoment   0.399826
+
+	Obliquity       -5.61418
+	EqAscendNode    -97.0726
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.410 0.405 0.402)
+
+	Surface
+	{
+		SurfStyle       0.525105
+		OceanStyle      0.797155
+		Randomize      (-0.273, 0.167, 0.306)
+		colorDistMagn   0.950836
+		colorDistFreq   1.16591e-007
+		detailScale     0.67579
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.129282
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.552229
+		terraceProb     0.225806
+		erosion         0
+		montesMagn      0.398722
+		montesFreq      3.34117
+		montesSpiky     0.958211
+		montesFraction  0.390536
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.42715e-006
+		hillsFraction   0.622788
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.23508
+		craterFreq      0.242903
+		craterDensity   0.96573
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.472294
+		volcanoTemp     1816.72
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.160, 0.138, 0.113, 0.000)
+		colorShelf     (0.164, 0.142, 0.129, 0.000)
+		colorBeach     (0.193, 0.166, 0.153, 0.000)
+		colorDesert    (0.209, 0.178, 0.149, 0.000)
+		colorLowland   (0.230, 0.190, 0.169, 0.000)
+		colorUpland    (0.254, 0.231, 0.205, 0.000)
+		colorRock      (0.275, 0.251, 0.221, 0.000)
+		colorSnow      (0.299, 0.267, 0.233, 1.000)
+		BumpHeight      0.0222733
+		BumpOffset      0.00445467
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011594
+		Period          0.0585578
+		Eccentricity    0.0557544
+		Inclination     -5.61418
+		AscendingNode   -97.0726
+		ArgOfPericenter 27.0271
+		MeanAnomaly     -43.4046
+	}
+}
+
+Asteroid	"T30"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.89567e-014
+	Radius          0.220232
+	InertiaMoment   0.397872
+
+	Obliquity       -2.09644
+	EqAscendNode    102.282
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.559 0.554 0.547)
+
+	Surface
+	{
+		SurfStyle       0.242175
+		OceanStyle      0.369863
+		Randomize      (0.438, -0.933, 0.722)
+		colorDistMagn   0.3139
+		colorDistFreq   4.22314e-005
+		detailScale     6.01379
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0458915
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.616021
+		terraceProb     0.514463
+		erosion         0
+		montesMagn      0.443175
+		montesFreq      3.74041
+		montesSpiky     0.838624
+		montesFraction  0.460525
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000113106
+		hillsFraction   0.601604
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.230869
+		craterFreq      0.233739
+		craterDensity   0.911314
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.470811
+		volcanoTemp     1433.66
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.224, 0.222, 0.219, 0.000)
+		colorShelf     (0.238, 0.236, 0.232, 0.000)
+		colorBeach     (0.251, 0.249, 0.246, 0.000)
+		colorDesert    (0.265, 0.263, 0.260, 0.000)
+		colorLowland   (0.279, 0.277, 0.273, 0.000)
+		colorUpland    (0.293, 0.291, 0.287, 0.000)
+		colorRock      (0.307, 0.305, 0.301, 0.000)
+		colorSnow      (0.321, 0.319, 0.314, 1.000)
+		BumpHeight      0.198209
+		BumpOffset      0.0396417
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013801
+		Period          0.0541009
+		Eccentricity    0.10611
+		Inclination     -2.09644
+		AscendingNode   102.282
+		ArgOfPericenter 35.9192
+		MeanAnomaly     141.296
+	}
+}
+
+Asteroid	"T31"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            7.20424e-011
+	Radius          2.81368
+	InertiaMoment   0.399076
+
+	Obliquity       0.911575
+	EqAscendNode    65.9536
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.647 0.645 0.641)
+
+	Surface
+	{
+		SurfStyle       0.836821
+		OceanStyle      0.174371
+		Randomize      (0.105, -0.495, -0.692)
+		colorDistMagn   0.636964
+		colorDistFreq   0.00477827
+		detailScale     76.8321
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0266906
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.500144
+		terraceProb     0.260349
+		erosion         0
+		montesMagn      0.361492
+		montesFreq      2.59322
+		montesSpiky     0.953799
+		montesFraction  0.788348
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0208439
+		hillsFraction   0.607776
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.238508
+		craterFreq      0.203868
+		craterDensity   0.976708
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.583006
+		volcanoTemp     1598.35
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.252, 0.219, 0.179, 0.000)
+		colorShelf     (0.259, 0.226, 0.205, 0.000)
+		colorBeach     (0.304, 0.264, 0.244, 0.000)
+		colorDesert    (0.330, 0.284, 0.237, 0.000)
+		colorLowland   (0.362, 0.303, 0.269, 0.000)
+		colorUpland    (0.401, 0.367, 0.327, 0.000)
+		colorRock      (0.433, 0.400, 0.353, 0.000)
+		colorSnow      (0.472, 0.425, 0.372, 1.000)
+		BumpHeight      2.53231
+		BumpOffset      0.506462
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011092
+		Period          0.0582669
+		Eccentricity    0.149242
+		Inclination     0.911575
+		AscendingNode   65.9536
+		ArgOfPericenter 94.3739
+		MeanAnomaly     44.9183
+	}
+}
+
+Asteroid	"T32"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.06014e-007
+	Radius          36.4125
+	InertiaMoment   0.393299
+
+	Obliquity       -6.5184
+	EqAscendNode    -142.485
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.689 0.637 0.562)
+
+	Surface
+	{
+		SurfStyle       0.519669
+		OceanStyle      0.539602
+		Randomize      (-0.136, 0.419, 0.444)
+		colorDistMagn   0.379987
+		colorDistFreq   0.72651
+		detailScale     994.303
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0729604
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.491595
+		terraceProb     0.304401
+		erosion         0
+		montesMagn      0.516049
+		montesFreq      1.93043
+		montesSpiky     0.977653
+		montesFraction  0.733633
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       4.4191
+		hillsFraction   0.744741
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.229479
+		craterFreq      0.196014
+		craterDensity   0.947172
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.533733
+		volcanoTemp     1509.97
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.269, 0.216, 0.157, 0.000)
+		colorShelf     (0.276, 0.223, 0.180, 0.000)
+		colorBeach     (0.324, 0.261, 0.213, 0.000)
+		colorDesert    (0.351, 0.280, 0.208, 0.000)
+		colorLowland   (0.386, 0.299, 0.236, 0.000)
+		colorUpland    (0.427, 0.363, 0.286, 0.000)
+		colorRock      (0.462, 0.395, 0.309, 0.000)
+		colorSnow      (0.503, 0.420, 0.326, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014401
+		Period          0.0601915
+		Eccentricity    0.167475
+		Inclination     -6.5184
+		AscendingNode   -142.485
+		ArgOfPericenter 42.5817
+		MeanAnomaly     -167.489
+	}
+}
+
+Asteroid	"T33"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.2107e-016
+	Radius          0.0656516
+	InertiaMoment   0.39816
+
+	RotationPeriod  1371.29
+	Obliquity       6.83311
+	EqAscendNode    129.517
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.408 0.406 0.404)
+
+	Surface
+	{
+		SurfStyle       0.412497
+		OceanStyle      0.0949992
+		Randomize      (-0.264, 0.274, 0.361)
+		colorDistMagn   0.954404
+		colorDistFreq   3.24891e-006
+		detailScale     1.79273
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.101343
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.718974
+		terraceProb     0.310874
+		erosion         0
+		montesMagn      0.385709
+		montesFreq      3.43532
+		montesSpiky     0.936308
+		montesFraction  0.455895
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.1038e-005
+		hillsFraction   0.68083
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.262007
+		craterFreq      0.248565
+		craterDensity   0.736278
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.523083
+		volcanoTemp     1100.3
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.163, 0.162, 0.162, 0.000)
+		colorShelf     (0.174, 0.173, 0.172, 0.000)
+		colorBeach     (0.184, 0.183, 0.182, 0.000)
+		colorDesert    (0.194, 0.193, 0.192, 0.000)
+		colorLowland   (0.204, 0.203, 0.202, 0.000)
+		colorUpland    (0.214, 0.213, 0.212, 0.000)
+		colorRock      (0.225, 0.223, 0.222, 0.000)
+		colorSnow      (0.235, 0.233, 0.232, 1.000)
+		BumpHeight      0.0590864
+		BumpOffset      0.0118173
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010315
+		Period          0.0521455
+		Eccentricity    0.083901
+		Inclination     6.83311
+		AscendingNode   129.517
+		ArgOfPericenter 93.7972
+		MeanAnomaly     121.651
+	}
+}
+
+Asteroid	"T34"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            9.13938e-013
+	Radius          0.584227
+	InertiaMoment   0.399268
+
+	Obliquity       -4.28036
+	EqAscendNode    -68.6857
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.732 0.731 0.730)
+
+	Surface
+	{
+		SurfStyle       0.59819
+		OceanStyle      0.264911
+		Randomize      (0.733, -0.436, 0.741)
+		colorDistMagn   0.6804
+		colorDistFreq   0.000221576
+		detailScale     15.9533
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.123018
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.628007
+		terraceProb     0.280102
+		erosion         0
+		montesMagn      0.251061
+		montesFreq      3.32807
+		montesSpiky     0.918237
+		montesFraction  0.64343
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000883665
+		hillsFraction   0.479961
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.237205
+		craterFreq      0.22733
+		craterDensity   0.858524
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.523246
+		volcanoTemp     1684.83
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.286, 0.249, 0.204, 0.000)
+		colorShelf     (0.293, 0.256, 0.233, 0.000)
+		colorBeach     (0.344, 0.300, 0.277, 0.000)
+		colorDesert    (0.374, 0.322, 0.270, 0.000)
+		colorLowland   (0.410, 0.344, 0.306, 0.000)
+		colorUpland    (0.454, 0.417, 0.372, 0.000)
+		colorRock      (0.491, 0.453, 0.401, 0.000)
+		colorSnow      (0.535, 0.483, 0.423, 1.000)
+		BumpHeight      0.525804
+		BumpOffset      0.105161
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010866
+		Period          0.0469677
+		Eccentricity    0.0177522
+		Inclination     -4.28036
+		AscendingNode   -68.6857
+		ArgOfPericenter -121.353
+		MeanAnomaly     118.848
+	}
+}
+
+Asteroid	"T35"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.34491e-009
+	Radius          7.46392
+	InertiaMoment   0.39639
+
+	RotationPeriod  789.017
+	Obliquity       2.23191
+	EqAscendNode    -28.9882
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.722 0.721 0.719)
+
+	Surface
+	{
+		SurfStyle       0.744074
+		OceanStyle      0.0493617
+		Randomize      (0.119, 0.032, -0.402)
+		colorDistMagn   0.735399
+		colorDistFreq   0.03453
+		detailScale     203.815
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0753562
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.501658
+		terraceProb     0.40378
+		erosion         0
+		montesMagn      0.471735
+		montesFreq      2.3613
+		montesSpiky     0.958617
+		montesFraction  0.679861
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.185973
+		hillsFraction   0.732181
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.223058
+		craterFreq      0.241209
+		craterDensity   0.73023
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.474001
+		volcanoTemp     1055.87
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.282, 0.245, 0.201, 0.000)
+		colorShelf     (0.289, 0.252, 0.230, 0.000)
+		colorBeach     (0.340, 0.296, 0.273, 0.000)
+		colorDesert    (0.368, 0.317, 0.266, 0.000)
+		colorLowland   (0.405, 0.339, 0.302, 0.000)
+		colorUpland    (0.448, 0.411, 0.367, 0.000)
+		colorRock      (0.484, 0.447, 0.396, 0.000)
+		colorSnow      (0.527, 0.476, 0.417, 1.000)
+		BumpHeight      6.71753
+		BumpOffset      1.34351
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014086
+		Period          0.0600072
+		Eccentricity    0.165772
+		Inclination     2.23191
+		AscendingNode   -28.9882
+		ArgOfPericenter -97.8416
+		MeanAnomaly     -99.444
+	}
+}
+
+Asteroid	"T36"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            7.87897e-018
+	Radius          0.0153116
+	InertiaMoment   0.398414
+
+	RotationPeriod  1849.16
+	Obliquity       -5.48049
+	EqAscendNode    -151.17
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.576 0.572 0.565)
+
+	Surface
+	{
+		SurfStyle       0.254047
+		OceanStyle      0.340138
+		Randomize      (-0.298, 0.131, 0.787)
+		colorDistMagn   0.0136718
+		colorDistFreq   8.85241e-008
+		detailScale     0.418109
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0475382
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.363678
+		terraceProb     0.173426
+		erosion         0
+		montesMagn      0.568196
+		montesFreq      2.85359
+		montesSpiky     0.950381
+		montesFraction  0.579105
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       4.94715e-007
+		hillsFraction   0.61909
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.254341
+		craterFreq      0.203333
+		craterDensity   0.912001
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.513152
+		volcanoTemp     1282.75
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.230, 0.229, 0.226, 0.000)
+		colorShelf     (0.245, 0.243, 0.240, 0.000)
+		colorBeach     (0.259, 0.257, 0.254, 0.000)
+		colorDesert    (0.274, 0.272, 0.268, 0.000)
+		colorLowland   (0.288, 0.286, 0.282, 0.000)
+		colorUpland    (0.302, 0.300, 0.296, 0.000)
+		colorRock      (0.317, 0.315, 0.310, 0.000)
+		colorSnow      (0.331, 0.329, 0.325, 1.000)
+		BumpHeight      0.0137805
+		BumpOffset      0.00275609
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011376
+		Period          0.052738
+		Eccentricity    0.0907748
+		Inclination     -5.48049
+		AscendingNode   -151.17
+		ArgOfPericenter 50.0903
+		MeanAnomaly     23.9102
+	}
+}
+
+Asteroid	"T37"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.15943e-014
+	Radius          0.136256
+	InertiaMoment   0.399453
+
+	Obliquity       0.0741021
+	EqAscendNode    83.2411
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.522 0.516 0.513)
+
+	Surface
+	{
+		SurfStyle       0.601721
+		OceanStyle      0.476153
+		Randomize      (-0.608, 0.893, -0.431)
+		colorDistMagn   0.513607
+		colorDistFreq   1.47159e-005
+		detailScale     3.72071
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00192236
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.626971
+		terraceProb     0.275913
+		erosion         0
+		montesMagn      0.433196
+		montesFreq      2.57255
+		montesSpiky     0.964773
+		montesFraction  0.487587
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       4.5273e-005
+		hillsFraction   0.687045
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.244975
+		craterFreq      0.221302
+		craterDensity   0.898409
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.511264
+		volcanoTemp     1451.59
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.203, 0.175, 0.144, 0.000)
+		colorShelf     (0.209, 0.181, 0.164, 0.000)
+		colorBeach     (0.245, 0.212, 0.195, 0.000)
+		colorDesert    (0.266, 0.227, 0.190, 0.000)
+		colorLowland   (0.292, 0.242, 0.216, 0.000)
+		colorUpland    (0.323, 0.294, 0.262, 0.000)
+		colorRock      (0.350, 0.320, 0.282, 0.000)
+		colorSnow      (0.381, 0.341, 0.298, 1.000)
+		BumpHeight      0.122631
+		BumpOffset      0.0245262
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017503
+		Period          0.0505855
+		Eccentricity    0.0651617
+		Inclination     0.0741021
+		AscendingNode   83.2411
+		ArgOfPericenter 120.446
+		MeanAnomaly     -174.699
+	}
+}
+
+Asteroid	"T38"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.70616e-011
+	Radius          1.74082
+	InertiaMoment   0.397058
+
+	Obliquity       2.28355
+	EqAscendNode    -28.9775
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.819 0.775 0.745)
+
+	Surface
+	{
+		SurfStyle       0.762988
+		OceanStyle      0.294374
+		Randomize      (0.470, -0.193, 0.152)
+		colorDistMagn   0.81954
+		colorDistFreq   0.000868272
+		detailScale     47.5359
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.077098
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.474815
+		terraceProb     0.191076
+		erosion         0
+		montesMagn      0.556725
+		montesFreq      3.45058
+		montesSpiky     0.933386
+		montesFraction  0.621661
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0076548
+		hillsFraction   0.50003
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.272909
+		craterFreq      0.210372
+		craterDensity   0.99742
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.529992
+		volcanoTemp     1687.21
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.319, 0.264, 0.209, 0.000)
+		colorShelf     (0.328, 0.271, 0.238, 0.000)
+		colorBeach     (0.385, 0.318, 0.283, 0.000)
+		colorDesert    (0.418, 0.341, 0.276, 0.000)
+		colorLowland   (0.459, 0.364, 0.313, 0.000)
+		colorUpland    (0.508, 0.442, 0.380, 0.000)
+		colorRock      (0.549, 0.481, 0.410, 0.000)
+		colorSnow      (0.598, 0.512, 0.432, 1.000)
+		BumpHeight      1.56674
+		BumpOffset      0.313347
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015166
+		Period          0.0606392
+		Eccentricity    0.171578
+		Inclination     2.28355
+		AscendingNode   -28.9775
+		ArgOfPericenter -13.4872
+		MeanAnomaly     126.866
+	}
+}
+
+Asteroid	"T39"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.51071e-008
+	Radius          22.5298
+	InertiaMoment   0.398645
+
+	Obliquity       -1.6138
+	EqAscendNode    121.585
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.553 0.547 0.542)
+
+	Surface
+	{
+		SurfStyle       0.142699
+		OceanStyle      0.504843
+		Randomize      (0.774, -0.987, -0.801)
+		colorDistMagn   0.345183
+		colorDistFreq   0.228283
+		detailScale     615.214
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0274825
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.41665
+		terraceProb     0.349083
+		erosion         0
+		montesMagn      0.477623
+		montesFreq      4.33603
+		montesSpiky     0.936368
+		montesFraction  0.65821
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.56094
+		hillsFraction   0.7084
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.250004
+		craterFreq      0.267094
+		craterDensity   0.965435
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.507113
+		volcanoTemp     1748.68
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.221, 0.219, 0.217, 0.000)
+		colorShelf     (0.235, 0.233, 0.230, 0.000)
+		colorBeach     (0.249, 0.246, 0.244, 0.000)
+		colorDesert    (0.263, 0.260, 0.258, 0.000)
+		colorLowland   (0.277, 0.274, 0.271, 0.000)
+		colorUpland    (0.290, 0.287, 0.285, 0.000)
+		colorRock      (0.304, 0.301, 0.298, 0.000)
+		colorSnow      (0.318, 0.315, 0.312, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017152
+		Period          0.0560028
+		Eccentricity    0.0840766
+		Inclination     -1.6138
+		AscendingNode   121.585
+		ArgOfPericenter 15.0954
+		MeanAnomaly     -119.488
+	}
+}
+
+Asteroid	"T40"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.47086e-016
+	Radius          0.0317785
+	InertiaMoment   0.399634
+
+	RotationPeriod  982.199
+	Obliquity       2.13207
+	EqAscendNode    -179.29
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.665 0.660 0.658)
+
+	Surface
+	{
+		SurfStyle       0.524496
+		OceanStyle      0.354032
+		Randomize      (0.122, 0.862, -0.766)
+		colorDistMagn   0.765778
+		colorDistFreq   1.42162e-007
+		detailScale     0.867766
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.000488281
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.678441
+		terraceProb     0.182995
+		erosion         0
+		montesMagn      0.339189
+		montesFreq      2.57953
+		montesSpiky     0.917338
+		montesFraction  0.617275
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.22495e-006
+		hillsFraction   0.837595
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.210095
+		craterFreq      0.194731
+		craterDensity   1.0294
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.565847
+		volcanoTemp     1531.44
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.259, 0.225, 0.184, 0.000)
+		colorShelf     (0.266, 0.231, 0.211, 0.000)
+		colorBeach     (0.313, 0.271, 0.250, 0.000)
+		colorDesert    (0.339, 0.291, 0.244, 0.000)
+		colorLowland   (0.372, 0.310, 0.277, 0.000)
+		colorUpland    (0.412, 0.376, 0.336, 0.000)
+		colorRock      (0.446, 0.409, 0.362, 0.000)
+		colorSnow      (0.485, 0.436, 0.382, 1.000)
+		BumpHeight      0.0286007
+		BumpOffset      0.00572014
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01719
+		Period          0.0560245
+		Eccentricity    0.12669
+		Inclination     2.13207
+		AscendingNode   -179.29
+		ArgOfPericenter 126.542
+		MeanAnomaly     46.2059
+	}
+}
+
+Asteroid	"T41"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.16445e-013
+	Radius          0.406005
+	InertiaMoment   0.397502
+
+	Obliquity       -1.95398
+	EqAscendNode    -56.4165
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.691 0.685 0.682)
+
+	Surface
+	{
+		SurfStyle       0.301495
+		OceanStyle      0.752968
+		Randomize      (0.213, 0.195, -0.770)
+		colorDistMagn   0.663143
+		colorDistFreq   9.23556e-005
+		detailScale     11.0866
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0600672
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.450009
+		terraceProb     0.330748
+		erosion         0
+		montesMagn      0.418662
+		montesFreq      2.97052
+		montesSpiky     0.940028
+		montesFraction  0.416044
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000430382
+		hillsFraction   0.535441
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.242363
+		craterFreq      0.194261
+		craterDensity   0.718111
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.474007
+		volcanoTemp     1369.25
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.276, 0.274, 0.273, 0.000)
+		colorShelf     (0.294, 0.291, 0.290, 0.000)
+		colorBeach     (0.311, 0.308, 0.307, 0.000)
+		colorDesert    (0.328, 0.325, 0.324, 0.000)
+		colorLowland   (0.346, 0.342, 0.341, 0.000)
+		colorUpland    (0.363, 0.360, 0.358, 0.000)
+		colorRock      (0.380, 0.377, 0.375, 0.000)
+		colorSnow      (0.397, 0.394, 0.392, 1.000)
+		BumpHeight      0.365404
+		BumpOffset      0.0730809
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013242
+		Period          0.0482528
+		Eccentricity    0.0352712
+		Inclination     -1.95398
+		AscendingNode   -56.4165
+		ArgOfPericenter -132.604
+		MeanAnomaly     176.06
+	}
+}
+
+Asteroid	"T42"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.18511e-010
+	Radius          5.25492
+	InertiaMoment   0.398859
+
+	RotationPeriod  2000.04
+	Obliquity       -3.17673
+	EqAscendNode    141.446
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.679 0.557 0.426)
+
+	Surface
+	{
+		SurfStyle       0.497325
+		OceanStyle      0.881147
+		Randomize      (-0.500, 0.381, 0.261)
+		colorDistMagn   0.694519
+		colorDistFreq   0.0166039
+		detailScale     143.494
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0365824
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.533346
+		terraceProb     0.38871
+		erosion         0
+		montesMagn      0.426301
+		montesFreq      3.2214
+		montesSpiky     0.870043
+		montesFraction  0.364793
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0539236
+		hillsFraction   0.544365
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.237821
+		craterFreq      0.259368
+		craterDensity   0.842846
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.465061
+		volcanoTemp     1290.44
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.272, 0.223, 0.170, 0.000)
+		colorShelf     (0.289, 0.237, 0.181, 0.000)
+		colorBeach     (0.306, 0.251, 0.192, 0.000)
+		colorDesert    (0.323, 0.265, 0.202, 0.000)
+		colorLowland   (0.340, 0.279, 0.213, 0.000)
+		colorUpland    (0.357, 0.292, 0.224, 0.000)
+		colorRock      (0.374, 0.306, 0.234, 0.000)
+		colorSnow      (0.391, 0.320, 0.245, 1.000)
+		BumpHeight      4.72942
+		BumpOffset      0.945885
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018965
+		Period          0.0570411
+		Eccentricity    0.137097
+		Inclination     -3.17673
+		AscendingNode   141.446
+		ArgOfPericenter 9.53508
+		MeanAnomaly     118.236
+	}
+}
+
+Asteroid	"T43"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.68706e-007
+	Radius          46.7505
+	InertiaMoment   0.399812
+
+	RotationPeriod  2306.12
+	Obliquity       -0.192535
+	EqAscendNode    125.529
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.790 0.707 0.666)
+
+	Surface
+	{
+		SurfStyle       0.878816
+		OceanStyle      0.0446366
+		Randomize      (0.071, 0.101, -0.773)
+		colorDistMagn   0.0970597
+		colorDistFreq   0.744308
+		detailScale     1276.6
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0030688
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.477687
+		terraceProb     0.333053
+		erosion         0
+		montesMagn      0.677579
+		montesFreq      2.812
+		montesSpiky     0.966468
+		montesFraction  0.921162
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       5.37512
+		hillsFraction   0.611508
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.264046
+		craterFreq      0.158008
+		craterDensity   0.995875
+		craterOctaves   14
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.549174
+		volcanoTemp     1314.81
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.269, 0.247, 0.267, 0.050)
+		colorShelf     (0.316, 0.290, 0.307, 0.040)
+		colorBeach     (0.363, 0.332, 0.347, 0.030)
+		colorDesert    (0.411, 0.375, 0.393, 0.020)
+		colorLowland   (0.458, 0.417, 0.433, 0.030)
+		colorUpland    (0.506, 0.459, 0.473, 0.050)
+		colorRock      (0.553, 0.502, 0.526, 0.020)
+		colorSnow      (0.553, 0.502, 0.526, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011159
+		Period          0.0526163
+		Eccentricity    0.0893739
+		Inclination     -0.192535
+		AscendingNode   125.529
+		ArgOfPericenter -131.913
+		MeanAnomaly     -119.668
+	}
+}
+
+Asteroid	"T44"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.74585e-015
+	Radius          0.0946908
+	InertiaMoment   0.397848
+
+	RotationPeriod  2955.21
+	Obliquity       1.24599
+	EqAscendNode    102.802
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.478 0.474 0.466)
+
+	Surface
+	{
+		SurfStyle       0.0352541
+		OceanStyle      0.631766
+		Randomize      (-0.778, -0.652, 0.411)
+		colorDistMagn   0.310085
+		colorDistFreq   6.89429e-006
+		detailScale     2.58569
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.027129
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.410073
+		terraceProb     0.158493
+		erosion         0
+		montesMagn      0.426302
+		montesFreq      2.7144
+		montesSpiky     0.932066
+		montesFraction  0.64736
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.40503e-005
+		hillsFraction   0.652559
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.241163
+		craterFreq      0.266801
+		craterDensity   0.918603
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.507558
+		volcanoTemp     1619.32
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.191, 0.190, 0.186, 0.000)
+		colorShelf     (0.203, 0.201, 0.198, 0.000)
+		colorBeach     (0.215, 0.213, 0.210, 0.000)
+		colorDesert    (0.227, 0.225, 0.221, 0.000)
+		colorLowland   (0.239, 0.237, 0.233, 0.000)
+		colorUpland    (0.251, 0.249, 0.245, 0.000)
+		colorRock      (0.263, 0.261, 0.256, 0.000)
+		colorSnow      (0.275, 0.272, 0.268, 1.000)
+		BumpHeight      0.0852217
+		BumpOffset      0.0170443
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017477
+		Period          0.0561883
+		Eccentricity    0.128388
+		Inclination     1.24599
+		AscendingNode   102.802
+		ArgOfPericenter 136.736
+		MeanAnomaly     -137.332
+	}
+}
+
+Asteroid	"T45"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.04067e-012
+	Radius          1.2256
+	InertiaMoment   0.399061
+
+	Obliquity       0.142516
+	EqAscendNode    -164.596
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.732 0.641 0.513)
+
+	Surface
+	{
+		SurfStyle       0.693351
+		OceanStyle      0.718347
+		Randomize      (-0.589, 0.588, 0.980)
+		colorDistMagn   0.591085
+		colorDistFreq   0.0009666
+		detailScale     33.4669
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.000690534
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.346234
+		terraceProb     0.216541
+		erosion         0
+		montesMagn      0.533941
+		montesFreq      3.97394
+		montesSpiky     0.955488
+		montesFraction  0.159752
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00298384
+		hillsFraction   0.553099
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.241917
+		craterFreq      0.204595
+		craterDensity   0.963708
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.553827
+		volcanoTemp     1357.2
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.286, 0.218, 0.144, 0.000)
+		colorShelf     (0.293, 0.224, 0.164, 0.000)
+		colorBeach     (0.344, 0.263, 0.195, 0.000)
+		colorDesert    (0.374, 0.282, 0.190, 0.000)
+		colorLowland   (0.410, 0.301, 0.215, 0.000)
+		colorUpland    (0.454, 0.365, 0.261, 0.000)
+		colorRock      (0.491, 0.398, 0.282, 0.000)
+		colorSnow      (0.535, 0.423, 0.297, 1.000)
+		BumpHeight      1.10304
+		BumpOffset      0.220607
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014572
+		Period          0.0545361
+		Eccentricity    0.110872
+		Inclination     0.142516
+		AscendingNode   -164.596
+		ArgOfPericenter 155.342
+		MeanAnomaly     81.3869
+	}
+}
+
+Asteroid	"T46"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.94605e-009
+	Radius          10.906
+	InertiaMoment   0.399988
+
+	Obliquity       2.02401
+	EqAscendNode    79.8664
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.613 0.506 0.410)
+
+	Surface
+	{
+		SurfStyle       0.170067
+		OceanStyle      0.63288
+		Randomize      (0.137, -0.570, -0.920)
+		colorDistMagn   0.852273
+		colorDistFreq   0.0865882
+		detailScale     297.805
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0541441
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.51296
+		terraceProb     0.180596
+		erosion         0
+		montesMagn      0.317447
+		montesFreq      3.83549
+		montesSpiky     0.958896
+		montesFraction  0.617123
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.339601
+		hillsFraction   0.561201
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.217516
+		craterFreq      0.146327
+		craterDensity   1.00488
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.556436
+		volcanoTemp     1384.1
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.245, 0.202, 0.164, 0.000)
+		colorShelf     (0.261, 0.215, 0.174, 0.000)
+		colorBeach     (0.276, 0.228, 0.184, 0.000)
+		colorDesert    (0.291, 0.240, 0.195, 0.000)
+		colorLowland   (0.307, 0.253, 0.205, 0.000)
+		colorUpland    (0.322, 0.266, 0.215, 0.000)
+		colorRock      (0.337, 0.278, 0.225, 0.000)
+		colorSnow      (0.353, 0.291, 0.236, 1.000)
+		BumpHeight      9.81536
+		BumpOffset      1.96307
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014907
+		Period          0.0604879
+		Eccentricity    0.170197
+		Inclination     2.02401
+		AscendingNode   79.8664
+		ArgOfPericenter -106.153
+		MeanAnomaly     159.111
+	}
+}
+
+Asteroid	"T47"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.4834e-017
+	Radius          0.0220843
+	InertiaMoment   0.398139
+
+	RotationPeriod  1319.98
+	Obliquity       1.79276
+	EqAscendNode    125.902
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.677 0.535 0.462)
+
+	Surface
+	{
+		SurfStyle       0.145532
+		OceanStyle      0.501776
+		Randomize      (-0.105, 0.737, -0.566)
+		colorDistMagn   0.445779
+		colorDistFreq   1.5493e-007
+		detailScale     0.603048
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0284497
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.633526
+		terraceProb     0.313429
+		erosion         0
+		montesMagn      0.530688
+		montesFreq      3.07356
+		montesSpiky     0.826798
+		montesFraction  0.399225
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.67158e-006
+		hillsFraction   0.812596
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.252476
+		craterFreq      0.272477
+		craterDensity   0.876027
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.516178
+		volcanoTemp     1133.5
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.271, 0.214, 0.185, 0.000)
+		colorShelf     (0.288, 0.227, 0.196, 0.000)
+		colorBeach     (0.305, 0.241, 0.208, 0.000)
+		colorDesert    (0.321, 0.254, 0.220, 0.000)
+		colorLowland   (0.338, 0.267, 0.231, 0.000)
+		colorUpland    (0.355, 0.281, 0.243, 0.000)
+		colorRock      (0.372, 0.294, 0.254, 0.000)
+		colorSnow      (0.389, 0.308, 0.266, 1.000)
+		BumpHeight      0.0198759
+		BumpOffset      0.00397517
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016793
+		Period          0.0501944
+		Eccentricity    0.0603121
+		Inclination     1.79276
+		AscendingNode   125.902
+		ArgOfPericenter 163.942
+		MeanAnomaly     0.237521
+	}
+}
+
+Asteroid	"T48"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.12603e-014
+	Radius          0.285841
+	InertiaMoment   0.399253
+
+	RotationPeriod  1966.12
+	Obliquity       1.90718
+	EqAscendNode    172.5
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.412 0.406 0.403)
+
+	Surface
+	{
+		SurfStyle       0.604561
+		OceanStyle      0.782024
+		Randomize      (0.537, -0.206, 0.343)
+		colorDistMagn   0.52509
+		colorDistFreq   4.21075e-005
+		detailScale     7.80537
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00435364
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.736558
+		terraceProb     0.327792
+		erosion         0
+		montesMagn      0.49787
+		montesFreq      2.32061
+		montesSpiky     0.920586
+		montesFraction  0.74735
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000214051
+		hillsFraction   0.549908
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.229469
+		craterFreq      0.219694
+		craterDensity   0.881251
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.527342
+		volcanoTemp     1225.36
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.161, 0.138, 0.113, 0.000)
+		colorShelf     (0.165, 0.142, 0.129, 0.000)
+		colorBeach     (0.194, 0.166, 0.153, 0.000)
+		colorDesert    (0.210, 0.179, 0.149, 0.000)
+		colorLowland   (0.231, 0.191, 0.169, 0.000)
+		colorUpland    (0.256, 0.231, 0.206, 0.000)
+		colorRock      (0.276, 0.252, 0.222, 0.000)
+		colorSnow      (0.301, 0.268, 0.234, 1.000)
+		BumpHeight      0.257257
+		BumpOffset      0.0514514
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017276
+		Period          0.0560735
+		Eccentricity    0.127198
+		Inclination     1.90718
+		AscendingNode   172.5
+		ArgOfPericenter 32.9232
+		MeanAnomaly     -44.345
+	}
+}
+
+Asteroid	"T49"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            7.54321e-011
+	Radius          2.54365
+	InertiaMoment   0.396318
+
+	RotationPeriod  2533.34
+	Obliquity       -2.67529
+	EqAscendNode    -112.108
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.602 0.599 0.598)
+
+	Surface
+	{
+		SurfStyle       0.62945
+		OceanStyle      0.561083
+		Randomize      (-0.837, -0.776, 0.479)
+		colorDistMagn   0.223351
+		colorDistFreq   0.00367614
+		detailScale     69.4586
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0521107
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.35118
+		terraceProb     0.369736
+		erosion         0
+		montesMagn      0.485476
+		montesFreq      3.40341
+		montesSpiky     0.94033
+		montesFraction  0.421919
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0122489
+		hillsFraction   0.614048
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.268473
+		craterFreq      0.142979
+		craterDensity   0.972997
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.535788
+		volcanoTemp     1736.61
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.235, 0.204, 0.167, 0.000)
+		colorShelf     (0.241, 0.210, 0.191, 0.000)
+		colorBeach     (0.283, 0.246, 0.227, 0.000)
+		colorDesert    (0.307, 0.264, 0.221, 0.000)
+		colorLowland   (0.337, 0.282, 0.251, 0.000)
+		colorUpland    (0.373, 0.342, 0.305, 0.000)
+		colorRock      (0.403, 0.371, 0.329, 0.000)
+		colorSnow      (0.439, 0.395, 0.347, 1.000)
+		BumpHeight      2.28929
+		BumpOffset      0.457857
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010285
+		Period          0.0578007
+		Eccentricity    0.144673
+		Inclination     -2.67529
+		AscendingNode   -112.108
+		ArgOfPericenter 123.927
+		MeanAnomaly     30.5666
+	}
+}
+
+Asteroid	"T50"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.11003e-007
+	Radius          32.493
+	InertiaMoment   0.398395
+
+	RotationPeriod  2993.2
+	Obliquity       1.98006
+	EqAscendNode    83.4973
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.731 0.562 0.504)
+
+	Surface
+	{
+		SurfStyle       0.464553
+		OceanStyle      0.993409
+		Randomize      (-0.344, 0.394, -0.615)
+		colorDistMagn   0.525101
+		colorDistFreq   0.766926
+		detailScale     887.275
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0515388
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.379329
+		terraceProb     0.148357
+		erosion         0
+		montesMagn      0.457454
+		montesFreq      2.52417
+		montesSpiky     0.978265
+		montesFraction  0.717998
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.94228
+		hillsFraction   0.620776
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.233942
+		craterFreq      0.172839
+		craterDensity   0.898246
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.431683
+		volcanoTemp     1333.72
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.292, 0.225, 0.202, 0.000)
+		colorShelf     (0.311, 0.239, 0.214, 0.000)
+		colorBeach     (0.329, 0.253, 0.227, 0.000)
+		colorDesert    (0.347, 0.267, 0.239, 0.000)
+		colorLowland   (0.366, 0.281, 0.252, 0.000)
+		colorUpland    (0.384, 0.295, 0.264, 0.000)
+		colorRock      (0.402, 0.309, 0.277, 0.000)
+		colorSnow      (0.420, 0.323, 0.290, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018738
+		Period          0.0569106
+		Eccentricity    0.135778
+		Inclination     1.98006
+		AscendingNode   83.4973
+		ArgOfPericenter 57.194
+		MeanAnomaly     126.542
+	}
+}
+
+Asteroid	"T51"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.50293e-016
+	Radius          0.0666654
+	InertiaMoment   0.399439
+
+	Obliquity       -1.77055
+	EqAscendNode    -4.05345
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.770 0.768 0.767)
+
+	Surface
+	{
+		SurfStyle       0.980075
+		OceanStyle      0.594965
+		Randomize      (-0.575, -0.014, 0.827)
+		colorDistMagn   0.712592
+		colorDistFreq   2.78988e-006
+		detailScale     1.82041
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0617261
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.604712
+		terraceProb     0.200287
+		erosion         0
+		montesMagn      0.55123
+		montesFreq      3.03897
+		montesSpiky     0.94447
+		montesFraction  0.460122
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.30964e-005
+		hillsFraction   0.515764
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.238861
+		craterFreq      0.193649
+		craterDensity   0.683285
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.544955
+		volcanoTemp     1472.06
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.262, 0.269, 0.307, 0.050)
+		colorShelf     (0.308, 0.315, 0.353, 0.040)
+		colorBeach     (0.354, 0.361, 0.399, 0.030)
+		colorDesert    (0.400, 0.407, 0.453, 0.020)
+		colorLowland   (0.447, 0.453, 0.499, 0.030)
+		colorUpland    (0.493, 0.499, 0.545, 0.050)
+		colorRock      (0.539, 0.546, 0.606, 0.020)
+		colorSnow      (0.539, 0.546, 0.606, 1.000)
+		BumpHeight      0.0599989
+		BumpOffset      0.0119998
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019945
+		Period          0.0519394
+		Eccentricity    0.0814785
+		Inclination     -1.77055
+		AscendingNode   -4.05345
+		ArgOfPericenter -149.03
+		MeanAnomaly     76.3838
+	}
+}
+
+Asteroid	"T52"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            9.5694e-013
+	Radius          0.593249
+	InertiaMoment   0.397018
+
+	Obliquity       1.04316
+	EqAscendNode    -163.131
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.753 0.681 0.622)
+
+	Surface
+	{
+		SurfStyle       0.527759
+		OceanStyle      0.910714
+		Randomize      (-0.210, 0.326, -0.730)
+		colorDistMagn   0.747892
+		colorDistFreq   0.000256547
+		detailScale     16.1997
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00533768
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.586374
+		terraceProb     0.275865
+		erosion         0
+		montesMagn      0.565871
+		montesFreq      2.51956
+		montesSpiky     0.948319
+		montesFraction  0.862457
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000838471
+		hillsFraction   0.689671
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.227174
+		craterFreq      0.191999
+		craterDensity   0.887734
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.568195
+		volcanoTemp     1347.81
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.294, 0.231, 0.174, 0.000)
+		colorShelf     (0.301, 0.238, 0.199, 0.000)
+		colorBeach     (0.354, 0.279, 0.236, 0.000)
+		colorDesert    (0.384, 0.299, 0.230, 0.000)
+		colorLowland   (0.421, 0.320, 0.261, 0.000)
+		colorUpland    (0.467, 0.388, 0.317, 0.000)
+		colorRock      (0.504, 0.422, 0.342, 0.000)
+		colorSnow      (0.549, 0.449, 0.361, 1.000)
+		BumpHeight      0.533924
+		BumpOffset      0.106785
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017464
+		Period          0.0561809
+		Eccentricity    0.128311
+		Inclination     1.04316
+		AscendingNode   -163.131
+		ArgOfPericenter 0.24338
+		MeanAnomaly     142.706
+	}
+}
+
+Asteroid	"T53"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.40819e-009
+	Radius          7.57919
+	InertiaMoment   0.398628
+
+	Obliquity       3.94714
+	EqAscendNode    -113.942
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.591 0.588 0.586)
+
+	Surface
+	{
+		SurfStyle       0.620432
+		OceanStyle      0.551716
+		Randomize      (-0.480, 0.748, -0.625)
+		colorDistMagn   0.965924
+		colorDistFreq   0.0189549
+		detailScale     206.962
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0749877
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.272505
+		terraceProb     0.320937
+		erosion         0
+		montesMagn      0.479628
+		montesFreq      3.65801
+		montesSpiky     0.961889
+		montesFraction  0.291769
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0954497
+		hillsFraction   0.66713
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.234543
+		craterFreq      0.269455
+		craterDensity   0.995504
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.496935
+		volcanoTemp     1799.41
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.231, 0.200, 0.164, 0.000)
+		colorShelf     (0.237, 0.206, 0.187, 0.000)
+		colorBeach     (0.278, 0.241, 0.223, 0.000)
+		colorDesert    (0.302, 0.259, 0.217, 0.000)
+		colorLowland   (0.331, 0.276, 0.246, 0.000)
+		colorUpland    (0.367, 0.335, 0.299, 0.000)
+		colorRock      (0.396, 0.365, 0.322, 0.000)
+		colorSnow      (0.432, 0.388, 0.340, 1.000)
+		BumpHeight      6.82127
+		BumpOffset      1.36425
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018471
+		Period          0.0625869
+		Eccentricity    0.0859496
+		Inclination     3.94714
+		AscendingNode   -113.941
+		ArgOfPericenter -99.3999
+		MeanAnomaly     -33.9384
+	}
+}
+
+Asteroid	"T54"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            8.24969e-018
+	Radius          0.0155481
+	InertiaMoment   0.39962
+
+	RotationPeriod  2197.58
+	Obliquity       2.56468
+	EqAscendNode    -159.5
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.710 0.709 0.707)
+
+	Surface
+	{
+		SurfStyle       0.011714
+		OceanStyle      0.442037
+		Randomize      (-0.881, 0.838, -0.093)
+		colorDistMagn   0.424497
+		colorDistFreq   1.72854e-007
+		detailScale     0.424566
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.015923
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.353452
+		terraceProb     0.34966
+		erosion         0
+		montesMagn      0.623588
+		montesFreq      2.98156
+		montesSpiky     0.868517
+		montesFraction  0.726188
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       5.51883e-007
+		hillsFraction   0.813116
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.22792
+		craterFreq      0.247045
+		craterDensity   0.79815
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.561364
+		volcanoTemp     1361.45
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.284, 0.284, 0.283, 0.000)
+		colorShelf     (0.302, 0.301, 0.300, 0.000)
+		colorBeach     (0.320, 0.319, 0.318, 0.000)
+		colorDesert    (0.337, 0.337, 0.336, 0.000)
+		colorLowland   (0.355, 0.355, 0.353, 0.000)
+		colorUpland    (0.373, 0.372, 0.371, 0.000)
+		colorRock      (0.391, 0.390, 0.389, 0.000)
+		colorSnow      (0.408, 0.408, 0.406, 1.000)
+		BumpHeight      0.0139933
+		BumpOffset      0.00279865
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016694
+		Period          0.0501399
+		Eccentricity    0.059631
+		Inclination     2.56468
+		AscendingNode   -159.5
+		ArgOfPericenter 23.5296
+		MeanAnomaly     49.1223
+	}
+}
+
+Asteroid	"T55"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.21399e-014
+	Radius          0.138361
+	InertiaMoment   0.397472
+
+	RotationPeriod  967.488
+	Obliquity       -1.61989
+	EqAscendNode    13.8116
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.626 0.546 0.481)
+
+	Surface
+	{
+		SurfStyle       0.840026
+		OceanStyle      0.0133546
+		Randomize      (0.452, 0.088, -0.547)
+		colorDistMagn   0.83184
+		colorDistFreq   6.796e-006
+		detailScale     3.77818
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0561048
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.325435
+		terraceProb     0.357899
+		erosion         0
+		montesMagn      0.576888
+		montesFreq      3.01939
+		montesSpiky     0.96477
+		montesFraction  0.33872
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       4.59455e-005
+		hillsFraction   0.661986
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.211811
+		craterFreq      0.215901
+		craterDensity   0.739992
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.490879
+		volcanoTemp     1542.81
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.244, 0.185, 0.135, 0.000)
+		colorShelf     (0.250, 0.191, 0.154, 0.000)
+		colorBeach     (0.294, 0.224, 0.183, 0.000)
+		colorDesert    (0.319, 0.240, 0.178, 0.000)
+		colorLowland   (0.350, 0.256, 0.202, 0.000)
+		colorUpland    (0.388, 0.311, 0.245, 0.000)
+		colorRock      (0.419, 0.338, 0.265, 0.000)
+		colorSnow      (0.457, 0.360, 0.279, 1.000)
+		BumpHeight      0.124525
+		BumpOffset      0.024905
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015717
+		Period          0.0551854
+		Eccentricity    0.117859
+		Inclination     -1.61989
+		AscendingNode   13.8116
+		ArgOfPericenter -153.29
+		MeanAnomaly     160.282
+	}
+}
+
+Asteroid	"T56"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.78644e-011
+	Radius          1.7677
+	InertiaMoment   0.398843
+
+	RotationPeriod  998.572
+	Obliquity       0.112302
+	EqAscendNode    33.8377
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.410 0.405 0.403)
+
+	Surface
+	{
+		SurfStyle       0.374956
+		OceanStyle      0.709413
+		Randomize      (-0.090, -0.080, -0.328)
+		colorDistMagn   0.723942
+		colorDistFreq   0.00219672
+		detailScale     48.2701
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00375055
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.610218
+		terraceProb     0.186228
+		erosion         0
+		montesMagn      0.52953
+		montesFreq      3.36392
+		montesSpiky     0.992586
+		montesFraction  0.585594
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00791843
+		hillsFraction   0.565529
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.246722
+		craterFreq      0.224168
+		craterDensity   1.07308
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.498287
+		volcanoTemp     1596.19
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.164, 0.162, 0.161, 0.000)
+		colorShelf     (0.174, 0.172, 0.171, 0.000)
+		colorBeach     (0.185, 0.182, 0.181, 0.000)
+		colorDesert    (0.195, 0.192, 0.191, 0.000)
+		colorLowland   (0.205, 0.203, 0.201, 0.000)
+		colorUpland    (0.215, 0.213, 0.211, 0.000)
+		colorRock      (0.226, 0.223, 0.221, 0.000)
+		colorSnow      (0.236, 0.233, 0.231, 1.000)
+		BumpHeight      1.59093
+		BumpOffset      0.318186
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018821
+		Period          0.0569584
+		Eccentricity    0.136262
+		Inclination     0.112302
+		AscendingNode   33.8377
+		ArgOfPericenter 115.953
+		MeanAnomaly     169.077
+	}
+}
+
+Asteroid	"T57"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.62884e-008
+	Radius          22.8777
+	InertiaMoment   0.399798
+
+	RotationPeriod  331.858
+	Obliquity       -0.263955
+	EqAscendNode    -28.3563
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.491 0.487 0.483)
+
+	Surface
+	{
+		SurfStyle       0.753939
+		OceanStyle      0.327016
+		Randomize      (-0.892, 0.334, -0.047)
+		colorDistMagn   0.732298
+		colorDistFreq   0.0458544
+		detailScale     624.715
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00893025
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.636611
+		terraceProb     0.208455
+		erosion         0
+		montesMagn      0.58607
+		montesFreq      3.5755
+		montesSpiky     0.873066
+		montesFraction  0.440157
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.42603
+		hillsFraction   0.678466
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.192241
+		craterFreq      0.202405
+		craterDensity   0.959001
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.504551
+		volcanoTemp     1490.63
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.191, 0.165, 0.135, 0.000)
+		colorShelf     (0.196, 0.170, 0.155, 0.000)
+		colorBeach     (0.231, 0.200, 0.184, 0.000)
+		colorDesert    (0.250, 0.214, 0.179, 0.000)
+		colorLowland   (0.275, 0.229, 0.203, 0.000)
+		colorUpland    (0.304, 0.277, 0.246, 0.000)
+		colorRock      (0.329, 0.302, 0.266, 0.000)
+		colorSnow      (0.358, 0.321, 0.280, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018523
+		Period          0.0567873
+		Eccentricity    0.134528
+		Inclination     -0.263955
+		AscendingNode   -28.3563
+		ArgOfPericenter 124.058
+		MeanAnomaly     -54.7799
+	}
+}
+
+Asteroid	"T58"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.54007e-016
+	Radius          0.0322693
+	InertiaMoment   0.397823
+
+	Obliquity       1.90546
+	EqAscendNode    -16.3082
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.771 0.770 0.768)
+
+	Surface
+	{
+		SurfStyle       0.778068
+		OceanStyle      0.00628605
+		Randomize      (-0.469, -0.227, -0.038)
+		colorDistMagn   0.39565
+		colorDistFreq   4.27514e-007
+		detailScale     0.881167
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0657927
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.547748
+		terraceProb     0.531974
+		erosion         0
+		montesMagn      0.379312
+		montesFreq      2.58804
+		montesSpiky     0.908232
+		montesFraction  0.816496
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.17654e-006
+		hillsFraction   0.653824
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.21861
+		craterFreq      0.187569
+		craterDensity   0.773018
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.489107
+		volcanoTemp     1408.65
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.301, 0.262, 0.215, 0.000)
+		colorShelf     (0.308, 0.270, 0.246, 0.000)
+		colorBeach     (0.362, 0.316, 0.292, 0.000)
+		colorDesert    (0.393, 0.339, 0.284, 0.000)
+		colorLowland   (0.432, 0.362, 0.323, 0.000)
+		colorUpland    (0.478, 0.439, 0.392, 0.000)
+		colorRock      (0.517, 0.477, 0.423, 0.000)
+		colorSnow      (0.563, 0.508, 0.446, 1.000)
+		BumpHeight      0.0290424
+		BumpOffset      0.00580847
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012136
+		Period          0.047653
+		Eccentricity    0.0271928
+		Inclination     1.90546
+		AscendingNode   -16.3082
+		ArgOfPericenter 168.59
+		MeanAnomaly     -129.991
+	}
+}
+
+Asteroid	"T59"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.2663e-013
+	Radius          0.412275
+	InertiaMoment   0.399045
+
+	Obliquity       -9.33643
+	EqAscendNode    18.8623
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.511 0.504 0.497)
+
+	Surface
+	{
+		SurfStyle       0.524279
+		OceanStyle      0.482766
+		Randomize      (-0.996, 0.988, 0.008)
+		colorDistMagn   0.845173
+		colorDistFreq   6.77487e-005
+		detailScale     11.2579
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.315951
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.569179
+		terraceProb     0.350032
+		erosion         0
+		montesMagn      0.512356
+		montesFreq      3.21362
+		montesSpiky     0.989587
+		montesFraction  0.846187
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000285322
+		hillsFraction   0.638608
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.239681
+		craterFreq      0.153234
+		craterDensity   0.953997
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.493454
+		volcanoTemp     1357.76
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.199, 0.171, 0.139, 0.000)
+		colorShelf     (0.204, 0.176, 0.159, 0.000)
+		colorBeach     (0.240, 0.207, 0.189, 0.000)
+		colorDesert    (0.261, 0.222, 0.184, 0.000)
+		colorLowland   (0.286, 0.237, 0.209, 0.000)
+		colorUpland    (0.317, 0.287, 0.254, 0.000)
+		colorRock      (0.343, 0.312, 0.273, 0.000)
+		colorSnow      (0.373, 0.333, 0.288, 1.000)
+		BumpHeight      0.371047
+		BumpOffset      0.0742095
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016501
+		Period          0.0556314
+		Eccentricity    0.12258
+		Inclination     -9.33643
+		AscendingNode   18.8623
+		ArgOfPericenter -42.8352
+		MeanAnomaly     73.2593
+	}
+}
+
+Asteroid	"T60"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.33498e-010
+	Radius          5.33608
+	InertiaMoment   0.399975
+
+	Obliquity       0.827132
+	EqAscendNode    52.0175
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.503 0.497 0.490)
+
+	Surface
+	{
+		SurfStyle       0.176395
+		OceanStyle      0.0838437
+		Randomize      (0.600, -0.532, -0.941)
+		colorDistMagn   0.903545
+		colorDistFreq   0.0170241
+		detailScale     145.71
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0259457
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.549327
+		terraceProb     0.593667
+		erosion         0
+		montesMagn      0.514781
+		montesFreq      3.36341
+		montesSpiky     0.956845
+		montesFraction  0.574066
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0581951
+		hillsFraction   0.570656
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.211017
+		craterFreq      0.259551
+		craterDensity   0.722225
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.473216
+		volcanoTemp     1609.02
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.201, 0.199, 0.196, 0.000)
+		colorShelf     (0.214, 0.211, 0.208, 0.000)
+		colorBeach     (0.226, 0.224, 0.220, 0.000)
+		colorDesert    (0.239, 0.236, 0.233, 0.000)
+		colorLowland   (0.251, 0.249, 0.245, 0.000)
+		colorUpland    (0.264, 0.261, 0.257, 0.000)
+		colorRock      (0.276, 0.273, 0.269, 0.000)
+		colorSnow      (0.289, 0.286, 0.282, 1.000)
+		BumpHeight      4.80247
+		BumpOffset      0.960494
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018804
+		Period          0.0569486
+		Eccentricity    0.078758
+		Inclination     0.827132
+		AscendingNode   52.0175
+		ArgOfPericenter 79.3141
+		MeanAnomaly     -178.902
+	}
+}
+
+Asteroid	"T61"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.9076e-007
+	Radius          47.4722
+	InertiaMoment   0.398118
+
+	RotationPeriod  931.994
+	Obliquity       0.357466
+	EqAscendNode    -19.6917
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.745 0.740 0.738)
+
+	Surface
+	{
+		SurfStyle       0.434419
+		OceanStyle      0.351225
+		Randomize      (0.276, -0.467, -0.636)
+		colorDistMagn   0.04783
+		colorDistFreq   1.24164
+		detailScale     1296.31
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0122944
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.336251
+		terraceProb     0.372532
+		erosion         0
+		montesMagn      0.469086
+		montesFreq      3.47693
+		montesSpiky     0.808069
+		montesFraction  0.225106
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       4.39702
+		hillsFraction   0.888014
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.253788
+		craterFreq      0.265405
+		craterDensity   0.889484
+		craterOctaves   14
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.478425
+		volcanoTemp     1407.2
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.298, 0.296, 0.295, 0.000)
+		colorShelf     (0.317, 0.315, 0.314, 0.000)
+		colorBeach     (0.335, 0.333, 0.332, 0.000)
+		colorDesert    (0.354, 0.352, 0.351, 0.000)
+		colorLowland   (0.372, 0.370, 0.369, 0.000)
+		colorUpland    (0.391, 0.389, 0.387, 0.000)
+		colorRock      (0.410, 0.407, 0.406, 0.000)
+		colorSnow      (0.428, 0.426, 0.424, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012131
+		Period          0.0531608
+		Eccentricity    0.0956023
+		Inclination     0.357466
+		AscendingNode   -19.6917
+		ArgOfPericenter -63.3788
+		MeanAnomaly     144.209
+	}
+}
+
+Asteroid	"T62"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.87505e-015
+	Radius          0.0856034
+	InertiaMoment   0.399239
+
+	RotationPeriod  357.111
+	Obliquity       1.65264
+	EqAscendNode    71.3225
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.737 0.735 0.732)
+
+	Surface
+	{
+		SurfStyle       0.286734
+		OceanStyle      0.10376
+		Randomize      (0.886, -0.621, 0.277)
+		colorDistMagn   0.0877894
+		colorDistFreq   2.32681e-006
+		detailScale     2.33754
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0468507
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.558161
+		terraceProb     0.390057
+		erosion         0
+		montesMagn      0.608791
+		montesFreq      3.69282
+		montesSpiky     0.921907
+		montesFraction  0.87947
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.36378e-005
+		hillsFraction   0.517499
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.220188
+		craterFreq      0.14599
+		craterDensity   1.0096
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.568489
+		volcanoTemp     1418.13
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.295, 0.294, 0.293, 0.000)
+		colorShelf     (0.313, 0.313, 0.311, 0.000)
+		colorBeach     (0.332, 0.331, 0.329, 0.000)
+		colorDesert    (0.350, 0.349, 0.348, 0.000)
+		colorLowland   (0.369, 0.368, 0.366, 0.000)
+		colorUpland    (0.387, 0.386, 0.384, 0.000)
+		colorRock      (0.406, 0.404, 0.403, 0.000)
+		colorSnow      (0.424, 0.423, 0.421, 1.000)
+		BumpHeight      0.077043
+		BumpOffset      0.0154086
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015965
+		Period          0.0611086
+		Eccentricity    0.175826
+		Inclination     1.65264
+		AscendingNode   71.3225
+		ArgOfPericenter 158.319
+		MeanAnomaly     21.7115
+	}
+}
+
+Asteroid	"T63"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.23079e-012
+	Radius          1.09367
+	InertiaMoment   0.396241
+
+	Obliquity       4.36948
+	EqAscendNode    -98.5246
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.794 0.792 0.789)
+
+	Surface
+	{
+		SurfStyle       0.954349
+		OceanStyle      0.516486
+		Randomize      (0.177, -0.365, 0.426)
+		colorDistMagn   0.0327579
+		colorDistFreq   0.000646949
+		detailScale     29.8645
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0993169
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.44866
+		terraceProb     0.201883
+		erosion         0
+		montesMagn      0.45153
+		montesFreq      2.71194
+		montesSpiky     0.889431
+		montesFraction  0.921854
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00353829
+		hillsFraction   0.517764
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.250398
+		craterFreq      0.210193
+		craterDensity   0.94395
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.490696
+		volcanoTemp     1468.4
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.270, 0.277, 0.316, 0.050)
+		colorShelf     (0.318, 0.325, 0.363, 0.040)
+		colorBeach     (0.365, 0.372, 0.410, 0.030)
+		colorDesert    (0.413, 0.420, 0.466, 0.020)
+		colorLowland   (0.461, 0.467, 0.513, 0.030)
+		colorUpland    (0.508, 0.515, 0.560, 0.050)
+		colorRock      (0.556, 0.563, 0.623, 0.020)
+		colorSnow      (0.556, 0.563, 0.623, 1.000)
+		BumpHeight      0.984305
+		BumpOffset      0.196861
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011229
+		Period          0.0526556
+		Eccentricity    0.0898267
+		Inclination     4.36948
+		AscendingNode   -98.5246
+		ArgOfPericenter 10.9237
+		MeanAnomaly     -147.167
+	}
+}
+
+Asteroid	"T64"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.22582e-009
+	Radius          14.1549
+	InertiaMoment   0.398377
+
+	RotationPeriod  637.047
+	Obliquity       -2.8605
+	EqAscendNode    -61.4647
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.491 0.483 0.479)
+
+	Surface
+	{
+		SurfStyle       0.198635
+		OceanStyle      0.963016
+		Randomize      (-0.765, -0.865, -0.470)
+		colorDistMagn   0.684408
+		colorDistFreq   0.156377
+		detailScale     386.524
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0857128
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.742022
+		terraceProb     0.399611
+		erosion         0
+		montesMagn      0.626938
+		montesFreq      3.12618
+		montesSpiky     0.96915
+		montesFraction  0.438027
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.462915
+		hillsFraction   0.535143
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.203856
+		craterFreq      0.243755
+		craterDensity   0.973614
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.526261
+		volcanoTemp     1634.78
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.196, 0.193, 0.191, 0.000)
+		colorShelf     (0.209, 0.205, 0.203, 0.000)
+		colorBeach     (0.221, 0.217, 0.215, 0.000)
+		colorDesert    (0.233, 0.230, 0.227, 0.000)
+		colorLowland   (0.245, 0.242, 0.239, 0.000)
+		colorUpland    (0.258, 0.254, 0.251, 0.000)
+		colorRock      (0.270, 0.266, 0.263, 0.000)
+		colorSnow      (0.282, 0.278, 0.275, 1.000)
+		BumpHeight      12.7394
+		BumpOffset      2.54788
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014518
+		Period          0.0545056
+		Eccentricity    0.11054
+		Inclination     -2.8605
+		AscendingNode   -61.4647
+		ArgOfPericenter 19.0233
+		MeanAnomaly     -5.27679
+	}
+}
+
+Asteroid	"T65"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.64732e-017
+	Radius          0.0199649
+	InertiaMoment   0.399425
+
+	Obliquity       4.0127
+	EqAscendNode    131.995
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.737 0.735 0.731)
+
+	Surface
+	{
+		SurfStyle       0.0848465
+		OceanStyle      0.382183
+		Randomize      (-0.156, -0.030, 0.858)
+		colorDistMagn   0.853376
+		colorDistFreq   3.45658e-007
+		detailScale     0.545176
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0569073
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.29519
+		terraceProb     0.258029
+		erosion         0
+		montesMagn      0.602826
+		montesFreq      3.40353
+		montesSpiky     0.924874
+		montesFraction  0.326612
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       8.45119e-007
+		hillsFraction   0.736427
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.21984
+		craterFreq      0.240597
+		craterDensity   0.949569
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.54748
+		volcanoTemp     1300.64
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.295, 0.294, 0.292, 0.000)
+		colorShelf     (0.313, 0.312, 0.311, 0.000)
+		colorBeach     (0.332, 0.331, 0.329, 0.000)
+		colorDesert    (0.350, 0.349, 0.347, 0.000)
+		colorLowland   (0.369, 0.367, 0.366, 0.000)
+		colorUpland    (0.387, 0.386, 0.384, 0.000)
+		colorRock      (0.406, 0.404, 0.402, 0.000)
+		colorSnow      (0.424, 0.422, 0.420, 1.000)
+		BumpHeight      0.0179684
+		BumpOffset      0.00359369
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018304
+		Period          0.0510284
+		Eccentricity    0.0705784
+		Inclination     4.0127
+		AscendingNode   131.995
+		ArgOfPericenter -170.064
+		MeanAnomaly     86.0477
+	}
+}
+
+Asteroid	"T66"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.36723e-014
+	Radius          0.255074
+	InertiaMoment   0.396975
+
+	Obliquity       -2.27218
+	EqAscendNode    9.30127
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.783 0.780 0.778)
+
+	Surface
+	{
+		SurfStyle       0.99957
+		OceanStyle      0.978724
+		Randomize      (0.118, -0.467, -0.703)
+		colorDistMagn   0.532599
+		colorDistFreq   5.38988e-005
+		detailScale     6.96521
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0789705
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.450785
+		terraceProb     0.338706
+		erosion         0
+		montesMagn      0.461928
+		montesFreq      2.90513
+		montesSpiky     0.951729
+		montesFraction  0.758933
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000156832
+		hillsFraction   0.649442
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.258557
+		craterFreq      0.260697
+		craterDensity   0.933938
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.565931
+		volcanoTemp     1173.32
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.266, 0.273, 0.311, 0.050)
+		colorShelf     (0.313, 0.320, 0.358, 0.040)
+		colorBeach     (0.360, 0.367, 0.405, 0.030)
+		colorDesert    (0.407, 0.413, 0.459, 0.020)
+		colorLowland   (0.454, 0.460, 0.506, 0.030)
+		colorUpland    (0.501, 0.507, 0.552, 0.050)
+		colorRock      (0.548, 0.554, 0.615, 0.020)
+		colorSnow      (0.548, 0.554, 0.615, 1.000)
+		BumpHeight      0.229566
+		BumpOffset      0.0459132
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019637
+		Period          0.051768
+		Eccentricity    0.0794518
+		Inclination     -2.27218
+		AscendingNode   9.30127
+		ArgOfPericenter -7.9807
+		MeanAnomaly     -27.9994
+	}
+}
+
+Asteroid	"T67"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            7.89816e-011
+	Radius          3.30143
+	InertiaMoment   0.398611
+
+	Obliquity       3.24403
+	EqAscendNode    48.1824
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.662 0.660 0.658)
+
+	Surface
+	{
+		SurfStyle       0.581665
+		OceanStyle      0.803753
+		Randomize      (-0.407, 0.333, -0.906)
+		colorDistMagn   0.495911
+		colorDistFreq   0.00391676
+		detailScale     90.1511
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.103181
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.761307
+		terraceProb     0.302396
+		erosion         0
+		montesMagn      0.591502
+		montesFreq      3.45007
+		montesSpiky     0.901948
+		montesFraction  0.477181
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0213099
+		hillsFraction   0.837425
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.247844
+		craterFreq      0.245098
+		craterDensity   0.904545
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.537819
+		volcanoTemp     1678.1
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.258, 0.224, 0.184, 0.000)
+		colorShelf     (0.265, 0.231, 0.210, 0.000)
+		colorBeach     (0.311, 0.270, 0.250, 0.000)
+		colorDesert    (0.337, 0.290, 0.243, 0.000)
+		colorLowland   (0.371, 0.310, 0.276, 0.000)
+		colorUpland    (0.410, 0.376, 0.335, 0.000)
+		colorRock      (0.443, 0.409, 0.362, 0.000)
+		colorSnow      (0.483, 0.435, 0.381, 1.000)
+		BumpHeight      2.97129
+		BumpOffset      0.594258
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01501
+		Period          0.0605482
+		Eccentricity    0.170749
+		Inclination     3.24403
+		AscendingNode   48.1824
+		ArgOfPericenter 117.534
+		MeanAnomaly     117.873
+	}
+}
+
+Asteroid	"T68"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.16225e-007
+	Radius          29.3746
+	InertiaMoment   0.399606
+
+	RotationPeriod  331.092
+	Obliquity       2.67488
+	EqAscendNode    34.2441
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.664 0.662 0.661)
+
+	Surface
+	{
+		SurfStyle       0.764681
+		OceanStyle      0.17966
+		Randomize      (0.368, 0.659, 0.663)
+		colorDistMagn   0.133249
+		colorDistFreq   0.407225
+		detailScale     802.122
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0891118
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.692064
+		terraceProb     0.231605
+		erosion         0
+		montesMagn      0.564255
+		montesFreq      3.60057
+		montesSpiky     0.952377
+		montesFraction  0.243197
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.26578
+		hillsFraction   0.778142
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.240057
+		craterFreq      0.196086
+		craterDensity   0.855435
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.491648
+		volcanoTemp     1513.74
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.259, 0.225, 0.185, 0.000)
+		colorShelf     (0.266, 0.232, 0.211, 0.000)
+		colorBeach     (0.312, 0.271, 0.251, 0.000)
+		colorDesert    (0.339, 0.291, 0.244, 0.000)
+		colorLowland   (0.372, 0.311, 0.277, 0.000)
+		colorUpland    (0.412, 0.377, 0.337, 0.000)
+		colorRock      (0.445, 0.410, 0.363, 0.000)
+		colorSnow      (0.485, 0.437, 0.383, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018295
+		Period          0.0566564
+		Eccentricity    0.133195
+		Inclination     2.67488
+		AscendingNode   34.2441
+		ArgOfPericenter -124.944
+		MeanAnomaly     123.658
+	}
+}
+
+Asteroid	"T69"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.8089e-016
+	Radius          0.0594895
+	InertiaMoment   0.397441
+
+	Obliquity       -0.501384
+	EqAscendNode    121.325
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.426 0.419 0.414)
+
+	Surface
+	{
+		SurfStyle       0.200986
+		OceanStyle      0.020462
+		Randomize      (-0.884, 0.419, -0.091)
+		colorDistMagn   0.238815
+		colorDistFreq   1.25544e-006
+		detailScale     1.62446
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00857618
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.425498
+		terraceProb     0.294646
+		erosion         0
+		montesMagn      0.391638
+		montesFreq      3.01093
+		montesSpiky     0.959413
+		montesFraction  0.56696
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       9.89941e-006
+		hillsFraction   0.589796
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.253141
+		craterFreq      0.142808
+		craterDensity   0.978483
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.540123
+		volcanoTemp     1071.14
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.170, 0.168, 0.165, 0.000)
+		colorShelf     (0.181, 0.178, 0.176, 0.000)
+		colorBeach     (0.192, 0.189, 0.186, 0.000)
+		colorDesert    (0.202, 0.199, 0.196, 0.000)
+		colorLowland   (0.213, 0.210, 0.207, 0.000)
+		colorUpland    (0.224, 0.220, 0.217, 0.000)
+		colorRock      (0.234, 0.231, 0.227, 0.000)
+		colorSnow      (0.245, 0.241, 0.238, 1.000)
+		BumpHeight      0.0535406
+		BumpOffset      0.0107081
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019562
+		Period          0.0573843
+		Eccentricity    0.140541
+		Inclination     -0.501384
+		AscendingNode   121.325
+		ArgOfPericenter -21.6297
+		MeanAnomaly     -55.3789
+	}
+}
+
+Asteroid	"T70"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.00197e-012
+	Radius          0.769982
+	InertiaMoment   0.398827
+
+	RotationPeriod  668.673
+	Obliquity       -2.75921
+	EqAscendNode    139.24
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.772 0.769 0.765)
+
+	Surface
+	{
+		SurfStyle       0.438572
+		OceanStyle      0.249047
+		Randomize      (0.483, 0.054, 0.775)
+		colorDistMagn   0.797989
+		colorDistFreq   9.73578e-005
+		detailScale     21.0257
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0335235
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.599757
+		terraceProb     0.186261
+		erosion         0
+		montesMagn      0.470595
+		montesFreq      3.6739
+		montesSpiky     0.904788
+		montesFraction  0.553888
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00157077
+		hillsFraction   0.824934
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.245094
+		craterFreq      0.228914
+		craterDensity   0.838742
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.48745
+		volcanoTemp     1431.99
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.309, 0.308, 0.306, 0.000)
+		colorShelf     (0.328, 0.327, 0.325, 0.000)
+		colorBeach     (0.347, 0.346, 0.344, 0.000)
+		colorDesert    (0.367, 0.365, 0.364, 0.000)
+		colorLowland   (0.386, 0.384, 0.383, 0.000)
+		colorUpland    (0.405, 0.404, 0.402, 0.000)
+		colorRock      (0.424, 0.423, 0.421, 0.000)
+		colorSnow      (0.444, 0.442, 0.440, 1.000)
+		BumpHeight      0.692984
+		BumpOffset      0.138597
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019262
+		Period          0.0572116
+		Eccentricity    0.138812
+		Inclination     -2.75921
+		AscendingNode   139.24
+		ArgOfPericenter -67.892
+		MeanAnomaly     -89.6635
+	}
+}
+
+Asteroid	"T71"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.47445e-009
+	Radius          6.85183
+	InertiaMoment   0.399785
+
+	RotationPeriod  915.788
+	Obliquity       -1.11579
+	EqAscendNode    94.0404
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.687 0.684 0.683)
+
+	Surface
+	{
+		SurfStyle       0.436455
+		OceanStyle      0.439067
+		Randomize      (-0.620, 0.918, 0.870)
+		colorDistMagn   0.349929
+		colorDistFreq   0.0339171
+		detailScale     187.101
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0265496
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.656395
+		terraceProb     0.382502
+		erosion         0
+		montesMagn      0.409039
+		montesFreq      4.13001
+		montesSpiky     0.919169
+		montesFraction  0.210443
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0744667
+		hillsFraction   0.446437
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.245532
+		craterFreq      0.267291
+		craterDensity   0.920286
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.57715
+		volcanoTemp     1014.81
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.275, 0.274, 0.273, 0.000)
+		colorShelf     (0.292, 0.291, 0.290, 0.000)
+		colorBeach     (0.309, 0.308, 0.307, 0.000)
+		colorDesert    (0.326, 0.325, 0.324, 0.000)
+		colorLowland   (0.343, 0.342, 0.341, 0.000)
+		colorUpland    (0.360, 0.359, 0.358, 0.000)
+		colorRock      (0.378, 0.376, 0.375, 0.000)
+		colorSnow      (0.395, 0.393, 0.392, 1.000)
+		BumpHeight      6.16665
+		BumpOffset      1.23333
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018634
+		Period          0.0626837
+		Eccentricity    0.189691
+		Inclination     -1.11579
+		AscendingNode   94.0404
+		ArgOfPericenter 89.5135
+		MeanAnomaly     29.4333
+	}
+}
+
+Asteroid	"T72"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            8.63785e-018
+	Radius          0.0138745
+	InertiaMoment   0.397798
+
+	Obliquity       2.80343
+	EqAscendNode    105.693
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.567 0.562 0.556)
+
+	Surface
+	{
+		SurfStyle       0.821183
+		OceanStyle      0.562577
+		Randomize      (-0.362, -0.238, 0.732)
+		colorDistMagn   0.235207
+		colorDistFreq   1.5213e-007
+		detailScale     0.378866
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0590522
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.371759
+		terraceProb     0.153472
+		erosion         0
+		montesMagn      0.618588
+		montesFreq      3.51538
+		montesSpiky     0.801198
+		montesFraction  0.171776
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.59498e-007
+		hillsFraction   0.693187
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.239029
+		craterFreq      0.272223
+		craterDensity   0.859233
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.509337
+		volcanoTemp     1698.01
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.221, 0.191, 0.156, 0.000)
+		colorShelf     (0.227, 0.197, 0.178, 0.000)
+		colorBeach     (0.266, 0.231, 0.211, 0.000)
+		colorDesert    (0.289, 0.247, 0.206, 0.000)
+		colorLowland   (0.317, 0.264, 0.234, 0.000)
+		colorUpland    (0.351, 0.321, 0.284, 0.000)
+		colorRock      (0.380, 0.349, 0.306, 0.000)
+		colorSnow      (0.414, 0.371, 0.323, 1.000)
+		BumpHeight      0.0124871
+		BumpOffset      0.00249741
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019368
+		Period          0.0516182
+		Eccentricity    0.0776727
+		Inclination     2.80343
+		AscendingNode   105.693
+		ArgOfPericenter -18.2028
+		MeanAnomaly     61.4222
+	}
+}
+
+Asteroid	"T73"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.27111e-014
+	Radius          0.17958
+	InertiaMoment   0.39903
+
+	Obliquity       -3.82971
+	EqAscendNode    -135.089
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.792 0.790 0.788)
+
+	Surface
+	{
+		SurfStyle       0.398815
+		OceanStyle      0.669632
+		Randomize      (-0.698, -0.722, -0.348)
+		colorDistMagn   0.734777
+		colorDistFreq   2.12295e-005
+		detailScale     4.90374
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.051007
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.630583
+		terraceProb     0.202419
+		erosion         0
+		montesMagn      0.463625
+		montesFreq      2.78952
+		montesSpiky     0.930886
+		montesFraction  0.817405
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       6.28045e-005
+		hillsFraction   0.646074
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.237315
+		craterFreq      0.270787
+		craterDensity   0.897111
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.474578
+		volcanoTemp     1440.55
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.317, 0.316, 0.315, 0.000)
+		colorShelf     (0.337, 0.336, 0.335, 0.000)
+		colorBeach     (0.356, 0.355, 0.354, 0.000)
+		colorDesert    (0.376, 0.375, 0.374, 0.000)
+		colorLowland   (0.396, 0.395, 0.394, 0.000)
+		colorUpland    (0.416, 0.415, 0.414, 0.000)
+		colorRock      (0.436, 0.434, 0.433, 0.000)
+		colorSnow      (0.455, 0.454, 0.453, 1.000)
+		BumpHeight      0.161622
+		BumpOffset      0.0323245
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010387
+		Period          0.0521856
+		Eccentricity    0.0843697
+		Inclination     -3.82971
+		AscendingNode   -135.089
+		ArgOfPericenter -95.5197
+		MeanAnomaly     26.5404
+	}
+}
+
+Asteroid	"T74"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.8705e-011
+	Radius          1.59806
+	InertiaMoment   0.399961
+
+	Obliquity       -2.73829
+	EqAscendNode    -13.3083
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.841 0.795 0.734)
+
+	Surface
+	{
+		SurfStyle       0.874658
+		OceanStyle      0.329107
+		Randomize      (-0.574, 0.058, 0.896)
+		colorDistMagn   0.829202
+		colorDistFreq   0.000729428
+		detailScale     43.6377
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0947976
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.479424
+		terraceProb     0.131184
+		erosion         0
+		montesMagn      0.411228
+		montesFreq      1.63258
+		montesSpiky     0.878982
+		montesFraction  0.772029
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00438706
+		hillsFraction   0.384703
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.225209
+		craterFreq      0.278562
+		craterDensity   0.872515
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.499975
+		volcanoTemp     1292.1
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.286, 0.278, 0.294, 0.050)
+		colorShelf     (0.336, 0.326, 0.338, 0.040)
+		colorBeach     (0.387, 0.374, 0.382, 0.030)
+		colorDesert    (0.437, 0.421, 0.433, 0.020)
+		colorLowland   (0.488, 0.469, 0.477, 0.030)
+		colorUpland    (0.538, 0.517, 0.521, 0.050)
+		colorRock      (0.589, 0.564, 0.580, 0.020)
+		colorSnow      (0.589, 0.564, 0.580, 1.000)
+		BumpHeight      1.43825
+		BumpOffset      0.287651
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015664
+		Period          0.0495745
+		Eccentricity    0.0524946
+		Inclination     -2.73829
+		AscendingNode   -13.3083
+		ArgOfPericenter 12.344
+		MeanAnomaly     34.1729
+	}
+}
+
+Asteroid	"T75"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.75254e-008
+	Radius          20.4152
+	InertiaMoment   0.398097
+
+	RotationPeriod  772.72
+	Obliquity       3.87823
+	EqAscendNode    -175.896
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.647 0.645 0.642)
+
+	Surface
+	{
+		SurfStyle       0.0838619
+		OceanStyle      0.445447
+		Randomize      (-0.918, 0.051, 0.542)
+		colorDistMagn   0.535957
+		colorDistFreq   0.237052
+		detailScale     557.47
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00484604
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.692652
+		terraceProb     0.142641
+		erosion         0
+		montesMagn      0.541681
+		montesFreq      3.18745
+		montesSpiky     0.94978
+		montesFraction  0.770029
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.739002
+		hillsFraction   0.503824
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.237629
+		craterFreq      0.151266
+		craterDensity   0.944393
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.551199
+		volcanoTemp     1851.22
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.259, 0.258, 0.257, 0.000)
+		colorShelf     (0.275, 0.274, 0.273, 0.000)
+		colorBeach     (0.291, 0.290, 0.289, 0.000)
+		colorDesert    (0.307, 0.306, 0.305, 0.000)
+		colorLowland   (0.323, 0.323, 0.321, 0.000)
+		colorUpland    (0.340, 0.339, 0.337, 0.000)
+		colorRock      (0.356, 0.355, 0.353, 0.000)
+		colorSnow      (0.372, 0.371, 0.369, 1.000)
+		BumpHeight      18.3736
+		BumpOffset      3.67473
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011957
+		Period          0.0587678
+		Eccentricity    0.154083
+		Inclination     3.87823
+		AscendingNode   -175.896
+		ArgOfPericenter -42.6337
+		MeanAnomaly     -25.8857
+	}
+}
+
+Asteroid	"T76"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.61254e-016
+	Radius          0.0418827
+	InertiaMoment   0.399224
+
+	RotationPeriod  1020.27
+	Obliquity       -0.46477
+	EqAscendNode    -86.7688
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.756 0.754 0.753)
+
+	Surface
+	{
+		SurfStyle       0.205833
+		OceanStyle      0.631516
+		Randomize      (0.338, 0.315, -0.180)
+		colorDistMagn   0.597799
+		colorDistFreq   1.26242e-006
+		detailScale     1.14368
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0117895
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.653383
+		terraceProb     0.123723
+		erosion         0
+		montesMagn      0.490429
+		montesFreq      3.46269
+		montesSpiky     0.905256
+		montesFraction  0.680181
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.54325e-006
+		hillsFraction   0.822878
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.260873
+		craterFreq      0.238806
+		craterDensity   0.874975
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.57896
+		volcanoTemp     1347.41
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.302, 0.302, 0.301, 0.000)
+		colorShelf     (0.321, 0.321, 0.320, 0.000)
+		colorBeach     (0.340, 0.339, 0.339, 0.000)
+		colorDesert    (0.359, 0.358, 0.358, 0.000)
+		colorLowland   (0.378, 0.377, 0.377, 0.000)
+		colorUpland    (0.397, 0.396, 0.396, 0.000)
+		colorRock      (0.416, 0.415, 0.414, 0.000)
+		colorSnow      (0.435, 0.434, 0.433, 1.000)
+		BumpHeight      0.0376944
+		BumpOffset      0.00753888
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010969
+		Period          0.0581959
+		Eccentricity    0.14855
+		Inclination     -0.46477
+		AscendingNode   -86.7688
+		ArgOfPericenter 169.34
+		MeanAnomaly     -158.258
+	}
+}
+
+Asteroid	"T77"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.37294e-013
+	Radius          0.37271
+	InertiaMoment   0.396158
+
+	RotationPeriod  1169.87
+	Obliquity       0.243505
+	EqAscendNode    -147.543
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.514 0.429 0.392)
+
+	Surface
+	{
+		SurfStyle       0.345735
+		OceanStyle      0.485783
+		Randomize      (-0.976, 0.993, 0.532)
+		colorDistMagn   0.999854
+		colorDistFreq   1.06428e-005
+		detailScale     10.1775
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00236703
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.453876
+		terraceProb     0.138595
+		erosion         0
+		montesMagn      0.597248
+		montesFreq      3.50788
+		montesSpiky     0.998511
+		montesFraction  0.440049
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000351755
+		hillsFraction   0.50136
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.220625
+		craterFreq      0.189229
+		craterDensity   0.795104
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.521797
+		volcanoTemp     1691.81
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.206, 0.171, 0.157, 0.000)
+		colorShelf     (0.218, 0.182, 0.167, 0.000)
+		colorBeach     (0.231, 0.193, 0.176, 0.000)
+		colorDesert    (0.244, 0.204, 0.186, 0.000)
+		colorLowland   (0.257, 0.214, 0.196, 0.000)
+		colorUpland    (0.270, 0.225, 0.206, 0.000)
+		colorRock      (0.283, 0.236, 0.216, 0.000)
+		colorSnow      (0.295, 0.246, 0.226, 1.000)
+		BumpHeight      0.335439
+		BumpOffset      0.0670878
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012527
+		Period          0.0533832
+		Eccentricity    0.0981163
+		Inclination     0.243505
+		AscendingNode   -147.543
+		ArgOfPericenter 10.9217
+		MeanAnomaly     22.7338
+	}
+}
+
+Asteroid	"T78"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.4919e-010
+	Radius          4.7617
+	InertiaMoment   0.398358
+
+	RotationPeriod  1459.76
+	Obliquity       -3.8637
+	EqAscendNode    73.9637
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.527 0.468 0.391)
+
+	Surface
+	{
+		SurfStyle       0.661955
+		OceanStyle      0.74431
+		Randomize      (0.437, 0.352, -0.260)
+		colorDistMagn   0.0773435
+		colorDistFreq   0.0132747
+		detailScale     130.026
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.107499
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.549981
+		terraceProb     0.497739
+		erosion         0
+		montesMagn      0.573202
+		montesFreq      3.20087
+		montesSpiky     0.81692
+		montesFraction  0.459096
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0517658
+		hillsFraction   0.619525
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.234537
+		craterFreq      0.220775
+		craterDensity   0.823153
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.545468
+		volcanoTemp     1727.01
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.206, 0.159, 0.109, 0.000)
+		colorShelf     (0.211, 0.164, 0.125, 0.000)
+		colorBeach     (0.248, 0.192, 0.149, 0.000)
+		colorDesert    (0.269, 0.206, 0.145, 0.000)
+		colorLowland   (0.295, 0.220, 0.164, 0.000)
+		colorUpland    (0.327, 0.267, 0.199, 0.000)
+		colorRock      (0.353, 0.290, 0.215, 0.000)
+		colorSnow      (0.385, 0.309, 0.227, 1.000)
+		BumpHeight      4.28553
+		BumpOffset      0.857106
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016287
+		Period          0.0555095
+		Eccentricity    0.121297
+		Inclination     -3.8637
+		AscendingNode   73.9637
+		ArgOfPericenter -93.5891
+		MeanAnomaly     -95.4784
+	}
+}
+
+Asteroid	"T79"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.13852e-007
+	Radius          61.6144
+	InertiaMoment   0.399411
+
+	Obliquity       -3.37055
+	EqAscendNode    35.8752
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.728 0.724 0.722)
+
+	Surface
+	{
+		SurfStyle       0.00291318
+		OceanStyle      0.294749
+		Randomize      (0.409, -0.604, 0.888)
+		colorDistMagn   0.970118
+		colorDistFreq   0.405349
+		detailScale     1682.48
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.111696
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.700568
+		terraceProb     0.121363
+		erosion         0
+		montesMagn      0.42265
+		montesFreq      2.59479
+		montesSpiky     0.938655
+		montesFraction  0.730753
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       10.3592
+		hillsFraction   0.513911
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.282419
+		craterFreq      0.258004
+		craterDensity   1.0117
+		craterOctaves   14
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.479185
+		volcanoTemp     1660.26
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.291, 0.290, 0.289, 0.000)
+		colorShelf     (0.309, 0.308, 0.307, 0.000)
+		colorBeach     (0.328, 0.326, 0.325, 0.000)
+		colorDesert    (0.346, 0.344, 0.343, 0.000)
+		colorLowland   (0.364, 0.362, 0.361, 0.000)
+		colorUpland    (0.382, 0.380, 0.379, 0.000)
+		colorRock      (0.400, 0.398, 0.397, 0.000)
+		colorSnow      (0.418, 0.416, 0.415, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012578
+		Period          0.0591288
+		Eccentricity    0.0172939
+		Inclination     -3.37055
+		AscendingNode   35.8752
+		ArgOfPericenter -3.01711
+		MeanAnomaly     -13.1541
+	}
+}
+
+Asteroid	"T80"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.01032e-015
+	Radius          0.0869256
+	InertiaMoment   0.396932
+
+	Obliquity       2.42729
+	EqAscendNode    -95.382
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.682 0.678 0.676)
+
+	Surface
+	{
+		SurfStyle       0.818079
+		OceanStyle      0.53523
+		Randomize      (-0.550, 0.418, 0.822)
+		colorDistMagn   0.676107
+		colorDistFreq   2.5883e-006
+		detailScale     2.37365
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0569929
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.751162
+		terraceProb     0.135699
+		erosion         0
+		montesMagn      0.565378
+		montesFreq      2.83647
+		montesSpiky     0.935146
+		montesFraction  0.499517
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.58388e-005
+		hillsFraction   0.775152
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.236365
+		craterFreq      0.254589
+		craterDensity   1.01704
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.50618
+		volcanoTemp     1538.55
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.266, 0.231, 0.189, 0.000)
+		colorShelf     (0.273, 0.237, 0.216, 0.000)
+		colorBeach     (0.321, 0.278, 0.257, 0.000)
+		colorDesert    (0.348, 0.299, 0.250, 0.000)
+		colorLowland   (0.382, 0.319, 0.284, 0.000)
+		colorUpland    (0.423, 0.387, 0.345, 0.000)
+		colorRock      (0.457, 0.421, 0.372, 0.000)
+		colorSnow      (0.498, 0.448, 0.392, 1.000)
+		BumpHeight      0.078233
+		BumpOffset      0.0156466
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013469
+		Period          0.0483763
+		Eccentricity    0.0369133
+		Inclination     2.42729
+		AscendingNode   -95.382
+		ArgOfPericenter -170.181
+		MeanAnomaly     -168.371
+	}
+}
+
+Asteroid	"T81"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.42985e-012
+	Radius          1.11056
+	InertiaMoment   0.398593
+
+	Obliquity       -3.12542
+	EqAscendNode    -141.473
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.508 0.502 0.499)
+
+	Surface
+	{
+		SurfStyle       0.716202
+		OceanStyle      0.144435
+		Randomize      (-0.964, -0.553, -0.432)
+		colorDistMagn   0.410978
+		colorDistFreq   0.00102629
+		detailScale     30.3258
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0359699
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.687853
+		terraceProb     0.242721
+		erosion         0
+		montesMagn      0.517446
+		montesFreq      2.54776
+		montesSpiky     0.941078
+		montesFraction  0.729243
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00394641
+		hillsFraction   0.628997
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.216756
+		craterFreq      0.249967
+		craterDensity   0.677043
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.557756
+		volcanoTemp     1462.22
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.198, 0.171, 0.140, 0.000)
+		colorShelf     (0.203, 0.176, 0.160, 0.000)
+		colorBeach     (0.239, 0.206, 0.190, 0.000)
+		colorDesert    (0.259, 0.221, 0.185, 0.000)
+		colorLowland   (0.285, 0.236, 0.210, 0.000)
+		colorUpland    (0.315, 0.286, 0.255, 0.000)
+		colorRock      (0.340, 0.311, 0.275, 0.000)
+		colorSnow      (0.371, 0.332, 0.289, 1.000)
+		BumpHeight      0.999508
+		BumpOffset      0.199902
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019101
+		Period          0.0571189
+		Eccentricity    0.137881
+		Inclination     -3.12542
+		AscendingNode   -141.473
+		ArgOfPericenter -156.818
+		MeanAnomaly     71.6367
+	}
+}
+
+Asteroid	"T82"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.51877e-009
+	Radius          14.3735
+	InertiaMoment   0.399592
+
+	RotationPeriod  1217.7
+	Obliquity       0.0314687
+	EqAscendNode    131.87
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.760 0.756 0.754)
+
+	Surface
+	{
+		SurfStyle       0.545722
+		OceanStyle      0.60283
+		Randomize      (0.950, -0.757, 0.353)
+		colorDistMagn   0.384738
+		colorDistFreq   0.136743
+		detailScale     392.493
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.000488281
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.675889
+		terraceProb     0.28066
+		erosion         0
+		montesMagn      0.393703
+		montesFreq      2.07543
+		montesSpiky     0.930299
+		montesFraction  0.420295
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.645334
+		hillsFraction   0.550711
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.253786
+		craterFreq      0.243538
+		craterDensity   0.976467
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.497198
+		volcanoTemp     1627.87
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.296, 0.257, 0.211, 0.000)
+		colorShelf     (0.304, 0.265, 0.241, 0.000)
+		colorBeach     (0.357, 0.310, 0.287, 0.000)
+		colorDesert    (0.388, 0.333, 0.279, 0.000)
+		colorLowland   (0.426, 0.355, 0.317, 0.000)
+		colorUpland    (0.471, 0.431, 0.385, 0.000)
+		colorRock      (0.509, 0.469, 0.415, 0.000)
+		colorSnow      (0.555, 0.499, 0.437, 1.000)
+		BumpHeight      12.9362
+		BumpOffset      2.58723
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016386
+		Period          0.0555659
+		Eccentricity    0.080373
+		Inclination     0.0314687
+		AscendingNode   131.87
+		ArgOfPericenter 28.725
+		MeanAnomaly     70.1488
+	}
+}
+
+Asteroid	"T83"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.81893e-017
+	Radius          0.0202733
+	InertiaMoment   0.39741
+
+	RotationPeriod  1485.73
+	Obliquity       0.801465
+	EqAscendNode    -175.399
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.704 0.699 0.697)
+
+	Surface
+	{
+		SurfStyle       0.153963
+		OceanStyle      0.378194
+		Randomize      (-0.766, 0.980, -0.999)
+		colorDistMagn   0.67897
+		colorDistFreq   2.66423e-007
+		detailScale     0.553595
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00114512
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.526685
+		terraceProb     0.501935
+		erosion         0
+		montesMagn      0.522807
+		montesFreq      3.44202
+		montesSpiky     0.934032
+		montesFraction  0.653161
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       8.59435e-007
+		hillsFraction   0.696183
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.230579
+		craterFreq      0.225934
+		craterDensity   0.86436
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.495057
+		volcanoTemp     1493.14
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.281, 0.280, 0.279, 0.000)
+		colorShelf     (0.299, 0.297, 0.296, 0.000)
+		colorBeach     (0.317, 0.315, 0.313, 0.000)
+		colorDesert    (0.334, 0.332, 0.331, 0.000)
+		colorLowland   (0.352, 0.350, 0.348, 0.000)
+		colorUpland    (0.369, 0.367, 0.366, 0.000)
+		colorRock      (0.387, 0.385, 0.383, 0.000)
+		colorSnow      (0.405, 0.402, 0.401, 1.000)
+		BumpHeight      0.0182459
+		BumpOffset      0.00364919
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018017
+		Period          0.0564972
+		Eccentricity    0.0553256
+		Inclination     0.801465
+		AscendingNode   -175.399
+		ArgOfPericenter -141.202
+		MeanAnomaly     139.957
+	}
+}
+
+Asteroid	"T84"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.61976e-014
+	Radius          0.259013
+	InertiaMoment   0.398811
+
+	Obliquity       -4.31025
+	EqAscendNode    93.5168
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.496 0.490 0.486)
+
+	Surface
+	{
+		SurfStyle       0.146286
+		OceanStyle      0.123311
+		Randomize      (0.408, -0.941, 0.904)
+		colorDistMagn   0.683481
+		colorDistFreq   4.42104e-005
+		detailScale     7.07278
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.10284
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.585114
+		terraceProb     0.137434
+		erosion         0
+		montesMagn      0.479553
+		montesFreq      3.50132
+		montesSpiky     0.963902
+		montesFraction  0.740193
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00014712
+		hillsFraction   0.642701
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.231779
+		craterFreq      0.195989
+		craterDensity   1.03109
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.5767
+		volcanoTemp     1224.82
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.198, 0.196, 0.194, 0.000)
+		colorShelf     (0.211, 0.208, 0.206, 0.000)
+		colorBeach     (0.223, 0.221, 0.218, 0.000)
+		colorDesert    (0.235, 0.233, 0.231, 0.000)
+		colorLowland   (0.248, 0.245, 0.243, 0.000)
+		colorUpland    (0.260, 0.257, 0.255, 0.000)
+		colorRock      (0.273, 0.270, 0.267, 0.000)
+		colorSnow      (0.285, 0.282, 0.279, 1.000)
+		BumpHeight      0.233112
+		BumpOffset      0.0466223
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015492
+		Period          0.0494801
+		Eccentricity    0.0512894
+		Inclination     -4.31025
+		AscendingNode   93.5168
+		ArgOfPericenter 45.6621
+		MeanAnomaly     -78.46
+	}
+}
+
+Asteroid	"T85"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            8.26978e-011
+	Radius          3.35242
+	InertiaMoment   0.399771
+
+	Obliquity       3.45504
+	EqAscendNode    -98.1559
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.768 0.767 0.765)
+
+	Surface
+	{
+		SurfStyle       0.562392
+		OceanStyle      0.502949
+		Randomize      (-0.160, -0.147, -0.852)
+		colorDistMagn   0.767011
+		colorDistFreq   0.000604479
+		detailScale     91.5434
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0788899
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.377096
+		terraceProb     0.131336
+		erosion         0
+		montesMagn      0.497055
+		montesFreq      2.8885
+		montesSpiky     0.880855
+		montesFraction  0.822017
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0286927
+		hillsFraction   0.666709
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.252458
+		craterFreq      0.240288
+		craterDensity   1.06162
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.478609
+		volcanoTemp     1578.21
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.300, 0.261, 0.214, 0.000)
+		colorShelf     (0.307, 0.268, 0.245, 0.000)
+		colorBeach     (0.361, 0.314, 0.291, 0.000)
+		colorDesert    (0.392, 0.337, 0.283, 0.000)
+		colorLowland   (0.430, 0.360, 0.321, 0.000)
+		colorUpland    (0.476, 0.437, 0.390, 0.000)
+		colorRock      (0.515, 0.475, 0.420, 0.000)
+		colorSnow      (0.561, 0.506, 0.443, 1.000)
+		BumpHeight      3.01718
+		BumpOffset      0.603436
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013766
+		Period          0.0540808
+		Eccentricity    0.0612246
+		Inclination     3.45504
+		AscendingNode   -98.1559
+		ArgOfPericenter -82.4935
+		MeanAnomaly     5.85973
+	}
+}
+
+Asteroid	"T86"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.21694e-007
+	Radius          29.8282
+	InertiaMoment   0.397773
+
+	Obliquity       -0.601011
+	EqAscendNode    94.8085
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.602 0.599 0.598)
+
+	Surface
+	{
+		SurfStyle       0.522032
+		OceanStyle      0.740201
+		Randomize      (0.798, 0.702, -0.790)
+		colorDistMagn   0.574046
+		colorDistFreq   0.429263
+		detailScale     814.508
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0141976
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.556741
+		terraceProb     0.601356
+		erosion         0
+		montesMagn      0.339129
+		montesFreq      3.40944
+		montesSpiky     0.974545
+		montesFraction  0.680311
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.68508
+		hillsFraction   0.542993
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.245348
+		craterFreq      0.218622
+		craterDensity   0.7621
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.518892
+		volcanoTemp     1290.49
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.235, 0.204, 0.167, 0.000)
+		colorShelf     (0.241, 0.210, 0.191, 0.000)
+		colorBeach     (0.283, 0.246, 0.227, 0.000)
+		colorDesert    (0.307, 0.264, 0.221, 0.000)
+		colorLowland   (0.337, 0.282, 0.251, 0.000)
+		colorUpland    (0.373, 0.341, 0.305, 0.000)
+		colorRock      (0.403, 0.371, 0.329, 0.000)
+		colorSnow      (0.440, 0.395, 0.347, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01914
+		Period          0.0514917
+		Eccentricity    0.0761626
+		Inclination     -0.601011
+		AscendingNode   94.8085
+		ArgOfPericenter 149.345
+		MeanAnomaly     -30.2198
+	}
+}
+
+Asteroid	"T87"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            7.1293e-016
+	Radius          0.0604084
+	InertiaMoment   0.399015
+
+	Obliquity       -1.67821
+	EqAscendNode    163.304
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.682 0.624 0.537)
+
+	Surface
+	{
+		SurfStyle       0.750238
+		OceanStyle      0.630202
+		Randomize      (0.731, 0.506, -0.971)
+		colorDistMagn   0.883502
+		colorDistFreq   1.14677e-006
+		detailScale     1.64955
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00850639
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.695677
+		terraceProb     0.378129
+		erosion         0
+		montesMagn      0.491189
+		montesFreq      3.0148
+		montesSpiky     0.968059
+		montesFraction  0.432564
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.15836e-005
+		hillsFraction   0.618927
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.259216
+		craterFreq      0.216374
+		craterDensity   1.04935
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.547516
+		volcanoTemp     1467.58
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.266, 0.212, 0.150, 0.000)
+		colorShelf     (0.273, 0.218, 0.172, 0.000)
+		colorBeach     (0.321, 0.256, 0.204, 0.000)
+		colorDesert    (0.348, 0.274, 0.199, 0.000)
+		colorLowland   (0.382, 0.293, 0.226, 0.000)
+		colorUpland    (0.423, 0.355, 0.274, 0.000)
+		colorRock      (0.457, 0.387, 0.296, 0.000)
+		colorSnow      (0.498, 0.412, 0.312, 1.000)
+		BumpHeight      0.0543675
+		BumpOffset      0.0108735
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012535
+		Period          0.0591038
+		Eccentricity    0.157292
+		Inclination     -1.67821
+		AscendingNode   163.304
+		ArgOfPericenter 78.082
+		MeanAnomaly     -144.591
+	}
+}
+
+Asteroid	"T88"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.04911e-012
+	Radius          0.781875
+	InertiaMoment   0.399947
+
+	Obliquity       4.67878
+	EqAscendNode    -47.7533
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.664 0.659 0.655)
+
+	Surface
+	{
+		SurfStyle       0.854464
+		OceanStyle      0.292444
+		Randomize      (0.388, 0.496, 0.419)
+		colorDistMagn   0.890656
+		colorDistFreq   0.000248443
+		detailScale     21.3504
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.148762
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.693998
+		terraceProb     0.213354
+		erosion         0
+		montesMagn      0.42118
+		montesFreq      2.84476
+		montesSpiky     0.857771
+		montesFraction  0.530281
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00160178
+		hillsFraction   0.684909
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.216075
+		craterFreq      0.233351
+		craterDensity   0.912481
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.506023
+		volcanoTemp     1784.49
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.226, 0.231, 0.262, 0.050)
+		colorShelf     (0.266, 0.270, 0.301, 0.040)
+		colorBeach     (0.305, 0.310, 0.340, 0.030)
+		colorDesert    (0.345, 0.349, 0.386, 0.020)
+		colorLowland   (0.385, 0.389, 0.426, 0.030)
+		colorUpland    (0.425, 0.429, 0.465, 0.050)
+		colorRock      (0.465, 0.468, 0.517, 0.020)
+		colorSnow      (0.465, 0.468, 0.517, 1.000)
+		BumpHeight      0.703688
+		BumpOffset      0.140738
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018167
+		Period          0.0509528
+		Eccentricity    0.0582523
+		Inclination     4.67878
+		AscendingNode   -47.7533
+		ArgOfPericenter -33.3746
+		MeanAnomaly     86.9707
+	}
+}
+
+Asteroid	"T89"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.54382e-009
+	Radius          6.95765
+	InertiaMoment   0.398075
+
+	RotationPeriod  1397.76
+	Obliquity       1.55866
+	EqAscendNode    -130.989
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.704 0.589 0.486)
+
+	Surface
+	{
+		SurfStyle       0.740531
+		OceanStyle      0.486579
+		Randomize      (0.338, -0.818, -0.246)
+		colorDistMagn   0.493023
+		colorDistFreq   0.0109318
+		detailScale     189.99
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0225628
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.449268
+		terraceProb     0.522883
+		erosion         0
+		montesMagn      0.349803
+		montesFreq      2.73399
+		montesSpiky     0.939514
+		montesFraction  0.602102
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0867839
+		hillsFraction   0.792592
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.214177
+		craterFreq      0.228365
+		craterDensity   0.955251
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.505523
+		volcanoTemp     1518.93
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.275, 0.200, 0.136, 0.000)
+		colorShelf     (0.282, 0.206, 0.155, 0.000)
+		colorBeach     (0.331, 0.241, 0.185, 0.000)
+		colorDesert    (0.359, 0.259, 0.180, 0.000)
+		colorLowland   (0.394, 0.277, 0.204, 0.000)
+		colorUpland    (0.437, 0.336, 0.248, 0.000)
+		colorRock      (0.472, 0.365, 0.267, 0.000)
+		colorSnow      (0.514, 0.389, 0.282, 1.000)
+		BumpHeight      6.26188
+		BumpOffset      1.25238
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012115
+		Period          0.0531521
+		Eccentricity    0.0955034
+		Inclination     1.55866
+		AscendingNode   -130.989
+		ArgOfPericenter -1.60145
+		MeanAnomaly     84.2073
+	}
+}
+
+Asteroid	"T90"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            9.04427e-018
+	Radius          0.0140888
+	InertiaMoment   0.399209
+
+	Obliquity       -1.95545
+	EqAscendNode    -86.4686
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.577 0.572 0.569)
+
+	Surface
+	{
+		SurfStyle       0.077332
+		OceanStyle      0.302384
+		Randomize      (0.270, 0.261, 0.352)
+		colorDistMagn   0.6871
+		colorDistFreq   7.18389e-008
+		detailScale     0.384717
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0497055
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.444356
+		terraceProb     0.469206
+		erosion         0
+		montesMagn      0.371675
+		montesFreq      2.9777
+		montesSpiky     0.942057
+		montesFraction  0.696524
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       5.0964e-007
+		hillsFraction   0.671761
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.243755
+		craterFreq      0.187772
+		craterDensity   0.752489
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.557585
+		volcanoTemp     1484.18
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.231, 0.229, 0.228, 0.000)
+		colorShelf     (0.245, 0.243, 0.242, 0.000)
+		colorBeach     (0.260, 0.257, 0.256, 0.000)
+		colorDesert    (0.274, 0.271, 0.270, 0.000)
+		colorLowland   (0.288, 0.286, 0.284, 0.000)
+		colorUpland    (0.303, 0.300, 0.299, 0.000)
+		colorRock      (0.317, 0.314, 0.313, 0.000)
+		colorSnow      (0.332, 0.329, 0.327, 1.000)
+		BumpHeight      0.0126799
+		BumpOffset      0.00253598
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018479
+		Period          0.0567619
+		Eccentricity    0.13427
+		Inclination     -1.95545
+		AscendingNode   -86.4686
+		ArgOfPericenter 174.857
+		MeanAnomaly     -108.312
+	}
+}
+
+Asteroid	"T91"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.33091e-014
+	Radius          0.16025
+	InertiaMoment   0.396068
+
+	Obliquity       0.881577
+	EqAscendNode    -20.5936
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.581 0.572 0.568)
+
+	Surface
+	{
+		SurfStyle       0.499108
+		OceanStyle      0.758682
+		Randomize      (0.082, -0.105, -0.017)
+		colorDistMagn   0.509269
+		colorDistFreq   1.18689e-005
+		detailScale     4.3759
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0302719
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.663421
+		terraceProb     0.16753
+		erosion         0
+		montesMagn      0.405417
+		montesFreq      2.50706
+		montesSpiky     0.954865
+		montesFraction  0.558573
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       7.45544e-005
+		hillsFraction   0.729308
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.230148
+		craterFreq      0.217095
+		craterDensity   1.00158
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.495492
+		volcanoTemp     1753.74
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.232, 0.229, 0.227, 0.000)
+		colorShelf     (0.247, 0.243, 0.242, 0.000)
+		colorBeach     (0.261, 0.257, 0.256, 0.000)
+		colorDesert    (0.276, 0.272, 0.270, 0.000)
+		colorLowland   (0.290, 0.286, 0.284, 0.000)
+		colorUpland    (0.305, 0.300, 0.298, 0.000)
+		colorRock      (0.319, 0.315, 0.313, 0.000)
+		colorSnow      (0.334, 0.329, 0.327, 1.000)
+		BumpHeight      0.144225
+		BumpOffset      0.028845
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016756
+		Period          0.0501741
+		Eccentricity    0.0600579
+		Inclination     0.881577
+		AscendingNode   -20.5936
+		ArgOfPericenter -24.2632
+		MeanAnomaly     27.0688
+	}
+}
+
+Asteroid	"T92"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.95851e-011
+	Radius          2.07414
+	InertiaMoment   0.398338
+
+	RotationPeriod  2026.99
+	Obliquity       0.963728
+	EqAscendNode    78.1665
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.746 0.716 0.665)
+
+	Surface
+	{
+		SurfStyle       0.381702
+		OceanStyle      0.997698
+		Randomize      (0.386, 0.025, 0.836)
+		colorDistMagn   0.128703
+		colorDistFreq   0.00279377
+		detailScale     56.6378
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0261083
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.695332
+		terraceProb     0.494608
+		erosion         0
+		montesMagn      0.549063
+		montesFreq      3.27528
+		montesSpiky     0.939013
+		montesFraction  0.492145
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0134909
+		hillsFraction   0.631863
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.204532
+		craterFreq      0.181878
+		craterDensity   0.872715
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.493546
+		volcanoTemp     1594.78
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.298, 0.286, 0.266, 0.000)
+		colorShelf     (0.317, 0.304, 0.283, 0.000)
+		colorBeach     (0.336, 0.322, 0.299, 0.000)
+		colorDesert    (0.354, 0.340, 0.316, 0.000)
+		colorLowland   (0.373, 0.358, 0.333, 0.000)
+		colorUpland    (0.392, 0.376, 0.349, 0.000)
+		colorRock      (0.410, 0.394, 0.366, 0.000)
+		colorSnow      (0.429, 0.412, 0.382, 1.000)
+		BumpHeight      1.86672
+		BumpOffset      0.373345
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.0103
+		Period          0.0578096
+		Eccentricity    0.144762
+		Inclination     0.963728
+		AscendingNode   78.1665
+		ArgOfPericenter -127.5
+		MeanAnomaly     65.8779
+	}
+}
+
+Asteroid	"T93"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.88205e-008
+	Radius          18.4559
+	InertiaMoment   0.399396
+
+	Obliquity       1.9783
+	EqAscendNode    69.5191
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.711 0.709 0.706)
+
+	Surface
+	{
+		SurfStyle       0.283515
+		OceanStyle      0.776271
+		Randomize      (0.180, -0.349, -0.479)
+		colorDistMagn   0.694774
+		colorDistFreq   0.22664
+		detailScale     503.969
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0566988
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.488501
+		terraceProb     0.135319
+		erosion         0
+		montesMagn      0.547759
+		montesFreq      2.72729
+		montesSpiky     0.978094
+		montesFraction  0.873935
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.854756
+		hillsFraction   0.563697
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.232894
+		craterFreq      0.231839
+		craterDensity   0.857703
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.545029
+		volcanoTemp     1496.26
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.284, 0.284, 0.283, 0.000)
+		colorShelf     (0.302, 0.301, 0.300, 0.000)
+		colorBeach     (0.320, 0.319, 0.318, 0.000)
+		colorDesert    (0.338, 0.337, 0.335, 0.000)
+		colorLowland   (0.355, 0.355, 0.353, 0.000)
+		colorUpland    (0.373, 0.372, 0.371, 0.000)
+		colorRock      (0.391, 0.390, 0.388, 0.000)
+		colorSnow      (0.409, 0.408, 0.406, 1.000)
+		BumpHeight      16.6103
+		BumpOffset      3.32206
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010941
+		Period          0.052495
+		Eccentricity    0.0879712
+		Inclination     1.9783
+		AscendingNode   69.5191
+		ArgOfPericenter 120.06
+		MeanAnomaly     120.924
+	}
+}
+
+Asteroid	"T94"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.68841e-016
+	Radius          0.0373744
+	InertiaMoment   0.396887
+
+	Obliquity       3.48983
+	EqAscendNode    69.9869
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.680 0.614 0.583)
+
+	Surface
+	{
+		SurfStyle       0.886016
+		OceanStyle      0.78294
+		Randomize      (-0.707, 0.562, -0.018)
+		colorDistMagn   0.803137
+		colorDistFreq   3.99285e-007
+		detailScale     1.02057
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0996097
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.722061
+		terraceProb     0.323627
+		erosion         0
+		montesMagn      0.477371
+		montesFreq      3.66694
+		montesSpiky     0.94732
+		montesFraction  0.151889
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.32302e-006
+		hillsFraction   0.718805
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.221278
+		craterFreq      0.238769
+		craterDensity   0.936361
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.52457
+		volcanoTemp     1240.25
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.231, 0.215, 0.233, 0.050)
+		colorShelf     (0.272, 0.252, 0.268, 0.040)
+		colorBeach     (0.313, 0.289, 0.303, 0.030)
+		colorDesert    (0.354, 0.325, 0.344, 0.020)
+		colorLowland   (0.394, 0.362, 0.379, 0.030)
+		colorUpland    (0.435, 0.399, 0.414, 0.050)
+		colorRock      (0.476, 0.436, 0.460, 0.020)
+		colorSnow      (0.476, 0.436, 0.460, 1.000)
+		BumpHeight      0.033637
+		BumpOffset      0.00672739
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011156
+		Period          0.0583041
+		Eccentricity    0.149604
+		Inclination     3.48983
+		AscendingNode   69.9869
+		ArgOfPericenter -82.8851
+		MeanAnomaly     100.036
+	}
+}
+
+Asteroid	"T95"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.48459e-013
+	Radius          0.483744
+	InertiaMoment   0.398576
+
+	Obliquity       -1.131
+	EqAscendNode    179.84
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.678 0.674 0.669)
+
+	Surface
+	{
+		SurfStyle       0.828714
+		OceanStyle      0.784883
+		Randomize      (-0.362, 0.859, -0.220)
+		colorDistMagn   0.816819
+		colorDistFreq   2.78409e-005
+		detailScale     13.2094
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.418945
+		terraceProb     0.551322
+		erosion         0
+		montesMagn      0.519947
+		montesFreq      3.44505
+		montesSpiky     0.901573
+		montesFraction  0.43528
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000592371
+		hillsFraction   0.556181
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.225917
+		craterFreq      0.224839
+		craterDensity   0.998074
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.537933
+		volcanoTemp     1345.19
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.264, 0.229, 0.187, 0.000)
+		colorShelf     (0.271, 0.236, 0.214, 0.000)
+		colorBeach     (0.319, 0.276, 0.254, 0.000)
+		colorDesert    (0.346, 0.297, 0.247, 0.000)
+		colorLowland   (0.380, 0.317, 0.281, 0.000)
+		colorUpland    (0.420, 0.384, 0.341, 0.000)
+		colorRock      (0.454, 0.418, 0.368, 0.000)
+		colorSnow      (0.495, 0.445, 0.388, 1.000)
+		BumpHeight      0.435369
+		BumpOffset      0.0870738
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015736
+		Period          0.0496137
+		Eccentricity    0.0529943
+		Inclination     -1.131
+		AscendingNode   179.84
+		ArgOfPericenter 88.9796
+		MeanAnomaly     49.8966
+	}
+}
+
+Asteroid	"T96"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.65621e-010
+	Radius          4.30473
+	InertiaMoment   0.399579
+
+	RotationPeriod  879.845
+	Obliquity       3.15599
+	EqAscendNode    3.06707
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.594 0.586 0.582)
+
+	Surface
+	{
+		SurfStyle       0.757404
+		OceanStyle      0.569482
+		Randomize      (0.882, -0.713, -0.308)
+		colorDistMagn   0.271902
+		colorDistFreq   0.0092923
+		detailScale     117.548
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.109903
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.409956
+		terraceProb     0.161663
+		erosion         0
+		montesMagn      0.568913
+		montesFreq      2.65664
+		montesSpiky     0.937443
+		montesFraction  0.437592
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0414064
+		hillsFraction   0.693091
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.248788
+		craterFreq      0.232502
+		craterDensity   0.815855
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.417561
+		volcanoTemp     1669.05
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.232, 0.199, 0.163, 0.000)
+		colorShelf     (0.238, 0.205, 0.186, 0.000)
+		colorBeach     (0.279, 0.240, 0.221, 0.000)
+		colorDesert    (0.303, 0.258, 0.215, 0.000)
+		colorLowland   (0.333, 0.276, 0.244, 0.000)
+		colorUpland    (0.368, 0.334, 0.297, 0.000)
+		colorRock      (0.398, 0.364, 0.320, 0.000)
+		colorSnow      (0.434, 0.387, 0.338, 1.000)
+		BumpHeight      3.87426
+		BumpOffset      0.774851
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016778
+		Period          0.0501863
+		Eccentricity    0.0602103
+		Inclination     3.15599
+		AscendingNode   3.06707
+		ArgOfPericenter 48.3506
+		MeanAnomaly     -53.7064
+	}
+}
+
+Asteroid	"T97"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.38029e-007
+	Radius          54.9819
+	InertiaMoment   0.397378
+
+	RotationPeriod  1467.2
+	Obliquity       2.29016
+	EqAscendNode    38.917
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.646 0.643 0.642)
+
+	Surface
+	{
+		SurfStyle       0.860445
+		OceanStyle      0.126357
+		Randomize      (0.973, 0.308, 0.046)
+		colorDistMagn   0.452934
+		colorDistFreq   1.97207
+		detailScale     1501.37
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0753018
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.746246
+		terraceProb     0.281054
+		erosion         0
+		montesMagn      0.297247
+		montesFreq      3.26103
+		montesSpiky     0.920354
+		montesFraction  0.504125
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       7.34366
+		hillsFraction   0.697936
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.241423
+		craterFreq      0.229934
+		craterDensity   0.935704
+		craterOctaves   14
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.476589
+		volcanoTemp     1338.81
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.219, 0.225, 0.257, 0.050)
+		colorShelf     (0.258, 0.264, 0.295, 0.040)
+		colorBeach     (0.297, 0.302, 0.334, 0.030)
+		colorDesert    (0.336, 0.341, 0.379, 0.020)
+		colorLowland   (0.374, 0.379, 0.417, 0.030)
+		colorUpland    (0.413, 0.418, 0.456, 0.050)
+		colorRock      (0.452, 0.457, 0.507, 0.020)
+		colorSnow      (0.452, 0.457, 0.507, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016784
+		Period          0.0557926
+		Eccentricity    0.124272
+		Inclination     2.29016
+		AscendingNode   38.917
+		ArgOfPericenter -63.8464
+		MeanAnomaly     134.039
+	}
+}
+
+Asteroid	"T98"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.15198e-015
+	Radius          0.112822
+	InertiaMoment   0.398794
+
+	RotationPeriod  1861.32
+	Obliquity       -4.68498
+	EqAscendNode    88.6055
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.823 0.741 0.676)
+
+	Surface
+	{
+		SurfStyle       0.294127
+		OceanStyle      0.779926
+		Randomize      (-0.228, 0.965, 0.792)
+		colorDistMagn   0.905102
+		colorDistFreq   6.17711e-006
+		detailScale     3.08078
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.116707
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.363487
+		terraceProb     0.14657
+		erosion         0
+		montesMagn      0.224855
+		montesFreq      3.29552
+		montesSpiky     0.941526
+		montesFraction  0.565634
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       4.5725e-005
+		hillsFraction   0.73804
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.218283
+		craterFreq      0.241941
+		craterDensity   0.773156
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.457314
+		volcanoTemp     1497.43
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.329, 0.297, 0.270, 0.000)
+		colorShelf     (0.350, 0.315, 0.287, 0.000)
+		colorBeach     (0.371, 0.334, 0.304, 0.000)
+		colorDesert    (0.391, 0.352, 0.321, 0.000)
+		colorLowland   (0.412, 0.371, 0.338, 0.000)
+		colorUpland    (0.432, 0.389, 0.355, 0.000)
+		colorRock      (0.453, 0.408, 0.372, 0.000)
+		colorSnow      (0.474, 0.426, 0.389, 1.000)
+		BumpHeight      0.10154
+		BumpOffset      0.0203079
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011995
+		Period          0.0530846
+		Eccentricity    0.0947374
+		Inclination     -4.68498
+		AscendingNode   88.6055
+		ArgOfPericenter 161.703
+		MeanAnomaly     47.3586
+	}
+}
+
+Asteroid	"T99"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.63829e-012
+	Radius          1.00398
+	InertiaMoment   0.399757
+
+	RotationPeriod  2562.72
+	Obliquity       1.67368
+	EqAscendNode    -153.502
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.720 0.718 0.714)
+
+	Surface
+	{
+		SurfStyle       0.865562
+		OceanStyle      0.845953
+		Randomize      (-0.050, -0.239, -0.836)
+		colorDistMagn   0.312995
+		colorDistFreq   0.00040509
+		detailScale     27.4155
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0133852
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.502431
+		terraceProb     0.267273
+		erosion         0
+		montesMagn      0.53921
+		montesFreq      3.34386
+		montesSpiky     0.989052
+		montesFraction  0.632367
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00259209
+		hillsFraction   0.719269
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.234827
+		craterFreq      0.241587
+		craterDensity   0.946089
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.5155
+		volcanoTemp     1702.68
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.245, 0.251, 0.286, 0.050)
+		colorShelf     (0.288, 0.294, 0.328, 0.040)
+		colorBeach     (0.331, 0.337, 0.371, 0.030)
+		colorDesert    (0.375, 0.381, 0.421, 0.020)
+		colorLowland   (0.418, 0.424, 0.464, 0.030)
+		colorUpland    (0.461, 0.467, 0.507, 0.050)
+		colorRock      (0.504, 0.510, 0.564, 0.020)
+		colorSnow      (0.504, 0.510, 0.564, 1.000)
+		BumpHeight      0.903586
+		BumpOffset      0.180717
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011444
+		Period          0.0584708
+		Eccentricity    0.151222
+		Inclination     1.67368
+		AscendingNode   -153.502
+		ArgOfPericenter 81.2806
+		MeanAnomaly     -57.0792
+	}
+}
+
+Asteroid	"T100"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.8255e-009
+	Radius          12.8264
+	InertiaMoment   0.397748
+
+	Obliquity       -4.31292
+	EqAscendNode    -75.0541
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.752 0.748 0.745)
+
+	Surface
+	{
+		SurfStyle       0.0854916
+		OceanStyle      0.226787
+		Randomize      (0.368, -0.222, -0.880)
+		colorDistMagn   0.149714
+		colorDistFreq   0.0775375
+		detailScale     350.245
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.11907
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.520357
+		terraceProb     0.273881
+		erosion         0
+		montesMagn      0.603524
+		montesFreq      2.72571
+		montesSpiky     0.973791
+		montesFraction  0.323435
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.376373
+		hillsFraction   0.90726
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.246996
+		craterFreq      0.231501
+		craterDensity   0.795855
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.520232
+		volcanoTemp     1794.85
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.301, 0.299, 0.298, 0.000)
+		colorShelf     (0.320, 0.318, 0.317, 0.000)
+		colorBeach     (0.338, 0.337, 0.335, 0.000)
+		colorDesert    (0.357, 0.355, 0.354, 0.000)
+		colorLowland   (0.376, 0.374, 0.373, 0.000)
+		colorUpland    (0.395, 0.393, 0.391, 0.000)
+		colorRock      (0.414, 0.411, 0.410, 0.000)
+		colorSnow      (0.432, 0.430, 0.429, 1.000)
+		BumpHeight      11.5437
+		BumpOffset      2.30874
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011392
+		Period          0.0527467
+		Eccentricity    0.0908746
+		Inclination     -4.31292
+		AscendingNode   -75.0541
+		ArgOfPericenter 169.174
+		MeanAnomaly     -51.4899
+	}
+}
+
+Asteroid	"T101"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.49881e-015
+	Radius          0.119354
+	InertiaMoment   0.398177
+
+	RotationPeriod  1393.4
+	Obliquity       -1.188
+	EqAscendNode    25.1562
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.620 0.509 0.394)
+
+	Surface
+	{
+		SurfStyle       0.713697
+		OceanStyle      0.390246
+		Randomize      (-0.011, 0.248, 0.345)
+		colorDistMagn   0.162687
+		colorDistFreq   6.07967e-006
+		detailScale     3.25917
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0404631
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.707586
+		terraceProb     0.412859
+		erosion         0
+		montesMagn      0.381973
+		montesFreq      2.64359
+		montesSpiky     0.913381
+		montesFraction  0.692727
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.24423e-005
+		hillsFraction   0.321638
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.240418
+		craterFreq      0.221184
+		craterDensity   1.02204
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.369027
+		volcanoTemp     1567.18
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.242, 0.173, 0.110, 0.000)
+		colorShelf     (0.248, 0.178, 0.126, 0.000)
+		colorBeach     (0.291, 0.209, 0.150, 0.000)
+		colorDesert    (0.316, 0.224, 0.146, 0.000)
+		colorLowland   (0.347, 0.239, 0.166, 0.000)
+		colorUpland    (0.384, 0.290, 0.201, 0.000)
+		colorRock      (0.415, 0.315, 0.217, 0.000)
+		colorSnow      (0.453, 0.336, 0.229, 1.000)
+		BumpHeight      0.107419
+		BumpOffset      0.0214838
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013514
+		Period          0.119219
+		Eccentricity    0.0601614
+		Inclination     -1.188
+		AscendingNode   25.1562
+		ArgOfPericenter -17.0148
+		MeanAnomaly     -173.549
+	}
+}
+
+Asteroid	"T102"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            8.0918e-012
+	Radius          1.54482
+	InertiaMoment   0.39928
+
+	RotationPeriod  1686.62
+	Obliquity       1.82203
+	EqAscendNode    61.7808
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.789 0.760 0.740)
+
+	Surface
+	{
+		SurfStyle       0.167322
+		OceanStyle      0.988145
+		Randomize      (-0.384, 0.118, -0.190)
+		colorDistMagn   0.978207
+		colorDistFreq   0.0011634
+		detailScale     42.1839
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0545493
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.766104
+		terraceProb     0.291236
+		erosion         0
+		montesMagn      0.553955
+		montesFreq      3.1052
+		montesSpiky     0.899326
+		montesFraction  0.749265
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00633447
+		hillsFraction   0.631743
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.256727
+		craterFreq      0.221166
+		craterDensity   0.86288
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.524415
+		volcanoTemp     1341.84
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.315, 0.304, 0.296, 0.000)
+		colorShelf     (0.335, 0.323, 0.314, 0.000)
+		colorBeach     (0.355, 0.342, 0.333, 0.000)
+		colorDesert    (0.375, 0.361, 0.351, 0.000)
+		colorLowland   (0.394, 0.380, 0.370, 0.000)
+		colorUpland    (0.414, 0.399, 0.388, 0.000)
+		colorRock      (0.434, 0.418, 0.407, 0.000)
+		colorSnow      (0.453, 0.437, 0.425, 1.000)
+		BumpHeight      1.39034
+		BumpOffset      0.278068
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018347
+		Period          0.115445
+		Eccentricity    0.0872377
+		Inclination     1.82203
+		AscendingNode   61.7808
+		ArgOfPericenter -163.171
+		MeanAnomaly     -165.73
+	}
+}
+
+Asteroid	"T103"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.19075e-008
+	Radius          13.7464
+	InertiaMoment   0.396445
+
+	Obliquity       -1.19087
+	EqAscendNode    28.8377
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.652 0.650 0.646)
+
+	Surface
+	{
+		SurfStyle       0.178729
+		OceanStyle      0.4633
+		Randomize      (0.580, 0.558, -0.324)
+		colorDistMagn   0.491661
+		colorDistFreq   0.0540474
+		detailScale     375.367
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0402491
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.574634
+		terraceProb     0.121897
+		erosion         0
+		montesMagn      0.450981
+		montesFreq      3.0609
+		montesSpiky     0.918951
+		montesFraction  0.87871
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.457434
+		hillsFraction   0.644467
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.2212
+		craterFreq      0.141718
+		craterDensity   0.941465
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.513326
+		volcanoTemp     1557.97
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.261, 0.260, 0.258, 0.000)
+		colorShelf     (0.277, 0.276, 0.275, 0.000)
+		colorBeach     (0.294, 0.292, 0.291, 0.000)
+		colorDesert    (0.310, 0.309, 0.307, 0.000)
+		colorLowland   (0.326, 0.325, 0.323, 0.000)
+		colorUpland    (0.342, 0.341, 0.339, 0.000)
+		colorRock      (0.359, 0.357, 0.355, 0.000)
+		colorSnow      (0.375, 0.374, 0.371, 1.000)
+		BumpHeight      12.3717
+		BumpOffset      2.47434
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012442
+		Period          0.148921
+		Eccentricity    0.0670385
+		Inclination     -1.19087
+		AscendingNode   28.8377
+		ArgOfPericenter -25.6733
+		MeanAnomaly     12.6498
+	}
+}
+
+Asteroid	"T104"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.97586e-017
+	Radius          0.0278365
+	InertiaMoment   0.398429
+
+	Obliquity       0.27064
+	EqAscendNode    136.276
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.524 0.519 0.515)
+
+	Surface
+	{
+		SurfStyle       0.400658
+		OceanStyle      0.92735
+		Randomize      (0.509, -0.292, 0.958)
+		colorDistMagn   0.320674
+		colorDistFreq   2.75439e-007
+		detailScale     0.760121
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00352104
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.487955
+		terraceProb     0.560495
+		erosion         0
+		montesMagn      0.416602
+		montesFreq      2.87959
+		montesSpiky     0.95653
+		montesFraction  0.519733
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.04983e-006
+		hillsFraction   0.680785
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.20166
+		craterFreq      0.163183
+		craterDensity   1.05905
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.601637
+		volcanoTemp     1610.26
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.210, 0.207, 0.206, 0.000)
+		colorShelf     (0.223, 0.220, 0.219, 0.000)
+		colorBeach     (0.236, 0.233, 0.232, 0.000)
+		colorDesert    (0.249, 0.246, 0.245, 0.000)
+		colorLowland   (0.262, 0.259, 0.258, 0.000)
+		colorUpland    (0.275, 0.272, 0.271, 0.000)
+		colorRock      (0.288, 0.285, 0.283, 0.000)
+		colorSnow      (0.302, 0.298, 0.296, 1.000)
+		BumpHeight      0.0250528
+		BumpOffset      0.00501056
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01494
+		Period          0.143026
+		Eccentricity    0.096157
+		Inclination     0.27064
+		AscendingNode   136.276
+		ArgOfPericenter -46.2222
+		MeanAnomaly     -79.9952
+	}
+}
+
+Asteroid	"T105"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.02654e-013
+	Radius          0.360292
+	InertiaMoment   0.399465
+
+	Obliquity       0.187837
+	EqAscendNode    121.167
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.611 0.607 0.603)
+
+	Surface
+	{
+		SurfStyle       0.714161
+		OceanStyle      0.582256
+		Randomize      (0.548, -0.517, -0.637)
+		colorDistMagn   0.658532
+		colorDistFreq   0.00011111
+		detailScale     9.83838
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00322043
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.692909
+		terraceProb     0.126731
+		erosion         0
+		montesMagn      0.421872
+		montesFreq      3.02181
+		montesSpiky     0.927881
+		montesFraction  0.558759
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000335131
+		hillsFraction   0.677363
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.236949
+		craterFreq      0.20126
+		craterDensity   0.95713
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.45698
+		volcanoTemp     1848.29
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.238, 0.206, 0.169, 0.000)
+		colorShelf     (0.244, 0.212, 0.193, 0.000)
+		colorBeach     (0.287, 0.249, 0.229, 0.000)
+		colorDesert    (0.311, 0.267, 0.223, 0.000)
+		colorLowland   (0.342, 0.285, 0.253, 0.000)
+		colorUpland    (0.379, 0.346, 0.307, 0.000)
+		colorRock      (0.409, 0.376, 0.331, 0.000)
+		colorSnow      (0.446, 0.400, 0.350, 1.000)
+		BumpHeight      0.324263
+		BumpOffset      0.0648526
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011633
+		Period          0.0767984
+		Eccentricity    0.0897964
+		Inclination     0.187837
+		AscendingNode   121.167
+		ArgOfPericenter -65.0192
+		MeanAnomaly     66.0278
+	}
+}
+
+Asteroid	"T106"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.5106e-010
+	Radius          3.20618
+	InertiaMoment   0.39709
+
+	Obliquity       0.69556
+	EqAscendNode    27.5357
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.574 0.570 0.568)
+
+	Surface
+	{
+		SurfStyle       0.93121
+		OceanStyle      0.192366
+		Randomize      (-0.505, 0.899, 0.046)
+		colorDistMagn   0.477737
+		colorDistFreq   0.0035073
+		detailScale     87.5501
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0235804
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.553183
+		terraceProb     0.291472
+		erosion         0
+		montesMagn      0.475584
+		montesFreq      3.13568
+		montesSpiky     0.964187
+		montesFraction  0.908876
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0215816
+		hillsFraction   0.618722
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.282169
+		craterFreq      0.22562
+		craterDensity   0.878907
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.492886
+		volcanoTemp     1579.07
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.195, 0.199, 0.227, 0.050)
+		colorShelf     (0.230, 0.234, 0.261, 0.040)
+		colorBeach     (0.264, 0.268, 0.295, 0.030)
+		colorDesert    (0.299, 0.302, 0.335, 0.020)
+		colorLowland   (0.333, 0.336, 0.369, 0.030)
+		colorUpland    (0.368, 0.370, 0.403, 0.050)
+		colorRock      (0.402, 0.405, 0.448, 0.020)
+		colorSnow      (0.402, 0.405, 0.448, 1.000)
+		BumpHeight      2.88556
+		BumpOffset      0.577112
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012259
+		Period          0.156751
+		Eccentricity    0.0275974
+		Inclination     0.69556
+		AscendingNode   27.5357
+		ArgOfPericenter -163.278
+		MeanAnomaly     -86.8148
+	}
+}
+
+Asteroid	"T107"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.22293e-007
+	Radius          40.9542
+	InertiaMoment   0.398659
+
+	RotationPeriod  668.951
+	Obliquity       -1.1684
+	EqAscendNode    -11.2371
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.409 0.405 0.399)
+
+	Surface
+	{
+		SurfStyle       0.556289
+		OceanStyle      0.729921
+		Randomize      (-0.909, -0.888, 0.311)
+		colorDistMagn   0.208427
+		colorDistFreq   0.547714
+		detailScale     1118.32
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0405778
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.54454
+		terraceProb     0.260397
+		erosion         0
+		montesMagn      0.589093
+		montesFreq      3.23151
+		montesSpiky     0.753199
+		montesFraction  0.786777
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.47562
+		hillsFraction   0.584555
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.228866
+		craterFreq      0.159284
+		craterDensity   0.937593
+		craterOctaves   14
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.413398
+		volcanoTemp     1565.33
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.159, 0.138, 0.112, 0.000)
+		colorShelf     (0.163, 0.142, 0.128, 0.000)
+		colorBeach     (0.192, 0.166, 0.152, 0.000)
+		colorDesert    (0.208, 0.178, 0.148, 0.000)
+		colorLowland   (0.229, 0.190, 0.168, 0.000)
+		colorUpland    (0.253, 0.231, 0.203, 0.000)
+		colorRock      (0.274, 0.251, 0.219, 0.000)
+		colorSnow      (0.298, 0.267, 0.231, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019303
+		Period          0.0572353
+		Eccentricity    0.102373
+		Inclination     -1.1684
+		AscendingNode   -11.2371
+		ArgOfPericenter -148.163
+		MeanAnomaly     -107.722
+	}
+}
+
+Asteroid	"T108"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.30227e-015
+	Radius          0.0840296
+	InertiaMoment   0.399645
+
+	RotationPeriod  972.826
+	Obliquity       -0.357236
+	EqAscendNode    6.51837
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.703 0.701 0.699)
+
+	Surface
+	{
+		SurfStyle       0.849828
+		OceanStyle      0.945346
+		Randomize      (0.241, -0.129, 0.001)
+		colorDistMagn   0.805637
+		colorDistFreq   4.20009e-006
+		detailScale     2.29457
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0124485
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.646496
+		terraceProb     0.20695
+		erosion         0
+		montesMagn      0.477859
+		montesFreq      2.61712
+		montesSpiky     0.938908
+		montesFraction  0.256752
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.73867e-005
+		hillsFraction   0.353046
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.202454
+		craterFreq      0.214605
+		craterDensity   1.02571
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.577075
+		volcanoTemp     1455.96
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.274, 0.238, 0.196, 0.000)
+		colorShelf     (0.281, 0.245, 0.224, 0.000)
+		colorBeach     (0.330, 0.287, 0.266, 0.000)
+		colorDesert    (0.359, 0.309, 0.259, 0.000)
+		colorLowland   (0.394, 0.330, 0.294, 0.000)
+		colorUpland    (0.436, 0.400, 0.356, 0.000)
+		colorRock      (0.471, 0.435, 0.384, 0.000)
+		colorSnow      (0.513, 0.463, 0.405, 1.000)
+		BumpHeight      0.0756266
+		BumpOffset      0.0151253
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015154
+		Period          0.0665879
+		Eccentricity    0.127404
+		Inclination     -0.357236
+		AscendingNode   6.51837
+		ArgOfPericenter 79.412
+		MeanAnomaly     167.48
+	}
+}
+
+Asteroid	"T109"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.91637e-012
+	Radius          0.747771
+	InertiaMoment   0.397525
+
+	RotationPeriod  1716.76
+	Obliquity       -0.604012
+	EqAscendNode    124.435
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.648 0.646 0.643)
+
+	Surface
+	{
+		SurfStyle       0.425266
+		OceanStyle      0.553699
+		Randomize      (-0.284, 0.003, -0.045)
+		colorDistMagn   0.78945
+		colorDistFreq   0.000367466
+		detailScale     20.4191
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00982635
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.479526
+		terraceProb     0.417978
+		erosion         0
+		montesMagn      0.480744
+		montesFreq      2.43701
+		montesSpiky     0.952333
+		montesFraction  0.63839
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00144336
+		hillsFraction   0.866798
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.244836
+		craterFreq      0.244496
+		craterDensity   0.814645
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.566025
+		volcanoTemp     1815.96
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.259, 0.259, 0.257, 0.000)
+		colorShelf     (0.276, 0.275, 0.273, 0.000)
+		colorBeach     (0.292, 0.291, 0.290, 0.000)
+		colorDesert    (0.308, 0.307, 0.306, 0.000)
+		colorLowland   (0.324, 0.323, 0.322, 0.000)
+		colorUpland    (0.340, 0.339, 0.338, 0.000)
+		colorRock      (0.357, 0.355, 0.354, 0.000)
+		colorSnow      (0.373, 0.372, 0.370, 1.000)
+		BumpHeight      0.672994
+		BumpOffset      0.134599
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013575
+		Period          0.0979235
+		Eccentricity    0.132894
+		Inclination     -0.604012
+		AscendingNode   124.435
+		ArgOfPericenter 110.223
+		MeanAnomaly     37.4234
+	}
+}
+
+Asteroid	"T110"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.82003e-009
+	Radius          9.55323
+	InertiaMoment   0.398872
+
+	Obliquity       0.721111
+	EqAscendNode    -122.359
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.734 0.733 0.731)
+
+	Surface
+	{
+		SurfStyle       0.882211
+		OceanStyle      0.277159
+		Randomize      (-0.166, -0.376, 0.717)
+		colorDistMagn   0.715855
+		colorDistFreq   0.033776
+		detailScale     260.867
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0121333
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.563354
+		terraceProb     0.307934
+		erosion         0
+		montesMagn      0.526486
+		montesFreq      1.8295
+		montesSpiky     0.941369
+		montesFraction  0.584257
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.189451
+		hillsFraction   0.706605
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.220545
+		craterFreq      0.201044
+		craterDensity   0.925391
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.469195
+		volcanoTemp     1775.68
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.250, 0.257, 0.292, 0.050)
+		colorShelf     (0.294, 0.301, 0.336, 0.040)
+		colorBeach     (0.338, 0.345, 0.380, 0.030)
+		colorDesert    (0.382, 0.389, 0.431, 0.020)
+		colorLowland   (0.426, 0.433, 0.475, 0.030)
+		colorUpland    (0.470, 0.476, 0.519, 0.050)
+		colorRock      (0.514, 0.520, 0.577, 0.020)
+		colorSnow      (0.514, 0.520, 0.577, 1.000)
+		BumpHeight      8.59791
+		BumpOffset      1.71958
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01969
+		Period          0.0952638
+		Eccentricity    0.0538774
+		Inclination     0.721111
+		AscendingNode   -122.359
+		ArgOfPericenter 172.111
+		MeanAnomaly     -45.7589
+	}
+}
+
+Asteroid	"T111"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.65207e-017
+	Radius          0.0195978
+	InertiaMoment   0.399823
+
+	Obliquity       4.3586
+	EqAscendNode    17.4819
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.558 0.555 0.551)
+
+	Surface
+	{
+		SurfStyle       0.329595
+		OceanStyle      0.119778
+		Randomize      (-0.877, 0.633, 0.039)
+		colorDistMagn   0.745597
+		colorDistFreq   2.19868e-007
+		detailScale     0.535151
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.149808
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.386908
+		terraceProb     0.253457
+		erosion         0
+		montesMagn      0.305726
+		montesFreq      3.19772
+		montesSpiky     0.82661
+		montesFraction  0.520682
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       8.33528e-007
+		hillsFraction   0.671007
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.25983
+		craterFreq      0.216185
+		craterDensity   0.974047
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.467931
+		volcanoTemp     1688.24
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.223, 0.222, 0.221, 0.000)
+		colorShelf     (0.237, 0.236, 0.234, 0.000)
+		colorBeach     (0.251, 0.250, 0.248, 0.000)
+		colorDesert    (0.265, 0.264, 0.262, 0.000)
+		colorLowland   (0.279, 0.278, 0.276, 0.000)
+		colorUpland    (0.293, 0.292, 0.289, 0.000)
+		colorRock      (0.307, 0.305, 0.303, 0.000)
+		colorSnow      (0.321, 0.319, 0.317, 1.000)
+		BumpHeight      0.017638
+		BumpOffset      0.0035276
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019498
+		Period          0.0631966
+		Eccentricity    0.0391524
+		Inclination     4.3586
+		AscendingNode   17.4819
+		ArgOfPericenter 29.5437
+		MeanAnomaly     108.86
+	}
+}
+
+Asteroid	"T112"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.43111e-014
+	Radius          0.174399
+	InertiaMoment   0.397867
+
+	Obliquity       3.78807
+	EqAscendNode    26.9825
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.614 0.611 0.607)
+
+	Surface
+	{
+		SurfStyle       0.40194
+		OceanStyle      0.817253
+		Randomize      (-0.438, 0.676, -0.600)
+		colorDistMagn   0.373253
+		colorDistFreq   1.99207e-005
+		detailScale     4.76226
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.128221
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.581485
+		terraceProb     0.378601
+		erosion         0
+		montesMagn      0.483744
+		montesFreq      2.704
+		montesSpiky     0.923412
+		montesFraction  0.431998
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       5.13851e-005
+		hillsFraction   0.655381
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.248311
+		craterFreq      0.235582
+		craterDensity   0.892484
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.488336
+		volcanoTemp     1640.65
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.246, 0.244, 0.243, 0.000)
+		colorShelf     (0.261, 0.259, 0.258, 0.000)
+		colorBeach     (0.276, 0.275, 0.273, 0.000)
+		colorDesert    (0.292, 0.290, 0.289, 0.000)
+		colorLowland   (0.307, 0.305, 0.304, 0.000)
+		colorUpland    (0.322, 0.321, 0.319, 0.000)
+		colorRock      (0.338, 0.336, 0.334, 0.000)
+		colorSnow      (0.353, 0.351, 0.349, 1.000)
+		BumpHeight      0.156959
+		BumpOffset      0.0313918
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015996
+		Period          0.121047
+		Eccentricity    0.119479
+		Inclination     3.78807
+		AscendingNode   26.9825
+		ArgOfPericenter -20.0933
+		MeanAnomaly     66.3354
+	}
+}
+
+Asteroid	"T113"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.57752e-011
+	Radius          2.22813
+	InertiaMoment   0.399073
+
+	Obliquity       -3.57017
+	EqAscendNode    3.15565
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.662 0.659 0.656)
+
+	Surface
+	{
+		SurfStyle       0.316421
+		OceanStyle      0.111351
+		Randomize      (0.493, 0.055, -0.275)
+		colorDistMagn   0.330444
+		colorDistFreq   0.00098329
+		detailScale     60.8427
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.124253
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.448238
+		terraceProb     0.243215
+		erosion         0
+		montesMagn      0.5013
+		montesFreq      2.82637
+		montesSpiky     0.897387
+		montesFraction  0.408583
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0143778
+		hillsFraction   0.888744
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.235961
+		craterFreq      0.203787
+		craterDensity   0.931673
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.453908
+		volcanoTemp     1645.53
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.265, 0.264, 0.262, 0.000)
+		colorShelf     (0.281, 0.280, 0.279, 0.000)
+		colorBeach     (0.298, 0.297, 0.295, 0.000)
+		colorDesert    (0.314, 0.313, 0.311, 0.000)
+		colorLowland   (0.331, 0.330, 0.328, 0.000)
+		colorUpland    (0.347, 0.346, 0.344, 0.000)
+		colorRock      (0.364, 0.362, 0.361, 0.000)
+		colorSnow      (0.380, 0.379, 0.377, 1.000)
+		BumpHeight      2.00531
+		BumpOffset      0.401063
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016659
+		Period          0.14437
+		Eccentricity    0.0893452
+		Inclination     -3.57017
+		AscendingNode   3.15565
+		ArgOfPericenter 76.3943
+		MeanAnomaly     -65.4035
+	}
+}
+
+Asteroid	"T114"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.26451e-008
+	Radius          28.8358
+	InertiaMoment   0.399999
+
+	RotationPeriod  1468.82
+	Obliquity       0.796253
+	EqAscendNode    3.78528
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.457 0.451 0.448)
+
+	Surface
+	{
+		SurfStyle       0.0970345
+		OceanStyle      0.518939
+		Randomize      (0.107, -0.051, -0.664)
+		colorDistMagn   0.32991
+		colorDistFreq   0.5789
+		detailScale     787.409
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0277758
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.596779
+		terraceProb     0.138342
+		erosion         0
+		montesMagn      0.603642
+		montesFreq      2.40701
+		montesSpiky     0.960121
+		montesFraction  0.477157
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.14363
+		hillsFraction   0.608439
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.261201
+		craterFreq      0.205998
+		craterDensity   0.879249
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.49462
+		volcanoTemp     1307.8
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.183, 0.180, 0.179, 0.000)
+		colorShelf     (0.194, 0.191, 0.190, 0.000)
+		colorBeach     (0.206, 0.203, 0.202, 0.000)
+		colorDesert    (0.217, 0.214, 0.213, 0.000)
+		colorLowland   (0.228, 0.225, 0.224, 0.000)
+		colorUpland    (0.240, 0.237, 0.235, 0.000)
+		colorRock      (0.251, 0.248, 0.246, 0.000)
+		colorSnow      (0.263, 0.259, 0.258, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01736
+		Period          0.100538
+		Eccentricity    0.073559
+		Inclination     0.796253
+		AscendingNode   3.78528
+		ArgOfPericenter 97.7377
+		MeanAnomaly     -10.5557
+	}
+}
+
+Asteroid	"T115"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.08414e-016
+	Radius          0.0406744
+	InertiaMoment   0.398156
+
+	Obliquity       3.61094
+	EqAscendNode    -127.481
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.832 0.793 0.734)
+
+	Surface
+	{
+		SurfStyle       0.0110336
+		OceanStyle      0.872388
+		Randomize      (0.965, 0.555, -0.170)
+		colorDistMagn   0.726214
+		colorDistFreq   1.0047e-006
+		detailScale     1.11068
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0557088
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.700517
+		terraceProb     0.176625
+		erosion         0
+		montesMagn      0.552607
+		montesFreq      3.25789
+		montesSpiky     0.926255
+		montesFraction  0.629996
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.17285e-006
+		hillsFraction   0.743592
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.259069
+		craterFreq      0.154616
+		craterDensity   0.998825
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.451473
+		volcanoTemp     1408.69
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.333, 0.317, 0.294, 0.000)
+		colorShelf     (0.354, 0.337, 0.312, 0.000)
+		colorBeach     (0.374, 0.357, 0.330, 0.000)
+		colorDesert    (0.395, 0.377, 0.349, 0.000)
+		colorLowland   (0.416, 0.397, 0.367, 0.000)
+		colorUpland    (0.437, 0.416, 0.385, 0.000)
+		colorRock      (0.458, 0.436, 0.404, 0.000)
+		colorSnow      (0.478, 0.456, 0.422, 1.000)
+		BumpHeight      0.036607
+		BumpOffset      0.00732139
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011025
+		Period          0.058228
+		Eccentricity    0.0431931
+		Inclination     3.61094
+		AscendingNode   -127.481
+		ArgOfPericenter -129.595
+		MeanAnomaly     62.4371
+	}
+}
+
+Asteroid	"T116"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.53848e-013
+	Radius          0.519659
+	InertiaMoment   0.399265
+
+	RotationPeriod  474.634
+	Obliquity       3.48003
+	EqAscendNode    -11.7408
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.426 0.422 0.415)
+
+	Surface
+	{
+		SurfStyle       0.539162
+		OceanStyle      0.546502
+		Randomize      (0.316, -0.986, 0.753)
+		colorDistMagn   0.592018
+		colorDistFreq   0.000113366
+		detailScale     14.1902
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.120544
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.482145
+		terraceProb     0.296648
+		erosion         0
+		montesMagn      0.504791
+		montesFreq      3.15372
+		montesSpiky     0.916733
+		montesFraction  0.814708
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000593666
+		hillsFraction   0.77197
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.250048
+		craterFreq      0.276632
+		craterDensity   0.803103
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.529142
+		volcanoTemp     1357.17
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.166, 0.144, 0.116, 0.000)
+		colorShelf     (0.170, 0.148, 0.133, 0.000)
+		colorBeach     (0.200, 0.173, 0.158, 0.000)
+		colorDesert    (0.217, 0.186, 0.154, 0.000)
+		colorLowland   (0.239, 0.198, 0.174, 0.000)
+		colorUpland    (0.264, 0.241, 0.212, 0.000)
+		colorRock      (0.285, 0.262, 0.228, 0.000)
+		colorSnow      (0.311, 0.279, 0.241, 1.000)
+		BumpHeight      0.467693
+		BumpOffset      0.0935386
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018538
+		Period          0.0812191
+		Eccentricity    0.170021
+		Inclination     3.48003
+		AscendingNode   -11.7408
+		ArgOfPericenter -162.434
+		MeanAnomaly     149.51
+	}
+}
+
+Asteroid	"T117"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.67861e-010
+	Radius          6.7259
+	InertiaMoment   0.396376
+
+	Obliquity       -2.38012
+	EqAscendNode    -179.443
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.772 0.769 0.768)
+
+	Surface
+	{
+		SurfStyle       0.516491
+		OceanStyle      0.656427
+		Randomize      (0.117, -0.820, 0.653)
+		colorDistMagn   0.290307
+		colorDistFreq   0.03847
+		detailScale     183.662
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.000345267
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.319241
+		terraceProb     0.255986
+		erosion         0
+		montesMagn      0.588133
+		montesFreq      3.35888
+		montesSpiky     0.831523
+		montesFraction  0.277119
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.121682
+		hillsFraction   0.565463
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.238848
+		craterFreq      0.24103
+		craterDensity   0.884081
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.590932
+		volcanoTemp     1569.78
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.301, 0.262, 0.215, 0.000)
+		colorShelf     (0.309, 0.269, 0.246, 0.000)
+		colorBeach     (0.363, 0.315, 0.292, 0.000)
+		colorDesert    (0.394, 0.339, 0.284, 0.000)
+		colorLowland   (0.432, 0.362, 0.323, 0.000)
+		colorUpland    (0.478, 0.439, 0.392, 0.000)
+		colorRock      (0.517, 0.477, 0.422, 0.000)
+		colorSnow      (0.563, 0.508, 0.445, 1.000)
+		BumpHeight      6.05331
+		BumpOffset      1.21066
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016983
+		Period          0.100276
+		Eccentricity    0.0914806
+		Inclination     -2.38012
+		AscendingNode   -179.443
+		ArgOfPericenter 108.64
+		MeanAnomaly     110.908
+	}
+}
+
+Asteroid	"T118"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.91258e-018
+	Radius          0.00948631
+	InertiaMoment   0.398411
+
+	Obliquity       -0.177005
+	EqAscendNode    -147.641
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.834 0.768 0.704)
+
+	Surface
+	{
+		SurfStyle       0.518927
+		OceanStyle      0.675878
+		Randomize      (0.927, 0.351, -0.561)
+		colorDistMagn   0.567339
+		colorDistFreq   4.47529e-008
+		detailScale     0.259039
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00172633
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.401309
+		terraceProb     0.25501
+		erosion         0
+		montesMagn      0.521897
+		montesFreq      2.52209
+		montesSpiky     0.966806
+		montesFraction  0.456724
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.93534e-007
+		hillsFraction   0.708933
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.238528
+		craterFreq      0.206405
+		craterDensity   0.859366
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.455343
+		volcanoTemp     1154.26
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.325, 0.261, 0.197, 0.000)
+		colorShelf     (0.333, 0.269, 0.225, 0.000)
+		colorBeach     (0.392, 0.315, 0.268, 0.000)
+		colorDesert    (0.425, 0.338, 0.261, 0.000)
+		colorLowland   (0.467, 0.361, 0.296, 0.000)
+		colorUpland    (0.517, 0.438, 0.359, 0.000)
+		colorRock      (0.559, 0.476, 0.387, 0.000)
+		colorSnow      (0.609, 0.507, 0.408, 1.000)
+		BumpHeight      0.00853768
+		BumpOffset      0.00170754
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016798
+		Period          0.0932995
+		Eccentricity    0.0193441
+		Inclination     -0.177005
+		AscendingNode   -147.641
+		ArgOfPericenter -91.2162
+		MeanAnomaly     -39.1585
+	}
+}
+
+Asteroid	"T119"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.75757e-015
+	Radius          0.121198
+	InertiaMoment   0.399451
+
+	Obliquity       -5.06789
+	EqAscendNode    -18.3342
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.505 0.501 0.495)
+
+	Surface
+	{
+		SurfStyle       0.260883
+		OceanStyle      0.155723
+		Randomize      (0.528, -0.387, 0.345)
+		colorDistMagn   0.494721
+		colorDistFreq   3.89665e-006
+		detailScale     3.30951
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.173751
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.569603
+		terraceProb     0.291376
+		erosion         0
+		montesMagn      0.449008
+		montesFreq      2.82312
+		montesSpiky     0.95073
+		montesFraction  0.338306
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.58274e-005
+		hillsFraction   0.497715
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.246157
+		craterFreq      0.207669
+		craterDensity   0.752965
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.462562
+		volcanoTemp     2046.69
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.202, 0.200, 0.198, 0.000)
+		colorShelf     (0.215, 0.213, 0.210, 0.000)
+		colorBeach     (0.227, 0.225, 0.223, 0.000)
+		colorDesert    (0.240, 0.238, 0.235, 0.000)
+		colorLowland   (0.253, 0.251, 0.248, 0.000)
+		colorUpland    (0.265, 0.263, 0.260, 0.000)
+		colorRock      (0.278, 0.276, 0.272, 0.000)
+		colorSnow      (0.290, 0.288, 0.285, 1.000)
+		BumpHeight      0.109078
+		BumpOffset      0.0218156
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011838
+		Period          0.103661
+		Eccentricity    0.119671
+		Inclination     -5.06789
+		AscendingNode   -18.3342
+		ArgOfPericenter 18.2737
+		MeanAnomaly     -19.063
+	}
+}
+
+Asteroid	"T120"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            8.47255e-012
+	Radius          1.56868
+	InertiaMoment   0.39705
+
+	Obliquity       -0.772118
+	EqAscendNode    42.2527
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.566 0.459 0.386)
+
+	Surface
+	{
+		SurfStyle       0.632691
+		OceanStyle      0.207545
+		Randomize      (-0.257, 0.088, -0.081)
+		colorDistMagn   0.409528
+		colorDistFreq   0.00160701
+		detailScale     42.8354
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0251386
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.664776
+		terraceProb     0.391793
+		erosion         0
+		montesMagn      0.549078
+		montesFreq      2.71536
+		montesSpiky     0.951692
+		montesFraction  0.867213
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00613952
+		hillsFraction   0.49216
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.217861
+		craterFreq      0.245032
+		craterDensity   0.973254
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.425496
+		volcanoTemp     1886.97
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.221, 0.156, 0.108, 0.000)
+		colorShelf     (0.226, 0.160, 0.123, 0.000)
+		colorBeach     (0.266, 0.188, 0.147, 0.000)
+		colorDesert    (0.289, 0.202, 0.143, 0.000)
+		colorLowland   (0.317, 0.216, 0.162, 0.000)
+		colorUpland    (0.351, 0.261, 0.197, 0.000)
+		colorRock      (0.379, 0.284, 0.212, 0.000)
+		colorSnow      (0.413, 0.303, 0.224, 1.000)
+		BumpHeight      1.41181
+		BumpOffset      0.282362
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011688
+		Period          0.140497
+		Eccentricity    0.0817261
+		Inclination     -0.772118
+		AscendingNode   42.2527
+		ArgOfPericenter -179.212
+		MeanAnomaly     -93.8598
+	}
+}
+
+Asteroid	"T121"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.24678e-008
+	Radius          13.9586
+	InertiaMoment   0.398642
+
+	RotationPeriod  1836.83
+	Obliquity       2.05543
+	EqAscendNode    50.1421
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.685 0.593 0.434)
+
+	Surface
+	{
+		SurfStyle       0.747944
+		OceanStyle      0.672193
+		Randomize      (0.680, 0.027, -0.105)
+		colorDistMagn   0.0108334
+		colorDistFreq   0.149377
+		detailScale     381.164
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0649401
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.309123
+		terraceProb     0.286484
+		erosion         0
+		montesMagn      0.605257
+		montesFreq      1.97911
+		montesSpiky     0.969539
+		montesFraction  0.682319
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.506276
+		hillsFraction   0.618876
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.233868
+		craterFreq      0.201407
+		craterDensity   0.736019
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.487013
+		volcanoTemp     1923.84
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.267, 0.202, 0.122, 0.000)
+		colorShelf     (0.274, 0.208, 0.139, 0.000)
+		colorBeach     (0.322, 0.243, 0.165, 0.000)
+		colorDesert    (0.349, 0.261, 0.161, 0.000)
+		colorLowland   (0.384, 0.279, 0.182, 0.000)
+		colorUpland    (0.425, 0.338, 0.221, 0.000)
+		colorRock      (0.459, 0.368, 0.239, 0.000)
+		colorSnow      (0.500, 0.392, 0.252, 1.000)
+		BumpHeight      12.5628
+		BumpOffset      2.51255
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010502
+		Period          0.0698482
+		Eccentricity    0.0674728
+		Inclination     2.05543
+		AscendingNode   50.1421
+		ArgOfPericenter -22.8204
+		MeanAnomaly     64.226
+	}
+}
+
+Asteroid	"T122"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            7.30408e-017
+	Radius          0.0251651
+	InertiaMoment   0.399631
+
+	Obliquity       0.259304
+	EqAscendNode    154.214
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.534 0.532 0.527)
+
+	Surface
+	{
+		SurfStyle       0.0487961
+		OceanStyle      0.641283
+		Randomize      (-0.000, 0.608, 0.241)
+		colorDistMagn   0.58799
+		colorDistFreq   1.98731e-007
+		detailScale     0.687175
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00201323
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.722401
+		terraceProb     0.122418
+		erosion         0
+		montesMagn      0.340465
+		montesFreq      3.0975
+		montesSpiky     0.978231
+		montesFraction  0.501724
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.66688e-006
+		hillsFraction   0.652045
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.219197
+		craterFreq      0.260415
+		craterDensity   0.963001
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.509227
+		volcanoTemp     1371.73
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.214, 0.213, 0.211, 0.000)
+		colorShelf     (0.227, 0.226, 0.224, 0.000)
+		colorBeach     (0.241, 0.239, 0.237, 0.000)
+		colorDesert    (0.254, 0.252, 0.250, 0.000)
+		colorLowland   (0.267, 0.266, 0.263, 0.000)
+		colorUpland    (0.281, 0.279, 0.276, 0.000)
+		colorRock      (0.294, 0.292, 0.290, 0.000)
+		colorSnow      (0.307, 0.306, 0.303, 1.000)
+		BumpHeight      0.0226486
+		BumpOffset      0.00452972
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015542
+		Period          0.113413
+		Eccentricity    0.0764069
+		Inclination     0.259304
+		AscendingNode   154.214
+		ArgOfPericenter 149.218
+		MeanAnomaly     49.9107
+	}
+}
+
+Asteroid	"T123"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.07484e-013
+	Radius          0.321511
+	InertiaMoment   0.397496
+
+	RotationPeriod  1497.72
+	Obliquity       1.62199
+	EqAscendNode    -8.55737
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.565 0.445 0.334)
+
+	Surface
+	{
+		SurfStyle       0.448899
+		OceanStyle      0.460559
+		Randomize      (-0.874, 0.402, -0.051)
+		colorDistMagn   0.399226
+		colorDistFreq   4.00034e-005
+		detailScale     8.77939
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0564305
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.627755
+		terraceProb     0.390152
+		erosion         0
+		montesMagn      0.507595
+		montesFreq      3.25656
+		montesSpiky     0.974073
+		montesFraction  0.0749708
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000168969
+		hillsFraction   0.749877
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.276506
+		craterFreq      0.232558
+		craterDensity   0.917944
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.477089
+		volcanoTemp     1877.38
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.226, 0.178, 0.134, 0.000)
+		colorShelf     (0.240, 0.189, 0.142, 0.000)
+		colorBeach     (0.254, 0.200, 0.150, 0.000)
+		colorDesert    (0.268, 0.211, 0.159, 0.000)
+		colorLowland   (0.283, 0.222, 0.167, 0.000)
+		colorUpland    (0.297, 0.234, 0.175, 0.000)
+		colorRock      (0.311, 0.245, 0.184, 0.000)
+		colorSnow      (0.325, 0.256, 0.192, 1.000)
+		BumpHeight      0.28936
+		BumpOffset      0.057872
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016225
+		Period          0.113906
+		Eccentricity    0.108525
+		Inclination     1.62199
+		AscendingNode   -8.55737
+		ArgOfPericenter 170.37
+		MeanAnomaly     83.3464
+	}
+}
+
+Asteroid	"T124"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.58168e-010
+	Radius          4.16133
+	InertiaMoment   0.398856
+
+	RotationPeriod  2387.17
+	Obliquity       -2.50192
+	EqAscendNode    52.1208
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.615 0.612 0.609)
+
+	Surface
+	{
+		SurfStyle       0.956237
+		OceanStyle      0.339952
+		Randomize      (-0.924, -0.117, 0.085)
+		colorDistMagn   0.453561
+		colorDistFreq   0.00773273
+		detailScale     113.632
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0783693
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.542574
+		terraceProb     0.154004
+		erosion         0
+		montesMagn      0.373312
+		montesFreq      3.60031
+		montesSpiky     0.943932
+		montesFraction  0.472491
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0360056
+		hillsFraction   0.768344
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.264511
+		craterFreq      0.253648
+		craterDensity   0.78523
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.448482
+		volcanoTemp     1730.3
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.209, 0.214, 0.244, 0.050)
+		colorShelf     (0.246, 0.251, 0.280, 0.040)
+		colorBeach     (0.283, 0.288, 0.317, 0.030)
+		colorDesert    (0.320, 0.324, 0.359, 0.020)
+		colorLowland   (0.357, 0.361, 0.396, 0.030)
+		colorUpland    (0.394, 0.398, 0.432, 0.050)
+		colorRock      (0.431, 0.434, 0.481, 0.020)
+		colorSnow      (0.431, 0.434, 0.481, 1.000)
+		BumpHeight      3.7452
+		BumpOffset      0.749039
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016073
+		Period          0.136164
+		Eccentricity    0.0957244
+		Inclination     -2.50192
+		AscendingNode   52.1208
+		ArgOfPericenter 47.0389
+		MeanAnomaly     -107.156
+	}
+}
+
+Asteroid	"T125"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.32752e-007
+	Radius          37.0237
+	InertiaMoment   0.399809
+
+	Obliquity       -1.81023
+	EqAscendNode    -119.656
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.589 0.526 0.438)
+
+	Surface
+	{
+		SurfStyle       0.332282
+		OceanStyle      0.638334
+		Randomize      (0.677, -0.515, 0.671)
+		colorDistMagn   0.739384
+		colorDistFreq   0.763124
+		detailScale     1010.99
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0317493
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.50594
+		terraceProb     0.193796
+		erosion         0
+		montesMagn      0.37838
+		montesFreq      3.76354
+		montesSpiky     0.947877
+		montesFraction  0.613039
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.31124
+		hillsFraction   0.722724
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.279936
+		craterFreq      0.244224
+		craterDensity   0.976263
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.492386
+		volcanoTemp     1506.46
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.236, 0.210, 0.175, 0.000)
+		colorShelf     (0.250, 0.223, 0.186, 0.000)
+		colorBeach     (0.265, 0.237, 0.197, 0.000)
+		colorDesert    (0.280, 0.250, 0.208, 0.000)
+		colorLowland   (0.295, 0.263, 0.219, 0.000)
+		colorUpland    (0.309, 0.276, 0.230, 0.000)
+		colorRock      (0.324, 0.289, 0.241, 0.000)
+		colorSnow      (0.339, 0.302, 0.252, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017141
+		Period          0.0618006
+		Eccentricity    0.111487
+		Inclination     -1.81023
+		AscendingNode   -119.656
+		ArgOfPericenter 169.493
+		MeanAnomaly     32.3823
+	}
+}
+
+Asteroid	"T126"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.36355e-015
+	Radius          0.0749846
+	InertiaMoment   0.397843
+
+	Obliquity       -4.81767
+	EqAscendNode    -122.878
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.409 0.403 0.399)
+
+	Surface
+	{
+		SurfStyle       0.719342
+		OceanStyle      0.676079
+		Randomize      (-0.557, -0.824, 0.991)
+		colorDistMagn   0.374116
+		colorDistFreq   3.58798e-006
+		detailScale     2.04758
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0802408
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.518187
+		terraceProb     0.24504
+		erosion         0
+		montesMagn      0.583184
+		montesFreq      3.09385
+		montesSpiky     0.862987
+		montesFraction  0.656631
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.04291e-005
+		hillsFraction   0.689234
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.227762
+		craterFreq      0.246933
+		craterDensity   0.972008
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.558567
+		volcanoTemp     1789.37
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.160, 0.137, 0.112, 0.000)
+		colorShelf     (0.164, 0.141, 0.128, 0.000)
+		colorBeach     (0.192, 0.165, 0.152, 0.000)
+		colorDesert    (0.209, 0.177, 0.148, 0.000)
+		colorLowland   (0.229, 0.189, 0.168, 0.000)
+		colorUpland    (0.254, 0.230, 0.204, 0.000)
+		colorRock      (0.274, 0.250, 0.220, 0.000)
+		colorSnow      (0.299, 0.266, 0.231, 1.000)
+		BumpHeight      0.0674861
+		BumpOffset      0.0134972
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013691
+		Period          0.104962
+		Eccentricity    0.067475
+		Inclination     -4.81767
+		AscendingNode   -122.878
+		ArgOfPericenter 151.118
+		MeanAnomaly     -110.663
+	}
+}
+
+Asteroid	"T127"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.00653e-012
+	Radius          0.970538
+	InertiaMoment   0.399058
+
+	Obliquity       1.04795
+	EqAscendNode    -62.8323
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.631 0.625 0.622)
+
+	Surface
+	{
+		SurfStyle       0.326249
+		OceanStyle      0.929392
+		Randomize      (0.962, -0.785, 0.206)
+		colorDistMagn   0.992163
+		colorDistFreq   0.000222403
+		detailScale     26.5022
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0312118
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.633441
+		terraceProb     0.238768
+		erosion         0
+		montesMagn      0.538266
+		montesFreq      3.43666
+		montesSpiky     0.881781
+		montesFraction  0.645923
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00260192
+		hillsFraction   0.658591
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.243031
+		craterFreq      0.211266
+		craterDensity   0.745971
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.439374
+		volcanoTemp     1733.33
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.253, 0.250, 0.249, 0.000)
+		colorShelf     (0.268, 0.266, 0.264, 0.000)
+		colorBeach     (0.284, 0.281, 0.280, 0.000)
+		colorDesert    (0.300, 0.297, 0.295, 0.000)
+		colorLowland   (0.316, 0.312, 0.311, 0.000)
+		colorUpland    (0.331, 0.328, 0.326, 0.000)
+		colorRock      (0.347, 0.344, 0.342, 0.000)
+		colorSnow      (0.363, 0.359, 0.357, 1.000)
+		BumpHeight      0.873484
+		BumpOffset      0.174697
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012626
+		Period          0.125973
+		Eccentricity    0.0914839
+		Inclination     1.04795
+		AscendingNode   -62.8323
+		ArgOfPericenter -54.7271
+		MeanAnomaly     77.921
+	}
+}
+
+Asteroid	"T128"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.95272e-009
+	Radius          8.63641
+	InertiaMoment   0.399986
+
+	RotationPeriod  781.572
+	Obliquity       0.666159
+	EqAscendNode    -139.154
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.577 0.572 0.564)
+
+	Surface
+	{
+		SurfStyle       0.540338
+		OceanStyle      0.773186
+		Randomize      (-0.025, 0.437, 0.109)
+		colorDistMagn   0.354817
+		colorDistFreq   0.0428674
+		detailScale     235.832
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00811187
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.637512
+		terraceProb     0.239924
+		erosion         0
+		montesMagn      0.650291
+		montesFreq      3.69578
+		montesSpiky     0.914982
+		montesFraction  0.500904
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.184483
+		hillsFraction   0.489245
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.237345
+		craterFreq      0.259408
+		craterDensity   1.02547
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.523198
+		volcanoTemp     1299.79
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.225, 0.194, 0.158, 0.000)
+		colorShelf     (0.231, 0.200, 0.181, 0.000)
+		colorBeach     (0.271, 0.235, 0.214, 0.000)
+		colorDesert    (0.294, 0.252, 0.209, 0.000)
+		colorLowland   (0.323, 0.269, 0.237, 0.000)
+		colorUpland    (0.357, 0.326, 0.288, 0.000)
+		colorRock      (0.386, 0.355, 0.310, 0.000)
+		colorSnow      (0.421, 0.378, 0.327, 1.000)
+		BumpHeight      7.77277
+		BumpOffset      1.55455
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013115
+		Period          0.059441
+		Eccentricity    0.124718
+		Inclination     0.666159
+		AscendingNode   -139.154
+		ArgOfPericenter 76.4928
+		MeanAnomaly     -54.1722
+	}
+}
+
+Asteroid	"T129"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.72981e-017
+	Radius          0.0174883
+	InertiaMoment   0.398135
+
+	Obliquity       4.56652
+	EqAscendNode    95.4708
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.673 0.544 0.417)
+
+	Surface
+	{
+		SurfStyle       0.407385
+		OceanStyle      0.200202
+		Randomize      (0.661, 0.159, 0.654)
+		colorDistMagn   0.658785
+		colorDistFreq   1.68428e-007
+		detailScale     0.477548
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.106939
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.504282
+		terraceProb     0.487858
+		erosion         0
+		montesMagn      0.695175
+		montesFreq      2.91731
+		montesSpiky     0.940124
+		montesFraction  0.369191
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       7.64224e-007
+		hillsFraction   0.555769
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.233132
+		craterFreq      0.221723
+		craterDensity   0.859251
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.467754
+		volcanoTemp     1445.16
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.269, 0.217, 0.167, 0.000)
+		colorShelf     (0.286, 0.231, 0.177, 0.000)
+		colorBeach     (0.303, 0.245, 0.187, 0.000)
+		colorDesert    (0.320, 0.258, 0.198, 0.000)
+		colorLowland   (0.337, 0.272, 0.208, 0.000)
+		colorUpland    (0.353, 0.285, 0.219, 0.000)
+		colorRock      (0.370, 0.299, 0.229, 0.000)
+		colorSnow      (0.387, 0.313, 0.239, 1.000)
+		BumpHeight      0.0157395
+		BumpOffset      0.0031479
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011946
+		Period          0.118069
+		Eccentricity    0.0271728
+		Inclination     4.56652
+		AscendingNode   95.4708
+		ArgOfPericenter -38.5507
+		MeanAnomaly     -49.1451
+	}
+}
+
+Asteroid	"T130"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.5455e-014
+	Radius          0.226355
+	InertiaMoment   0.39925
+
+	RotationPeriod  2674.36
+	Obliquity       5.05086
+	EqAscendNode    -134.695
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.680 0.673 0.671)
+
+	Surface
+	{
+		SurfStyle       0.280325
+		OceanStyle      0.486021
+		Randomize      (0.514, -0.125, -0.679)
+		colorDistMagn   0.927146
+		colorDistFreq   3.47612e-006
+		detailScale     6.18099
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0677776
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.615316
+		terraceProb     0.235538
+		erosion         0
+		montesMagn      0.570431
+		montesFreq      2.89627
+		montesSpiky     0.946101
+		montesFraction  0.496964
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       9.30958e-005
+		hillsFraction   0.450197
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.247524
+		craterFreq      0.245943
+		craterDensity   1.00744
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.511087
+		volcanoTemp     1660.58
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.272, 0.269, 0.268, 0.000)
+		colorShelf     (0.289, 0.286, 0.285, 0.000)
+		colorBeach     (0.306, 0.303, 0.302, 0.000)
+		colorDesert    (0.323, 0.320, 0.319, 0.000)
+		colorLowland   (0.340, 0.337, 0.335, 0.000)
+		colorUpland    (0.357, 0.354, 0.352, 0.000)
+		colorRock      (0.374, 0.370, 0.369, 0.000)
+		colorSnow      (0.391, 0.387, 0.386, 1.000)
+		BumpHeight      0.203719
+		BumpOffset      0.0407438
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017335
+		Period          0.122036
+		Eccentricity    0.114595
+		Inclination     5.05086
+		AscendingNode   -134.695
+		ArgOfPericenter -73.1494
+		MeanAnomaly     -153.455
+	}
+}
+
+Asteroid	"T131"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.74585e-011
+	Radius          2.0143
+	InertiaMoment   0.396304
+
+	RotationPeriod  2059.86
+	Obliquity       -1.5292
+	EqAscendNode    46.498
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.744 0.741 0.739)
+
+	Surface
+	{
+		SurfStyle       0.573425
+		OceanStyle      0.573055
+		Randomize      (-0.254, -0.582, 0.508)
+		colorDistMagn   0.645493
+		colorDistFreq   0.0023591
+		detailScale     55.0037
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0490241
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.378026
+		terraceProb     0.446264
+		erosion         0
+		montesMagn      0.534512
+		montesFreq      3.81484
+		montesSpiky     0.856985
+		montesFraction  0.820694
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00646975
+		hillsFraction   0.542111
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.227139
+		craterFreq      0.266025
+		craterDensity   0.822851
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.550775
+		volcanoTemp     1379.51
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.290, 0.252, 0.207, 0.000)
+		colorShelf     (0.298, 0.259, 0.236, 0.000)
+		colorBeach     (0.350, 0.304, 0.281, 0.000)
+		colorDesert    (0.380, 0.326, 0.273, 0.000)
+		colorLowland   (0.417, 0.348, 0.310, 0.000)
+		colorUpland    (0.461, 0.422, 0.377, 0.000)
+		colorRock      (0.499, 0.459, 0.406, 0.000)
+		colorSnow      (0.543, 0.489, 0.428, 1.000)
+		BumpHeight      1.81287
+		BumpOffset      0.362573
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017825
+		Period          0.0939951
+		Eccentricity    0.127939
+		Inclination     -1.5292
+		AscendingNode   46.498
+		ArgOfPericenter -174.217
+		MeanAnomaly     92.3096
+	}
+}
+
+Asteroid	"T132"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.51222e-008
+	Radius          25.7318
+	InertiaMoment   0.398392
+
+	RotationPeriod  2312.54
+	Obliquity       1.38664
+	EqAscendNode    -112.184
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.786 0.698 0.656)
+
+	Surface
+	{
+		SurfStyle       0.320606
+		OceanStyle      0.772657
+		Randomize      (0.060, 0.539, 0.683)
+		colorDistMagn   0.62706
+		colorDistFreq   0.14685
+		detailScale     702.651
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0269969
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.668805
+		terraceProb     0.175344
+		erosion         0
+		montesMagn      0.397627
+		montesFreq      3.04675
+		montesSpiky     0.915299
+		montesFraction  0.864337
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.02309
+		hillsFraction   0.92548
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.249821
+		craterFreq      0.268704
+		craterDensity   0.881276
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.510932
+		volcanoTemp     1414.66
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.314, 0.279, 0.262, 0.000)
+		colorShelf     (0.334, 0.296, 0.279, 0.000)
+		colorBeach     (0.354, 0.314, 0.295, 0.000)
+		colorDesert    (0.373, 0.331, 0.312, 0.000)
+		colorLowland   (0.393, 0.349, 0.328, 0.000)
+		colorUpland    (0.413, 0.366, 0.345, 0.000)
+		colorRock      (0.432, 0.384, 0.361, 0.000)
+		colorSnow      (0.452, 0.401, 0.377, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018797
+		Period          0.0879379
+		Eccentricity    0.156458
+		Inclination     1.38664
+		AscendingNode   -112.184
+		ArgOfPericenter 23.2132
+		MeanAnomaly     -31.808
+	}
+}
+
+Asteroid	"T133"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.22925e-016
+	Radius          0.0527916
+	InertiaMoment   0.399436
+
+	Obliquity       -0.395488
+	EqAscendNode    -70.1837
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.660 0.656 0.653)
+
+	Surface
+	{
+		SurfStyle       0.747398
+		OceanStyle      0.671076
+		Randomize      (0.664, -0.274, -0.250)
+		colorDistMagn   0.584016
+		colorDistFreq   2.06771e-006
+		detailScale     1.44156
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0112938
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.369382
+		terraceProb     0.252678
+		erosion         0
+		montesMagn      0.457221
+		montesFreq      3.53032
+		montesSpiky     0.954279
+		montesFraction  0.560951
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       7.12416e-006
+		hillsFraction   0.383183
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.2397
+		craterFreq      0.269844
+		craterDensity   1.07441
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.551055
+		volcanoTemp     1552.88
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.257, 0.223, 0.183, 0.000)
+		colorShelf     (0.264, 0.230, 0.209, 0.000)
+		colorBeach     (0.310, 0.269, 0.248, 0.000)
+		colorDesert    (0.336, 0.289, 0.242, 0.000)
+		colorLowland   (0.369, 0.308, 0.274, 0.000)
+		colorUpland    (0.409, 0.374, 0.333, 0.000)
+		colorRock      (0.442, 0.407, 0.359, 0.000)
+		colorSnow      (0.482, 0.433, 0.379, 1.000)
+		BumpHeight      0.0475125
+		BumpOffset      0.0095025
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018646
+		Period          0.108469
+		Eccentricity    0.130749
+		Inclination     -0.395488
+		AscendingNode   -70.1837
+		ArgOfPericenter 161.762
+		MeanAnomaly     -25.4466
+	}
+}
+
+Asteroid	"T134"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.75202e-013
+	Radius          0.469788
+	InertiaMoment   0.397009
+
+	Obliquity       2.3545
+	EqAscendNode    20.4109
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.760 0.713 0.629)
+
+	Surface
+	{
+		SurfStyle       0.773091
+		OceanStyle      0.65925
+		Randomize      (0.286, 0.786, -0.645)
+		colorDistMagn   0.811029
+		colorDistFreq   0.000135818
+		detailScale     12.8283
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0807986
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.422857
+		terraceProb     0.17491
+		erosion         0
+		montesMagn      0.551195
+		montesFreq      3.08502
+		montesSpiky     0.877524
+		montesFraction  0.702974
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000369704
+		hillsFraction   0.849536
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.246438
+		craterFreq      0.221414
+		craterDensity   0.849336
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.480933
+		volcanoTemp     1609.23
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.296, 0.243, 0.176, 0.000)
+		colorShelf     (0.304, 0.250, 0.201, 0.000)
+		colorBeach     (0.357, 0.292, 0.239, 0.000)
+		colorDesert    (0.387, 0.314, 0.233, 0.000)
+		colorLowland   (0.425, 0.335, 0.264, 0.000)
+		colorUpland    (0.471, 0.407, 0.321, 0.000)
+		colorRock      (0.509, 0.442, 0.346, 0.000)
+		colorSnow      (0.554, 0.471, 0.365, 1.000)
+		BumpHeight      0.422809
+		BumpOffset      0.0845618
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018935
+		Period          0.0513779
+		Eccentricity    0.0353839
+		Inclination     2.3545
+		AscendingNode   20.4109
+		ArgOfPericenter 165.966
+		MeanAnomaly     98.365
+	}
+}
+
+Asteroid	"T135"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.99285e-010
+	Radius          6.00192
+	InertiaMoment   0.398624
+
+	RotationPeriod  1740.89
+	Obliquity       -3.97699
+	EqAscendNode    -41.6767
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.764 0.762 0.760)
+
+	Surface
+	{
+		SurfStyle       0.239759
+		OceanStyle      0.578152
+		Randomize      (0.326, -0.837, -0.011)
+		colorDistMagn   0.772283
+		colorDistFreq   0.0237332
+		detailScale     163.893
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.129366
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.632139
+		terraceProb     0.215686
+		erosion         0
+		montesMagn      0.408826
+		montesFreq      2.94294
+		montesSpiky     0.999533
+		montesFraction  0.513053
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.117511
+		hillsFraction   0.655048
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.235742
+		craterFreq      0.17575
+		craterDensity   0.723458
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.541478
+		volcanoTemp     1148.38
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.306, 0.305, 0.304, 0.000)
+		colorShelf     (0.325, 0.324, 0.323, 0.000)
+		colorBeach     (0.344, 0.343, 0.342, 0.000)
+		colorDesert    (0.363, 0.362, 0.361, 0.000)
+		colorLowland   (0.382, 0.381, 0.380, 0.000)
+		colorUpland    (0.401, 0.400, 0.399, 0.000)
+		colorRock      (0.420, 0.419, 0.418, 0.000)
+		colorSnow      (0.439, 0.438, 0.437, 1.000)
+		BumpHeight      5.40173
+		BumpOffset      1.08035
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015572
+		Period          0.0993
+		Eccentricity    0.0658232
+		Inclination     -3.97699
+		AscendingNode   -41.6767
+		ArgOfPericenter -33.9477
+		MeanAnomaly     -97.5315
+	}
+}
+
+Asteroid	"T136"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.09667e-018
+	Radius          0.0123124
+	InertiaMoment   0.399618
+
+	RotationPeriod  2525.15
+	Obliquity       -4.93162
+	EqAscendNode    112.784
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.831 0.795 0.766)
+
+	Surface
+	{
+		SurfStyle       0.283062
+		OceanStyle      0.647692
+		Randomize      (-0.652, -0.948, -0.654)
+		colorDistMagn   0.357516
+		colorDistFreq   9.94324e-009
+		detailScale     0.336209
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0950588
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.659933
+		terraceProb     0.342355
+		erosion         0
+		montesMagn      0.550348
+		montesFreq      3.55403
+		montesSpiky     0.924649
+		montesFraction  0.831895
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       4.10544e-007
+		hillsFraction   0.780848
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.224415
+		craterFreq      0.140383
+		craterDensity   0.80974
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.430932
+		volcanoTemp     1233.31
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.332, 0.318, 0.306, 0.000)
+		colorShelf     (0.353, 0.338, 0.325, 0.000)
+		colorBeach     (0.374, 0.358, 0.344, 0.000)
+		colorDesert    (0.395, 0.377, 0.364, 0.000)
+		colorLowland   (0.415, 0.397, 0.383, 0.000)
+		colorUpland    (0.436, 0.417, 0.402, 0.000)
+		colorRock      (0.457, 0.437, 0.421, 0.000)
+		colorSnow      (0.478, 0.457, 0.440, 1.000)
+		BumpHeight      0.0110811
+		BumpOffset      0.00221622
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018048
+		Period          0.115227
+		Eccentricity    0.123471
+		Inclination     -4.93163
+		AscendingNode   112.784
+		ArgOfPericenter 60.7445
+		MeanAnomaly     136.799
+	}
+}
+
+Asteroid	"T137"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.02847e-015
+	Radius          0.109567
+	InertiaMoment   0.397466
+
+	RotationPeriod  4261.72
+	Obliquity       5.37881
+	EqAscendNode    61.8056
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.630 0.571 0.456)
+
+	Surface
+	{
+		SurfStyle       0.825781
+		OceanStyle      0.195554
+		Randomize      (-0.474, 0.191, -0.307)
+		colorDistMagn   0.308887
+		colorDistFreq   3.6942e-006
+		detailScale     2.9919
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.160344
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.37551
+		terraceProb     0.258273
+		erosion         0
+		montesMagn      0.498822
+		montesFreq      2.06414
+		montesSpiky     0.967147
+		montesFraction  0.554477
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.46425e-005
+		hillsFraction   0.769763
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.237222
+		craterFreq      0.202432
+		craterDensity   0.960807
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.522772
+		volcanoTemp     1163.45
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.246, 0.194, 0.128, 0.000)
+		colorShelf     (0.252, 0.200, 0.146, 0.000)
+		colorBeach     (0.296, 0.234, 0.173, 0.000)
+		colorDesert    (0.321, 0.251, 0.169, 0.000)
+		colorLowland   (0.353, 0.268, 0.191, 0.000)
+		colorUpland    (0.391, 0.325, 0.233, 0.000)
+		colorRock      (0.422, 0.354, 0.251, 0.000)
+		colorSnow      (0.460, 0.377, 0.264, 1.000)
+		BumpHeight      0.0986099
+		BumpOffset      0.019722
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018244
+		Period          0.0810293
+		Eccentricity    0.179158
+		Inclination     5.37881
+		AscendingNode   61.8056
+		ArgOfPericenter 84.1289
+		MeanAnomaly     15.58
+	}
+}
+
+Asteroid	"T138"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            8.8712e-012
+	Radius          1.39983
+	InertiaMoment   0.39884
+
+	RotationPeriod  2046.91
+	Obliquity       -2.66297
+	EqAscendNode    8.3028
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.733 0.728 0.725)
+
+	Surface
+	{
+		SurfStyle       0.922475
+		OceanStyle      0.229836
+		Randomize      (-0.717, 0.770, -0.126)
+		colorDistMagn   0.0160701
+		colorDistFreq   0.00121901
+		detailScale     38.2246
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0925787
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.682685
+		terraceProb     0.240013
+		erosion         0
+		montesMagn      0.566086
+		montesFreq      3.02023
+		montesSpiky     0.996751
+		montesFraction  0.53365
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00527823
+		hillsFraction   0.63879
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.244531
+		craterFreq      0.190299
+		craterDensity   1.00897
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.410654
+		volcanoTemp     1807.89
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.249, 0.255, 0.290, 0.050)
+		colorShelf     (0.293, 0.299, 0.333, 0.040)
+		colorBeach     (0.337, 0.342, 0.377, 0.030)
+		colorDesert    (0.381, 0.386, 0.428, 0.020)
+		colorLowland   (0.425, 0.430, 0.471, 0.030)
+		colorUpland    (0.469, 0.474, 0.515, 0.050)
+		colorRock      (0.513, 0.517, 0.573, 0.020)
+		colorSnow      (0.513, 0.517, 0.573, 1.000)
+		BumpHeight      1.25984
+		BumpOffset      0.251969
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010148
+		Period          0.116755
+		Eccentricity    0.107637
+		Inclination     -2.66297
+		AscendingNode   8.3028
+		ArgOfPericenter -141.291
+		MeanAnomaly     146.204
+	}
+}
+
+Asteroid	"T139"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.30544e-008
+	Radius          18.117
+	InertiaMoment   0.399796
+
+	Obliquity       -2.72312
+	EqAscendNode    28.8873
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.764 0.763 0.761)
+
+	Surface
+	{
+		SurfStyle       0.340164
+		OceanStyle      0.158435
+		Randomize      (-0.242, 0.705, -0.605)
+		colorDistMagn   0.520277
+		colorDistFreq   0.160853
+		detailScale     494.716
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0919186
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.711229
+		terraceProb     0.158218
+		erosion         0
+		montesMagn      0.49821
+		montesFreq      2.56135
+		montesSpiky     0.85074
+		montesFraction  0.535362
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.54539
+		hillsFraction   0.66608
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.278597
+		craterFreq      0.190719
+		craterDensity   0.738036
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.532411
+		volcanoTemp     1522.68
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.306, 0.305, 0.305, 0.000)
+		colorShelf     (0.325, 0.324, 0.324, 0.000)
+		colorBeach     (0.344, 0.343, 0.343, 0.000)
+		colorDesert    (0.363, 0.362, 0.362, 0.000)
+		colorLowland   (0.382, 0.381, 0.381, 0.000)
+		colorUpland    (0.401, 0.401, 0.400, 0.000)
+		colorRock      (0.420, 0.420, 0.419, 0.000)
+		colorSnow      (0.439, 0.439, 0.438, 1.000)
+		BumpHeight      16.3053
+		BumpOffset      3.26107
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01763
+		Period          0.0871647
+		Eccentricity    0.0411891
+		Inclination     -2.72312
+		AscendingNode   28.8873
+		ArgOfPericenter 142.344
+		MeanAnomaly     -102.762
+	}
+}
+
+Asteroid	"T140"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            7.64779e-017
+	Radius          0.0255538
+	InertiaMoment   0.397818
+
+	Obliquity       -5.85718
+	EqAscendNode    -83.408
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.557 0.438 0.351)
+
+	Surface
+	{
+		SurfStyle       0.559647
+		OceanStyle      0.21205
+		Randomize      (-0.138, 0.480, -0.137)
+		colorDistMagn   0.248851
+		colorDistFreq   4.19734e-007
+		detailScale     0.697788
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.151935
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.345793
+		terraceProb     0.131014
+		erosion         0
+		montesMagn      0.495789
+		montesFreq      2.454
+		montesSpiky     0.935439
+		montesFraction  0.390944
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.06713e-006
+		hillsFraction   0.723624
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.255423
+		craterFreq      0.210241
+		craterDensity   0.907379
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.558406
+		volcanoTemp     1461.69
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.217, 0.149, 0.098, 0.000)
+		colorShelf     (0.223, 0.153, 0.112, 0.000)
+		colorBeach     (0.262, 0.179, 0.133, 0.000)
+		colorDesert    (0.284, 0.193, 0.130, 0.000)
+		colorLowland   (0.312, 0.206, 0.148, 0.000)
+		colorUpland    (0.345, 0.250, 0.179, 0.000)
+		colorRock      (0.373, 0.271, 0.193, 0.000)
+		colorSnow      (0.407, 0.289, 0.204, 1.000)
+		BumpHeight      0.0229984
+		BumpOffset      0.00459968
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016789
+		Period          0.0557954
+		Eccentricity    0.086995
+		Inclination     -5.85718
+		AscendingNode   -83.408
+		ArgOfPericenter -131.005
+		MeanAnomaly     -16.9044
+	}
+}
+
+Asteroid	"T141"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.12541e-013
+	Radius          0.326476
+	InertiaMoment   0.399043
+
+	RotationPeriod  2832.13
+	Obliquity       -3.66466
+	EqAscendNode    -114.942
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.704 0.587 0.492)
+
+	Surface
+	{
+		SurfStyle       0.0121458
+		OceanStyle      0.1522
+		Randomize      (0.803, -0.403, 0.347)
+		colorDistMagn   0.390282
+		colorDistFreq   5.97567e-005
+		detailScale     8.91497
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0686987
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.588102
+		terraceProb     0.4666
+		erosion         0
+		montesMagn      0.31894
+		montesFreq      3.52131
+		montesSpiky     0.931433
+		montesFraction  0.703362
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00030172
+		hillsFraction   0.377448
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.247969
+		craterFreq      0.249327
+		craterDensity   0.88046
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.496158
+		volcanoTemp     1233.46
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.282, 0.235, 0.197, 0.000)
+		colorShelf     (0.299, 0.249, 0.209, 0.000)
+		colorBeach     (0.317, 0.264, 0.221, 0.000)
+		colorDesert    (0.335, 0.279, 0.234, 0.000)
+		colorLowland   (0.352, 0.293, 0.246, 0.000)
+		colorUpland    (0.370, 0.308, 0.258, 0.000)
+		colorRock      (0.387, 0.323, 0.271, 0.000)
+		colorSnow      (0.405, 0.337, 0.283, 1.000)
+		BumpHeight      0.293828
+		BumpOffset      0.0587657
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017846
+		Period          0.0807722
+		Eccentricity    0.134068
+		Inclination     -3.66466
+		AscendingNode   -114.942
+		ArgOfPericenter -8.54656
+		MeanAnomaly     158.842
+	}
+}
+
+Asteroid	"T142"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.6561e-010
+	Radius          4.22559
+	InertiaMoment   0.399972
+
+	RotationPeriod  6075.84
+	Obliquity       -0.0184508
+	EqAscendNode    -113.946
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.675 0.671 0.668)
+
+	Surface
+	{
+		SurfStyle       0.424218
+		OceanStyle      0.382915
+		Randomize      (-0.373, -0.490, -0.696)
+		colorDistMagn   0.974225
+		colorDistFreq   0.0099151
+		detailScale     115.387
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.000345267
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.631401
+		terraceProb     0.448603
+		erosion         0
+		montesMagn      0.492887
+		montesFreq      2.55998
+		montesSpiky     0.939709
+		montesFraction  0.413135
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0429297
+		hillsFraction   0.558859
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.244016
+		craterFreq      0.214336
+		craterDensity   0.935074
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.480964
+		volcanoTemp     1325.71
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.270, 0.268, 0.267, 0.000)
+		colorShelf     (0.287, 0.285, 0.284, 0.000)
+		colorBeach     (0.304, 0.302, 0.301, 0.000)
+		colorDesert    (0.321, 0.319, 0.317, 0.000)
+		colorLowland   (0.337, 0.335, 0.334, 0.000)
+		colorUpland    (0.354, 0.352, 0.351, 0.000)
+		colorRock      (0.371, 0.369, 0.367, 0.000)
+		colorSnow      (0.388, 0.386, 0.384, 1.000)
+		BumpHeight      3.80303
+		BumpOffset      0.760607
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019271
+		Period          0.138626
+		Eccentricity    0.119232
+		Inclination     -0.0184508
+		AscendingNode   -113.946
+		ArgOfPericenter 157.994
+		MeanAnomaly     71.1055
+	}
+}
+
+Asteroid	"T143"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.43704e-007
+	Radius          37.5954
+	InertiaMoment   0.398114
+
+	Obliquity       -4.16005
+	EqAscendNode    -72.9905
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.615 0.611 0.608)
+
+	Surface
+	{
+		SurfStyle       0.124722
+		OceanStyle      0.653254
+		Randomize      (0.714, -0.876, 0.051)
+		colorDistMagn   0.525659
+		colorDistFreq   0.263629
+		detailScale     1026.6
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.116437
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.557185
+		terraceProb     0.10682
+		erosion         0
+		montesMagn      0.466022
+		montesFreq      2.75909
+		montesSpiky     0.842205
+		montesFraction  0.477024
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.75732
+		hillsFraction   0.519137
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.22807
+		craterFreq      0.268502
+		craterDensity   0.733963
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.445421
+		volcanoTemp     1753.29
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.246, 0.245, 0.243, 0.000)
+		colorShelf     (0.261, 0.260, 0.258, 0.000)
+		colorBeach     (0.277, 0.275, 0.274, 0.000)
+		colorDesert    (0.292, 0.290, 0.289, 0.000)
+		colorLowland   (0.307, 0.306, 0.304, 0.000)
+		colorUpland    (0.323, 0.321, 0.319, 0.000)
+		colorRock      (0.338, 0.336, 0.334, 0.000)
+		colorSnow      (0.353, 0.352, 0.350, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014661
+		Period          0.0918573
+		Eccentricity    0.0495978
+		Inclination     -4.16005
+		AscendingNode   -72.9905
+		ArgOfPericenter -103.201
+		MeanAnomaly     105.461
+	}
+}
+
+Asteroid	"T144"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.42771e-015
+	Radius          0.0761426
+	InertiaMoment   0.399236
+
+	RotationPeriod  1562.23
+	Obliquity       0.812848
+	EqAscendNode    -101.978
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.745 0.740 0.738)
+
+	Surface
+	{
+		SurfStyle       0.677067
+		OceanStyle      0.73759
+		Randomize      (-0.815, 0.960, 0.020)
+		colorDistMagn   0.0891851
+		colorDistFreq   3.21661e-006
+		detailScale     2.0792
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.01786
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.587814
+		terraceProb     0.207894
+		erosion         0
+		montesMagn      0.372019
+		montesFreq      2.59683
+		montesSpiky     0.963704
+		montesFraction  0.733499
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.16555e-005
+		hillsFraction   0.752022
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.248007
+		craterFreq      0.200498
+		craterDensity   0.802743
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.458511
+		volcanoTemp     1474.92
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.290, 0.252, 0.207, 0.000)
+		colorShelf     (0.298, 0.259, 0.236, 0.000)
+		colorBeach     (0.350, 0.303, 0.280, 0.000)
+		colorDesert    (0.380, 0.326, 0.273, 0.000)
+		colorLowland   (0.417, 0.348, 0.310, 0.000)
+		colorUpland    (0.462, 0.422, 0.376, 0.000)
+		colorRock      (0.499, 0.459, 0.406, 0.000)
+		colorSnow      (0.544, 0.488, 0.428, 1.000)
+		BumpHeight      0.0685283
+		BumpOffset      0.0137057
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010559
+		Period          0.0891092
+		Eccentricity    0.185744
+		Inclination     0.812848
+		AscendingNode   -101.978
+		ArgOfPericenter 19.2821
+		MeanAnomaly     -147.754
+	}
+}
+
+Asteroid	"T145"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.10095e-012
+	Radius          0.985526
+	InertiaMoment   0.396226
+
+	RotationPeriod  1563.05
+	Obliquity       -0.123489
+	EqAscendNode    -36.7615
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.520 0.515 0.512)
+
+	Surface
+	{
+		SurfStyle       0.0435093
+		OceanStyle      0.623576
+		Randomize      (0.398, -0.812, 0.130)
+		colorDistMagn   0.546926
+		colorDistFreq   0.000564296
+		detailScale     26.9114
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00408525
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.306352
+		terraceProb     0.235857
+		erosion         0
+		montesMagn      0.540793
+		montesFreq      2.7869
+		montesSpiky     0.817141
+		montesFraction  0.712502
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00193389
+		hillsFraction   0.677862
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.247489
+		craterFreq      0.214683
+		craterDensity   0.998434
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.480591
+		volcanoTemp     1498.15
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.208, 0.206, 0.205, 0.000)
+		colorShelf     (0.221, 0.219, 0.218, 0.000)
+		colorBeach     (0.234, 0.232, 0.231, 0.000)
+		colorDesert    (0.247, 0.245, 0.243, 0.000)
+		colorLowland   (0.260, 0.257, 0.256, 0.000)
+		colorUpland    (0.273, 0.270, 0.269, 0.000)
+		colorRock      (0.286, 0.283, 0.282, 0.000)
+		colorSnow      (0.299, 0.296, 0.295, 1.000)
+		BumpHeight      0.886973
+		BumpOffset      0.177395
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013109
+		Period          0.0594376
+		Eccentricity    0.124684
+		Inclination     -0.123489
+		AscendingNode   -36.7615
+		ArgOfPericenter -173.496
+		MeanAnomaly     -52.6085
+	}
+}
+
+Asteroid	"T146"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.09165e-009
+	Radius          8.76979
+	InertiaMoment   0.398373
+
+	Obliquity       2.44479
+	EqAscendNode    13.5038
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.571 0.569 0.567)
+
+	Surface
+	{
+		SurfStyle       0.456014
+		OceanStyle      0.567052
+		Randomize      (-0.290, -0.518, 0.817)
+		colorDistMagn   0.981451
+		colorDistFreq   0.0491377
+		detailScale     239.474
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0846453
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.523436
+		terraceProb     0.257183
+		erosion         0
+		montesMagn      0.437283
+		montesFreq      2.32936
+		montesSpiky     0.774374
+		montesFraction  0.443221
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.19606
+		hillsFraction   0.504536
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.20596
+		craterFreq      0.266576
+		craterDensity   0.87119
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.540133
+		volcanoTemp     1583.17
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.228, 0.228, 0.227, 0.000)
+		colorShelf     (0.243, 0.242, 0.241, 0.000)
+		colorBeach     (0.257, 0.256, 0.255, 0.000)
+		colorDesert    (0.271, 0.270, 0.269, 0.000)
+		colorLowland   (0.286, 0.285, 0.283, 0.000)
+		colorUpland    (0.300, 0.299, 0.297, 0.000)
+		colorRock      (0.314, 0.313, 0.312, 0.000)
+		colorSnow      (0.328, 0.327, 0.326, 1.000)
+		BumpHeight      7.89281
+		BumpOffset      1.57856
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010099
+		Period          0.0888027
+		Eccentricity    0.139922
+		Inclination     2.44479
+		AscendingNode   13.5038
+		ArgOfPericenter 141.737
+		MeanAnomaly     -121.94
+	}
+}
+
+Asteroid	"T147"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.8112e-017
+	Radius          0.0177584
+	InertiaMoment   0.399422
+
+	Obliquity       -1.58466
+	EqAscendNode    -109.716
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.612 0.533 0.451)
+
+	Surface
+	{
+		SurfStyle       0.786761
+		OceanStyle      0.826204
+		Randomize      (0.628, 0.704, -0.409)
+		colorDistMagn   0.963803
+		colorDistFreq   2.35395e-007
+		detailScale     0.484924
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0318318
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.724779
+		terraceProb     0.394126
+		erosion         0
+		montesMagn      0.566234
+		montesFreq      3.01152
+		montesSpiky     0.615049
+		montesFraction  0.383214
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       6.39021e-007
+		hillsFraction   0.646934
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.251744
+		craterFreq      0.21427
+		craterDensity   1.06903
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.579262
+		volcanoTemp     1399.88
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.239, 0.181, 0.126, 0.000)
+		colorShelf     (0.245, 0.187, 0.144, 0.000)
+		colorBeach     (0.288, 0.219, 0.171, 0.000)
+		colorDesert    (0.312, 0.235, 0.167, 0.000)
+		colorLowland   (0.343, 0.251, 0.189, 0.000)
+		colorUpland    (0.379, 0.304, 0.230, 0.000)
+		colorRock      (0.410, 0.331, 0.248, 0.000)
+		colorSnow      (0.447, 0.352, 0.261, 1.000)
+		BumpHeight      0.0159826
+		BumpOffset      0.00319652
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010613
+		Period          0.102803
+		Eccentricity    0.0847946
+		Inclination     -1.58466
+		AscendingNode   -109.716
+		ArgOfPericenter 173.583
+		MeanAnomaly     -177.488
+	}
+}
+
+Asteroid	"T148"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.66528e-014
+	Radius          0.229851
+	InertiaMoment   0.396967
+
+	RotationPeriod  7496.75
+	Obliquity       -3.0305
+	EqAscendNode    36.1554
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.526 0.521 0.518)
+
+	Surface
+	{
+		SurfStyle       0.412078
+		OceanStyle      0.29174
+		Randomize      (-0.735, -0.680, 0.358)
+		colorDistMagn   0.650602
+		colorDistFreq   2.72294e-005
+		detailScale     6.27646
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.100389
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.604778
+		terraceProb     0.684916
+		erosion         0
+		montesMagn      0.553319
+		montesFreq      2.67504
+		montesSpiky     0.947278
+		montesFraction  0.244525
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000105158
+		hillsFraction   0.755647
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.216913
+		craterFreq      0.239267
+		craterDensity   0.967322
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.498456
+		volcanoTemp     1589.7
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.210, 0.209, 0.207, 0.000)
+		colorShelf     (0.224, 0.222, 0.220, 0.000)
+		colorBeach     (0.237, 0.235, 0.233, 0.000)
+		colorDesert    (0.250, 0.248, 0.246, 0.000)
+		colorLowland   (0.263, 0.261, 0.259, 0.000)
+		colorUpland    (0.276, 0.274, 0.272, 0.000)
+		colorRock      (0.289, 0.287, 0.285, 0.000)
+		colorSnow      (0.303, 0.300, 0.298, 1.000)
+		BumpHeight      0.206866
+		BumpOffset      0.0413731
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014313
+		Period          0.142538
+		Eccentricity    0.0986596
+		Inclination     -3.0305
+		AscendingNode   36.1554
+		ArgOfPericenter -175.58
+		MeanAnomaly     54.9701
+	}
+}
+
+Asteroid	"T149"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.92211e-011
+	Radius          2.04541
+	InertiaMoment   0.398607
+
+	RotationPeriod  5385.02
+	Obliquity       -6.24441
+	EqAscendNode    145.572
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.569 0.566 0.564)
+
+	Surface
+	{
+		SurfStyle       0.160585
+		OceanStyle      0.0117834
+		Randomize      (-0.421, -0.410, 0.466)
+		colorDistMagn   0.958718
+		colorDistFreq   0.00160983
+		detailScale     55.8532
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0643457
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.478394
+		terraceProb     0.194265
+		erosion         0
+		montesMagn      0.646333
+		montesFreq      2.88549
+		montesSpiky     0.850947
+		montesFraction  0.63516
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00890334
+		hillsFraction   0.697251
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.206749
+		craterFreq      0.225731
+		craterDensity   0.979271
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.571977
+		volcanoTemp     1668.54
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.228, 0.226, 0.226, 0.000)
+		colorShelf     (0.242, 0.240, 0.240, 0.000)
+		colorBeach     (0.256, 0.255, 0.254, 0.000)
+		colorDesert    (0.270, 0.269, 0.268, 0.000)
+		colorLowland   (0.285, 0.283, 0.282, 0.000)
+		colorUpland    (0.299, 0.297, 0.296, 0.000)
+		colorRock      (0.313, 0.311, 0.310, 0.000)
+		colorSnow      (0.327, 0.325, 0.324, 1.000)
+		BumpHeight      1.84087
+		BumpOffset      0.368173
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010017
+		Period          0.102387
+		Eccentricity    0.0787638
+		Inclination     -6.24441
+		AscendingNode   145.572
+		ArgOfPericenter -106.606
+		MeanAnomaly     19.3663
+	}
+}
+
+Asteroid	"T150"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.77158e-008
+	Radius          26.1292
+	InertiaMoment   0.399604
+
+	RotationPeriod  1600.88
+	Obliquity       0.128144
+	EqAscendNode    63.7676
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.464 0.398 0.373)
+
+	Surface
+	{
+		SurfStyle       0.990315
+		OceanStyle      0.529464
+		Randomize      (-0.063, 0.774, -0.667)
+		colorDistMagn   0.825742
+		colorDistFreq   0.594068
+		detailScale     713.501
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00379793
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.37342
+		terraceProb     0.313013
+		erosion         0
+		montesMagn      0.455104
+		montesFreq      3.13421
+		montesSpiky     0.911795
+		montesFraction  0.919119
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.85986
+		hillsFraction   0.848098
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.268752
+		craterFreq      0.216296
+		craterDensity   0.775525
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.557308
+		volcanoTemp     1851.5
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.158, 0.139, 0.149, 0.050)
+		colorShelf     (0.185, 0.163, 0.172, 0.040)
+		colorBeach     (0.213, 0.187, 0.194, 0.030)
+		colorDesert    (0.241, 0.211, 0.220, 0.020)
+		colorLowland   (0.269, 0.235, 0.243, 0.030)
+		colorUpland    (0.297, 0.258, 0.265, 0.050)
+		colorRock      (0.324, 0.282, 0.295, 0.020)
+		colorSnow      (0.324, 0.282, 0.295, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013853
+		Period          0.0913139
+		Eccentricity    0.11126
+		Inclination     0.128144
+		AscendingNode   63.7676
+		ArgOfPericenter 107.417
+		MeanAnomaly     -151.045
+	}
+}
+
+Asteroid	"T151"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.38121e-016
+	Radius          0.0471092
+	InertiaMoment   0.397435
+
+	RotationPeriod  2729.97
+	Obliquity       0.764384
+	EqAscendNode    24.1294
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.467 0.462 0.456)
+
+	Surface
+	{
+		SurfStyle       0.625015
+		OceanStyle      0.56709
+		Randomize      (0.498, -0.219, 0.602)
+		colorDistMagn   0.988577
+		colorDistFreq   1.13778e-006
+		detailScale     1.2864
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.02609
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.539704
+		terraceProb     0.487495
+		erosion         0
+		montesMagn      0.682537
+		montesFreq      1.76108
+		montesSpiky     0.939481
+		montesFraction  0.693417
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       6.6015e-006
+		hillsFraction   0.81607
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.252541
+		craterFreq      0.221239
+		craterDensity   1.00478
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.465471
+		volcanoTemp     1481.59
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.182, 0.157, 0.128, 0.000)
+		colorShelf     (0.187, 0.162, 0.146, 0.000)
+		colorBeach     (0.220, 0.189, 0.173, 0.000)
+		colorDesert    (0.238, 0.203, 0.169, 0.000)
+		colorLowland   (0.262, 0.217, 0.191, 0.000)
+		colorUpland    (0.290, 0.263, 0.232, 0.000)
+		colorRock      (0.313, 0.286, 0.251, 0.000)
+		colorSnow      (0.341, 0.305, 0.264, 1.000)
+		BumpHeight      0.0423983
+		BumpOffset      0.00847966
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012053
+		Period          0.103811
+		Eccentricity    0.153306
+		Inclination     0.764384
+		AscendingNode   24.1294
+		ArgOfPericenter -83.2024
+		MeanAnomaly     103.115
+	}
+}
+
+Asteroid	"T152"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.97561e-013
+	Radius          0.609742
+	InertiaMoment   0.398824
+
+	Obliquity       -2.03582
+	EqAscendNode    177.621
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.723 0.719 0.717)
+
+	Surface
+	{
+		SurfStyle       0.95634
+		OceanStyle      0.59937
+		Randomize      (0.228, 0.373, 0.875)
+		colorDistMagn   0.440582
+		colorDistFreq   0.000323902
+		detailScale     16.65
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00146484
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.550967
+		terraceProb     0.262979
+		erosion         0
+		montesMagn      0.447359
+		montesFreq      3.23225
+		montesSpiky     0.942126
+		montesFraction  0.61587
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000883158
+		hillsFraction   0.459347
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.232979
+		craterFreq      0.219211
+		craterDensity   0.856556
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.541831
+		volcanoTemp     1525
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.246, 0.252, 0.287, 0.050)
+		colorShelf     (0.289, 0.295, 0.330, 0.040)
+		colorBeach     (0.333, 0.338, 0.373, 0.030)
+		colorDesert    (0.376, 0.381, 0.423, 0.020)
+		colorLowland   (0.420, 0.424, 0.466, 0.030)
+		colorUpland    (0.463, 0.467, 0.509, 0.050)
+		colorRock      (0.506, 0.510, 0.566, 0.020)
+		colorSnow      (0.506, 0.510, 0.566, 1.000)
+		BumpHeight      0.548767
+		BumpOffset      0.109753
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017242
+		Period          0.0504417
+		Eccentricity    0.0234856
+		Inclination     -2.03582
+		AscendingNode   177.621
+		ArgOfPericenter -49.2819
+		MeanAnomaly     -43.5552
+	}
+}
+
+Asteroid	"T153"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            7.32189e-010
+	Radius          5.42593
+	InertiaMoment   0.399782
+
+	Obliquity       3.21701
+	EqAscendNode    109.899
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.730 0.727 0.723)
+
+	Surface
+	{
+		SurfStyle       0.549738
+		OceanStyle      0.127634
+		Randomize      (-0.459, 0.014, 0.659)
+		colorDistMagn   0.674179
+		colorDistFreq   0.0100413
+		detailScale     148.164
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0644233
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.329875
+		terraceProb     0.439278
+		erosion         0
+		montesMagn      0.55598
+		montesFreq      3.66709
+		montesSpiky     0.755414
+		montesFraction  0.433547
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.069031
+		hillsFraction   0.469886
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.276682
+		craterFreq      0.15687
+		craterDensity   0.95324
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.442159
+		volcanoTemp     1857.62
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.285, 0.247, 0.202, 0.000)
+		colorShelf     (0.292, 0.255, 0.231, 0.000)
+		colorBeach     (0.343, 0.298, 0.275, 0.000)
+		colorDesert    (0.373, 0.320, 0.268, 0.000)
+		colorLowland   (0.409, 0.342, 0.304, 0.000)
+		colorUpland    (0.453, 0.415, 0.369, 0.000)
+		colorRock      (0.489, 0.451, 0.398, 0.000)
+		colorSnow      (0.533, 0.480, 0.419, 1.000)
+		BumpHeight      4.88334
+		BumpOffset      0.976668
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01227
+		Period          0.125707
+		Eccentricity    0.0591432
+		Inclination     3.21701
+		AscendingNode   109.899
+		ArgOfPericenter -115.735
+		MeanAnomaly     -51.593
+	}
+}
+
+Asteroid	"T154"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.28942e-018
+	Radius          0.0109871
+	InertiaMoment   0.397794
+
+	Obliquity       0.572957
+	EqAscendNode    -82.9418
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.798 0.797 0.795)
+
+	Surface
+	{
+		SurfStyle       0.737016
+		OceanStyle      0.0397076
+		Randomize      (0.562, 0.136, 0.683)
+		colorDistMagn   0.136346
+		colorDistFreq   6.84379e-008
+		detailScale     0.30002
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0149859
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.414028
+		terraceProb     0.320667
+		erosion         0
+		montesMagn      0.498771
+		montesFreq      2.49585
+		montesSpiky     0.915557
+		montesFraction  0.193073
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.06889e-007
+		hillsFraction   0.505026
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.244428
+		craterFreq      0.276795
+		craterDensity   0.961981
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.5812
+		volcanoTemp     1734.09
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.311, 0.271, 0.223, 0.000)
+		colorShelf     (0.319, 0.279, 0.254, 0.000)
+		colorBeach     (0.375, 0.327, 0.302, 0.000)
+		colorDesert    (0.407, 0.350, 0.294, 0.000)
+		colorLowland   (0.447, 0.374, 0.334, 0.000)
+		colorUpland    (0.495, 0.454, 0.405, 0.000)
+		colorRock      (0.535, 0.494, 0.437, 0.000)
+		colorSnow      (0.583, 0.526, 0.461, 1.000)
+		BumpHeight      0.00988836
+		BumpOffset      0.00197767
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014431
+		Period          0.0985123
+		Eccentricity    0.112641
+		Inclination     0.572957
+		AscendingNode   -82.9418
+		ArgOfPericenter 40.7315
+		MeanAnomaly     -126.475
+	}
+}
+
+Asteroid	"T155"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.31212e-015
+	Radius          0.142208
+	InertiaMoment   0.399027
+
+	RotationPeriod  320.035
+	Obliquity       0.00910704
+	EqAscendNode    -44.4335
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.654 0.652 0.650)
+
+	Surface
+	{
+		SurfStyle       0.925531
+		OceanStyle      0.450336
+		Randomize      (-0.255, -0.679, 0.845)
+		colorDistMagn   0.330411
+		colorDistFreq   1.29484e-005
+		detailScale     3.88322
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.000345267
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.507812
+		terraceProb     0.472749
+		erosion         0
+		montesMagn      0.474988
+		montesFreq      2.16039
+		montesSpiky     0.857332
+		montesFraction  0.456581
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       4.4984e-005
+		hillsFraction   0.801192
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.249016
+		craterFreq      0.256541
+		craterDensity   0.819561
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.437145
+		volcanoTemp     1525.45
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.222, 0.228, 0.260, 0.050)
+		colorShelf     (0.262, 0.267, 0.299, 0.040)
+		colorBeach     (0.301, 0.306, 0.338, 0.030)
+		colorDesert    (0.340, 0.345, 0.383, 0.020)
+		colorLowland   (0.379, 0.385, 0.422, 0.030)
+		colorUpland    (0.418, 0.424, 0.461, 0.050)
+		colorRock      (0.458, 0.463, 0.513, 0.020)
+		colorSnow      (0.458, 0.463, 0.513, 1.000)
+		BumpHeight      0.127987
+		BumpOffset      0.0255974
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014974
+		Period          0.0547643
+		Eccentricity    0.0755703
+		Inclination     0.00910704
+		AscendingNode   -44.4334
+		ArgOfPericenter -90.4789
+		MeanAnomaly     -42.6652
+	}
+}
+
+Asteroid	"T156"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            9.28862e-012
+	Radius          1.26549
+	InertiaMoment   0.399958
+
+	Obliquity       0.923842
+	EqAscendNode    -81.9093
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.614 0.613 0.609)
+
+	Surface
+	{
+		SurfStyle       0.343972
+		OceanStyle      0.819711
+		Randomize      (-0.508, 0.086, -0.768)
+		colorDistMagn   0.473634
+		colorDistFreq   0.00110922
+		detailScale     34.5563
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0243511
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.411118
+		terraceProb     0.167245
+		erosion         0
+		montesMagn      0.505562
+		montesFreq      3.02552
+		montesSpiky     0.944104
+		montesFraction  0.518155
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00347475
+		hillsFraction   0.461731
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.234696
+		craterFreq      0.23502
+		craterDensity   0.738331
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.487377
+		volcanoTemp     1488.53
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.246, 0.245, 0.244, 0.000)
+		colorShelf     (0.261, 0.260, 0.259, 0.000)
+		colorBeach     (0.277, 0.276, 0.274, 0.000)
+		colorDesert    (0.292, 0.291, 0.289, 0.000)
+		colorLowland   (0.307, 0.306, 0.305, 0.000)
+		colorUpland    (0.323, 0.322, 0.320, 0.000)
+		colorRock      (0.338, 0.337, 0.335, 0.000)
+		colorSnow      (0.353, 0.352, 0.350, 1.000)
+		BumpHeight      1.13894
+		BumpOffset      0.227788
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015803
+		Period          0.0926271
+		Eccentricity    0.0345299
+		Inclination     0.923842
+		AscendingNode   -81.9093
+		ArgOfPericenter 178.768
+		MeanAnomaly     56.6536
+	}
+}
+
+Asteroid	"T157"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.36687e-008
+	Radius          16.1669
+	InertiaMoment   0.398092
+
+	RotationPeriod  1192.1
+	Obliquity       -0.179596
+	EqAscendNode    -169.858
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.550 0.543 0.541)
+
+	Surface
+	{
+		SurfStyle       0.981231
+		OceanStyle      0.331578
+		Randomize      (0.160, -0.971, 0.118)
+		colorDistMagn   0.80896
+		colorDistFreq   0.0321482
+		detailScale     441.464
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00059802
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.560748
+		terraceProb     0.436671
+		erosion         0
+		montesMagn      0.475821
+		montesFreq      3.01327
+		montesSpiky     0.819513
+		montesFraction  0.292583
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.691902
+		hillsFraction   0.380603
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.186498
+		craterFreq      0.22317
+		craterDensity   1.05794
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.541083
+		volcanoTemp     1822.84
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.187, 0.190, 0.216, 0.050)
+		colorShelf     (0.220, 0.223, 0.249, 0.040)
+		colorBeach     (0.253, 0.255, 0.281, 0.030)
+		colorDesert    (0.286, 0.288, 0.319, 0.020)
+		colorLowland   (0.319, 0.320, 0.351, 0.030)
+		colorUpland    (0.352, 0.353, 0.384, 0.050)
+		colorRock      (0.385, 0.385, 0.427, 0.020)
+		colorSnow      (0.385, 0.385, 0.427, 1.000)
+		BumpHeight      14.5502
+		BumpOffset      2.91004
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019456
+		Period          0.101996
+		Eccentricity    0.0738035
+		Inclination     -0.179596
+		AscendingNode   -169.858
+		ArgOfPericenter -64.4715
+		MeanAnomaly     -90.5734
+	}
+}
+
+Asteroid	"T158"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            8.00763e-017
+	Radius          0.0331665
+	InertiaMoment   0.399221
+
+	RotationPeriod  1045.58
+	Obliquity       -3.63251
+	EqAscendNode    -87.791
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.808 0.774 0.733)
+
+	Surface
+	{
+		SurfStyle       0.794158
+		OceanStyle      0.31748
+		Randomize      (-0.851, 0.188, -0.264)
+		colorDistMagn   0.714676
+		colorDistFreq   2.5518e-007
+		detailScale     0.905665
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0912153
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.483763
+		terraceProb     0.540406
+		erosion         0
+		montesMagn      0.512182
+		montesFreq      2.35266
+		montesSpiky     0.983129
+		montesFraction  0.178905
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.38097e-006
+		hillsFraction   0.554483
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.229883
+		craterFreq      0.24112
+		craterDensity   0.76181
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.592942
+		volcanoTemp     1367.34
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.315, 0.263, 0.205, 0.000)
+		colorShelf     (0.323, 0.271, 0.235, 0.000)
+		colorBeach     (0.380, 0.318, 0.279, 0.000)
+		colorDesert    (0.412, 0.341, 0.271, 0.000)
+		colorLowland   (0.452, 0.364, 0.308, 0.000)
+		colorUpland    (0.501, 0.441, 0.374, 0.000)
+		colorRock      (0.541, 0.480, 0.403, 0.000)
+		colorSnow      (0.590, 0.511, 0.425, 1.000)
+		BumpHeight      0.0298498
+		BumpOffset      0.00596996
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011084
+		Period          0.0894594
+		Eccentricity    0.0923321
+		Inclination     -3.63251
+		AscendingNode   -87.791
+		ArgOfPericenter 70.2351
+		MeanAnomaly     137.695
+	}
+}
+
+Asteroid	"T159"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.17837e-013
+	Radius          0.295145
+	InertiaMoment   0.396142
+
+	RotationPeriod  1142.41
+	Obliquity       -2.28792
+	EqAscendNode    163.596
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.426 0.420 0.416)
+
+	Surface
+	{
+		SurfStyle       0.0789118
+		OceanStyle      0.852965
+		Randomize      (0.029, -0.981, 0.196)
+		colorDistMagn   0.804045
+		colorDistFreq   5.62035e-005
+		detailScale     8.05943
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0113884
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.665577
+		terraceProb     0.404705
+		erosion         0
+		montesMagn      0.640299
+		montesFreq      3.13244
+		montesSpiky     0.985297
+		montesFraction  0.500757
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000153628
+		hillsFraction   0.657757
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.247131
+		craterFreq      0.197947
+		craterDensity   1.02787
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.475703
+		volcanoTemp     1399.89
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.170, 0.168, 0.166, 0.000)
+		colorShelf     (0.181, 0.178, 0.177, 0.000)
+		colorBeach     (0.192, 0.189, 0.187, 0.000)
+		colorDesert    (0.202, 0.199, 0.197, 0.000)
+		colorLowland   (0.213, 0.210, 0.208, 0.000)
+		colorUpland    (0.224, 0.220, 0.218, 0.000)
+		colorRock      (0.234, 0.231, 0.229, 0.000)
+		colorSnow      (0.245, 0.241, 0.239, 1.000)
+		BumpHeight      0.265631
+		BumpOffset      0.0531261
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01383
+		Period          0.0781957
+		Eccentricity    0.145337
+		Inclination     -2.28792
+		AscendingNode   163.596
+		ArgOfPericenter -56.646
+		MeanAnomaly     -143.409
+	}
+}
+
+Asteroid	"T160"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.73402e-010
+	Radius          3.77075
+	InertiaMoment   0.398354
+
+	Obliquity       -5.70333
+	EqAscendNode    77.4198
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.575 0.501 0.371)
+
+	Surface
+	{
+		SurfStyle       0.34492
+		OceanStyle      0.878937
+		Randomize      (0.962, 0.803, 0.489)
+		colorDistMagn   0.429346
+		colorDistFreq   0.00736073
+		detailScale     102.967
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.154626
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.685368
+		terraceProb     0.447328
+		erosion         0
+		montesMagn      0.428269
+		montesFreq      3.92679
+		montesSpiky     0.949644
+		montesFraction  0.442913
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0247049
+		hillsFraction   0.501747
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.270375
+		craterFreq      0.240731
+		craterDensity   0.880863
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.415975
+		volcanoTemp     1326.52
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.230, 0.200, 0.148, 0.000)
+		colorShelf     (0.244, 0.213, 0.157, 0.000)
+		colorBeach     (0.259, 0.225, 0.167, 0.000)
+		colorDesert    (0.273, 0.238, 0.176, 0.000)
+		colorLowland   (0.288, 0.250, 0.185, 0.000)
+		colorUpland    (0.302, 0.263, 0.195, 0.000)
+		colorRock      (0.316, 0.275, 0.204, 0.000)
+		colorSnow      (0.331, 0.288, 0.213, 1.000)
+		BumpHeight      3.39368
+		BumpOffset      0.678736
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011744
+		Period          0.0586445
+		Eccentricity    0.11681
+		Inclination     -5.70333
+		AscendingNode   77.4198
+		ArgOfPericenter 69.8976
+		MeanAnomaly     126.556
+	}
+}
+
+Asteroid	"T161"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.55171e-007
+	Radius          48.7952
+	InertiaMoment   0.399408
+
+	Obliquity       -7.11439
+	EqAscendNode    75.0641
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.733 0.728 0.726)
+
+	Surface
+	{
+		SurfStyle       0.78438
+		OceanStyle      0.554523
+		Randomize      (0.102, -0.070, -0.684)
+		colorDistMagn   0.181019
+		colorDistFreq   1.70173
+		detailScale     1332.44
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.195481
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.530341
+		terraceProb     0.209445
+		erosion         0
+		montesMagn      0.554741
+		montesFreq      3.12409
+		montesSpiky     0.969013
+		montesFraction  0.582171
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       5.40081
+		hillsFraction   0.603286
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.237099
+		craterFreq      0.228172
+		craterDensity   0.824184
+		craterOctaves   14
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.486979
+		volcanoTemp     1412.58
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.286, 0.247, 0.203, 0.000)
+		colorShelf     (0.293, 0.255, 0.232, 0.000)
+		colorBeach     (0.344, 0.298, 0.276, 0.000)
+		colorDesert    (0.374, 0.320, 0.269, 0.000)
+		colorLowland   (0.410, 0.342, 0.305, 0.000)
+		colorUpland    (0.454, 0.415, 0.370, 0.000)
+		colorRock      (0.491, 0.451, 0.399, 0.000)
+		colorSnow      (0.535, 0.480, 0.421, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011109
+		Period          0.0828858
+		Eccentricity    0.0772993
+		Inclination     -7.11439
+		AscendingNode   75.0641
+		ArgOfPericenter -71.9399
+		MeanAnomaly     -158.394
+	}
+}
+
+Asteroid	"T162"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.49488e-015
+	Radius          0.0688354
+	InertiaMoment   0.396923
+
+	Obliquity       4.25311
+	EqAscendNode    -179.735
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.549 0.405 0.352)
+
+	Surface
+	{
+		SurfStyle       0.33475
+		OceanStyle      0.430138
+		Randomize      (-0.305, -0.812, 0.758)
+		colorDistMagn   0.562927
+		colorDistFreq   3.20651e-006
+		detailScale     1.87967
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.000345267
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.630725
+		terraceProb     0.277657
+		erosion         0
+		montesMagn      0.598122
+		montesFreq      3.06944
+		montesSpiky     0.682376
+		montesFraction  0.596342
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.189e-005
+		hillsFraction   0.478677
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.230157
+		craterFreq      0.251999
+		craterDensity   0.846063
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.426518
+		volcanoTemp     1478.7
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.219, 0.162, 0.141, 0.000)
+		colorShelf     (0.233, 0.172, 0.149, 0.000)
+		colorBeach     (0.247, 0.182, 0.158, 0.000)
+		colorDesert    (0.261, 0.192, 0.167, 0.000)
+		colorLowland   (0.274, 0.203, 0.176, 0.000)
+		colorUpland    (0.288, 0.213, 0.185, 0.000)
+		colorRock      (0.302, 0.223, 0.193, 0.000)
+		colorSnow      (0.315, 0.233, 0.202, 1.000)
+		BumpHeight      0.0619519
+		BumpOffset      0.0123904
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010595
+		Period          0.0761409
+		Eccentricity    0.176016
+		Inclination     4.25311
+		AscendingNode   -179.735
+		ArgOfPericenter 89.827
+		MeanAnomaly     -121.329
+	}
+}
+
+Asteroid	"T163"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.1998e-012
+	Radius          0.879445
+	InertiaMoment   0.39859
+
+	RotationPeriod  1211.63
+	Obliquity       2.17108
+	EqAscendNode    -81.9461
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.577 0.501 0.448)
+
+	Surface
+	{
+		SurfStyle       0.698541
+		OceanStyle      0.585281
+		Randomize      (-0.557, -0.812, -0.020)
+		colorDistMagn   0.816121
+		colorDistFreq   0.000479406
+		detailScale     24.0147
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0571816
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.513819
+		terraceProb     0.641355
+		erosion         0
+		montesMagn      0.641305
+		montesFreq      3.0124
+		montesSpiky     0.995638
+		montesFraction  0.49642
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00186753
+		hillsFraction   0.746535
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.231258
+		craterFreq      0.177033
+		craterDensity   1.03077
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.590756
+		volcanoTemp     1620.98
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.225, 0.170, 0.125, 0.000)
+		colorShelf     (0.231, 0.175, 0.143, 0.000)
+		colorBeach     (0.271, 0.205, 0.170, 0.000)
+		colorDesert    (0.294, 0.220, 0.166, 0.000)
+		colorLowland   (0.323, 0.235, 0.188, 0.000)
+		colorUpland    (0.358, 0.285, 0.229, 0.000)
+		colorRock      (0.386, 0.310, 0.246, 0.000)
+		colorSnow      (0.421, 0.330, 0.260, 1.000)
+		BumpHeight      0.791501
+		BumpOffset      0.1583
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011846
+		Period          0.103666
+		Eccentricity    0.0724092
+		Inclination     2.17108
+		AscendingNode   -81.9461
+		ArgOfPericenter -22.1478
+		MeanAnomaly     -33.4005
+	}
+}
+
+Asteroid	"T164"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.23712e-009
+	Radius          11.3824
+	InertiaMoment   0.39959
+
+	RotationPeriod  1427.81
+	Obliquity       0.315684
+	EqAscendNode    137.784
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.582 0.576 0.574)
+
+	Surface
+	{
+		SurfStyle       0.277276
+		OceanStyle      0.24903
+		Randomize      (-0.415, -0.852, 0.911)
+		colorDistMagn   0.917645
+		colorDistFreq   0.0980417
+		detailScale     310.815
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00396681
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.411606
+		terraceProb     0.362097
+		erosion         0
+		montesMagn      0.463668
+		montesFreq      3.25588
+		montesSpiky     0.934106
+		montesFraction  0.590027
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.316692
+		hillsFraction   0.627486
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.22663
+		craterFreq      0.247929
+		craterDensity   0.87419
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.55455
+		volcanoTemp     1574.24
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.233, 0.230, 0.229, 0.000)
+		colorShelf     (0.247, 0.245, 0.244, 0.000)
+		colorBeach     (0.262, 0.259, 0.258, 0.000)
+		colorDesert    (0.276, 0.274, 0.273, 0.000)
+		colorLowland   (0.291, 0.288, 0.287, 0.000)
+		colorUpland    (0.305, 0.302, 0.301, 0.000)
+		colorRock      (0.320, 0.317, 0.316, 0.000)
+		colorSnow      (0.334, 0.331, 0.330, 1.000)
+		BumpHeight      10.2442
+		BumpOffset      2.04883
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013295
+		Period          0.0977308
+		Eccentricity    0.141143
+		Inclination     0.315684
+		AscendingNode   137.784
+		ArgOfPericenter -54.8357
+		MeanAnomaly     -125.547
+	}
+}
+
+Asteroid	"T165"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.89642e-017
+	Radius          0.0160542
+	InertiaMoment   0.397404
+
+	Obliquity       -6.50361
+	EqAscendNode    -104.81
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.771 0.730 0.680)
+
+	Surface
+	{
+		SurfStyle       0.550257
+		OceanStyle      0.276648
+		Randomize      (-0.052, 0.230, -0.597)
+		colorDistMagn   0.865318
+		colorDistFreq   4.09962e-008
+		detailScale     0.438386
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.137871
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.486869
+		terraceProb     0.567291
+		erosion         0
+		montesMagn      0.420144
+		montesFreq      2.71783
+		montesSpiky     0.982947
+		montesFraction  0.330479
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       6.59495e-007
+		hillsFraction   0.641354
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.23735
+		craterFreq      0.167694
+		craterDensity   0.874077
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.476093
+		volcanoTemp     1203.93
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.301, 0.248, 0.190, 0.000)
+		colorShelf     (0.308, 0.255, 0.218, 0.000)
+		colorBeach     (0.362, 0.299, 0.258, 0.000)
+		colorDesert    (0.393, 0.321, 0.252, 0.000)
+		colorLowland   (0.432, 0.343, 0.286, 0.000)
+		colorUpland    (0.478, 0.416, 0.347, 0.000)
+		colorRock      (0.517, 0.452, 0.374, 0.000)
+		colorSnow      (0.563, 0.482, 0.395, 1.000)
+		BumpHeight      0.0144488
+		BumpOffset      0.00288975
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017412
+		Period          0.114766
+		Eccentricity    0.0588662
+		Inclination     -6.50361
+		AscendingNode   -104.81
+		ArgOfPericenter 175.715
+		MeanAnomaly     -49.5101
+	}
+}
+
+Asteroid	"T166"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.79069e-014
+	Radius          0.205109
+	InertiaMoment   0.398807
+
+	RotationPeriod  717.005
+	Obliquity       -3.38274
+	EqAscendNode    -45.4815
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.557 0.403 0.324)
+
+	Surface
+	{
+		SurfStyle       0.907857
+		OceanStyle      0.175571
+		Randomize      (-0.060, 0.251, -0.210)
+		colorDistMagn   0.431065
+		colorDistFreq   6.27843e-006
+		detailScale     5.60086
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.108676
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.482629
+		terraceProb     0.372883
+		erosion         0
+		montesMagn      0.481341
+		montesFreq      3.145
+		montesSpiky     0.932195
+		montesFraction  0.615284
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       9.72283e-005
+		hillsFraction   0.761595
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.245953
+		craterFreq      0.256401
+		craterDensity   0.960708
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.554673
+		volcanoTemp     1639.13
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.190, 0.141, 0.129, 0.050)
+		colorShelf     (0.223, 0.165, 0.149, 0.040)
+		colorBeach     (0.256, 0.189, 0.168, 0.030)
+		colorDesert    (0.290, 0.214, 0.191, 0.020)
+		colorLowland   (0.323, 0.238, 0.210, 0.030)
+		colorUpland    (0.357, 0.262, 0.230, 0.050)
+		colorRock      (0.390, 0.286, 0.256, 0.020)
+		colorSnow      (0.390, 0.286, 0.256, 1.000)
+		BumpHeight      0.184598
+		BumpOffset      0.0369197
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018223
+		Period          0.122694
+		Eccentricity    0.166388
+		Inclination     -3.38274
+		AscendingNode   -45.4815
+		ArgOfPericenter 140.965
+		MeanAnomaly     6.16915
+	}
+}
+
+Asteroid	"T167"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.10665e-011
+	Radius          2.65475
+	InertiaMoment   0.399768
+
+	Obliquity       2.36613
+	EqAscendNode    168.817
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.579 0.576 0.574)
+
+	Surface
+	{
+		SurfStyle       0.755411
+		OceanStyle      0.237359
+		Randomize      (0.973, -0.756, 0.842)
+		colorDistMagn   0.900457
+		colorDistFreq   0.00364115
+		detailScale     72.4924
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00804547
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.391394
+		terraceProb     0.535825
+		erosion         0
+		montesMagn      0.44158
+		montesFreq      2.75456
+		montesSpiky     0.94515
+		montesFraction  0.303234
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0133564
+		hillsFraction   0.712131
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.234087
+		craterFreq      0.215513
+		craterDensity   0.755158
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.396725
+		volcanoTemp     1418.77
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.226, 0.196, 0.161, 0.000)
+		colorShelf     (0.232, 0.201, 0.184, 0.000)
+		colorBeach     (0.272, 0.236, 0.218, 0.000)
+		colorDesert    (0.295, 0.253, 0.212, 0.000)
+		colorLowland   (0.324, 0.271, 0.241, 0.000)
+		colorUpland    (0.359, 0.328, 0.293, 0.000)
+		colorRock      (0.388, 0.357, 0.316, 0.000)
+		colorSnow      (0.423, 0.380, 0.333, 1.000)
+		BumpHeight      2.38928
+		BumpOffset      0.477855
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01149
+		Period          0.132661
+		Eccentricity    0.118071
+		Inclination     2.36613
+		AscendingNode   168.817
+		ArgOfPericenter -160.785
+		MeanAnomaly     54.1
+	}
+}
+
+Asteroid	"T168"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.04315e-008
+	Radius          23.6216
+	InertiaMoment   0.397768
+
+	Obliquity       -3.93219
+	EqAscendNode    144.208
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.666 0.663 0.661)
+
+	Surface
+	{
+		SurfStyle       0.441664
+		OceanStyle      0.313569
+		Randomize      (-0.949, -0.200, 0.864)
+		colorDistMagn   0.294322
+		colorDistFreq   0.326059
+		detailScale     645.026
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0421358
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.61555
+		terraceProb     0.296413
+		erosion         0
+		montesMagn      0.524128
+		montesFreq      2.41378
+		montesSpiky     0.842947
+		montesFraction  0.314326
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.845665
+		hillsFraction   0.660881
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.234526
+		craterFreq      0.150291
+		craterDensity   0.891314
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.573322
+		volcanoTemp     1444.79
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.267, 0.265, 0.264, 0.000)
+		colorShelf     (0.283, 0.282, 0.281, 0.000)
+		colorBeach     (0.300, 0.298, 0.297, 0.000)
+		colorDesert    (0.316, 0.315, 0.314, 0.000)
+		colorLowland   (0.333, 0.331, 0.330, 0.000)
+		colorUpland    (0.350, 0.348, 0.347, 0.000)
+		colorRock      (0.366, 0.365, 0.364, 0.000)
+		colorSnow      (0.383, 0.381, 0.380, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019661
+		Period          0.0755509
+		Eccentricity    0.109861
+		Inclination     -3.93219
+		AscendingNode   144.208
+		ArgOfPericenter 33.758
+		MeanAnomaly     66.9213
+	}
+}
+
+Asteroid	"T169"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.5403e-016
+	Radius          0.0478367
+	InertiaMoment   0.399012
+
+	RotationPeriod  1160.14
+	Obliquity       2.00015
+	EqAscendNode    24.7664
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.690 0.685 0.681)
+
+	Surface
+	{
+		SurfStyle       0.202546
+		OceanStyle      0.792362
+		Randomize      (0.472, -0.685, 0.876)
+		colorDistMagn   0.46824
+		colorDistFreq   1.31587e-006
+		detailScale     1.30626
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0681408
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.657646
+		terraceProb     0.538381
+		erosion         0
+		montesMagn      0.656092
+		montesFreq      2.33639
+		montesSpiky     0.985236
+		montesFraction  0.161174
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       4.61094e-006
+		hillsFraction   0.400627
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.227922
+		craterFreq      0.22765
+		craterDensity   0.715719
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.512037
+		volcanoTemp     1519.53
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.276, 0.274, 0.272, 0.000)
+		colorShelf     (0.293, 0.291, 0.289, 0.000)
+		colorBeach     (0.311, 0.308, 0.307, 0.000)
+		colorDesert    (0.328, 0.325, 0.324, 0.000)
+		colorLowland   (0.345, 0.343, 0.341, 0.000)
+		colorUpland    (0.362, 0.360, 0.358, 0.000)
+		colorRock      (0.380, 0.377, 0.375, 0.000)
+		colorSnow      (0.397, 0.394, 0.392, 1.000)
+		BumpHeight      0.0430531
+		BumpOffset      0.00861061
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015516
+		Period          0.0992614
+		Eccentricity    0.116247
+		Inclination     2.00015
+		AscendingNode   24.7664
+		ArgOfPericenter -103.466
+		MeanAnomaly     1.06333
+	}
+}
+
+Asteroid	"T170"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.20973e-013
+	Radius          0.619159
+	InertiaMoment   0.399945
+
+	RotationPeriod  1114.21
+	Obliquity       4.56054
+	EqAscendNode    1.36802
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.546 0.544 0.541)
+
+	Surface
+	{
+		SurfStyle       0.182071
+		OceanStyle      0.216053
+		Randomize      (-0.101, -0.552, -0.672)
+		colorDistMagn   0.849433
+		colorDistFreq   7.49127e-005
+		detailScale     16.9072
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.15851
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.548094
+		terraceProb     0.135609
+		erosion         0
+		montesMagn      0.63554
+		montesFreq      3.03748
+		montesSpiky     0.958283
+		montesFraction  0.446488
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000909542
+		hillsFraction   0.553148
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.216966
+		craterFreq      0.195133
+		craterDensity   1.05116
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.525827
+		volcanoTemp     1447.61
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.218, 0.217, 0.216, 0.000)
+		colorShelf     (0.232, 0.231, 0.230, 0.000)
+		colorBeach     (0.246, 0.245, 0.243, 0.000)
+		colorDesert    (0.259, 0.258, 0.257, 0.000)
+		colorLowland   (0.273, 0.272, 0.270, 0.000)
+		colorUpland    (0.286, 0.285, 0.284, 0.000)
+		colorRock      (0.300, 0.299, 0.297, 0.000)
+		colorSnow      (0.314, 0.313, 0.311, 1.000)
+		BumpHeight      0.557243
+		BumpOffset      0.111449
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010791
+		Period          0.0762653
+		Eccentricity    0.0963697
+		Inclination     4.56054
+		AscendingNode   1.36802
+		ArgOfPericenter -3.51803
+		MeanAnomaly     -0.847214
+	}
+}
+
+Asteroid	"T171"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            7.6664e-010
+	Radius          5.50973
+	InertiaMoment   0.398071
+
+	RotationPeriod  1370.1
+	Obliquity       5.99635
+	EqAscendNode    17.239
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.611 0.608 0.606)
+
+	Surface
+	{
+		SurfStyle       0.995179
+		OceanStyle      0.69449
+		Randomize      (-0.354, 0.036, -0.185)
+		colorDistMagn   0.0876504
+		colorDistFreq   0.0255271
+		detailScale     150.452
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.205466
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.317922
+		terraceProb     0.177227
+		erosion         0
+		montesMagn      0.530456
+		montesFreq      2.9998
+		montesSpiky     0.985979
+		montesFraction  0.576963
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0743294
+		hillsFraction   0.580604
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.261083
+		craterFreq      0.229619
+		craterDensity   0.963141
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.471348
+		volcanoTemp     1451.29
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.208, 0.213, 0.242, 0.050)
+		colorShelf     (0.245, 0.249, 0.279, 0.040)
+		colorBeach     (0.281, 0.286, 0.315, 0.030)
+		colorDesert    (0.318, 0.322, 0.357, 0.020)
+		colorLowland   (0.355, 0.359, 0.394, 0.030)
+		colorUpland    (0.391, 0.395, 0.430, 0.050)
+		colorRock      (0.428, 0.431, 0.479, 0.020)
+		colorSnow      (0.428, 0.431, 0.479, 1.000)
+		BumpHeight      4.95875
+		BumpOffset      0.991751
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013759
+		Period          0.0781505
+		Eccentricity    0.090888
+		Inclination     5.99635
+		AscendingNode   17.239
+		ArgOfPericenter 17.6082
+		MeanAnomaly     -175.757
+	}
+}
+
+Asteroid	"T172"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.49125e-018
+	Radius          0.0111567
+	InertiaMoment   0.399206
+
+	RotationPeriod  520.767
+	Obliquity       2.85599
+	EqAscendNode    176.846
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.469 0.465 0.459)
+
+	Surface
+	{
+		SurfStyle       0.130822
+		OceanStyle      0.711047
+		Randomize      (0.910, 0.763, 0.345)
+		colorDistMagn   0.333992
+		colorDistFreq   6.96228e-008
+		detailScale     0.304654
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00274047
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.545973
+		terraceProb     0.340513
+		erosion         0
+		montesMagn      0.446918
+		montesFreq      3.5524
+		montesSpiky     0.996112
+		montesFraction  0.308523
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.69228e-007
+		hillsFraction   0.375047
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.235257
+		craterFreq      0.201183
+		craterDensity   0.693133
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.571465
+		volcanoTemp     1593.78
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.187, 0.186, 0.184, 0.000)
+		colorShelf     (0.199, 0.198, 0.195, 0.000)
+		colorBeach     (0.211, 0.209, 0.207, 0.000)
+		colorDesert    (0.223, 0.221, 0.218, 0.000)
+		colorLowland   (0.234, 0.233, 0.229, 0.000)
+		colorUpland    (0.246, 0.244, 0.241, 0.000)
+		colorRock      (0.258, 0.256, 0.252, 0.000)
+		colorSnow      (0.269, 0.267, 0.264, 1.000)
+		BumpHeight      0.0100411
+		BumpOffset      0.00200821
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010565
+		Period          0.0891134
+		Eccentricity    0.136505
+		Inclination     2.85599
+		AscendingNode   176.846
+		ArgOfPericenter 57.6974
+		MeanAnomaly     -41.3072
+	}
+}
+
+Asteroid	"T173"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.60911e-015
+	Radius          0.144404
+	InertiaMoment   0.39605
+
+	Obliquity       1.9413
+	EqAscendNode    -24.3633
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.690 0.689 0.686)
+
+	Surface
+	{
+		SurfStyle       0.327199
+		OceanStyle      0.339511
+		Randomize      (0.757, 0.785, 0.213)
+		colorDistMagn   0.810732
+		colorDistFreq   9.54575e-006
+		detailScale     3.94319
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0661893
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.323206
+		terraceProb     0.311225
+		erosion         0
+		montesMagn      0.356249
+		montesFreq      4.08123
+		montesSpiky     0.939395
+		montesFraction  0.604798
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       5.28854e-005
+		hillsFraction   0.724231
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.25769
+		craterFreq      0.219132
+		craterDensity   0.772391
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.44669
+		volcanoTemp     1610.62
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.276, 0.275, 0.274, 0.000)
+		colorShelf     (0.293, 0.293, 0.292, 0.000)
+		colorBeach     (0.311, 0.310, 0.309, 0.000)
+		colorDesert    (0.328, 0.327, 0.326, 0.000)
+		colorLowland   (0.345, 0.344, 0.343, 0.000)
+		colorUpland    (0.362, 0.362, 0.360, 0.000)
+		colorRock      (0.380, 0.379, 0.377, 0.000)
+		colorSnow      (0.397, 0.396, 0.395, 1.000)
+		BumpHeight      0.129963
+		BumpOffset      0.0259927
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015675
+		Period          0.0609383
+		Eccentricity    0.139115
+		Inclination     1.9413
+		AscendingNode   -24.3633
+		ArgOfPericenter 31.0237
+		MeanAnomaly     -16.326
+	}
+}
+
+Asteroid	"T174"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            9.72566e-012
+	Radius          1.28503
+	InertiaMoment   0.398335
+
+	Obliquity       -0.27442
+	EqAscendNode    -113.631
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.664 0.535 0.477)
+
+	Surface
+	{
+		SurfStyle       0.209486
+		OceanStyle      0.478693
+		Randomize      (-0.855, 0.678, 0.075)
+		colorDistMagn   0.547322
+		colorDistFreq   0.00112309
+		detailScale     35.0899
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00524759
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.547009
+		terraceProb     0.177968
+		erosion         0
+		montesMagn      0.620534
+		montesFreq      3.60602
+		montesSpiky     0.942957
+		montesFraction  0.777063
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00338502
+		hillsFraction   0.461167
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.251725
+		craterFreq      0.202149
+		craterDensity   1.00659
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.487293
+		volcanoTemp     1385.2
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.266, 0.214, 0.191, 0.000)
+		colorShelf     (0.282, 0.227, 0.203, 0.000)
+		colorBeach     (0.299, 0.241, 0.215, 0.000)
+		colorDesert    (0.316, 0.254, 0.227, 0.000)
+		colorLowland   (0.332, 0.267, 0.239, 0.000)
+		colorUpland    (0.349, 0.281, 0.251, 0.000)
+		colorRock      (0.365, 0.294, 0.263, 0.000)
+		colorSnow      (0.382, 0.307, 0.275, 1.000)
+		BumpHeight      1.15653
+		BumpOffset      0.231306
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011721
+		Period          0.125297
+		Eccentricity    0.0343371
+		Inclination     -0.27442
+		AscendingNode   -113.631
+		ArgOfPericenter 77.8772
+		MeanAnomaly     97.4499
+	}
+}
+
+Asteroid	"T175"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.43119e-008
+	Radius          16.4166
+	InertiaMoment   0.399394
+
+	Obliquity       0.044161
+	EqAscendNode    -28.3197
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.554 0.457 0.408)
+
+	Surface
+	{
+		SurfStyle       0.153066
+		OceanStyle      0.524695
+		Randomize      (-0.734, -0.174, -0.257)
+		colorDistMagn   0.199531
+		colorDistFreq   0.172458
+		detailScale     448.282
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00150498
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.534306
+		terraceProb     0.219451
+		erosion         0
+		montesMagn      0.430396
+		montesFreq      3.78738
+		montesSpiky     0.93079
+		montesFraction  0.332302
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.716228
+		hillsFraction   0.603416
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.255315
+		craterFreq      0.193085
+		craterDensity   0.888572
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.497407
+		volcanoTemp     1653.76
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.222, 0.183, 0.163, 0.000)
+		colorShelf     (0.235, 0.194, 0.173, 0.000)
+		colorBeach     (0.249, 0.206, 0.183, 0.000)
+		colorDesert    (0.263, 0.217, 0.194, 0.000)
+		colorLowland   (0.277, 0.228, 0.204, 0.000)
+		colorUpland    (0.291, 0.240, 0.214, 0.000)
+		colorRock      (0.305, 0.251, 0.224, 0.000)
+		colorSnow      (0.319, 0.263, 0.234, 1.000)
+		BumpHeight      14.7749
+		BumpOffset      2.95498
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013014
+		Period          0.111592
+		Eccentricity    0.0762882
+		Inclination     0.044161
+		AscendingNode   -28.3197
+		ArgOfPericenter 92.4918
+		MeanAnomaly     -24.4805
+	}
+}
+
+Asteroid	"T176"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            8.3844e-017
+	Radius          0.0336787
+	InertiaMoment   0.396878
+
+	RotationPeriod  2369.77
+	Obliquity       -2.45835
+	EqAscendNode    -45.6037
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.500 0.394 0.330)
+
+	Surface
+	{
+		SurfStyle       0.417508
+		OceanStyle      0.296364
+		Randomize      (-0.094, 0.314, -0.843)
+		colorDistMagn   0.768674
+		colorDistFreq   2.01586e-007
+		detailScale     0.919652
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0790201
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.463295
+		terraceProb     0.219723
+		erosion         0
+		montesMagn      0.424415
+		montesFreq      3.93528
+		montesSpiky     0.982248
+		montesFraction  0.556914
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.09259e-006
+		hillsFraction   0.746454
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.234696
+		craterFreq      0.207028
+		craterDensity   0.897277
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.49166
+		volcanoTemp     1497.11
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.200, 0.158, 0.132, 0.000)
+		colorShelf     (0.212, 0.168, 0.140, 0.000)
+		colorBeach     (0.225, 0.177, 0.148, 0.000)
+		colorDesert    (0.237, 0.187, 0.157, 0.000)
+		colorLowland   (0.250, 0.197, 0.165, 0.000)
+		colorUpland    (0.262, 0.207, 0.173, 0.000)
+		colorRock      (0.275, 0.217, 0.181, 0.000)
+		colorSnow      (0.287, 0.227, 0.190, 1.000)
+		BumpHeight      0.0303108
+		BumpOffset      0.00606216
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012064
+		Period          0.0901143
+		Eccentricity    0.145879
+		Inclination     -2.45835
+		AscendingNode   -45.6037
+		ArgOfPericenter 169.689
+		MeanAnomaly     -64.1424
+	}
+}
+
+Asteroid	"T177"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.23381e-013
+	Radius          0.299703
+	InertiaMoment   0.398572
+
+	RotationPeriod  2279.15
+	Obliquity       -2.63427
+	EqAscendNode    89.9046
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.650 0.620 0.567)
+
+	Surface
+	{
+		SurfStyle       0.901497
+		OceanStyle      0.920977
+		Randomize      (-0.725, 0.517, -0.129)
+		colorDistMagn   0.053465
+		colorDistFreq   1.88227e-005
+		detailScale     8.1839
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0650179
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.719725
+		terraceProb     0.309173
+		erosion         0
+		montesMagn      0.680226
+		montesFreq      3.41934
+		montesSpiky     0.992617
+		montesFraction  0.0733305
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00015119
+		hillsFraction   0.905412
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.199599
+		craterFreq      0.161804
+		craterDensity   0.99458
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.52732
+		volcanoTemp     1394.2
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.221, 0.217, 0.227, 0.050)
+		colorShelf     (0.260, 0.254, 0.261, 0.040)
+		colorBeach     (0.299, 0.291, 0.295, 0.030)
+		colorDesert    (0.338, 0.329, 0.334, 0.020)
+		colorLowland   (0.377, 0.366, 0.368, 0.030)
+		colorUpland    (0.416, 0.403, 0.402, 0.050)
+		colorRock      (0.455, 0.440, 0.448, 0.020)
+		colorSnow      (0.455, 0.440, 0.448, 1.000)
+		BumpHeight      0.269733
+		BumpOffset      0.0539466
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01688
+		Period          0.0866684
+		Eccentricity    0.0657283
+		Inclination     -2.63427
+		AscendingNode   89.9046
+		ArgOfPericenter 141.88
+		MeanAnomaly     144.686
+	}
+}
+
+Asteroid	"T178"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.81562e-010
+	Radius          3.82899
+	InertiaMoment   0.399576
+
+	Obliquity       -0.924854
+	EqAscendNode    -120.145
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.630 0.626 0.625)
+
+	Surface
+	{
+		SurfStyle       0.538311
+		OceanStyle      0.0881125
+		Randomize      (0.876, -0.281, -0.938)
+		colorDistMagn   0.353236
+		colorDistFreq   0.00663917
+		detailScale     104.557
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0161054
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.407079
+		terraceProb     0.350161
+		erosion         0
+		montesMagn      0.48116
+		montesFreq      3.57905
+		montesSpiky     0.995214
+		montesFraction  0.646075
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0267488
+		hillsFraction   0.52833
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.233998
+		craterFreq      0.230262
+		craterDensity   1.00301
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.456219
+		volcanoTemp     1476.14
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.246, 0.213, 0.175, 0.000)
+		colorShelf     (0.252, 0.219, 0.200, 0.000)
+		colorBeach     (0.296, 0.257, 0.237, 0.000)
+		colorDesert    (0.321, 0.275, 0.231, 0.000)
+		colorLowland   (0.353, 0.294, 0.262, 0.000)
+		colorUpland    (0.390, 0.357, 0.319, 0.000)
+		colorRock      (0.422, 0.388, 0.344, 0.000)
+		colorSnow      (0.460, 0.413, 0.362, 1.000)
+		BumpHeight      3.44609
+		BumpOffset      0.689218
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.0103
+		Period          0.102584
+		Eccentricity    0.0439158
+		Inclination     -0.924854
+		AscendingNode   -120.145
+		ArgOfPericenter 167.962
+		MeanAnomaly     97.6298
+	}
+}
+
+Asteroid	"T179"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.67177e-007
+	Radius          49.5486
+	InertiaMoment   0.397372
+
+	Obliquity       -1.69564
+	EqAscendNode    79.0236
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.661 0.597 0.519)
+
+	Surface
+	{
+		SurfStyle       0.732243
+		OceanStyle      0.191426
+		Randomize      (0.138, 0.199, 0.715)
+		colorDistMagn   0.501964
+		colorDistFreq   1.29583
+		detailScale     1353.01
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0456457
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.667536
+		terraceProb     0.130053
+		erosion         0
+		montesMagn      0.594337
+		montesFreq      3.19065
+		montesSpiky     0.987137
+		montesFraction  0.458586
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       6.82368
+		hillsFraction   0.521937
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.276874
+		craterFreq      0.147262
+		craterDensity   0.853788
+		craterOctaves   14
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.476808
+		volcanoTemp     1510.36
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.258, 0.203, 0.145, 0.000)
+		colorShelf     (0.264, 0.209, 0.166, 0.000)
+		colorBeach     (0.311, 0.245, 0.197, 0.000)
+		colorDesert    (0.337, 0.263, 0.192, 0.000)
+		colorLowland   (0.370, 0.281, 0.218, 0.000)
+		colorUpland    (0.410, 0.340, 0.265, 0.000)
+		colorRock      (0.443, 0.370, 0.285, 0.000)
+		colorSnow      (0.483, 0.394, 0.301, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015994
+		Period          0.136103
+		Eccentricity    0.0662205
+		Inclination     -1.69564
+		AscendingNode   79.0236
+		ArgOfPericenter 45.334
+		MeanAnomaly     29.1064
+	}
+}
+
+Asteroid	"T180"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.56522e-015
+	Radius          0.0893423
+	InertiaMoment   0.398791
+
+	Obliquity       1.55527
+	EqAscendNode    138.029
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.613 0.562 0.481)
+
+	Surface
+	{
+		SurfStyle       0.173846
+		OceanStyle      0.611097
+		Randomize      (0.785, 0.260, 0.292)
+		colorDistMagn   0.953812
+		colorDistFreq   4.93269e-006
+		detailScale     2.43964
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0194386
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.697869
+		terraceProb     0.140084
+		erosion         0
+		montesMagn      0.458437
+		montesFreq      3.18895
+		montesSpiky     0.999346
+		montesFraction  0.810273
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.91371e-005
+		hillsFraction   0.829943
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.240915
+		craterFreq      0.240929
+		craterDensity   0.762882
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.541208
+		volcanoTemp     1479.72
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.245, 0.225, 0.192, 0.000)
+		colorShelf     (0.261, 0.239, 0.204, 0.000)
+		colorBeach     (0.276, 0.253, 0.217, 0.000)
+		colorDesert    (0.291, 0.267, 0.229, 0.000)
+		colorLowland   (0.307, 0.281, 0.241, 0.000)
+		colorUpland    (0.322, 0.295, 0.253, 0.000)
+		colorRock      (0.337, 0.309, 0.265, 0.000)
+		colorSnow      (0.353, 0.323, 0.277, 1.000)
+		BumpHeight      0.0804081
+		BumpOffset      0.0160816
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018652
+		Period          0.0687143
+		Eccentricity    0.101744
+		Inclination     1.55527
+		AscendingNode   138.029
+		ArgOfPericenter -68.9771
+		MeanAnomaly     6.75838
+	}
+}
+
+Asteroid	"T181"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.30331e-012
+	Radius          0.795046
+	InertiaMoment   0.399754
+
+	Obliquity       -1.56622
+	EqAscendNode    108.261
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.509 0.506 0.503)
+
+	Surface
+	{
+		SurfStyle       0.813157
+		OceanStyle      0.896777
+		Randomize      (-0.387, -0.023, -0.432)
+		colorDistMagn   0.845266
+		colorDistFreq   0.000423149
+		detailScale     21.7101
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0320258
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.68659
+		terraceProb     0.270618
+		erosion         0
+		montesMagn      0.536012
+		montesFreq      2.66371
+		montesSpiky     0.974802
+		montesFraction  0.675499
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00173099
+		hillsFraction   0.636115
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.194765
+		craterFreq      0.234442
+		craterDensity   0.976755
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.450175
+		volcanoTemp     1331.42
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.198, 0.172, 0.141, 0.000)
+		colorShelf     (0.204, 0.177, 0.161, 0.000)
+		colorBeach     (0.239, 0.208, 0.191, 0.000)
+		colorDesert    (0.259, 0.223, 0.186, 0.000)
+		colorLowland   (0.285, 0.238, 0.211, 0.000)
+		colorUpland    (0.315, 0.289, 0.256, 0.000)
+		colorRock      (0.341, 0.314, 0.277, 0.000)
+		colorSnow      (0.371, 0.334, 0.292, 1.000)
+		BumpHeight      0.715541
+		BumpOffset      0.143108
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.010312
+		Period          0.0889449
+		Eccentricity    0.126676
+		Inclination     -1.56622
+		AscendingNode   108.261
+		ArgOfPericenter 99.5335
+		MeanAnomaly     -96.2681
+	}
+}
+
+Asteroid	"T182"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.38944e-009
+	Radius          10.1572
+	InertiaMoment   0.397743
+
+	Obliquity       2.8069
+	EqAscendNode    116.511
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.710 0.707 0.706)
+
+	Surface
+	{
+		SurfStyle       0.752234
+		OceanStyle      0.346979
+		Randomize      (-0.708, 0.367, -0.088)
+		colorDistMagn   0.750323
+		colorDistFreq   0.0204345
+		detailScale     277.359
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0515122
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.503949
+		terraceProb     0.219662
+		erosion         0
+		montesMagn      0.379701
+		montesFreq      2.38804
+		montesSpiky     0.964116
+		montesFraction  0.509696
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.264543
+		hillsFraction   0.746679
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.239008
+		craterFreq      0.242945
+		craterDensity   1.04135
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.539151
+		volcanoTemp     1693.44
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.277, 0.240, 0.198, 0.000)
+		colorShelf     (0.284, 0.247, 0.226, 0.000)
+		colorBeach     (0.334, 0.290, 0.268, 0.000)
+		colorDesert    (0.362, 0.311, 0.261, 0.000)
+		colorLowland   (0.398, 0.332, 0.296, 0.000)
+		colorUpland    (0.440, 0.403, 0.360, 0.000)
+		colorRock      (0.476, 0.438, 0.388, 0.000)
+		colorSnow      (0.518, 0.467, 0.409, 1.000)
+		BumpHeight      9.14147
+		BumpOffset      1.82829
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018643
+		Period          0.123006
+		Eccentricity    0.0224357
+		Inclination     2.8069
+		AscendingNode   116.511
+		ArgOfPericenter 30.7281
+		MeanAnomaly     -167.487
+	}
+}
+
+Asteroid	"T183"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.98565e-017
+	Radius          0.0208368
+	InertiaMoment   0.398996
+
+	Obliquity       1.3155
+	EqAscendNode    -165.965
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.765 0.762 0.758)
+
+	Surface
+	{
+		SurfStyle       0.36131
+		OceanStyle      0.294601
+		Randomize      (-0.300, 0.662, -0.341)
+		colorDistMagn   0.813571
+		colorDistFreq   1.247e-007
+		detailScale     0.568985
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0056099
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.656627
+		terraceProb     0.211359
+		erosion         0
+		montesMagn      0.45431
+		montesFreq      2.60666
+		montesSpiky     0.957804
+		montesFraction  0.0979287
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       1.13226e-006
+		hillsFraction   0.512843
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.23895
+		craterFreq      0.211744
+		craterDensity   0.805146
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.537241
+		volcanoTemp     1636.26
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.306, 0.305, 0.303, 0.000)
+		colorShelf     (0.325, 0.324, 0.322, 0.000)
+		colorBeach     (0.344, 0.343, 0.341, 0.000)
+		colorDesert    (0.363, 0.362, 0.360, 0.000)
+		colorLowland   (0.383, 0.381, 0.379, 0.000)
+		colorUpland    (0.402, 0.400, 0.398, 0.000)
+		colorRock      (0.421, 0.419, 0.417, 0.000)
+		colorSnow      (0.440, 0.438, 0.436, 1.000)
+		BumpHeight      0.0187532
+		BumpOffset      0.00375063
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019717
+		Period          0.116442
+		Eccentricity    0.149671
+		Inclination     1.3155
+		AscendingNode   -165.965
+		ArgOfPericenter 89.0806
+		MeanAnomaly     -120.503
+	}
+}
+
+Asteroid	"T184"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.922e-014
+	Radius          0.185425
+	InertiaMoment   0.399931
+
+	RotationPeriod  1216.49
+	Obliquity       -1.73772
+	EqAscendNode    155.188
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.572 0.461 0.354)
+
+	Surface
+	{
+		SurfStyle       0.0252413
+		OceanStyle      0.00319612
+		Randomize      (0.379, 0.686, -0.482)
+		colorDistMagn   0.994537
+		colorDistFreq   1.51132e-005
+		detailScale     5.06335
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0130287
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.452639
+		terraceProb     0.309214
+		erosion         0
+		montesMagn      0.547579
+		montesFreq      3.18499
+		montesSpiky     0.957569
+		montesFraction  0.616446
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       7.13944e-005
+		hillsFraction   0.945789
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.22986
+		craterFreq      0.188229
+		craterDensity   1.05326
+		craterOctaves   5
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.508748
+		volcanoTemp     1432.48
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.229, 0.184, 0.142, 0.000)
+		colorShelf     (0.243, 0.196, 0.151, 0.000)
+		colorBeach     (0.257, 0.207, 0.159, 0.000)
+		colorDesert    (0.272, 0.219, 0.168, 0.000)
+		colorLowland   (0.286, 0.230, 0.177, 0.000)
+		colorUpland    (0.300, 0.242, 0.186, 0.000)
+		colorRock      (0.315, 0.253, 0.195, 0.000)
+		colorSnow      (0.329, 0.265, 0.204, 1.000)
+		BumpHeight      0.166883
+		BumpOffset      0.0333766
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015642
+		Period          0.0925182
+		Eccentricity    0.161128
+		Inclination     -1.73772
+		AscendingNode   155.188
+		ArgOfPericenter 26.3894
+		MeanAnomaly     -15.043
+	}
+}
+
+Asteroid	"T185"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.29987e-011
+	Radius          2.36899
+	InertiaMoment   0.398049
+
+	RotationPeriod  1888.74
+	Obliquity       1.27942
+	EqAscendNode    -59.1475
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.729 0.723 0.720)
+
+	Surface
+	{
+		SurfStyle       0.810098
+		OceanStyle      0.674799
+		Randomize      (0.982, 0.822, -0.765)
+		colorDistMagn   0.408856
+		colorDistFreq   0.00223024
+		detailScale     64.6894
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0388318
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.439895
+		terraceProb     0.35662
+		erosion         0
+		montesMagn      0.387476
+		montesFreq      2.05767
+		montesSpiky     0.974495
+		montesFraction  0.47735
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0146016
+		hillsFraction   0.499575
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.262176
+		craterFreq      0.262811
+		craterDensity   0.819912
+		craterOctaves   9
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.56125
+		volcanoTemp     1235
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.284, 0.246, 0.202, 0.000)
+		colorShelf     (0.291, 0.253, 0.230, 0.000)
+		colorBeach     (0.342, 0.297, 0.274, 0.000)
+		colorDesert    (0.372, 0.318, 0.266, 0.000)
+		colorLowland   (0.408, 0.340, 0.303, 0.000)
+		colorUpland    (0.452, 0.412, 0.367, 0.000)
+		colorRock      (0.488, 0.448, 0.396, 0.000)
+		colorSnow      (0.532, 0.477, 0.418, 1.000)
+		BumpHeight      2.1321
+		BumpOffset      0.426419
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017612
+		Period          0.107734
+		Eccentricity    0.11573
+		Inclination     1.27942
+		AscendingNode   -59.1475
+		ArgOfPericenter 67.887
+		MeanAnomaly     -50.5556
+	}
+}
+
+Asteroid	"T186"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.32749e-008
+	Radius          30.6586
+	InertiaMoment   0.399192
+
+	RotationPeriod  2065.31
+	Obliquity       2.59243
+	EqAscendNode    153.253
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.783 0.781 0.779)
+
+	Surface
+	{
+		SurfStyle       0.264673
+		OceanStyle      0.530007
+		Randomize      (-0.671, 0.071, -0.483)
+		colorDistMagn   0.985551
+		colorDistFreq   0.533657
+		detailScale     837.184
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0209239
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.557333
+		terraceProb     0.396099
+		erosion         0
+		montesMagn      0.580615
+		montesFreq      3.19568
+		montesSpiky     0.988537
+		montesFraction  0.725691
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.55656
+		hillsFraction   0.536939
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.258155
+		craterFreq      0.256126
+		craterDensity   0.855283
+		craterOctaves   13
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.562015
+		volcanoTemp     1646.55
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.313, 0.312, 0.312, 0.000)
+		colorShelf     (0.333, 0.332, 0.331, 0.000)
+		colorBeach     (0.353, 0.351, 0.351, 0.000)
+		colorDesert    (0.372, 0.371, 0.370, 0.000)
+		colorLowland   (0.392, 0.390, 0.390, 0.000)
+		colorUpland    (0.411, 0.410, 0.409, 0.000)
+		colorRock      (0.431, 0.430, 0.428, 0.000)
+		colorSnow      (0.450, 0.449, 0.448, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.011585
+		Period          0.117805
+		Eccentricity    0.132765
+		Inclination     2.59243
+		AscendingNode   153.253
+		ArgOfPericenter 20.323
+		MeanAnomaly     23.6876
+	}
+}
+
+Asteroid	"T187"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.70688e-016
+	Radius          0.043246
+	InertiaMoment   0.395949
+
+	RotationPeriod  2450.85
+	Obliquity       0.131119
+	EqAscendNode    18.4524
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.693 0.626 0.574)
+
+	Surface
+	{
+		SurfStyle       0.99651
+		OceanStyle      0.293076
+		Randomize      (0.456, -0.754, 0.769)
+		colorDistMagn   0.409031
+		colorDistFreq   1.19968e-006
+		detailScale     1.1809
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00451494
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.575643
+		terraceProb     0.278829
+		erosion         0
+		montesMagn      0.476662
+		montesFreq      3.08918
+		montesSpiky     0.881279
+		montesFraction  0.837256
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       5.16845e-006
+		hillsFraction   0.497307
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.235574
+		craterFreq      0.213783
+		craterDensity   0.94838
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.564375
+		volcanoTemp     1357.23
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.236, 0.219, 0.230, 0.050)
+		colorShelf     (0.277, 0.257, 0.264, 0.040)
+		colorBeach     (0.319, 0.294, 0.298, 0.030)
+		colorDesert    (0.361, 0.332, 0.339, 0.020)
+		colorLowland   (0.402, 0.369, 0.373, 0.030)
+		colorUpland    (0.444, 0.407, 0.407, 0.050)
+		colorRock      (0.485, 0.444, 0.453, 0.020)
+		colorSnow      (0.485, 0.444, 0.453, 1.000)
+		BumpHeight      0.0389214
+		BumpOffset      0.00778428
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013355
+		Period          0.111837
+		Eccentricity    0.14464
+		Inclination     0.131119
+		AscendingNode   18.4524
+		ArgOfPericenter 133.758
+		MeanAnomaly     -136.704
+	}
+}
+
+Asteroid	"T188"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            5.45487e-013
+	Radius          0.552514
+	InertiaMoment   0.398315
+
+	Obliquity       -1.62795
+	EqAscendNode    52.6561
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.703 0.584 0.513)
+
+	Surface
+	{
+		SurfStyle       0.192001
+		OceanStyle      0.786707
+		Randomize      (-0.766, -0.168, 0.730)
+		colorDistMagn   0.243293
+		colorDistFreq   0.000113522
+		detailScale     15.0873
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0509077
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.51458
+		terraceProb     0.280566
+		erosion         0
+		montesMagn      0.653427
+		montesFreq      2.97681
+		montesSpiky     0.950699
+		montesFraction  0.918772
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000798891
+		hillsFraction   0.715506
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.264898
+		craterFreq      0.259363
+		craterDensity   0.848625
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.39685
+		volcanoTemp     1254.91
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.281, 0.234, 0.205, 0.000)
+		colorShelf     (0.299, 0.248, 0.218, 0.000)
+		colorBeach     (0.316, 0.263, 0.231, 0.000)
+		colorDesert    (0.334, 0.277, 0.243, 0.000)
+		colorLowland   (0.351, 0.292, 0.256, 0.000)
+		colorUpland    (0.369, 0.307, 0.269, 0.000)
+		colorRock      (0.387, 0.321, 0.282, 0.000)
+		colorSnow      (0.404, 0.336, 0.295, 1.000)
+		BumpHeight      0.497262
+		BumpOffset      0.0994525
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017152
+		Period          0.129374
+		Eccentricity    0.0717032
+		Inclination     -1.62795
+		AscendingNode   52.6561
+		ArgOfPericenter -17.5248
+		MeanAnomaly     98.6462
+	}
+}
+
+Asteroid	"T189"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            8.02712e-010
+	Radius          7.15113
+	InertiaMoment   0.399379
+
+	Obliquity       -3.94704
+	EqAscendNode    137.559
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.574 0.571 0.569)
+
+	Surface
+	{
+		SurfStyle       0.7715
+		OceanStyle      0.0782943
+		Randomize      (0.179, -0.691, 0.570)
+		colorDistMagn   0.292372
+		colorDistFreq   0.0225072
+		detailScale     195.273
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0498143
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.620469
+		terraceProb     0.188746
+		erosion         0
+		montesMagn      0.394293
+		montesFreq      3.28636
+		montesSpiky     0.661707
+		montesFraction  0.698125
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.164679
+		hillsFraction   0.809087
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.238771
+		craterFreq      0.223355
+		craterDensity   0.95613
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.482422
+		volcanoTemp     1392.98
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.224, 0.194, 0.159, 0.000)
+		colorShelf     (0.230, 0.200, 0.182, 0.000)
+		colorBeach     (0.270, 0.234, 0.216, 0.000)
+		colorDesert    (0.293, 0.251, 0.211, 0.000)
+		colorLowland   (0.321, 0.268, 0.239, 0.000)
+		colorUpland    (0.356, 0.326, 0.290, 0.000)
+		colorRock      (0.385, 0.354, 0.313, 0.000)
+		colorSnow      (0.419, 0.377, 0.330, 1.000)
+		BumpHeight      6.43601
+		BumpOffset      1.2872
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.015755
+		Period          0.128321
+		Eccentricity    0.0300338
+		Inclination     -3.94704
+		AscendingNode   137.559
+		ArgOfPericenter -45.372
+		MeanAnomaly     15.5362
+	}
+}
+
+Asteroid	"T190"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            4.70259e-018
+	Radius          0.0100861
+	InertiaMoment   0.396831
+
+	RotationPeriod  1053.22
+	Obliquity       -2.67202
+	EqAscendNode    -0.179133
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.704 0.635 0.503)
+
+	Surface
+	{
+		SurfStyle       0.446036
+		OceanStyle      0.50707
+		Randomize      (0.257, 0.970, -0.066)
+		colorDistMagn   0.453483
+		colorDistFreq   2.02117e-008
+		detailScale     0.275417
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0931354
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.339048
+		terraceProb     0.491474
+		erosion         0
+		montesMagn      0.554365
+		montesFreq      2.539
+		montesSpiky     0.938617
+		montesFraction  0.595304
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.15544e-007
+		hillsFraction   0.679186
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.213764
+		craterFreq      0.20965
+		craterDensity   0.849843
+		craterOctaves   1
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.517991
+		volcanoTemp     1088.52
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.281, 0.254, 0.201, 0.000)
+		colorShelf     (0.299, 0.270, 0.214, 0.000)
+		colorBeach     (0.317, 0.286, 0.226, 0.000)
+		colorDesert    (0.334, 0.302, 0.239, 0.000)
+		colorLowland   (0.352, 0.318, 0.251, 0.000)
+		colorUpland    (0.369, 0.334, 0.264, 0.000)
+		colorRock      (0.387, 0.349, 0.277, 0.000)
+		colorSnow      (0.405, 0.365, 0.289, 1.000)
+		BumpHeight      0.00907746
+		BumpOffset      0.00181549
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016803
+		Period          0.0801005
+		Eccentricity    0.144477
+		Inclination     -2.67202
+		AscendingNode   -0.179133
+		ArgOfPericenter -149.004
+		MeanAnomaly     126.409
+	}
+}
+
+Asteroid	"T191"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            6.92008e-015
+	Radius          0.12886
+	InertiaMoment   0.398555
+
+	RotationPeriod  1770.63
+	Obliquity       -0.631639
+	EqAscendNode    -128.321
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.462 0.457 0.451)
+
+	Surface
+	{
+		SurfStyle       0.484285
+		OceanStyle      0.411683
+		Randomize      (0.125, 0.867, -0.103)
+		colorDistMagn   0.487639
+		colorDistFreq   1.21196e-005
+		detailScale     3.51874
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00961171
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.623985
+		terraceProb     0.271576
+		erosion         0
+		montesMagn      0.490041
+		montesFreq      3.54992
+		montesSpiky     0.946673
+		montesFraction  0.749354
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       3.07656e-005
+		hillsFraction   0.57307
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.278755
+		craterFreq      0.185958
+		craterDensity   1.01788
+		craterOctaves   4
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.398817
+		volcanoTemp     1774.46
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.185, 0.183, 0.181, 0.000)
+		colorShelf     (0.196, 0.194, 0.192, 0.000)
+		colorBeach     (0.208, 0.206, 0.203, 0.000)
+		colorDesert    (0.220, 0.217, 0.214, 0.000)
+		colorLowland   (0.231, 0.228, 0.226, 0.000)
+		colorUpland    (0.243, 0.240, 0.237, 0.000)
+		colorRock      (0.254, 0.251, 0.248, 0.000)
+		colorSnow      (0.266, 0.263, 0.260, 1.000)
+		BumpHeight      0.115974
+		BumpOffset      0.0231948
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01802
+		Period          0.100996
+		Eccentricity    0.115775
+		Inclination     -0.631639
+		AscendingNode   -128.321
+		ArgOfPericenter 97.5855
+		MeanAnomaly     -6.93949
+	}
+}
+
+Asteroid	"T192"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.01833e-011
+	Radius          1.66786
+	InertiaMoment   0.399562
+
+	RotationPeriod  2501.91
+	Obliquity       0.0772551
+	EqAscendNode    -61.7476
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.746 0.742 0.739)
+
+	Surface
+	{
+		SurfStyle       0.421763
+		OceanStyle      0.08217
+		Randomize      (-0.426, -0.741, -0.928)
+		colorDistMagn   0.0406009
+		colorDistFreq   0.000884493
+		detailScale     45.5436
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00231612
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.496023
+		terraceProb     0.358481
+		erosion         0
+		montesMagn      0.460813
+		montesFreq      2.45996
+		montesSpiky     0.927956
+		montesFraction  0.640055
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00481163
+		hillsFraction   0.83699
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.204054
+		craterFreq      0.23228
+		craterDensity   0.984007
+		craterOctaves   8
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.456072
+		volcanoTemp     1861.25
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.299, 0.297, 0.295, 0.000)
+		colorShelf     (0.317, 0.315, 0.314, 0.000)
+		colorBeach     (0.336, 0.334, 0.332, 0.000)
+		colorDesert    (0.354, 0.352, 0.351, 0.000)
+		colorLowland   (0.373, 0.371, 0.369, 0.000)
+		colorUpland    (0.392, 0.389, 0.388, 0.000)
+		colorRock      (0.410, 0.408, 0.406, 0.000)
+		colorSnow      (0.429, 0.427, 0.425, 1.000)
+		BumpHeight      1.50107
+		BumpOffset      0.300214
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016585
+		Period          0.114167
+		Eccentricity    0.107785
+		Inclination     0.0772551
+		AscendingNode   -61.7476
+		ArgOfPericenter 7.23116
+		MeanAnomaly     130.882
+	}
+}
+
+Asteroid	"T193"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.49853e-008
+	Radius          14.8411
+	InertiaMoment   0.397339
+
+	RotationPeriod  7028.07
+	Obliquity       1.08488
+	EqAscendNode    4.56836
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.574 0.569 0.565)
+
+	Surface
+	{
+		SurfStyle       0.440773
+		OceanStyle      0.218252
+		Randomize      (0.148, -0.446, 0.573)
+		colorDistMagn   0.885702
+		colorDistFreq   0.151721
+		detailScale     405.261
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0378311
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.491731
+		terraceProb     0.108368
+		erosion         0
+		montesMagn      0.532824
+		montesFreq      2.9947
+		montesSpiky     0.975875
+		montesFraction  0.763639
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.571342
+		hillsFraction   0.80935
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.268594
+		craterFreq      0.151516
+		craterDensity   0.95199
+		craterOctaves   12
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.442038
+		volcanoTemp     1196.43
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.230, 0.227, 0.226, 0.000)
+		colorShelf     (0.244, 0.242, 0.240, 0.000)
+		colorBeach     (0.258, 0.256, 0.254, 0.000)
+		colorDesert    (0.273, 0.270, 0.269, 0.000)
+		colorLowland   (0.287, 0.284, 0.283, 0.000)
+		colorUpland    (0.301, 0.298, 0.297, 0.000)
+		colorRock      (0.316, 0.313, 0.311, 0.000)
+		colorSnow      (0.330, 0.327, 0.325, 1.000)
+		BumpHeight      13.357
+		BumpOffset      2.6714
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.012758
+		Period          0.133627
+		Eccentricity    0.1252
+		Inclination     1.08488
+		AscendingNode   4.56836
+		ArgOfPericenter -59.5171
+		MeanAnomaly     49.1093
+	}
+}
+
+Asteroid	"T194"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            8.77889e-017
+	Radius          0.0300535
+	InertiaMoment   0.398775
+
+	Obliquity       -1.41559
+	EqAscendNode    -173.575
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.676 0.600 0.572)
+
+	Surface
+	{
+		SurfStyle       0.412113
+		OceanStyle      0.461034
+		Randomize      (-0.806, 0.733, 0.760)
+		colorDistMagn   0.624094
+		colorDistFreq   7.28875e-007
+		detailScale     0.820662
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00276213
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.727618
+		terraceProb     0.173318
+		erosion         0
+		montesMagn      0.559158
+		montesFreq      2.93199
+		montesSpiky     0.995341
+		montesFraction  0.675927
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       2.45371e-006
+		hillsFraction   0.496057
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.256515
+		craterFreq      0.255213
+		craterDensity   1.00702
+		craterOctaves   2
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.511384
+		volcanoTemp     1380.2
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.270, 0.240, 0.229, 0.000)
+		colorShelf     (0.287, 0.255, 0.243, 0.000)
+		colorBeach     (0.304, 0.270, 0.257, 0.000)
+		colorDesert    (0.321, 0.285, 0.271, 0.000)
+		colorLowland   (0.338, 0.300, 0.286, 0.000)
+		colorUpland    (0.355, 0.315, 0.300, 0.000)
+		colorRock      (0.372, 0.330, 0.314, 0.000)
+		colorSnow      (0.389, 0.345, 0.329, 1.000)
+		BumpHeight      0.0270482
+		BumpOffset      0.00540964
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.019395
+		Period          0.0817738
+		Eccentricity    0.101847
+		Inclination     -1.41559
+		AscendingNode   -173.575
+		ArgOfPericenter -90.1015
+		MeanAnomaly     -43.7404
+	}
+}
+
+Asteroid	"T195"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.29186e-013
+	Radius          0.388988
+	InertiaMoment   0.399741
+
+	Obliquity       -1.02863
+	EqAscendNode    4.94772
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.652 0.502 0.430)
+
+	Surface
+	{
+		SurfStyle       0.24982
+		OceanStyle      0.685974
+		Randomize      (-0.591, -0.265, 0.591)
+		colorDistMagn   0.959526
+		colorDistFreq   0.000104313
+		detailScale     10.622
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0358655
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.765314
+		terraceProb     0.148646
+		erosion         0
+		montesMagn      0.3685
+		montesFreq      3.16317
+		montesSpiky     0.928137
+		montesFraction  0.469526
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.000265847
+		hillsFraction   0.541184
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.277057
+		craterFreq      0.223419
+		craterDensity   0.948718
+		craterOctaves   6
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.394941
+		volcanoTemp     1802
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.261, 0.201, 0.172, 0.000)
+		colorShelf     (0.277, 0.213, 0.183, 0.000)
+		colorBeach     (0.293, 0.226, 0.193, 0.000)
+		colorDesert    (0.309, 0.238, 0.204, 0.000)
+		colorLowland   (0.326, 0.251, 0.215, 0.000)
+		colorUpland    (0.342, 0.263, 0.226, 0.000)
+		colorRock      (0.358, 0.276, 0.236, 0.000)
+		colorSnow      (0.375, 0.289, 0.247, 1.000)
+		BumpHeight      0.350089
+		BumpOffset      0.0700179
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.017058
+		Period          0.129302
+		Eccentricity    0.124156
+		Inclination     -1.02863
+		AscendingNode   4.94772
+		ArgOfPericenter -157.034
+		MeanAnomaly     173.042
+	}
+}
+
+Asteroid	"T196"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.90104e-010
+	Radius          3.46153
+	InertiaMoment   0.397717
+
+	Obliquity       -1.38872
+	EqAscendNode    20.5366
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.485 0.420 0.360)
+
+	Surface
+	{
+		SurfStyle       0.465876
+		OceanStyle      0.228297
+		Randomize      (0.866, 0.967, 0.390)
+		colorDistMagn   0.526593
+		colorDistFreq   0.00795772
+		detailScale     94.5228
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0476808
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.490183
+		terraceProb     0.337944
+		erosion         0
+		montesMagn      0.649439
+		montesFreq      4.0363
+		montesSpiky     0.995303
+		montesFraction  0.744538
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.0319693
+		hillsFraction   0.594601
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.172284
+		craterFreq      0.240632
+		craterDensity   0.762372
+		craterOctaves   10
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.49413
+		volcanoTemp     1587.16
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.194, 0.168, 0.144, 0.000)
+		colorShelf     (0.206, 0.178, 0.153, 0.000)
+		colorBeach     (0.218, 0.189, 0.162, 0.000)
+		colorDesert    (0.230, 0.199, 0.171, 0.000)
+		colorLowland   (0.242, 0.210, 0.180, 0.000)
+		colorUpland    (0.255, 0.220, 0.189, 0.000)
+		colorRock      (0.267, 0.231, 0.198, 0.000)
+		colorSnow      (0.279, 0.241, 0.207, 1.000)
+		BumpHeight      3.11538
+		BumpOffset      0.623075
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.018426
+		Period          0.137974
+		Eccentricity    0.122757
+		Inclination     -1.38872
+		AscendingNode   20.5366
+		ArgOfPericenter 36.6759
+		MeanAnomaly     -34.9906
+	}
+}
+
+Asteroid	"T197"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.79749e-007
+	Radius          44.2151
+	InertiaMoment   0.398981
+
+	RotationPeriod  3458.76
+	Obliquity       1.10823
+	EqAscendNode    44.1043
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.560 0.552 0.548)
+
+	Surface
+	{
+		SurfStyle       0.0110678
+		OceanStyle      0.948784
+		Randomize      (0.805, -0.832, 0.989)
+		colorDistMagn   0.80915
+		colorDistFreq   1.42135
+		detailScale     1207.37
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0358472
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.396454
+		terraceProb     0.174342
+		erosion         0
+		montesMagn      0.478355
+		montesFreq      3.66359
+		montesSpiky     0.749099
+		montesFraction  0.714
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       4.66474
+		hillsFraction   0.565383
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.226787
+		craterFreq      0.21804
+		craterDensity   0.980453
+		craterOctaves   14
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.543148
+		volcanoTemp     1458.52
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.224, 0.221, 0.219, 0.000)
+		colorShelf     (0.238, 0.235, 0.233, 0.000)
+		colorBeach     (0.252, 0.248, 0.247, 0.000)
+		colorDesert    (0.266, 0.262, 0.261, 0.000)
+		colorLowland   (0.280, 0.276, 0.274, 0.000)
+		colorUpland    (0.294, 0.290, 0.288, 0.000)
+		colorRock      (0.308, 0.304, 0.302, 0.000)
+		colorSnow      (0.322, 0.317, 0.315, 1.000)
+		BumpHeight      20
+		BumpOffset      4
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.014621
+		Period          0.0986435
+		Eccentricity    0.0620969
+		Inclination     1.10823
+		AscendingNode   44.1043
+		ArgOfPericenter -168.207
+		MeanAnomaly     -26.9363
+	}
+}
+
+Asteroid	"T198"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            1.63887e-015
+	Radius          0.090722
+	InertiaMoment   0.399918
+
+	RotationPeriod  4279.01
+	Obliquity       -1.05618
+	EqAscendNode    -37.1514
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.644 0.639 0.636)
+
+	Surface
+	{
+		SurfStyle       0.0517211
+		OceanStyle      0.215942
+		Randomize      (-0.943, 0.110, -0.225)
+		colorDistMagn   0.591904
+		colorDistFreq   6.19355e-006
+		detailScale     2.47732
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.0349401
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.359
+		terraceProb     0.531805
+		erosion         0
+		montesMagn      0.328197
+		montesFreq      2.98628
+		montesSpiky     0.878088
+		montesFraction  0.801961
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       9.94151e-006
+		hillsFraction   0.761882
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.254
+		craterFreq      0.23786
+		craterDensity   0.94787
+		craterOctaves   3
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.486607
+		volcanoTemp     1649.04
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.257, 0.256, 0.254, 0.000)
+		colorShelf     (0.274, 0.271, 0.270, 0.000)
+		colorBeach     (0.290, 0.287, 0.286, 0.000)
+		colorDesert    (0.306, 0.303, 0.302, 0.000)
+		colorLowland   (0.322, 0.319, 0.318, 0.000)
+		colorUpland    (0.338, 0.335, 0.334, 0.000)
+		colorRock      (0.354, 0.351, 0.350, 0.000)
+		colorSnow      (0.370, 0.367, 0.366, 1.000)
+		BumpHeight      0.0816498
+		BumpOffset      0.01633
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.013148
+		Period          0.0976297
+		Eccentricity    0.1409
+		Inclination     -1.05618
+		AscendingNode   -37.1514
+		ArgOfPericenter -135.387
+		MeanAnomaly     96.9358
+	}
+}
+
+Asteroid	"T199"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            2.41169e-012
+	Radius          0.807326
+	InertiaMoment   0.398027
+
+	Obliquity       0.127065
+	EqAscendNode    -39.1573
+	Precession      0
+	TidalLocked     true
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.479 0.474 0.471)
+
+	Surface
+	{
+		SurfStyle       0.127174
+		OceanStyle      0.34778
+		Randomize      (-0.716, 0.596, -0.080)
+		colorDistMagn   0.107472
+		colorDistFreq   0.000476191
+		detailScale     22.0454
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.00417187
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.613489
+		terraceProb     0.702433
+		erosion         0
+		montesMagn      0.435749
+		montesFreq      3.06722
+		montesSpiky     0.941805
+		montesFraction  0.514865
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.00146347
+		hillsFraction   0.690397
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.218442
+		craterFreq      0.208872
+		craterDensity   0.905544
+		craterOctaves   7
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.415424
+		volcanoTemp     1864.33
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.191, 0.189, 0.188, 0.000)
+		colorShelf     (0.203, 0.201, 0.200, 0.000)
+		colorBeach     (0.215, 0.213, 0.212, 0.000)
+		colorDesert    (0.227, 0.225, 0.224, 0.000)
+		colorLowland   (0.239, 0.237, 0.235, 0.000)
+		colorUpland    (0.251, 0.249, 0.247, 0.000)
+		colorRock      (0.263, 0.260, 0.259, 0.000)
+		colorSnow      (0.275, 0.272, 0.271, 1.000)
+		BumpHeight      0.726593
+		BumpOffset      0.145319
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.016018
+		Period          0.113757
+		Eccentricity    0.0375484
+		Inclination     0.127065
+		AscendingNode   -39.1573
+		ArgOfPericenter 126.74
+		MeanAnomaly     63.7309
+	}
+}
+
+Asteroid	"T200"
+{
+	ParentBody     "Taris System 6"
+	Class	       "Asteroid"
+
+	Mass            3.54893e-009
+	Radius          10.3141
+	InertiaMoment   0.399177
+
+	RotationPeriod  1198.54
+	Obliquity       -4.08896
+	EqAscendNode    25.8961
+	Precession      0
+
+	AlbedoBond      0.2
+	AlbedoGeom      0.24
+	Brightness      3.5
+	Color          (0.814 0.785 0.768)
+
+	Surface
+	{
+		SurfStyle       0.802853
+		OceanStyle      0.905571
+		Randomize      (0.792, -0.385, 0.011)
+		colorDistMagn   0.684027
+		colorDistFreq   0.0665878
+		detailScale     281.642
+		colorConversion true
+		snowLevel       2
+		tropicLatitude  0.138648
+		icecapLatitude  1
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		heightTempGrad  0.625
+		tropicWidth     0.07
+		mainFreq        0.600335
+		terraceProb     0.159687
+		erosion         0
+		montesMagn      0.511464
+		montesFreq      3.80696
+		montesSpiky     0.985188
+		montesFraction  0.349465
+		dunesFraction   0
+		hillsMagn       0
+		hillsFreq       0.34063
+		hillsFraction   0.412879
+		hills2Fraction  0
+		canyonFraction  0
+		craterMagn      0.251536
+		craterFreq      0.174248
+		craterDensity   0.85686
+		craterOctaves   11
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.51706
+		volcanoTemp     1434.86
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		colorSea       (0.317, 0.267, 0.215, 0.000)
+		colorShelf     (0.325, 0.275, 0.246, 0.000)
+		colorBeach     (0.382, 0.322, 0.292, 0.000)
+		colorDesert    (0.415, 0.346, 0.284, 0.000)
+		colorLowland   (0.456, 0.369, 0.322, 0.000)
+		colorUpland    (0.504, 0.448, 0.392, 0.000)
+		colorRock      (0.545, 0.487, 0.422, 0.000)
+		colorSnow      (0.594, 0.518, 0.445, 1.000)
+		BumpHeight      9.28265
+		BumpOffset      1.85653
+		SpecBrightWater 0
+		SpecBrightIce   0.03
+		SpecularPower   30
+		Hapke           1
+		SpotBright      4
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoClouds        true
+
+	NoOcean         true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		SemiMajorAxis   0.01808
+		Period          0.0683648
+		Eccentricity    0.150166
+		Inclination     -4.08896
+		AscendingNode   25.8961
+		ArgOfPericenter -33.8858
+		MeanAnomaly     179.662
 	}
 }
 
