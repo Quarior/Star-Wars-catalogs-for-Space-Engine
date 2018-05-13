@@ -1004,7 +1004,7 @@ Planet "Kuat/Kuat System 4"
 
 	Clouds
 	{
-		Height          5.6333
+		Height          50.6333
 		Velocity        17.6333
 		BumpHeight      5.63315
 		Hapke           0.2
@@ -1021,7 +1021,7 @@ Planet "Kuat/Kuat System 4"
 
 	Clouds
 	{
-		Height          11.2661
+		Height          70.2661
 		Velocity        18.8545
 		BumpHeight      5.63315
 		Hapke           0.2
@@ -1054,9 +1054,9 @@ Planet "Kuat/Kuat System 4"
 		Density         1
 		Pressure        1
 		Greenhouse      9
-		Bright          3.94471
+		Bright          13.4471
 		Opacity         0
-		SkyLight        1.3149
+		SkyLight        1.1149
 		Hue             0.016
 		Saturation      2
 
