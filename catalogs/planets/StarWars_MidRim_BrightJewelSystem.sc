@@ -166,74 +166,74 @@ Planet	"Ord Mantell/Bright Jewel System 2"
 
 	Surface
 	{
-		SurfStyle       0.459102
-		OceanStyle      0.719189
-		Randomize      (0.365, 0.154, -0.520)
-		colorDistMagn   0.0499968
-		colorDistFreq   886.16
-		detailScale     18603.7
+		SurfStyle       0.440278
+		OceanStyle      0.0933267
+		Randomize      (0.093, 0.044, -0.760)
+		colorDistMagn   0.0662249
+		colorDistFreq   534.993
+		detailScale     10719.9
 		colorConversion true
-		seaLevel        0.437913
-		snowLevel       0.796604
-		tropicLatitude  0.119838
-		icecapLatitude  1
-		icecapHeight    0.437913
+		seaLevel        0.213135
+		snowLevel       2
+		tropicLatitude  0.0957516
+		icecapLatitude  0.797953
+		icecapHeight    0.229688
 		climatePole     0.9375
 		climateTropic   0.3125
 		climateEquator  0.6875
 		heightTempGrad  0.625
 		tropicWidth     0.07
-		mainFreq        1.14204
-		venusFreq       1.04879
-		venusMagn       0.47667
-		mareFreq        5.11937
-		mareDensity     0.0630881
-		terraceProb     0.536576
-		erosion         0.134497
-		montesMagn      0.240178
-		montesFreq      372.324
-		montesSpiky     0.991711
-		montesFraction  0.632006
-		dunesMagn       0.049638
-		dunesFreq       52.7691
-		dunesFraction   0.189253
-		hillsMagn       0.147369
-		hillsFreq       1073.87
-		hillsFraction   0.0735619
-		hills2Fraction  0.794211
-		riversMagn      58.9793
-		riversFreq      3.18738
-		riversSin       6.98976
+		mainFreq        0.828294
+		venusFreq       0.59273
+		venusMagn       0
+		mareFreq        2.48063
+		mareDensity     0.025135
+		terraceProb     0.409125
+		erosion         0.132239
+		montesMagn      0.212232
+		montesFreq      141.934
+		montesSpiky     0.925681
+		montesFraction  0.513974
+		dunesMagn       0.0423197
+		dunesFreq       39.302
+		dunesFraction   0.500316
+		hillsMagn       0.100543
+		hillsFreq       321.42
+		hillsFraction   0.72726
+		hills2Fraction  0.107795
+		riversMagn      55.1856
+		riversFreq      4.32611
+		riversSin       6.43253
 		riversOctaves   2
-		canyonsMagn     0.0329678
-		canyonsFreq     172.751
-		canyonFraction  0.109732
-		cracksMagn      0.0714831
-		cracksFreq      0.667458
+		canyonsMagn     0.0515705
+		canyonsFreq     110.697
+		canyonFraction  0.287961
+		cracksMagn      0.0756111
+		cracksFreq      0.428715
 		cracksOctaves   0
-		craterMagn      0.671197
-		craterFreq      26.718
-		craterDensity   0
-		craterOctaves   0
-		volcanoMagn     0.741706
-		volcanoFreq     0.714744
-		volcanoDensity  0.4
+		craterMagn      0.613999
+		craterFreq      10.4472
+		craterDensity   0.0647193
+		craterOctaves   3.66373
+		volcanoMagn     0.644378
+		volcanoFreq     0.618114
+		volcanoDensity  0.318969
 		volcanoOctaves  3
-		volcanoActivity 2
-		volcanoFlows    0.692206
-		volcanoRadius   0.570503
-		volcanoTemp     1629.58
+		volcanoActivity 0.65208
+		volcanoFlows    0.668103
+		volcanoRadius   0.46875
+		volcanoTemp     1123.85
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		stripeZones     1.49597
-		stripeTwist     0
-		cycloneMagn     2.4165
-		cycloneFreq     0.463986
-		cycloneDensity  0.37814
+		stripeZones     1.95382
+		stripeTwist     0.143981
+		cycloneMagn     2.63797
+		cycloneFreq     0.740282
+		cycloneDensity  0.359659
 		cycloneOctaves  2
-		colorSea       (0.040, 0.200, 0.200, 1.000)
-		colorShelf     (0.150, 0.370, 0.370, 1.000)
+		colorSea       (0.040, 0.100, 0.200, 1.000)
+		colorShelf     (0.150, 0.480, 0.460, 1.000)
 		colorBeach     (0.400, 0.330, 0.280, 0.000)
 		colorDesert    (0.260, 0.240, 0.220, 0.000)
 		colorLowland   (0.500, 0.420, 0.350, 0.000)
@@ -242,8 +242,8 @@ Planet	"Ord Mantell/Bright Jewel System 2"
 		colorSnow      (1.000, 1.000, 1.000, 1.308)
 		colorLowPlants (0.500, 0.420, 0.350, 0.000)
 		colorUpPlants  (0.240, 0.210, 0.210, 0.000)
-		BumpHeight      17.3897
-		BumpOffset      7.61517
+		BumpHeight      20
+		BumpOffset      4.2627
 		DiffMapAlpha   "Water"
 		SpecBrightWater 0.65
 		SpecBrightIce   0.85
@@ -304,9 +304,9 @@ Planet	"Ord Mantell/Bright Jewel System 2"
 		Density         1
 		Pressure        1
 		Greenhouse      1
-		Bright          3.94471
+		Bright          0.793651
 		Opacity         0
-		SkyLight        1.3149
+		SkyLight        0
 		Hue             -0.0458227
 		Saturation      1
 
