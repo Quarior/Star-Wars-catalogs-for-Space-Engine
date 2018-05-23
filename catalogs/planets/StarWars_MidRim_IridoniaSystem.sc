@@ -7,20 +7,19 @@
 // http://starwars.wikia.com/wiki/Iridonia/Legends
 Planet	"Iridonia/Iridonia System 1"
 {
-	ParentBody     "Iridonia System"
-	Class	       "Terra"
+	ParentBody		"Iridonia System"
+	Class	       	"Terra"
 
-	Mass            0.46
-	Radius          4325.3677
-	InertiaMoment   0.374798
+	Mass			0.87
+	InertiaMoment	0.374798
 
 	Oblateness      0.00173823
 
 	RotationPeriod  29
-	Obliquity       108.23
+	Obliquity       18.23
 	EqAscendNode    -110.573
 	Precession      0
-    TidalLocked     false
+	TidalLocked     false
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -169,8 +168,8 @@ Planet	"Iridonia/Iridonia System 1"
 		Model          "Earth"
 		Height          223.463
 		Density         1e-009
-		Pressure        1
-		Greenhouse      27.3771
+		Pressure        0.4347
+		Greenhouse      2.3771
 		Bright          11.1111
 		Opacity         0.253968
 		SkyLight        4.52381
@@ -198,7 +197,6 @@ Planet	"Iridonia/Iridonia System 1"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   2.09877
 		Period          1.13073
 		Eccentricity    0.0062968
 		Inclination     -2.66638
