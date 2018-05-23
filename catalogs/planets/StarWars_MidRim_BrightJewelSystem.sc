@@ -4,7 +4,7 @@
 // Grid location : L7
 // X : 71.13, Y : 3824.46, Z : 130.29783200959514
 
-http://starwars.wikia.com/wiki/Repta
+// http://starwars.wikia.com/wiki/Repta
 DwarfPlanet	"Repta/Bright Jewel System 1"
 {
 	ParentBody     "Bright Jewel System"
