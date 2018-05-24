@@ -20,7 +20,7 @@ DwarfPlanet	"Taris System 1"
 	RotationPeriod  26.7847
 	Obliquity       -22.0529
 	EqAscendNode    -122.532
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -168,7 +168,7 @@ DwarfMoon	"Taris System 1.D1"
 	RotationPeriod  313.176
 	Obliquity       18.6039
 	EqAscendNode    90.0467
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -278,7 +278,7 @@ Planet	"Taris System 2"
 	RotationPeriod  11.5504
 	Obliquity       6.39913
 	EqAscendNode    -79.1334
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.506517
 	AlbedoGeom      0.607821
@@ -425,7 +425,7 @@ DwarfMoon	"Taris System 2.D1"
 
 	Obliquity       0.0121857
 	EqAscendNode    136.045
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -535,7 +535,7 @@ DwarfMoon	"Taris System 2.D2"
 
 	Obliquity       -0.0134631
 	EqAscendNode    115.903
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -645,7 +645,7 @@ Moon	"Taris System 2.1"
 
 	Obliquity       -0.535419
 	EqAscendNode    -87.7743
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -777,7 +777,7 @@ Moon	"Taris System 2.2"
 
 	Obliquity       -0.952818
 	EqAscendNode    -75.0552
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -909,7 +909,7 @@ Moon	"Taris System 2.3"
 
 	Obliquity       -1.31703
 	EqAscendNode    -162.353
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -1039,7 +1039,7 @@ DwarfMoon	"Taris System 2.D3"
 
 	Obliquity       -50.7629
 	EqAscendNode    29.3026
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1147,7 +1147,7 @@ DwarfMoon	"Taris System 2.D4"
 
 	Obliquity       -57.5337
 	EqAscendNode    117.785
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1255,7 +1255,7 @@ DwarfMoon	"Taris System 2.D5"
 
 	Obliquity       -43.8488
 	EqAscendNode    109.372
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1364,7 +1364,7 @@ DwarfMoon	"Taris System 2.D6"
 	RotationPeriod  1209.67
 	Obliquity       -68.8701
 	EqAscendNode    12.6756
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1471,7 +1471,7 @@ DwarfMoon	"Taris System 2.D7"
 
 	Obliquity       -13.776
 	EqAscendNode    120.125
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1579,7 +1579,7 @@ DwarfMoon	"Taris System 2.D8"
 
 	Obliquity       63.3417
 	EqAscendNode    -105.805
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1687,7 +1687,7 @@ DwarfMoon	"Taris System 2.D9"
 
 	Obliquity       -75.7686
 	EqAscendNode    34.3632
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1796,7 +1796,7 @@ DwarfMoon	"Taris System 2.D10"
 	RotationPeriod  3806.69
 	Obliquity       77.9938
 	EqAscendNode    146.883
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1903,7 +1903,7 @@ DwarfMoon	"Taris System 2.D11"
 
 	Obliquity       83.4777
 	EqAscendNode    27.8788
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2012,7 +2012,7 @@ DwarfMoon	"Taris System 2.D12"
 	RotationPeriod  1143.7
 	Obliquity       -1.30316
 	EqAscendNode    -112.494
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2119,7 +2119,7 @@ DwarfMoon	"Taris System 2.D13"
 
 	Obliquity       -77.8011
 	EqAscendNode    -57.0376
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2227,7 +2227,7 @@ DwarfMoon	"Taris System 2.D14"
 
 	Obliquity       10.186
 	EqAscendNode    -69.0985
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2335,7 +2335,7 @@ DwarfMoon	"Taris System 2.D15"
 
 	Obliquity       76.8311
 	EqAscendNode    -76.6537
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2444,7 +2444,7 @@ DwarfMoon	"Taris System 2.D16"
 	RotationPeriod  2489.72
 	Obliquity       39.019
 	EqAscendNode    -92.3833
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2551,7 +2551,7 @@ DwarfMoon	"Taris System 2.D17"
 
 	Obliquity       22.98
 	EqAscendNode    83.3346
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2660,7 +2660,7 @@ DwarfMoon	"Taris System 2.D18"
 	RotationPeriod  2203.78
 	Obliquity       -68.0801
 	EqAscendNode    179.275
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2768,7 +2768,7 @@ DwarfMoon	"Taris System 2.D19"
 	RotationPeriod  1732.24
 	Obliquity       -3.9984
 	EqAscendNode    121.933
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2875,7 +2875,7 @@ DwarfMoon	"Taris System 2.D20"
 
 	Obliquity       62.9734
 	EqAscendNode    3.65739
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2983,7 +2983,7 @@ DwarfMoon	"Taris System 2.D21"
 
 	Obliquity       66.6706
 	EqAscendNode    124.737
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3091,7 +3091,7 @@ DwarfMoon	"Taris System 2.D22"
 
 	Obliquity       -16.5996
 	EqAscendNode    164.31
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3199,7 +3199,7 @@ DwarfMoon	"Taris System 2.D23"
 
 	Obliquity       -19.7346
 	EqAscendNode    163.051
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3307,7 +3307,7 @@ DwarfMoon	"Taris System 2.D24"
 
 	Obliquity       42.025
 	EqAscendNode    142.739
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3415,7 +3415,7 @@ DwarfMoon	"Taris System 2.D25"
 
 	Obliquity       81.2298
 	EqAscendNode    -80.7961
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3523,7 +3523,7 @@ DwarfMoon	"Taris System 2.D26"
 
 	Obliquity       85.7917
 	EqAscendNode    -122.759
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3632,7 +3632,7 @@ DwarfMoon	"Taris System 2.D27"
 	RotationPeriod  4560.38
 	Obliquity       -9.55055
 	EqAscendNode    -147.072
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3740,7 +3740,7 @@ DwarfMoon	"Taris System 2.D28"
 	RotationPeriod  4773.34
 	Obliquity       12.8464
 	EqAscendNode    -135.323
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3848,7 +3848,7 @@ DwarfMoon	"Taris System 2.D29"
 	RotationPeriod  2439.6
 	Obliquity       -17.6086
 	EqAscendNode    -114.235
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3955,7 +3955,7 @@ DwarfMoon	"Taris System 2.D30"
 
 	Obliquity       -2.62566
 	EqAscendNode    90.7916
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4063,7 +4063,7 @@ DwarfMoon	"Taris System 2.D31"
 
 	Obliquity       -54.1542
 	EqAscendNode    169.121
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4171,7 +4171,7 @@ DwarfMoon	"Taris System 2.D32"
 
 	Obliquity       39.1462
 	EqAscendNode    134.239
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4280,7 +4280,7 @@ DwarfMoon	"Taris System 2.D33"
 	RotationPeriod  3568.18
 	Obliquity       -68.8154
 	EqAscendNode    146.68
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4388,7 +4388,7 @@ DwarfMoon	"Taris System 2.D34"
 	RotationPeriod  4646.89
 	Obliquity       45.7826
 	EqAscendNode    79.5811
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4495,7 +4495,7 @@ DwarfMoon	"Taris System 2.D35"
 
 	Obliquity       -58.788
 	EqAscendNode    22.6189
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4604,7 +4604,7 @@ DwarfMoon	"Taris System 2.D36"
 	RotationPeriod  5875.84
 	Obliquity       11.6497
 	EqAscendNode    12.9096
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4711,7 +4711,7 @@ DwarfMoon	"Taris System 2.D37"
 
 	Obliquity       39.6954
 	EqAscendNode    49.1216
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4822,7 +4822,7 @@ Planet	"Taris System 3"
 	RotationPeriod  18.3942
 	Obliquity       -199.965
 	EqAscendNode    -156.28
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.7
 	AlbedoGeom      0.84
@@ -5021,7 +5021,7 @@ DwarfMoon	"Taris System 3.D1"
 
 	Obliquity       -0.00414076
 	EqAscendNode    -92.2293
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5131,7 +5131,7 @@ DwarfMoon	"Taris System 3.D2"
 
 	Obliquity       0.00569275
 	EqAscendNode    -125.119
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5241,7 +5241,7 @@ Moon	"Taris System 3.1"
 
 	Obliquity       -1.32392
 	EqAscendNode    153.945
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -5373,7 +5373,7 @@ Moon	"Taris System 3.2"
 
 	Obliquity       0.900631
 	EqAscendNode    -70.3865
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -5503,7 +5503,7 @@ Moon	"Taris System 3.3"
 
 	Obliquity       -0.239768
 	EqAscendNode    -122.15
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -5633,7 +5633,7 @@ DwarfMoon	"Taris System 3.D3"
 
 	Obliquity       83.6024
 	EqAscendNode    -87.7478
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5742,7 +5742,7 @@ DwarfMoon	"Taris System 3.D4"
 	RotationPeriod  5098.53
 	Obliquity       -77.5879
 	EqAscendNode    153.369
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5849,7 +5849,7 @@ DwarfMoon	"Taris System 3.D5"
 
 	Obliquity       -89.7569
 	EqAscendNode    -157.782
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5958,7 +5958,7 @@ DwarfMoon	"Taris System 3.D6"
 	RotationPeriod  11383.6
 	Obliquity       -38.2107
 	EqAscendNode    81.8519
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6066,7 +6066,7 @@ DwarfMoon	"Taris System 3.D7"
 	RotationPeriod  1004.84
 	Obliquity       68.5743
 	EqAscendNode    133.378
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6174,7 +6174,7 @@ DwarfMoon	"Taris System 3.D8"
 	RotationPeriod  414.847
 	Obliquity       -25.353
 	EqAscendNode    -86.1475
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6282,7 +6282,7 @@ DwarfMoon	"Taris System 3.D9"
 	RotationPeriod  679.5
 	Obliquity       -50.8355
 	EqAscendNode    -53.7167
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6390,7 +6390,7 @@ DwarfMoon	"Taris System 3.D10"
 	RotationPeriod  343.608
 	Obliquity       -91.4219
 	EqAscendNode    7.67697
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6498,7 +6498,7 @@ DwarfMoon	"Taris System 3.D11"
 	RotationPeriod  261.821
 	Obliquity       17.6773
 	EqAscendNode    -144.629
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6606,7 +6606,7 @@ DwarfMoon	"Taris System 3.D12"
 	RotationPeriod  226.605
 	Obliquity       -111.359
 	EqAscendNode    -52.9964
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6713,7 +6713,7 @@ Planet	"Taris System 4"
 
 	Obliquity       -0.295882
 	EqAscendNode    6.67914
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.407612
@@ -6936,7 +6936,7 @@ Moon	"Taris System 4.1"
 
 	Obliquity       -0.295882
 	EqAscendNode    6.67914
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.363821
@@ -7161,7 +7161,7 @@ Planet	"Taris System 5"
 
 	Obliquity       13.8897
 	EqAscendNode    143.936
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.502415
 	AlbedoGeom      0.602898
@@ -7318,7 +7318,7 @@ Moon	"Taris System 5.1"
 
 	Obliquity       0.108388
 	EqAscendNode    -6.46281
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -7450,7 +7450,7 @@ Moon	"Taris System 5.2"
 
 	Obliquity       -0.163473
 	EqAscendNode    27.0335
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -7582,7 +7582,7 @@ Moon	"Taris System 5.3"
 
 	Obliquity       0.643477
 	EqAscendNode    117.849
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -7712,7 +7712,7 @@ Moon	"Taris System 5.4"
 
 	Obliquity       -1.12273
 	EqAscendNode    -170.545
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -7842,7 +7842,7 @@ Moon	"Taris System 5.5"
 
 	Obliquity       -1.34114
 	EqAscendNode    -122.015
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -7972,7 +7972,7 @@ Moon	"Taris System 5.6"
 
 	Obliquity       -0.657768
 	EqAscendNode    -166.205
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -8102,7 +8102,7 @@ Moon	"Taris System 5.7"
 
 	Obliquity       0.0609497
 	EqAscendNode    120.421
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -8232,7 +8232,7 @@ Moon	"Taris System 5.8"
 
 	Obliquity       -0.614785
 	EqAscendNode    -40.7302
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -8362,7 +8362,7 @@ Moon	"Taris System 5.9"
 
 	Obliquity       -0.578022
 	EqAscendNode    120.086
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -8493,7 +8493,7 @@ DwarfMoon	"Taris System 5.D1"
 	RotationPeriod  564.514
 	Obliquity       -64.6856
 	EqAscendNode    78.1999
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8601,7 +8601,7 @@ DwarfMoon	"Taris System 5.D2"
 	RotationPeriod  514.217
 	Obliquity       17.6282
 	EqAscendNode    24.1611
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8709,7 +8709,7 @@ DwarfMoon	"Taris System 5.D3"
 	RotationPeriod  473.545
 	Obliquity       68.6617
 	EqAscendNode    34.339
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8817,7 +8817,7 @@ DwarfMoon	"Taris System 5.D4"
 	RotationPeriod  430.137
 	Obliquity       3.93973
 	EqAscendNode    -123.706
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8925,7 +8925,7 @@ DwarfMoon	"Taris System 5.D5"
 	RotationPeriod  473.929
 	Obliquity       57.9155
 	EqAscendNode    0.897045
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9033,7 +9033,7 @@ DwarfMoon	"Taris System 5.D6"
 	RotationPeriod  426.952
 	Obliquity       -135.581
 	EqAscendNode    54.9615
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9141,7 +9141,7 @@ DwarfMoon	"Taris System 5.D7"
 	RotationPeriod  389.581
 	Obliquity       6.20108
 	EqAscendNode    95.7518
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9249,7 +9249,7 @@ DwarfMoon	"Taris System 5.D8"
 	RotationPeriod  354.242
 	Obliquity       -93.4053
 	EqAscendNode    93.2496
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9357,7 +9357,7 @@ DwarfMoon	"Taris System 5.D9"
 	RotationPeriod  390.483
 	Obliquity       86.8703
 	EqAscendNode    -144.784
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9465,7 +9465,7 @@ DwarfMoon	"Taris System 5.D10"
 	RotationPeriod  345.099
 	Obliquity       -44.061
 	EqAscendNode    -110.963
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9573,7 +9573,7 @@ DwarfMoon	"Taris System 5.D11"
 	RotationPeriod  312.625
 	Obliquity       -21.8216
 	EqAscendNode    86.9423
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9681,7 +9681,7 @@ DwarfMoon	"Taris System 5.D12"
 	RotationPeriod  280.037
 	Obliquity       -61.8461
 	EqAscendNode    127.746
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9789,7 +9789,7 @@ DwarfMoon	"Taris System 5.D13"
 	RotationPeriod  309.574
 	Obliquity       -8.71356
 	EqAscendNode    137.182
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9897,7 +9897,7 @@ DwarfMoon	"Taris System 5.D14"
 	RotationPeriod  1835.19
 	Obliquity       -57.778
 	EqAscendNode    -75.5113
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10005,7 +10005,7 @@ DwarfMoon	"Taris System 5.D15"
 	RotationPeriod  1632.37
 	Obliquity       -37.2606
 	EqAscendNode    -181.723
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10113,7 +10113,7 @@ DwarfMoon	"Taris System 5.D16"
 	RotationPeriod  1465.43
 	Obliquity       112.041
 	EqAscendNode    147.123
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10221,7 +10221,7 @@ DwarfMoon	"Taris System 5.D17"
 	RotationPeriod  1595.11
 	Obliquity       -44.3441
 	EqAscendNode    -168.872
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10329,7 +10329,7 @@ DwarfMoon	"Taris System 5.D18"
 	RotationPeriod  1377.07
 	Obliquity       -44.782
 	EqAscendNode    -47.1488
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10440,7 +10440,7 @@ Planet	"Taris/Taris System 6"
 	RotationPeriod  24
 	Obliquity       -36.9471
 	EqAscendNode    -121.746
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -10654,7 +10654,7 @@ Moon	"Rogue Moon/Taris System 6.4"
 	RotationPeriod  66.6692
 	Obliquity       -57.9915
 	EqAscendNode    115.266
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -10817,7 +10817,7 @@ Moon	"Taris System 6.1"
 
 	Obliquity       0.79302
 	EqAscendNode    11.5795
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -10947,7 +10947,7 @@ Moon	"Taris System 6.2"
 
 	Obliquity       -1.30177
 	EqAscendNode    107.311
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -11080,7 +11080,7 @@ Moon	"Taris System 6.3"
 
 	Obliquity       -1.15648
 	EqAscendNode    -115.102
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -11215,7 +11215,7 @@ Asteroid	"T1"
 	RotationPeriod  316.616
 	Obliquity       -1.95906
 	EqAscendNode    71.7802
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11322,7 +11322,7 @@ Asteroid	"T2"
 
 	Obliquity       1.66402
 	EqAscendNode    -58.4754
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -11430,7 +11430,7 @@ Asteroid	"T3"
 
 	Obliquity       3.91517
 	EqAscendNode    -107.411
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -11538,7 +11538,7 @@ Asteroid	"T4"
 
 	Obliquity       4.81716
 	EqAscendNode    73.9827
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -11647,7 +11647,7 @@ Asteroid	"T5"
 	RotationPeriod  980.542
 	Obliquity       -1.84343
 	EqAscendNode    161.742
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11755,7 +11755,7 @@ Asteroid	"T6"
 	RotationPeriod  302.207
 	Obliquity       2.27269
 	EqAscendNode    -67.2549
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11862,7 +11862,7 @@ Asteroid	"T7"
 
 	Obliquity       -1.3462
 	EqAscendNode    -171.545
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -11971,7 +11971,7 @@ Asteroid	"T8"
 	RotationPeriod  661.844
 	Obliquity       0.469571
 	EqAscendNode    72.1023
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12079,7 +12079,7 @@ Asteroid	"T9"
 	RotationPeriod  876.713
 	Obliquity       4.94577
 	EqAscendNode    37.9589
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12186,7 +12186,7 @@ Asteroid	"T10"
 
 	Obliquity       -0.9767
 	EqAscendNode    16.9164
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -12294,7 +12294,7 @@ Asteroid	"T11"
 
 	Obliquity       -0.44403
 	EqAscendNode    -42.1945
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -12402,7 +12402,7 @@ Asteroid	"T12"
 
 	Obliquity       1.08689
 	EqAscendNode    10.7021
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -12510,7 +12510,7 @@ Asteroid	"T13"
 
 	Obliquity       1.08941
 	EqAscendNode    -96.5854
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -12619,7 +12619,7 @@ Asteroid	"T14"
 	RotationPeriod  638.181
 	Obliquity       -1.13761
 	EqAscendNode    148.637
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12727,7 +12727,7 @@ Asteroid	"T15"
 	RotationPeriod  859.98
 	Obliquity       3.29677
 	EqAscendNode    -1.52957
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12835,7 +12835,7 @@ Asteroid	"T16"
 	RotationPeriod  1012.73
 	Obliquity       0.000778401
 	EqAscendNode    150.4
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12942,7 +12942,7 @@ Asteroid	"T17"
 
 	Obliquity       1.21279
 	EqAscendNode    167.395
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13050,7 +13050,7 @@ Asteroid	"T18"
 
 	Obliquity       -3.51651
 	EqAscendNode    166.366
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13158,7 +13158,7 @@ Asteroid	"T19"
 
 	Obliquity       1.2217
 	EqAscendNode    133.411
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13267,7 +13267,7 @@ Asteroid	"T20"
 	RotationPeriod  1010.79
 	Obliquity       2.40306
 	EqAscendNode    157.759
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -13374,7 +13374,7 @@ Asteroid	"T21"
 
 	Obliquity       -3.75715
 	EqAscendNode    149.169
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13482,7 +13482,7 @@ Asteroid	"T22"
 
 	Obliquity       1.60327
 	EqAscendNode    -140.628
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13590,7 +13590,7 @@ Asteroid	"T23"
 
 	Obliquity       0.912791
 	EqAscendNode    -139.882
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13698,7 +13698,7 @@ Asteroid	"T24"
 
 	Obliquity       6.15112
 	EqAscendNode    94.9079
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13806,7 +13806,7 @@ Asteroid	"T25"
 
 	Obliquity       1.41767
 	EqAscendNode    -143.92
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13915,7 +13915,7 @@ Asteroid	"T26"
 	RotationPeriod  1124.37
 	Obliquity       1.84308
 	EqAscendNode    102.378
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14023,7 +14023,7 @@ Asteroid	"T27"
 	RotationPeriod  1593.35
 	Obliquity       -0.749091
 	EqAscendNode    -133.382
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14131,7 +14131,7 @@ Asteroid	"T28"
 	RotationPeriod  1487.79
 	Obliquity       -4.85242
 	EqAscendNode    32.808
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14238,7 +14238,7 @@ Asteroid	"T29"
 
 	Obliquity       -5.61418
 	EqAscendNode    -97.0726
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -14346,7 +14346,7 @@ Asteroid	"T30"
 
 	Obliquity       -2.09644
 	EqAscendNode    102.282
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -14454,7 +14454,7 @@ Asteroid	"T31"
 
 	Obliquity       0.911575
 	EqAscendNode    65.9536
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -14562,7 +14562,7 @@ Asteroid	"T32"
 
 	Obliquity       -6.5184
 	EqAscendNode    -142.485
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -14671,7 +14671,7 @@ Asteroid	"T33"
 	RotationPeriod  1371.29
 	Obliquity       6.83311
 	EqAscendNode    129.517
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14778,7 +14778,7 @@ Asteroid	"T34"
 
 	Obliquity       -4.28036
 	EqAscendNode    -68.6857
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -14887,7 +14887,7 @@ Asteroid	"T35"
 	RotationPeriod  789.017
 	Obliquity       2.23191
 	EqAscendNode    -28.9882
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14995,7 +14995,7 @@ Asteroid	"T36"
 	RotationPeriod  1849.16
 	Obliquity       -5.48049
 	EqAscendNode    -151.17
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15102,7 +15102,7 @@ Asteroid	"T37"
 
 	Obliquity       0.0741021
 	EqAscendNode    83.2411
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -15210,7 +15210,7 @@ Asteroid	"T38"
 
 	Obliquity       2.28355
 	EqAscendNode    -28.9775
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -15318,7 +15318,7 @@ Asteroid	"T39"
 
 	Obliquity       -1.6138
 	EqAscendNode    121.585
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -15427,7 +15427,7 @@ Asteroid	"T40"
 	RotationPeriod  982.199
 	Obliquity       2.13207
 	EqAscendNode    -179.29
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15534,7 +15534,7 @@ Asteroid	"T41"
 
 	Obliquity       -1.95398
 	EqAscendNode    -56.4165
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -15643,7 +15643,7 @@ Asteroid	"T42"
 	RotationPeriod  2000.04
 	Obliquity       -3.17673
 	EqAscendNode    141.446
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15751,7 +15751,7 @@ Asteroid	"T43"
 	RotationPeriod  2306.12
 	Obliquity       -0.192535
 	EqAscendNode    125.529
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15859,7 +15859,7 @@ Asteroid	"T44"
 	RotationPeriod  2955.21
 	Obliquity       1.24599
 	EqAscendNode    102.802
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15966,7 +15966,7 @@ Asteroid	"T45"
 
 	Obliquity       0.142516
 	EqAscendNode    -164.596
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -16074,7 +16074,7 @@ Asteroid	"T46"
 
 	Obliquity       2.02401
 	EqAscendNode    79.8664
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -16183,7 +16183,7 @@ Asteroid	"T47"
 	RotationPeriod  1319.98
 	Obliquity       1.79276
 	EqAscendNode    125.902
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16291,7 +16291,7 @@ Asteroid	"T48"
 	RotationPeriod  1966.12
 	Obliquity       1.90718
 	EqAscendNode    172.5
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16399,7 +16399,7 @@ Asteroid	"T49"
 	RotationPeriod  2533.34
 	Obliquity       -2.67529
 	EqAscendNode    -112.108
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16507,7 +16507,7 @@ Asteroid	"T50"
 	RotationPeriod  2993.2
 	Obliquity       1.98006
 	EqAscendNode    83.4973
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16614,7 +16614,7 @@ Asteroid	"T51"
 
 	Obliquity       -1.77055
 	EqAscendNode    -4.05345
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -16722,7 +16722,7 @@ Asteroid	"T52"
 
 	Obliquity       1.04316
 	EqAscendNode    -163.131
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -16830,7 +16830,7 @@ Asteroid	"T53"
 
 	Obliquity       3.94714
 	EqAscendNode    -113.942
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -16939,7 +16939,7 @@ Asteroid	"T54"
 	RotationPeriod  2197.58
 	Obliquity       2.56468
 	EqAscendNode    -159.5
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17047,7 +17047,7 @@ Asteroid	"T55"
 	RotationPeriod  967.488
 	Obliquity       -1.61989
 	EqAscendNode    13.8116
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17155,7 +17155,7 @@ Asteroid	"T56"
 	RotationPeriod  998.572
 	Obliquity       0.112302
 	EqAscendNode    33.8377
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17263,7 +17263,7 @@ Asteroid	"T57"
 	RotationPeriod  331.858
 	Obliquity       -0.263955
 	EqAscendNode    -28.3563
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17370,7 +17370,7 @@ Asteroid	"T58"
 
 	Obliquity       1.90546
 	EqAscendNode    -16.3082
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -17478,7 +17478,7 @@ Asteroid	"T59"
 
 	Obliquity       -9.33643
 	EqAscendNode    18.8623
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -17586,7 +17586,7 @@ Asteroid	"T60"
 
 	Obliquity       0.827132
 	EqAscendNode    52.0175
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -17695,7 +17695,7 @@ Asteroid	"T61"
 	RotationPeriod  931.994
 	Obliquity       0.357466
 	EqAscendNode    -19.6917
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17803,7 +17803,7 @@ Asteroid	"T62"
 	RotationPeriod  357.111
 	Obliquity       1.65264
 	EqAscendNode    71.3225
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17910,7 +17910,7 @@ Asteroid	"T63"
 
 	Obliquity       4.36948
 	EqAscendNode    -98.5246
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -18019,7 +18019,7 @@ Asteroid	"T64"
 	RotationPeriod  637.047
 	Obliquity       -2.8605
 	EqAscendNode    -61.4647
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18126,7 +18126,7 @@ Asteroid	"T65"
 
 	Obliquity       4.0127
 	EqAscendNode    131.995
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -18234,7 +18234,7 @@ Asteroid	"T66"
 
 	Obliquity       -2.27218
 	EqAscendNode    9.30127
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -18342,7 +18342,7 @@ Asteroid	"T67"
 
 	Obliquity       3.24403
 	EqAscendNode    48.1824
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -18451,7 +18451,7 @@ Asteroid	"T68"
 	RotationPeriod  331.092
 	Obliquity       2.67488
 	EqAscendNode    34.2441
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18558,7 +18558,7 @@ Asteroid	"T69"
 
 	Obliquity       -0.501384
 	EqAscendNode    121.325
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -18667,7 +18667,7 @@ Asteroid	"T70"
 	RotationPeriod  668.673
 	Obliquity       -2.75921
 	EqAscendNode    139.24
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18775,7 +18775,7 @@ Asteroid	"T71"
 	RotationPeriod  915.788
 	Obliquity       -1.11579
 	EqAscendNode    94.0404
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18882,7 +18882,7 @@ Asteroid	"T72"
 
 	Obliquity       2.80343
 	EqAscendNode    105.693
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -18990,7 +18990,7 @@ Asteroid	"T73"
 
 	Obliquity       -3.82971
 	EqAscendNode    -135.089
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -19098,7 +19098,7 @@ Asteroid	"T74"
 
 	Obliquity       -2.73829
 	EqAscendNode    -13.3083
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -19207,7 +19207,7 @@ Asteroid	"T75"
 	RotationPeriod  772.72
 	Obliquity       3.87823
 	EqAscendNode    -175.896
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -19315,7 +19315,7 @@ Asteroid	"T76"
 	RotationPeriod  1020.27
 	Obliquity       -0.46477
 	EqAscendNode    -86.7688
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -19423,7 +19423,7 @@ Asteroid	"T77"
 	RotationPeriod  1169.87
 	Obliquity       0.243505
 	EqAscendNode    -147.543
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -19531,7 +19531,7 @@ Asteroid	"T78"
 	RotationPeriod  1459.76
 	Obliquity       -3.8637
 	EqAscendNode    73.9637
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -19638,7 +19638,7 @@ Asteroid	"T79"
 
 	Obliquity       -3.37055
 	EqAscendNode    35.8752
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -19746,7 +19746,7 @@ Asteroid	"T80"
 
 	Obliquity       2.42729
 	EqAscendNode    -95.382
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -19854,7 +19854,7 @@ Asteroid	"T81"
 
 	Obliquity       -3.12542
 	EqAscendNode    -141.473
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -19963,7 +19963,7 @@ Asteroid	"T82"
 	RotationPeriod  1217.7
 	Obliquity       0.0314687
 	EqAscendNode    131.87
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20071,7 +20071,7 @@ Asteroid	"T83"
 	RotationPeriod  1485.73
 	Obliquity       0.801465
 	EqAscendNode    -175.399
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20178,7 +20178,7 @@ Asteroid	"T84"
 
 	Obliquity       -4.31025
 	EqAscendNode    93.5168
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -20286,7 +20286,7 @@ Asteroid	"T85"
 
 	Obliquity       3.45504
 	EqAscendNode    -98.1559
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -20394,7 +20394,7 @@ Asteroid	"T86"
 
 	Obliquity       -0.601011
 	EqAscendNode    94.8085
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -20502,7 +20502,7 @@ Asteroid	"T87"
 
 	Obliquity       -1.67821
 	EqAscendNode    163.304
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -20610,7 +20610,7 @@ Asteroid	"T88"
 
 	Obliquity       4.67878
 	EqAscendNode    -47.7533
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -20719,7 +20719,7 @@ Asteroid	"T89"
 	RotationPeriod  1397.76
 	Obliquity       1.55866
 	EqAscendNode    -130.989
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20826,7 +20826,7 @@ Asteroid	"T90"
 
 	Obliquity       -1.95545
 	EqAscendNode    -86.4686
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -20934,7 +20934,7 @@ Asteroid	"T91"
 
 	Obliquity       0.881577
 	EqAscendNode    -20.5936
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -21043,7 +21043,7 @@ Asteroid	"T92"
 	RotationPeriod  2026.99
 	Obliquity       0.963728
 	EqAscendNode    78.1665
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -21150,7 +21150,7 @@ Asteroid	"T93"
 
 	Obliquity       1.9783
 	EqAscendNode    69.5191
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -21258,7 +21258,7 @@ Asteroid	"T94"
 
 	Obliquity       3.48983
 	EqAscendNode    69.9869
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -21366,7 +21366,7 @@ Asteroid	"T95"
 
 	Obliquity       -1.131
 	EqAscendNode    179.84
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -21475,7 +21475,7 @@ Asteroid	"T96"
 	RotationPeriod  879.845
 	Obliquity       3.15599
 	EqAscendNode    3.06707
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -21583,7 +21583,7 @@ Asteroid	"T97"
 	RotationPeriod  1467.2
 	Obliquity       2.29016
 	EqAscendNode    38.917
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -21691,7 +21691,7 @@ Asteroid	"T98"
 	RotationPeriod  1861.32
 	Obliquity       -4.68498
 	EqAscendNode    88.6055
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -21799,7 +21799,7 @@ Asteroid	"T99"
 	RotationPeriod  2562.72
 	Obliquity       1.67368
 	EqAscendNode    -153.502
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -21906,7 +21906,7 @@ Asteroid	"T100"
 
 	Obliquity       -4.31292
 	EqAscendNode    -75.0541
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -22015,7 +22015,7 @@ Asteroid	"T101"
 	RotationPeriod  1393.4
 	Obliquity       -1.188
 	EqAscendNode    25.1562
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -22123,7 +22123,7 @@ Asteroid	"T102"
 	RotationPeriod  1686.62
 	Obliquity       1.82203
 	EqAscendNode    61.7808
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -22230,7 +22230,7 @@ Asteroid	"T103"
 
 	Obliquity       -1.19087
 	EqAscendNode    28.8377
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -22338,7 +22338,7 @@ Asteroid	"T104"
 
 	Obliquity       0.27064
 	EqAscendNode    136.276
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -22446,7 +22446,7 @@ Asteroid	"T105"
 
 	Obliquity       0.187837
 	EqAscendNode    121.167
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -22554,7 +22554,7 @@ Asteroid	"T106"
 
 	Obliquity       0.69556
 	EqAscendNode    27.5357
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -22663,7 +22663,7 @@ Asteroid	"T107"
 	RotationPeriod  668.951
 	Obliquity       -1.1684
 	EqAscendNode    -11.2371
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -22771,7 +22771,7 @@ Asteroid	"T108"
 	RotationPeriod  972.826
 	Obliquity       -0.357236
 	EqAscendNode    6.51837
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -22879,7 +22879,7 @@ Asteroid	"T109"
 	RotationPeriod  1716.76
 	Obliquity       -0.604012
 	EqAscendNode    124.435
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -22986,7 +22986,7 @@ Asteroid	"T110"
 
 	Obliquity       0.721111
 	EqAscendNode    -122.359
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -23094,7 +23094,7 @@ Asteroid	"T111"
 
 	Obliquity       4.3586
 	EqAscendNode    17.4819
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -23202,7 +23202,7 @@ Asteroid	"T112"
 
 	Obliquity       3.78807
 	EqAscendNode    26.9825
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -23310,7 +23310,7 @@ Asteroid	"T113"
 
 	Obliquity       -3.57017
 	EqAscendNode    3.15565
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -23419,7 +23419,7 @@ Asteroid	"T114"
 	RotationPeriod  1468.82
 	Obliquity       0.796253
 	EqAscendNode    3.78528
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -23526,7 +23526,7 @@ Asteroid	"T115"
 
 	Obliquity       3.61094
 	EqAscendNode    -127.481
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -23635,7 +23635,7 @@ Asteroid	"T116"
 	RotationPeriod  474.634
 	Obliquity       3.48003
 	EqAscendNode    -11.7408
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -23742,7 +23742,7 @@ Asteroid	"T117"
 
 	Obliquity       -2.38012
 	EqAscendNode    -179.443
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -23850,7 +23850,7 @@ Asteroid	"T118"
 
 	Obliquity       -0.177005
 	EqAscendNode    -147.641
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -23958,7 +23958,7 @@ Asteroid	"T119"
 
 	Obliquity       -5.06789
 	EqAscendNode    -18.3342
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -24066,7 +24066,7 @@ Asteroid	"T120"
 
 	Obliquity       -0.772118
 	EqAscendNode    42.2527
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -24175,7 +24175,7 @@ Asteroid	"T121"
 	RotationPeriod  1836.83
 	Obliquity       2.05543
 	EqAscendNode    50.1421
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -24282,7 +24282,7 @@ Asteroid	"T122"
 
 	Obliquity       0.259304
 	EqAscendNode    154.214
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -24391,7 +24391,7 @@ Asteroid	"T123"
 	RotationPeriod  1497.72
 	Obliquity       1.62199
 	EqAscendNode    -8.55737
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -24499,7 +24499,7 @@ Asteroid	"T124"
 	RotationPeriod  2387.17
 	Obliquity       -2.50192
 	EqAscendNode    52.1208
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -24606,7 +24606,7 @@ Asteroid	"T125"
 
 	Obliquity       -1.81023
 	EqAscendNode    -119.656
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -24714,7 +24714,7 @@ Asteroid	"T126"
 
 	Obliquity       -4.81767
 	EqAscendNode    -122.878
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -24822,7 +24822,7 @@ Asteroid	"T127"
 
 	Obliquity       1.04795
 	EqAscendNode    -62.8323
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -24931,7 +24931,7 @@ Asteroid	"T128"
 	RotationPeriod  781.572
 	Obliquity       0.666159
 	EqAscendNode    -139.154
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -25038,7 +25038,7 @@ Asteroid	"T129"
 
 	Obliquity       4.56652
 	EqAscendNode    95.4708
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -25147,7 +25147,7 @@ Asteroid	"T130"
 	RotationPeriod  2674.36
 	Obliquity       5.05086
 	EqAscendNode    -134.695
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -25255,7 +25255,7 @@ Asteroid	"T131"
 	RotationPeriod  2059.86
 	Obliquity       -1.5292
 	EqAscendNode    46.498
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -25363,7 +25363,7 @@ Asteroid	"T132"
 	RotationPeriod  2312.54
 	Obliquity       1.38664
 	EqAscendNode    -112.184
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -25470,7 +25470,7 @@ Asteroid	"T133"
 
 	Obliquity       -0.395488
 	EqAscendNode    -70.1837
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -25578,7 +25578,7 @@ Asteroid	"T134"
 
 	Obliquity       2.3545
 	EqAscendNode    20.4109
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -25687,7 +25687,7 @@ Asteroid	"T135"
 	RotationPeriod  1740.89
 	Obliquity       -3.97699
 	EqAscendNode    -41.6767
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -25795,7 +25795,7 @@ Asteroid	"T136"
 	RotationPeriod  2525.15
 	Obliquity       -4.93162
 	EqAscendNode    112.784
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -25903,7 +25903,7 @@ Asteroid	"T137"
 	RotationPeriod  4261.72
 	Obliquity       5.37881
 	EqAscendNode    61.8056
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -26011,7 +26011,7 @@ Asteroid	"T138"
 	RotationPeriod  2046.91
 	Obliquity       -2.66297
 	EqAscendNode    8.3028
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -26118,7 +26118,7 @@ Asteroid	"T139"
 
 	Obliquity       -2.72312
 	EqAscendNode    28.8873
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -26226,7 +26226,7 @@ Asteroid	"T140"
 
 	Obliquity       -5.85718
 	EqAscendNode    -83.408
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -26335,7 +26335,7 @@ Asteroid	"T141"
 	RotationPeriod  2832.13
 	Obliquity       -3.66466
 	EqAscendNode    -114.942
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -26443,7 +26443,7 @@ Asteroid	"T142"
 	RotationPeriod  6075.84
 	Obliquity       -0.0184508
 	EqAscendNode    -113.946
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -26550,7 +26550,7 @@ Asteroid	"T143"
 
 	Obliquity       -4.16005
 	EqAscendNode    -72.9905
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -26659,7 +26659,7 @@ Asteroid	"T144"
 	RotationPeriod  1562.23
 	Obliquity       0.812848
 	EqAscendNode    -101.978
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -26767,7 +26767,7 @@ Asteroid	"T145"
 	RotationPeriod  1563.05
 	Obliquity       -0.123489
 	EqAscendNode    -36.7615
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -26874,7 +26874,7 @@ Asteroid	"T146"
 
 	Obliquity       2.44479
 	EqAscendNode    13.5038
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -26982,7 +26982,7 @@ Asteroid	"T147"
 
 	Obliquity       -1.58466
 	EqAscendNode    -109.716
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -27091,7 +27091,7 @@ Asteroid	"T148"
 	RotationPeriod  7496.75
 	Obliquity       -3.0305
 	EqAscendNode    36.1554
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -27199,7 +27199,7 @@ Asteroid	"T149"
 	RotationPeriod  5385.02
 	Obliquity       -6.24441
 	EqAscendNode    145.572
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -27307,7 +27307,7 @@ Asteroid	"T150"
 	RotationPeriod  1600.88
 	Obliquity       0.128144
 	EqAscendNode    63.7676
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -27415,7 +27415,7 @@ Asteroid	"T151"
 	RotationPeriod  2729.97
 	Obliquity       0.764384
 	EqAscendNode    24.1294
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -27522,7 +27522,7 @@ Asteroid	"T152"
 
 	Obliquity       -2.03582
 	EqAscendNode    177.621
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -27630,7 +27630,7 @@ Asteroid	"T153"
 
 	Obliquity       3.21701
 	EqAscendNode    109.899
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -27738,7 +27738,7 @@ Asteroid	"T154"
 
 	Obliquity       0.572957
 	EqAscendNode    -82.9418
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -27847,7 +27847,7 @@ Asteroid	"T155"
 	RotationPeriod  320.035
 	Obliquity       0.00910704
 	EqAscendNode    -44.4335
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -27954,7 +27954,7 @@ Asteroid	"T156"
 
 	Obliquity       0.923842
 	EqAscendNode    -81.9093
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -28063,7 +28063,7 @@ Asteroid	"T157"
 	RotationPeriod  1192.1
 	Obliquity       -0.179596
 	EqAscendNode    -169.858
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -28171,7 +28171,7 @@ Asteroid	"T158"
 	RotationPeriod  1045.58
 	Obliquity       -3.63251
 	EqAscendNode    -87.791
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -28279,7 +28279,7 @@ Asteroid	"T159"
 	RotationPeriod  1142.41
 	Obliquity       -2.28792
 	EqAscendNode    163.596
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -28386,7 +28386,7 @@ Asteroid	"T160"
 
 	Obliquity       -5.70333
 	EqAscendNode    77.4198
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -28494,7 +28494,7 @@ Asteroid	"T161"
 
 	Obliquity       -7.11439
 	EqAscendNode    75.0641
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -28602,7 +28602,7 @@ Asteroid	"T162"
 
 	Obliquity       4.25311
 	EqAscendNode    -179.735
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -28711,7 +28711,7 @@ Asteroid	"T163"
 	RotationPeriod  1211.63
 	Obliquity       2.17108
 	EqAscendNode    -81.9461
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -28819,7 +28819,7 @@ Asteroid	"T164"
 	RotationPeriod  1427.81
 	Obliquity       0.315684
 	EqAscendNode    137.784
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -28926,7 +28926,7 @@ Asteroid	"T165"
 
 	Obliquity       -6.50361
 	EqAscendNode    -104.81
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -29035,7 +29035,7 @@ Asteroid	"T166"
 	RotationPeriod  717.005
 	Obliquity       -3.38274
 	EqAscendNode    -45.4815
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -29142,7 +29142,7 @@ Asteroid	"T167"
 
 	Obliquity       2.36613
 	EqAscendNode    168.817
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -29250,7 +29250,7 @@ Asteroid	"T168"
 
 	Obliquity       -3.93219
 	EqAscendNode    144.208
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -29359,7 +29359,7 @@ Asteroid	"T169"
 	RotationPeriod  1160.14
 	Obliquity       2.00015
 	EqAscendNode    24.7664
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -29467,7 +29467,7 @@ Asteroid	"T170"
 	RotationPeriod  1114.21
 	Obliquity       4.56054
 	EqAscendNode    1.36802
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -29575,7 +29575,7 @@ Asteroid	"T171"
 	RotationPeriod  1370.1
 	Obliquity       5.99635
 	EqAscendNode    17.239
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -29683,7 +29683,7 @@ Asteroid	"T172"
 	RotationPeriod  520.767
 	Obliquity       2.85599
 	EqAscendNode    176.846
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -29790,7 +29790,7 @@ Asteroid	"T173"
 
 	Obliquity       1.9413
 	EqAscendNode    -24.3633
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -29898,7 +29898,7 @@ Asteroid	"T174"
 
 	Obliquity       -0.27442
 	EqAscendNode    -113.631
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -30006,7 +30006,7 @@ Asteroid	"T175"
 
 	Obliquity       0.044161
 	EqAscendNode    -28.3197
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -30115,7 +30115,7 @@ Asteroid	"T176"
 	RotationPeriod  2369.77
 	Obliquity       -2.45835
 	EqAscendNode    -45.6037
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -30223,7 +30223,7 @@ Asteroid	"T177"
 	RotationPeriod  2279.15
 	Obliquity       -2.63427
 	EqAscendNode    89.9046
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -30330,7 +30330,7 @@ Asteroid	"T178"
 
 	Obliquity       -0.924854
 	EqAscendNode    -120.145
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -30438,7 +30438,7 @@ Asteroid	"T179"
 
 	Obliquity       -1.69564
 	EqAscendNode    79.0236
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -30546,7 +30546,7 @@ Asteroid	"T180"
 
 	Obliquity       1.55527
 	EqAscendNode    138.029
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -30654,7 +30654,7 @@ Asteroid	"T181"
 
 	Obliquity       -1.56622
 	EqAscendNode    108.261
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -30762,7 +30762,7 @@ Asteroid	"T182"
 
 	Obliquity       2.8069
 	EqAscendNode    116.511
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -30870,7 +30870,7 @@ Asteroid	"T183"
 
 	Obliquity       1.3155
 	EqAscendNode    -165.965
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -30979,7 +30979,7 @@ Asteroid	"T184"
 	RotationPeriod  1216.49
 	Obliquity       -1.73772
 	EqAscendNode    155.188
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -31087,7 +31087,7 @@ Asteroid	"T185"
 	RotationPeriod  1888.74
 	Obliquity       1.27942
 	EqAscendNode    -59.1475
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -31195,7 +31195,7 @@ Asteroid	"T186"
 	RotationPeriod  2065.31
 	Obliquity       2.59243
 	EqAscendNode    153.253
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -31303,7 +31303,7 @@ Asteroid	"T187"
 	RotationPeriod  2450.85
 	Obliquity       0.131119
 	EqAscendNode    18.4524
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -31410,7 +31410,7 @@ Asteroid	"T188"
 
 	Obliquity       -1.62795
 	EqAscendNode    52.6561
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -31518,7 +31518,7 @@ Asteroid	"T189"
 
 	Obliquity       -3.94704
 	EqAscendNode    137.559
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -31627,7 +31627,7 @@ Asteroid	"T190"
 	RotationPeriod  1053.22
 	Obliquity       -2.67202
 	EqAscendNode    -0.179133
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -31735,7 +31735,7 @@ Asteroid	"T191"
 	RotationPeriod  1770.63
 	Obliquity       -0.631639
 	EqAscendNode    -128.321
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -31843,7 +31843,7 @@ Asteroid	"T192"
 	RotationPeriod  2501.91
 	Obliquity       0.0772551
 	EqAscendNode    -61.7476
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -31951,7 +31951,7 @@ Asteroid	"T193"
 	RotationPeriod  7028.07
 	Obliquity       1.08488
 	EqAscendNode    4.56836
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -32058,7 +32058,7 @@ Asteroid	"T194"
 
 	Obliquity       -1.41559
 	EqAscendNode    -173.575
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -32166,7 +32166,7 @@ Asteroid	"T195"
 
 	Obliquity       -1.02863
 	EqAscendNode    4.94772
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -32274,7 +32274,7 @@ Asteroid	"T196"
 
 	Obliquity       -1.38872
 	EqAscendNode    20.5366
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -32383,7 +32383,7 @@ Asteroid	"T197"
 	RotationPeriod  3458.76
 	Obliquity       1.10823
 	EqAscendNode    44.1043
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -32491,7 +32491,7 @@ Asteroid	"T198"
 	RotationPeriod  4279.01
 	Obliquity       -1.05618
 	EqAscendNode    -37.1514
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -32598,7 +32598,7 @@ Asteroid	"T199"
 
 	Obliquity       0.127065
 	EqAscendNode    -39.1573
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -32707,7 +32707,7 @@ Asteroid	"T200"
 	RotationPeriod  1198.54
 	Obliquity       -4.08896
 	EqAscendNode    25.8961
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -32817,7 +32817,7 @@ Planet	"Taris System 7"
 	RotationPeriod  7.89008
 	Obliquity       -7.78385
 	EqAscendNode    38.9462
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.41216
 	AlbedoGeom      0.494593
@@ -32976,7 +32976,7 @@ DwarfMoon	"Taris System 7.D1"
 
 	Obliquity       0.010154
 	EqAscendNode    40.0398
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -33086,7 +33086,7 @@ DwarfMoon	"Taris System 7.D2"
 
 	Obliquity       0.00361597
 	EqAscendNode    90.5397
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -33196,7 +33196,7 @@ DwarfMoon	"Taris System 7.D3"
 
 	Obliquity       -0.00795187
 	EqAscendNode    72.6675
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -33306,7 +33306,7 @@ DwarfMoon	"Taris System 7.D4"
 
 	Obliquity       0.00277427
 	EqAscendNode    -111.157
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -33416,7 +33416,7 @@ Moon	"Taris System 7.1"
 
 	Obliquity       0.270583
 	EqAscendNode    46.7222
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -33548,7 +33548,7 @@ Moon	"Taris System 7.2"
 
 	Obliquity       -0.10833
 	EqAscendNode    64.742
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -33697,7 +33697,7 @@ Moon	"Taris System 7.3"
 
 	Obliquity       -0.916022
 	EqAscendNode    59.932
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -33858,7 +33858,7 @@ Moon	"Taris System 7.4"
 
 	Obliquity       -1.2782
 	EqAscendNode    -179.918
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -33991,7 +33991,7 @@ Moon	"Taris System 7.5"
 
 	Obliquity       -0.90793
 	EqAscendNode    63.6427
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -34124,7 +34124,7 @@ Moon	"Taris System 7.6"
 
 	Obliquity       -0.497369
 	EqAscendNode    95.0135
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -34257,7 +34257,7 @@ Moon	"Taris System 7.7"
 
 	Obliquity       -0.83119
 	EqAscendNode    -11.0492
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -34390,7 +34390,7 @@ Moon	"Taris System 7.8"
 
 	Obliquity       0.32927
 	EqAscendNode    -154.958
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -34567,7 +34567,7 @@ Moon	"Taris System 7.9"
 	RotationPeriod  44.9192
 	Obliquity       30.5554
 	EqAscendNode    -1.66645
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -34719,7 +34719,7 @@ Moon	"Taris System 7.10"
 	RotationPeriod  141.749
 	Obliquity       -26.5973
 	EqAscendNode    37.2557
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -34852,7 +34852,7 @@ DwarfMoon	"Taris System 7.D5"
 	RotationPeriod  2025.22
 	Obliquity       -68.8407
 	EqAscendNode    158.951
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -34960,7 +34960,7 @@ DwarfMoon	"Taris System 7.D6"
 	RotationPeriod  1761.04
 	Obliquity       -31.5907
 	EqAscendNode    -168.048
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -35068,7 +35068,7 @@ DwarfMoon	"Taris System 7.D7"
 	RotationPeriod  1890.23
 	Obliquity       19.9788
 	EqAscendNode    160.258
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -35176,7 +35176,7 @@ DwarfMoon	"Taris System 7.D8"
 	RotationPeriod  1629.56
 	Obliquity       3.71303
 	EqAscendNode    -18.6976
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -35284,7 +35284,7 @@ DwarfMoon	"Taris System 7.D9"
 	RotationPeriod  1455.31
 	Obliquity       143.638
 	EqAscendNode    -4.6489
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -35394,7 +35394,7 @@ Asteroid	"S1"
 	RotationPeriod  768.27
 	Obliquity       116.669
 	EqAscendNode    179.189
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -35502,7 +35502,7 @@ Asteroid	"S2"
 	RotationPeriod  239.103
 	Obliquity       120.707
 	EqAscendNode    255.315
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -35610,7 +35610,7 @@ Asteroid	"S3"
 	RotationPeriod  11623.7
 	Obliquity       0.358629
 	EqAscendNode    -22.1083
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -35718,7 +35718,7 @@ Asteroid	"S4"
 	RotationPeriod  1129.73
 	Obliquity       144.545
 	EqAscendNode    169.912
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -35826,7 +35826,7 @@ Asteroid	"S5"
 	RotationPeriod  419.415
 	Obliquity       8.9195
 	EqAscendNode    180.717
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -35933,7 +35933,7 @@ Asteroid	"S6"
 
 	Obliquity       1.46342
 	EqAscendNode    113.14
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -36042,7 +36042,7 @@ Asteroid	"S7"
 	RotationPeriod  20326
 	Obliquity       1.03072
 	EqAscendNode    146.145
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -36150,7 +36150,7 @@ Asteroid	"S8"
 	RotationPeriod  1002.32
 	Obliquity       62.4319
 	EqAscendNode    -33.6141
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -36258,7 +36258,7 @@ Asteroid	"S9"
 	RotationPeriod  302.374
 	Obliquity       56.2375
 	EqAscendNode    80.9657
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -36366,7 +36366,7 @@ Asteroid	"S10"
 	RotationPeriod  3856.98
 	Obliquity       0.26553
 	EqAscendNode    154.053
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -36474,7 +36474,7 @@ Asteroid	"S11"
 	RotationPeriod  2071.54
 	Obliquity       7.30127
 	EqAscendNode    108.143
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -36582,7 +36582,7 @@ Asteroid	"S12"
 	RotationPeriod  663.174
 	Obliquity       135.918
 	EqAscendNode    -8.6998
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -36689,7 +36689,7 @@ Asteroid	"S13"
 
 	Obliquity       0.0361735
 	EqAscendNode    35.9693
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -36798,7 +36798,7 @@ Asteroid	"S14"
 	RotationPeriod  2779.85
 	Obliquity       60.5367
 	EqAscendNode    -37.2132
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -36906,7 +36906,7 @@ Asteroid	"S15"
 	RotationPeriod  1128.35
 	Obliquity       124.913
 	EqAscendNode    261.018
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -37014,7 +37014,7 @@ Asteroid	"S16"
 	RotationPeriod  298.446
 	Obliquity       294.63
 	EqAscendNode    279.159
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -37121,7 +37121,7 @@ Asteroid	"S17"
 
 	Obliquity       3.8013
 	EqAscendNode    46.5192
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -37230,7 +37230,7 @@ Asteroid	"S18"
 	RotationPeriod  2724.36
 	Obliquity       3.82676
 	EqAscendNode    -0.595265
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -37338,7 +37338,7 @@ Asteroid	"S19"
 	RotationPeriod  598.483
 	Obliquity       159.52
 	EqAscendNode    172.823
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -37446,7 +37446,7 @@ Asteroid	"S20"
 	RotationPeriod  211.774
 	Obliquity       40.1839
 	EqAscendNode    165.241
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -37553,7 +37553,7 @@ Asteroid	"S21"
 
 	Obliquity       -2.99489
 	EqAscendNode    170.918
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -37662,7 +37662,7 @@ Asteroid	"S22"
 	RotationPeriod  1364.92
 	Obliquity       17.6241
 	EqAscendNode    132.542
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -37770,7 +37770,7 @@ Asteroid	"S23"
 	RotationPeriod  442.309
 	Obliquity       173.752
 	EqAscendNode    139.211
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -37877,7 +37877,7 @@ Asteroid	"S24"
 
 	Obliquity       -5.38726
 	EqAscendNode    -87.6026
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -37986,7 +37986,7 @@ Asteroid	"S25"
 	RotationPeriod  2041.29
 	Obliquity       159.699
 	EqAscendNode    -18.0095
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -38094,7 +38094,7 @@ Asteroid	"S26"
 	RotationPeriod  809.169
 	Obliquity       119.264
 	EqAscendNode    79.9292
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -38202,7 +38202,7 @@ Asteroid	"S27"
 	RotationPeriod  311.122
 	Obliquity       231.077
 	EqAscendNode    57.0729
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -38310,7 +38310,7 @@ Asteroid	"S28"
 	RotationPeriod  6202.44
 	Obliquity       -1.57295
 	EqAscendNode    46.9563
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -38417,7 +38417,7 @@ Asteroid	"S29"
 
 	Obliquity       0.152313
 	EqAscendNode    -95.2517
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -38526,7 +38526,7 @@ Asteroid	"S30"
 	RotationPeriod  651.162
 	Obliquity       93.966
 	EqAscendNode    131.533
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -38633,7 +38633,7 @@ Asteroid	"S31"
 
 	Obliquity       6.85113
 	EqAscendNode    15.6294
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -38742,7 +38742,7 @@ Asteroid	"S32"
 	RotationPeriod  3135.84
 	Obliquity       7.21314
 	EqAscendNode    19.2627
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -38850,7 +38850,7 @@ Asteroid	"S33"
 	RotationPeriod  1269.79
 	Obliquity       12.4895
 	EqAscendNode    48.5037
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -38958,7 +38958,7 @@ Asteroid	"S34"
 	RotationPeriod  375.964
 	Obliquity       207.186
 	EqAscendNode    205.813
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -39066,7 +39066,7 @@ Asteroid	"S35"
 	RotationPeriod  7886.25
 	Obliquity       -2.30718
 	EqAscendNode    85.1568
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -39174,7 +39174,7 @@ Asteroid	"S36"
 	RotationPeriod  1874.43
 	Obliquity       135.523
 	EqAscendNode    111.681
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -39282,7 +39282,7 @@ Asteroid	"S37"
 	RotationPeriod  820.985
 	Obliquity       49.9979
 	EqAscendNode    171.095
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -39390,7 +39390,7 @@ Asteroid	"S38"
 	RotationPeriod  184.361
 	Obliquity       277.39
 	EqAscendNode    129.364
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -39498,7 +39498,7 @@ Asteroid	"S39"
 	RotationPeriod  9517.05
 	Obliquity       2.68272
 	EqAscendNode    -133.298
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -39606,7 +39606,7 @@ Asteroid	"S40"
 	RotationPeriod  1375.25
 	Obliquity       249.32
 	EqAscendNode    107.075
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -39714,7 +39714,7 @@ Asteroid	"S41"
 	RotationPeriod  366.102
 	Obliquity       162.182
 	EqAscendNode    79.198
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -39822,7 +39822,7 @@ Asteroid	"S42"
 	RotationPeriod  5574.33
 	Obliquity       -3.48043
 	EqAscendNode    148.867
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -39930,7 +39930,7 @@ Asteroid	"S43"
 	RotationPeriod  2736.13
 	Obliquity       20.5692
 	EqAscendNode    -90.7722
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -40038,7 +40038,7 @@ Asteroid	"S44"
 	RotationPeriod  721.059
 	Obliquity       38.1043
 	EqAscendNode    32.4934
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -40146,7 +40146,7 @@ Asteroid	"S45"
 	RotationPeriod  266.698
 	Obliquity       183.546
 	EqAscendNode    14.3117
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -40253,7 +40253,7 @@ Asteroid	"S46"
 
 	Obliquity       -7.72972
 	EqAscendNode    -119.933
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -40362,7 +40362,7 @@ Asteroid	"S47"
 	RotationPeriod  1579.14
 	Obliquity       62.0661
 	EqAscendNode    -19.8221
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -40470,7 +40470,7 @@ Asteroid	"S48"
 	RotationPeriod  529.171
 	Obliquity       74.1701
 	EqAscendNode    197.764
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -40578,7 +40578,7 @@ Asteroid	"S49"
 	RotationPeriod  6784.82
 	Obliquity       5.43923
 	EqAscendNode    95.9564
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -40686,7 +40686,7 @@ Asteroid	"S50"
 	RotationPeriod  3296.44
 	Obliquity       -0.728453
 	EqAscendNode    -84.9818
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -40794,7 +40794,7 @@ Asteroid	"S51"
 	RotationPeriod  1201.73
 	Obliquity       86.274
 	EqAscendNode    53.3964
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -40902,7 +40902,7 @@ Asteroid	"S52"
 	RotationPeriod  387.002
 	Obliquity       111.191
 	EqAscendNode    92.9493
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -41010,7 +41010,7 @@ Asteroid	"S53"
 	RotationPeriod  3926
 	Obliquity       20.6715
 	EqAscendNode    -3.78041
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -41118,7 +41118,7 @@ Asteroid	"S54"
 	RotationPeriod  2351.56
 	Obliquity       13.5579
 	EqAscendNode    124.483
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -41226,7 +41226,7 @@ Asteroid	"S55"
 	RotationPeriod  732.763
 	Obliquity       17.355
 	EqAscendNode    137.502
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -41334,7 +41334,7 @@ Asteroid	"S56"
 	RotationPeriod  184.387
 	Obliquity       184.578
 	EqAscendNode    101.537
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -41442,7 +41442,7 @@ Asteroid	"S57"
 	RotationPeriod  23376.8
 	Obliquity       0.19317
 	EqAscendNode    -128.124
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -41550,7 +41550,7 @@ Asteroid	"S58"
 	RotationPeriod  1778.52
 	Obliquity       25.0945
 	EqAscendNode    -133.308
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -41658,7 +41658,7 @@ Asteroid	"S59"
 	RotationPeriod  392.179
 	Obliquity       53.2615
 	EqAscendNode    16.6601
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -41766,7 +41766,7 @@ Asteroid	"S60"
 	RotationPeriod  15653.1
 	Obliquity       -0.733756
 	EqAscendNode    -162.01
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -41873,7 +41873,7 @@ Asteroid	"S61"
 
 	Obliquity       0.397019
 	EqAscendNode    134.491
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -41982,7 +41982,7 @@ Asteroid	"S62"
 	RotationPeriod  901.797
 	Obliquity       237.433
 	EqAscendNode    221.603
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -42090,7 +42090,7 @@ Asteroid	"S63"
 	RotationPeriod  231.604
 	Obliquity       121.198
 	EqAscendNode    260.716
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -42198,7 +42198,7 @@ Asteroid	"S64"
 	RotationPeriod  3532.33
 	Obliquity       69.5777
 	EqAscendNode    -9.63346
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -42306,7 +42306,7 @@ Asteroid	"S65"
 	RotationPeriod  2797.71
 	Obliquity       2.24489
 	EqAscendNode    -162.389
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -42414,7 +42414,7 @@ Asteroid	"S66"
 	RotationPeriod  526.255
 	Obliquity       1.46566
 	EqAscendNode    97.142
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -42521,7 +42521,7 @@ Asteroid	"S67"
 
 	Obliquity       3.3776
 	EqAscendNode    178.113
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -42630,7 +42630,7 @@ Asteroid	"S68"
 	RotationPeriod  3655.94
 	Obliquity       1.08571
 	EqAscendNode    103.001
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -42738,7 +42738,7 @@ Asteroid	"S69"
 	RotationPeriod  1030.44
 	Obliquity       80.0424
 	EqAscendNode    74.6222
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -42846,7 +42846,7 @@ Asteroid	"S70"
 	RotationPeriod  337.592
 	Obliquity       45.2607
 	EqAscendNode    101.842
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -42954,7 +42954,7 @@ Asteroid	"S71"
 	RotationPeriod  14463
 	Obliquity       -6.15167
 	EqAscendNode    -120.954
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -43062,7 +43062,7 @@ Asteroid	"S72"
 	RotationPeriod  1883.97
 	Obliquity       18.5347
 	EqAscendNode    11.7736
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -43170,7 +43170,7 @@ Asteroid	"S73"
 	RotationPeriod  721.676
 	Obliquity       126.31
 	EqAscendNode    119.678
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -43278,7 +43278,7 @@ Asteroid	"S74"
 	RotationPeriod  236.469
 	Obliquity       94.4293
 	EqAscendNode    1.0988
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -43385,7 +43385,7 @@ Asteroid	"S75"
 
 	Obliquity       1.36346
 	EqAscendNode    132.617
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -43494,7 +43494,7 @@ Asteroid	"S76"
 	RotationPeriod  1366.5
 	Obliquity       52.6781
 	EqAscendNode    -33.5433
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -43602,7 +43602,7 @@ Asteroid	"S77"
 	RotationPeriod  456.212
 	Obliquity       330.986
 	EqAscendNode    326.872
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -43710,7 +43710,7 @@ Asteroid	"S78"
 	RotationPeriod  6273.59
 	Obliquity       8.74414
 	EqAscendNode    -8.57919
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -43818,7 +43818,7 @@ Asteroid	"S79"
 	RotationPeriod  2921.47
 	Obliquity       -2.59635
 	EqAscendNode    -123.375
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -43926,7 +43926,7 @@ Asteroid	"S80"
 	RotationPeriod  1111.36
 	Obliquity       47.2859
 	EqAscendNode    56.3563
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -44034,7 +44034,7 @@ Asteroid	"S81"
 	RotationPeriod  236.776
 	Obliquity       32.219
 	EqAscendNode    173.868
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -44141,7 +44141,7 @@ Asteroid	"S82"
 
 	Obliquity       -0.626948
 	EqAscendNode    96.9824
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -44250,7 +44250,7 @@ Asteroid	"S83"
 	RotationPeriod  2731.22
 	Obliquity       0.427884
 	EqAscendNode    -50.4786
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -44358,7 +44358,7 @@ Asteroid	"S84"
 	RotationPeriod  473.294
 	Obliquity       191.299
 	EqAscendNode    155.797
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -44466,7 +44466,7 @@ Asteroid	"S85"
 	RotationPeriod  9090.07
 	Obliquity       3.49459
 	EqAscendNode    63.7374
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -44574,7 +44574,7 @@ Asteroid	"S86"
 	RotationPeriod  2351.87
 	Obliquity       -3.41405
 	EqAscendNode    -77.1237
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -44682,7 +44682,7 @@ Asteroid	"S87"
 	RotationPeriod  997.856
 	Obliquity       52.4247
 	EqAscendNode    -59.528
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -44790,7 +44790,7 @@ Asteroid	"S88"
 	RotationPeriod  327.406
 	Obliquity       263.041
 	EqAscendNode    105.304
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -44898,7 +44898,7 @@ Asteroid	"S89"
 	RotationPeriod  4575.59
 	Obliquity       2.22548
 	EqAscendNode    35.6108
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -45006,7 +45006,7 @@ Asteroid	"S90"
 	RotationPeriod  3290.06
 	Obliquity       3.99861
 	EqAscendNode    65.7951
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -45114,7 +45114,7 @@ Asteroid	"S91"
 	RotationPeriod  607.353
 	Obliquity       117.207
 	EqAscendNode    -38.4413
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -45222,7 +45222,7 @@ Asteroid	"S92"
 	RotationPeriod  200.183
 	Obliquity       22.9716
 	EqAscendNode    311.692
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -45329,7 +45329,7 @@ Asteroid	"S93"
 
 	Obliquity       -4.43326
 	EqAscendNode    -86.4232
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -45438,7 +45438,7 @@ Asteroid	"S94"
 	RotationPeriod  1235.41
 	Obliquity       17.9457
 	EqAscendNode    163.745
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -45546,7 +45546,7 @@ Asteroid	"S95"
 	RotationPeriod  413.962
 	Obliquity       188.642
 	EqAscendNode    188.65
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -45653,7 +45653,7 @@ Asteroid	"S96"
 
 	Obliquity       1.55101
 	EqAscendNode    -24.7925
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -45762,7 +45762,7 @@ Asteroid	"S97"
 	RotationPeriod  2254.99
 	Obliquity       42.9812
 	EqAscendNode    -49.6253
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -45870,7 +45870,7 @@ Asteroid	"S98"
 	RotationPeriod  1014.31
 	Obliquity       26.5103
 	EqAscendNode    -62.1934
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -45978,7 +45978,7 @@ Asteroid	"S99"
 	RotationPeriod  289.007
 	Obliquity       263.548
 	EqAscendNode    150.527
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -46086,7 +46086,7 @@ Asteroid	"S100"
 	RotationPeriod  7361.73
 	Obliquity       1.73054
 	EqAscendNode    102.667
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -46194,7 +46194,7 @@ Asteroid	"S101"
 	RotationPeriod  2676.99
 	Obliquity       186.34
 	EqAscendNode    144.651
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -46302,7 +46302,7 @@ Asteroid	"S102"
 	RotationPeriod  864.363
 	Obliquity       21.0045
 	EqAscendNode    121.55
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -46410,7 +46410,7 @@ Asteroid	"S103"
 	RotationPeriod  272.617
 	Obliquity       215.669
 	EqAscendNode    98.4496
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -46518,7 +46518,7 @@ Asteroid	"S104"
 	RotationPeriod  5518.17
 	Obliquity       50.3332
 	EqAscendNode    75.3488
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -46626,7 +46626,7 @@ Asteroid	"S105"
 	RotationPeriod  1651.76
 	Obliquity       244.998
 	EqAscendNode    52.2481
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -46734,7 +46734,7 @@ Asteroid	"S106"
 	RotationPeriod  531.138
 	Obliquity       79.6619
 	EqAscendNode    29.1473
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -46842,7 +46842,7 @@ Asteroid	"S107"
 	RotationPeriod  13010.8
 	Obliquity       274.326
 	EqAscendNode    6.0466
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -46950,7 +46950,7 @@ Asteroid	"S108"
 	RotationPeriod  3415.73
 	Obliquity       108.991
 	EqAscendNode    342.946
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -47058,7 +47058,7 @@ Asteroid	"S109"
 	RotationPeriod  1094.59
 	Obliquity       303.655
 	EqAscendNode    319.845
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -47166,7 +47166,7 @@ Asteroid	"S110"
 	RotationPeriod  345.823
 	Obliquity       138.319
 	EqAscendNode    296.744
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -47274,7 +47274,7 @@ Asteroid	"S111"
 	RotationPeriod  7022.08
 	Obliquity       332.984
 	EqAscendNode    273.644
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -47382,7 +47382,7 @@ Asteroid	"S112"
 	RotationPeriod  2265.97
 	Obliquity       167.648
 	EqAscendNode    250.543
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -47490,7 +47490,7 @@ Asteroid	"S113"
 	RotationPeriod  716.508
 	Obliquity       2.31252
 	EqAscendNode    227.442
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -47598,7 +47598,7 @@ Asteroid	"S114"
 	RotationPeriod  14208.3
 	Obliquity       196.977
 	EqAscendNode    204.341
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -47706,7 +47706,7 @@ Asteroid	"S115"
 	RotationPeriod  4684.6
 	Obliquity       31.6413
 	EqAscendNode    181.241
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -47814,7 +47814,7 @@ Asteroid	"S116"
 	RotationPeriod  1482.66
 	Obliquity       226.306
 	EqAscendNode    158.14
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -47922,7 +47922,7 @@ Asteroid	"S117"
 	RotationPeriod  383.397
 	Obliquity       60.97
 	EqAscendNode    135.039
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -48030,7 +48030,7 @@ Asteroid	"S118"
 	RotationPeriod  9512.37
 	Obliquity       255.634
 	EqAscendNode    111.938
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -48138,7 +48138,7 @@ Asteroid	"S119"
 	RotationPeriod  3054.53
 	Obliquity       90.2987
 	EqAscendNode    88.8377
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -48246,7 +48246,7 @@ Asteroid	"S120"
 	RotationPeriod  793.979
 	Obliquity       284.963
 	EqAscendNode    65.7369
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -48354,7 +48354,7 @@ Asteroid	"S121"
 	RotationPeriod  254.132
 	Obliquity       119.627
 	EqAscendNode    42.6362
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -48462,7 +48462,7 @@ Asteroid	"S122"
 	RotationPeriod  6304.03
 	Obliquity       314.292
 	EqAscendNode    19.5354
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -48570,7 +48570,7 @@ Asteroid	"S123"
 	RotationPeriod  1633.67
 	Obliquity       148.956
 	EqAscendNode    356.435
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -48678,7 +48678,7 @@ Asteroid	"S124"
 	RotationPeriod  525.981
 	Obliquity       343.621
 	EqAscendNode    333.334
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -48786,7 +48786,7 @@ Asteroid	"S125"
 	RotationPeriod  12693.8
 	Obliquity       178.285
 	EqAscendNode    310.233
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -48894,7 +48894,7 @@ Asteroid	"S126"
 	RotationPeriod  3368.38
 	Obliquity       12.9493
 	EqAscendNode    287.132
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -49002,7 +49002,7 @@ Asteroid	"S127"
 	RotationPeriod  1089.86
 	Obliquity       207.614
 	EqAscendNode    264.032
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -49110,7 +49110,7 @@ Asteroid	"S128"
 	RotationPeriod  323.754
 	Obliquity       42.278
 	EqAscendNode    240.931
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -49218,7 +49218,7 @@ Asteroid	"S129"
 	RotationPeriod  6903.05
 	Obliquity       236.942
 	EqAscendNode    217.83
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -49326,7 +49326,7 @@ Asteroid	"S130"
 	RotationPeriod  2249.31
 	Obliquity       71.6068
 	EqAscendNode    194.729
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -49434,7 +49434,7 @@ Asteroid	"S131"
 	RotationPeriod  712.012
 	Obliquity       266.271
 	EqAscendNode    171.629
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -49542,7 +49542,7 @@ Asteroid	"S132"
 	RotationPeriod  14265.4
 	Obliquity       100.936
 	EqAscendNode    148.528
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -49650,7 +49650,7 @@ Asteroid	"S133"
 	RotationPeriod  4655.24
 	Obliquity       295.6
 	EqAscendNode    125.427
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -49758,7 +49758,7 @@ Asteroid	"S134"
 	RotationPeriod  1384
 	Obliquity       130.264
 	EqAscendNode    102.327
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -49866,7 +49866,7 @@ Asteroid	"S135"
 	RotationPeriod  436.338
 	Obliquity       324.929
 	EqAscendNode    79.2258
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -49974,7 +49974,7 @@ Asteroid	"S136"
 	RotationPeriod  8876.84
 	Obliquity       159.593
 	EqAscendNode    56.125
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -50082,7 +50082,7 @@ Asteroid	"S137"
 	RotationPeriod  2851.9
 	Obliquity       354.257
 	EqAscendNode    33.0243
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -50190,7 +50190,7 @@ Asteroid	"S138"
 	RotationPeriod  902.38
 	Obliquity       188.922
 	EqAscendNode    9.92354
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -50298,7 +50298,7 @@ Asteroid	"S139"
 	RotationPeriod  233.469
 	Obliquity       23.5861
 	EqAscendNode    346.823
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -50406,7 +50406,7 @@ Asteroid	"S140"
 	RotationPeriod  5899.56
 	Obliquity       218.25
 	EqAscendNode    323.722
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -50514,7 +50514,7 @@ Asteroid	"S141"
 	RotationPeriod  1870.85
 	Obliquity       52.9148
 	EqAscendNode    300.621
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -50622,7 +50622,7 @@ Asteroid	"S142"
 	RotationPeriod  523.238
 	Obliquity       247.579
 	EqAscendNode    277.521
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -50730,7 +50730,7 @@ Asteroid	"S143"
 	RotationPeriod  11927.9
 	Obliquity       82.2436
 	EqAscendNode    254.42
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -50838,7 +50838,7 @@ Asteroid	"S144"
 	RotationPeriod  3861.96
 	Obliquity       276.908
 	EqAscendNode    231.319
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -50946,7 +50946,7 @@ Asteroid	"S145"
 	RotationPeriod  1000.98
 	Obliquity       111.572
 	EqAscendNode    208.218
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -51054,7 +51054,7 @@ Asteroid	"S146"
 	RotationPeriod  320.341
 	Obliquity       306.237
 	EqAscendNode    185.118
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -51162,7 +51162,7 @@ Asteroid	"S147"
 	RotationPeriod  7948.29
 	Obliquity       140.901
 	EqAscendNode    162.017
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -51270,7 +51270,7 @@ Asteroid	"S148"
 	RotationPeriod  2066.56
 	Obliquity       335.565
 	EqAscendNode    138.916
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -51378,7 +51378,7 @@ Asteroid	"S149"
 	RotationPeriod  663.733
 	Obliquity       170.23
 	EqAscendNode    115.815
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -51486,7 +51486,7 @@ Asteroid	"S150"
 	RotationPeriod  16299.6
 	Obliquity       4.89416
 	EqAscendNode    92.7146
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -51594,7 +51594,7 @@ Asteroid	"S151"
 	RotationPeriod  4259.71
 	Obliquity       199.559
 	EqAscendNode    69.6139
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -51702,7 +51702,7 @@ Asteroid	"S152"
 	RotationPeriod  1373.83
 	Obliquity       34.2229
 	EqAscendNode    46.5131
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -51810,7 +51810,7 @@ Asteroid	"S153"
 	RotationPeriod  433.75
 	Obliquity       228.887
 	EqAscendNode    23.4124
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -51918,7 +51918,7 @@ Asteroid	"S154"
 	RotationPeriod  8705.19
 	Obliquity       63.5516
 	EqAscendNode    0.311644
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -52026,7 +52026,7 @@ Asteroid	"S155"
 	RotationPeriod  2842.03
 	Obliquity       258.216
 	EqAscendNode    337.211
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -52134,7 +52134,7 @@ Asteroid	"S156"
 	RotationPeriod  897.252
 	Obliquity       92.8804
 	EqAscendNode    314.11
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -52242,7 +52242,7 @@ Asteroid	"S157"
 	RotationPeriod  231.134
 	Obliquity       287.545
 	EqAscendNode    291.009
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -52350,7 +52350,7 @@ Asteroid	"S158"
 	RotationPeriod  5849.85
 	Obliquity       122.209
 	EqAscendNode    267.909
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -52458,7 +52458,7 @@ Asteroid	"S159"
 	RotationPeriod  1853.37
 	Obliquity       316.873
 	EqAscendNode    244.808
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -52566,7 +52566,7 @@ Asteroid	"S160"
 	RotationPeriod  478.875
 	Obliquity       151.538
 	EqAscendNode    221.707
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -52674,7 +52674,7 @@ Asteroid	"S161"
 	RotationPeriod  12070
 	Obliquity       346.202
 	EqAscendNode    198.606
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -52782,7 +52782,7 @@ Asteroid	"S162"
 	RotationPeriod  3833.17
 	Obliquity       180.867
 	EqAscendNode    175.506
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -52890,7 +52890,7 @@ Asteroid	"S163"
 	RotationPeriod  1139.26
 	Obliquity       15.531
 	EqAscendNode    152.405
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -52998,7 +52998,7 @@ Asteroid	"S164"
 	RotationPeriod  294.448
 	Obliquity       210.195
 	EqAscendNode    129.304
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -53106,7 +53106,7 @@ Asteroid	"S165"
 	RotationPeriod  7399.07
 	Obliquity       44.8597
 	EqAscendNode    106.203
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -53214,7 +53214,7 @@ Asteroid	"S166"
 	RotationPeriod  2220.67
 	Obliquity       239.524
 	EqAscendNode    83.1027
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -53322,7 +53322,7 @@ Asteroid	"S167"
 	RotationPeriod  609.523
 	Obliquity       74.1884
 	EqAscendNode    60.002
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -53430,7 +53430,7 @@ Asteroid	"S168"
 	RotationPeriod  14959.1
 	Obliquity       268.853
 	EqAscendNode    36.9012
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -53538,7 +53538,7 @@ Asteroid	"S169"
 	RotationPeriod  4855.77
 	Obliquity       103.517
 	EqAscendNode    13.8005
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -53646,7 +53646,7 @@ Asteroid	"S170"
 	RotationPeriod  1260.68
 	Obliquity       298.182
 	EqAscendNode    350.7
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -53754,7 +53754,7 @@ Asteroid	"S171"
 	RotationPeriod  403.921
 	Obliquity       132.846
 	EqAscendNode    327.599
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -53862,7 +53862,7 @@ Asteroid	"S172"
 	RotationPeriod  10058
 	Obliquity       327.51
 	EqAscendNode    304.498
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -53970,7 +53970,7 @@ Asteroid	"S173"
 	RotationPeriod  2608.7
 	Obliquity       162.175
 	EqAscendNode    281.398
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -54078,7 +54078,7 @@ Asteroid	"S174"
 	RotationPeriod  837.003
 	Obliquity       356.839
 	EqAscendNode    258.297
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -54186,7 +54186,7 @@ Asteroid	"S175"
 	RotationPeriod  264.12
 	Obliquity       191.503
 	EqAscendNode    235.196
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -54294,7 +54294,7 @@ Asteroid	"S176"
 	RotationPeriod  5365.18
 	Obliquity       26.1677
 	EqAscendNode    212.095
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -54402,7 +54402,7 @@ Asteroid	"S177"
 	RotationPeriod  1731.27
 	Obliquity       220.832
 	EqAscendNode    188.995
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -54510,7 +54510,7 @@ Asteroid	"S178"
 	RotationPeriod  547.011
 	Obliquity       55.4965
 	EqAscendNode    165.894
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -54618,7 +54618,7 @@ Asteroid	"S179"
 	RotationPeriod  10944.7
 	Obliquity       250.161
 	EqAscendNode    142.793
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -54726,7 +54726,7 @@ Asteroid	"S180"
 	RotationPeriod  3560.49
 	Obliquity       84.8252
 	EqAscendNode    119.692
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -54834,7 +54834,7 @@ Asteroid	"S181"
 	RotationPeriod  1131.14
 	Obliquity       279.49
 	EqAscendNode    96.5916
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -54942,7 +54942,7 @@ Asteroid	"S182"
 	RotationPeriod  291.303
 	Obliquity       114.154
 	EqAscendNode    73.4908
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -55050,7 +55050,7 @@ Asteroid	"S183"
 	RotationPeriod  7354.24
 	Obliquity       308.818
 	EqAscendNode    50.3901
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -55158,7 +55158,7 @@ Asteroid	"S184"
 	RotationPeriod  2341.69
 	Obliquity       143.483
 	EqAscendNode    27.2893
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -55266,7 +55266,7 @@ Asteroid	"S185"
 	RotationPeriod  603.717
 	Obliquity       338.147
 	EqAscendNode    4.18859
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -55374,7 +55374,7 @@ Asteroid	"S186"
 	RotationPeriod  14844.2
 	Obliquity       172.811
 	EqAscendNode    341.088
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -55482,7 +55482,7 @@ Asteroid	"S187"
 	RotationPeriod  4847.93
 	Obliquity       7.4758
 	EqAscendNode    317.987
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -55590,7 +55590,7 @@ Asteroid	"S188"
 	RotationPeriod  1249.62
 	Obliquity       202.14
 	EqAscendNode    294.886
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -55698,7 +55698,7 @@ Asteroid	"S189"
 	RotationPeriod  401.743
 	Obliquity       36.8045
 	EqAscendNode    271.786
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -55806,7 +55806,7 @@ Asteroid	"S190"
 	RotationPeriod  9417.69
 	Obliquity       231.469
 	EqAscendNode    248.685
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -55914,7 +55914,7 @@ Asteroid	"S191"
 	RotationPeriod  2954.94
 	Obliquity       66.1333
 	EqAscendNode    225.584
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -56022,7 +56022,7 @@ Asteroid	"S192"
 	RotationPeriod  768.591
 	Obliquity       260.798
 	EqAscendNode    202.483
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -56130,7 +56130,7 @@ Asteroid	"S193"
 	RotationPeriod  245.413
 	Obliquity       95.462
 	EqAscendNode    179.383
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -56238,7 +56238,7 @@ Asteroid	"S194"
 	RotationPeriod  6101.1
 	Obliquity       290.126
 	EqAscendNode    156.282
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -56346,7 +56346,7 @@ Asteroid	"S195"
 	RotationPeriod  1592.55
 	Obliquity       124.791
 	EqAscendNode    133.181
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -56454,7 +56454,7 @@ Asteroid	"S196"
 	RotationPeriod  509.291
 	Obliquity       319.455
 	EqAscendNode    110.08
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -56562,7 +56562,7 @@ Asteroid	"S197"
 	RotationPeriod  12569.4
 	Obliquity       154.119
 	EqAscendNode    86.9797
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -56670,7 +56670,7 @@ Asteroid	"S198"
 	RotationPeriod  3276.03
 	Obliquity       348.784
 	EqAscendNode    63.8789
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -56778,7 +56778,7 @@ Asteroid	"S199"
 	RotationPeriod  1055.09
 	Obliquity       183.448
 	EqAscendNode    40.7782
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -56886,7 +56886,7 @@ Asteroid	"S200"
 	RotationPeriod  333.116
 	Obliquity       18.1126
 	EqAscendNode    17.6774
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -56994,7 +56994,7 @@ Asteroid	"S201"
 	RotationPeriod  6795.65
 	Obliquity       212.777
 	EqAscendNode    354.577
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -57102,7 +57102,7 @@ Asteroid	"S202"
 	RotationPeriod  2181.64
 	Obliquity       47.4413
 	EqAscendNode    331.476
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -57210,7 +57210,7 @@ Asteroid	"S203"
 	RotationPeriod  689.716
 	Obliquity       242.106
 	EqAscendNode    308.375
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -57318,7 +57318,7 @@ Asteroid	"S204"
 	RotationPeriod  13885.4
 	Obliquity       76.7701
 	EqAscendNode    285.274
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -57426,7 +57426,7 @@ Asteroid	"S205"
 	RotationPeriod  4478.2
 	Obliquity       271.434
 	EqAscendNode    262.174
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -57534,7 +57534,7 @@ Asteroid	"S206"
 	RotationPeriod  1425.36
 	Obliquity       106.099
 	EqAscendNode    239.073
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -57642,7 +57642,7 @@ Asteroid	"S207"
 	RotationPeriod  366.411
 	Obliquity       300.763
 	EqAscendNode    215.972
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -57750,7 +57750,7 @@ Asteroid	"S208"
 	RotationPeriod  9260.23
 	Obliquity       135.428
 	EqAscendNode    192.871
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -57858,7 +57858,7 @@ Asteroid	"S209"
 	RotationPeriod  2951.12
 	Obliquity       330.092
 	EqAscendNode    169.771
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -57966,7 +57966,7 @@ Asteroid	"S210"
 	RotationPeriod  760.959
 	Obliquity       164.756
 	EqAscendNode    146.67
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -58074,7 +58074,7 @@ Asteroid	"S211"
 	RotationPeriod  244.702
 	Obliquity       359.421
 	EqAscendNode    123.569
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -58182,7 +58182,7 @@ Asteroid	"S212"
 	RotationPeriod  6084.03
 	Obliquity       194.085
 	EqAscendNode    100.469
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -58290,7 +58290,7 @@ Asteroid	"S213"
 	RotationPeriod  1573.74
 	Obliquity       28.7494
 	EqAscendNode    77.3678
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -58398,7 +58398,7 @@ Asteroid	"S214"
 	RotationPeriod  506.769
 	Obliquity       223.414
 	EqAscendNode    54.267
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -58506,7 +58506,7 @@ Asteroid	"S215"
 	RotationPeriod  12566.6
 	Obliquity       58.0781
 	EqAscendNode    31.1663
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -58614,7 +58614,7 @@ Asteroid	"S216"
 	RotationPeriod  3260.97
 	Obliquity       252.742
 	EqAscendNode    8.06554
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -58722,7 +58722,7 @@ Asteroid	"S217"
 	RotationPeriod  1048.09
 	Obliquity       87.4069
 	EqAscendNode    344.965
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -58830,7 +58830,7 @@ Asteroid	"S218"
 	RotationPeriod  331.017
 	Obliquity       282.071
 	EqAscendNode    321.864
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -58938,7 +58938,7 @@ Asteroid	"S219"
 	RotationPeriod  6738.04
 	Obliquity       116.736
 	EqAscendNode    298.763
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -59046,7 +59046,7 @@ Asteroid	"S220"
 	RotationPeriod  2000.53
 	Obliquity       311.4
 	EqAscendNode    275.663
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -59154,7 +59154,7 @@ Asteroid	"S221"
 	RotationPeriod  644.732
 	Obliquity       146.064
 	EqAscendNode    252.562
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -59262,7 +59262,7 @@ Asteroid	"S222"
 	RotationPeriod  15746.8
 	Obliquity       340.729
 	EqAscendNode    229.461
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -59370,7 +59370,7 @@ Asteroid	"S223"
 	RotationPeriod  4139.28
 	Obliquity       175.393
 	EqAscendNode    206.36
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -59478,7 +59478,7 @@ Asteroid	"S224"
 	RotationPeriod  1326.69
 	Obliquity       10.0574
 	EqAscendNode    183.26
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -59586,7 +59586,7 @@ Asteroid	"S225"
 	RotationPeriod  419.857
 	Obliquity       204.722
 	EqAscendNode    160.159
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -59694,7 +59694,7 @@ Asteroid	"S226"
 	RotationPeriod  8451.63
 	Obliquity       39.3862
 	EqAscendNode    137.058
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -59802,7 +59802,7 @@ Asteroid	"S227"
 	RotationPeriod  2741.85
 	Obliquity       234.051
 	EqAscendNode    113.957
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -59910,7 +59910,7 @@ Asteroid	"S228"
 	RotationPeriod  869.927
 	Obliquity       68.7149
 	EqAscendNode    90.8566
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -60018,7 +60018,7 @@ Asteroid	"S229"
 	RotationPeriod  224.785
 	Obliquity       263.379
 	EqAscendNode    67.7559
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -60126,7 +60126,7 @@ Asteroid	"S230"
 	RotationPeriod  5684.05
 	Obliquity       98.0437
 	EqAscendNode    44.6551
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -60234,7 +60234,7 @@ Asteroid	"S231"
 	RotationPeriod  1800.66
 	Obliquity       292.708
 	EqAscendNode    21.5544
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -60342,7 +60342,7 @@ Asteroid	"S232"
 	RotationPeriod  465.68
 	Obliquity       127.372
 	EqAscendNode    358.454
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -60450,7 +60450,7 @@ Asteroid	"S233"
 	RotationPeriod  11691.9
 	Obliquity       322.037
 	EqAscendNode    335.353
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -60558,7 +60558,7 @@ Asteroid	"S234"
 	RotationPeriod  3722.05
 	Obliquity       156.701
 	EqAscendNode    312.252
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -60666,7 +60666,7 @@ Asteroid	"S235"
 	RotationPeriod  1107.87
 	Obliquity       351.366
 	EqAscendNode    289.151
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -60774,7 +60774,7 @@ Asteroid	"S236"
 	RotationPeriod  308.613
 	Obliquity       186.03
 	EqAscendNode    266.051
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -60882,7 +60882,7 @@ Asteroid	"S237"
 	RotationPeriod  7634.8
 	Obliquity       20.6942
 	EqAscendNode    242.95
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -60990,7 +60990,7 @@ Asteroid	"S238"
 	RotationPeriod  1983.65
 	Obliquity       215.359
 	EqAscendNode    219.849
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -61098,7 +61098,7 @@ Asteroid	"S239"
 	RotationPeriod  638.348
 	Obliquity       50.023
 	EqAscendNode    196.748
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -61206,7 +61206,7 @@ Asteroid	"S240"
 	RotationPeriod  15361
 	Obliquity       244.687
 	EqAscendNode    173.648
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -61314,7 +61314,7 @@ Asteroid	"S241"
 	RotationPeriod  4092.08
 	Obliquity       79.3517
 	EqAscendNode    150.547
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -61422,7 +61422,7 @@ Asteroid	"S242"
 	RotationPeriod  1322.92
 	Obliquity       274.016
 	EqAscendNode    127.446
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -61530,7 +61530,7 @@ Asteroid	"S243"
 	RotationPeriod  417.237
 	Obliquity       108.68
 	EqAscendNode    104.345
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -61638,7 +61638,7 @@ Asteroid	"S244"
 	RotationPeriod  8450.19
 	Obliquity       303.345
 	EqAscendNode    81.2447
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -61746,7 +61746,7 @@ Asteroid	"S245"
 	RotationPeriod  2735.36
 	Obliquity       138.009
 	EqAscendNode    58.144
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -61854,7 +61854,7 @@ Asteroid	"S246"
 	RotationPeriod  864.634
 	Obliquity       332.674
 	EqAscendNode    35.0432
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -61962,7 +61962,7 @@ Asteroid	"S247"
 	RotationPeriod  222.624
 	Obliquity       167.338
 	EqAscendNode    11.9425
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -62070,7 +62070,7 @@ Asteroid	"S248"
 	RotationPeriod  5614.99
 	Obliquity       2.00229
 	EqAscendNode    348.842
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -62178,7 +62178,7 @@ Asteroid	"S249"
 	RotationPeriod  1682.12
 	Obliquity       196.667
 	EqAscendNode    325.741
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -62286,7 +62286,7 @@ Asteroid	"S250"
 	RotationPeriod  529.643
 	Obliquity       31.331
 	EqAscendNode    302.64
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -62394,7 +62394,7 @@ Asteroid	"S251"
 	RotationPeriod  10733.7
 	Obliquity       225.995
 	EqAscendNode    279.539
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -62502,7 +62502,7 @@ Asteroid	"S252"
 	RotationPeriod  3459.86
 	Obliquity       60.6598
 	EqAscendNode    256.439
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -62610,7 +62610,7 @@ Asteroid	"S253"
 	RotationPeriod  1095.66
 	Obliquity       255.324
 	EqAscendNode    233.338
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -62718,7 +62718,7 @@ Asteroid	"S254"
 	RotationPeriod  283.585
 	Obliquity       89.9885
 	EqAscendNode    210.237
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -62826,7 +62826,7 @@ Asteroid	"S255"
 	RotationPeriod  7155.36
 	Obliquity       284.653
 	EqAscendNode    187.137
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -62934,7 +62934,7 @@ Asteroid	"S256"
 	RotationPeriod  2268.49
 	Obliquity       119.317
 	EqAscendNode    164.036
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -63042,7 +63042,7 @@ Asteroid	"S257"
 	RotationPeriod  586.807
 	Obliquity       313.982
 	EqAscendNode    140.935
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -63150,7 +63150,7 @@ Asteroid	"S258"
 	RotationPeriod  14639.6
 	Obliquity       148.646
 	EqAscendNode    117.834
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -63258,7 +63258,7 @@ Asteroid	"S259"
 	RotationPeriod  4688.19
 	Obliquity       343.31
 	EqAscendNode    94.7336
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -63366,7 +63366,7 @@ Asteroid	"S260"
 	RotationPeriod  1315.45
 	Obliquity       177.975
 	EqAscendNode    71.6328
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -63474,7 +63474,7 @@ Asteroid	"S261"
 	RotationPeriod  388.961
 	Obliquity       12.6391
 	EqAscendNode    48.5321
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -63582,7 +63582,7 @@ Asteroid	"S262"
 	RotationPeriod  9525
 	Obliquity       207.303
 	EqAscendNode    25.4313
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -63690,7 +63690,7 @@ Asteroid	"S263"
 	RotationPeriod  2512.6
 	Obliquity       41.9678
 	EqAscendNode    2.33059
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -63798,7 +63798,7 @@ Asteroid	"S264"
 	RotationPeriod  806.197
 	Obliquity       236.632
 	EqAscendNode    339.23
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -63906,7 +63906,7 @@ Asteroid	"S265"
 	RotationPeriod  254.264
 	Obliquity       71.2966
 	EqAscendNode    316.129
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -64014,7 +64014,7 @@ Asteroid	"S266"
 	RotationPeriod  5131.36
 	Obliquity       265.961
 	EqAscendNode    293.028
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -64122,7 +64122,7 @@ Asteroid	"S267"
 	RotationPeriod  1668.61
 	Obliquity       100.625
 	EqAscendNode    269.928
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -64230,7 +64230,7 @@ Asteroid	"S268"
 	RotationPeriod  526.468
 	Obliquity       295.29
 	EqAscendNode    246.827
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -64338,7 +64338,7 @@ Asteroid	"S269"
 	RotationPeriod  12258.9
 	Obliquity       129.954
 	EqAscendNode    223.726
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -64446,7 +64446,7 @@ Asteroid	"S270"
 	RotationPeriod  3432.72
 	Obliquity       324.618
 	EqAscendNode    200.625
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -64554,7 +64554,7 @@ Asteroid	"S271"
 	RotationPeriod  1089.7
 	Obliquity       159.283
 	EqAscendNode    177.525
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -64662,7 +64662,7 @@ Asteroid	"S272"
 	RotationPeriod  280.706
 	Obliquity       353.947
 	EqAscendNode    154.424
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -64770,7 +64770,7 @@ Asteroid	"S273"
 	RotationPeriod  7103.43
 	Obliquity       188.611
 	EqAscendNode    131.323
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -64878,7 +64878,7 @@ Asteroid	"S274"
 	RotationPeriod  2252.07
 	Obliquity       23.2759
 	EqAscendNode    108.222
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -64986,7 +64986,7 @@ Asteroid	"S275"
 	RotationPeriod  581.427
 	Obliquity       217.94
 	EqAscendNode    85.1217
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -65094,7 +65094,7 @@ Asteroid	"S276"
 	RotationPeriod  14694.6
 	Obliquity       52.6046
 	EqAscendNode    62.0209
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -65202,7 +65202,7 @@ Asteroid	"S277"
 	RotationPeriod  4649.49
 	Obliquity       247.269
 	EqAscendNode    38.9202
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -65310,7 +65310,7 @@ Asteroid	"S278"
 	RotationPeriod  1381.76
 	Obliquity       81.9333
 	EqAscendNode    15.8194
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -65418,7 +65418,7 @@ Asteroid	"S279"
 	RotationPeriod  357.693
 	Obliquity       276.598
 	EqAscendNode    352.719
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -65526,7 +65526,7 @@ Asteroid	"S280"
 	RotationPeriod  8999.62
 	Obliquity       111.262
 	EqAscendNode    329.618
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -65634,7 +65634,7 @@ Asteroid	"S281"
 	RotationPeriod  2862.32
 	Obliquity       305.926
 	EqAscendNode    306.517
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -65742,7 +65742,7 @@ Asteroid	"S282"
 	RotationPeriod  740.311
 	Obliquity       140.591
 	EqAscendNode    283.416
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -65850,7 +65850,7 @@ Asteroid	"S283"
 	RotationPeriod  236.817
 	Obliquity       335.255
 	EqAscendNode    260.316
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -65958,7 +65958,7 @@ Asteroid	"S284"
 	RotationPeriod  5872.94
 	Obliquity       169.92
 	EqAscendNode    237.215
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -66066,7 +66066,7 @@ Asteroid	"S285"
 	RotationPeriod  1531.74
 	Obliquity       4.58393
 	EqAscendNode    214.114
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -66174,7 +66174,7 @@ Asteroid	"S286"
 	RotationPeriod  490.407
 	Obliquity       199.248
 	EqAscendNode    191.013
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -66282,7 +66282,7 @@ Asteroid	"S287"
 	RotationPeriod  11916
 	Obliquity       33.9127
 	EqAscendNode    167.913
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -66390,7 +66390,7 @@ Asteroid	"S288"
 	RotationPeriod  3166.11
 	Obliquity       228.577
 	EqAscendNode    144.812
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -66498,7 +66498,7 @@ Asteroid	"S289"
 	RotationPeriod  1014.84
 	Obliquity       63.2414
 	EqAscendNode    121.711
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -66606,7 +66606,7 @@ Asteroid	"S290"
 	RotationPeriod  320.66
 	Obliquity       257.906
 	EqAscendNode    98.6105
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -66714,7 +66714,7 @@ Asteroid	"S291"
 	RotationPeriod  6522.64
 	Obliquity       92.5701
 	EqAscendNode    75.5098
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -66822,7 +66822,7 @@ Asteroid	"S292"
 	RotationPeriod  2102.11
 	Obliquity       287.234
 	EqAscendNode    52.409
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -66930,7 +66930,7 @@ Asteroid	"S293"
 	RotationPeriod  664.026
 	Obliquity       121.899
 	EqAscendNode    29.3083
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -67038,7 +67038,7 @@ Asteroid	"S294"
 	RotationPeriod  13083.6
 	Obliquity       316.563
 	EqAscendNode    6.20754
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -67146,7 +67146,7 @@ Asteroid	"S295"
 	RotationPeriod  4345.72
 	Obliquity       151.228
 	EqAscendNode    343.107
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -67254,7 +67254,7 @@ Asteroid	"S296"
 	RotationPeriod  1374.31
 	Obliquity       345.892
 	EqAscendNode    320.006
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -67362,7 +67362,7 @@ Asteroid	"S297"
 	RotationPeriod  406.682
 	Obliquity       180.556
 	EqAscendNode    296.905
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -67470,7 +67470,7 @@ Asteroid	"S298"
 	RotationPeriod  8847.23
 	Obliquity       15.2207
 	EqAscendNode    273.805
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -67578,7 +67578,7 @@ Asteroid	"S299"
 	RotationPeriod  2845.94
 	Obliquity       209.885
 	EqAscendNode    250.704
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -67686,7 +67686,7 @@ Asteroid	"S300"
 	RotationPeriod  733.242
 	Obliquity       44.5495
 	EqAscendNode    227.603
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -67794,7 +67794,7 @@ Asteroid	"S301"
 	RotationPeriod  235.519
 	Obliquity       239.214
 	EqAscendNode    204.502
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -67902,7 +67902,7 @@ Asteroid	"S302"
 	RotationPeriod  5863.54
 	Obliquity       73.8782
 	EqAscendNode    181.402
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -68010,7 +68010,7 @@ Asteroid	"S303"
 	RotationPeriod  1516.96
 	Obliquity       268.543
 	EqAscendNode    158.301
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -68118,7 +68118,7 @@ Asteroid	"S304"
 	RotationPeriod  487.604
 	Obliquity       103.207
 	EqAscendNode    135.2
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -68226,7 +68226,7 @@ Asteroid	"S305"
 	RotationPeriod  12035.4
 	Obliquity       297.871
 	EqAscendNode    112.099
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -68334,7 +68334,7 @@ Asteroid	"S306"
 	RotationPeriod  3135.48
 	Obliquity       132.536
 	EqAscendNode    88.9986
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -68442,7 +68442,7 @@ Asteroid	"S307"
 	RotationPeriod  932.656
 	Obliquity       327.2
 	EqAscendNode    65.8979
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -68550,7 +68550,7 @@ Asteroid	"S308"
 	RotationPeriod  298.319
 	Obliquity       161.864
 	EqAscendNode    42.7971
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -68658,7 +68658,7 @@ Asteroid	"S309"
 	RotationPeriod  7416.29
 	Obliquity       356.529
 	EqAscendNode    19.6964
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -68766,7 +68766,7 @@ Asteroid	"S310"
 	RotationPeriod  1931.23
 	Obliquity       191.193
 	EqAscendNode    356.596
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -68874,7 +68874,7 @@ Asteroid	"S311"
 	RotationPeriod  618.178
 	Obliquity       25.8575
 	EqAscendNode    333.495
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -68982,7 +68982,7 @@ Asteroid	"S312"
 	RotationPeriod  15186.2
 	Obliquity       220.522
 	EqAscendNode    310.394
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -69090,7 +69090,7 @@ Asteroid	"S313"
 	RotationPeriod  3969.49
 	Obliquity       55.1863
 	EqAscendNode    287.293
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -69198,7 +69198,7 @@ Asteroid	"S314"
 	RotationPeriod  1280.97
 	Obliquity       249.851
 	EqAscendNode    264.193
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -69306,7 +69306,7 @@ Asteroid	"S315"
 	RotationPeriod  404.505
 	Obliquity       84.515
 	EqAscendNode    241.092
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -69414,7 +69414,7 @@ Asteroid	"S316"
 	RotationPeriod  8188.34
 	Obliquity       279.179
 	EqAscendNode    217.991
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -69522,7 +69522,7 @@ Asteroid	"S317"
 	RotationPeriod  2645
 	Obliquity       113.844
 	EqAscendNode    194.89
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -69630,7 +69630,7 @@ Asteroid	"S318"
 	RotationPeriod  836.247
 	Obliquity       308.508
 	EqAscendNode    171.79
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -69738,7 +69738,7 @@ Asteroid	"S319"
 	RotationPeriod  216.453
 	Obliquity       143.172
 	EqAscendNode    148.689
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -69846,7 +69846,7 @@ Asteroid	"S320"
 	RotationPeriod  5474.82
 	Obliquity       337.837
 	EqAscendNode    125.588
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -69954,7 +69954,7 @@ Asteroid	"S321"
 	RotationPeriod  1729.26
 	Obliquity       172.501
 	EqAscendNode    102.487
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -70062,7 +70062,7 @@ Asteroid	"S322"
 	RotationPeriod  445.939
 	Obliquity       7.16557
 	EqAscendNode    79.3867
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -70170,7 +70170,7 @@ Asteroid	"S323"
 	RotationPeriod  11286.3
 	Obliquity       201.83
 	EqAscendNode    56.286
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -70278,7 +70278,7 @@ Asteroid	"S324"
 	RotationPeriod  3579.25
 	Obliquity       36.4943
 	EqAscendNode    33.1852
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -70386,7 +70386,7 @@ Asteroid	"S325"
 	RotationPeriod  923.23
 	Obliquity       231.159
 	EqAscendNode    10.0845
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -70494,7 +70494,7 @@ Asteroid	"S326"
 	RotationPeriod  297.146
 	Obliquity       65.823
 	EqAscendNode    346.984
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -70602,7 +70602,7 @@ Asteroid	"S327"
 	RotationPeriod  7355.11
 	Obliquity       260.487
 	EqAscendNode    323.883
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -70710,7 +70710,7 @@ Asteroid	"S328"
 	RotationPeriod  1913.67
 	Obliquity       95.1518
 	EqAscendNode    300.782
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -70818,7 +70818,7 @@ Asteroid	"S329"
 	RotationPeriod  615.464
 	Obliquity       289.816
 	EqAscendNode    277.682
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -70926,7 +70926,7 @@ Asteroid	"S330"
 	RotationPeriod  14852.6
 	Obliquity       124.48
 	EqAscendNode    254.581
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -71034,7 +71034,7 @@ Asteroid	"S331"
 	RotationPeriod  3953.25
 	Obliquity       319.145
 	EqAscendNode    231.48
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -71142,7 +71142,7 @@ Asteroid	"S332"
 	RotationPeriod  1273.72
 	Obliquity       153.809
 	EqAscendNode    208.379
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -71250,7 +71250,7 @@ Asteroid	"S333"
 	RotationPeriod  401.983
 	Obliquity       348.474
 	EqAscendNode    185.279
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -71358,7 +71358,7 @@ Asteroid	"S334"
 	RotationPeriod  8847.02
 	Obliquity       183.138
 	EqAscendNode    162.178
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -71466,7 +71466,7 @@ Asteroid	"S335"
 	RotationPeriod  2631.14
 	Obliquity       17.8024
 	EqAscendNode    139.077
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -71574,7 +71574,7 @@ Asteroid	"S336"
 	RotationPeriod  778.719
 	Obliquity       212.467
 	EqAscendNode    115.976
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -71682,7 +71682,7 @@ Asteroid	"S337"
 	RotationPeriod  246.281
 	Obliquity       47.1311
 	EqAscendNode    92.8756
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -71790,7 +71790,7 @@ Asteroid	"S338"
 	RotationPeriod  5015.5
 	Obliquity       241.795
 	EqAscendNode    69.7748
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -71898,7 +71898,7 @@ Asteroid	"S339"
 	RotationPeriod  1614.14
 	Obliquity       76.4598
 	EqAscendNode    46.6741
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -72006,7 +72006,7 @@ Asteroid	"S340"
 	RotationPeriod  510.099
 	Obliquity       271.124
 	EqAscendNode    23.5733
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -72114,7 +72114,7 @@ Asteroid	"S341"
 	RotationPeriod  10365.3
 	Obliquity       105.789
 	EqAscendNode    0.47258
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -72222,7 +72222,7 @@ Asteroid	"S342"
 	RotationPeriod  3338.02
 	Obliquity       300.453
 	EqAscendNode    337.372
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -72330,7 +72330,7 @@ Asteroid	"S343"
 	RotationPeriod  1054.86
 	Obliquity       135.117
 	EqAscendNode    314.271
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -72438,7 +72438,7 @@ Asteroid	"S344"
 	RotationPeriod  273.049
 	Obliquity       329.782
 	EqAscendNode    291.17
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -72546,7 +72546,7 @@ Asteroid	"S345"
 	RotationPeriod  6810.88
 	Obliquity       164.446
 	EqAscendNode    268.07
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -72654,7 +72654,7 @@ Asteroid	"S346"
 	RotationPeriod  2176.87
 	Obliquity       359.11
 	EqAscendNode    244.969
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -72762,7 +72762,7 @@ Asteroid	"S347"
 	RotationPeriod  649.795
 	Obliquity       193.775
 	EqAscendNode    221.868
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -72870,7 +72870,7 @@ Asteroid	"S348"
 	RotationPeriod  13959.4
 	Obliquity       28.4392
 	EqAscendNode    198.767
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -72978,7 +72978,7 @@ Asteroid	"S349"
 	RotationPeriod  4511.99
 	Obliquity       223.104
 	EqAscendNode    175.667
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -73086,7 +73086,7 @@ Asteroid	"S350"
 	RotationPeriod  1161.57
 	Obliquity       57.7679
 	EqAscendNode    152.566
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -73194,7 +73194,7 @@ Asteroid	"S351"
 	RotationPeriod  374.711
 	Obliquity       252.432
 	EqAscendNode    129.465
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -73302,7 +73302,7 @@ Asteroid	"S352"
 	RotationPeriod  9284.53
 	Obliquity       87.0966
 	EqAscendNode    106.364
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -73410,7 +73410,7 @@ Asteroid	"S353"
 	RotationPeriod  2769.96
 	Obliquity       281.761
 	EqAscendNode    83.2637
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -73518,7 +73518,7 @@ Asteroid	"S354"
 	RotationPeriod  775.541
 	Obliquity       116.425
 	EqAscendNode    60.1629
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -73626,7 +73626,7 @@ Asteroid	"S355"
 	RotationPeriod  244.767
 	Obliquity       311.09
 	EqAscendNode    37.0622
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -73734,7 +73734,7 @@ Asteroid	"S356"
 	RotationPeriod  4986.27
 	Obliquity       145.754
 	EqAscendNode    13.9614
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -73842,7 +73842,7 @@ Asteroid	"S357"
 	RotationPeriod  1605.62
 	Obliquity       340.418
 	EqAscendNode    350.861
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -73950,7 +73950,7 @@ Asteroid	"S358"
 	RotationPeriod  506.625
 	Obliquity       175.083
 	EqAscendNode    327.76
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -74058,7 +74058,7 @@ Asteroid	"S359"
 	RotationPeriod  10204.2
 	Obliquity       9.74721
 	EqAscendNode    304.659
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -74166,7 +74166,7 @@ Asteroid	"S360"
 	RotationPeriod  3319.8
 	Obliquity       204.412
 	EqAscendNode    281.558
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -74274,7 +74274,7 @@ Asteroid	"S361"
 	RotationPeriod  1047.69
 	Obliquity       39.076
 	EqAscendNode    258.458
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -74382,7 +74382,7 @@ Asteroid	"S362"
 	RotationPeriod  270.349
 	Obliquity       233.74
 	EqAscendNode    235.357
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -74490,7 +74490,7 @@ Asteroid	"S363"
 	RotationPeriod  6846.8
 	Obliquity       68.4047
 	EqAscendNode    212.256
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -74598,7 +74598,7 @@ Asteroid	"S364"
 	RotationPeriod  2148.46
 	Obliquity       263.069
 	EqAscendNode    189.155
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -74706,7 +74706,7 @@ Asteroid	"S365"
 	RotationPeriod  642.925
 	Obliquity       97.7334
 	EqAscendNode    166.055
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -74814,7 +74814,7 @@ Asteroid	"S366"
 	RotationPeriod  14154.1
 	Obliquity       292.398
 	EqAscendNode    142.954
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -74922,7 +74922,7 @@ Asteroid	"S367"
 	RotationPeriod  4206.3
 	Obliquity       127.062
 	EqAscendNode    119.853
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -75030,7 +75030,7 @@ Asteroid	"S368"
 	RotationPeriod  1331
 	Obliquity       321.727
 	EqAscendNode    96.7525
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -75138,7 +75138,7 @@ Asteroid	"S369"
 	RotationPeriod  344.348
 	Obliquity       156.391
 	EqAscendNode    73.6518
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -75246,7 +75246,7 @@ Asteroid	"S370"
 	RotationPeriod  8673.84
 	Obliquity       351.055
 	EqAscendNode    50.551
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -75354,7 +75354,7 @@ Asteroid	"S371"
 	RotationPeriod  2746.97
 	Obliquity       185.72
 	EqAscendNode    27.4503
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -75462,7 +75462,7 @@ Asteroid	"S372"
 	RotationPeriod  712.321
 	Obliquity       20.384
 	EqAscendNode    4.34953
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -75570,7 +75570,7 @@ Asteroid	"S373"
 	RotationPeriod  228.067
 	Obliquity       215.048
 	EqAscendNode    341.249
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -75678,7 +75678,7 @@ Asteroid	"S374"
 	RotationPeriod  5685.85
 	Obliquity       49.7127
 	EqAscendNode    318.148
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -75786,7 +75786,7 @@ Asteroid	"S375"
 	RotationPeriod  1473.45
 	Obliquity       244.377
 	EqAscendNode    295.047
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -75894,7 +75894,7 @@ Asteroid	"S376"
 	RotationPeriod  472.71
 	Obliquity       79.0415
 	EqAscendNode    271.947
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -76002,7 +76002,7 @@ Asteroid	"S377"
 	RotationPeriod  11503.5
 	Obliquity       273.706
 	EqAscendNode    248.846
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -76110,7 +76110,7 @@ Asteroid	"S378"
 	RotationPeriod  3032.06
 	Obliquity       108.37
 	EqAscendNode    225.745
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -76218,7 +76218,7 @@ Asteroid	"S379"
 	RotationPeriod  977.6
 	Obliquity       303.035
 	EqAscendNode    202.644
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -76326,7 +76326,7 @@ Asteroid	"S380"
 	RotationPeriod  308.759
 	Obliquity       137.699
 	EqAscendNode    179.544
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -76434,7 +76434,7 @@ Asteroid	"S381"
 	RotationPeriod  6236.2
 	Obliquity       332.363
 	EqAscendNode    156.443
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -76542,7 +76542,7 @@ Asteroid	"S382"
 	RotationPeriod  2025.47
 	Obliquity       167.028
 	EqAscendNode    133.342
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -76650,7 +76650,7 @@ Asteroid	"S383"
 	RotationPeriod  639.521
 	Obliquity       1.69206
 	EqAscendNode    110.241
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -76758,7 +76758,7 @@ Asteroid	"S384"
 	RotationPeriod  12702.3
 	Obliquity       196.356
 	EqAscendNode    87.1406
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -76866,7 +76866,7 @@ Asteroid	"S385"
 	RotationPeriod  4184.15
 	Obliquity       31.0208
 	EqAscendNode    64.0399
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -76974,7 +76974,7 @@ Asteroid	"S386"
 	RotationPeriod  1320.6
 	Obliquity       225.685
 	EqAscendNode    40.9391
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -77082,7 +77082,7 @@ Asteroid	"S387"
 	RotationPeriod  340.928
 	Obliquity       60.3495
 	EqAscendNode    17.8384
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -77190,7 +77190,7 @@ Asteroid	"S388"
 	RotationPeriod  8500.95
 	Obliquity       255.014
 	EqAscendNode    354.738
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -77298,7 +77298,7 @@ Asteroid	"S389"
 	RotationPeriod  2733.32
 	Obliquity       89.6783
 	EqAscendNode    331.637
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -77406,7 +77406,7 @@ Asteroid	"S390"
 	RotationPeriod  706.046
 	Obliquity       284.343
 	EqAscendNode    308.536
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -77514,7 +77514,7 @@ Asteroid	"S391"
 	RotationPeriod  18927.5
 	Obliquity       119.007
 	EqAscendNode    285.435
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -77622,7 +77622,7 @@ Asteroid	"S392"
 	RotationPeriod  5612.06
 	Obliquity       313.671
 	EqAscendNode    262.335
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -77730,7 +77730,7 @@ Asteroid	"S393"
 	RotationPeriod  1679.74
 	Obliquity       148.336
 	EqAscendNode    239.234
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -77838,7 +77838,7 @@ Asteroid	"S394"
 	RotationPeriod  434.084
 	Obliquity       343
 	EqAscendNode    216.133
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -77946,7 +77946,7 @@ Asteroid	"S395"
 	RotationPeriod  10829.6
 	Obliquity       177.664
 	EqAscendNode    193.032
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -78054,7 +78054,7 @@ Asteroid	"S396"
 	RotationPeriod  3472.02
 	Obliquity       12.3289
 	EqAscendNode    169.932
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -78162,7 +78162,7 @@ Asteroid	"S397"
 	RotationPeriod  899.151
 	Obliquity       206.993
 	EqAscendNode    146.831
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -78270,7 +78270,7 @@ Asteroid	"S398"
 	RotationPeriod  287.666
 	Obliquity       41.6576
 	EqAscendNode    123.73
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -78378,7 +78378,7 @@ Asteroid	"S399"
 	RotationPeriod  7153.84
 	Obliquity       236.322
 	EqAscendNode    100.629
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -78486,7 +78486,7 @@ Asteroid	"S400"
 	RotationPeriod  2013.06
 	Obliquity       70.9863
 	EqAscendNode    77.5287
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -78594,7 +78594,7 @@ Asteroid	"S401"
 	RotationPeriod  633.102
 	Obliquity       265.651
 	EqAscendNode    54.428
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -78702,7 +78702,7 @@ Asteroid	"S402"
 	RotationPeriod  14745.9
 	Obliquity       100.315
 	EqAscendNode    31.3272
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -78810,7 +78810,7 @@ Asteroid	"S403"
 	RotationPeriod  4422.12
 	Obliquity       294.979
 	EqAscendNode    8.22647
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -78918,7 +78918,7 @@ Asteroid	"S404"
 	RotationPeriod  1233.68
 	Obliquity       129.644
 	EqAscendNode    345.126
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -79026,7 +79026,7 @@ Asteroid	"S405"
 	RotationPeriod  389.246
 	Obliquity       324.308
 	EqAscendNode    322.025
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -79134,7 +79134,7 @@ Asteroid	"S406"
 	RotationPeriod  7892.22
 	Obliquity       158.973
 	EqAscendNode    298.924
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -79242,7 +79242,7 @@ Asteroid	"S407"
 	RotationPeriod  2543.34
 	Obliquity       353.637
 	EqAscendNode    275.824
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -79350,7 +79350,7 @@ Asteroid	"S408"
 	RotationPeriod  805.322
 	Obliquity       188.301
 	EqAscendNode    252.723
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -79458,7 +79458,7 @@ Asteroid	"S409"
 	RotationPeriod  18665.5
 	Obliquity       22.9656
 	EqAscendNode    229.622
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -79566,7 +79566,7 @@ Asteroid	"S410"
 	RotationPeriod  5249.01
 	Obliquity       217.63
 	EqAscendNode    206.521
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -79674,7 +79674,7 @@ Asteroid	"S411"
 	RotationPeriod  1667.17
 	Obliquity       52.2944
 	EqAscendNode    183.421
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -79782,7 +79782,7 @@ Asteroid	"S412"
 	RotationPeriod  465.009
 	Obliquity       246.959
 	EqAscendNode    160.32
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -79890,7 +79890,7 @@ Asteroid	"S413"
 	RotationPeriod  10826
 	Obliquity       81.6231
 	EqAscendNode    137.219
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -79998,7 +79998,7 @@ Asteroid	"S414"
 	RotationPeriod  3447.21
 	Obliquity       276.287
 	EqAscendNode    114.118
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -80106,7 +80106,7 @@ Asteroid	"S415"
 	RotationPeriod  890.204
 	Obliquity       110.952
 	EqAscendNode    91.0175
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -80214,7 +80214,7 @@ Asteroid	"S416"
 	RotationPeriod  286.15
 	Obliquity       305.616
 	EqAscendNode    67.9168
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -80322,7 +80322,7 @@ Asteroid	"S417"
 	RotationPeriod  7024.96
 	Obliquity       140.281
 	EqAscendNode    44.8161
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -80430,7 +80430,7 @@ Asteroid	"S418"
 	RotationPeriod  1841.8
 	Obliquity       334.945
 	EqAscendNode    21.7153
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -80538,7 +80538,7 @@ Asteroid	"S419"
 	RotationPeriod  592.364
 	Obliquity       169.609
 	EqAscendNode    358.615
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -80646,7 +80646,7 @@ Asteroid	"S420"
 	RotationPeriod  13831.4
 	Obliquity       4.2737
 	EqAscendNode    335.514
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -80754,7 +80754,7 @@ Asteroid	"S421"
 	RotationPeriod  3806.95
 	Obliquity       198.938
 	EqAscendNode    312.413
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -80862,7 +80862,7 @@ Asteroid	"S422"
 	RotationPeriod  1225.59
 	Obliquity       33.6024
 	EqAscendNode    289.312
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -80970,7 +80970,7 @@ Asteroid	"S423"
 	RotationPeriod  362.587
 	Obliquity       228.267
 	EqAscendNode    266.212
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -81078,7 +81078,7 @@ Asteroid	"S424"
 	RotationPeriod  9020.08
 	Obliquity       62.9312
 	EqAscendNode    243.111
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -81186,7 +81186,7 @@ Asteroid	"S425"
 	RotationPeriod  2347.32
 	Obliquity       257.596
 	EqAscendNode    220.01
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -81294,7 +81294,7 @@ Asteroid	"S426"
 	RotationPeriod  751.192
 	Obliquity       92.2599
 	EqAscendNode    196.909
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -81402,7 +81402,7 @@ Asteroid	"S427"
 	RotationPeriod  18579
 	Obliquity       286.924
 	EqAscendNode    173.809
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -81510,7 +81510,7 @@ Asteroid	"S428"
 	RotationPeriod  4847.13
 	Obliquity       121.589
 	EqAscendNode    150.708
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -81618,7 +81618,7 @@ Asteroid	"S429"
 	RotationPeriod  1555.36
 	Obliquity       316.253
 	EqAscendNode    127.607
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -81726,7 +81726,7 @@ Asteroid	"S430"
 	RotationPeriod  491.197
 	Obliquity       150.917
 	EqAscendNode    104.506
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -81834,7 +81834,7 @@ Asteroid	"S431"
 	RotationPeriod  9918.77
 	Obliquity       345.582
 	EqAscendNode    81.4056
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -81942,7 +81942,7 @@ Asteroid	"S432"
 	RotationPeriod  3217.99
 	Obliquity       180.246
 	EqAscendNode    58.3049
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -82050,7 +82050,7 @@ Asteroid	"S433"
 	RotationPeriod  1015.09
 	Obliquity       14.9105
 	EqAscendNode    35.2042
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -82158,7 +82158,7 @@ Asteroid	"S434"
 	RotationPeriod  262.834
 	Obliquity       209.575
 	EqAscendNode    12.1034
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -82266,7 +82266,7 @@ Asteroid	"S435"
 	RotationPeriod  6624.95
 	Obliquity       44.2392
 	EqAscendNode    349.003
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -82374,7 +82374,7 @@ Asteroid	"S436"
 	RotationPeriod  2100.41
 	Obliquity       238.904
 	EqAscendNode    325.902
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -82482,7 +82482,7 @@ Asteroid	"S437"
 	RotationPeriod  541.456
 	Obliquity       73.568
 	EqAscendNode    302.801
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -82590,7 +82590,7 @@ Asteroid	"S438"
 	RotationPeriod  13646.1
 	Obliquity       268.232
 	EqAscendNode    279.7
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -82698,7 +82698,7 @@ Asteroid	"S439"
 	RotationPeriod  4344.74
 	Obliquity       102.897
 	EqAscendNode    256.6
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -82806,7 +82806,7 @@ Asteroid	"S440"
 	RotationPeriod  1121.86
 	Obliquity       297.561
 	EqAscendNode    233.499
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -82914,7 +82914,7 @@ Asteroid	"S441"
 	RotationPeriod  383.383
 	Obliquity       132.225
 	EqAscendNode    210.398
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -83022,7 +83022,7 @@ Asteroid	"S442"
 	RotationPeriod  8966.93
 	Obliquity       326.89
 	EqAscendNode    187.297
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -83130,7 +83130,7 @@ Asteroid	"S443"
 	RotationPeriod  2319.56
 	Obliquity       161.554
 	EqAscendNode    164.197
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -83238,7 +83238,7 @@ Asteroid	"S444"
 	RotationPeriod  747.261
 	Obliquity       356.219
 	EqAscendNode    141.096
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -83346,7 +83346,7 @@ Asteroid	"S445"
 	RotationPeriod  18472
 	Obliquity       190.883
 	EqAscendNode    117.995
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -83454,7 +83454,7 @@ Asteroid	"S446"
 	RotationPeriod  4773.53
 	Obliquity       25.5473
 	EqAscendNode    94.8945
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -83562,7 +83562,7 @@ Asteroid	"S447"
 	RotationPeriod  1545.43
 	Obliquity       220.212
 	EqAscendNode    71.7937
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -83670,7 +83670,7 @@ Asteroid	"S448"
 	RotationPeriod  488.144
 	Obliquity       54.876
 	EqAscendNode    48.693
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -83778,7 +83778,7 @@ Asteroid	"S449"
 	RotationPeriod  11384.2
 	Obliquity       249.54
 	EqAscendNode    25.5923
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -83886,7 +83886,7 @@ Asteroid	"S450"
 	RotationPeriod  3195.81
 	Obliquity       84.2048
 	EqAscendNode    2.49152
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -83994,7 +83994,7 @@ Asteroid	"S451"
 	RotationPeriod  1003.98
 	Obliquity       278.869
 	EqAscendNode    339.391
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -84102,7 +84102,7 @@ Asteroid	"S452"
 	RotationPeriod  299.084
 	Obliquity       113.534
 	EqAscendNode    316.29
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -84210,7 +84210,7 @@ Asteroid	"S453"
 	RotationPeriod  6110.75
 	Obliquity       308.198
 	EqAscendNode    293.189
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -84318,7 +84318,7 @@ Asteroid	"S454"
 	RotationPeriod  1961.33
 	Obliquity       142.862
 	EqAscendNode    270.089
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -84426,7 +84426,7 @@ Asteroid	"S455"
 	RotationPeriod  618.855
 	Obliquity       337.527
 	EqAscendNode    246.988
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -84534,7 +84534,7 @@ Asteroid	"S456"
 	RotationPeriod  12437.4
 	Obliquity       172.191
 	EqAscendNode    223.887
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -84642,7 +84642,7 @@ Asteroid	"S457"
 	RotationPeriod  4045.93
 	Obliquity       6.85534
 	EqAscendNode    200.786
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -84750,7 +84750,7 @@ Asteroid	"S458"
 	RotationPeriod  1282.3
 	Obliquity       201.52
 	EqAscendNode    177.686
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -84858,7 +84858,7 @@ Asteroid	"S459"
 	RotationPeriod  331.593
 	Obliquity       36.1841
 	EqAscendNode    154.585
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -84966,7 +84966,7 @@ Asteroid	"S460"
 	RotationPeriod  8383.96
 	Obliquity       230.848
 	EqAscendNode    131.484
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -85074,7 +85074,7 @@ Asteroid	"S461"
 	RotationPeriod  2641.32
 	Obliquity       65.5128
 	EqAscendNode    108.383
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -85182,7 +85182,7 @@ Asteroid	"S462"
 	RotationPeriod  686.625
 	Obliquity       260.177
 	EqAscendNode    85.2826
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -85290,7 +85290,7 @@ Asteroid	"S463"
 	RotationPeriod  16694.7
 	Obliquity       94.8415
 	EqAscendNode    62.1818
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -85398,7 +85398,7 @@ Asteroid	"S464"
 	RotationPeriod  5439.06
 	Obliquity       289.506
 	EqAscendNode    39.0811
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -85506,7 +85506,7 @@ Asteroid	"S465"
 	RotationPeriod  1412.63
 	Obliquity       124.17
 	EqAscendNode    15.9804
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -85614,7 +85614,7 @@ Asteroid	"S466"
 	RotationPeriod  455.06
 	Obliquity       318.835
 	EqAscendNode    352.88
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -85722,7 +85722,7 @@ Asteroid	"S467"
 	RotationPeriod  11212.4
 	Obliquity       153.499
 	EqAscendNode    329.779
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -85830,7 +85830,7 @@ Asteroid	"S468"
 	RotationPeriod  2917.39
 	Obliquity       348.163
 	EqAscendNode    306.678
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -85938,7 +85938,7 @@ Asteroid	"S469"
 	RotationPeriod  940.834
 	Obliquity       182.828
 	EqAscendNode    283.577
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -86046,7 +86046,7 @@ Asteroid	"S470"
 	RotationPeriod  279.882
 	Obliquity       17.4921
 	EqAscendNode    260.477
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -86154,7 +86154,7 @@ Asteroid	"S471"
 	RotationPeriod  6011.91
 	Obliquity       212.157
 	EqAscendNode    237.376
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -86262,7 +86262,7 @@ Asteroid	"S472"
 	RotationPeriod  1948.12
 	Obliquity       46.8209
 	EqAscendNode    214.275
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -86370,7 +86370,7 @@ Asteroid	"S473"
 	RotationPeriod  615.629
 	Obliquity       241.485
 	EqAscendNode    191.174
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -86478,7 +86478,7 @@ Asteroid	"S474"
 	RotationPeriod  12448
 	Obliquity       76.1496
 	EqAscendNode    168.074
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -86586,7 +86586,7 @@ Asteroid	"S475"
 	RotationPeriod  4010.46
 	Obliquity       270.814
 	EqAscendNode    144.973
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -86694,7 +86694,7 @@ Asteroid	"S476"
 	RotationPeriod  1271.19
 	Obliquity       105.478
 	EqAscendNode    121.872
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -86802,7 +86802,7 @@ Asteroid	"S477"
 	RotationPeriod  328.35
 	Obliquity       300.143
 	EqAscendNode    98.7714
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -86910,7 +86910,7 @@ Asteroid	"S478"
 	RotationPeriod  8301.08
 	Obliquity       134.807
 	EqAscendNode    75.6707
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -87018,7 +87018,7 @@ Asteroid	"S479"
 	RotationPeriod  2619.02
 	Obliquity       329.471
 	EqAscendNode    52.57
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -87126,7 +87126,7 @@ Asteroid	"S480"
 	RotationPeriod  680.042
 	Obliquity       164.136
 	EqAscendNode    29.4692
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -87234,7 +87234,7 @@ Asteroid	"S481"
 	RotationPeriod  15376.8
 	Obliquity       358.8
 	EqAscendNode    6.36845
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -87342,7 +87342,7 @@ Asteroid	"S482"
 	RotationPeriod  5114.55
 	Obliquity       193.465
 	EqAscendNode    343.268
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -87450,7 +87450,7 @@ Asteroid	"S483"
 	RotationPeriod  1617.15
 	Obliquity       28.1289
 	EqAscendNode    320.167
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -87558,7 +87558,7 @@ Asteroid	"S484"
 	RotationPeriod  417.875
 	Obliquity       222.793
 	EqAscendNode    297.066
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -87666,7 +87666,7 @@ Asteroid	"S485"
 	RotationPeriod  10515.6
 	Obliquity       57.4577
 	EqAscendNode    273.965
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -87774,7 +87774,7 @@ Asteroid	"S486"
 	RotationPeriod  3335.7
 	Obliquity       252.122
 	EqAscendNode    250.865
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -87882,7 +87882,7 @@ Asteroid	"S487"
 	RotationPeriod  865.781
 	Obliquity       86.7864
 	EqAscendNode    227.764
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -87990,7 +87990,7 @@ Asteroid	"S488"
 	RotationPeriod  277.057
 	Obliquity       281.451
 	EqAscendNode    204.663
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -88098,7 +88098,7 @@ Asteroid	"S489"
 	RotationPeriod  6916.39
 	Obliquity       116.115
 	EqAscendNode    181.563
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -88206,7 +88206,7 @@ Asteroid	"S490"
 	RotationPeriod  1791.61
 	Obliquity       310.78
 	EqAscendNode    158.462
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -88314,7 +88314,7 @@ Asteroid	"S491"
 	RotationPeriod  573.378
 	Obliquity       145.444
 	EqAscendNode    135.361
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -88422,7 +88422,7 @@ Asteroid	"S492"
 	RotationPeriod  14186.7
 	Obliquity       340.108
 	EqAscendNode    112.26
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -88530,7 +88530,7 @@ Asteroid	"S493"
 	RotationPeriod  3684.84
 	Obliquity       174.773
 	EqAscendNode    89.1595
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -88638,7 +88638,7 @@ Asteroid	"S494"
 	RotationPeriod  1187.27
 	Obliquity       9.43698
 	EqAscendNode    66.0588
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -88746,7 +88746,7 @@ Asteroid	"S495"
 	RotationPeriod  374.968
 	Obliquity       204.101
 	EqAscendNode    42.9581
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -88854,7 +88854,7 @@ Asteroid	"S496"
 	RotationPeriod  7590.58
 	Obliquity       38.7657
 	EqAscendNode    19.8573
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -88962,7 +88962,7 @@ Asteroid	"S497"
 	RotationPeriod  2449.33
 	Obliquity       233.43
 	EqAscendNode    356.757
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -89070,7 +89070,7 @@ Asteroid	"S498"
 	RotationPeriod  775.99
 	Obliquity       68.0945
 	EqAscendNode    333.656
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -89178,7 +89178,7 @@ Asteroid	"S499"
 	RotationPeriod  15281.3
 	Obliquity       262.759
 	EqAscendNode    310.555
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -89286,7 +89286,7 @@ Asteroid	"S500"
 	RotationPeriod  5043.03
 	Obliquity       97.4232
 	EqAscendNode    287.454
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -89394,7 +89394,7 @@ Asteroid	"S501"
 	RotationPeriod  1605.05
 	Obliquity       292.088
 	EqAscendNode    264.354
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -89502,7 +89502,7 @@ Asteroid	"S502"
 	RotationPeriod  413.885
 	Obliquity       126.752
 	EqAscendNode    241.253
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -89610,7 +89610,7 @@ Asteroid	"S503"
 	RotationPeriod  10465.1
 	Obliquity       321.416
 	EqAscendNode    218.152
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -89718,7 +89718,7 @@ Asteroid	"S504"
 	RotationPeriod  3303.16
 	Obliquity       156.081
 	EqAscendNode    195.051
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -89826,7 +89826,7 @@ Asteroid	"S505"
 	RotationPeriod  856.484
 	Obliquity       350.745
 	EqAscendNode    171.951
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -89934,7 +89934,7 @@ Asteroid	"S506"
 	RotationPeriod  275.429
 	Obliquity       185.409
 	EqAscendNode    148.85
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -90042,7 +90042,7 @@ Asteroid	"S507"
 	RotationPeriod  6811.93
 	Obliquity       20.0738
 	EqAscendNode    125.749
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -90150,7 +90150,7 @@ Asteroid	"S508"
 	RotationPeriod  1769.88
 	Obliquity       214.738
 	EqAscendNode    102.648
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -90258,7 +90258,7 @@ Asteroid	"S509"
 	RotationPeriod  606.059
 	Obliquity       49.4025
 	EqAscendNode    79.5476
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -90366,7 +90366,7 @@ Asteroid	"S510"
 	RotationPeriod  13190.3
 	Obliquity       244.067
 	EqAscendNode    56.4469
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -90474,7 +90474,7 @@ Asteroid	"S511"
 	RotationPeriod  4178.64
 	Obliquity       78.7313
 	EqAscendNode    33.3462
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -90582,7 +90582,7 @@ Asteroid	"S512"
 	RotationPeriod  1090.11
 	Obliquity       273.396
 	EqAscendNode    10.2454
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -90690,7 +90690,7 @@ Asteroid	"S513"
 	RotationPeriod  349.205
 	Obliquity       108.06
 	EqAscendNode    347.145
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -90798,7 +90798,7 @@ Asteroid	"S514"
 	RotationPeriod  8543.58
 	Obliquity       302.724
 	EqAscendNode    324.044
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -90906,7 +90906,7 @@ Asteroid	"S515"
 	RotationPeriod  2249.68
 	Obliquity       137.389
 	EqAscendNode    300.943
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -91014,7 +91014,7 @@ Asteroid	"S516"
 	RotationPeriod  723.559
 	Obliquity       332.053
 	EqAscendNode    277.842
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -91122,7 +91122,7 @@ Asteroid	"S517"
 	RotationPeriod  17799.3
 	Obliquity       166.717
 	EqAscendNode    254.742
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -91230,7 +91230,7 @@ Asteroid	"S518"
 	RotationPeriod  4655.53
 	Obliquity       1.38183
 	EqAscendNode    231.641
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -91338,7 +91338,7 @@ Asteroid	"S519"
 	RotationPeriod  1591.72
 	Obliquity       196.046
 	EqAscendNode    208.54
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -91446,7 +91446,7 @@ Asteroid	"S520"
 	RotationPeriod  472.881
 	Obliquity       30.7106
 	EqAscendNode    185.439
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24

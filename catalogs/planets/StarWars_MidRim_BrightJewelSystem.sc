@@ -16,7 +16,7 @@ DwarfPlanet	"Repta/Bright Jewel System 1"
 
 	Obliquity       1.8083
 	EqAscendNode    57.0014
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -149,7 +149,7 @@ Planet	"Ord Mantell/Bright Jewel System 2"
 	RotationPeriod  26
 	Obliquity       174.753
 	EqAscendNode    -17.0375
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.370436
 	AlbedoGeom      0.444524
@@ -373,7 +373,7 @@ DwarfMoon	"Ord Mantell D1"
 
 	Obliquity       0.0138791
 	EqAscendNode    71.723
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -483,7 +483,7 @@ DwarfMoon	"Ord Mantell D2"
 
 	Obliquity       -0.00199591
 	EqAscendNode    -81.6528
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -593,7 +593,7 @@ Moon	"Ord Mantell Twin Moon 1/Ord Mantell 1"
 
 	Obliquity       -0.451691
 	EqAscendNode    -73.5964
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -725,7 +725,7 @@ Moon	"Ord Mantell Twin Moon 2/Ord Mantell 2"
 
 	Obliquity       1.05928
 	EqAscendNode    -93.0168
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -856,7 +856,7 @@ DwarfMoon	"Ord Mantell D3"
 	RotationPeriod  8748.95
 	Obliquity       -57.3061
 	EqAscendNode    98.5569
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -964,7 +964,7 @@ DwarfMoon	"Ord Mantell D4"
 	RotationPeriod  8146.07
 	Obliquity       34.6549
 	EqAscendNode    -129.031
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1071,7 +1071,7 @@ DwarfMoon	"Ord Mantell D5"
 
 	Obliquity       10.9758
 	EqAscendNode    37.4299
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1179,7 +1179,7 @@ DwarfMoon	"Ord Mantell D6"
 
 	Obliquity       -28.9895
 	EqAscendNode    21.7651
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1288,7 +1288,7 @@ DwarfMoon	"Ord Mantell D7"
 	RotationPeriod  5241.51
 	Obliquity       82.508
 	EqAscendNode    -49.9077
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1395,7 +1395,7 @@ DwarfMoon	"Ord Mantell D8"
 
 	Obliquity       30.7543
 	EqAscendNode    -116.589
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1504,7 +1504,7 @@ DwarfMoon	"Ord Mantell D9"
 	RotationPeriod  1844.48
 	Obliquity       82.0903
 	EqAscendNode    148.527
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1612,7 +1612,7 @@ DwarfMoon	"Ord Mantell D10"
 	RotationPeriod  582.641
 	Obliquity       9.517
 	EqAscendNode    141.816
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1720,7 +1720,7 @@ DwarfMoon	"Ord Mantell D11"
 	RotationPeriod  1288.24
 	Obliquity       -23.8151
 	EqAscendNode    -2.86836
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1828,7 +1828,7 @@ DwarfMoon	"Ord Mantell D12"
 	RotationPeriod  410.854
 	Obliquity       -37.0104
 	EqAscendNode    175.913
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1936,7 +1936,7 @@ DwarfMoon	"Ord Mantell D13"
 	RotationPeriod  321.147
 	Obliquity       -84.2556
 	EqAscendNode    164.291
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2044,7 +2044,7 @@ DwarfMoon	"Ord Mantell D14"
 	RotationPeriod  264.866
 	Obliquity       -48.0097
 	EqAscendNode    -136.892
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2153,7 +2153,7 @@ Planet	"Cairns/Bright Jewel System 3"
 	RotationPeriod  1864.86
 	Obliquity       0.688927
 	EqAscendNode    -136.895
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.26688
 	AlbedoGeom      0.320256
@@ -2368,7 +2368,7 @@ DwarfMoon	"Cairns D1"
 
 	Obliquity       0.0112646
 	EqAscendNode    78.6783
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2478,7 +2478,7 @@ DwarfMoon	"Cairns D2"
 
 	Obliquity       -0.0104132
 	EqAscendNode    139.628
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2590,7 +2590,7 @@ Planet	"Su Exposs/Bright Jewel System 4"
 	RotationPeriod  7.92654
 	Obliquity       -98.0026
 	EqAscendNode    -144.134
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.494355
 	AlbedoGeom      0.593226
@@ -2737,7 +2737,7 @@ DwarfMoon	"Su Exposs D1"
 
 	Obliquity       -0.00110964
 	EqAscendNode    19.6806
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2847,7 +2847,7 @@ Moon	"Su Exposs 1"
 
 	Obliquity       0.0947545
 	EqAscendNode    110.964
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2979,7 +2979,7 @@ Moon	"Su Exposs 2"
 
 	Obliquity       -1.36238
 	EqAscendNode    107.694
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -3111,7 +3111,7 @@ Moon	"Su Exposs 3"
 
 	Obliquity       0.830196
 	EqAscendNode    -166.295
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -3241,7 +3241,7 @@ Moon	"Su Exposs 4"
 
 	Obliquity       -0.61305
 	EqAscendNode    11.9224
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.371991
@@ -3459,7 +3459,7 @@ Moon	"Su Exposs 5"
 
 	Obliquity       -0.67236
 	EqAscendNode    -116.206
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3610,7 +3610,7 @@ Moon	"Su Exposs 6"
 
 	Obliquity       0.722753
 	EqAscendNode    -130.088
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3761,7 +3761,7 @@ Moon	"Su Exposs 7"
 
 	Obliquity       -1.38393
 	EqAscendNode    -121.888
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3912,7 +3912,7 @@ DwarfMoon	"Su Exposs D2"
 
 	Obliquity       -42.0086
 	EqAscendNode    89.8228
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4020,7 +4020,7 @@ DwarfMoon	"Su Exposs D3"
 
 	Obliquity       -65.364
 	EqAscendNode    63.4119
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4128,7 +4128,7 @@ DwarfMoon	"Su Exposs D4"
 
 	Obliquity       74.8932
 	EqAscendNode    80.903
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4236,7 +4236,7 @@ DwarfMoon	"Su Exposs D5"
 
 	Obliquity       -89.5232
 	EqAscendNode    -6.85369
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4345,7 +4345,7 @@ DwarfMoon	"Su Exposs D6"
 	RotationPeriod  8014.7
 	Obliquity       29.2404
 	EqAscendNode    -79.3973
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4452,7 +4452,7 @@ DwarfMoon	"Su Exposs D7"
 
 	Obliquity       -88.1116
 	EqAscendNode    70.878
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4561,7 +4561,7 @@ DwarfMoon	"Su Exposs D8"
 	RotationPeriod  6783.08
 	Obliquity       -8.17182
 	EqAscendNode    -154.109
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4668,7 +4668,7 @@ DwarfMoon	"Su Exposs D9"
 
 	Obliquity       -59.9282
 	EqAscendNode    177.803
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4776,7 +4776,7 @@ DwarfMoon	"Su Exposs D10"
 
 	Obliquity       -59.5856
 	EqAscendNode    55.3723
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4885,7 +4885,7 @@ DwarfMoon	"Su Exposs D11"
 	RotationPeriod  16528.6
 	Obliquity       -49.0977
 	EqAscendNode    -44.7374
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4993,7 +4993,7 @@ DwarfMoon	"Su Exposs D12"
 	RotationPeriod  12458.9
 	Obliquity       -77.5354
 	EqAscendNode    -53.2826
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5100,7 +5100,7 @@ DwarfMoon	"Su Exposs D13"
 
 	Obliquity       -51.3942
 	EqAscendNode    95.9557
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5209,7 +5209,7 @@ DwarfMoon	"Su Exposs D14"
 	RotationPeriod  1834.37
 	Obliquity       53.3896
 	EqAscendNode    -131.306
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5317,7 +5317,7 @@ DwarfMoon	"Su Exposs D15"
 	RotationPeriod  2895.25
 	Obliquity       -14.0031
 	EqAscendNode    -23.6381
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5429,7 +5429,7 @@ Planet	"Quatin/Bright Jewel System 5"
 	RotationPeriod  9.12279
 	Obliquity       7.03199
 	EqAscendNode    137.855
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.496826
 	AlbedoGeom      0.596192
@@ -5586,7 +5586,7 @@ DwarfMoon	"Quatin D1"
 
 	Obliquity       0.014646
 	EqAscendNode    -132.956
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5696,7 +5696,7 @@ DwarfMoon	"Quatin D2"
 
 	Obliquity       0.000348185
 	EqAscendNode    158.652
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5806,7 +5806,7 @@ Moon	"Quatin 1"
 
 	Obliquity       -0.779235
 	EqAscendNode    109.877
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.349157
@@ -6016,7 +6016,7 @@ Moon	"Quatin 2"
 
 	Obliquity       0.741816
 	EqAscendNode    61.7475
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.438014
@@ -6242,7 +6242,7 @@ DwarfMoon	"Quatin D3"
 
 	Obliquity       1.18644
 	EqAscendNode    111.135
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -6350,7 +6350,7 @@ Moon	"Quatin 3"
 
 	Obliquity       0.213261
 	EqAscendNode    -16.4984
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.303597
@@ -6568,7 +6568,7 @@ DwarfMoon	"Quatin D4"
 
 	Obliquity       -0.998511
 	EqAscendNode    97.4295
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -6676,7 +6676,7 @@ Moon	"Quatin 4"
 
 	Obliquity       -1.28666
 	EqAscendNode    -121.389
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -6807,7 +6807,7 @@ DwarfMoon	"Quatin D5"
 	RotationPeriod  1608.96
 	Obliquity       -65.5806
 	EqAscendNode    2.65565
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6915,7 +6915,7 @@ DwarfMoon	"Quatin D6"
 	RotationPeriod  1446.73
 	Obliquity       -11.1609
 	EqAscendNode    -7.26587
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7023,7 +7023,7 @@ DwarfMoon	"Quatin D7"
 	RotationPeriod  1291.42
 	Obliquity       -89.1988
 	EqAscendNode    -48.5835
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7131,7 +7131,7 @@ DwarfMoon	"Quatin D8"
 	RotationPeriod  1383.15
 	Obliquity       -9.61528
 	EqAscendNode    -153.723
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7239,7 +7239,7 @@ DwarfMoon	"Quatin D9"
 	RotationPeriod  1232.54
 	Obliquity       51.2326
 	EqAscendNode    -133.167
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7347,7 +7347,7 @@ DwarfMoon	"Quatin D10"
 	RotationPeriod  1127.89
 	Obliquity       -21.783
 	EqAscendNode    -137.524
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7455,7 +7455,7 @@ DwarfMoon	"Quatin D11"
 	RotationPeriod  1024.95
 	Obliquity       43.799
 	EqAscendNode    -77.176
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7563,7 +7563,7 @@ DwarfMoon	"Quatin D12"
 	RotationPeriod  1113.89
 	Obliquity       -26.4114
 	EqAscendNode    25.656
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7671,7 +7671,7 @@ DwarfMoon	"Quatin D13"
 	RotationPeriod  1000.31
 	Obliquity       22.6861
 	EqAscendNode    167.248
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7779,7 +7779,7 @@ DwarfMoon	"Quatin D14"
 	RotationPeriod  917.165
 	Obliquity       -110.707
 	EqAscendNode    155.336
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7887,7 +7887,7 @@ DwarfMoon	"Quatin D15"
 	RotationPeriod  836.037
 	Obliquity       -19.7071
 	EqAscendNode    59.4206
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7995,7 +7995,7 @@ DwarfMoon	"Quatin D16"
 	RotationPeriod  929.539
 	Obliquity       127.496
 	EqAscendNode    -171.263
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8103,7 +8103,7 @@ DwarfMoon	"Quatin D17"
 	RotationPeriod  827.137
 	Obliquity       -9.68065
 	EqAscendNode    -97.4099
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8211,7 +8211,7 @@ DwarfMoon	"Quatin D18"
 	RotationPeriod  756.405
 	Obliquity       -17.1854
 	EqAscendNode    103.276
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8319,7 +8319,7 @@ DwarfMoon	"Quatin D19"
 	RotationPeriod  695.049
 	Obliquity       -29.1671
 	EqAscendNode    -13.5382
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8427,7 +8427,7 @@ DwarfMoon	"Quatin D20"
 	RotationPeriod  790.045
 	Obliquity       -53.1466
 	EqAscendNode    -140.93
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8535,7 +8535,7 @@ DwarfMoon	"Quatin D21"
 	RotationPeriod  687.752
 	Obliquity       27.1265
 	EqAscendNode    -145.32
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8643,7 +8643,7 @@ DwarfMoon	"Quatin D22"
 	RotationPeriod  630.769
 	Obliquity       49.7415
 	EqAscendNode    96.4145
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8751,7 +8751,7 @@ DwarfMoon	"Quatin D23"
 	RotationPeriod  579.663
 	Obliquity       54.0639
 	EqAscendNode    17.3334
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8859,7 +8859,7 @@ DwarfMoon	"Quatin D24"
 	RotationPeriod  694.918
 	Obliquity       61.3679
 	EqAscendNode    -156.687
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8967,7 +8967,7 @@ DwarfMoon	"Quatin D25"
 	RotationPeriod  574.643
 	Obliquity       136.794
 	EqAscendNode    73.461
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9075,7 +9075,7 @@ DwarfMoon	"Quatin D26"
 	RotationPeriod  524.731
 	Obliquity       -7.47617
 	EqAscendNode    47.9688
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9183,7 +9183,7 @@ DwarfMoon	"Quatin D27"
 	RotationPeriod  479.809
 	Obliquity       -87.8749
 	EqAscendNode    88.5454
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9291,7 +9291,7 @@ DwarfMoon	"Quatin D28"
 	RotationPeriod  427.036
 	Obliquity       56.238
 	EqAscendNode    -23.7322
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9399,7 +9399,7 @@ DwarfMoon	"Quatin D29"
 	RotationPeriod  472.838
 	Obliquity       -130.402
 	EqAscendNode    -152.991
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9507,7 +9507,7 @@ DwarfMoon	"Quatin D30"
 	RotationPeriod  430.475
 	Obliquity       -51.0059
 	EqAscendNode    -35.7013
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9615,7 +9615,7 @@ DwarfMoon	"Quatin D31"
 	RotationPeriod  393.26
 	Obliquity       15.1478
 	EqAscendNode    139.729
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9723,7 +9723,7 @@ DwarfMoon	"Quatin D32"
 	RotationPeriod  350.844
 	Obliquity       -88.0434
 	EqAscendNode    -39.1599
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9831,7 +9831,7 @@ DwarfMoon	"Quatin D33"
 	RotationPeriod  386.369
 	Obliquity       41.0262
 	EqAscendNode    -83.4816
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9939,7 +9939,7 @@ DwarfMoon	"Quatin D34"
 	RotationPeriod  346.432
 	Obliquity       -67.7293
 	EqAscendNode    99.8737
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10047,7 +10047,7 @@ DwarfMoon	"Quatin D35"
 	RotationPeriod  312.159
 	Obliquity       29.5841
 	EqAscendNode    68.6448
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10155,7 +10155,7 @@ DwarfMoon	"Quatin D36"
 	RotationPeriod  278.907
 	Obliquity       84.2782
 	EqAscendNode    -26.9264
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10266,7 +10266,7 @@ Planet	"Hota/Bright Jewel System 6"
 	RotationPeriod  10.2424
 	Obliquity       18.4283
 	EqAscendNode    -150.718
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.499761
 	AlbedoGeom      0.599714
@@ -10423,7 +10423,7 @@ DwarfMoon	"Hota D1"
 
 	Obliquity       0.00067101
 	EqAscendNode    -26.7803
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10533,7 +10533,7 @@ DwarfMoon	"Hota D2"
 
 	Obliquity       -0.000757682
 	EqAscendNode    149.445
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10643,7 +10643,7 @@ DwarfMoon	"Hota D3"
 
 	Obliquity       -0.00570565
 	EqAscendNode    178.176
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10753,7 +10753,7 @@ DwarfMoon	"Hota D4"
 
 	Obliquity       0.00490177
 	EqAscendNode    128.25
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10863,7 +10863,7 @@ DwarfMoon	"Hota D5"
 
 	Obliquity       0.014655
 	EqAscendNode    -142.237
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10973,7 +10973,7 @@ Moon	"Hota 1"
 
 	Obliquity       0.670365
 	EqAscendNode    3.41319
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -11103,7 +11103,7 @@ Moon	"Hota 2"
 
 	Obliquity       0.541053
 	EqAscendNode    -127.727
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -11233,7 +11233,7 @@ Moon	"Hota 3"
 
 	Obliquity       -0.515757
 	EqAscendNode    145.446
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -11363,7 +11363,7 @@ Moon	"Hota 4"
 
 	Obliquity       -1.23868
 	EqAscendNode    131.16
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -11494,7 +11494,7 @@ DwarfMoon	"Hota D6"
 	RotationPeriod  357.662
 	Obliquity       -45.3123
 	EqAscendNode    -28.482
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11602,7 +11602,7 @@ DwarfMoon	"Hota D7"
 	RotationPeriod  507.488
 	Obliquity       -8.99591
 	EqAscendNode    104.037
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11710,7 +11710,7 @@ DwarfMoon	"Hota D8"
 	RotationPeriod  301.977
 	Obliquity       -19.4163
 	EqAscendNode    60.2968
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11818,7 +11818,7 @@ DwarfMoon	"Hota D9"
 	RotationPeriod  539.575
 	Obliquity       37.314
 	EqAscendNode    -81.9767
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11926,7 +11926,7 @@ DwarfMoon	"Hota D10"
 	RotationPeriod  313.884
 	Obliquity       8.18174
 	EqAscendNode    -122.24
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12034,7 +12034,7 @@ DwarfMoon	"Hota D11"
 	RotationPeriod  287.285
 	Obliquity       -15.8052
 	EqAscendNode    -35.8375
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12142,7 +12142,7 @@ DwarfMoon	"Hota D12"
 	RotationPeriod  434.882
 	Obliquity       31.5379
 	EqAscendNode    -41.368
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12250,7 +12250,7 @@ DwarfMoon	"Hota D13"
 	RotationPeriod  231.784
 	Obliquity       -35.9279
 	EqAscendNode    -111.08
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12358,7 +12358,7 @@ DwarfMoon	"Hota D14"
 	RotationPeriod  438.081
 	Obliquity       31.1128
 	EqAscendNode    12.2437
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12470,7 +12470,7 @@ Comet	"Ord Mantell C1"
 	RotationPeriod  34.6131
 	Obliquity       263.573
 	EqAscendNode    61.0121
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.74849
 	SlopeParam      4.70962
@@ -12590,7 +12590,7 @@ Comet	"Ord Mantell C2"
 	RotationPeriod  32.6538
 	Obliquity       216.778
 	EqAscendNode    45.5895
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.25402
 	SlopeParam      5.35345
@@ -12710,7 +12710,7 @@ Comet	"Ord Mantell C3"
 	RotationPeriod  30.6479
 	Obliquity       169.984
 	EqAscendNode    30.1669
-	Precession      0
+	//Precession      0
 
 	AbsMagn         16.7813
 	SlopeParam      6.18585
@@ -12830,7 +12830,7 @@ Comet	"Ord Mantell C4"
 	RotationPeriod  28.5866
 	Obliquity       123.19
 	EqAscendNode    14.7443
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.52165
 	SlopeParam      7.91528
@@ -12950,7 +12950,7 @@ Comet	"Ord Mantell C5"
 	RotationPeriod  26.4596
 	Obliquity       76.3954
 	EqAscendNode    359.322
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.02148
 	SlopeParam      2.62317
@@ -13070,7 +13070,7 @@ Comet	"Ord Mantell C6"
 	RotationPeriod  24.2545
 	Obliquity       29.6011
 	EqAscendNode    343.899
-	Precession      0
+	//Precession      0
 
 	AbsMagn         15.2539
 	SlopeParam      3.27063
@@ -13190,7 +13190,7 @@ Comet	"Ord Mantell C7"
 	RotationPeriod  21.9565
 	Obliquity       342.807
 	EqAscendNode    328.477
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.2996
 	SlopeParam      3.8482
@@ -13310,7 +13310,7 @@ Comet	"Ord Mantell C8"
 	RotationPeriod  19.5471
 	Obliquity       296.013
 	EqAscendNode    313.054
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.78204
 	SlopeParam      4.41313
@@ -13430,7 +13430,7 @@ Comet	"Ord Mantell C9"
 	RotationPeriod  17.0029
 	Obliquity       249.218
 	EqAscendNode    297.631
-	Precession      0
+	//Precession      0
 
 	AbsMagn         14.3682
 	SlopeParam      5.01389
@@ -13550,7 +13550,7 @@ Comet	"Ord Mantell C10"
 	RotationPeriod  14.2936
 	Obliquity       202.424
 	EqAscendNode    282.209
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.08149
 	SlopeParam      5.72635
@@ -13670,7 +13670,7 @@ Comet	"Ord Mantell C11"
 	RotationPeriod  11.3784
 	Obliquity       155.63
 	EqAscendNode    266.786
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.53438
 	SlopeParam      6.78423
@@ -13790,7 +13790,7 @@ Comet	"Ord Mantell C12"
 	RotationPeriod  8.20087
 	Obliquity       108.835
 	EqAscendNode    251.364
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.7162
 	SlopeParam      2.23526
@@ -13910,7 +13910,7 @@ Comet	"Ord Mantell C13"
 	RotationPeriod  4.67859
 	Obliquity       62.041
 	EqAscendNode    235.941
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.86656
 	SlopeParam      2.95617
@@ -14030,7 +14030,7 @@ Comet	"Ord Mantell C14"
 	RotationPeriod  134.284
 	Obliquity       15.2467
 	EqAscendNode    220.518
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.27688
 	SlopeParam      3.56003
@@ -14150,7 +14150,7 @@ Comet	"Ord Mantell C15"
 	RotationPeriod  116.62
 	Obliquity       328.452
 	EqAscendNode    205.096
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.1883
 	SlopeParam      4.1255
@@ -14270,7 +14270,7 @@ Comet	"Ord Mantell C16"
 	RotationPeriod  107.792
 	Obliquity       281.658
 	EqAscendNode    189.673
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.65409
 	SlopeParam      4.70141
@@ -14390,7 +14390,7 @@ Comet	"Ord Mantell C17"
 	RotationPeriod  101.557
 	Obliquity       234.864
 	EqAscendNode    174.251
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.00756
 	SlopeParam      5.34377
@@ -14510,7 +14510,7 @@ Comet	"Ord Mantell C18"
 	RotationPeriod  96.6099
 	Obliquity       188.07
 	EqAscendNode    158.828
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.7379
 	SlopeParam      6.17189
@@ -14630,7 +14630,7 @@ Comet	"Ord Mantell C19"
 	RotationPeriod  92.4411
 	Obliquity       141.275
 	EqAscendNode    143.405
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.44346
 	SlopeParam      7.86414
@@ -14750,7 +14750,7 @@ Comet	"Ord Mantell C20"
 	RotationPeriod  88.7959
 	Obliquity       94.4809
 	EqAscendNode    127.983
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.72394
 	SlopeParam      2.61337
@@ -14870,7 +14870,7 @@ Comet	"Ord Mantell C21"
 	RotationPeriod  85.5269
 	Obliquity       47.6867
 	EqAscendNode    112.56
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.3407
 	SlopeParam      3.26237
@@ -14990,7 +14990,7 @@ Comet	"Ord Mantell C22"
 	RotationPeriod  82.5413
 	Obliquity       0.892357
 	EqAscendNode    97.1377
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.23405
 	SlopeParam      3.84046
@@ -15110,7 +15110,7 @@ Comet	"Ord Mantell C23"
 	RotationPeriod  79.7761
 	Obliquity       314.098
 	EqAscendNode    81.7151
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.4228
 	SlopeParam      4.40525
@@ -15230,7 +15230,7 @@ Comet	"Ord Mantell C24"
 	RotationPeriod  77.1869
 	Obliquity       267.304
 	EqAscendNode    66.2925
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.9823
 	SlopeParam      5.00512
@@ -15350,7 +15350,7 @@ Comet	"Ord Mantell C25"
 	RotationPeriod  74.7405
 	Obliquity       220.509
 	EqAscendNode    50.8699
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.02528
 	SlopeParam      5.71518
@@ -15470,7 +15470,7 @@ Comet	"Ord Mantell C26"
 	RotationPeriod  72.4117
 	Obliquity       173.715
 	EqAscendNode    35.4474
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.09987
 	SlopeParam      6.76403
@@ -15590,7 +15590,7 @@ Comet	"Ord Mantell C27"
 	RotationPeriod  70.181
 	Obliquity       126.921
 	EqAscendNode    20.0248
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.6533
 	SlopeParam      2.22384
@@ -15710,7 +15710,7 @@ Comet	"Ord Mantell C28"
 	RotationPeriod  68.0324
 	Obliquity       80.1266
 	EqAscendNode    4.60217
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.81658
 	SlopeParam      2.94732
@@ -15830,7 +15830,7 @@ Comet	"Ord Mantell C29"
 	RotationPeriod  65.9529
 	Obliquity       33.3323
 	EqAscendNode    349.18
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.74928
 	SlopeParam      3.55212
@@ -15950,7 +15950,7 @@ Comet	"Ord Mantell C30"
 	RotationPeriod  63.9316
 	Obliquity       346.538
 	EqAscendNode    333.757
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.3473
 	SlopeParam      4.11777
@@ -16070,7 +16070,7 @@ Comet	"Ord Mantell C31"
 	RotationPeriod  61.9594
 	Obliquity       299.744
 	EqAscendNode    318.334
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.60738
 	SlopeParam      4.69321
@@ -16190,7 +16190,7 @@ Comet	"Ord Mantell C32"
 	RotationPeriod  60.0283
 	Obliquity       252.949
 	EqAscendNode    302.912
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.36257
 	SlopeParam      5.33411
@@ -16310,7 +16310,7 @@ Comet	"Ord Mantell C33"
 	RotationPeriod  58.1312
 	Obliquity       206.155
 	EqAscendNode    287.489
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.0598
 	SlopeParam      6.15802
@@ -16430,7 +16430,7 @@ Comet	"Ord Mantell C34"
 	RotationPeriod  56.2619
 	Obliquity       159.361
 	EqAscendNode    272.067
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.3971
 	SlopeParam      7.81542
@@ -16550,7 +16550,7 @@ Comet	"Ord Mantell C35"
 	RotationPeriod  54.4145
 	Obliquity       112.566
 	EqAscendNode    256.644
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.92684
 	SlopeParam      2.60354
@@ -16670,7 +16670,7 @@ Comet	"Ord Mantell C36"
 	RotationPeriod  52.5839
 	Obliquity       65.7722
 	EqAscendNode    241.221
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.7872
 	SlopeParam      3.25411
@@ -16790,7 +16790,7 @@ Comet	"Ord Mantell C37"
 	RotationPeriod  50.7652
 	Obliquity       18.9779
 	EqAscendNode    225.799
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.18514
 	SlopeParam      3.83272
@@ -16910,7 +16910,7 @@ Comet	"Ord Mantell C38"
 	RotationPeriod  48.9534
 	Obliquity       332.184
 	EqAscendNode    210.376
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.42082
 	SlopeParam      4.39738
@@ -17030,7 +17030,7 @@ Comet	"Ord Mantell C39"
 	RotationPeriod  47.144
 	Obliquity       285.389
 	EqAscendNode    194.954
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.5271
 	SlopeParam      4.99638
@@ -17150,7 +17150,7 @@ Comet	"Ord Mantell C40"
 	RotationPeriod  45.3325
 	Obliquity       238.595
 	EqAscendNode    179.531
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.97087
 	SlopeParam      5.70406
@@ -17270,7 +17270,7 @@ Comet	"Ord Mantell C41"
 	RotationPeriod  43.5142
 	Obliquity       191.801
 	EqAscendNode    164.109
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.80532
 	SlopeParam      6.74412
@@ -17390,7 +17390,7 @@ Comet	"Ord Mantell C42"
 	RotationPeriod  41.6844
 	Obliquity       145.006
 	EqAscendNode    148.686
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.2772
 	SlopeParam      2.21236
@@ -17510,7 +17510,7 @@ Comet	"Ord Mantell C43"
 	RotationPeriod  39.8381
 	Obliquity       98.2121
 	EqAscendNode    133.263
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.75359
 	SlopeParam      2.93844
@@ -17630,7 +17630,7 @@ Comet	"Ord Mantell C44"
 	RotationPeriod  37.9701
 	Obliquity       51.4178
 	EqAscendNode    117.841
-	Precession      0
+	//Precession      0
 
 	AbsMagn         0.993635
 	SlopeParam      3.5442
@@ -17750,7 +17750,7 @@ Comet	"Ord Mantell C45"
 	RotationPeriod  36.0746
 	Obliquity       4.62352
 	EqAscendNode    102.418
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.0359
 	SlopeParam      4.11004
@@ -17870,7 +17870,7 @@ Comet	"Ord Mantell C46"
 	RotationPeriod  34.1455
 	Obliquity       317.829
 	EqAscendNode    86.9956
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.53258
 	SlopeParam      4.68502
@@ -17990,7 +17990,7 @@ Comet	"Ord Mantell C47"
 	RotationPeriod  32.1757
 	Obliquity       271.035
 	EqAscendNode    71.573
-	Precession      0
+	//Precession      0
 
 	AbsMagn         -0.289631
 	SlopeParam      5.32449
@@ -18110,7 +18110,7 @@ Comet	"Ord Mantell C48"
 	RotationPeriod  30.1573
 	Obliquity       224.241
 	EqAscendNode    56.1504
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.80177
 	SlopeParam      6.14426
@@ -18230,7 +18230,7 @@ Comet	"Ord Mantell C49"
 	RotationPeriod  28.0812
 	Obliquity       177.446
 	EqAscendNode    40.7278
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.30698
 	SlopeParam      7.76885
@@ -18350,7 +18350,7 @@ Comet	"Ord Mantell C50"
 	RotationPeriod  25.9366
 	Obliquity       130.652
 	EqAscendNode    25.3052
-	Precession      0
+	//Precession      0
 
 	AbsMagn         17.4212
 	SlopeParam      2.59368
@@ -18470,7 +18470,7 @@ Comet	"Ord Mantell C51"
 	RotationPeriod  23.7107
 	Obliquity       83.8577
 	EqAscendNode    9.8826
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.57369
 	SlopeParam      3.24583
@@ -18590,7 +18590,7 @@ Comet	"Ord Mantell C52"
 	RotationPeriod  21.3877
 	Obliquity       37.0634
 	EqAscendNode    354.46
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.07587
 	SlopeParam      3.82497
@@ -18710,7 +18710,7 @@ Comet	"Ord Mantell C53"
 	RotationPeriod  18.9482
 	Obliquity       350.269
 	EqAscendNode    339.037
-	Precession      0
+	//Precession      0
 
 	AbsMagn         15.5195
 	SlopeParam      4.38951
@@ -18830,7 +18830,7 @@ Comet	"Ord Mantell C54"
 	RotationPeriod  16.3674
 	Obliquity       303.475
 	EqAscendNode    323.615
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.35061
 	SlopeParam      4.98765
@@ -18950,7 +18950,7 @@ Comet	"Ord Mantell C55"
 	RotationPeriod  13.6127
 	Obliquity       256.681
 	EqAscendNode    308.192
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.83814
 	SlopeParam      5.69299
@@ -19070,7 +19070,7 @@ Comet	"Ord Mantell C56"
 	RotationPeriod  10.6404
 	Obliquity       209.886
 	EqAscendNode    292.77
-	Precession      0
+	//Precession      0
 
 	AbsMagn         14.5459
 	SlopeParam      6.72447
@@ -19190,7 +19190,7 @@ Comet	"Ord Mantell C57"
 	RotationPeriod  7.3887
 	Obliquity       163.092
 	EqAscendNode    277.347
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.13167
 	SlopeParam      2.20083
@@ -19310,7 +19310,7 @@ Comet	"Ord Mantell C58"
 	RotationPeriod  3.76678
 	Obliquity       116.298
 	EqAscendNode    261.924
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.59252
 	SlopeParam      2.92955
@@ -19430,7 +19430,7 @@ Comet	"Ord Mantell C59"
 	RotationPeriod  128.043
 	Obliquity       69.5034
 	EqAscendNode    246.502
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.8536
 	SlopeParam      3.53628
@@ -19550,7 +19550,7 @@ Comet	"Ord Mantell C60"
 	RotationPeriod  114.114
 	Obliquity       22.7091
 	EqAscendNode    231.079
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.91606
 	SlopeParam      4.10232
@@ -19670,7 +19670,7 @@ Comet	"Ord Mantell C61"
 	RotationPeriod  106.128
 	Obliquity       335.915
 	EqAscendNode    215.657
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.33745
 	SlopeParam      4.67684
@@ -19790,7 +19790,7 @@ Comet	"Ord Mantell C62"
 	RotationPeriod  100.275
 	Obliquity       289.12
 	EqAscendNode    200.234
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.3024
 	SlopeParam      5.3149
@@ -19910,7 +19910,7 @@ Comet	"Ord Mantell C63"
 	RotationPeriod  95.5479
 	Obliquity       242.326
 	EqAscendNode    184.812
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.70308
 	SlopeParam      6.13061
@@ -20030,7 +20030,7 @@ Comet	"Ord Mantell C64"
 	RotationPeriod  91.523
 	Obliquity       195.532
 	EqAscendNode    169.389
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.07107
 	SlopeParam      7.72425
@@ -20150,7 +20150,7 @@ Comet	"Ord Mantell C65"
 	RotationPeriod  87.9791
 	Obliquity       148.738
 	EqAscendNode    153.966
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.8367
 	SlopeParam      2.58378
@@ -20270,7 +20270,7 @@ Comet	"Ord Mantell C66"
 	RotationPeriod  84.7854
 	Obliquity       101.943
 	EqAscendNode    138.544
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.49208
 	SlopeParam      3.23754
@@ -20390,7 +20390,7 @@ Comet	"Ord Mantell C67"
 	RotationPeriod  81.8577
 	Obliquity       55.149
 	EqAscendNode    123.121
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.79101
 	SlopeParam      3.81723
@@ -20510,7 +20510,7 @@ Comet	"Ord Mantell C68"
 	RotationPeriod  79.1385
 	Obliquity       8.35469
 	EqAscendNode    107.699
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.4288
 	SlopeParam      4.38165
@@ -20630,7 +20630,7 @@ Comet	"Ord Mantell C69"
 	RotationPeriod  76.5862
 	Obliquity       321.56
 	EqAscendNode    92.276
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.28244
 	SlopeParam      4.97894
@@ -20750,7 +20750,7 @@ Comet	"Ord Mantell C70"
 	RotationPeriod  74.1702
 	Obliquity       274.766
 	EqAscendNode    76.8534
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.49426
 	SlopeParam      5.68198
@@ -20870,7 +20870,7 @@ Comet	"Ord Mantell C71"
 	RotationPeriod  71.8667
 	Obliquity       227.972
 	EqAscendNode    61.4308
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.0624
 	SlopeParam      6.70509
@@ -20990,7 +20990,7 @@ Comet	"Ord Mantell C72"
 	RotationPeriod  69.657
 	Obliquity       181.177
 	EqAscendNode    46.0082
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.07358
 	SlopeParam      2.18923
@@ -21110,7 +21110,7 @@ Comet	"Ord Mantell C73"
 	RotationPeriod  67.5261
 	Obliquity       134.383
 	EqAscendNode    30.5856
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.17683
 	SlopeParam      2.92063
@@ -21230,7 +21230,7 @@ Comet	"Ord Mantell C74"
 	RotationPeriod  65.4616
 	Obliquity       87.5889
 	EqAscendNode    15.163
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.7272
 	SlopeParam      3.52835
@@ -21350,7 +21350,7 @@ Comet	"Ord Mantell C75"
 	RotationPeriod  63.4529
 	Obliquity       40.7946
 	EqAscendNode    359.74
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.86491
 	SlopeParam      4.09459
@@ -21470,7 +21470,7 @@ Comet	"Ord Mantell C76"
 	RotationPeriod  61.4913
 	Obliquity       354
 	EqAscendNode    344.318
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.83328
 	SlopeParam      4.66868
@@ -21590,7 +21590,7 @@ Comet	"Ord Mantell C77"
 	RotationPeriod  59.569
 	Obliquity       307.206
 	EqAscendNode    328.895
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.4163
 	SlopeParam      5.30534
@@ -21710,7 +21710,7 @@ Comet	"Ord Mantell C78"
 	RotationPeriod  57.6791
 	Obliquity       260.412
 	EqAscendNode    313.473
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.65588
 	SlopeParam      6.11704
@@ -21830,7 +21830,7 @@ Comet	"Ord Mantell C79"
 	RotationPeriod  55.8155
 	Obliquity       213.617
 	EqAscendNode    298.05
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.45587
 	SlopeParam      7.68142
@@ -21950,7 +21950,7 @@ Comet	"Ord Mantell C80"
 	RotationPeriod  53.9727
 	Obliquity       166.823
 	EqAscendNode    282.628
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.1249
 	SlopeParam      2.57385
@@ -22070,7 +22070,7 @@ Comet	"Ord Mantell C81"
 	RotationPeriod  52.1454
 	Obliquity       120.029
 	EqAscendNode    267.205
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.4459
 	SlopeParam      3.22923
@@ -22190,7 +22190,7 @@ Comet	"Ord Mantell C82"
 	RotationPeriod  50.3287
 	Obliquity       73.2345
 	EqAscendNode    251.782
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.03297
 	SlopeParam      3.80948
@@ -22310,7 +22310,7 @@ Comet	"Ord Mantell C83"
 	RotationPeriod  48.518
 	Obliquity       26.4402
 	EqAscendNode    236.36
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.8491
 	SlopeParam      4.3738
@@ -22430,7 +22430,7 @@ Comet	"Ord Mantell C84"
 	RotationPeriod  46.7085
 	Obliquity       339.646
 	EqAscendNode    220.937
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.23438
 	SlopeParam      4.97025
@@ -22550,7 +22550,7 @@ Comet	"Ord Mantell C85"
 	RotationPeriod  44.8958
 	Obliquity       292.852
 	EqAscendNode    205.515
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.54581
 	SlopeParam      5.67101
@@ -22670,7 +22670,7 @@ Comet	"Ord Mantell C86"
 	RotationPeriod  43.0752
 	Obliquity       246.057
 	EqAscendNode    190.092
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.5863
 	SlopeParam      6.68595
@@ -22790,7 +22790,7 @@ Comet	"Ord Mantell C87"
 	RotationPeriod  41.2418
 	Obliquity       199.263
 	EqAscendNode    174.669
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.0207
 	SlopeParam      2.17758
@@ -22910,7 +22910,7 @@ Comet	"Ord Mantell C88"
 	RotationPeriod  39.3908
 	Obliquity       152.469
 	EqAscendNode    159.247
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.96078
 	SlopeParam      2.9117
@@ -23030,7 +23030,7 @@ Comet	"Ord Mantell C89"
 	RotationPeriod  37.5167
 	Obliquity       105.674
 	EqAscendNode    143.824
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.3342
 	SlopeParam      3.52041
@@ -23150,7 +23150,7 @@ Comet	"Ord Mantell C90"
 	RotationPeriod  35.6138
 	Obliquity       58.8801
 	EqAscendNode    128.402
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.80419
 	SlopeParam      4.08687
@@ -23270,7 +23270,7 @@ Comet	"Ord Mantell C91"
 	RotationPeriod  33.6755
 	Obliquity       12.0859
 	EqAscendNode    112.979
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.20734
 	SlopeParam      4.66052
@@ -23390,7 +23390,7 @@ Comet	"Ord Mantell C92"
 	RotationPeriod  31.6948
 	Obliquity       325.292
 	EqAscendNode    97.5564
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.091
 	SlopeParam      5.2958
@@ -23510,7 +23510,7 @@ Comet	"Ord Mantell C93"
 	RotationPeriod  29.6634
 	Obliquity       278.497
 	EqAscendNode    82.1338
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.58411
 	SlopeParam      6.10358
@@ -23630,7 +23630,7 @@ Comet	"Ord Mantell C94"
 	RotationPeriod  27.5719
 	Obliquity       231.703
 	EqAscendNode    66.7112
-	Precession      0
+	//Precession      0
 
 	AbsMagn         0.0855522
 	SlopeParam      7.64022
@@ -23750,7 +23750,7 @@ Comet	"Ord Mantell C95"
 	RotationPeriod  25.409
 	Obliquity       184.909
 	EqAscendNode    51.2886
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.85538
 	SlopeParam      2.56388
@@ -23870,7 +23870,7 @@ Comet	"Ord Mantell C96"
 	RotationPeriod  23.1613
 	Obliquity       138.114
 	EqAscendNode    35.866
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.35965
 	SlopeParam      3.22092
@@ -23990,7 +23990,7 @@ Comet	"Ord Mantell C97"
 	RotationPeriod  20.8122
 	Obliquity       91.3201
 	EqAscendNode    20.4435
-	Precession      0
+	//Precession      0
 
 	AbsMagn         18.4672
 	SlopeParam      3.80172
@@ -24110,7 +24110,7 @@ Comet	"Ord Mantell C98"
 	RotationPeriod  18.3412
 	Obliquity       44.5258
 	EqAscendNode    5.02087
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.626
 	SlopeParam      4.36595
@@ -24230,7 +24230,7 @@ Comet	"Ord Mantell C99"
 	RotationPeriod  15.7219
 	Obliquity       357.731
 	EqAscendNode    349.598
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.12991
 	SlopeParam      4.96158
@@ -24350,7 +24350,7 @@ Comet	"Ord Mantell C100"
 	RotationPeriod  12.9194
 	Obliquity       310.937
 	EqAscendNode    334.176
-	Precession      0
+	//Precession      0
 
 	AbsMagn         15.8231
 	SlopeParam      5.6601
@@ -24470,7 +24470,7 @@ Comet	"Ord Mantell C101"
 	RotationPeriod  9.88632
 	Obliquity       264.143
 	EqAscendNode    318.753
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.40185
 	SlopeParam      6.66706
@@ -24590,7 +24590,7 @@ Comet	"Ord Mantell C102"
 	RotationPeriod  6.55532
 	Obliquity       217.349
 	EqAscendNode    303.331
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.89382
 	SlopeParam      2.16586
@@ -24710,7 +24710,7 @@ Comet	"Ord Mantell C103"
 	RotationPeriod  2.82567
 	Obliquity       170.554
 	EqAscendNode    287.908
-	Precession      0
+	//Precession      0
 
 	AbsMagn         14.7375
 	SlopeParam      2.90274
@@ -24830,7 +24830,7 @@ Comet	"Ord Mantell C104"
 	RotationPeriod  123.556
 	Obliquity       123.76
 	EqAscendNode    272.485
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.18202
 	SlopeParam      3.51247
