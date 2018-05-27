@@ -46,10 +46,11 @@ Planet	"Platoril"
 Planet	"Vandor-1"
 {
 	ParentBody     "Coruscant Prime"
-	Class          "Selena"
+	Class          "Desert"
 
     Radius          5931      // Radius in km  
 	Mass            0.7
+	AlbedoBond  0.77
     RotationPeriod  24        // Rotation period in hours 
 
 	Orbit
@@ -61,6 +62,9 @@ Planet	"Vandor-1"
 		Eccentricity   0.03
 		ArgOfPericen   9.2
 	}
+	
+	Clouds { }
+	Clouds { }
 }
 
 Planet	"Vandor-2"
