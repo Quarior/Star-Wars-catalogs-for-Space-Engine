@@ -197,7 +197,7 @@ DwarfPlanet	"Moth"
 
 	Obliquity       0.18
 	EqAscendNode    0
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -330,7 +330,7 @@ Barycenter	"Erep System"
 	RotationPeriod  24
 	Obliquity       0
 	EqAscendNode    0
-	Precession      0
+	//Precession      0
 
 
 	Orbit
@@ -358,7 +358,7 @@ Planet	"Erep"
 
 	Obliquity       1.19
 	EqAscendNode    0
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -514,7 +514,7 @@ Moon	"Erep 1"
 
 	Obliquity       1.19
 	EqAscendNode    0
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -654,7 +654,7 @@ Planet	"Naboo"
 	RotationOffset  -102.857
 	Obliquity       -45.4468
 	EqAscendNode    0.871529
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.32443
 	AlbedoGeom      0.389316
@@ -880,7 +880,7 @@ Moon	"Ohma-D'un/Naboo 1"
 
 	Obliquity       0.571429
 	EqAscendNode    -74.2857
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.348134
@@ -1107,7 +1107,7 @@ Moon	"Rori/Naboo 2"
 
 	Obliquity       -0.114286
 	EqAscendNode    102.857
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.332802
@@ -1309,7 +1309,7 @@ Moon	"Naboo 3"
 
 	Obliquity       34.2857
 	EqAscendNode    -148.571
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -1448,7 +1448,7 @@ Planet	"Widow"
 	RotationPeriod  31.9248
 	Obliquity       45.966
 	EqAscendNode    -0.217922
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -1603,7 +1603,7 @@ Moon	"Widow 1"
 
 	Obliquity       21.04
 	EqAscendNode    -228.571
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -1743,7 +1743,7 @@ Planet	"Storm"
 	RotationOffset  194.286
 	Obliquity       11.4286
 	EqAscendNode    -4.73182
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.495996
 	AlbedoGeom      0.595195
@@ -1942,7 +1942,7 @@ Moon	"Storm 1"
 
 	Obliquity       -0.178955
 	EqAscendNode    -63.5357
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2092,7 +2092,7 @@ Moon	"Storm 2"
 
 	Obliquity       -1.4567
 	EqAscendNode    135.011
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2273,7 +2273,7 @@ Moon	"Storm 3"
 
 	Obliquity       1.43594
 	EqAscendNode    58.0601
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2406,7 +2406,7 @@ Moon	"Storm 4"
 
 	Obliquity       1.0771
 	EqAscendNode    -120.006
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2560,7 +2560,7 @@ Moon	"Storm 5"
 
 	Obliquity       1.30354
 	EqAscendNode    -69.6965
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2717,7 +2717,7 @@ Moon	"Storm 6"
 
 	Obliquity       -1.18165
 	EqAscendNode    127.934
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2876,7 +2876,7 @@ Moon	"Storm 7"
 
 	Obliquity       -0.749224
 	EqAscendNode    139.343
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -3010,7 +3010,7 @@ Moon	"Storm 8"
 	RotationPeriod  205.751
 	Obliquity       -1.72224
 	EqAscendNode    91.1151
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -3143,7 +3143,7 @@ Moon	"Storm 9"
 	RotationPeriod  96.9452
 	Obliquity       39.0961
 	EqAscendNode    -182.679
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -3277,7 +3277,7 @@ DwarfMoon	"Storm D1"
 
 	Obliquity       -0.0118528
 	EqAscendNode    -47.3018
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3388,7 +3388,7 @@ DwarfMoon	"Storm D2"
 
 	Obliquity       -0.0120598
 	EqAscendNode    92.1459
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3499,7 +3499,7 @@ DwarfMoon	"Storm D3"
 
 	Obliquity       0.00271097
 	EqAscendNode    -82.8922
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3610,7 +3610,7 @@ DwarfMoon	"Storm D4"
 
 	Obliquity       0.0027086
 	EqAscendNode    -12.2332
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3721,7 +3721,7 @@ DwarfMoon	"Storm D5"
 
 	Obliquity       0.00480944
 	EqAscendNode    153.622
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3831,7 +3831,7 @@ DwarfMoon	"Storm D6"
 	RotationPeriod  1686.82
 	Obliquity       37.6156
 	EqAscendNode    -62.1068
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3940,7 +3940,7 @@ DwarfMoon	"Storm D7"
 	RotationPeriod  1500.11
 	Obliquity       38.7073
 	EqAscendNode    -107.432
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4049,7 +4049,7 @@ DwarfMoon	"Storm D8"
 	RotationPeriod  1765.88
 	Obliquity       -62.2825
 	EqAscendNode    3.74792
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4158,7 +4158,7 @@ DwarfMoon	"Storm D9"
 	RotationPeriod  1424.64
 	Obliquity       -62.5076
 	EqAscendNode    -143.356
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4267,7 +4267,7 @@ DwarfMoon	"Storm D10"
 	RotationPeriod  1277.01
 	Obliquity       114.453
 	EqAscendNode    -71.8026
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4376,7 +4376,7 @@ DwarfMoon	"Storm D11"
 	RotationPeriod  1148.95
 	Obliquity       -86.9882
 	EqAscendNode    32.4709
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4485,7 +4485,7 @@ DwarfMoon	"Storm D12"
 	RotationPeriod  1011.26
 	Obliquity       -18.7681
 	EqAscendNode    -11.4604
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4594,7 +4594,7 @@ DwarfMoon	"Storm D13"
 	RotationPeriod  1126.74
 	Obliquity       107.746
 	EqAscendNode    -174.119
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4703,7 +4703,7 @@ DwarfMoon	"Storm D14"
 	RotationPeriod  1011.47
 	Obliquity       -140.082
 	EqAscendNode    -132.732
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4812,7 +4812,7 @@ DwarfMoon	"Storm D15"
 	RotationPeriod  922.436
 	Obliquity       -36.7417
 	EqAscendNode    149.154
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4921,7 +4921,7 @@ DwarfMoon	"Storm D16"
 	RotationPeriod  827.023
 	Obliquity       53.721
 	EqAscendNode    -15.4295
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5030,7 +5030,7 @@ DwarfMoon	"Storm D17"
 	RotationPeriod  913.599
 	Obliquity       62.3594
 	EqAscendNode    113.513
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5139,7 +5139,7 @@ DwarfMoon	"Storm D18"
 	RotationPeriod  824.59
 	Obliquity       -9.73721
 	EqAscendNode    5.83166
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5248,7 +5248,7 @@ DwarfMoon	"Storm D19"
 	RotationPeriod  753.749
 	Obliquity       5.77757
 	EqAscendNode    -173.374
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5357,7 +5357,7 @@ DwarfMoon	"Storm D20"
 	RotationPeriod  679.415
 	Obliquity       -80.813
 	EqAscendNode    -155.869
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5466,7 +5466,7 @@ DwarfMoon	"Storm D21"
 	RotationPeriod  754.868
 	Obliquity       102.57
 	EqAscendNode    -4.89135
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5575,7 +5575,7 @@ DwarfMoon	"Storm D22"
 	RotationPeriod  678.273
 	Obliquity       46.7311
 	EqAscendNode    -32.2583
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5684,7 +5684,7 @@ DwarfMoon	"Storm D23"
 	RotationPeriod  617.895
 	Obliquity       22.2125
 	EqAscendNode    37.0204
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24

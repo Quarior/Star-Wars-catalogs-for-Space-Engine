@@ -7,20 +7,19 @@
 // http://starwars.wikia.com/wiki/Iridonia/Legends
 Planet	"Iridonia/Iridonia System 1"
 {
-	ParentBody     "Iridonia System"
-	Class	       "Terra"
+	ParentBody		"Iridonia System"
+	Class	       	"Terra"
 
-	Mass            0.46
-	Radius          4325.3677
-	InertiaMoment   0.374798
+	Mass			0.87
+	InertiaMoment	0.374798
 
 	Oblateness      0.00173823
 
 	RotationPeriod  29
-	Obliquity       108.23
+	Obliquity       18.23
 	EqAscendNode    -110.573
-	Precession      0
-    TidalLocked     false
+	//Precession      0
+	TidalLocked     false
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -169,8 +168,8 @@ Planet	"Iridonia/Iridonia System 1"
 		Model          "Earth"
 		Height          223.463
 		Density         1e-009
-		Pressure        1
-		Greenhouse      27.3771
+		Pressure        0.4347
+		Greenhouse      2.3771
 		Bright          11.1111
 		Opacity         0.253968
 		SkyLight        4.52381
@@ -198,7 +197,6 @@ Planet	"Iridonia/Iridonia System 1"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   2.09877
 		Period          1.13073
 		Eccentricity    0.0062968
 		Inclination     -2.66638
@@ -226,7 +224,7 @@ DwarfMoon	"Iridonia System 1.D1"
 
 	Obliquity       0.0111169
 	EqAscendNode    81.3909
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -337,7 +335,7 @@ DwarfMoon	"Iridonia System 1.D2"
 	RotationPeriod  16.8343
 	Obliquity       -64.6811
 	EqAscendNode    -177.712
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -447,7 +445,7 @@ Planet	"Iridonia System 2"
 	RotationPeriod  17.433
 	Obliquity       31.577
 	EqAscendNode    16.237
-	Precession      0
+	//Precession      0
 
 	AbsMagn         -2.3421
 	SlopeParam      4.49658
@@ -675,7 +673,7 @@ DwarfMoon	"Iridonia System 2.D1"
 
 	Obliquity       -0.000454789
 	EqAscendNode    8.49021
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -785,7 +783,7 @@ Moon	"Iridonia System 2.1"
 
 	Obliquity       1.0217
 	EqAscendNode    -26.9447
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -917,7 +915,7 @@ Moon	"Iridonia System 2.2"
 
 	Obliquity       -1.14849
 	EqAscendNode    121.845
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -1047,7 +1045,7 @@ Moon	"Iridonia System 2.3"
 
 	Obliquity       -0.0904723
 	EqAscendNode    -96.7543
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -1177,7 +1175,7 @@ DwarfMoon	"Iridonia System 2.D2"
 
 	Obliquity       -68.7531
 	EqAscendNode    -91.6789
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1286,7 +1284,7 @@ DwarfMoon	"Iridonia System 2.D3"
 	RotationPeriod  315.541
 	Obliquity       -32.4717
 	EqAscendNode    28.4641
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1394,7 +1392,7 @@ DwarfMoon	"Iridonia System 2.D4"
 	RotationPeriod  444.952
 	Obliquity       51.8113
 	EqAscendNode    -58.5553
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1502,7 +1500,7 @@ DwarfMoon	"Iridonia System 2.D5"
 	RotationPeriod  266.373
 	Obliquity       -24.5693
 	EqAscendNode    1.51588
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1610,7 +1608,7 @@ DwarfMoon	"Iridonia System 2.D6"
 	RotationPeriod  249.714
 	Obliquity       -18.7149
 	EqAscendNode    -27.2016
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1718,7 +1716,7 @@ DwarfMoon	"Iridonia System 2.D7"
 	RotationPeriod  385.641
 	Obliquity       -16.0895
 	EqAscendNode    -144.831
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1828,7 +1826,7 @@ Planet	"Iridonia System 3"
 	RotationPeriod  14.5019
 	Obliquity       -19.2598
 	EqAscendNode    0.957457
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.327122
 	AlbedoGeom      0.392547
@@ -2064,7 +2062,7 @@ Planet	"Iridonia System 4"
 	RotationPeriod  10.1959
 	Obliquity       9.90346
 	EqAscendNode    65.1565
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.276335
 	AlbedoGeom      0.331602
@@ -2297,7 +2295,7 @@ DwarfMoon	"Iridonia System 4.D1"
 
 	Obliquity       -0.0141092
 	EqAscendNode    -101.464
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2407,7 +2405,7 @@ DwarfMoon	"Iridonia System 4.D2"
 
 	Obliquity       0.836187
 	EqAscendNode    139.431
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2517,7 +2515,7 @@ Moon	"Iridonia System 4.1"
 
 	Obliquity       -1.27083
 	EqAscendNode    138.784
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2649,7 +2647,7 @@ Moon	"Iridonia System 4.2"
 
 	Obliquity       -0.37945
 	EqAscendNode    128.103
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2779,7 +2777,7 @@ Moon	"Iridonia System 4.3"
 
 	Obliquity       -1.21175
 	EqAscendNode    125.585
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2928,7 +2926,7 @@ Moon	"Iridonia System 4.4"
 
 	Obliquity       0.572672
 	EqAscendNode    -28.6346
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3079,7 +3077,7 @@ Moon	"Iridonia System 4.5"
 
 	Obliquity       1.27512
 	EqAscendNode    -91.6412
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.25
@@ -3302,7 +3300,7 @@ Moon	"Iridonia System 4.6"
 	RotationPeriod  39.3074
 	Obliquity       4.13667
 	EqAscendNode    -64.9733
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.355334
 	AlbedoGeom      0.426401
@@ -3525,7 +3523,7 @@ DwarfMoon	"Iridonia System 4.D3"
 	RotationPeriod  665.799
 	Obliquity       28.7534
 	EqAscendNode    -166.277
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3635,7 +3633,7 @@ Planet	"Iridonia System 5"
 	RotationPeriod  9.04262
 	Obliquity       -0.933309
 	EqAscendNode    51.3044
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.484471
 	AlbedoGeom      0.581366
@@ -3783,7 +3781,7 @@ DwarfMoon	"Iridonia System 5.D1"
 
 	Obliquity       -0.0130353
 	EqAscendNode    16.5149
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3893,7 +3891,7 @@ DwarfMoon	"Iridonia System 5.D2"
 
 	Obliquity       0.0100664
 	EqAscendNode    -54.9995
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4003,7 +4001,7 @@ Moon	"Iridonia System 5.1"
 
 	Obliquity       0.0837396
 	EqAscendNode    -52.3979
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4156,7 +4154,7 @@ Moon	"Iridonia System 5.2"
 
 	Obliquity       -0.78725
 	EqAscendNode    -10.2667
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -4306,7 +4304,7 @@ Moon	"Iridonia System 5.3"
 
 	Obliquity       -0.329485
 	EqAscendNode    -107.673
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.7
@@ -4506,7 +4504,7 @@ Moon	"Iridonia System 5.4"
 
 	Obliquity       -0.712532
 	EqAscendNode    1.04642
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -4655,7 +4653,7 @@ Moon	"Iridonia System 5.5"
 
 	Obliquity       0.70026
 	EqAscendNode    18.7004
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -4806,7 +4804,7 @@ Moon	"Iridonia System 5.6"
 
 	Obliquity       1.41802
 	EqAscendNode    -93.7264
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -4960,7 +4958,7 @@ Moon	"Iridonia System 5.7"
 	RotationPeriod  215.711
 	Obliquity       0.632457
 	EqAscendNode    -46.7528
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -5113,7 +5111,7 @@ Moon	"Iridonia System 5.8"
 	RotationPeriod  21.5115
 	Obliquity       -51.6523
 	EqAscendNode    -142.311
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5276,7 +5274,7 @@ Moon	"Iridonia System 5.9"
 	RotationPeriod  27.8204
 	Obliquity       1.64792
 	EqAscendNode    -66.7203
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5435,7 +5433,7 @@ DwarfMoon	"Iridonia System 5.D3"
 	RotationPeriod  146.486
 	Obliquity       40.6874
 	EqAscendNode    -98.5697
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5543,7 +5541,7 @@ DwarfMoon	"Iridonia System 5.D4"
 	RotationPeriod  1781.45
 	Obliquity       -9.79544
 	EqAscendNode    136.913
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5651,7 +5649,7 @@ DwarfMoon	"Iridonia System 5.D5"
 	RotationPeriod  1158.44
 	Obliquity       -36.8068
 	EqAscendNode    43.8337
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5759,7 +5757,7 @@ DwarfMoon	"Iridonia System 5.D6"
 	RotationPeriod  970.855
 	Obliquity       -28.4169
 	EqAscendNode    85.2402
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5867,7 +5865,7 @@ DwarfMoon	"Iridonia System 5.D7"
 	RotationPeriod  848.161
 	Obliquity       61.7065
 	EqAscendNode    -98.3085
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5975,7 +5973,7 @@ DwarfMoon	"Iridonia System 5.D8"
 	RotationPeriod  743.429
 	Obliquity       -151.26
 	EqAscendNode    -58.3504
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6083,7 +6081,7 @@ DwarfMoon	"Iridonia System 5.D9"
 	RotationPeriod  1447.39
 	Obliquity       -14.4078
 	EqAscendNode    134.371
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6191,7 +6189,7 @@ DwarfMoon	"Iridonia System 5.D10"
 	RotationPeriod  740.867
 	Obliquity       70.9222
 	EqAscendNode    -19.7063
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6299,7 +6297,7 @@ DwarfMoon	"Iridonia System 5.D11"
 	RotationPeriod  653.441
 	Obliquity       72.7082
 	EqAscendNode    -31.0658
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6409,7 +6407,7 @@ Comet	"C1"
 	RotationPeriod  48.2147
 	Obliquity       125.955
 	EqAscendNode    70.8291
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.98801
 	SlopeParam      6.45744
@@ -6530,7 +6528,7 @@ Comet	"C2"
 	RotationPeriod  46.405
 	Obliquity       79.161
 	EqAscendNode    55.4065
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.5504
 	SlopeParam      2.02046
@@ -6651,7 +6649,7 @@ Comet	"C3"
 	RotationPeriod  44.5913
 	Obliquity       32.3667
 	EqAscendNode    39.9839
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.74789
 	SlopeParam      2.7938
@@ -6772,7 +6770,7 @@ Comet	"C4"
 	RotationPeriod  42.7689
 	Obliquity       345.572
 	EqAscendNode    24.5613
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.62665
 	SlopeParam      3.41681
@@ -6893,7 +6891,7 @@ Comet	"C5"
 	RotationPeriod  40.9329
 	Obliquity       298.778
 	EqAscendNode    9.13874
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.2509
 	SlopeParam      3.98683
@@ -7014,7 +7012,7 @@ Comet	"C6"
 	RotationPeriod  39.0784
 	Obliquity       251.984
 	EqAscendNode    353.716
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.5384
 	SlopeParam      4.55578
@@ -7135,7 +7133,7 @@ Comet	"C7"
 	RotationPeriod  37.1999
 	Obliquity       205.19
 	EqAscendNode    338.294
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.22554
 	SlopeParam      5.17477
@@ -7256,7 +7254,7 @@ Comet	"C8"
 	RotationPeriod  35.2915
 	Obliquity       158.395
 	EqAscendNode    322.871
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.9686
 	SlopeParam      5.93701
@@ -7377,7 +7375,7 @@ Comet	"C9"
 	RotationPeriod  33.3467
 	Obliquity       111.601
 	EqAscendNode    307.448
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.32763
 	SlopeParam      7.20868
@@ -7498,7 +7496,7 @@ Comet	"C10"
 	RotationPeriod  31.3581
 	Obliquity       64.8067
 	EqAscendNode    292.026
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.76963
 	SlopeParam      2.43127
@@ -7619,7 +7617,7 @@ Comet	"C11"
 	RotationPeriod  29.3173
 	Obliquity       18.0124
 	EqAscendNode    276.603
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.7004
 	SlopeParam      3.11182
@@ -7740,7 +7738,7 @@ Comet	"C12"
 	RotationPeriod  27.2147
 	Obliquity       331.218
 	EqAscendNode    261.181
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.11498
 	SlopeParam      3.70093
@@ -7861,7 +7859,7 @@ Comet	"C13"
 	RotationPeriod  25.0386
 	Obliquity       284.424
 	EqAscendNode    245.758
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.23331
 	SlopeParam      4.26468
@@ -7982,7 +7980,7 @@ Comet	"C14"
 	RotationPeriod  22.7751
 	Obliquity       237.629
 	EqAscendNode    230.335
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.4439
 	SlopeParam      4.85076
@@ -8103,7 +8101,7 @@ Comet	"C15"
 	RotationPeriod  20.4072
 	Obliquity       190.835
 	EqAscendNode    214.913
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.8998
 	SlopeParam      5.52283
@@ -8224,7 +8222,7 @@ Comet	"C16"
 	RotationPeriod  17.9133
 	Obliquity       144.041
 	EqAscendNode    199.49
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.56696
 	SlopeParam      6.44111
@@ -8345,7 +8343,7 @@ Comet	"C17"
 	RotationPeriod  15.266
 	Obliquity       97.2466
 	EqAscendNode    184.068
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.197
 	SlopeParam      2.00783
@@ -8466,7 +8464,7 @@ Comet	"C18"
 	RotationPeriod  12.4286
 	Obliquity       50.4523
 	EqAscendNode    168.645
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.68138
 	SlopeParam      2.78453
@@ -8587,7 +8585,7 @@ Comet	"C19"
 	RotationPeriod  9.35097
 	Obliquity       3.65798
 	EqAscendNode    153.222
-	Precession      0
+	//Precession      0
 
 	AbsMagn         0.650695
 	SlopeParam      3.40875
@@ -8708,7 +8706,7 @@ Comet	"C20"
 	RotationPeriod  5.96138
 	Obliquity       316.864
 	EqAscendNode    137.8
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.95818
 	SlopeParam      3.97912
@@ -8827,7 +8825,7 @@ Comet	"C21"
 	RotationPeriod  157.017
 	Obliquity       270.069
 	EqAscendNode    122.377
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.45896
 	SlopeParam      4.54776
@@ -8948,7 +8946,7 @@ Comet	"C22"
 	RotationPeriod  121.009
 	Obliquity       223.275
 	EqAscendNode    106.955
-	Precession      0
+	//Precession      0
 
 	AbsMagn         -0.993953
 	SlopeParam      5.16561
@@ -9069,7 +9067,7 @@ Comet	"C23"
 	RotationPeriod  110.478
 	Obliquity       176.481
 	EqAscendNode    91.5321
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.72617
 	SlopeParam      5.92471
@@ -9190,7 +9188,7 @@ Comet	"C24"
 	RotationPeriod  103.56
 	Obliquity       129.687
 	EqAscendNode    76.1095
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.23166
 	SlopeParam      7.18105
@@ -9311,7 +9309,7 @@ Comet	"C25"
 	RotationPeriod  98.24
 	Obliquity       82.8922
 	EqAscendNode    60.6869
-	Precession      0
+	//Precession      0
 
 	AbsMagn         16.5681
 	SlopeParam      2.42075
@@ -9432,7 +9430,7 @@ Comet	"C26"
 	RotationPeriod  93.8353
 	Obliquity       36.0979
 	EqAscendNode    45.2643
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.49984
 	SlopeParam      3.1033
@@ -9553,7 +9551,7 @@ Comet	"C27"
 	RotationPeriod  90.0269
 	Obliquity       349.304
 	EqAscendNode    29.8418
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.9985
 	SlopeParam      3.69313
@@ -9674,7 +9672,7 @@ Comet	"C28"
 	RotationPeriod  86.6385
 	Obliquity       302.509
 	EqAscendNode    14.4192
-	Precession      0
+	//Precession      0
 
 	AbsMagn         15.1512
 	SlopeParam      4.2569
@@ -9795,7 +9793,7 @@ Comet	"C29"
 	RotationPeriod  83.5618
 	Obliquity       255.715
 	EqAscendNode    358.997
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.27822
 	SlopeParam      4.84232
@@ -9916,7 +9914,7 @@ Comet	"C30"
 	RotationPeriod  80.7251
 	Obliquity       208.921
 	EqAscendNode    343.574
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.75833
 	SlopeParam      5.51254
@@ -10037,7 +10035,7 @@ Comet	"C31"
 	RotationPeriod  78.0783
 	Obliquity       162.126
 	EqAscendNode    328.151
-	Precession      0
+	//Precession      0
 
 	AbsMagn         14.2971
 	SlopeParam      6.42494
@@ -10158,7 +10156,7 @@ Comet	"C32"
 	RotationPeriod  75.5849
 	Obliquity       115.332
 	EqAscendNode    312.729
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.06045
 	SlopeParam      10.4876
@@ -10279,7 +10277,7 @@ Comet	"C33"
 	RotationPeriod  73.2174
 	Obliquity       68.5378
 	EqAscendNode    297.306
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.50978
 	SlopeParam      2.77523
@@ -10400,7 +10398,7 @@ Comet	"C34"
 	RotationPeriod  70.9542
 	Obliquity       21.7435
 	EqAscendNode    281.884
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.6604
 	SlopeParam      3.40068
@@ -10521,7 +10519,7 @@ Comet	"C35"
 	RotationPeriod  68.7783
 	Obliquity       334.949
 	EqAscendNode    266.461
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.84578
 	SlopeParam      3.9714
@@ -10642,7 +10640,7 @@ Comet	"C36"
 	RotationPeriod  66.6759
 	Obliquity       288.155
 	EqAscendNode    251.038
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.25123
 	SlopeParam      4.53975
@@ -10763,7 +10761,7 @@ Comet	"C37"
 	RotationPeriod  64.6353
 	Obliquity       241.361
 	EqAscendNode    235.616
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.1415
 	SlopeParam      5.15648
@@ -10884,7 +10882,7 @@ Comet	"C38"
 	RotationPeriod  62.6469
 	Obliquity       194.566
 	EqAscendNode    220.193
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.63352
 	SlopeParam      5.91249
@@ -11005,7 +11003,7 @@ Comet	"C39"
 	RotationPeriod  60.7022
 	Obliquity       147.772
 	EqAscendNode    204.771
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.98063
 	SlopeParam      7.154
@@ -11126,7 +11124,7 @@ Comet	"C40"
 	RotationPeriod  58.7939
 	Obliquity       100.978
 	EqAscendNode    189.348
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.6972
 	SlopeParam      2.41019
@@ -11247,7 +11245,7 @@ Comet	"C41"
 	RotationPeriod  56.9155
 	Obliquity       54.1834
 	EqAscendNode    173.925
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.42304
 	SlopeParam      3.09476
@@ -11368,7 +11366,7 @@ Comet	"C42"
 	RotationPeriod  55.061
 	Obliquity       7.38915
 	EqAscendNode    158.503
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.69546
 	SlopeParam      3.68532
@@ -11489,7 +11487,7 @@ Comet	"C43"
 	RotationPeriod  53.2251
 	Obliquity       320.595
 	EqAscendNode    143.08
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.3043
 	SlopeParam      4.24912
@@ -11610,7 +11608,7 @@ Comet	"C44"
 	RotationPeriod  51.4028
 	Obliquity       273.801
 	EqAscendNode    127.658
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.21372
 	SlopeParam      4.83389
@@ -11731,7 +11729,7 @@ Comet	"C45"
 	RotationPeriod  49.5891
 	Obliquity       227.006
 	EqAscendNode    112.235
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.39241
 	SlopeParam      5.50229
@@ -11852,7 +11850,7 @@ Comet	"C46"
 	RotationPeriod  47.7794
 	Obliquity       180.212
 	EqAscendNode    96.8125
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.9491
 	SlopeParam      6.40892
@@ -11973,7 +11971,7 @@ Comet	"C47"
 	RotationPeriod  45.9692
 	Obliquity       133.418
 	EqAscendNode    81.39
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.00498
 	SlopeParam      9.71682
@@ -12094,7 +12092,7 @@ Comet	"C48"
 	RotationPeriod  44.1538
 	Obliquity       86.6234
 	EqAscendNode    65.9674
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.06708
 	SlopeParam      2.76591
@@ -12215,7 +12213,7 @@ Comet	"C49"
 	RotationPeriod  42.3285
 	Obliquity       39.8291
 	EqAscendNode    50.5448
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.6226
 	SlopeParam      3.39261
@@ -12336,7 +12334,7 @@ Comet	"C50"
 	RotationPeriod  40.4886
 	Obliquity       353.035
 	EqAscendNode    35.1222
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.79626
 	SlopeParam      3.96368
@@ -12457,7 +12455,7 @@ Comet	"C51"
 	RotationPeriod  38.6288
 	Obliquity       306.24
 	EqAscendNode    19.6996
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.7134
 	SlopeParam      4.53175
@@ -12578,7 +12576,7 @@ Comet	"C52"
 	RotationPeriod  36.7437
 	Obliquity       259.446
 	EqAscendNode    4.277
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.3186
 	SlopeParam      5.14737
@@ -12699,7 +12697,7 @@ Comet	"C53"
 	RotationPeriod  34.8271
 	Obliquity       212.652
 	EqAscendNode    348.854
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.58698
 	SlopeParam      5.90034
@@ -12820,7 +12818,7 @@ Comet	"C54"
 	RotationPeriod  32.8725
 	Obliquity       165.858
 	EqAscendNode    333.432
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.32258
 	SlopeParam      7.12752
@@ -12941,7 +12939,7 @@ Comet	"C55"
 	RotationPeriod  30.8721
 	Obliquity       119.063
 	EqAscendNode    318.009
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.0326
 	SlopeParam      2.39958
@@ -13062,7 +13060,7 @@ Comet	"C56"
 	RotationPeriod  28.8175
 	Obliquity       72.269
 	EqAscendNode    302.587
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.37656
 	SlopeParam      3.0862
@@ -13183,7 +13181,7 @@ Comet	"C57"
 	RotationPeriod  26.6983
 	Obliquity       25.4747
 	EqAscendNode    287.164
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.88112
 	SlopeParam      3.6775
@@ -13304,7 +13302,7 @@ Comet	"C58"
 	RotationPeriod  24.5025
 	Obliquity       338.68
 	EqAscendNode    271.741
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.7614
 	SlopeParam      4.24135
@@ -13425,7 +13423,7 @@ Comet	"C59"
 	RotationPeriod  22.2156
 	Obliquity       291.886
 	EqAscendNode    256.319
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.1644
 	SlopeParam      4.82548
@@ -13546,7 +13544,7 @@ Comet	"C60"
 	RotationPeriod  19.8195
 	Obliquity       245.092
 	EqAscendNode    240.896
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.3666
 	SlopeParam      5.49208
@@ -13667,7 +13665,7 @@ Comet	"C61"
 	RotationPeriod  17.2916
 	Obliquity       198.298
 	EqAscendNode    225.474
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.5023
 	SlopeParam      6.39306
@@ -13788,7 +13786,7 @@ Comet	"C62"
 	RotationPeriod  14.6023
 	Obliquity       151.503
 	EqAscendNode    210.051
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.94986
 	SlopeParam      9.36238
@@ -13909,7 +13907,7 @@ Comet	"C63"
 	RotationPeriod  11.7123
 	Obliquity       104.709
 	EqAscendNode    194.629
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.73706
 	SlopeParam      2.75657
@@ -14030,7 +14028,7 @@ Comet	"C64"
 	RotationPeriod  8.5672
 	Obliquity       57.9146
 	EqAscendNode    179.206
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.2533
 	SlopeParam      3.38452
@@ -14151,7 +14149,7 @@ Comet	"C65"
 	RotationPeriod  5.08823
 	Obliquity       11.1203
 	EqAscendNode    163.783
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.73226
 	SlopeParam      3.95597
@@ -14272,7 +14270,7 @@ Comet	"C66"
 	RotationPeriod  138.323
 	Obliquity       324.326
 	EqAscendNode    148.361
-	Precession      0
+	//Precession      0
 
 	AbsMagn         0.897483
 	SlopeParam      4.52377
@@ -14393,7 +14391,7 @@ Comet	"C67"
 	RotationPeriod  117.892
 	Obliquity       277.532
 	EqAscendNode    132.938
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.0128
 	SlopeParam      5.13829
@@ -14514,7 +14512,7 @@ Comet	"C68"
 	RotationPeriod  108.602
 	Obliquity       230.737
 	EqAscendNode    117.516
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.51084
 	SlopeParam      5.88825
@@ -14635,7 +14633,7 @@ Comet	"C69"
 	RotationPeriod  102.169
 	Obliquity       183.943
 	EqAscendNode    102.093
-	Precession      0
+	//Precession      0
 
 	AbsMagn         -0.471892
 	SlopeParam      7.10158
@@ -14756,7 +14754,7 @@ Comet	"C70"
 	RotationPeriod  97.1121
 	Obliquity       137.149
 	EqAscendNode    86.6704
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.77933
 	SlopeParam      2.38893
@@ -14877,7 +14875,7 @@ Comet	"C71"
 	RotationPeriod  92.8727
 	Obliquity       90.3545
 	EqAscendNode    71.2478
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.28475
 	SlopeParam      3.07763
@@ -14998,7 +14996,7 @@ Comet	"C72"
 	RotationPeriod  89.1781
 	Obliquity       43.5602
 	EqAscendNode    55.8252
-	Precession      0
+	//Precession      0
 
 	AbsMagn         17.1233
 	SlopeParam      3.66968
@@ -15119,7 +15117,7 @@ Comet	"C73"
 	RotationPeriod  85.8729
 	Obliquity       356.766
 	EqAscendNode    40.4026
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.55177
 	SlopeParam      4.23358
@@ -15240,7 +15238,7 @@ Comet	"C74"
 	RotationPeriod  82.8595
 	Obliquity       309.972
 	EqAscendNode    24.98
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.05304
 	SlopeParam      4.81709
@@ -15361,7 +15359,7 @@ Comet	"C75"
 	RotationPeriod  80.0724
 	Obliquity       263.177
 	EqAscendNode    9.55743
-	Precession      0
+	//Precession      0
 
 	AbsMagn         15.4038
 	SlopeParam      5.48191
@@ -15482,7 +15480,7 @@ Comet	"C76"
 	RotationPeriod  77.4655
 	Obliquity       216.383
 	EqAscendNode    354.135
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.32914
 	SlopeParam      6.37735
@@ -15603,7 +15601,7 @@ Comet	"C77"
 	RotationPeriod  75.0046
 	Obliquity       169.589
 	EqAscendNode    338.712
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.81461
 	SlopeParam      9.12352
@@ -15724,7 +15722,7 @@ Comet	"C78"
 	RotationPeriod  72.664
 	Obliquity       122.794
 	EqAscendNode    323.29
-	Precession      0
+	//Precession      0
 
 	AbsMagn         14.4696
 	SlopeParam      2.74719
@@ -15845,7 +15843,7 @@ Comet	"C79"
 	RotationPeriod  70.4232
 	Obliquity       76.0002
 	EqAscendNode    307.867
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.11055
 	SlopeParam      3.37643
@@ -15966,7 +15964,7 @@ Comet	"C80"
 	RotationPeriod  68.2662
 	Obliquity       29.2059
 	EqAscendNode    292.444
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.56813
 	SlopeParam      3.94825
@@ -16087,7 +16085,7 @@ Comet	"C81"
 	RotationPeriod  66.1796
 	Obliquity       342.412
 	EqAscendNode    277.022
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.795
 	SlopeParam      4.51578
@@ -16208,7 +16206,7 @@ Comet	"C82"
 	RotationPeriod  64.1525
 	Obliquity       295.617
 	EqAscendNode    261.599
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.89523
 	SlopeParam      5.12923
@@ -16329,7 +16327,7 @@ Comet	"C83"
 	RotationPeriod  62.1753
 	Obliquity       248.823
 	EqAscendNode    246.177
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.31206
 	SlopeParam      5.87624
@@ -16450,7 +16448,7 @@ Comet	"C84"
 	RotationPeriod  60.24
 	Obliquity       202.029
 	EqAscendNode    230.754
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.2539
 	SlopeParam      7.07615
@@ -16571,7 +16569,7 @@ Comet	"C85"
 	RotationPeriod  58.3394
 	Obliquity       155.234
 	EqAscendNode    215.332
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.68247
 	SlopeParam      2.37824
@@ -16692,7 +16690,7 @@ Comet	"C86"
 	RotationPeriod  56.4673
 	Obliquity       108.44
 	EqAscendNode    199.909
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.04446
 	SlopeParam      3.06904
@@ -16813,7 +16811,7 @@ Comet	"C87"
 	RotationPeriod  54.6178
 	Obliquity       61.6458
 	EqAscendNode    184.486
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.7948
 	SlopeParam      3.66186
@@ -16934,7 +16932,7 @@ Comet	"C88"
 	RotationPeriod  52.7856
 	Obliquity       14.8515
 	EqAscendNode    169.064
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.47163
 	SlopeParam      4.22581
@@ -17055,7 +17053,7 @@ Comet	"C89"
 	RotationPeriod  50.9657
 	Obliquity       328.057
 	EqAscendNode    153.641
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.76292
 	SlopeParam      4.80871
@@ -17176,7 +17174,7 @@ Comet	"C90"
 	RotationPeriod  49.1534
 	Obliquity       281.263
 	EqAscendNode    138.219
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.3915
 	SlopeParam      5.47177
@@ -17297,7 +17295,7 @@ Comet	"C91"
 	RotationPeriod  47.344
 	Obliquity       234.469
 	EqAscendNode    122.796
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.26209
 	SlopeParam      6.36178
@@ -17418,7 +17416,7 @@ Comet	"C92"
 	RotationPeriod  45.533
 	Obliquity       187.674
 	EqAscendNode    107.373
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.46435
 	SlopeParam      8.94099
@@ -17539,7 +17537,7 @@ Comet	"C93"
 	RotationPeriod  43.7157
 	Obliquity       140.88
 	EqAscendNode    91.9508
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.0285
 	SlopeParam      2.73779
@@ -17660,7 +17658,7 @@ Comet	"C94"
 	RotationPeriod  41.8873
 	Obliquity       94.0857
 	EqAscendNode    76.5282
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.05327
 	SlopeParam      3.36832
@@ -17781,7 +17779,7 @@ Comet	"C95"
 	RotationPeriod  40.0431
 	Obliquity       47.2914
 	EqAscendNode    61.1056
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.14464
 	SlopeParam      3.94053
@@ -17902,7 +17900,7 @@ Comet	"C96"
 	RotationPeriod  38.1778
 	Obliquity       0.497101
 	EqAscendNode    45.683
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.696
 	SlopeParam      4.50781
@@ -18023,7 +18021,7 @@ Comet	"C97"
 	RotationPeriod  36.2856
 	Obliquity       313.703
 	EqAscendNode    30.2604
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.84459
 	SlopeParam      5.12019
@@ -18144,7 +18142,7 @@ Comet	"C98"
 	RotationPeriod  34.3606
 	Obliquity       266.909
 	EqAscendNode    14.8379
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.79819
 	SlopeParam      5.86429
@@ -18265,7 +18263,7 @@ Comet	"C99"
 	RotationPeriod  32.3956
 	Obliquity       220.114
 	EqAscendNode    359.415
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.3872
 	SlopeParam      7.05121
@@ -18386,7 +18384,7 @@ Comet	"C100"
 	RotationPeriod  30.3831
 	Obliquity       173.32
 	EqAscendNode    343.993
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.63549
 	SlopeParam      2.36749
@@ -18507,7 +18505,7 @@ Comet	"C101"
 	RotationPeriod  28.3138
 	Obliquity       126.526
 	EqAscendNode    328.57
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.41695
 	SlopeParam      3.06043
@@ -18628,7 +18626,7 @@ Comet	"C102"
 	RotationPeriod  26.1774
 	Obliquity       79.7313
 	EqAscendNode    313.147
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.0974
 	SlopeParam      3.65403
@@ -18749,7 +18747,7 @@ Comet	"C103"
 	RotationPeriod  23.9612
 	Obliquity       32.937
 	EqAscendNode    297.725
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.42539
 	SlopeParam      4.21805
@@ -18870,7 +18868,7 @@ Comet	"C104"
 	RotationPeriod  21.6498
 	Obliquity       346.143
 	EqAscendNode    282.302
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.98878
 	SlopeParam      4.80034
@@ -18991,7 +18989,7 @@ Comet	"C105"
 	RotationPeriod  19.2243
 	Obliquity       299.348
 	EqAscendNode    266.88
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.823
 	SlopeParam      5.46168
@@ -19112,7 +19110,7 @@ Comet	"C106"
 	RotationPeriod  16.6605
 	Obliquity       252.554
 	EqAscendNode    251.457
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.21369
 	SlopeParam      6.34636
@@ -19233,7 +19231,7 @@ Comet	"C107"
 	RotationPeriod  13.927
 	Obliquity       205.76
 	EqAscendNode    236.035
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.49391
 	SlopeParam      8.79218
@@ -19354,7 +19352,7 @@ Comet	"C108"
 	RotationPeriod  10.9813
 	Obliquity       158.966
 	EqAscendNode    220.612
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.5613
 	SlopeParam      2.72836
@@ -19475,7 +19473,7 @@ Comet	"C109"
 	RotationPeriod  7.76429
 	Obliquity       112.171
 	EqAscendNode    205.189
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.99977
 	SlopeParam      3.36021
@@ -19596,7 +19594,7 @@ Comet	"C110"
 	RotationPeriod  4.18908
 	Obliquity       65.3769
 	EqAscendNode    189.767
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.89653
 	SlopeParam      3.93281
@@ -19717,7 +19715,7 @@ Comet	"C111"
 	RotationPeriod  130.606
 	Obliquity       18.5826
 	EqAscendNode    174.344
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.3102
 	SlopeParam      4.49985
@@ -19838,7 +19836,7 @@ Comet	"C112"
 	RotationPeriod  115.224
 	Obliquity       331.788
 	EqAscendNode    158.922
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.78294
 	SlopeParam      5.11117
@@ -19959,7 +19957,7 @@ Comet	"C113"
 	RotationPeriod  106.877
 	Obliquity       284.994
 	EqAscendNode    143.499
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.11986
 	SlopeParam      5.85241
@@ -20080,7 +20078,7 @@ Comet	"C114"
 	RotationPeriod  100.855
 	Obliquity       238.2
 	EqAscendNode    128.076
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.0678
 	SlopeParam      7.02673
@@ -20201,7 +20199,7 @@ Comet	"C115"
 	RotationPeriod  96.0305
 	Obliquity       191.405
 	EqAscendNode    112.654
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.56247
 	SlopeParam      2.3567
@@ -20322,7 +20320,7 @@ Comet	"C116"
 	RotationPeriod  91.9412
 	Obliquity       144.611
 	EqAscendNode    97.2312
-	Precession      0
+	//Precession      0
 
 	AbsMagn         -0.0636311
 	SlopeParam      3.0518
@@ -20443,7 +20441,7 @@ Comet	"C117"
 	RotationPeriod  88.3517
 	Obliquity       97.8169
 	EqAscendNode    81.8086
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.8328
 	SlopeParam      3.64619
@@ -20564,7 +20562,7 @@ Comet	"C118"
 	RotationPeriod  85.124
 	Obliquity       51.0226
 	EqAscendNode    66.3861
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.33754
 	SlopeParam      4.21028
@@ -20685,7 +20683,7 @@ Comet	"C119"
 	RotationPeriod  82.1702
 	Obliquity       4.22827
 	EqAscendNode    50.9635
-	Precession      0
+	//Precession      0
 
 	AbsMagn         17.9432
 	SlopeParam      4.79199
@@ -20806,7 +20804,7 @@ Comet	"C120"
 	RotationPeriod  79.4301
 	Obliquity       317.434
 	EqAscendNode    35.5409
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.60397
 	SlopeParam      5.45162
@@ -20927,7 +20925,7 @@ Comet	"C121"
 	RotationPeriod  76.8611
 	Obliquity       270.64
 	EqAscendNode    20.1183
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.10723
 	SlopeParam      6.33107
@@ -21048,7 +21046,7 @@ Comet	"C122"
 	RotationPeriod  74.4313
 	Obliquity       223.845
 	EqAscendNode    4.69569
-	Precession      0
+	//Precession      0
 
 	AbsMagn         15.69
 	SlopeParam      8.66595
@@ -21169,7 +21167,7 @@ Comet	"C123"
 	RotationPeriod  72.1163
 	Obliquity       177.051
 	EqAscendNode    349.273
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.38028
 	SlopeParam      2.7189
@@ -21290,7 +21288,7 @@ Comet	"C124"
 	RotationPeriod  69.8971
 	Obliquity       130.257
 	EqAscendNode    333.851
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.87046
 	SlopeParam      3.35208
@@ -21411,7 +21409,7 @@ Comet	"C125"
 	RotationPeriod  67.7582
 	Obliquity       83.4625
 	EqAscendNode    318.428
-	Precession      0
+	//Precession      0
 
 	AbsMagn         14.6551
 	SlopeParam      3.92509
@@ -21532,7 +21530,7 @@ Comet	"C126"
 	RotationPeriod  65.6868
 	Obliquity       36.6682
 	EqAscendNode    303.005
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.16082
 	SlopeParam      4.49189
@@ -21653,7 +21651,7 @@ Comet	"C127"
 	RotationPeriod  63.6725
 	Obliquity       349.874
 	EqAscendNode    287.583
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.62597
 	SlopeParam      5.10218
@@ -21774,7 +21772,7 @@ Comet	"C128"
 	RotationPeriod  61.7061
 	Obliquity       303.08
 	EqAscendNode    272.16
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.9365
 	SlopeParam      5.84059
@@ -21895,7 +21893,7 @@ Comet	"C129"
 	RotationPeriod  59.7797
 	Obliquity       256.285
 	EqAscendNode    256.738
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.94481
 	SlopeParam      7.0027
@@ -22016,7 +22014,7 @@ Comet	"C130"
 	RotationPeriod  57.8866
 	Obliquity       209.491
 	EqAscendNode    241.315
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.37228
 	SlopeParam      2.34586
@@ -22137,7 +22135,7 @@ Comet	"C131"
 	RotationPeriod  56.0204
 	Obliquity       162.697
 	EqAscendNode    225.892
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.3705
 	SlopeParam      3.04316
@@ -22258,7 +22256,7 @@ Comet	"C132"
 	RotationPeriod  54.1755
 	Obliquity       115.902
 	EqAscendNode    210.47
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.73152
 	SlopeParam      3.63835
@@ -22379,7 +22377,7 @@ Comet	"C133"
 	RotationPeriod  52.3468
 	Obliquity       69.1081
 	EqAscendNode    195.047
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.10754
 	SlopeParam      4.20253
@@ -22500,7 +22498,7 @@ Comet	"C134"
 	RotationPeriod  50.5291
 	Obliquity       22.3138
 	EqAscendNode    179.625
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.8954
 	SlopeParam      4.78365
@@ -22621,7 +22619,7 @@ Comet	"C135"
 	RotationPeriod  48.7179
 	Obliquity       335.52
 	EqAscendNode    164.202
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.52029
 	SlopeParam      5.44159
@@ -22742,7 +22740,7 @@ Comet	"C136"
 	RotationPeriod  46.9086
 	Obliquity       288.725
 	EqAscendNode    148.779
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.82947
 	SlopeParam      6.31592
@@ -22863,7 +22861,7 @@ Comet	"C137"
 	RotationPeriod  45.0964
 	Obliquity       241.931
 	EqAscendNode    133.357
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.4808
 	SlopeParam      8.55596
@@ -22984,7 +22982,7 @@ Comet	"C138"
 	RotationPeriod  43.2769
 	Obliquity       195.137
 	EqAscendNode    117.934
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.3105
 	SlopeParam      2.70941
@@ -23105,7 +23103,7 @@ Comet	"C139"
 	RotationPeriod  41.4452
 	Obliquity       148.342
 	EqAscendNode    102.512
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.53516
 	SlopeParam      3.34394
@@ -23226,7 +23224,7 @@ Comet	"C140"
 	RotationPeriod  39.5964
 	Obliquity       101.548
 	EqAscendNode    87.0891
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.1095
 	SlopeParam      3.91737
@@ -23347,7 +23345,7 @@ Comet	"C141"
 	RotationPeriod  37.7252
 	Obliquity       54.7537
 	EqAscendNode    71.6665
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.10157
 	SlopeParam      4.48394
@@ -23468,7 +23466,7 @@ Comet	"C142"
 	RotationPeriod  35.8257
 	Obliquity       7.95943
 	EqAscendNode    56.2439
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.22078
 	SlopeParam      5.09321
@@ -23589,7 +23587,7 @@ Comet	"C143"
 	RotationPeriod  33.8917
 	Obliquity       321.165
 	EqAscendNode    40.8213
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.7706
 	SlopeParam      5.82884
@@ -23710,7 +23708,7 @@ Comet	"C144"
 	RotationPeriod  31.916
 	Obliquity       274.371
 	EqAscendNode    25.3987
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.89291
 	SlopeParam      6.97909
@@ -23831,7 +23829,7 @@ Comet	"C145"
 	RotationPeriod  29.8907
 	Obliquity       227.577
 	EqAscendNode    9.97612
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.88112
 	SlopeParam      2.33498
@@ -23952,7 +23950,7 @@ Comet	"C146"
 	RotationPeriod  27.8064
 	Obliquity       180.782
 	EqAscendNode    354.554
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.4568
 	SlopeParam      3.0345
@@ -24073,7 +24071,7 @@ Comet	"C147"
 	RotationPeriod  25.652
 	Obliquity       133.988
 	EqAscendNode    339.131
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.68396
 	SlopeParam      3.6305
@@ -24194,7 +24192,7 @@ Comet	"C148"
 	RotationPeriod  23.4143
 	Obliquity       87.1936
 	EqAscendNode    323.708
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.50883
 	SlopeParam      4.19477
@@ -24315,7 +24313,7 @@ Comet	"C149"
 	RotationPeriod  21.0774
 	Obliquity       40.3994
 	EqAscendNode    308.286
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.163
 	SlopeParam      4.77532
@@ -24436,7 +24434,7 @@ Comet	"C150"
 	RotationPeriod  18.6211
 	Obliquity       353.605
 	EqAscendNode    292.863
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.47414
 	SlopeParam      5.43161
@@ -24557,7 +24555,7 @@ Comet	"C151"
 	RotationPeriod  16.0196
 	Obliquity       306.811
 	EqAscendNode    277.441
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.09292
 	SlopeParam      6.3009
@@ -24678,7 +24676,7 @@ Comet	"C152"
 	RotationPeriod  13.2395
 	Obliquity       260.016
 	EqAscendNode    262.018
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.8853
 	SlopeParam      8.45824
@@ -24799,7 +24797,7 @@ Comet	"C153"
 	RotationPeriod  10.2347
 	Obliquity       213.222
 	EqAscendNode    246.595
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.26287
 	SlopeParam      2.69989
@@ -24920,7 +24918,7 @@ Comet	"C154"
 	RotationPeriod  6.94084
 	Obliquity       166.428
 	EqAscendNode    231.173
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.61587
 	SlopeParam      3.33579
@@ -25041,7 +25039,7 @@ Comet	"C155"
 	RotationPeriod  3.26173
 	Obliquity       119.634
 	EqAscendNode    215.75
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.6209
 	SlopeParam      3.90964
@@ -25162,7 +25160,7 @@ Comet	"C156"
 	RotationPeriod  125.469
 	Obliquity       72.8393
 	EqAscendNode    200.328
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.04951
 	SlopeParam      4.476
@@ -25283,7 +25281,7 @@ Comet	"C157"
 	RotationPeriod  112.882
 	Obliquity       26.045
 	EqAscendNode    184.905
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.04685
 	SlopeParam      5.08426
@@ -25404,7 +25402,7 @@ Comet	"C158"
 	RotationPeriod  105.278
 	Obliquity       339.251
 	EqAscendNode    169.482
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.3674
 	SlopeParam      5.81715
@@ -25525,7 +25523,7 @@ Comet	"C159"
 	RotationPeriod  99.6084
 	Obliquity       292.456
 	EqAscendNode    154.06
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.83342
 	SlopeParam      6.95589
@@ -25646,7 +25644,7 @@ Comet	"C160"
 	RotationPeriod  94.9906
 	Obliquity       245.662
 	EqAscendNode    138.637
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.32281
 	SlopeParam      2.32404
@@ -25767,7 +25765,7 @@ Comet	"C161"
 	RotationPeriod  91.0381
 	Obliquity       198.868
 	EqAscendNode    123.215
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.1232
 	SlopeParam      3.02582
@@ -25888,7 +25886,7 @@ Comet	"C162"
 	RotationPeriod  87.5459
 	Obliquity       152.073
 	EqAscendNode    107.792
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.61386
 	SlopeParam      3.62265
@@ -26009,7 +26007,7 @@ Comet	"C163"
 	RotationPeriod  84.3909
 	Obliquity       105.279
 	EqAscendNode    92.3695
-	Precession      0
+	//Precession      0
 
 	AbsMagn         0.274669
 	SlopeParam      4.18702
@@ -26130,7 +26128,7 @@ Comet	"C164"
 	RotationPeriod  81.4932
 	Obliquity       58.4849
 	EqAscendNode    76.9469
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.8866
 	SlopeParam      4.76701
@@ -26251,7 +26249,7 @@ Planet	"Iridonia System 6"
 	RotationPeriod  30.245
 	Obliquity       -77.5818
 	EqAscendNode    183.813
-	Precession      0
+	//Precession      0
 
 	AbsMagn         -1.77471
 	SlopeParam      2.05606
@@ -26413,7 +26411,7 @@ DwarfMoon	"Iridonia System 6.D1"
 
 	Obliquity       0.818048
 	EqAscendNode    -80.7141
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -26523,7 +26521,7 @@ DwarfMoon	"Iridonia System 6.D2"
 
 	Obliquity       0.741468
 	EqAscendNode    -34.052
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -26632,7 +26630,7 @@ DwarfMoon	"Iridonia System 6.D3"
 	RotationPeriod  1248.37
 	Obliquity       43.3743
 	EqAscendNode    -8.14599
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -26739,7 +26737,7 @@ DwarfMoon	"Iridonia System 6.D4"
 
 	Obliquity       -38.467
 	EqAscendNode    14.7693
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2

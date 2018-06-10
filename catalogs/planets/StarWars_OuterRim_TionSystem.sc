@@ -17,7 +17,7 @@ Star	"Tion System A"
 
 	Obliquity       -177.916
 	EqAscendNode    47.4346
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -86,7 +86,7 @@ Star	"Tion System B"
 
 	Obliquity       -177.916
 	EqAscendNode    47.4346
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -646,7 +646,7 @@ DwarfPlanet	"Tion System 1"
 	RotationPeriod  48.1271
 	Obliquity       -49.6504
 	EqAscendNode    61.2254
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -777,7 +777,7 @@ DwarfMoon	"Tion System 1.D1"
 
 	Obliquity       0.0145135
 	EqAscendNode    -157.91
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -882,7 +882,7 @@ Barycenter     "Tion System 2-2.1"
 	RotationPeriod  24
 	Obliquity       0
 	EqAscendNode    0
-	Precession      0
+	//Precession      0
 
 
 	Orbit
@@ -912,7 +912,7 @@ DwarfPlanet	"Tion System 2"
 	RotationPeriod  22.8392
 	Obliquity       -16.4882
 	EqAscendNode    16.517
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -1057,7 +1057,7 @@ Moon	"Tion System 2.1"
 
 	Obliquity       0.315406
 	EqAscendNode    -70.2369
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -1190,7 +1190,7 @@ Planet	"Tion System 3"
 	RotationPeriod  12.8853
 	Obliquity       8.69068
 	EqAscendNode    35.864
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.460103
 	AlbedoGeom      0.552123
@@ -1338,7 +1338,7 @@ DwarfMoon	"Tion System 3.D1"
 
 	Obliquity       -0.00309353
 	EqAscendNode    17.5024
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1448,7 +1448,7 @@ DwarfMoon	"Tion System 3.D2"
 
 	Obliquity       -0.0138396
 	EqAscendNode    58.7635
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1558,7 +1558,7 @@ DwarfMoon	"Tion System 3.D3"
 
 	Obliquity       0.00257955
 	EqAscendNode    174.75
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1668,7 +1668,7 @@ DwarfMoon	"Tion System 3.D4"
 
 	Obliquity       0.00741739
 	EqAscendNode    3.7586
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1778,7 +1778,7 @@ DwarfMoon	"Tion System 3.D5"
 
 	Obliquity       -0.000483391
 	EqAscendNode    66.7368
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1888,7 +1888,7 @@ Moon	"Tion System 3.1"
 
 	Obliquity       -0.910319
 	EqAscendNode    -24.0279
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2018,7 +2018,7 @@ Moon	"Tion System 3.2"
 
 	Obliquity       -1.21209
 	EqAscendNode    150.897
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2148,7 +2148,7 @@ Moon	"Tion System 3.3"
 
 	Obliquity       1.44887
 	EqAscendNode    -24.4846
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2278,7 +2278,7 @@ Moon	"Tion System 3.4"
 
 	Obliquity       -1.31147
 	EqAscendNode    65.6712
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2409,7 +2409,7 @@ DwarfMoon	"Tion System 3.D6"
 	RotationPeriod  411.197
 	Obliquity       25.2468
 	EqAscendNode    3.02478
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2517,7 +2517,7 @@ DwarfMoon	"Tion System 3.D7"
 	RotationPeriod  370.95
 	Obliquity       -10.567
 	EqAscendNode    49.9016
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2625,7 +2625,7 @@ DwarfMoon	"Tion System 3.D8"
 	RotationPeriod  566.577
 	Obliquity       74.7663
 	EqAscendNode    -30.4825
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2733,7 +2733,7 @@ DwarfMoon	"Tion System 3.D9"
 	RotationPeriod  380.981
 	Obliquity       32.2788
 	EqAscendNode    -142.371
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2841,7 +2841,7 @@ DwarfMoon	"Tion System 3.D10"
 	RotationPeriod  337.118
 	Obliquity       -44.1192
 	EqAscendNode    -155.868
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2949,7 +2949,7 @@ DwarfMoon	"Tion System 3.D11"
 	RotationPeriod  304.416
 	Obliquity       19.9093
 	EqAscendNode    -63.6223
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3057,7 +3057,7 @@ DwarfMoon	"Tion System 3.D12"
 	RotationPeriod  273.727
 	Obliquity       -48.8969
 	EqAscendNode    163.546
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3165,7 +3165,7 @@ DwarfMoon	"Tion System 3.D13"
 	RotationPeriod  510.921
 	Obliquity       35.7318
 	EqAscendNode    57.9773
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3273,7 +3273,7 @@ DwarfMoon	"Tion System 3.D14"
 	RotationPeriod  279.746
 	Obliquity       -5.70841
 	EqAscendNode    -31.8528
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3381,7 +3381,7 @@ DwarfMoon	"Tion System 3.D15"
 	RotationPeriod  253.317
 	Obliquity       -9.58617
 	EqAscendNode    -135.684
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3489,7 +3489,7 @@ DwarfMoon	"Tion System 3.D16"
 	RotationPeriod  394.691
 	Obliquity       78.7851
 	EqAscendNode    -85.2977
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3597,7 +3597,7 @@ DwarfMoon	"Tion System 3.D17"
 	RotationPeriod  269.389
 	Obliquity       22.2366
 	EqAscendNode    162.976
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3705,7 +3705,7 @@ DwarfMoon	"Tion System 3.D18"
 	RotationPeriod  388.543
 	Obliquity       -79.188
 	EqAscendNode    -42.8007
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3813,7 +3813,7 @@ DwarfMoon	"Tion System 3.D19"
 	RotationPeriod  209.795
 	Obliquity       34.8418
 	EqAscendNode    -92.4875
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3921,7 +3921,7 @@ DwarfMoon	"Tion System 3.D20"
 	RotationPeriod  187.785
 	Obliquity       -127.408
 	EqAscendNode    -110.428
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4029,7 +4029,7 @@ DwarfMoon	"Tion System 3.D21"
 	RotationPeriod  367.135
 	Obliquity       -82.8753
 	EqAscendNode    -28.2574
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4137,7 +4137,7 @@ DwarfMoon	"Tion System 3.D22"
 	RotationPeriod  190.966
 	Obliquity       77.0652
 	EqAscendNode    -76.977
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4245,7 +4245,7 @@ DwarfMoon	"Tion System 3.D23"
 	RotationPeriod  291.4
 	Obliquity       70.5977
 	EqAscendNode    135.409
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4353,7 +4353,7 @@ DwarfMoon	"Tion System 3.D24"
 	RotationPeriod  150.318
 	Obliquity       66.9579
 	EqAscendNode    160.5
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4461,7 +4461,7 @@ DwarfMoon	"Tion System 3.D25"
 	RotationPeriod  184.334
 	Obliquity       -18.5442
 	EqAscendNode    -10.7107
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4569,7 +4569,7 @@ DwarfMoon	"Tion System 3.D26"
 	RotationPeriod  1222.82
 	Obliquity       17.2643
 	EqAscendNode    97.2605
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4677,7 +4677,7 @@ DwarfMoon	"Tion System 3.D27"
 	RotationPeriod  794.382
 	Obliquity       74.6727
 	EqAscendNode    -126.115
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4785,7 +4785,7 @@ DwarfMoon	"Tion System 3.D28"
 	RotationPeriod  1049.82
 	Obliquity       62.6759
 	EqAscendNode    -129.325
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4893,7 +4893,7 @@ DwarfMoon	"Tion System 3.D29"
 	RotationPeriod  628.028
 	Obliquity       -66.352
 	EqAscendNode    -32.5182
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5001,7 +5001,7 @@ DwarfMoon	"Tion System 3.D30"
 	RotationPeriod  698.582
 	Obliquity       26.6945
 	EqAscendNode    147.208
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5109,7 +5109,7 @@ DwarfMoon	"Tion System 3.D31"
 	RotationPeriod  940.868
 	Obliquity       -86.9179
 	EqAscendNode    180.509
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5217,7 +5217,7 @@ DwarfMoon	"Tion System 3.D32"
 	RotationPeriod  569.12
 	Obliquity       -64.4048
 	EqAscendNode    113.225
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5325,7 +5325,7 @@ DwarfMoon	"Tion System 3.D33"
 	RotationPeriod  811.407
 	Obliquity       71.8386
 	EqAscendNode    -51.2456
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5433,7 +5433,7 @@ DwarfMoon	"Tion System 3.D34"
 	RotationPeriod  576.381
 	Obliquity       -94.5561
 	EqAscendNode    -117.689
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5541,7 +5541,7 @@ DwarfMoon	"Tion System 3.D35"
 	RotationPeriod  518.734
 	Obliquity       -33.7906
 	EqAscendNode    -75.9987
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5649,7 +5649,7 @@ DwarfMoon	"Tion System 3.D36"
 	RotationPeriod  753.708
 	Obliquity       37.5966
 	EqAscendNode    -56.7364
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5757,7 +5757,7 @@ DwarfMoon	"Tion System 3.D37"
 	RotationPeriod  425.97
 	Obliquity       124.068
 	EqAscendNode    -35.6819
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5865,7 +5865,7 @@ DwarfMoon	"Tion System 3.D38"
 	RotationPeriod  752.509
 	Obliquity       24.2472
 	EqAscendNode    -51.6112
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5973,7 +5973,7 @@ DwarfMoon	"Tion System 3.D39"
 	RotationPeriod  438.378
 	Obliquity       -69.8373
 	EqAscendNode    98.3699
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6081,7 +6081,7 @@ DwarfMoon	"Tion System 3.D40"
 	RotationPeriod  397.56
 	Obliquity       -106.15
 	EqAscendNode    -15.1376
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6189,7 +6189,7 @@ DwarfMoon	"Tion System 3.D41"
 	RotationPeriod  604.364
 	Obliquity       8.40755
 	EqAscendNode    2.11715
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6297,7 +6297,7 @@ DwarfMoon	"Tion System 3.D42"
 	RotationPeriod  421.101
 	Obliquity       -3.31113
 	EqAscendNode    73.12
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6405,7 +6405,7 @@ DwarfMoon	"Tion System 3.D43"
 	RotationPeriod  601.913
 	Obliquity       -7.10851
 	EqAscendNode    -130.338
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6513,7 +6513,7 @@ DwarfMoon	"Tion System 3.D44"
 	RotationPeriod  337.602
 	Obliquity       -15.4113
 	EqAscendNode    -32.6064
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6621,7 +6621,7 @@ DwarfMoon	"Tion System 3.D45"
 	RotationPeriod  306.31
 	Obliquity       73.8217
 	EqAscendNode    -20.783
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6729,7 +6729,7 @@ DwarfMoon	"Tion System 3.D46"
 	RotationPeriod  574.469
 	Obliquity       30.8642
 	EqAscendNode    133.889
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6837,7 +6837,7 @@ DwarfMoon	"Tion System 3.D47"
 	RotationPeriod  315.659
 	Obliquity       54.2067
 	EqAscendNode    130.577
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6945,7 +6945,7 @@ DwarfMoon	"Tion System 3.D48"
 	RotationPeriod  482.974
 	Obliquity       93.5607
 	EqAscendNode    91.5701
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7053,7 +7053,7 @@ DwarfMoon	"Tion System 3.D49"
 	RotationPeriod  257.66
 	Obliquity       -43.7312
 	EqAscendNode    -178.623
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7161,7 +7161,7 @@ DwarfMoon	"Tion System 3.D50"
 	RotationPeriod  311.278
 	Obliquity       -79.1133
 	EqAscendNode    116.712
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7269,7 +7269,7 @@ DwarfMoon	"Tion System 3.D51"
 	RotationPeriod  444.074
 	Obliquity       46.5014
 	EqAscendNode    -36.9005
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7377,7 +7377,7 @@ DwarfMoon	"Tion System 3.D52"
 	RotationPeriod  238.234
 	Obliquity       -50.0231
 	EqAscendNode    -22.5809
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7485,7 +7485,7 @@ DwarfMoon	"Tion System 3.D53"
 	RotationPeriod  214.866
 	Obliquity       15.2638
 	EqAscendNode    111.465
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7593,7 +7593,7 @@ DwarfMoon	"Tion System 3.D54"
 	RotationPeriod  264.913
 	Obliquity       46.2866
 	EqAscendNode    -178.826
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7701,7 +7701,7 @@ DwarfMoon	"Tion System 3.D55"
 	RotationPeriod  219.873
 	Obliquity       8.57553
 	EqAscendNode    180.731
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7809,7 +7809,7 @@ DwarfMoon	"Tion System 3.D56"
 	RotationPeriod  338.811
 	Obliquity       -112.545
 	EqAscendNode    105.652
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7917,7 +7917,7 @@ DwarfMoon	"Tion System 3.D57"
 	RotationPeriod  174.049
 	Obliquity       -64.4339
 	EqAscendNode    -71.9346
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8025,7 +8025,7 @@ DwarfMoon	"Tion System 3.D58"
 	RotationPeriod  151.406
 	Obliquity       -2.12969
 	EqAscendNode    -106.708
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8133,7 +8133,7 @@ DwarfMoon	"Tion System 3.D59"
 	RotationPeriod  176.636
 	Obliquity       -50.6511
 	EqAscendNode    161.124
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8241,7 +8241,7 @@ DwarfMoon	"Tion System 3.D60"
 	RotationPeriod  153.558
 	Obliquity       -11.9723
 	EqAscendNode    32.2256
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8349,7 +8349,7 @@ DwarfMoon	"Tion System 3.D61"
 	RotationPeriod  1370.66
 	Obliquity       -60.418
 	EqAscendNode    153.796
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8459,7 +8459,7 @@ Planet	"Tion System 5"
 	RotationPeriod  8.4071
 	Obliquity       -12.9829
 	EqAscendNode    59.3074
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.456226
 	AlbedoGeom      0.547471
@@ -8607,7 +8607,7 @@ DwarfMoon	"Tion System 5.D1"
 
 	Obliquity       -0.00935441
 	EqAscendNode    147.41
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -8717,7 +8717,7 @@ DwarfMoon	"Tion System 5.D2"
 
 	Obliquity       -0.0116265
 	EqAscendNode    -84.989
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -8827,7 +8827,7 @@ DwarfMoon	"Tion System 5.D3"
 
 	Obliquity       -0.0059169
 	EqAscendNode    57.9688
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -8937,7 +8937,7 @@ Moon	"Tion System 5.1"
 
 	Obliquity       0.167655
 	EqAscendNode    -61.7302
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.323192
@@ -9135,7 +9135,7 @@ Moon	"Tion System 5.2"
 
 	Obliquity       0.0989452
 	EqAscendNode    115.247
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.385957
@@ -9344,7 +9344,7 @@ Moon	"Tion System 5.3"
 
 	Obliquity       -1.19826
 	EqAscendNode    18.4518
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -9502,7 +9502,7 @@ Moon	"Tion System 5.4"
 
 	Obliquity       1.43478
 	EqAscendNode    -22.5125
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -9683,7 +9683,7 @@ Moon	"Tion System 5.5"
 
 	Obliquity       -1.48997
 	EqAscendNode    -156.69
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -9863,7 +9863,7 @@ Moon	"Tion System 5.6"
 	RotationPeriod  25.5528
 	Obliquity       -31.0848
 	EqAscendNode    -49.0977
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10052,7 +10052,7 @@ DwarfMoon	"Tion System 5.D4"
 	RotationPeriod  323.904
 	Obliquity       96.117
 	EqAscendNode    132.748
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10160,7 +10160,7 @@ DwarfMoon	"Tion System 5.D5"
 	RotationPeriod  366.717
 	Obliquity       14.1678
 	EqAscendNode    -144.352
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10268,7 +10268,7 @@ DwarfMoon	"Tion System 5.D6"
 	RotationPeriod  312.707
 	Obliquity       11.2181
 	EqAscendNode    -120.752
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10376,7 +10376,7 @@ DwarfMoon	"Tion System 5.D7"
 	RotationPeriod  278.972
 	Obliquity       -2.19421
 	EqAscendNode    -164.99
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10484,7 +10484,7 @@ DwarfMoon	"Tion System 5.D8"
 	RotationPeriod  1816.47
 	Obliquity       -6.14629
 	EqAscendNode    130.724
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10592,7 +10592,7 @@ DwarfMoon	"Tion System 5.D9"
 	RotationPeriod  2028.72
 	Obliquity       70.7806
 	EqAscendNode    139.478
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10700,7 +10700,7 @@ DwarfMoon	"Tion System 5.D10"
 	RotationPeriod  1644.97
 	Obliquity       -11.4552
 	EqAscendNode    -169.292
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10808,7 +10808,7 @@ DwarfMoon	"Tion System 5.D11"
 	RotationPeriod  1473.78
 	Obliquity       -28.8795
 	EqAscendNode    159.387
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10916,7 +10916,7 @@ DwarfMoon	"Tion System 5.D12"
 	RotationPeriod  1326.27
 	Obliquity       76.2586
 	EqAscendNode    17.0585
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11024,7 +11024,7 @@ DwarfMoon	"Tion System 5.D13"
 	RotationPeriod  1175.13
 	Obliquity       99.1387
 	EqAscendNode    -9.16166
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11132,7 +11132,7 @@ DwarfMoon	"Tion System 5.D14"
 	RotationPeriod  1275.24
 	Obliquity       -88.0651
 	EqAscendNode    9.63832
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11240,7 +11240,7 @@ DwarfMoon	"Tion System 5.D15"
 	RotationPeriod  1150.53
 	Obliquity       -12.1237
 	EqAscendNode    -41.9408
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11348,7 +11348,7 @@ DwarfMoon	"Tion System 5.D16"
 	RotationPeriod  1053.38
 	Obliquity       -0.302899
 	EqAscendNode    -147.328
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11456,7 +11456,7 @@ DwarfMoon	"Tion System 5.D17"
 	RotationPeriod  950.595
 	Obliquity       -104.299
 	EqAscendNode    135.904
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11564,7 +11564,7 @@ DwarfMoon	"Tion System 5.D18"
 	RotationPeriod  1033.35
 	Obliquity       -128.194
 	EqAscendNode    112.313
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11672,7 +11672,7 @@ DwarfMoon	"Tion System 5.D19"
 	RotationPeriod  938.726
 	Obliquity       37.0075
 	EqAscendNode    117.434
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11780,7 +11780,7 @@ DwarfMoon	"Tion System 5.D20"
 	RotationPeriod  862.502
 	Obliquity       -25.2231
 	EqAscendNode    -65.8764
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11888,7 +11888,7 @@ DwarfMoon	"Tion System 5.D21"
 	RotationPeriod  782.672
 	Obliquity       -75.0923
 	EqAscendNode    -13.6452
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11996,7 +11996,7 @@ DwarfMoon	"Tion System 5.D22"
 	RotationPeriod  859.868
 	Obliquity       -114.845
 	EqAscendNode    115.587
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12104,7 +12104,7 @@ DwarfMoon	"Tion System 5.D23"
 	RotationPeriod  778.366
 	Obliquity       100.323
 	EqAscendNode    129.55
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12212,7 +12212,7 @@ DwarfMoon	"Tion System 5.D24"
 	RotationPeriod  713.685
 	Obliquity       -113.728
 	EqAscendNode    58.6094
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12320,7 +12320,7 @@ DwarfMoon	"Tion System 5.D25"
 	RotationPeriod  653.361
 	Obliquity       12.0708
 	EqAscendNode    24.5589
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12428,7 +12428,7 @@ DwarfMoon	"Tion System 5.D26"
 	RotationPeriod  723.35
 	Obliquity       34.3661
 	EqAscendNode    171.991
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12536,7 +12536,7 @@ DwarfMoon	"Tion System 5.D27"
 	RotationPeriod  647.88
 	Obliquity       151.164
 	EqAscendNode    -112.924
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12644,7 +12644,7 @@ DwarfMoon	"Tion System 5.D28"
 	RotationPeriod  595.525
 	Obliquity       -7.21292
 	EqAscendNode    -111.049
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12752,7 +12752,7 @@ DwarfMoon	"Tion System 5.D29"
 	RotationPeriod  545.763
 	Obliquity       1.38586
 	EqAscendNode    108.478
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12860,7 +12860,7 @@ DwarfMoon	"Tion System 5.D30"
 	RotationPeriod  608.814
 	Obliquity       -50.7175
 	EqAscendNode    -0.363032
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12968,7 +12968,7 @@ DwarfMoon	"Tion System 5.D31"
 	RotationPeriod  540.284
 	Obliquity       -14.841
 	EqAscendNode    58.2968
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -13076,7 +13076,7 @@ DwarfMoon	"Tion System 5.D32"
 	RotationPeriod  492.295
 	Obliquity       47.2769
 	EqAscendNode    38.5929
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -13184,7 +13184,7 @@ DwarfMoon	"Tion System 5.D33"
 	RotationPeriod  451.408
 	Obliquity       51.7311
 	EqAscendNode    96.723
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -13292,7 +13292,7 @@ DwarfMoon	"Tion System 5.D34"
 	RotationPeriod  514.624
 	Obliquity       31.9101
 	EqAscendNode    -127.713
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -13400,7 +13400,7 @@ DwarfMoon	"Tion System 5.D35"
 	RotationPeriod  443.899
 	Obliquity       -18.2189
 	EqAscendNode    -57.8831
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -13508,7 +13508,7 @@ DwarfMoon	"Tion System 5.D36"
 	RotationPeriod  404.401
 	Obliquity       9.02002
 	EqAscendNode    -73.4022
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -13616,7 +13616,7 @@ DwarfMoon	"Tion System 5.D37"
 	RotationPeriod  368.504
 	Obliquity       -10.7219
 	EqAscendNode    -36.4956
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -13724,7 +13724,7 @@ DwarfMoon	"Tion System 5.D38"
 	RotationPeriod  442.164
 	Obliquity       -76.0418
 	EqAscendNode    -60.6791
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -13832,7 +13832,7 @@ DwarfMoon	"Tion System 5.D39"
 	RotationPeriod  358.621
 	Obliquity       84.744
 	EqAscendNode    -46.9264
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -13940,7 +13940,7 @@ DwarfMoon	"Tion System 5.D40"
 	RotationPeriod  322.709
 	Obliquity       -58.4686
 	EqAscendNode    -97.3386
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14048,7 +14048,7 @@ DwarfMoon	"Tion System 5.D41"
 	RotationPeriod  289.981
 	Obliquity       91.4906
 	EqAscendNode    33.6786
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14156,7 +14156,7 @@ DwarfMoon	"Tion System 5.D42"
 	RotationPeriod  253.049
 	Obliquity       -62.5418
 	EqAscendNode    -134.256
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14264,7 +14264,7 @@ DwarfMoon	"Tion System 5.D43"
 	RotationPeriod  2013.88
 	Obliquity       -58.2253
 	EqAscendNode    -183.658
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14372,7 +14372,7 @@ DwarfMoon	"Tion System 5.D44"
 	RotationPeriod  1762.3
 	Obliquity       -62.812
 	EqAscendNode    -162.895
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14480,7 +14480,7 @@ DwarfMoon	"Tion System 5.D45"
 	RotationPeriod  1571.57
 	Obliquity       -6.81273
 	EqAscendNode    2.72111
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14588,7 +14588,7 @@ DwarfMoon	"Tion System 5.D46"
 	RotationPeriod  1389.77
 	Obliquity       -20.5479
 	EqAscendNode    -72.8201
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14696,7 +14696,7 @@ DwarfMoon	"Tion System 5.D47"
 	RotationPeriod  1476.12
 	Obliquity       84.6841
 	EqAscendNode    77.6773
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14804,7 +14804,7 @@ DwarfMoon	"Tion System 5.D48"
 	RotationPeriod  1324.82
 	Obliquity       52.5678
 	EqAscendNode    -159.141
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14912,7 +14912,7 @@ DwarfMoon	"Tion System 5.D49"
 	RotationPeriod  1204.9
 	Obliquity       16.363
 	EqAscendNode    -43.2797
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15020,7 +15020,7 @@ DwarfMoon	"Tion System 5.D50"
 	RotationPeriod  1084.59
 	Obliquity       -168.974
 	EqAscendNode    -145.1
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15128,7 +15128,7 @@ DwarfMoon	"Tion System 5.D51"
 	RotationPeriod  1176.74
 	Obliquity       16.1266
 	EqAscendNode    -141.495
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15236,7 +15236,7 @@ DwarfMoon	"Tion System 5.D52"
 	RotationPeriod  1055.25
 	Obliquity       -49.0751
 	EqAscendNode    -114.505
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15344,7 +15344,7 @@ DwarfMoon	"Tion System 5.D53"
 	RotationPeriod  967.98
 	Obliquity       47.1949
 	EqAscendNode    47.4004
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15452,7 +15452,7 @@ DwarfMoon	"Tion System 5.D54"
 	RotationPeriod  882.615
 	Obliquity       -12.7697
 	EqAscendNode    40.7615
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15560,7 +15560,7 @@ DwarfMoon	"Tion System 5.D55"
 	RotationPeriod  966.354
 	Obliquity       -4.40368
 	EqAscendNode    105.881
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15668,7 +15668,7 @@ DwarfMoon	"Tion System 5.D56"
 	RotationPeriod  868.724
 	Obliquity       -90.7031
 	EqAscendNode    168.209
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15776,7 +15776,7 @@ DwarfMoon	"Tion System 5.D57"
 	RotationPeriod  797.817
 	Obliquity       -50.0619
 	EqAscendNode    92.1203
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15884,7 +15884,7 @@ DwarfMoon	"Tion System 5.D58"
 	RotationPeriod  728.078
 	Obliquity       -82.6139
 	EqAscendNode    -27.7167
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15992,7 +15992,7 @@ DwarfMoon	"Tion System 5.D59"
 	RotationPeriod  812.776
 	Obliquity       -17.9996
 	EqAscendNode    77.4451
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16100,7 +16100,7 @@ DwarfMoon	"Tion System 5.D60"
 	RotationPeriod  722.995
 	Obliquity       138.917
 	EqAscendNode    36.8199
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16208,7 +16208,7 @@ DwarfMoon	"Tion System 5.D61"
 	RotationPeriod  661.221
 	Obliquity       -26.4564
 	EqAscendNode    -21.1505
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16316,7 +16316,7 @@ DwarfMoon	"Tion System 5.D62"
 	RotationPeriod  607.336
 	Obliquity       64.7268
 	EqAscendNode    127.588
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16424,7 +16424,7 @@ DwarfMoon	"Tion System 5.D63"
 	RotationPeriod  691.946
 	Obliquity       -106.982
 	EqAscendNode    111.493
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16532,7 +16532,7 @@ DwarfMoon	"Tion System 5.D64"
 	RotationPeriod  601.34
 	Obliquity       5.19493
 	EqAscendNode    164.765
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16640,7 +16640,7 @@ DwarfMoon	"Tion System 5.D65"
 	RotationPeriod  550.66
 	Obliquity       -25.4851
 	EqAscendNode    -13.8096
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16748,7 +16748,7 @@ DwarfMoon	"Tion System 5.D66"
 	RotationPeriod  505.182
 	Obliquity       -33.3753
 	EqAscendNode    85.4395
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16856,7 +16856,7 @@ DwarfMoon	"Tion System 5.D67"
 	RotationPeriod  605.579
 	Obliquity       -35.7371
 	EqAscendNode    -78.0741
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16964,7 +16964,7 @@ DwarfMoon	"Tion System 5.D68"
 	RotationPeriod  499.462
 	Obliquity       7.43077
 	EqAscendNode    -3.88335
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17072,7 +17072,7 @@ DwarfMoon	"Tion System 5.D69"
 	RotationPeriod  454.674
 	Obliquity       99.0495
 	EqAscendNode    128.358
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17180,7 +17180,7 @@ DwarfMoon	"Tion System 5.D70"
 	RotationPeriod  414.34
 	Obliquity       -125.544
 	EqAscendNode    55.2142
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17288,7 +17288,7 @@ DwarfMoon	"Tion System 5.D71"
 	RotationPeriod  367.052
 	Obliquity       37.4386
 	EqAscendNode    -56.7102
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17396,7 +17396,7 @@ DwarfMoon	"Tion System 5.D72"
 	RotationPeriod  406.322
 	Obliquity       19.0845
 	EqAscendNode    -49.4379
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17504,7 +17504,7 @@ DwarfMoon	"Tion System 5.D73"
 	RotationPeriod  367.141
 	Obliquity       38.6492
 	EqAscendNode    60.2057
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17612,7 +17612,7 @@ DwarfMoon	"Tion System 5.D74"
 	RotationPeriod  333.267
 	Obliquity       -4.22969
 	EqAscendNode    121.914
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17720,7 +17720,7 @@ DwarfMoon	"Tion System 5.D75"
 	RotationPeriod  295.191
 	Obliquity       32.7566
 	EqAscendNode    -34.2573
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17828,7 +17828,7 @@ DwarfMoon	"Tion System 5.D76"
 	RotationPeriod  322.725
 	Obliquity       107.605
 	EqAscendNode    -81.5758
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17936,7 +17936,7 @@ DwarfMoon	"Tion System 5.D77"
 	RotationPeriod  286.338
 	Obliquity       34.443
 	EqAscendNode    -122.794
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18044,7 +18044,7 @@ DwarfMoon	"Tion System 5.D78"
 	RotationPeriod  1921.85
 	Obliquity       -36.1747
 	EqAscendNode    -143.832
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18154,7 +18154,7 @@ Planet	"Tion System 6"
 	RotationPeriod  10.3415
 	Obliquity       -107.188
 	EqAscendNode    44.5127
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.494518
 	AlbedoGeom      0.593421
@@ -18300,7 +18300,7 @@ DwarfMoon	"Tion System 6.D1"
 
 	Obliquity       -0.00896145
 	EqAscendNode    -166.24
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -18410,7 +18410,7 @@ DwarfMoon	"Tion System 6.D2"
 
 	Obliquity       0.00885162
 	EqAscendNode    -129.363
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -18520,7 +18520,7 @@ DwarfMoon	"Tion System 6.D3"
 
 	Obliquity       0.00636634
 	EqAscendNode    53.5848
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -18630,7 +18630,7 @@ Moon	"Tion System 6.1"
 
 	Obliquity       0.706643
 	EqAscendNode    99.4187
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -18762,7 +18762,7 @@ Moon	"Tion System 6.2"
 
 	Obliquity       -0.745537
 	EqAscendNode    97.4216
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -18897,7 +18897,7 @@ DwarfMoon	"Tion System 6.D4"
 
 	Obliquity       0.478183
 	EqAscendNode    -140.08
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -19005,7 +19005,7 @@ Moon	"Tion System 6.3"
 
 	Obliquity       -0.192099
 	EqAscendNode    113.396
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -19138,7 +19138,7 @@ Moon	"Tion System 6.4"
 
 	Obliquity       -0.350327
 	EqAscendNode    177.536
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -19271,7 +19271,7 @@ Moon	"Tion System 6.5"
 
 	Obliquity       0.359009
 	EqAscendNode    -57.2816
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -19405,7 +19405,7 @@ Moon	"Tion System 6.6"
 	RotationPeriod  202.628
 	Obliquity       1.56191
 	EqAscendNode    116.344
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -19540,7 +19540,7 @@ Moon	"Tion System 6.7"
 	RotationPeriod  41.781
 	Obliquity       10.5004
 	EqAscendNode    -31.7525
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -19675,7 +19675,7 @@ Moon	"Tion System 6.8"
 	RotationPeriod  69.6509
 	Obliquity       -7.42071
 	EqAscendNode    6.09306
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -19808,7 +19808,7 @@ DwarfMoon	"Tion System 6.D5"
 	RotationPeriod  570.48
 	Obliquity       -2.80764
 	EqAscendNode    -33.2478
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -19916,7 +19916,7 @@ DwarfMoon	"Tion System 6.D6"
 	RotationPeriod  517.404
 	Obliquity       88.2271
 	EqAscendNode    35.3625
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20024,7 +20024,7 @@ DwarfMoon	"Tion System 6.D7"
 	RotationPeriod  573.66
 	Obliquity       -63.8376
 	EqAscendNode    147.145
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20128,7 +20128,7 @@ Barycenter     "Tion System 7-7.1"
 	RotationPeriod  24
 	Obliquity       0
 	EqAscendNode    0
-	Precession      0
+	//Precession      0
 
 
 	Orbit
@@ -20157,7 +20157,7 @@ DwarfPlanet	"Tion System 7"
 
 	Obliquity       1.39889
 	EqAscendNode    32.2862
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -20292,7 +20292,7 @@ Moon	"Tion System 7.1"
 
 	Obliquity       1.39889
 	EqAscendNode    32.2862
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -20425,7 +20425,7 @@ Planet	"Tion System 8"
 	RotationPeriod  38.3927
 	Obliquity       -204.719
 	EqAscendNode    46.4332
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -20559,7 +20559,7 @@ DwarfMoon	"Tion System 8.D1"
 
 	Obliquity       -0.0128734
 	EqAscendNode    -168.735
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -20669,7 +20669,7 @@ DwarfMoon	"Tion System 8.D2"
 
 	Obliquity       0.0136956
 	EqAscendNode    -167.053
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2

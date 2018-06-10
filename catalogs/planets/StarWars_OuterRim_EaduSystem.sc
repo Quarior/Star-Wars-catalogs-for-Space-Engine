@@ -12,7 +12,7 @@ Planet	"Eadu/Eadu System 4"
 	RotationPeriod  14.2082
 	Obliquity       -31.5078
 	EqAscendNode    150.805
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.310581
 	AlbedoGeom      0.372697
@@ -234,7 +234,7 @@ Moon	"Eadu Moon 1/Eadu System 4.1"
 
 	Obliquity       -0.751128
 	EqAscendNode    30.9458
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -377,7 +377,7 @@ DwarfPlanet	"Eadu System 1"
 	RotationPeriod  49.4608
 	Obliquity       -10.8908
 	EqAscendNode    60.362
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -508,7 +508,7 @@ DwarfMoon	"Eadu System 1.D1"
 
 	Obliquity       0.0140511
 	EqAscendNode    -21.2319
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -618,7 +618,7 @@ DwarfMoon	"Eadu System 1.D2"
 
 	Obliquity       0.000299217
 	EqAscendNode    40.953
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -728,7 +728,7 @@ DwarfMoon	"Eadu System 1.D3"
 
 	Obliquity       -0.557871
 	EqAscendNode    -172.891
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -838,7 +838,7 @@ DwarfMoon	"Eadu System 1.D4"
 
 	Obliquity       1.47984
 	EqAscendNode    24.688
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -947,7 +947,7 @@ DwarfMoon	"Eadu System 1.D5"
 	RotationPeriod  1043.24
 	Obliquity       1.38868
 	EqAscendNode    147.54
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1055,7 +1055,7 @@ DwarfMoon	"Eadu System 1.D6"
 	RotationPeriod  543.897
 	Obliquity       -64.3821
 	EqAscendNode    -19.8317
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1159,7 +1159,7 @@ Barycenter	"Eadu System 2-2.1"
 	RotationPeriod  24
 	Obliquity       0
 	EqAscendNode    0
-	Precession      0
+	//Precession      0
 
 
 	Orbit
@@ -1189,7 +1189,7 @@ DwarfPlanet	"Eadu System 2"
 	RotationPeriod  27.1583
 	Obliquity       -277.712
 	EqAscendNode    60.7654
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -1321,7 +1321,7 @@ Moon	"Eadu System 2.1"
 	RotationPeriod  30.5881
 	Obliquity       -20.2188
 	EqAscendNode    -77.0714
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -1469,7 +1469,7 @@ Planet	"Eadu System 3"
 	RotationPeriod  22.2765
 	Obliquity       -72.5657
 	EqAscendNode    -70.7462
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1623,7 +1623,7 @@ DwarfMoon	"Eadu System 3.D1"
 
 	Obliquity       -0.0119864
 	EqAscendNode    -90.0665
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1733,7 +1733,7 @@ DwarfMoon	"Eadu System 3.D2"
 
 	Obliquity       -0.0116347
 	EqAscendNode    13.6128
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1843,7 +1843,7 @@ DwarfMoon	"Eadu System 3.D3"
 
 	Obliquity       0.1496
 	EqAscendNode    -7.16306
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1953,7 +1953,7 @@ Moon	"Eadu System 3.1"
 
 	Obliquity       -0.751128
 	EqAscendNode    30.9458
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2083,7 +2083,7 @@ Moon	"Eadu System 3.2"
 
 	Obliquity       1.47979
 	EqAscendNode    -56.0338
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2213,7 +2213,7 @@ DwarfMoon	"Eadu System 3.D4"
 
 	Obliquity       -1.46711
 	EqAscendNode    -136.434
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2321,7 +2321,7 @@ Moon	"Eadu System 3.3"
 
 	Obliquity       -1.20869
 	EqAscendNode    -59.4702
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -2452,7 +2452,7 @@ DwarfMoon	"Eadu System 3.D5"
 	RotationPeriod  755.696
 	Obliquity       -90.1516
 	EqAscendNode    102.519
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2560,7 +2560,7 @@ DwarfMoon	"Eadu System 3.D6"
 	RotationPeriod  433.233
 	Obliquity       57.1352
 	EqAscendNode    -124.225
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2668,7 +2668,7 @@ DwarfMoon	"Eadu System 3.D7"
 	RotationPeriod  397.716
 	Obliquity       98.5939
 	EqAscendNode    20.4439
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2776,7 +2776,7 @@ DwarfMoon	"Eadu System 3.D8"
 	RotationPeriod  765.62
 	Obliquity       -140.893
 	EqAscendNode    133.238
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2884,7 +2884,7 @@ DwarfMoon	"Eadu System 3.D9"
 	RotationPeriod  415.794
 	Obliquity       -15.4662
 	EqAscendNode    67.9034
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2988,7 +2988,7 @@ Barycenter	"Eadu System 5-5.1"
 	RotationPeriod  24
 	Obliquity       0
 	EqAscendNode    0
-	Precession      0
+	//Precession      0
 
 	Orbit
 	{
@@ -3016,7 +3016,7 @@ Planet	"Eadu System 5"
 	RotationPeriod  16.1111
 	Obliquity       36.5954
 	EqAscendNode    64.219
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3197,7 +3197,7 @@ Moon	"Eadu System 5.1"
 	RotationPeriod  583.4
 	Obliquity       0.111424
 	EqAscendNode    -111.752
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -3329,7 +3329,7 @@ Planet	"Eadu System 6"
 	RotationPeriod  8.36114
 	Obliquity       54.924
 	EqAscendNode    -144.693
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.493074
 	AlbedoGeom      0.591689
@@ -3487,7 +3487,7 @@ DwarfMoon	"Eadu System 6.D1"
 
 	Obliquity       -0.00796697
 	EqAscendNode    48.291
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3597,7 +3597,7 @@ DwarfMoon	"Eadu System 6.D2"
 
 	Obliquity       -0.011639
 	EqAscendNode    -94.7215
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3707,7 +3707,7 @@ DwarfMoon	"Eadu System 6.D3"
 
 	Obliquity       0.00140398
 	EqAscendNode    128.1
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3817,7 +3817,7 @@ Moon	"Eadu System 6.1"
 
 	Obliquity       0.798509
 	EqAscendNode    -100.688
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3971,7 +3971,7 @@ Moon	"Eadu System 6.2"
 
 	Obliquity       1.13193
 	EqAscendNode    1.29209
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4123,7 +4123,7 @@ Moon	"Eadu System 6.3"
 
 	Obliquity       -0.950655
 	EqAscendNode    70.9324
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4277,7 +4277,7 @@ Moon	"Eadu System 6.4"
 
 	Obliquity       0.739225
 	EqAscendNode    -156.514
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4432,7 +4432,7 @@ Moon	"Eadu System 6.5"
 
 	Obliquity       -1.43303
 	EqAscendNode    -69.9402
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.351711
@@ -4658,7 +4658,7 @@ Moon	"Eadu System 6.6"
 
 	Obliquity       -0.211763
 	EqAscendNode    -26.8447
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -4874,7 +4874,7 @@ DwarfMoon	"Eadu System 6.D4"
 	RotationPeriod  649.832
 	Obliquity       58.1814
 	EqAscendNode    -85.2016
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4982,7 +4982,7 @@ DwarfMoon	"Eadu System 6.D5"
 	RotationPeriod  590.94
 	Obliquity       -9.91533
 	EqAscendNode    -162.028
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5090,7 +5090,7 @@ DwarfMoon	"Eadu System 6.D6"
 	RotationPeriod  538.997
 	Obliquity       14.2883
 	EqAscendNode    -16.8783
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5198,7 +5198,7 @@ DwarfMoon	"Eadu System 6.D7"
 	RotationPeriod  480.823
 	Obliquity       65.1192
 	EqAscendNode    98.0435
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5306,7 +5306,7 @@ DwarfMoon	"Eadu System 6.D8"
 	RotationPeriod  533.693
 	Obliquity       53.7579
 	EqAscendNode    179.958
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5414,7 +5414,7 @@ DwarfMoon	"Eadu System 6.D9"
 	RotationPeriod  483.492
 	Obliquity       1.14873
 	EqAscendNode    17.1519
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5522,7 +5522,7 @@ DwarfMoon	"Eadu System 6.D10"
 	RotationPeriod  441.273
 	Obliquity       57.2841
 	EqAscendNode    -156.879
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5630,7 +5630,7 @@ DwarfMoon	"Eadu System 6.D11"
 	RotationPeriod  394.459
 	Obliquity       -7.58306
 	EqAscendNode    78.2099
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5738,7 +5738,7 @@ DwarfMoon	"Eadu System 6.D12"
 	RotationPeriod  435.999
 	Obliquity       -56.9265
 	EqAscendNode    23.7492
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5846,7 +5846,7 @@ DwarfMoon	"Eadu System 6.D13"
 	RotationPeriod  390.539
 	Obliquity       -55.1324
 	EqAscendNode    68.7011
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5954,7 +5954,7 @@ DwarfMoon	"Eadu System 6.D14"
 	RotationPeriod  352.504
 	Obliquity       72.402
 	EqAscendNode    153.797
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6062,7 +6062,7 @@ DwarfMoon	"Eadu System 6.D15"
 	RotationPeriod  316.064
 	Obliquity       -57.2607
 	EqAscendNode    123.179
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6170,7 +6170,7 @@ DwarfMoon	"Eadu System 6.D16"
 	RotationPeriod  346.054
 	Obliquity       65.9254
 	EqAscendNode    153.541
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6278,7 +6278,7 @@ Moon	"Eadu System 6.7"
 	RotationPeriod  303.544
 	Obliquity       102.261
 	EqAscendNode    -69.2312
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -6411,7 +6411,7 @@ Moon	"Eadu System 6.8"
 	RotationPeriod  271.386
 	Obliquity       -26.4575
 	EqAscendNode    14.0792
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -6544,7 +6544,7 @@ DwarfMoon	"Eadu System 6.D17"
 	RotationPeriod  2001.95
 	Obliquity       40.9046
 	EqAscendNode    132.664
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6652,7 +6652,7 @@ DwarfMoon	"Eadu System 6.D18"
 	RotationPeriod  2096.74
 	Obliquity       -26.0791
 	EqAscendNode    79.8274
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6760,7 +6760,7 @@ DwarfMoon	"Eadu System 6.D19"
 	RotationPeriod  1801.9
 	Obliquity       -28.3473
 	EqAscendNode    34.6292
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6868,7 +6868,7 @@ DwarfMoon	"Eadu System 6.D20"
 	RotationPeriod  1598.81
 	Obliquity       -4.25815
 	EqAscendNode    -108.977
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6976,7 +6976,7 @@ DwarfMoon	"Eadu System 6.D21"
 	RotationPeriod  1419.84
 	Obliquity       -2.041
 	EqAscendNode    124.5
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7084,7 +7084,7 @@ DwarfMoon	"Eadu System 6.D22"
 	RotationPeriod  1562.04
 	Obliquity       38.9693
 	EqAscendNode    -63.775
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7192,7 +7192,7 @@ DwarfMoon	"Eadu System 6.D23"
 	RotationPeriod  1355.59
 	Obliquity       5.89225
 	EqAscendNode    129.682
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7300,7 +7300,7 @@ DwarfMoon	"Eadu System 6.D24"
 	RotationPeriod  1218.98
 	Obliquity       -43.9232
 	EqAscendNode    104.811
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7408,7 +7408,7 @@ DwarfMoon	"Eadu System 6.D25"
 	RotationPeriod  1103.92
 	Obliquity       4.12606
 	EqAscendNode    144.65
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7516,7 +7516,7 @@ DwarfMoon	"Eadu System 6.D26"
 	RotationPeriod  1254.01
 	Obliquity       -86.6919
 	EqAscendNode    79.478
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7624,7 +7624,7 @@ DwarfMoon	"Eadu System 6.D27"
 	RotationPeriod  1075.04
 	Obliquity       24.4325
 	EqAscendNode    68.4511
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7732,7 +7732,7 @@ DwarfMoon	"Eadu System 6.D28"
 	RotationPeriod  976.048
 	Obliquity       91.9278
 	EqAscendNode    -166.254
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7840,7 +7840,7 @@ DwarfMoon	"Eadu System 6.D29"
 	RotationPeriod  886.492
 	Obliquity       -85.3047
 	EqAscendNode    -7.79909
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7948,7 +7948,7 @@ DwarfMoon	"Eadu System 6.D30"
 	RotationPeriod  1135.26
 	Obliquity       49.4732
 	EqAscendNode    69.4541
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8056,7 +8056,7 @@ DwarfMoon	"Eadu System 6.D31"
 	RotationPeriod  878.136
 	Obliquity       -53.6404
 	EqAscendNode    91.5864
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8164,7 +8164,7 @@ DwarfMoon	"Eadu System 6.D32"
 	RotationPeriod  794.951
 	Obliquity       -39.0037
 	EqAscendNode    -95.739
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8272,7 +8272,7 @@ DwarfMoon	"Eadu System 6.D33"
 	RotationPeriod  728.232
 	Obliquity       -67.8857
 	EqAscendNode    -145.636
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8380,7 +8380,7 @@ DwarfMoon	"Eadu System 6.D34"
 	RotationPeriod  649.76
 	Obliquity       0.421978
 	EqAscendNode    69.1466
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8488,7 +8488,7 @@ DwarfMoon	"Eadu System 6.D35"
 	RotationPeriod  723.033
 	Obliquity       40.6018
 	EqAscendNode    -177.138
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8596,7 +8596,7 @@ DwarfMoon	"Eadu System 6.D36"
 	RotationPeriod  656.211
 	Obliquity       81.29
 	EqAscendNode    -24.0894
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8704,7 +8704,7 @@ DwarfMoon	"Eadu System 6.D37"
 	RotationPeriod  601.035
 	Obliquity       33.4816
 	EqAscendNode    56.4773
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8812,7 +8812,7 @@ DwarfMoon	"Eadu System 6.D38"
 	RotationPeriod  540.063
 	Obliquity       -120.983
 	EqAscendNode    129.674
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8920,7 +8920,7 @@ DwarfMoon	"Eadu System 6.D39"
 	RotationPeriod  599.469
 	Obliquity       40.1662
 	EqAscendNode    49.1778
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9028,7 +9028,7 @@ DwarfMoon	"Eadu System 6.D40"
 	RotationPeriod  540.869
 	Obliquity       -8.8675
 	EqAscendNode    -48.6241
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9136,7 +9136,7 @@ DwarfMoon	"Eadu System 6.D41"
 	RotationPeriod  492.631
 	Obliquity       36.7499
 	EqAscendNode    -172.998
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9244,7 +9244,7 @@ DwarfMoon	"Eadu System 6.D42"
 	RotationPeriod  445.916
 	Obliquity       -80.9598
 	EqAscendNode    -149.722
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9352,7 +9352,7 @@ DwarfMoon	"Eadu System 6.D43"
 	RotationPeriod  493.63
 	Obliquity       7.25439
 	EqAscendNode    160.558
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9460,7 +9460,7 @@ DwarfMoon	"Eadu System 6.D44"
 	RotationPeriod  439.704
 	Obliquity       29.1598
 	EqAscendNode    41.4621
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9568,7 +9568,7 @@ DwarfMoon	"Eadu System 6.D45"
 	RotationPeriod  399.946
 	Obliquity       -56.4198
 	EqAscendNode    2.52444
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9676,7 +9676,7 @@ DwarfMoon	"Eadu System 6.D46"
 	RotationPeriod  359.326
 	Obliquity       -5.81724
 	EqAscendNode    158.329
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9784,7 +9784,7 @@ DwarfMoon	"Eadu System 6.D47"
 	RotationPeriod  398.15
 	Obliquity       4.52077
 	EqAscendNode    15.1512
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9892,7 +9892,7 @@ DwarfMoon	"Eadu System 6.D48"
 	RotationPeriod  350.341
 	Obliquity       -45.6808
 	EqAscendNode    -99.8998
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10000,7 +10000,7 @@ DwarfMoon	"Eadu System 6.D49"
 	RotationPeriod  313.914
 	Obliquity       137.015
 	EqAscendNode    -22.2425
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10108,7 +10108,7 @@ Moon	"Eadu System 6.9"
 	RotationPeriod  281.322
 	Obliquity       38.5486
 	EqAscendNode    44.3184
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -10241,7 +10241,7 @@ Moon	"Eadu System 6.10"
 	RotationPeriod  310.622
 	Obliquity       57.3973
 	EqAscendNode    -145.767
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -10374,7 +10374,7 @@ DwarfMoon	"Eadu System 6.D50"
 	RotationPeriod  2196.78
 	Obliquity       -21.1975
 	EqAscendNode    -140.654
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10482,7 +10482,7 @@ DwarfMoon	"Eadu System 6.D51"
 	RotationPeriod  1910.61
 	Obliquity       92.6426
 	EqAscendNode    -9.46253
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10590,7 +10590,7 @@ DwarfMoon	"Eadu System 6.D52"
 	RotationPeriod  1680.32
 	Obliquity       -53.4457
 	EqAscendNode    -118.135
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10698,7 +10698,7 @@ DwarfMoon	"Eadu System 6.D53"
 	RotationPeriod  1856.59
 	Obliquity       -78.3698
 	EqAscendNode    32.2021
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10806,7 +10806,7 @@ DwarfMoon	"Eadu System 6.D54"
 	RotationPeriod  1565.36
 	Obliquity       3.38596
 	EqAscendNode    109.38
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -10914,7 +10914,7 @@ DwarfMoon	"Eadu System 6.D55"
 	RotationPeriod  1400.1
 	Obliquity       -31.7153
 	EqAscendNode    -53.173
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11022,7 +11022,7 @@ DwarfMoon	"Eadu System 6.D56"
 	RotationPeriod  1256.91
 	Obliquity       -60.2803
 	EqAscendNode    -92.2877
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11130,7 +11130,7 @@ DwarfMoon	"Eadu System 6.D57"
 	RotationPeriod  1555.52
 	Obliquity       -116.727
 	EqAscendNode    -103.417
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11238,7 +11238,7 @@ DwarfMoon	"Eadu System 6.D58"
 	RotationPeriod  1218.5
 	Obliquity       41.8856
 	EqAscendNode    58.5071
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11346,7 +11346,7 @@ DwarfMoon	"Eadu System 6.D59"
 	RotationPeriod  1096.36
 	Obliquity       -15.6005
 	EqAscendNode    -134.288
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11454,7 +11454,7 @@ DwarfMoon	"Eadu System 6.D60"
 	RotationPeriod  998.204
 	Obliquity       71.9204
 	EqAscendNode    -113.272
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11562,7 +11562,7 @@ DwarfMoon	"Eadu System 6.D61"
 	RotationPeriod  886.037
 	Obliquity       18.6989
 	EqAscendNode    -66.9742
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11670,7 +11670,7 @@ DwarfMoon	"Eadu System 6.D62"
 	RotationPeriod  982.019
 	Obliquity       -3.83303
 	EqAscendNode    23.1592
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11778,7 +11778,7 @@ DwarfMoon	"Eadu System 6.D63"
 	RotationPeriod  888.979
 	Obliquity       -96.7352
 	EqAscendNode    -170.594
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11886,7 +11886,7 @@ DwarfMoon	"Eadu System 6.D64"
 	RotationPeriod  808.747
 	Obliquity       101.259
 	EqAscendNode    -158.095
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11994,7 +11994,7 @@ DwarfMoon	"Eadu System 6.D65"
 	RotationPeriod  729.956
 	Obliquity       -45.412
 	EqAscendNode    -9.69599
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12102,7 +12102,7 @@ DwarfMoon	"Eadu System 6.D66"
 	RotationPeriod  809.234
 	Obliquity       12.1409
 	EqAscendNode    -92.1086
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12210,7 +12210,7 @@ DwarfMoon	"Eadu System 6.D67"
 	RotationPeriod  727.83
 	Obliquity       109.801
 	EqAscendNode    -11.7563
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12318,7 +12318,7 @@ DwarfMoon	"Eadu System 6.D68"
 	RotationPeriod  667.256
 	Obliquity       14.2375
 	EqAscendNode    69.3627
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12426,7 +12426,7 @@ DwarfMoon	"Eadu System 6.D69"
 	RotationPeriod  605.377
 	Obliquity       -12.0643
 	EqAscendNode    -24.6826
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12534,7 +12534,7 @@ DwarfMoon	"Eadu System 6.D70"
 	RotationPeriod  669.081
 	Obliquity       -4.50583
 	EqAscendNode    -164.615
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12642,7 +12642,7 @@ DwarfMoon	"Eadu System 6.D71"
 	RotationPeriod  601.576
 	Obliquity       -148.837
 	EqAscendNode    -159.311
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12750,7 +12750,7 @@ DwarfMoon	"Eadu System 6.D72"
 	RotationPeriod  550.277
 	Obliquity       -32.3749
 	EqAscendNode    23.3429
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12858,7 +12858,7 @@ DwarfMoon	"Eadu System 6.D73"
 	RotationPeriod  498.485
 	Obliquity       66.0487
 	EqAscendNode    -121.91
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -12966,7 +12966,7 @@ DwarfMoon	"Eadu System 6.D74"
 	RotationPeriod  555.637
 	Obliquity       -10.7882
 	EqAscendNode    -148.556
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -13074,7 +13074,7 @@ DwarfMoon	"Eadu System 6.D75"
 	RotationPeriod  494.123
 	Obliquity       4.80867
 	EqAscendNode    43.327
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -13184,7 +13184,7 @@ DwarfPlanet	"Eadu System 7"
 	RotationPeriod  52.0211
 	Obliquity       44.0872
 	EqAscendNode    138.579
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -13318,7 +13318,7 @@ DwarfMoon	"Eadu System 7.D1"
 
 	Obliquity       -1.13984
 	EqAscendNode    -49.2749
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13428,7 +13428,7 @@ DwarfMoon	"Eadu System 7.D2"
 
 	Obliquity       1.38379
 	EqAscendNode    167.795
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13539,7 +13539,7 @@ Planet	"Eadu System 8"
 	RotationPeriod  9.06582
 	Obliquity       33.2505
 	EqAscendNode    122.656
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.419351
 	AlbedoGeom      0.503221
@@ -13709,7 +13709,7 @@ DwarfMoon	"Eadu System 8.D1"
 
 	Obliquity       0.00617853
 	EqAscendNode    173.934
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13819,7 +13819,7 @@ DwarfMoon	"Eadu System 8.D2"
 
 	Obliquity       0.00598986
 	EqAscendNode    140.575
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13929,7 +13929,7 @@ DwarfMoon	"Eadu System 8.D3"
 
 	Obliquity       -0.0111175
 	EqAscendNode    -44.4655
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -14039,7 +14039,7 @@ Moon	"Eadu System 8.1"
 
 	Obliquity       0.0925281
 	EqAscendNode    -175.868
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -14174,7 +14174,7 @@ Moon	"Eadu System 8.2"
 
 	Obliquity       -1.22443
 	EqAscendNode    -35.0413
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -14307,7 +14307,7 @@ Moon	"Eadu System 8.3"
 
 	Obliquity       -1.43733
 	EqAscendNode    103.783
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -14440,7 +14440,7 @@ Moon	"Eadu System 8.4"
 
 	Obliquity       0.786634
 	EqAscendNode    -51.9455
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -14573,7 +14573,7 @@ Moon	"Eadu System 8.5"
 
 	Obliquity       -0.778912
 	EqAscendNode    103.098
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -14706,7 +14706,7 @@ Moon	"Eadu System 8.6"
 
 	Obliquity       0.342336
 	EqAscendNode    -90.1618
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -14840,7 +14840,7 @@ Moon	"Eadu System 8.7"
 	RotationPeriod  127.243
 	Obliquity       -0.578499
 	EqAscendNode    -36.9078
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -14973,7 +14973,7 @@ DwarfMoon	"Eadu System 8.D4"
 	RotationPeriod  646.613
 	Obliquity       1.88024
 	EqAscendNode    72.5834
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15083,7 +15083,7 @@ Moon	"Eadu System 8.8"
 	RotationPeriod  54.2225
 	Obliquity       -58.0266
 	EqAscendNode    134.919
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -15216,7 +15216,7 @@ DwarfMoon	"Eadu System 8.D5"
 	RotationPeriod  547.257
 	Obliquity       -51.7716
 	EqAscendNode    -114.206
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15324,7 +15324,7 @@ DwarfMoon	"Eadu System 8.D6"
 	RotationPeriod  493.762
 	Obliquity       42.586
 	EqAscendNode    19.0307
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15432,7 +15432,7 @@ DwarfMoon	"Eadu System 8.D7"
 	RotationPeriod  548.282
 	Obliquity       -46.9263
 	EqAscendNode    170.727
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15540,7 +15540,7 @@ DwarfMoon	"Eadu System 8.D8"
 	RotationPeriod  490.512
 	Obliquity       23.7441
 	EqAscendNode    162.977
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15648,7 +15648,7 @@ DwarfMoon	"Eadu System 8.D9"
 	RotationPeriod  447.495
 	Obliquity       40.8337
 	EqAscendNode    -155.091
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15756,7 +15756,7 @@ DwarfMoon	"Eadu System 8.D10"
 	RotationPeriod  403.565
 	Obliquity       2.64548
 	EqAscendNode    -62.2356
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15864,7 +15864,7 @@ DwarfMoon	"Eadu System 8.D11"
 	RotationPeriod  444.324
 	Obliquity       45.6821
 	EqAscendNode    102.472
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15972,7 +15972,7 @@ DwarfMoon	"Eadu System 8.D12"
 	RotationPeriod  395.408
 	Obliquity       -52.9716
 	EqAscendNode    -125.269
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16080,7 +16080,7 @@ DwarfMoon	"Eadu System 8.D13"
 	RotationPeriod  357.707
 	Obliquity       -37.0158
 	EqAscendNode    -47.4139
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16188,7 +16188,7 @@ DwarfMoon	"Eadu System 8.D14"
 	RotationPeriod  319.882
 	Obliquity       23.9476
 	EqAscendNode    41.5054
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16296,7 +16296,7 @@ DwarfMoon	"Eadu System 8.D15"
 	RotationPeriod  352.612
 	Obliquity       -34.4532
 	EqAscendNode    41.9605
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
