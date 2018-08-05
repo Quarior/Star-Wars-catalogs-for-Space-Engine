@@ -3540,7 +3540,7 @@ Star "Q'mara System" // system name
     Class      "M0 IV" // random
 }
 
-// http://starwars.wikia.com/wiki/Qiilure
+// http://starwars.wikia.com/wiki/Qiilura
 // Region : Mid Rim
 // Sector : Qiilura sector
 // Grid location : L7

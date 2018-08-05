@@ -583,7 +583,7 @@ Star "Maryo System" // system name
 // Sector : Sujimis Sector
 // Grid location : O19
 // X : 5488.27, Y : -14365.18, Z : 74.4622500446144
-Star "Maryx Minor System" // system name
+Star "Meryx Minor System" // system name
 {
     RA         0.0872782646181127
     Dec        24.583725354265265

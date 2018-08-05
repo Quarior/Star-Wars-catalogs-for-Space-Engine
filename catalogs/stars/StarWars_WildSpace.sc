@@ -472,12 +472,12 @@ Star "Qonto System" // system name
     Class      "M9 IV" // random
 }
 
-// http://starwars.wikia.com/wiki/Seou
+// http://starwars.wikia.com/wiki/Seoul_5
 // Region : Wild Space
 // Sector : 
 // Grid location : H20
 // X : -5868.46, Y : -16145.18, Z : 396.22279938731003
-Star "Seou System" // system name
+Star "Seoul System" // system name
 {
     RA         0.0873915271258593
     Dec        24.583459069195317

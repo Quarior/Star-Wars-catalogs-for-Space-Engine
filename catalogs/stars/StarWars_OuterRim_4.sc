@@ -2022,7 +2022,7 @@ Star "Vandyne System" // system name
 // Sector : Meerian Sector
 // Grid location : O6
 // X : 4848.52, Y : 4666.62, Z : 556.8659553414057
-Star "Vanqor System" // system name
+Star "Vanquo System" // system name
 {
     RA         0.08728464488480771
     Dec        24.586572462669565
