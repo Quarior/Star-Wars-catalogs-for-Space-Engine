@@ -1906,7 +1906,7 @@ Star "Ciutric System" // system name
     RA         0.08729534630064435
     Dec        24.58694069918662
     Dist       383000505.9760264
-    Class      "M5 III" // random
+    Class      "F1 V"
 }
 
 // http://starwars.wikia.com/wiki/Clantaano
