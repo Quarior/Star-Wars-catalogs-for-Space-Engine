@@ -93,6 +93,19 @@ Star "Sedri System" // system name
     Class      "M9 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Seelos
+// Region : Outer Rim
+// Sector : Kwymar Sector
+// Grid location : Q4
+// X : 7637, Y : 8186.41, Z : 365.8240323215814
+Star "Seelos System" // system name
+{
+    RA         0.08725683493715777
+    Dec        24.587099013870645
+    Dist       382999634.39108586
+    Class      "M1 IV" // random
+}
+
 // http://starwars.wikia.com/wiki/Seline
 // Region : Outer Rim
 // Sector : Dalonbian Sector
@@ -626,6 +639,20 @@ Star "Stenos System" // system name
     Class      "M8 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Stygeon_system
+// http://starwars.wikia.com/wiki/Stygeon_Prime
+// Region : Outer Rim
+// Sector : Nuiri Sector
+// Grid location : Q7
+// X : 8584.04, Y : 4346.21, Z : 335.68928450068563
+Star "Stygeon System" // system name
+{
+    RA         0.0872473899574996
+    Dec        24.586524529558005
+    Dist       382999664.461688
+    Class      "M5 II" // random
+}
+
 // http://starwars.wikia.com/wiki/Suarbi
 // Region : Outer Rim
 // Sector : Quence Sector
@@ -990,6 +1017,19 @@ Star "Taul System/Gunthar System" // system name
     Class      "M9 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Telaris_system
+// Region : Outer Rim
+// Sector : Pakuuni Sector
+// Grid location : T6
+// X : 12738.89, Y : 5322.88, Z : -443.1376153465174
+Star "Telaris System" // system name
+{
+    RA         0.08720595321359023
+    Dec        24.586670634648105
+    Dist       383000443.4220081
+    Class      "G7 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Telos
 // Region : Outer Rim
 // Sector : Kwymar Sector
@@ -1094,12 +1134,12 @@ Star "Thanium System" // system name
     Class      "M1 IV" // random
 }
 
-// http://starwars.wikia.com/wiki/Thassia
+// http://starwars.wikia.com/wiki/Thalassia
 // Region : Outer Rim
 // Sector : Meram Sector
 // Grid location : P4
 // X : 6582.81, Y : 8031.2, Z : 401.4342356987029
-Star "Thassia System" // system name
+Star "Thalassia System" // system name
 {
     RA         0.08726734854210261
     Dec        24.587075794987385

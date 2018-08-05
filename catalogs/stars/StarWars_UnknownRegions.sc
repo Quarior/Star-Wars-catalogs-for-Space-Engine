@@ -140,7 +140,7 @@ Star "Cormit System" // system name
 
 // http://starwars.wikia.com/wiki/Crakull
 // Region : Unknown Regions
-// Sector : Sector
+// Sector : 
 // Grid location : G10
 // X : -7176.62, Y : -990.26, Z : -246.64755940553607
 Star "Crakull System" // system name
@@ -149,6 +149,19 @@ Star "Crakull System" // system name
     Dec        24.58572620690563
     Dist       383000246.7164967
     Class      "M6 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Crustai
+// Region : Unknown Regions
+// Sector : 
+// Grid location : H8
+// X : -5805.79, Y : 1888.58, Z : -267.642938055959
+Star "Crustai System" // system name
+{
+    RA         0.08739090200718151
+    Dec        24.586156873388752
+    Dist       383000267.7080388
+    Class      "M4 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Csaus

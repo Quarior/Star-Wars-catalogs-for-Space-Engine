@@ -262,6 +262,19 @@ Star "Lothal System" // system name
     Class      "K7 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Lotho_Minor
+// Region : Outer Rim
+// Sector : Wazta Sector
+// Grid location : I17
+// X : -3164.9, Y : -11894.12, Z : -317.9641732634667
+Star "Lotho Minor System" // system name
+{
+    RA         0.0873645640142791
+    Dec        24.584095019825224
+    Dist       383000318.1016769
+    Class      "G9 V" // random
+}
+
 // http://starwars.wikia.com/wiki/Ession
 // Region : Outer Rim
 // Sector : Corporate Sector
@@ -1736,15 +1749,16 @@ Star "Panatha System" // system name
 }
 
 // http://starwars.wikia.com/wiki/Pantora
+// http://starwars.wikia.com/wiki/Pantora_system/Legends
 // Region : Outer Rim
 // Sector : Sujimis Sector
 // Grid location : P19
-// X : 6417.9, Y : -14040.46, Z : -480.81160046216064
-Star "Pantora System" // system name
+// X : 6473.68, Y : -14529.88, Z : 509.14587659082804
+Star "Pantora System/Pantoran System" // system name
 {
-    RA         0.08726899336437326
-    Dec        24.58377393410438
-    Dist       383000481.05052423
+    RA         0.08726843689556771
+    Dec        24.583700713474258
+    Dist       382999491.10951746
     Class      "M9 III" // random
 }
 
@@ -2124,6 +2138,19 @@ Star "Quelii System" // system name
     Dec        24.586709272293934
     Dist       383000049.3150296
     Class      "M4 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Quell_system
+// Region : Outer Rim
+// Sector : Nuiri Sector
+// Grid location : Q6
+// X : 8799.72, Y : 4849.03, Z : -218.2340103739412
+Star "Quell System" // system name
+{
+    RA         0.08724523907231994
+    Dec        24.5865997486459
+    Dist       383000218.3987114
+    Class      "O3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Quermia
@@ -2675,6 +2702,19 @@ Star "Saleucami System" // system name
     Dec        24.58625172910402
     Dist       382999938.3058645
     Class      "G5 V"
+}
+
+// http://starwars.wikia.com/wiki/Salient_system
+// Region : Outer Rim
+// Sector : Corporate Sector Sector
+// Grid location : S3
+// X : 11289.45, Y : 9211.49, Z : 498.1858536416969
+Star "Salient System" // system name
+{
+    RA         0.08722040841092955
+    Dec        24.587252363840136
+    Dist       382999502.14849687
+    Class      "M3 V" // red dwarf
 }
 
 // http://starwars.wikia.com/wiki/Salin

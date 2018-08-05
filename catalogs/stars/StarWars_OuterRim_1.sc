@@ -540,6 +540,19 @@ Star "Anx Minor System" // system name
     Class      "M5 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Apatros_system
+// Region : Outer Rim
+// Sector : Savareen Sector
+// Grid location : Q16
+// X : 8445.36, Y : -10275.9, Z : 509.3789852653654
+Star "Apatros System" // system name
+{
+    RA         0.08724877299774722
+    Dec        24.584337098392492
+    Dist       382999490.80072445
+    Class      "M2 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Arami
 // Region : Outer Rim
 // Sector : Galov Sector
@@ -1764,6 +1777,19 @@ Star "Ch'hodos System" // system name
     Dec        24.58702633019919
     Dist       383000086.62651914
     Class      "M4 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Chad
+// Region : Outer Rim
+// Sector : Jospro Sector
+// Grid location : R7
+// X : 10065.14, Y : 3958.71, Z : -466.8939441403649
+Star "Chad/Chad System" // system name
+{
+    RA         0.08723261891400073
+    Dec        24.58646655863055
+    Dist       383000467.07461774
+    Class      "M5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Chandaar

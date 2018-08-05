@@ -2083,6 +2083,20 @@ Star "Terrijo System" // system name
     Class      "K4 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Teya_system
+// http://starwars.wikia.com/wiki/Teya_IV
+// Region : Expansion Region
+// Sector : Lostar Sector
+// Grid location : M7
+// X : 2080, Y : 3251.85, Z : 501.44103770548986
+Star "Teya/Teya System" // system name
+{
+    RA         0.08731225580897896
+    Dec        24.58636081642295
+    Dist       382999498.6024421
+    Class      "M3 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Thaere
 // Region : Expansion Region
 // Sector : Thaere Sector

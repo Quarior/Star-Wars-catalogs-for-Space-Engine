@@ -1965,6 +1965,19 @@ Star "Jiroch System" // system name
     Class      "K1 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Junction_V
+// Region : Mid Rim
+// Sector : Vorc Sector
+// Grid location : J-7
+// X : , Y : , Z : 
+//Star "Junction System" // system name
+//{
+//    RA         
+//    Dec        
+//    Dist       
+//    Class      "M1 V" // random
+//}
+
 // http://starwars.wikia.com/wiki/Juvex
 // Region : Mid Rim
 // Sector : Juvex Sector
@@ -4644,6 +4657,19 @@ Star "Valrar System" // system name
     Dec        24.586488176295198
     Dist       383000107.2137119
     Class      "M0 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Vandor
+// Region : Mid Rim
+// Sector : Sloo Sector
+// Grid location : P14
+// X : 6407.47, Y : -6656.54, Z : 303.3290158591418
+Star "Vandor System" // system name
+{
+    RA         0.08726909725342458
+    Dec        24.58487854608902
+    Dist       382999696.7513143
+    Class      "M7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Varadan

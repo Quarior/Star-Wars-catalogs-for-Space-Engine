@@ -316,6 +316,19 @@ Star "Lamaro System/LM0228 System" // system name
     Class      "F2 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Lasan
+// Region : Wild Space
+// Sector : Sector
+// Grid location : P20
+// X : 6654.19, Y : -15428.59, Z : 570.026892335402
+Star "Lasan/Lasan System" // system name
+{
+    RA         0.0872666366282901
+    Dec        24.58356626835805
+    Dist       382999430.26174295
+    Class      "M6 III" // random
+}
+
 // http://starwars.wikia.com/wiki/Malagarr
 // Region : Wild Space
 // Sector : 

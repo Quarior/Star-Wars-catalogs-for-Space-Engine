@@ -852,6 +852,19 @@ Star "Gandeal System" // system name
     Class      "G7 III" // random
 }
 
+// http://starwars.wikia.com/wiki/Ganthel
+// Region : Core
+// Sector : Bormea Sector
+// Grid location : L9
+// X : 1139.22, Y : 413.55, Z : 554.259607834638
+Star "Ganthel System" // system name
+{
+    RA         0.08732163836511816
+    Dec        24.585936213802118
+    Dist       382999445.75054157
+    Class      "K0 Iab" // random
+}
+
 // http://starwars.wikia.com/wiki/Gerrard
 // Region : Core
 // Sector : 
