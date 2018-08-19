@@ -230,9 +230,9 @@ Planet	"Kashyyyk"
 		dunesFreq       73.6853
 		dunesFraction   0.304581
 		hillsMagn       1.67778
-		hillsFreq       2500
+		hillsFreq       7000
 		hillsFraction   0.011111
-		hills2Fraction  0.602381
+		hills2Fraction  0.802381
 		riversMagn      2.38095
 		riversFreq      1.66667
 		riversSin       10
