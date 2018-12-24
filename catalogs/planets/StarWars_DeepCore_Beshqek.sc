@@ -1314,6 +1314,7 @@ Planet	"Byss"
 	Orbit
 	{
 		RefPlane        "Equator"
+		SemiMajorAxis	0.80064
 		PeriodDays      266.317575
 		Eccentricity    0.0123872
 		Inclination     -0.332029

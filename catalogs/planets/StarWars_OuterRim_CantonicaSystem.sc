@@ -9,126 +9,126 @@ Planet	"Cantonica/Cantonica System 3"
 	ParentBody     "Cantonica System"
 	Class	       "Terra"
 
-	Mass            1
+	Mass            0.97312
 	Radius          5783.11
 	InertiaMoment   0.328397
 
 	Oblateness      0.00657296
 
 	RotationPeriod  14.6784
-	Obliquity       -57.1429
+	Obliquity       13.1429
 	EqAscendNode    102.857
 
 	AbsMagn         -3.78263
 	SlopeParam      5.44606
-	AlbedoBond      0.336606
-	AlbedoGeom      0.403927
-	Brightness      0.555556
-	Color          (0.377 0.257 0.164)
+	AlbedoBond      0.295897
+	AlbedoGeom      0.355077
+	Brightness      2
+	Color          (0.569 0.511 0.440)
 
 	Life
 	{
 		Class   "Organic"
 		Type    "Multicellular"
-		Biome   "Terrestrial"
+		Biome   "Marine/Terrestrial"
 		Panspermia "true"
 	}
 
 	Surface
 	{
-		SurfStyle       0.938889
-		OceanStyle      0.0952381
-		Randomize      (0.210, -0.844, 0.570)
-		colorDistMagn   0.0667713
-		colorDistFreq   841.673
-		detailScale     17748.9
+		SurfStyle       0.266667
+		OceanStyle      0.948241
+		Randomize      (0.571, 0.032, 0.032)
+		colorDistMagn   0.0723351
+		colorDistFreq   895.019
+		detailScale     22095.8
 		colorConversion true
-		drivenDarkening -1
-		seaLevel        -1
-		snowLevel       0.269841
-		tropicLatitude  0.855162
+		drivenDarkening 0
+		seaLevel        0.278322
+		snowLevel       0.85
+		tropicLatitude  0.0326394
 		icecapLatitude  1
-		icecapHeight    0.128119
-		climatePole     0.5625
-		climateTropic   0.5625
-		climateEquator  0.6875
+		icecapHeight    0.285419
+		climatePole     0
+		climateTropic   0.1
+		climateEquator  0
 		heightTempGrad  0.375
-		tropicWidth     0.07
-		mainFreq        5
-		venusFreq       0.269841
-		venusMagn       0.386521
-		mareFreq        2.28799
-		mareDensity     0.206712
-		terraceProb     0.194374
-		erosion         0
-		montesMagn      0.150416
-		montesFreq      225.583
-		montesSpiky     0.883729
-		montesFraction  0.949624
-		dunesMagn       0.0553337
-		dunesFreq       49.4435
-		dunesFraction   0.943761
-		hillsMagn       0.13835
-		hillsFreq       888.352
-		hillsFraction   0
-		hills2Fraction  0
-		riversMagn      62.2604
-		riversFreq      2.4096
-		riversSin       4.02225
-		riversOctaves   0
-		canyonsMagn     0.0227393
+		tropicWidth     0.5
+		mainFreq        0.371727
+		venusFreq       0.925457
+		venusMagn       0
+		mareFreq        6.55648
+		mareDensity     0.0604135
+		terraceProb     0.21748
+		erosion         0.129565
+		montesMagn      0.79048
+		montesFreq      124.413
+		montesSpiky     0.982586
+		montesFraction  0.388889
+		dunesMagn       0.0555806
+		dunesFreq       64.2535
+		dunesFraction   0.942306
+		hillsMagn       0.207066
+		hillsFreq       382.54
+		hillsFraction   0.428571
+		hills2Fraction  0.761905
+		riversMagn      61.5897
+		riversFreq      2.17714
+		riversSin       8.11635
+		riversOctaves   2
+		canyonsMagn     0.0346875
 		canyonsFreq     100
-		canyonFraction  0.813756
-		cracksMagn      0.108734
-		cracksFreq      0.568279
+		canyonFraction  0.905908
+		cracksMagn      0.0680411
+		cracksFreq      0.731051
 		cracksOctaves   0
-		craterMagn      0.634393
-		craterFreq      15.1896
+		craterMagn      0.998345
+		craterFreq      30.3197
 		craterDensity   0
 		craterOctaves   0
 		craterRayedFactor 0
-		volcanoMagn     0.75329
-		volcanoFreq     0.718212
-		volcanoDensity  0.367416
+		volcanoMagn     0.682976
+		volcanoFreq     0.803004
+		volcanoDensity  0.4
 		volcanoOctaves  3
 		volcanoActivity 2
-		volcanoFlows    0.638031
-		volcanoRadius   0.424863
-		volcanoTemp     1218.05
-		lavaCoverTidal  0.326452
-		lavaCoverSun    1
+		volcanoFlows    0.511298
+		volcanoRadius   0.46945
+		volcanoTemp     1757.35
+		lavaCoverTidal  0.352087
+		lavaCoverSun    0
 		lavaCoverYoung  0
-		stripeZones     0
+		stripeZones     1.69637
 		stripeFluct     0
-		stripeTwist     0
-		cycloneMagn     0
-		cycloneFreq     0
-		cycloneDensity  0
-		cycloneOctaves  0
-		colorSea       (0.040, 0.100, 0.200, 1.000)
-		colorShelf     (0.150, 0.480, 0.460, 1.000)
-		colorBeach     (0.480, 0.380, 0.280, 0.000)
-		colorDesert    (0.410, 0.280, 0.180, 0.000)
-		colorLowland   (0.310, 0.230, 0.170, 0.000)
-		colorUpland    (0.510, 0.330, 0.190, 0.000)
-		colorRock      (0.220, 0.210, 0.210, 0.000)
+		stripeTwist     0.801394
+		cycloneMagn     2.02283
+		cycloneFreq     1.19999
+		cycloneDensity  0.24839
+		cycloneOctaves  4
+		colorSea       (0.060, 0.310, 0.400, 1.000)
+		colorShelf     (0.230, 0.470, 0.450, 1.000)
+		colorBeach     (0.690, 0.470, 0.320, 0.000)
+		colorDesert    (0.610, 0.380, 0.270, 0.000)
+		colorLowland   (0.510, 0.320, 0.230, 0.000)
+		colorUpland    (0.730, 0.530, 0.370, 0.000)
+		colorRock      (0.620, 0.330, 0.170, 0.000)
 		colorSnow      (1.000, 1.000, 1.000, 1.308)
-		colorLowPlants (0.100, 0.160, 0.070, 0.000)
-		colorUpPlants  (0.090, 0.110, 0.040, 0.000)
-		BumpHeight      17.9851
-		DiffMapAlpha   "Ice"
-		SpecBrightWater 4.7619
-		SpecBrightIce   0
-		SpecularPower   1
+		colorLowPlants (0.144, 0.174, 0.053, 0.000)
+		colorUpPlants  (0.229, 0.232, 0.043, 0.000)
+		BumpHeight      10.3175
+		DiffMapAlpha   "Water"
+		SpecBrightWater 0.65
+		SpecBrightIce   0.85
+		SpecularPower   55
 		Hapke           0
-		SpotBright      0
+		SpotBright      4
 		SpotWidth       0.05
-		DayAmbient      1.98413
+		DayAmbient      0.07
 	}
 
 	Clouds
 	{
-		Height          19.96
+		Height          39.96
 		Velocity        73.9576
 		BumpHeight      5.78151
 		Hapke           0.2
@@ -138,7 +138,7 @@ Planet	"Cantonica/Cantonica System 3"
 		ModulateColor  (1.000 1.000 1.000 0.214)
 		mainFreq        0.571429
 		mainOctaves     3
-		Coverage        0.0873016
+		Coverage        0.1873016
 		stripeZones     0
 		stripeFluct     0
 		stripeTwist     0
@@ -146,7 +146,7 @@ Planet	"Cantonica/Cantonica System 3"
 
 	Clouds
 	{
-		Height          84.8345
+		Height          20.8345
 		Velocity        73.9576
 		BumpHeight      5.78151
 		Hapke           0.2
@@ -161,22 +161,29 @@ Planet	"Cantonica/Cantonica System 3"
 		stripeTwist     0
 	}
 
-	NoOcean         true
+	Ocean
+	{
+		Height          2.87158
+		Hapke           0
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+	}
 
 	NoLava          true
 
 	Atmosphere
 	{
 		Model          "Earth"
-		Height          401.028
-		Density         1
-		Pressure        1
-		Greenhouse      252.381
-		Bright          0.952381
-		Opacity         0.198413
+		Height          100
+		Density         1.1503
+		Pressure        0.9817
+		Greenhouse      24.381
+		Bright          3
+		Opacity         1
 		SkyLight        1.19048
-		Hue             -0.111111
-		Saturation      0.396825
+		Hue             0
+		Saturation      1
 
 		Composition
 		{
@@ -199,8 +206,7 @@ Planet	"Cantonica/Cantonica System 3"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   0.8
-		Period          0.286392
+		SemiMajorAxis   0.6
 		Eccentricity    0.0600432
 		Inclination     2.08221
 		AscendingNode   141.32

@@ -1617,12 +1617,10 @@ Star "Cantonica System" // system name
     Dec        24.58712588467552
     Dist       382999608.6726343
     Class	       "G9.9 V"
-	Luminosity      6.68955e-006
 	MassSol         0.963829
 	RadSol          1.08994
-	Teff            4475.01
 
-	Age             8.68406
+	Age             5.68406
 
 	InertiaMoment   0.0691175
 
