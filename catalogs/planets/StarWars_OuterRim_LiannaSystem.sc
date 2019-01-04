@@ -20,7 +20,7 @@ DwarfPlanet	"Devato/Lianna System 1"
 	RotationPeriod  47.8145
 	Obliquity       20.9957
 	EqAscendNode    147.894
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -386,7 +386,7 @@ DwarfMoon	"Geminor D1"
 
 	Obliquity       -0.00699976
 	EqAscendNode    -36.8582
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -498,7 +498,7 @@ Planet	"Aradian/Lianna System 3"
 	RotationPeriod  1952.35
 	Obliquity       0.644257
 	EqAscendNode    -136.103
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.267783
 	AlbedoGeom      0.321339
@@ -703,7 +703,7 @@ Moon	"Aradian 1"
 
 	Obliquity       -1.20574
 	EqAscendNode    76.6757
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -865,7 +865,7 @@ Moon	"Aradian 2"
 
 	Obliquity       7.37773
 	EqAscendNode    24.8892
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -1000,7 +1000,7 @@ DwarfMoon	"Aradian D1"
 
 	Obliquity       46.323
 	EqAscendNode    10.9656
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1109,7 +1109,7 @@ Planet	"Lianna/Lianna System 4"
     RotationPeriod  22
 	Obliquity       2.17559
 	EqAscendNode    173.89
-	Precession      0
+	//Precession      0
 	TidalLocked     false
 
 	AlbedoBond      0.498017
@@ -1313,7 +1313,7 @@ Moon	"Lianna 1"
 
 	Obliquity       -1.20574
 	EqAscendNode    76.6757
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -1475,7 +1475,7 @@ Planet	"Indinor/Lianna System 5"
 	RotationPeriod  2341.29
 	Obliquity       2.28836
 	EqAscendNode    57.7098
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -1649,7 +1649,7 @@ DwarfMoon	"Indinor D1"
 
 	Obliquity       0.00034262
 	EqAscendNode    174.482
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1758,7 +1758,7 @@ DwarfMoon	"Indinor D2"
 	RotationPeriod  240.692
 	Obliquity       11.2169
 	EqAscendNode    -50.9468
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1869,7 +1869,7 @@ Planet	"Adinai/Lianna System 6"
 	RotationPeriod  9.98245
 	Obliquity       2.20651
 	EqAscendNode    127.374
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.423568
 	AlbedoGeom      0.508281
@@ -2039,7 +2039,7 @@ Moon	"Adinai 1"
 
 	Obliquity       -1.38502
 	EqAscendNode    86.9986
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.276105
@@ -2242,7 +2242,7 @@ DwarfMoon	"Adinai D1"
 
 	Obliquity       1.20003
 	EqAscendNode    -15.6876
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2350,7 +2350,7 @@ DwarfMoon	"Adinai D2"
 
 	Obliquity       53.935
 	EqAscendNode    131.087
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2459,7 +2459,7 @@ DwarfMoon	"Adinai D3"
 	RotationPeriod  1612.87
 	Obliquity       -43.1981
 	EqAscendNode    -146.838
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2566,7 +2566,7 @@ DwarfMoon	"Adinai D4"
 
 	Obliquity       -18.8842
 	EqAscendNode    -120.691
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2674,7 +2674,7 @@ DwarfMoon	"Adinai D5"
 
 	Obliquity       -13.4157
 	EqAscendNode    -30.9877
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2783,7 +2783,7 @@ DwarfMoon	"Adinai D6"
 	RotationPeriod  2102.24
 	Obliquity       3.94543
 	EqAscendNode    11.3943
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2891,7 +2891,7 @@ Moon	"Adinai 2"
 	RotationPeriod  5429.58
 	Obliquity       77.2326
 	EqAscendNode    71.2353
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -3024,7 +3024,7 @@ DwarfPlanet	"Niddion/Lianna System 7"
 
 	Obliquity       -1.00691
 	EqAscendNode    -127.405
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3

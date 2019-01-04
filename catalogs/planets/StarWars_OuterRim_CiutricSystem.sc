@@ -20,7 +20,7 @@ Planet	"Ciutric IV"
 	RotationPeriod  11439.1
 	Obliquity       -1.29821
 	EqAscendNode    27.7752
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -229,7 +229,7 @@ Moon	"Ciutric IV.1"
 
 	Obliquity       0.00961378
 	EqAscendNode    -8.35639
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -340,7 +340,7 @@ Moon	"Ciutric IV.2"
     
 	Obliquity       -89.9027
 	EqAscendNode    3.7451
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -454,7 +454,7 @@ Planet	"Ciutric II"
 	RotationPeriod  16.0031
 	Obliquity       -9.18175
 	EqAscendNode    169.507
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.309104
 	AlbedoGeom      0.370925
@@ -654,7 +654,7 @@ Planet	"Ciutric III"
 	RotationPeriod  8.36119
 	Obliquity       -21.3382
 	EqAscendNode    -54.9304
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.460405
 	AlbedoGeom      0.552486
@@ -803,7 +803,7 @@ DwarfMoon	"Ciutric III.D1"
 
 	Obliquity       -0.00783122
 	EqAscendNode    46.6568
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -913,7 +913,7 @@ DwarfMoon	"Ciutric III.D2"
 
 	Obliquity       -0.00337212
 	EqAscendNode    -170.683
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1023,7 +1023,7 @@ DwarfMoon	"Ciutric III.D3"
 
 	Obliquity       0.00889567
 	EqAscendNode    -17.3128
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1133,7 +1133,7 @@ Moon	"Ciutric III.1"
 
 	Obliquity       -0.724761
 	EqAscendNode    -91.1397
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -1265,7 +1265,7 @@ Moon	"Ciutric III.2"
 
 	Obliquity       1.32244
 	EqAscendNode    -81.5786
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -1396,7 +1396,7 @@ DwarfMoon	"Ciutric III.D4"
 	RotationPeriod  359.334
 	Obliquity       17.4507
 	EqAscendNode    -70.3138
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1503,7 +1503,7 @@ DwarfMoon	"Ciutric III.D5"
 
 	Obliquity       28.2147
 	EqAscendNode    -124.238
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1611,7 +1611,7 @@ DwarfMoon	"Ciutric III.D6"
 
 	Obliquity       57.0571
 	EqAscendNode    142.698
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1720,7 +1720,7 @@ DwarfMoon	"Ciutric III.D7"
 	RotationPeriod  2956.81
 	Obliquity       -35.011
 	EqAscendNode    -32.4262
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -1827,7 +1827,7 @@ DwarfMoon	"Ciutric III.D8"
 
 	Obliquity       -18.5148
 	EqAscendNode    -82.2283
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -1936,7 +1936,7 @@ DwarfMoon	"Ciutric III.D9"
 	RotationPeriod  1901.05
 	Obliquity       29.2115
 	EqAscendNode    178.486
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2044,7 +2044,7 @@ DwarfMoon	"Ciutric III.D10"
 	RotationPeriod  1325.33
 	Obliquity       -12.4393
 	EqAscendNode    -132.759
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2152,7 +2152,7 @@ DwarfMoon	"Ciutric III.D11"
 	RotationPeriod  921.441
 	Obliquity       -30.2609
 	EqAscendNode    -29.031
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2259,7 +2259,7 @@ DwarfMoon	"Ciutric III.D12"
 
 	Obliquity       -83.2232
 	EqAscendNode    -102.947
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2367,7 +2367,7 @@ DwarfMoon	"Ciutric III.D13"
 
 	Obliquity       1.09581
 	EqAscendNode    120.868
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2475,7 +2475,7 @@ DwarfMoon	"Ciutric III.D14"
 
 	Obliquity       -74.6055
 	EqAscendNode    -103.917
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -2584,7 +2584,7 @@ DwarfMoon	"Ciutric III.D15"
 	RotationPeriod  1599.29
 	Obliquity       -75.6667
 	EqAscendNode    -141.711
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2692,7 +2692,7 @@ DwarfMoon	"Ciutric III.D16"
 	RotationPeriod  2478.6
 	Obliquity       70.1084
 	EqAscendNode    -62.3826
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2800,7 +2800,7 @@ DwarfMoon	"Ciutric III.D17"
 	RotationPeriod  4190.07
 	Obliquity       -16.8141
 	EqAscendNode    -38.5904
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -2907,7 +2907,7 @@ DwarfMoon	"Ciutric III.D18"
 
 	Obliquity       -78.8541
 	EqAscendNode    -62.71
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3016,7 +3016,7 @@ DwarfMoon	"Ciutric III.D19"
 	RotationPeriod  1487.86
 	Obliquity       -82.097
 	EqAscendNode    17.9978
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3124,7 +3124,7 @@ DwarfMoon	"Ciutric III.D20"
 	RotationPeriod  4578.91
 	Obliquity       -25.2481
 	EqAscendNode    -71.4517
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3232,7 +3232,7 @@ DwarfMoon	"Ciutric III.D21"
 	RotationPeriod  1414.17
 	Obliquity       11.0744
 	EqAscendNode    146.587
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3340,7 +3340,7 @@ DwarfMoon	"Ciutric III.D22"
 	RotationPeriod  1434.08
 	Obliquity       -29.8759
 	EqAscendNode    -26.4207
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3447,7 +3447,7 @@ DwarfMoon	"Ciutric III.D23"
 
 	Obliquity       -67.5445
 	EqAscendNode    160.789
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3555,7 +3555,7 @@ DwarfMoon	"Ciutric III.D24"
 
 	Obliquity       -18.0819
 	EqAscendNode    -72.5598
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -3664,7 +3664,7 @@ DwarfMoon	"Ciutric III.D25"
 	RotationPeriod  4989.61
 	Obliquity       -87.0343
 	EqAscendNode    -7.76389
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3772,7 +3772,7 @@ DwarfMoon	"Ciutric III.D26"
 	RotationPeriod  1686.91
 	Obliquity       -61.6499
 	EqAscendNode    -145.269
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3880,7 +3880,7 @@ DwarfMoon	"Ciutric III.D27"
 	RotationPeriod  1728.73
 	Obliquity       -16.9864
 	EqAscendNode    -86.2197
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -3988,7 +3988,7 @@ DwarfMoon	"Ciutric III.D28"
 	RotationPeriod  2621.59
 	Obliquity       -43.2983
 	EqAscendNode    -141.665
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4095,7 +4095,7 @@ DwarfMoon	"Ciutric III.D29"
 
 	Obliquity       43.393
 	EqAscendNode    -19.7441
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4203,7 +4203,7 @@ DwarfMoon	"Ciutric III.D30"
 
 	Obliquity       82.6367
 	EqAscendNode    -114.9
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4311,7 +4311,7 @@ DwarfMoon	"Ciutric III.D31"
 
 	Obliquity       68.4333
 	EqAscendNode    -55.5569
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4420,7 +4420,7 @@ DwarfMoon	"Ciutric III.D32"
 	RotationPeriod  4631.13
 	Obliquity       24.5518
 	EqAscendNode    148.098
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4527,7 +4527,7 @@ DwarfMoon	"Ciutric III.D33"
 
 	Obliquity       -85.5762
 	EqAscendNode    57.1282
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4636,7 +4636,7 @@ DwarfMoon	"Ciutric III.D34"
 	RotationPeriod  2986.48
 	Obliquity       -22.7116
 	EqAscendNode    150.496
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -4743,7 +4743,7 @@ DwarfMoon	"Ciutric III.D35"
 
 	Obliquity       -45.7361
 	EqAscendNode    -161.199
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4851,7 +4851,7 @@ DwarfMoon	"Ciutric III.D36"
 
 	Obliquity       -63.0198
 	EqAscendNode    147.384
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -4959,7 +4959,7 @@ DwarfMoon	"Ciutric III.D37"
 
 	Obliquity       33.9686
 	EqAscendNode    -139.094
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5067,7 +5067,7 @@ DwarfMoon	"Ciutric III.D38"
 
 	Obliquity       -7.89011
 	EqAscendNode    -45.0131
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5176,7 +5176,7 @@ DwarfMoon	"Ciutric III.D39"
 	RotationPeriod  3881.06
 	Obliquity       -23.5622
 	EqAscendNode    -79.2204
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5284,7 +5284,7 @@ DwarfMoon	"Ciutric III.D40"
 	RotationPeriod  6553.49
 	Obliquity       -15.5797
 	EqAscendNode    32.5332
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5392,7 +5392,7 @@ DwarfMoon	"Ciutric III.D41"
 	RotationPeriod  4028.98
 	Obliquity       63.0512
 	EqAscendNode    69.7894
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -5499,7 +5499,7 @@ DwarfMoon	"Ciutric III.D42"
 
 	Obliquity       56.5157
 	EqAscendNode    21.9156
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5607,7 +5607,7 @@ DwarfMoon	"Ciutric III.D43"
 
 	Obliquity       -72.7695
 	EqAscendNode    -87.2968
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5715,7 +5715,7 @@ DwarfMoon	"Ciutric III.D44"
 
 	Obliquity       -53.2173
 	EqAscendNode    -79.2087
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5823,7 +5823,7 @@ DwarfMoon	"Ciutric III.D45"
 
 	Obliquity       -31.7232
 	EqAscendNode    109.38
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -5932,7 +5932,7 @@ DwarfMoon	"Ciutric III.D46"
 	RotationPeriod  5905.06
 	Obliquity       62.5585
 	EqAscendNode    -165.823
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -6039,7 +6039,7 @@ DwarfMoon	"Ciutric III.D47"
 
 	Obliquity       0.900124
 	EqAscendNode    175.635
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -6147,7 +6147,7 @@ DwarfMoon	"Ciutric III.D48"
 
 	Obliquity       -12.0046
 	EqAscendNode    125.84
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -6255,7 +6255,7 @@ DwarfMoon	"Ciutric III.D49"
 
 	Obliquity       -61.5942
 	EqAscendNode    85.2922
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -6363,7 +6363,7 @@ DwarfMoon	"Ciutric III.D50"
 
 	Obliquity       -23.3613
 	EqAscendNode    55.8158
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -6471,7 +6471,7 @@ DwarfMoon	"Ciutric III.D51"
 
 	Obliquity       -54.4166
 	EqAscendNode    161.307
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -6579,7 +6579,7 @@ DwarfMoon	"Ciutric III.D52"
 
 	Obliquity       -0.449806
 	EqAscendNode    9.38485
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -6687,7 +6687,7 @@ DwarfMoon	"Ciutric III.D53"
 
 	Obliquity       -68.3308
 	EqAscendNode    92.9261
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -6795,7 +6795,7 @@ DwarfMoon	"Ciutric III.D54"
 
 	Obliquity       52.8888
 	EqAscendNode    56.3234
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -6904,7 +6904,7 @@ DwarfMoon	"Ciutric III.D55"
 	RotationPeriod  3430.23
 	Obliquity       -30.5067
 	EqAscendNode    47.5577
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7011,7 +7011,7 @@ DwarfMoon	"Ciutric III.D56"
 
 	Obliquity       1.65605
 	EqAscendNode    -16.7216
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -7120,7 +7120,7 @@ DwarfMoon	"Ciutric III.D57"
 	RotationPeriod  5294.96
 	Obliquity       -21.6861
 	EqAscendNode    -30.0214
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7227,7 +7227,7 @@ DwarfMoon	"Ciutric III.D58"
 
 	Obliquity       47.8276
 	EqAscendNode    -60.3362
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -7336,7 +7336,7 @@ DwarfMoon	"Ciutric III.D59"
 	RotationPeriod  5415.07
 	Obliquity       -80.9074
 	EqAscendNode    94.5294
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7443,7 +7443,7 @@ DwarfMoon	"Ciutric III.D60"
 
 	Obliquity       21.5733
 	EqAscendNode    -30.1286
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -7552,7 +7552,7 @@ DwarfMoon	"Ciutric III.D61"
 	RotationPeriod  3747.96
 	Obliquity       41.6119
 	EqAscendNode    0.46733
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -7659,7 +7659,7 @@ DwarfMoon	"Ciutric III.D62"
 
 	Obliquity       89.453
 	EqAscendNode    -66.6173
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -7767,7 +7767,7 @@ Moon	"Ciutric III.3"
 
 	Obliquity       -15.5966
 	EqAscendNode    166.194
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -7897,7 +7897,7 @@ DwarfMoon	"Ciutric III.D63"
 
 	Obliquity       -63.0422
 	EqAscendNode    -8.98491
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -8006,7 +8006,7 @@ DwarfMoon	"Ciutric III.D64"
 	RotationPeriod  1319.75
 	Obliquity       10.5253
 	EqAscendNode    -152.688
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8113,7 +8113,7 @@ DwarfMoon	"Ciutric III.D65"
 
 	Obliquity       20.1844
 	EqAscendNode    -88.4721
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -8222,7 +8222,7 @@ DwarfMoon	"Ciutric III.D66"
 	RotationPeriod  12089.4
 	Obliquity       -70.7036
 	EqAscendNode    -149.429
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8330,7 +8330,7 @@ DwarfMoon	"Ciutric III.D67"
 	RotationPeriod  1361.74
 	Obliquity       -68.3235
 	EqAscendNode    -108.399
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8437,7 +8437,7 @@ DwarfMoon	"Ciutric III.D68"
 
 	Obliquity       -25.6995
 	EqAscendNode    67.9917
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -8545,7 +8545,7 @@ DwarfMoon	"Ciutric III.D69"
 
 	Obliquity       -43.8893
 	EqAscendNode    93.326
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -8653,7 +8653,7 @@ DwarfMoon	"Ciutric III.D70"
 
 	Obliquity       -61.6382
 	EqAscendNode    -88.1315
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -8762,7 +8762,7 @@ DwarfMoon	"Ciutric III.D71"
 	RotationPeriod  5331.5
 	Obliquity       -59.5594
 	EqAscendNode    -121.281
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -8869,7 +8869,7 @@ DwarfMoon	"Ciutric III.D72"
 
 	Obliquity       -48.6452
 	EqAscendNode    58.2334
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -8978,7 +8978,7 @@ DwarfMoon	"Ciutric III.D73"
 	RotationPeriod  3275.38
 	Obliquity       2.82438
 	EqAscendNode    39.7025
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9086,7 +9086,7 @@ DwarfMoon	"Ciutric III.D74"
 	RotationPeriod  6622.36
 	Obliquity       71.1244
 	EqAscendNode    -45.7108
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9193,7 +9193,7 @@ DwarfMoon	"Ciutric III.D75"
 
 	Obliquity       -36.6963
 	EqAscendNode    148.239
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -9302,7 +9302,7 @@ DwarfMoon	"Ciutric III.D76"
 	RotationPeriod  9050.26
 	Obliquity       -70.1665
 	EqAscendNode    31.1445
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9410,7 +9410,7 @@ DwarfMoon	"Ciutric III.D77"
 	RotationPeriod  11391.1
 	Obliquity       2.98525
 	EqAscendNode    -10.4428
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -9517,7 +9517,7 @@ DwarfMoon	"Ciutric III.D78"
 
 	Obliquity       15.4094
 	EqAscendNode    -126.365
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -9628,7 +9628,7 @@ Planet	"Ciutric I"
 	RotationPeriod  11.3061
 	Obliquity       -32.1958
 	EqAscendNode    -152.478
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.490863
 	AlbedoGeom      0.589036
@@ -9790,7 +9790,7 @@ DwarfMoon	"Ciutric I.D1"
 
 	Obliquity       -0.00978719
 	EqAscendNode    -134.591
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -9900,7 +9900,7 @@ DwarfMoon	"Ciutric I.D2"
 
 	Obliquity       0.00846252
 	EqAscendNode    -159.655
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10010,7 +10010,7 @@ DwarfMoon	"Ciutric I.D3"
 
 	Obliquity       -0.000543956
 	EqAscendNode    169.783
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10120,7 +10120,7 @@ DwarfMoon	"Ciutric I.D4"
 
 	Obliquity       -0.0126589
 	EqAscendNode    -34.4151
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10230,7 +10230,7 @@ DwarfMoon	"Ciutric I.D5"
 
 	Obliquity       0.00899712
 	EqAscendNode    82.9342
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10340,7 +10340,7 @@ DwarfMoon	"Ciutric I.D6"
 
 	Obliquity       -0.0132535
 	EqAscendNode    53.0318
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10450,7 +10450,7 @@ DwarfMoon	"Ciutric I.D7"
 
 	Obliquity       -0.46114
 	EqAscendNode    -19.6947
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10560,7 +10560,7 @@ DwarfMoon	"Ciutric I.D8"
 
 	Obliquity       -0.537439
 	EqAscendNode    11.1586
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10670,7 +10670,7 @@ Moon	"Ciutric I.1"
 
 	Obliquity       1.14445
 	EqAscendNode    -39.3129
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -10800,7 +10800,7 @@ DwarfMoon	"Ciutric I.D9"
 
 	Obliquity       -0.0787087
 	EqAscendNode    -38.5897
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -10908,7 +10908,7 @@ DwarfMoon	"Ciutric I.D10"
 
 	Obliquity       -1.02655
 	EqAscendNode    -157.398
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -11016,7 +11016,7 @@ DwarfMoon	"Ciutric I.D11"
 
 	Obliquity       -29.4933
 	EqAscendNode    -127.525
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -11124,7 +11124,7 @@ DwarfMoon	"Ciutric I.D12"
 
 	Obliquity       54.795
 	EqAscendNode    15.2208
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -11233,7 +11233,7 @@ DwarfMoon	"Ciutric I.D13"
 	RotationPeriod  2885.84
 	Obliquity       65.9556
 	EqAscendNode    -172.815
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11341,7 +11341,7 @@ DwarfMoon	"Ciutric I.D14"
 	RotationPeriod  4743.09
 	Obliquity       -51.8401
 	EqAscendNode    -17.3505
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11449,7 +11449,7 @@ DwarfMoon	"Ciutric I.D15"
 	RotationPeriod  6711.22
 	Obliquity       78.6825
 	EqAscendNode    -108.07
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11556,7 +11556,7 @@ DwarfMoon	"Ciutric I.D16"
 
 	Obliquity       -30.9874
 	EqAscendNode    -95.6293
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -11665,7 +11665,7 @@ DwarfMoon	"Ciutric I.D17"
 	RotationPeriod  11434.2
 	Obliquity       82.2318
 	EqAscendNode    40.0445
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -11772,7 +11772,7 @@ DwarfMoon	"Ciutric I.D18"
 
 	Obliquity       -83.1561
 	EqAscendNode    -17.2595
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -11883,7 +11883,7 @@ Planet	"Ciutric V"
 	RotationPeriod  10.9929
 	Obliquity       -193.652
 	EqAscendNode    185.07
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.485919
 	AlbedoGeom      0.583103
@@ -12032,7 +12032,7 @@ DwarfMoon	"Ciutric V.D1"
 
 	Obliquity       0.013642
 	EqAscendNode    26.9907
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -12142,7 +12142,7 @@ DwarfMoon	"Ciutric V.D2"
 
 	Obliquity       0.00186393
 	EqAscendNode    2.69948
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -12252,7 +12252,7 @@ DwarfMoon	"Ciutric V.D3"
 
 	Obliquity       -0.0105549
 	EqAscendNode    -155.116
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -12362,7 +12362,7 @@ DwarfMoon	"Ciutric V.D4"
 
 	Obliquity       2.7981e-005
 	EqAscendNode    -109.024
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -12472,7 +12472,7 @@ DwarfMoon	"Ciutric V.D5"
 
 	Obliquity       -0.00627674
 	EqAscendNode    45.4734
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -12582,7 +12582,7 @@ DwarfMoon	"Ciutric V.D6"
 
 	Obliquity       -0.00540546
 	EqAscendNode    68.4453
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -12692,7 +12692,7 @@ Moon	"Ciutric V.1"
 
 	Obliquity       -0.922112
 	EqAscendNode    35.7552
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -12824,7 +12824,7 @@ Moon	"Ciutric V.2"
 
 	Obliquity       -0.30529
 	EqAscendNode    -157.399
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -12957,7 +12957,7 @@ Planet	"Ciutric VI"
 	RotationPeriod  35.4449
 	Obliquity       -53.8706
 	EqAscendNode    129.376
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -13092,7 +13092,7 @@ Planet	"Ciutric VII"
 	RotationPeriod  10.989
 	Obliquity       -64.7074
 	EqAscendNode    87.7175
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.490292
 	AlbedoGeom      0.58835
@@ -13249,7 +13249,7 @@ DwarfMoon	"Ciutric VII.D1"
 
 	Obliquity       0.0143449
 	EqAscendNode    41.6668
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13359,7 +13359,7 @@ DwarfMoon	"Ciutric VII.D2"
 
 	Obliquity       0.00065608
 	EqAscendNode    -135.336
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13469,7 +13469,7 @@ DwarfMoon	"Ciutric VII.D3"
 
 	Obliquity       -0.0149723
 	EqAscendNode    -71.9932
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13579,7 +13579,7 @@ DwarfMoon	"Ciutric VII.D4"
 
 	Obliquity       0.0128201
 	EqAscendNode    -86.0481
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13689,7 +13689,7 @@ DwarfMoon	"Ciutric VII.D5"
 
 	Obliquity       0.0140116
 	EqAscendNode    -163.884
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -13799,7 +13799,7 @@ Moon	"Ciutric VII.1"
 
 	Obliquity       -1.33236
 	EqAscendNode    -40.5032
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -13931,7 +13931,7 @@ Moon	"Ciutric VII.2"
 
 	Obliquity       -1.11859
 	EqAscendNode    154.618
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -14064,7 +14064,7 @@ Moon	"Ciutric VII.3"
 
 	Obliquity       1.176
 	EqAscendNode    -38.3651
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -14197,7 +14197,7 @@ Moon	"Ciutric VII.4"
 
 	Obliquity       0.0442073
 	EqAscendNode    67.2389
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -14350,7 +14350,7 @@ Moon	"Ciutric VII.5"
 
 	Obliquity       0.967633
 	EqAscendNode    -33.0753
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -14483,7 +14483,7 @@ Moon	"Ciutric VII.6"
 
 	Obliquity       -1.40588
 	EqAscendNode    -142.372
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -14617,7 +14617,7 @@ DwarfMoon	"Ciutric VII.D6"
 	RotationPeriod  563.929
 	Obliquity       -22.4556
 	EqAscendNode    63.6748
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14725,7 +14725,7 @@ DwarfMoon	"Ciutric VII.D7"
 	RotationPeriod  513.614
 	Obliquity       -110.792
 	EqAscendNode    145.585
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14833,7 +14833,7 @@ DwarfMoon	"Ciutric VII.D8"
 	RotationPeriod  468.547
 	Obliquity       27.0595
 	EqAscendNode    127.281
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -14941,7 +14941,7 @@ DwarfMoon	"Ciutric VII.D9"
 	RotationPeriod  419.622
 	Obliquity       -74.7228
 	EqAscendNode    139.129
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15049,7 +15049,7 @@ DwarfMoon	"Ciutric VII.D10"
 	RotationPeriod  465.29
 	Obliquity       -67.0392
 	EqAscendNode    -52.0319
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15157,7 +15157,7 @@ DwarfMoon	"Ciutric VII.D11"
 	RotationPeriod  418.96
 	Obliquity       -20.2609
 	EqAscendNode    88.6885
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15265,7 +15265,7 @@ DwarfMoon	"Ciutric VII.D12"
 	RotationPeriod  382.266
 	Obliquity       -39.6322
 	EqAscendNode    -4.10422
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15373,7 +15373,7 @@ DwarfMoon	"Ciutric VII.D13"
 	RotationPeriod  343.172
 	Obliquity       68.6448
 	EqAscendNode    -122.175
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15481,7 +15481,7 @@ DwarfMoon	"Ciutric VII.D14"
 	RotationPeriod  375.032
 	Obliquity       65.2621
 	EqAscendNode    19.0555
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15589,7 +15589,7 @@ DwarfMoon	"Ciutric VII.D15"
 	RotationPeriod  335.021
 	Obliquity       -39.2001
 	EqAscendNode    133.036
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15697,7 +15697,7 @@ DwarfMoon	"Ciutric VII.D16"
 	RotationPeriod  302.427
 	Obliquity       -106.2
 	EqAscendNode    -172.415
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -15805,7 +15805,7 @@ Moon	"Ciutric VII.7"
 	RotationPeriod  268.711
 	Obliquity       -40.0918
 	EqAscendNode    95.5896
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -15938,7 +15938,7 @@ Moon	"Ciutric VII.8"
 	RotationPeriod  291.456
 	Obliquity       44.6522
 	EqAscendNode    -34.3505
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -16071,7 +16071,7 @@ DwarfMoon	"Ciutric VII.D17"
 	RotationPeriod  1872.38
 	Obliquity       -80.783
 	EqAscendNode    123.514
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16179,7 +16179,7 @@ DwarfMoon	"Ciutric VII.D18"
 	RotationPeriod  1654.9
 	Obliquity       39.0188
 	EqAscendNode    0.512735
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16287,7 +16287,7 @@ DwarfMoon	"Ciutric VII.D19"
 	RotationPeriod  1472.56
 	Obliquity       -82.623
 	EqAscendNode    -14.7436
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16395,7 +16395,7 @@ DwarfMoon	"Ciutric VII.D20"
 	RotationPeriod  1573
 	Obliquity       -0.539583
 	EqAscendNode    -21.2382
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16503,7 +16503,7 @@ DwarfMoon	"Ciutric VII.D21"
 	RotationPeriod  1383.92
 	Obliquity       -53.7863
 	EqAscendNode    -98.0591
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16611,7 +16611,7 @@ DwarfMoon	"Ciutric VII.D22"
 	RotationPeriod  1254.02
 	Obliquity       -6.23826
 	EqAscendNode    44.2935
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16719,7 +16719,7 @@ DwarfMoon	"Ciutric VII.D23"
 	RotationPeriod  1132.33
 	Obliquity       -33.9891
 	EqAscendNode    -137.078
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16827,7 +16827,7 @@ DwarfMoon	"Ciutric VII.D24"
 	RotationPeriod  1250.35
 	Obliquity       102.972
 	EqAscendNode    136.375
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -16935,7 +16935,7 @@ DwarfMoon	"Ciutric VII.D25"
 	RotationPeriod  1101.03
 	Obliquity       15.5013
 	EqAscendNode    19.5144
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17043,7 +17043,7 @@ DwarfMoon	"Ciutric VII.D26"
 	RotationPeriod  1000.93
 	Obliquity       -95.5423
 	EqAscendNode    3.41952
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17151,7 +17151,7 @@ DwarfMoon	"Ciutric VII.D27"
 	RotationPeriod  916.624
 	Obliquity       49.274
 	EqAscendNode    0.970241
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17259,7 +17259,7 @@ DwarfMoon	"Ciutric VII.D28"
 	RotationPeriod  1046.69
 	Obliquity       -12.852
 	EqAscendNode    -59.2738
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17367,7 +17367,7 @@ DwarfMoon	"Ciutric VII.D29"
 	RotationPeriod  899.636
 	Obliquity       64.6376
 	EqAscendNode    -8.32035
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17475,7 +17475,7 @@ DwarfMoon	"Ciutric VII.D30"
 	RotationPeriod  823.426
 	Obliquity       -20.3999
 	EqAscendNode    116.117
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17583,7 +17583,7 @@ DwarfMoon	"Ciutric VII.D31"
 	RotationPeriod  756.306
 	Obliquity       -6.76409
 	EqAscendNode    45.678
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17691,7 +17691,7 @@ DwarfMoon	"Ciutric VII.D32"
 	RotationPeriod  652.174
 	Obliquity       51.7786
 	EqAscendNode    181.881
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17799,7 +17799,7 @@ DwarfMoon	"Ciutric VII.D33"
 	RotationPeriod  748.896
 	Obliquity       42.4503
 	EqAscendNode    39.3599
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -17907,7 +17907,7 @@ DwarfMoon	"Ciutric VII.D34"
 	RotationPeriod  684.17
 	Obliquity       60.8395
 	EqAscendNode    72.1653
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18015,7 +18015,7 @@ DwarfMoon	"Ciutric VII.D35"
 	RotationPeriod  626.841
 	Obliquity       13.9227
 	EqAscendNode    -133.151
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18123,7 +18123,7 @@ DwarfMoon	"Ciutric VII.D36"
 	RotationPeriod  563.151
 	Obliquity       -41.6845
 	EqAscendNode    17.3894
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18231,7 +18231,7 @@ DwarfMoon	"Ciutric VII.D37"
 	RotationPeriod  625.718
 	Obliquity       -16.5485
 	EqAscendNode    9.5912
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18339,7 +18339,7 @@ DwarfMoon	"Ciutric VII.D38"
 	RotationPeriod  567.396
 	Obliquity       -55.7651
 	EqAscendNode    154.128
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18447,7 +18447,7 @@ DwarfMoon	"Ciutric VII.D39"
 	RotationPeriod  521.18
 	Obliquity       67.2006
 	EqAscendNode    -166.087
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18555,7 +18555,7 @@ DwarfMoon	"Ciutric VII.D40"
 	RotationPeriod  471.627
 	Obliquity       61.4534
 	EqAscendNode    -110.775
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18663,7 +18663,7 @@ DwarfMoon	"Ciutric VII.D41"
 	RotationPeriod  519.257
 	Obliquity       -13.9244
 	EqAscendNode    133.259
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18771,7 +18771,7 @@ DwarfMoon	"Ciutric VII.D42"
 	RotationPeriod  469.152
 	Obliquity       -39.8651
 	EqAscendNode    44.1098
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18879,7 +18879,7 @@ DwarfMoon	"Ciutric VII.D43"
 	RotationPeriod  426.974
 	Obliquity       52.3503
 	EqAscendNode    -98.2552
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -18987,7 +18987,7 @@ DwarfMoon	"Ciutric VII.D44"
 	RotationPeriod  387.319
 	Obliquity       -20.706
 	EqAscendNode    36.0822
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -19095,7 +19095,7 @@ DwarfMoon	"Ciutric VII.D45"
 	RotationPeriod  426.806
 	Obliquity       -23.4904
 	EqAscendNode    -48.5895
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -19203,7 +19203,7 @@ DwarfMoon	"Ciutric VII.D46"
 	RotationPeriod  379.309
 	Obliquity       -70.3637
 	EqAscendNode    31.9197
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -19311,7 +19311,7 @@ DwarfMoon	"Ciutric VII.D47"
 	RotationPeriod  344.629
 	Obliquity       93.3913
 	EqAscendNode    40.1605
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -19419,7 +19419,7 @@ DwarfMoon	"Ciutric VII.D48"
 	RotationPeriod  310.532
 	Obliquity       -0.619455
 	EqAscendNode    -139.311
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -19527,7 +19527,7 @@ Moon	"Ciutric VII.9"
 	RotationPeriod  339.836
 	Obliquity       -156.999
 	EqAscendNode    27.7739
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -19660,7 +19660,7 @@ Moon	"Ciutric VII.10"
 	RotationPeriod  297.505
 	Obliquity       -22.4606
 	EqAscendNode    184.72
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -19793,7 +19793,7 @@ Moon	"Ciutric VII.11"
 	RotationPeriod  265.953
 	Obliquity       42.7924
 	EqAscendNode    -140.314
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -19926,7 +19926,7 @@ DwarfMoon	"Ciutric VII.D49"
 	RotationPeriod  1766.63
 	Obliquity       51.5409
 	EqAscendNode    -51.5267
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20034,7 +20034,7 @@ DwarfMoon	"Ciutric VII.D50"
 	RotationPeriod  1871.78
 	Obliquity       -30.2483
 	EqAscendNode    -65.1641
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20142,7 +20142,7 @@ DwarfMoon	"Ciutric VII.D51"
 	RotationPeriod  1618.19
 	Obliquity       -119.446
 	EqAscendNode    45.0143
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20250,7 +20250,7 @@ DwarfMoon	"Ciutric VII.D52"
 	RotationPeriod  1447.59
 	Obliquity       -98.9537
 	EqAscendNode    71.6297
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20358,7 +20358,7 @@ DwarfMoon	"Ciutric VII.D53"
 	RotationPeriod  1306.02
 	Obliquity       100.527
 	EqAscendNode    58.75
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20466,7 +20466,7 @@ DwarfMoon	"Ciutric VII.D54"
 	RotationPeriod  1460.57
 	Obliquity       22.8119
 	EqAscendNode    -98.4933
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20574,7 +20574,7 @@ DwarfMoon	"Ciutric VII.D55"
 	RotationPeriod  1249.46
 	Obliquity       -45.3697
 	EqAscendNode    99.2321
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20682,7 +20682,7 @@ DwarfMoon	"Ciutric VII.D56"
 	RotationPeriod  1134.89
 	Obliquity       45.8499
 	EqAscendNode    -63.0588
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20790,7 +20790,7 @@ DwarfMoon	"Ciutric VII.D57"
 	RotationPeriod  1035.61
 	Obliquity       -72.6657
 	EqAscendNode    111.99
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -20898,7 +20898,7 @@ DwarfMoon	"Ciutric VII.D58"
 	RotationPeriod  879.803
 	Obliquity       15.4316
 	EqAscendNode    -158.059
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -21006,7 +21006,7 @@ DwarfMoon	"Ciutric VII.D59"
 	RotationPeriod  1012.76
 	Obliquity       -3.29543
 	EqAscendNode    -103.265
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -21114,7 +21114,7 @@ DwarfMoon	"Ciutric VII.D60"
 	RotationPeriod  918.31
 	Obliquity       53.5536
 	EqAscendNode    182.811
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -21222,7 +21222,7 @@ DwarfMoon	"Ciutric VII.D61"
 	RotationPeriod  843.825
 	Obliquity       -23.5534
 	EqAscendNode    -155.059
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
@@ -21332,7 +21332,7 @@ Planet	"Ciutric VIII"
 	RotationPeriod  21.7902
 	Obliquity       4.45585
 	EqAscendNode    -158.386
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -21521,7 +21521,7 @@ DwarfMoon	"Ciutric VIII.D1"
 
 	Obliquity       -0.00593923
 	EqAscendNode    94.3367
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -21631,7 +21631,7 @@ DwarfMoon	"Ciutric VIII.D2"
 
 	Obliquity       0.00329816
 	EqAscendNode    -130.422
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.2
@@ -21741,7 +21741,7 @@ Moon	"Ciutric VIII.1"
 
 	Obliquity       -0.492855
 	EqAscendNode    120.12
-	Precession      0
+	//Precession      0
 	TidalLocked     true
 
 	AlbedoBond      0.3
@@ -21874,7 +21874,7 @@ Planet	"Ciutric IX"
 	RotationPeriod  15.8969
 	Obliquity       33.6191
 	EqAscendNode    -64.1762
-	Precession      0
+	//Precession      0
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
@@ -22059,7 +22059,7 @@ Comet	"Ciutric 1"
 	RotationPeriod  23.7341
 	Obliquity       237.697
 	EqAscendNode    343.572
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.09595
 	SlopeParam      8.79779
@@ -22180,7 +22180,7 @@ Comet	"Ciutric 2"
 	RotationPeriod  21.4122
 	Obliquity       190.903
 	EqAscendNode    328.149
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.8872
 	SlopeParam      2.72874
@@ -22301,7 +22301,7 @@ Comet	"Ciutric 3"
 	RotationPeriod  18.9741
 	Obliquity       144.109
 	EqAscendNode    312.726
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.26432
 	SlopeParam      3.36054
@@ -22422,7 +22422,7 @@ Comet	"Ciutric 4"
 	RotationPeriod  16.3948
 	Obliquity       97.3145
 	EqAscendNode    297.304
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.6194
 	SlopeParam      3.93313
@@ -22543,7 +22543,7 @@ Comet	"Ciutric 5"
 	RotationPeriod  13.6422
 	Obliquity       50.5202
 	EqAscendNode    281.881
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.6226
 	SlopeParam      4.50017
@@ -22664,7 +22664,7 @@ Comet	"Ciutric 6"
 	RotationPeriod  10.6723
 	Obliquity       3.72592
 	EqAscendNode    266.459
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.05098
 	SlopeParam      5.11154
@@ -22785,7 +22785,7 @@ Comet	"Ciutric 7"
 	RotationPeriod  7.42395
 	Obliquity       316.932
 	EqAscendNode    251.036
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.05117
 	SlopeParam      5.85289
@@ -22906,7 +22906,7 @@ Comet	"Ciutric 8"
 	RotationPeriod  3.80645
 	Obliquity       270.137
 	EqAscendNode    235.613
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.3691
 	SlopeParam      7.02773
@@ -23027,7 +23027,7 @@ Comet	"Ciutric 9"
 	RotationPeriod  128.266
 	Obliquity       223.343
 	EqAscendNode    220.191
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.83491
 	SlopeParam      2.35715
@@ -23148,7 +23148,7 @@ Comet	"Ciutric 10"
 	RotationPeriod  114.215
 	Obliquity       176.549
 	EqAscendNode    204.768
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.32856
 	SlopeParam      3.05216
@@ -23269,7 +23269,7 @@ Comet	"Ciutric 11"
 	RotationPeriod  106.197
 	Obliquity       129.754
 	EqAscendNode    189.346
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.1248
 	SlopeParam      3.64651
@@ -23390,7 +23390,7 @@ Comet	"Ciutric 12"
 	RotationPeriod  100.329
 	Obliquity       82.9601
 	EqAscendNode    173.923
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.61538
 	SlopeParam      4.2106
@@ -23511,7 +23511,7 @@ Comet	"Ciutric 13"
 	RotationPeriod  95.5926
 	Obliquity       36.1658
 	EqAscendNode    158.501
-	Precession      0
+	//Precession      0
 
 	AbsMagn         0.28387
 	SlopeParam      4.79233
@@ -23632,7 +23632,7 @@ Comet	"Ciutric 14"
 	RotationPeriod  91.5618
 	Obliquity       349.372
 	EqAscendNode    143.078
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.8882
 	SlopeParam      5.45203
@@ -23753,7 +23753,7 @@ Comet	"Ciutric 15"
 	RotationPeriod  88.0137
 	Obliquity       302.577
 	EqAscendNode    127.655
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.39159
 	SlopeParam      6.33169
@@ -23874,7 +23874,7 @@ Comet	"Ciutric 16"
 	RotationPeriod  84.8168
 	Obliquity       255.783
 	EqAscendNode    112.233
-	Precession      0
+	//Precession      0
 
 	AbsMagn         19.8673
 	SlopeParam      8.67078
@@ -23995,7 +23995,7 @@ Comet	"Ciutric 17"
 	RotationPeriod  81.8868
 	Obliquity       208.989
 	EqAscendNode    96.8102
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.658
 	SlopeParam      2.71929
@@ -24116,7 +24116,7 @@ Comet	"Ciutric 18"
 	RotationPeriod  79.1656
 	Obliquity       162.194
 	EqAscendNode    81.3876
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.16265
 	SlopeParam      3.35241
@@ -24237,7 +24237,7 @@ Comet	"Ciutric 19"
 	RotationPeriod  76.6118
 	Obliquity       115.4
 	EqAscendNode    65.965
-	Precession      0
+	//Precession      0
 
 	AbsMagn         16.0327
 	SlopeParam      3.9254
@@ -24358,7 +24358,7 @@ Comet	"Ciutric 20"
 	RotationPeriod  74.1945
 	Obliquity       68.6058
 	EqAscendNode    50.5424
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.43317
 	SlopeParam      4.49222
@@ -24479,7 +24479,7 @@ Comet	"Ciutric 21"
 	RotationPeriod  71.8899
 	Obliquity       21.8115
 	EqAscendNode    35.1198
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.92753
 	SlopeParam      5.10255
@@ -24600,7 +24600,7 @@ Comet	"Ciutric 22"
 	RotationPeriod  69.6794
 	Obliquity       335.017
 	EqAscendNode    19.6972
-	Precession      0
+	//Precession      0
 
 	AbsMagn         14.8622
 	SlopeParam      5.84107
@@ -24721,7 +24721,7 @@ Comet	"Ciutric 23"
 	RotationPeriod  67.5477
 	Obliquity       288.223
 	EqAscendNode    4.27464
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.21278
 	SlopeParam      7.00368
@@ -24842,7 +24842,7 @@ Comet	"Ciutric 24"
 	RotationPeriod  65.4826
 	Obliquity       241.429
 	EqAscendNode    348.852
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.68501
 	SlopeParam      2.34631
@@ -24963,7 +24963,7 @@ Comet	"Ciutric 25"
 	RotationPeriod  63.4734
 	Obliquity       194.634
 	EqAscendNode    333.429
-	Precession      0
+	//Precession      0
 
 	AbsMagn         14.0904
 	SlopeParam      3.04352
@@ -25084,7 +25084,7 @@ Comet	"Ciutric 26"
 	RotationPeriod  61.5113
 	Obliquity       147.84
 	EqAscendNode    318.007
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.99601
 	SlopeParam      3.63867
@@ -25205,7 +25205,7 @@ Comet	"Ciutric 27"
 	RotationPeriod  59.5886
 	Obliquity       101.046
 	EqAscendNode    302.584
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.43366
 	SlopeParam      4.20285
@@ -25326,7 +25326,7 @@ Comet	"Ciutric 28"
 	RotationPeriod  57.6985
 	Obliquity       54.2514
 	EqAscendNode    287.162
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.4956
 	SlopeParam      4.78399
@@ -25447,7 +25447,7 @@ Comet	"Ciutric 29"
 	RotationPeriod  55.8347
 	Obliquity       7.45709
 	EqAscendNode    271.739
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.78214
 	SlopeParam      5.442
@@ -25568,7 +25568,7 @@ Comet	"Ciutric 30"
 	RotationPeriod  53.9916
 	Obliquity       320.663
 	EqAscendNode    256.316
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.17174
 	SlopeParam      6.31654
@@ -25689,7 +25689,7 @@ Comet	"Ciutric 31"
 	RotationPeriod  52.1642
 	Obliquity       273.868
 	EqAscendNode    240.894
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.0023
 	SlopeParam      8.56021
@@ -25810,7 +25810,7 @@ Comet	"Ciutric 32"
 	RotationPeriod  50.3474
 	Obliquity       227.074
 	EqAscendNode    225.471
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.57047
 	SlopeParam      2.7098
@@ -25931,7 +25931,7 @@ Comet	"Ciutric 33"
 	RotationPeriod  48.5366
 	Obliquity       180.28
 	EqAscendNode    210.049
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.89709
 	SlopeParam      3.34428
@@ -26052,7 +26052,7 @@ Comet	"Ciutric 34"
 	RotationPeriod  46.7272
 	Obliquity       133.486
 	EqAscendNode    194.626
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.5752
 	SlopeParam      3.91768
@@ -26173,7 +26173,7 @@ Comet	"Ciutric 35"
 	RotationPeriod  44.9145
 	Obliquity       86.6913
 	EqAscendNode    179.204
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.3604
 	SlopeParam      4.48427
@@ -26294,7 +26294,7 @@ Comet	"Ciutric 36"
 	RotationPeriod  43.094
 	Obliquity       39.897
 	EqAscendNode    163.781
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.60696
 	SlopeParam      5.09358
@@ -26415,7 +26415,7 @@ Comet	"Ciutric 37"
 	RotationPeriod  41.2608
 	Obliquity       353.103
 	EqAscendNode    148.358
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.1947
 	SlopeParam      5.82932
@@ -26536,7 +26536,7 @@ Comet	"Ciutric 38"
 	RotationPeriod  39.41
 	Obliquity       306.308
 	EqAscendNode    132.936
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.15131
 	SlopeParam      6.98005
@@ -26657,7 +26657,7 @@ Comet	"Ciutric 39"
 	RotationPeriod  37.5362
 	Obliquity       259.514
 	EqAscendNode    117.513
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.29777
 	SlopeParam      2.33542
@@ -26778,7 +26778,7 @@ Comet	"Ciutric 40"
 	RotationPeriod  35.6336
 	Obliquity       212.72
 	EqAscendNode    102.091
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.8489
 	SlopeParam      3.03486
@@ -26899,7 +26899,7 @@ Comet	"Ciutric 41"
 	RotationPeriod  33.6957
 	Obliquity       165.926
 	EqAscendNode    86.668
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.94264
 	SlopeParam      3.63083
@@ -27020,7 +27020,7 @@ Comet	"Ciutric 42"
 	RotationPeriod  31.7155
 	Obliquity       119.131
 	EqAscendNode    71.2454
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.9647
 	SlopeParam      4.19509
@@ -27141,7 +27141,7 @@ Comet	"Ciutric 43"
 	RotationPeriod  29.6847
 	Obliquity       72.3369
 	EqAscendNode    55.8228
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.5296
 	SlopeParam      4.77567
@@ -27262,7 +27262,7 @@ Comet	"Ciutric 44"
 	RotationPeriod  27.5938
 	Obliquity       25.5426
 	EqAscendNode    40.4002
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.73381
 	SlopeParam      5.43202
@@ -27383,7 +27383,7 @@ Comet	"Ciutric 45"
 	RotationPeriod  25.4317
 	Obliquity       338.748
 	EqAscendNode    24.9777
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.60101
 	SlopeParam      6.30151
@@ -27504,7 +27504,7 @@ Comet	"Ciutric 46"
 	RotationPeriod  23.1849
 	Obliquity       291.954
 	EqAscendNode    9.55507
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.2314
 	SlopeParam      8.46204
@@ -27625,7 +27625,7 @@ Comet	"Ciutric 47"
 	RotationPeriod  20.837
 	Obliquity       245.16
 	EqAscendNode    354.132
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.52425
 	SlopeParam      2.70028
@@ -27746,7 +27746,7 @@ Comet	"Ciutric 48"
 	RotationPeriod  18.3674
 	Obliquity       198.365
 	EqAscendNode    338.71
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.19677
 	SlopeParam      3.33613
@@ -27867,7 +27867,7 @@ Comet	"Ciutric 49"
 	RotationPeriod  15.7498
 	Obliquity       151.571
 	EqAscendNode    323.287
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.9502
 	SlopeParam      3.90996
@@ -27988,7 +27988,7 @@ Comet	"Ciutric 50"
 	RotationPeriod  12.9494
 	Obliquity       104.777
 	EqAscendNode    307.865
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.31338
 	SlopeParam      4.47632
@@ -28109,7 +28109,7 @@ Comet	"Ciutric 51"
 	RotationPeriod  9.91899
 	Obliquity       57.9825
 	EqAscendNode    292.442
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.73642
 	SlopeParam      5.08463
@@ -28230,7 +28230,7 @@ Comet	"Ciutric 52"
 	RotationPeriod  6.59151
 	Obliquity       11.1883
 	EqAscendNode    277.02
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.6828
 	SlopeParam      5.81763
@@ -28351,7 +28351,7 @@ Comet	"Ciutric 53"
 	RotationPeriod  2.86665
 	Obliquity       324.394
 	EqAscendNode    261.597
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.10058
 	SlopeParam      6.95684
@@ -28472,7 +28472,7 @@ Comet	"Ciutric 54"
 	RotationPeriod  123.726
 	Obliquity       277.6
 	EqAscendNode    246.174
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.19331
 	SlopeParam      2.32449
@@ -28593,7 +28593,7 @@ Comet	"Ciutric 55"
 	RotationPeriod  111.983
 	Obliquity       230.805
 	EqAscendNode    230.752
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.4269
 	SlopeParam      3.02618
@@ -28714,7 +28714,7 @@ Comet	"Ciutric 56"
 	RotationPeriod  104.644
 	Obliquity       184.011
 	EqAscendNode    215.329
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.8852
 	SlopeParam      3.62298
@@ -28835,7 +28835,7 @@ Comet	"Ciutric 57"
 	RotationPeriod  99.1069
 	Obliquity       137.217
 	EqAscendNode    199.907
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.51522
 	SlopeParam      4.18734
@@ -28956,7 +28956,7 @@ Comet	"Ciutric 58"
 	RotationPeriod  94.5688
 	Obliquity       90.4225
 	EqAscendNode    184.484
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.1806
 	SlopeParam      4.76735
@@ -29077,7 +29077,7 @@ Comet	"Ciutric 59"
 	RotationPeriod  90.67
 	Obliquity       43.6282
 	EqAscendNode    169.061
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.66654
 	SlopeParam      5.42206
@@ -29198,7 +29198,7 @@ Comet	"Ciutric 60"
 	RotationPeriod  87.2161
 	Obliquity       356.834
 	EqAscendNode    153.639
-	Precession      0
+	//Precession      0
 
 	AbsMagn         0.573347
 	SlopeParam      6.28661
@@ -29319,7 +29319,7 @@ Comet	"Ciutric 61"
 	RotationPeriod  84.09
 	Obliquity       310.04
 	EqAscendNode    138.216
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.94235
 	SlopeParam      8.37358
@@ -29440,7 +29440,7 @@ Comet	"Ciutric 62"
 	RotationPeriod  81.2147
 	Obliquity       263.245
 	EqAscendNode    122.794
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.44381
 	SlopeParam      2.69074
@@ -29561,7 +29561,7 @@ Comet	"Ciutric 63"
 	RotationPeriod  78.5371
 	Obliquity       216.451
 	EqAscendNode    107.371
-	Precession      0
+	//Precession      0
 
 	AbsMagn         -1.17935
 	SlopeParam      3.32797
@@ -29682,7 +29682,7 @@ Comet	"Ciutric 64"
 	RotationPeriod  76.0187
 	Obliquity       169.657
 	EqAscendNode    91.9484
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.71076
 	SlopeParam      3.90223
@@ -29803,7 +29803,7 @@ Comet	"Ciutric 65"
 	RotationPeriod  73.6305
 	Obliquity       122.862
 	EqAscendNode    76.5259
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.21615
 	SlopeParam      4.46839
@@ -29924,7 +29924,7 @@ Comet	"Ciutric 66"
 	RotationPeriod  71.3501
 	Obliquity       76.0681
 	EqAscendNode    61.1033
-	Precession      0
+	//Precession      0
 
 	AbsMagn         16.4337
 	SlopeParam      5.0757
@@ -30045,7 +30045,7 @@ Comet	"Ciutric 67"
 	RotationPeriod  69.1598
 	Obliquity       29.2738
 	EqAscendNode    45.6807
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.48478
 	SlopeParam      5.80599
@@ -30166,7 +30166,7 @@ Comet	"Ciutric 68"
 	RotationPeriod  67.0452
 	Obliquity       342.479
 	EqAscendNode    30.2581
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.98256
 	SlopeParam      6.93402
@@ -30287,7 +30287,7 @@ Comet	"Ciutric 69"
 	RotationPeriod  64.9944
 	Obliquity       295.685
 	EqAscendNode    14.8355
-	Precession      0
+	//Precession      0
 
 	AbsMagn         15.0828
 	SlopeParam      2.3135
@@ -30408,7 +30408,7 @@ Comet	"Ciutric 70"
 	RotationPeriod  62.9973
 	Obliquity       248.891
 	EqAscendNode    359.413
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.26344
 	SlopeParam      3.01748
@@ -30529,7 +30529,7 @@ Comet	"Ciutric 71"
 	RotationPeriod  61.0454
 	Obliquity       202.097
 	EqAscendNode    343.99
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.74187
 	SlopeParam      3.61512
@@ -30650,7 +30650,7 @@ Comet	"Ciutric 72"
 	RotationPeriod  59.1311
 	Obliquity       155.302
 	EqAscendNode    328.568
-	Precession      0
+	//Precession      0
 
 	AbsMagn         14.249
 	SlopeParam      4.17959
@@ -30771,7 +30771,7 @@ Comet	"Ciutric 73"
 	RotationPeriod  57.2478
 	Obliquity       108.508
 	EqAscendNode    313.145
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.0459
 	SlopeParam      4.75905
@@ -30892,7 +30892,7 @@ Comet	"Ciutric 74"
 	RotationPeriod  55.3895
 	Obliquity       61.7137
 	EqAscendNode    297.723
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.49271
 	SlopeParam      5.41214
@@ -31013,7 +31013,7 @@ Comet	"Ciutric 75"
 	RotationPeriod  53.5507
 	Obliquity       14.9194
 	EqAscendNode    282.3
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.6224
 	SlopeParam      6.27184
@@ -31134,7 +31134,7 @@ Comet	"Ciutric 76"
 	RotationPeriod  51.7263
 	Obliquity       328.125
 	EqAscendNode    266.877
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.83142
 	SlopeParam      8.29292
@@ -31255,7 +31255,7 @@ Comet	"Ciutric 77"
 	RotationPeriod  49.9114
 	Obliquity       281.331
 	EqAscendNode    251.455
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.23341
 	SlopeParam      2.68116
@@ -31376,7 +31376,7 @@ Comet	"Ciutric 78"
 	RotationPeriod  48.1013
 	Obliquity       234.537
 	EqAscendNode    236.032
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.1096
 	SlopeParam      3.3198
@@ -31497,7 +31497,7 @@ Comet	"Ciutric 79"
 	RotationPeriod  46.2915
 	Obliquity       187.742
 	EqAscendNode    220.61
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.6193
 	SlopeParam      3.89451
@@ -31618,7 +31618,7 @@ Comet	"Ciutric 80"
 	RotationPeriod  44.4774
 	Obliquity       140.948
 	EqAscendNode    205.187
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.96192
 	SlopeParam      4.46046
@@ -31739,7 +31739,7 @@ Comet	"Ciutric 81"
 	RotationPeriod  42.6543
 	Obliquity       94.1536
 	EqAscendNode    189.764
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.6693
 	SlopeParam      5.06679
@@ -31860,7 +31860,7 @@ Comet	"Ciutric 82"
 	RotationPeriod  40.8173
 	Obliquity       47.3593
 	EqAscendNode    174.342
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.40891
 	SlopeParam      5.79443
@@ -31981,7 +31981,7 @@ Comet	"Ciutric 83"
 	RotationPeriod  38.9614
 	Obliquity       0.56504
 	EqAscendNode    158.919
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.67565
 	SlopeParam      6.91157
@@ -32102,7 +32102,7 @@ Comet	"Ciutric 84"
 	RotationPeriod  37.0812
 	Obliquity       313.771
 	EqAscendNode    143.497
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.2793
 	SlopeParam      2.30247
@@ -32223,7 +32223,7 @@ Comet	"Ciutric 85"
 	RotationPeriod  35.1707
 	Obliquity       266.976
 	EqAscendNode    128.074
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.19965
 	SlopeParam      3.00877
@@ -32344,7 +32344,7 @@ Comet	"Ciutric 86"
 	RotationPeriod  33.2234
 	Obliquity       220.182
 	EqAscendNode    112.651
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.37125
 	SlopeParam      3.60725
@@ -32465,7 +32465,7 @@ Comet	"Ciutric 87"
 	RotationPeriod  31.2318
 	Obliquity       173.388
 	EqAscendNode    97.2289
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.9263
 	SlopeParam      4.17184
@@ -32586,7 +32586,7 @@ Comet	"Ciutric 88"
 	RotationPeriod  29.1875
 	Obliquity       126.594
 	EqAscendNode    81.8063
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.99093
 	SlopeParam      4.75077
@@ -32707,7 +32707,7 @@ Comet	"Ciutric 89"
 	RotationPeriod  27.0806
 	Obliquity       79.7993
 	EqAscendNode    66.3837
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.04423
 	SlopeParam      5.40226
@@ -32828,7 +32828,7 @@ Comet	"Ciutric 90"
 	RotationPeriod  24.8994
 	Obliquity       33.005
 	EqAscendNode    50.9611
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.6015
 	SlopeParam      6.25719
@@ -32949,7 +32949,7 @@ Comet	"Ciutric 91"
 	RotationPeriod  22.6299
 	Obliquity       346.211
 	EqAscendNode    35.5385
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.78219
 	SlopeParam      8.21869
@@ -33070,7 +33070,7 @@ Comet	"Ciutric 92"
 	RotationPeriod  20.2548
 	Obliquity       299.416
 	EqAscendNode    20.1159
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.68837
 	SlopeParam      2.67156
@@ -33191,7 +33191,7 @@ Comet	"Ciutric 93"
 	RotationPeriod  17.7522
 	Obliquity       252.622
 	EqAscendNode    4.69333
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.2988
 	SlopeParam      3.31162
@@ -33312,7 +33312,7 @@ Comet	"Ciutric 94"
 	RotationPeriod  15.0942
 	Obliquity       205.828
 	EqAscendNode    349.271
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.57285
 	SlopeParam      3.88678
@@ -33433,7 +33433,7 @@ Comet	"Ciutric 95"
 	RotationPeriod  12.2434
 	Obliquity       159.033
 	EqAscendNode    333.848
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.29463
 	SlopeParam      4.45254
@@ -33554,7 +33554,7 @@ Comet	"Ciutric 96"
 	RotationPeriod  9.14858
 	Obliquity       112.239
 	EqAscendNode    318.426
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.0139
 	SlopeParam      5.05791
@@ -33675,7 +33675,7 @@ Comet	"Ciutric 97"
 	RotationPeriod  5.73632
 	Obliquity       65.4449
 	EqAscendNode    303.003
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.36233
 	SlopeParam      5.78291
@@ -33794,7 +33794,7 @@ Comet	"Ciutric 98"
 	RotationPeriod  149.116
 	Obliquity       18.6506
 	EqAscendNode    287.58
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.8491
 	SlopeParam      6.88948
@@ -33915,7 +33915,7 @@ Comet	"Ciutric 99"
 	RotationPeriod  120.144
 	Obliquity       331.856
 	EqAscendNode    272.158
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.7436
 	SlopeParam      2.29138
@@ -34036,7 +34036,7 @@ Comet	"Ciutric 100"
 	RotationPeriod  109.973
 	Obliquity       285.062
 	EqAscendNode    256.735
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.15004
 	SlopeParam      3.00003
@@ -34157,7 +34157,7 @@ Comet	"Ciutric 101"
 	RotationPeriod  103.19
 	Obliquity       238.268
 	EqAscendNode    241.313
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.32847
 	SlopeParam      3.59939
@@ -34278,7 +34278,7 @@ Comet	"Ciutric 102"
 	RotationPeriod  97.9414
 	Obliquity       191.473
 	EqAscendNode    225.89
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.4853
 	SlopeParam      4.1641
@@ -34399,7 +34399,7 @@ Comet	"Ciutric 103"
 	RotationPeriod  93.5814
 	Obliquity       144.679
 	EqAscendNode    210.467
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.93531
 	SlopeParam      4.7425
@@ -34520,7 +34520,7 @@ Comet	"Ciutric 104"
 	RotationPeriod  89.8036
 	Obliquity       97.8848
 	EqAscendNode    195.045
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.68874
 	SlopeParam      5.39241
@@ -34641,7 +34641,7 @@ Comet	"Ciutric 105"
 	RotationPeriod  86.4374
 	Obliquity       51.0905
 	EqAscendNode    179.622
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.2369
 	SlopeParam      6.24266
@@ -34762,7 +34762,7 @@ Comet	"Ciutric 106"
 	RotationPeriod  83.3775
 	Obliquity       4.29621
 	EqAscendNode    164.2
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.71748
 	SlopeParam      8.14986
@@ -34883,7 +34883,7 @@ Comet	"Ciutric 107"
 	RotationPeriod  80.554
 	Obliquity       317.502
 	EqAscendNode    148.777
-	Precession      0
+	//Precession      0
 
 	AbsMagn         0.828462
 	SlopeParam      2.66192
@@ -35004,7 +35004,7 @@ Comet	"Ciutric 108"
 	RotationPeriod  77.9178
 	Obliquity       270.708
 	EqAscendNode    133.354
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.99687
 	SlopeParam      3.30342
@@ -35125,7 +35125,7 @@ Comet	"Ciutric 109"
 	RotationPeriod  75.4331
 	Obliquity       223.913
 	EqAscendNode    117.932
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.49577
 	SlopeParam      3.87905
@@ -35246,7 +35246,7 @@ Comet	"Ciutric 110"
 	RotationPeriod  73.0726
 	Obliquity       177.119
 	EqAscendNode    102.509
-	Precession      0
+	//Precession      0
 
 	AbsMagn         -0.609151
 	SlopeParam      4.44463
@@ -35367,7 +35367,7 @@ Comet	"Ciutric 111"
 	RotationPeriod  70.8154
 	Obliquity       130.325
 	EqAscendNode    87.0867
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.76383
 	SlopeParam      5.04904
@@ -35488,7 +35488,7 @@ Comet	"Ciutric 112"
 	RotationPeriod  68.6445
 	Obliquity       83.5304
 	EqAscendNode    71.6641
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.26933
 	SlopeParam      5.77146
@@ -35609,7 +35609,7 @@ Comet	"Ciutric 113"
 	RotationPeriod  66.5463
 	Obliquity       36.7361
 	EqAscendNode    56.2415
-	Precession      0
+	//Precession      0
 
 	AbsMagn         16.9434
 	SlopeParam      6.86774
@@ -35730,7 +35730,7 @@ Comet	"Ciutric 114"
 	RotationPeriod  64.5093
 	Obliquity       349.942
 	EqAscendNode    40.8189
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.53664
 	SlopeParam      2.28024
@@ -35851,7 +35851,7 @@ Comet	"Ciutric 115"
 	RotationPeriod  62.5238
 	Obliquity       303.148
 	EqAscendNode    25.3963
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.03721
 	SlopeParam      2.99128
@@ -35972,7 +35972,7 @@ Comet	"Ciutric 116"
 	RotationPeriod  60.5816
 	Obliquity       256.353
 	EqAscendNode    9.97376
-	Precession      0
+	//Precession      0
 
 	AbsMagn         15.3273
 	SlopeParam      3.59151
@@ -36093,7 +36093,7 @@ Comet	"Ciutric 117"
 	RotationPeriod  58.6753
 	Obliquity       209.559
 	EqAscendNode    354.551
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.3143
 	SlopeParam      4.15636
@@ -36214,7 +36214,7 @@ Comet	"Ciutric 118"
 	RotationPeriod  56.7986
 	Obliquity       162.765
 	EqAscendNode    339.129
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.79828
 	SlopeParam      4.73423
@@ -36335,7 +36335,7 @@ Comet	"Ciutric 119"
 	RotationPeriod  54.9455
 	Obliquity       115.97
 	EqAscendNode    323.706
-	Precession      0
+	//Precession      0
 
 	AbsMagn         14.4182
 	SlopeParam      5.3826
@@ -36456,7 +36456,7 @@ Comet	"Ciutric 120"
 	RotationPeriod  53.1106
 	Obliquity       69.176
 	EqAscendNode    308.283
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.09595
 	SlopeParam      6.22825
@@ -36577,7 +36577,7 @@ Comet	"Ciutric 121"
 	RotationPeriod  51.2889
 	Obliquity       22.3817
 	EqAscendNode    292.861
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.55121
 	SlopeParam      8.08562
@@ -36698,7 +36698,7 @@ Comet	"Ciutric 122"
 	RotationPeriod  49.4756
 	Obliquity       335.587
 	EqAscendNode    277.438
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.7551
 	SlopeParam      2.65226
@@ -36819,7 +36819,7 @@ Comet	"Ciutric 123"
 	RotationPeriod  47.666
 	Obliquity       288.793
 	EqAscendNode    262.016
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.88083
 	SlopeParam      3.29522
@@ -36940,7 +36940,7 @@ Comet	"Ciutric 124"
 	RotationPeriod  45.8556
 	Obliquity       241.999
 	EqAscendNode    246.593
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.29442
 	SlopeParam      3.87132
@@ -37061,7 +37061,7 @@ Comet	"Ciutric 125"
 	RotationPeriod  44.0397
 	Obliquity       195.205
 	EqAscendNode    231.17
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.2208
 	SlopeParam      4.43672
@@ -37182,7 +37182,7 @@ Comet	"Ciutric 126"
 	RotationPeriod  42.2137
 	Obliquity       148.41
 	EqAscendNode    215.748
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.66822
 	SlopeParam      5.0402
@@ -37303,7 +37303,7 @@ Comet	"Ciutric 127"
 	RotationPeriod  40.3727
 	Obliquity       101.616
 	EqAscendNode    200.325
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.02597
 	SlopeParam      5.76007
@@ -37424,7 +37424,7 @@ Comet	"Ciutric 128"
 	RotationPeriod  38.5115
 	Obliquity       54.8217
 	EqAscendNode    184.903
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.7661
 	SlopeParam      6.84634
@@ -37545,7 +37545,7 @@ Comet	"Ciutric 129"
 	RotationPeriod  36.6245
 	Obliquity       8.02737
 	EqAscendNode    169.48
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.45748
 	SlopeParam      2.26904
@@ -37666,7 +37666,7 @@ Comet	"Ciutric 130"
 	RotationPeriod  34.7058
 	Obliquity       321.233
 	EqAscendNode    154.057
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.74339
 	SlopeParam      2.98251
@@ -37787,7 +37787,7 @@ Comet	"Ciutric 131"
 	RotationPeriod  32.7485
 	Obliquity       274.439
 	EqAscendNode    138.635
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.3659
 	SlopeParam      3.58363
@@ -37908,7 +37908,7 @@ Comet	"Ciutric 132"
 	RotationPeriod  30.7451
 	Obliquity       227.644
 	EqAscendNode    123.212
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.24801
 	SlopeParam      4.14862
@@ -38029,7 +38029,7 @@ Comet	"Ciutric 133"
 	RotationPeriod  28.6866
 	Obliquity       180.85
 	EqAscendNode    107.79
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.44353
 	SlopeParam      4.72599
@@ -38150,7 +38150,7 @@ Comet	"Ciutric 134"
 	RotationPeriod  26.563
 	Obliquity       134.056
 	EqAscendNode    92.3671
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.0052
 	SlopeParam      5.37281
@@ -38271,7 +38271,7 @@ Comet	"Ciutric 135"
 	RotationPeriod  24.362
 	Obliquity       87.2616
 	EqAscendNode    76.9445
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.03922
 	SlopeParam      6.21396
@@ -38392,7 +38392,7 @@ Comet	"Ciutric 136"
 	RotationPeriod  22.0688
 	Obliquity       40.4673
 	EqAscendNode    61.522
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.12222
 	SlopeParam      8.02533
@@ -38513,7 +38513,7 @@ Comet	"Ciutric 137"
 	RotationPeriod  19.6652
 	Obliquity       353.673
 	EqAscendNode    46.0994
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.6745
 	SlopeParam      2.64256
@@ -38634,7 +38634,7 @@ Comet	"Ciutric 138"
 	RotationPeriod  17.1281
 	Obliquity       306.879
 	EqAscendNode    30.6768
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.83053
 	SlopeParam      3.287
@@ -38755,7 +38755,7 @@ Comet	"Ciutric 139"
 	RotationPeriod  14.4275
 	Obliquity       260.084
 	EqAscendNode    15.2542
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.77371
 	SlopeParam      3.86359
@@ -38876,7 +38876,7 @@ Comet	"Ciutric 140"
 	RotationPeriod  11.5233
 	Obliquity       213.29
 	EqAscendNode    359.832
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.3671
 	SlopeParam      4.42882
@@ -38997,7 +38997,7 @@ Comet	"Ciutric 141"
 	RotationPeriod  8.35995
 	Obliquity       166.496
 	EqAscendNode    344.409
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.62138
 	SlopeParam      5.03138
@@ -39118,7 +39118,7 @@ Comet	"Ciutric 142"
 	RotationPeriod  4.85659
 	Obliquity       119.702
 	EqAscendNode    328.986
-	Precession      0
+	//Precession      0
 
 	AbsMagn         3.38975
 	SlopeParam      5.74873
@@ -39239,7 +39239,7 @@ Comet	"Ciutric 143"
 	RotationPeriod  135.899
 	Obliquity       72.9072
 	EqAscendNode    313.564
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.0785
 	SlopeParam      6.82525
@@ -39360,7 +39360,7 @@ Comet	"Ciutric 144"
 	RotationPeriod  117.16
 	Obliquity       26.1129
 	EqAscendNode    298.141
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.41119
 	SlopeParam      2.2578
@@ -39481,7 +39481,7 @@ Comet	"Ciutric 145"
 	RotationPeriod  108.139
 	Obliquity       339.319
 	EqAscendNode    282.719
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.95783
 	SlopeParam      2.97372
@@ -39602,7 +39602,7 @@ Comet	"Ciutric 146"
 	RotationPeriod  101.82
 	Obliquity       292.524
 	EqAscendNode    267.296
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.805
 	SlopeParam      3.57574
@@ -39723,7 +39723,7 @@ Comet	"Ciutric 147"
 	RotationPeriod  96.8261
 	Obliquity       245.73
 	EqAscendNode    251.873
-	Precession      0
+	//Precession      0
 
 	AbsMagn         7.19936
 	SlopeParam      4.14088
@@ -39844,7 +39844,7 @@ Comet	"Ciutric 148"
 	RotationPeriod  92.6272
 	Obliquity       198.936
 	EqAscendNode    236.451
-	Precession      0
+	//Precession      0
 
 	AbsMagn         2.45744
 	SlopeParam      4.71775
@@ -39965,7 +39965,7 @@ Comet	"Ciutric 149"
 	RotationPeriod  88.9608
 	Obliquity       152.141
 	EqAscendNode    221.028
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.5441
 	SlopeParam      5.36306
@@ -40086,7 +40086,7 @@ Comet	"Ciutric 150"
 	RotationPeriod  85.6762
 	Obliquity       105.347
 	EqAscendNode    205.606
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.98526
 	SlopeParam      6.19977
@@ -40207,7 +40207,7 @@ Comet	"Ciutric 151"
 	RotationPeriod  82.6787
 	Obliquity       58.5528
 	EqAscendNode    190.183
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.85113
 	SlopeParam      7.9685
@@ -40328,7 +40328,7 @@ Comet	"Ciutric 152"
 	RotationPeriod  79.9041
 	Obliquity       11.7585
 	EqAscendNode    174.761
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.2936
 	SlopeParam      2.63283
@@ -40449,7 +40449,7 @@ Comet	"Ciutric 153"
 	RotationPeriod  77.3073
 	Obliquity       324.964
 	EqAscendNode    159.338
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.76821
 	SlopeParam      3.27878
@@ -40570,7 +40570,7 @@ Comet	"Ciutric 154"
 	RotationPeriod  74.8546
 	Obliquity       278.17
 	EqAscendNode    143.915
-	Precession      0
+	//Precession      0
 
 	AbsMagn         1.05735
 	SlopeParam      3.85585
@@ -40691,7 +40691,7 @@ Comet	"Ciutric 155"
 	RotationPeriod  72.5208
 	Obliquity       231.376
 	EqAscendNode    128.493
-	Precession      0
+	//Precession      0
 
 	AbsMagn         10.0518
 	SlopeParam      4.42093
@@ -40812,7 +40812,7 @@ Comet	"Ciutric 156"
 	RotationPeriod  70.2857
 	Obliquity       184.581
 	EqAscendNode    113.07
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.54747
 	SlopeParam      5.02257
@@ -40933,7 +40933,7 @@ Comet	"Ciutric 157"
 	RotationPeriod  68.1335
 	Obliquity       137.787
 	EqAscendNode    97.6476
-	Precession      0
+	//Precession      0
 
 	AbsMagn         -0.173839
 	SlopeParam      5.73745
@@ -41054,7 +41054,7 @@ Comet	"Ciutric 158"
 	RotationPeriod  66.0509
 	Obliquity       90.9928
 	EqAscendNode    82.225
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.81721
 	SlopeParam      6.80448
@@ -41175,7 +41175,7 @@ Comet	"Ciutric 159"
 	RotationPeriod  64.0271
 	Obliquity       44.1985
 	EqAscendNode    66.8024
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.32221
 	SlopeParam      2.24649
@@ -41296,7 +41296,7 @@ Comet	"Ciutric 160"
 	RotationPeriod  62.0528
 	Obliquity       357.404
 	EqAscendNode    51.3798
-	Precession      0
+	//Precession      0
 
 	AbsMagn         17.6606
 	SlopeParam      2.9649
@@ -41417,7 +41417,7 @@ Comet	"Ciutric 161"
 	RotationPeriod  60.1199
 	Obliquity       310.61
 	EqAscendNode    35.9572
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.58876
 	SlopeParam      3.56784
@@ -41538,7 +41538,7 @@ Comet	"Ciutric 162"
 	RotationPeriod  58.2213
 	Obliquity       263.816
 	EqAscendNode    20.5346
-	Precession      0
+	//Precession      0
 
 	AbsMagn         6.0915
 	SlopeParam      4.13315
@@ -41659,7 +41659,7 @@ Comet	"Ciutric 163"
 	RotationPeriod  56.3507
 	Obliquity       217.021
 	EqAscendNode    5.11202
-	Precession      0
+	//Precession      0
 
 	AbsMagn         15.6027
 	SlopeParam      4.70953
@@ -41780,7 +41780,7 @@ Comet	"Ciutric 164"
 	RotationPeriod  54.5025
 	Obliquity       170.227
 	EqAscendNode    349.689
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.36538
 	SlopeParam      5.35335
@@ -41901,7 +41901,7 @@ Comet	"Ciutric 165"
 	RotationPeriod  52.6712
 	Obliquity       123.433
 	EqAscendNode    334.267
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.85425
 	SlopeParam      6.1857
@@ -42022,7 +42022,7 @@ Comet	"Ciutric 166"
 	RotationPeriod  50.852
 	Obliquity       76.6384
 	EqAscendNode    318.844
-	Precession      0
+	//Precession      0
 
 	AbsMagn         14.5996
 	SlopeParam      7.9147
@@ -42143,7 +42143,7 @@ Comet	"Ciutric 167"
 	RotationPeriod  49.04
 	Obliquity       29.8441
 	EqAscendNode    303.422
-	Precession      0
+	//Precession      0
 
 	AbsMagn         9.14618
 	SlopeParam      2.62306
@@ -42264,7 +42264,7 @@ Comet	"Ciutric 168"
 	RotationPeriod  47.2306
 	Obliquity       343.05
 	EqAscendNode    287.999
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.6092
 	SlopeParam      3.27053
@@ -42385,7 +42385,7 @@ Comet	"Ciutric 169"
 	RotationPeriod  45.4193
 	Obliquity       296.255
 	EqAscendNode    272.576
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.8946
 	SlopeParam      3.84811
@@ -42506,7 +42506,7 @@ Comet	"Ciutric 170"
 	RotationPeriod  43.6014
 	Obliquity       249.461
 	EqAscendNode    257.154
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.93037
 	SlopeParam      4.41305
@@ -42627,7 +42627,7 @@ Comet	"Ciutric 171"
 	RotationPeriod  41.7723
 	Obliquity       202.667
 	EqAscendNode    241.731
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.35482
 	SlopeParam      5.01379
@@ -42748,7 +42748,7 @@ Comet	"Ciutric 172"
 	RotationPeriod  39.9269
 	Obliquity       155.873
 	EqAscendNode    226.309
-	Precession      0
+	//Precession      0
 
 	AbsMagn         13.3361
 	SlopeParam      5.72622
@@ -42869,7 +42869,7 @@ Comet	"Ciutric 173"
 	RotationPeriod  38.06
 	Obliquity       109.078
 	EqAscendNode    210.886
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.71724
 	SlopeParam      6.784
@@ -42990,7 +42990,7 @@ Comet	"Ciutric 174"
 	RotationPeriod  36.166
 	Obliquity       62.284
 	EqAscendNode    195.464
-	Precession      0
+	//Precession      0
 
 	AbsMagn         5.08926
 	SlopeParam      2.23513
@@ -43111,7 +43111,7 @@ Comet	"Ciutric 175"
 	RotationPeriod  34.2386
 	Obliquity       15.4897
 	EqAscendNode    180.041
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.8658
 	SlopeParam      2.95607
@@ -43232,7 +43232,7 @@ Comet	"Ciutric 176"
 	RotationPeriod  32.271
 	Obliquity       328.695
 	EqAscendNode    164.618
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.50612
 	SlopeParam      3.55994
@@ -43353,7 +43353,7 @@ Comet	"Ciutric 177"
 	RotationPeriod  30.2551
 	Obliquity       281.901
 	EqAscendNode    149.196
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.8102
 	SlopeParam      4.12542
@@ -43474,7 +43474,7 @@ Comet	"Ciutric 178"
 	RotationPeriod  28.182
 	Obliquity       235.107
 	EqAscendNode    133.773
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.4546
 	SlopeParam      4.70132
@@ -43595,7 +43595,7 @@ Comet	"Ciutric 179"
 	RotationPeriod  26.041
 	Obliquity       188.313
 	EqAscendNode    118.351
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.29641
 	SlopeParam      5.34366
@@ -43716,7 +43716,7 @@ Comet	"Ciutric 180"
 	RotationPeriod  23.8192
 	Obliquity       141.518
 	EqAscendNode    102.928
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.51467
 	SlopeParam      6.17173
@@ -43837,7 +43837,7 @@ Comet	"Ciutric 181"
 	RotationPeriod  21.5013
 	Obliquity       94.7239
 	EqAscendNode    87.5054
-	Precession      0
+	//Precession      0
 
 	AbsMagn         12.0858
 	SlopeParam      7.86359
@@ -43958,7 +43958,7 @@ Comet	"Ciutric 182"
 	RotationPeriod  19.0679
 	Obliquity       47.9296
 	EqAscendNode    72.0828
-	Precession      0
+	//Precession      0
 
 	AbsMagn         8.08751
 	SlopeParam      2.61327
@@ -44079,7 +44079,7 @@ Comet	"Ciutric 183"
 	RotationPeriod  16.4945
 	Obliquity       1.13532
 	EqAscendNode    56.6602
-	Precession      0
+	//Precession      0
 
 	AbsMagn         4.19877
 	SlopeParam      3.26228
@@ -44200,7 +44200,7 @@ Comet	"Ciutric 184"
 	RotationPeriod  13.7491
 	Obliquity       314.341
 	EqAscendNode    41.2376
-	Precession      0
+	//Precession      0
 
 	AbsMagn         11.7487
 	SlopeParam      3.84037
