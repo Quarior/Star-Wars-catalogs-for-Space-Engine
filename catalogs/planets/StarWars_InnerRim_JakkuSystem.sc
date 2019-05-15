@@ -32,75 +32,72 @@ Planet	"Jakku/Jakku System 4"
 
 	Surface
 	{
-		SurfStyle       0.100794
-		OceanStyle      0.820896
-		Randomize      (0.757, 0.418, 0.688)
-		colorDistMagn   0.0623747
-		colorDistFreq   356.396
-		detailScale     6110.39
+		SurfStyle       0.778019
+		OceanStyle      0.987403
+		Randomize      (0.569, 0.323, -0.221)
+		colorDistMagn   0.0798324
+		colorDistFreq   1167.12
+		detailScale     21527.9
 		colorConversion true
-		drivenDarkening -1
-		seaLevel        0.0616124
-		snowLevel       1
-		tropicLatitude  0.898736
-		icecapLatitude  0.997657
-		icecapHeight    0.0617232
-		climatePole     0.9375
-		climateTropic   0.3125
+		seaLevel        0.111761
+		snowLevel       2
+		tropicLatitude  0.872104
+		icecapLatitude  10
+		icecapHeight    0.121346
+		climatePole     0.5625
+		climateTropic   0.5625
 		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        1.38272
-		venusFreq       2
-		venusMagn       0
-		mareFreq        0.001
-		mareDensity     0.023773
-		terraceProb     0.260156
+		heightTempGrad  0.375
+		tropicWidth     0.5
+		mainFreq        0.41352
+		venusFreq       0.568862
+		venusMagn       0.273471
+		mareFreq        8.96431
+		mareDensity     0.007475
+		terraceProb     0.432813
 		erosion         0
-		montesMagn      0
-		montesFreq      19.8413
-		montesSpiky     0.00793651
-		montesFraction  0.0396825
-		dunesMagn       0.0793651
-		dunesFreq       100
-		dunesFraction   0.674603
-		hillsMagn       0.135883
-		hillsFreq       232.204
+		montesMagn      0.17889
+		montesFreq      456.02
+		montesSpiky     0.979319
+		montesFraction  0.290376
+		dunesMagn       0.0456787
+		dunesFreq       92.529
+		dunesFraction   0.908069
+		hillsMagn       0.116283
+		hillsFreq       744.159
 		hillsFraction   0
 		hills2Fraction  0
-		riversMagn      62.1819
-		riversFreq      3.28158
-		riversSin       8.29728
+		riversMagn      60.0852
+		riversFreq      1.73581
+		riversSin       5.4986
 		riversOctaves   0
-		canyonsMagn     0.0346008
-		canyonsFreq     54.9235
-		canyonFraction  0.047619
-		cracksMagn      0.396825
-		cracksFreq      0.714286
+		canyonsMagn     0.0416334
+		canyonsFreq     249.488
+		canyonFraction  0
+		cracksMagn      0.10968
+		cracksFreq      0.511078
 		cracksOctaves   0
-		craterMagn      0.238095
-		craterFreq      2.38095
-		craterDensity   0.380945
-		craterOctaves   6
-		craterRayedFactor 0
-		volcanoMagn     0.404762
-		volcanoFreq     0.031746
-		volcanoDensity  0.235015
+		craterMagn      0.631298
+		craterFreq      24.0996
+		craterDensity   0
+		craterOctaves   0
+		volcanoMagn     0.562167
+		volcanoFreq     0.757611
+		volcanoDensity  0.363334
 		volcanoOctaves  3
-		volcanoActivity 0.127168
-		volcanoFlows    0.69757
-		volcanoRadius   0.379475
-		volcanoTemp     1304.56
+		volcanoActivity 0.788454
+		volcanoFlows    0.751904
+		volcanoRadius   0.455909
+		volcanoTemp     1827.21
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		stripeZones     0
-		stripeFluct     0
+		stripeZones     1.65821
 		stripeTwist     0
-		cycloneMagn     0
-		cycloneFreq     0
-		cycloneDensity  0
-		cycloneOctaves  0
+		cycloneMagn     3.57589
+		cycloneFreq     0.537162
+		cycloneDensity  0.343269
+		cycloneOctaves  3
 		colorSea       (0.240, 0.230, 0.230, 0.000)
 		colorShelf     (0.380, 0.360, 0.350, 0.000)
 		colorBeach     (0.550, 0.520, 0.480, 0.000)
@@ -122,7 +119,7 @@ Planet	"Jakku/Jakku System 4"
 		DayAmbient      0.07
 	}
 
-	NoClouds        true
+	// NoClouds        true
 
 	NoOcean         true
 

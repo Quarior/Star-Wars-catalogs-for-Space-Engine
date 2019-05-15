@@ -24,6 +24,11 @@ Star	"Tion System A"
 	AlbedoGeom      0.36
 	Brightness      2
 	Color          (0.531 0.641 1.000)
+	
+	Surface 
+	{
+		GlowColor (0.000 1.000 1.000)
+	}
 
 	NoClouds        true
 
@@ -93,6 +98,11 @@ Star	"Tion System B"
 	AlbedoGeom      0.36
 	Brightness      2
 	Color          (0.764 0.801 1.000)
+
+	Surface 
+	{
+		GlowColor (0.000 1.000 1.000)
+	}
 
 	NoClouds        true
 
