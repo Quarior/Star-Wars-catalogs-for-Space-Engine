@@ -8,3 +8,5 @@ License :
 Free license for a no-commercial use.
 Installation :
 Place files (else CatalogsSW.pak) directly in addons folder or zip them and rename the output zip to pak or use directly CatalogsSW.pak and place it in addons folder.
+Backup : https://github.com/Quarior/Star-Wars-catalogs-for-Space-Engine-Backup
+Steam version : https://steamcommunity.com/sharedfiles/filedetails/?id=2003544886
