@@ -921,17 +921,14 @@ Moon	"Nar Shaddaa/Vertical City/Smugglers' Moon/Little Coruscant"
 	Surface
 	{
 	
-		DiffMap        "Nar Shaddaa/Diff"
-		DiffTileSize    130
-		DiffTileBorder  1  
-        BumpMap        "Nar Shaddaa/Bump" 
-		BumpTileSize    128
-		BumpTileBorder  1
+		DiffMap        "StarWars/NarShaddaa/Diff"
+		DiffTileSize    256
+        BumpMap        "StarWars/NarShaddaa/Bump" 
+		BumpTileSize    256
 		BumpHeight 15
 		BumpOffset 0
-		GlowMap        "Nar Shaddaa/Glow"
-		GlowTileSize 130
-		GlowTileBorder 1
+		GlowMap        "StarWars/NarShaddaa/Glow"
+		GlowTileSize 256
 		GlowMode       "Permanent" //"Night"
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0

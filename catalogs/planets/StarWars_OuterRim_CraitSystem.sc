@@ -35,14 +35,11 @@ Planet	"Crait/Crait System 5"
 
 	Surface
 	{
-		DiffMap        "Europa/Surface-JVV"
-		DiffTileSize    258
-		DiffTileBorder  1
-		BumpMap        "Europa/Bump-fake-SE"
-		BumpTileSize    258
-		BumpTileBorder  1
+		DiffMap        "Europa/Surface-BJ"
+		DiffTileSize    256
+		BumpMap        "Europa/Bump-BJ-SE"
+		BumpTileSize    256
 		GlowTileSize    256
-		GlowTileBorder  2
 		BumpHeight      2
 		BumpOffset      1
 		DiffMapAlpha   "Ice"

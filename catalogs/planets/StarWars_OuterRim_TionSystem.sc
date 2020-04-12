@@ -24,11 +24,6 @@ Star	"Tion System A"
 	AlbedoGeom      0.36
 	Brightness      2
 	Color          (0.531 0.641 1.000)
-	
-	Surface 
-	{
-		GlowColor (0.000 1.000 1.000)
-	}
 
 	NoClouds        true
 
@@ -98,11 +93,6 @@ Star	"Tion System B"
 	AlbedoGeom      0.36
 	Brightness      2
 	Color          (0.764 0.801 1.000)
-
-	Surface 
-	{
-		GlowColor (0.000 1.000 1.000)
-	}
 
 	NoClouds        true
 
@@ -376,19 +366,16 @@ Moon	"Tion's Moon 1/Tion System 4.1"
 
 	Surface
 	{
-		DiffMap        "Coruscant/Diff"
-		DiffTileSize    130
-		DiffTileBorder  1  
+		DiffMap        "StarWars/Coruscant/Diff"
+		DiffTileSize    256
 		DiffMapAlpha   "Water"
-		BumpMap        "Coruscant/Bump"
-		BumpTileSize    128
-		BumpTileBorder  1
+		BumpMap        "StarWars/Coruscant/Bump"
+		BumpTileSize    256
 		BumpHeight 10
 		BumpOffset 0
-		GlowMap        "Coruscant/Glow"
+		GlowMap        "StarWars/Coruscant/Glow"
 		GlowMode       "Permanent" //"Night"
-		GlowTileSize    130
-		GlowTileBorder  1  
+		GlowTileSize    256
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0
 		Exposure		1.7
@@ -474,19 +461,16 @@ Moon	"Tion's Moon 2/Tion System 4.2"
 
 	Surface
 	{
-		DiffMap        "Coruscant/Diff"
-		DiffTileSize    130
-		DiffTileBorder  1  
+		DiffMap        "StarWars/Coruscant/Diff"
+		DiffTileSize    256
 		DiffMapAlpha   "Water"
-		BumpMap        "Coruscant/Bump"
-		BumpTileSize    128
-		BumpTileBorder  1
+		BumpMap        "StarWars/Coruscant/Bump"
+		BumpTileSize    256
 		BumpHeight 10
 		BumpOffset 0
-		GlowMap        "Coruscant/Glow"
+		GlowMap        "StarWars/Coruscant/Glow"
 		GlowMode       "Permanent" //"Night"
-		GlowTileSize    130
-		GlowTileBorder  1  
+		GlowTileSize    256
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0
 		Exposure		1.7
@@ -570,19 +554,16 @@ Moon	"Tion's Moon 3/Tion System 4.3"
 
 	Surface
 	{
-		DiffMap        "Coruscant/Diff"
-		DiffTileSize    130
-		DiffTileBorder  1  
+		DiffMap        "StarWars/Coruscant/Diff"
+		DiffTileSize    256
 		DiffMapAlpha   "Water"
-		BumpMap        "Coruscant/Bump"
-		BumpTileSize    128
-		BumpTileBorder  1
+		BumpMap        "StarWars/Coruscant/Bump"
+		BumpTileSize    256
 		BumpHeight 10
 		BumpOffset 0
-		GlowMap        "Coruscant/Glow"
+		GlowMap        "StarWars/Coruscant/Glow"
 		GlowMode       "Permanent" //"Night"
-		GlowTileSize    130
-		GlowTileBorder  1  
+		GlowTileSize    256
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0
 		Exposure		1.7

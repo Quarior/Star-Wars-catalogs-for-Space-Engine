@@ -76,17 +76,15 @@ Planet	"Mustafar"
 	Surface
 	{
 		/* //No procedural
-		DiffMap        "Mustafar/Diff"
-		DiffTileSize    130
-		DiffTileBorder  1  
+		DiffMap        "StarWars/Mustafar/Diff"
+		DiffTileSize    256
 		DiffMapAlpha   "Water"
-		GlowMap        "Mustafar/Glow.*"
+		GlowMap        "StarWars/Mustafar/Glow"
 		GlowMode       "Permanent"
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0
 		Exposure		1.7
-		GlowTileSize    130
-		GlowTileBorder  1 
+		GlowTileSize    256
 		*/
 		
 		//Procedural

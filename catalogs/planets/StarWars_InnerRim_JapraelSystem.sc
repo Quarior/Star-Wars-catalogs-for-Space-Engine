@@ -936,14 +936,11 @@ Moon	"Suthre/Japrael System 2.4"
 
 	Surface
 	{
-		DiffMap        "Moon/Surface-JVV"
-		DiffTileSize    258
-		DiffTileBorder  1
-		BumpMap        "Moon/Bump-SE"
-		BumpTileSize    258
-		BumpTileBorder  1
+		DiffMap		 "Moon/Surface-KL"
+		DiffTileSize    256
+		BumpMap        "Moon/Bump-KL"
+		BumpTileSize    256
 		GlowTileSize    256
-		GlowTileBorder  2
 		BumpHeight      19.851
 		BumpOffset      9.058
 		SpecBrightWater 0

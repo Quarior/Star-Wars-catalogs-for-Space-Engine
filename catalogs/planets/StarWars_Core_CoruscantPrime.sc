@@ -178,19 +178,16 @@ Planet	"Coruscant"
 
 	Surface
 	{
-		DiffMap        "Coruscant/Diff"
-		DiffTileSize    130
-		DiffTileBorder  1  
+		DiffMap        "StarWars/Coruscant/Diff"
+		DiffTileSize    256
 		DiffMapAlpha   "Water"
-		BumpMap        "Coruscant/Bump"
-		BumpTileSize    128
-		BumpTileBorder  1
+		BumpMap        "StarWars/Coruscant/Bump"
+		BumpTileSize    256
 		BumpHeight 20
 		BumpOffset 0
-		GlowMap        "Coruscant/Glow"
+		GlowMap        "StarWars/Coruscant/Glow"
 		GlowMode       "Permanent" //"Night"
-		GlowTileSize    130
-		GlowTileBorder  1  
+		GlowTileSize    256
 		GlowColor      (1.00 0.90 0.66)
 		GlowBright      1.0
 		Exposure		1.7
