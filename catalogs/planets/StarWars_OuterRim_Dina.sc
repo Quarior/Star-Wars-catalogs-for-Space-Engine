@@ -3,7 +3,7 @@
 // Sector : Raioballo Sector
 // Grid location : L4
 // X : 14.7, Y : 8378.27, Z : 571.2186377739656
-Planet	"Doma"
+Planet	"Doma/Dina 1"
 {
 	ParentBody     "Dina"
 	Class          "Selena"
@@ -22,7 +22,7 @@ Planet	"Doma"
 	}
 }
 
-Planet	"Camillo"
+Planet	"Camillo/Dina 2"
 {
 	ParentBody     "Dina"
 	Class          "Desert"
@@ -41,9 +41,9 @@ Planet	"Camillo"
 	}
 }
 
-Moon	"Camillo 1"
+Moon	"Camillo 1/Dina 2.1"
 {
-	ParentBody     "Camillo"
+	ParentBody     "Dina 2"
 
     Radius         3113.56      // Radius in km  
 	Mass            0.5
@@ -59,9 +59,9 @@ Moon	"Camillo 1"
 	}
 }
 
-Moon	"Camillo 2"
+Moon	"Camillo 2/Dina 2.2"
 {
-	ParentBody     "Camillo"
+	ParentBody     "Dina 2"
 
     Radius         1113.56      // Radius in km  
 	Mass            0.5
@@ -77,9 +77,9 @@ Moon	"Camillo 2"
 	}
 }
 
-Moon	"Camillo 3"
+Moon	"Camillo 3/Dina 2.3"
 {
-	ParentBody     "Camillo"
+	ParentBody     "Dina 2"
 
     Radius         1743.56      // Radius in km  
 	Mass            0.2
@@ -95,7 +95,7 @@ Moon	"Camillo 3"
 	}
 }
 
-Planet	"Camooine"
+Planet	"Camooine/Dina 3"
 {
 	ParentBody     "Dina"
 	Class	       "Terra"
@@ -114,9 +114,9 @@ Planet	"Camooine"
 	}
 }
 
-Moon	"Camooine 1"
+Moon	"Camooine 1/Dina 3.1"
 {
-	ParentBody     "Camooine"
+	ParentBody     "Dina 3"
 
     Radius         2243.56      // Radius in km  
 	Mass            0.3
@@ -132,9 +132,9 @@ Moon	"Camooine 1"
 	}
 }
 
-Moon	"Camooine 2"
+Moon	"Camooine 2/Dina 3.2"
 {
-	ParentBody     "Camooine"
+	ParentBody     "Dina 3"
 
     Radius         4143.56      // Radius in km  
 	Mass            0.7
@@ -150,9 +150,9 @@ Moon	"Camooine 2"
 	}
 }
 
-Moon	"Camooine 3"
+Moon	"Camooine 3/Dina 3.3"
 {
-	ParentBody     "Camooine"
+	ParentBody     "Dina 3"
 
     Radius         3743.56      // Radius in km  
 	Mass            0.459
@@ -168,7 +168,7 @@ Moon	"Camooine 3"
 	}
 }
 
-Planet	"Dantooine"
+Planet	"Dantooine/Dina 4"
 {
 	ParentBody     "Dina"
 	Class	       "Terra"
@@ -326,9 +326,9 @@ Planet	"Dantooine"
 	}
 }
 
-Moon	"Dantooine 1"
+Moon	"Dantooine 1/Dina 4.1"
 {
-	ParentBody     "Dantooine"
+	ParentBody     "Dina 4"
 	Class	       "Selena"
 
     Radius         3243.56      // Radius in km  
@@ -345,9 +345,9 @@ Moon	"Dantooine 1"
 	}
 }
 
-Moon	"Dantooine 2"
+Moon	"Dantooine 2/Dina 4.2"
 {
-	ParentBody     "Dantooine"
+	ParentBody     "Dina 4"
 	Class	       "Selena"
 
     Radius         3013.56      // Radius in km  
@@ -364,7 +364,7 @@ Moon	"Dantooine 2"
 	}
 }
 
-Planet	"Bannakon"
+Planet	"Bannakon/Dina 5"
 {
 	ParentBody     "Dina"
 	Class          "GasGiant"
@@ -383,9 +383,9 @@ Planet	"Bannakon"
 	}
 }
 
-Moon	"Bannakon 1"
+Moon	"Bannakon 1/Dina 5.1"
 {
-	ParentBody     "Bannakon"
+	ParentBody     "Dina 5"
 
     Radius         7143.56      // Radius in km  
 	Mass            0.459
@@ -401,9 +401,9 @@ Moon	"Bannakon 1"
 	}
 }
 
-Moon	"Bannakon 2"
+Moon	"Bannakon 2/Dina 5.2"
 {
-	ParentBody     "Bannakon"
+	ParentBody     "Dina 5"
 
     Radius         2143.56      // Radius in km  
 	Mass            0.159
@@ -419,9 +419,9 @@ Moon	"Bannakon 2"
 	}
 }
 
-Moon	"Bannakon 3"
+Moon	"Bannakon 3/Dina 5.3"
 {
-	ParentBody     "Bannakon"
+	ParentBody     "Dina 5"
 
     Radius         5143.56      // Radius in km  
 	Mass            0.859
@@ -437,9 +437,9 @@ Moon	"Bannakon 3"
 	}
 }
 
-Moon	"Bannakon 4"
+Moon	"Bannakon 4/Dina 5.4"
 {
-	ParentBody     "Bannakon"
+	ParentBody     "Dina 5"
 
     Radius         1143.56      // Radius in km  
 	Mass            0.259
@@ -455,9 +455,9 @@ Moon	"Bannakon 4"
 	}
 }
 
-Moon	"Bannakon 5"
+Moon	"Bannakon 5/Dina 5.5"
 {
-	ParentBody     "Bannakon"
+	ParentBody     "Dina 5"
 
     Radius         7843.56      // Radius in km  
 	Mass            0.459
@@ -473,9 +473,9 @@ Moon	"Bannakon 5"
 	}
 }
 
-Moon	"Bannakon 6"
+Moon	"Bannakon 6/Dina 5.6"
 {
-	ParentBody     "Bannakon"
+	ParentBody     "Dina 5"
 
     Radius         6643.56      // Radius in km  
 	Mass            0.459
@@ -491,9 +491,9 @@ Moon	"Bannakon 6"
 	}
 }
 
-Moon	"Bannakon 7"
+Moon	"Bannakon 7/Dina 5.7"
 {
-	ParentBody     "Bannakon"
+	ParentBody     "Dina 5"
 
     Radius         6921.56      // Radius in km  
 	Mass            0.459
@@ -509,9 +509,9 @@ Moon	"Bannakon 7"
 	}
 }
 
-Moon	"Bannakon 8"
+Moon	"Bannakon 8/Dina 5.8"
 {
-	ParentBody     "Bannakon"
+	ParentBody     "Dina 5"
 
     Radius         7043.56      // Radius in km  
 	Mass            0.459
@@ -527,9 +527,9 @@ Moon	"Bannakon 8"
 	}
 }
 
-Moon	"Bannakon 9"
+Moon	"Bannakon 9/Dina 5.9"
 {
-	ParentBody     "Bannakon"
+	ParentBody     "Dina 5"
 
     Radius         7143.56      // Radius in km  
 	Mass            0.459
@@ -545,9 +545,9 @@ Moon	"Bannakon 9"
 	}
 }
 
-Moon	"Bannakon 10"
+Moon	"Bannakon 10/Dina 5.10"
 {
-	ParentBody     "Bannakon"
+	ParentBody     "Dina 5"
 
     Radius         7143.56      // Radius in km  
 	Mass            0.459
@@ -563,9 +563,9 @@ Moon	"Bannakon 10"
 	}
 }
 
-Moon	"Bannakon 11"
+Moon	"Bannakon 11/Dina 5.11"
 {
-	ParentBody     "Bannakon"
+	ParentBody     "Dina 5"
 
     Radius         7143.56      // Radius in km  
 	Mass            0.459
@@ -581,7 +581,7 @@ Moon	"Bannakon 11"
 	}
 }
 
-Planet	"Tamarena"
+Planet	"Tamarena/Dina 6"
 {
 	ParentBody     "Dina"
 	Class          "GasGiant"
@@ -600,9 +600,9 @@ Planet	"Tamarena"
 	}
 }
 
-Moon	"Tamarena 1"
+Moon	"Tamarena 1/Dina 6.1"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         7143.56      // Radius in km  
 	Mass            0.459
@@ -618,9 +618,9 @@ Moon	"Tamarena 1"
 	}
 }
 
-Moon	"Tamarena 2"
+Moon	"Tamarena 2/Dina 6.2"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         2143.56      // Radius in km  
 	Mass            0.159
@@ -636,9 +636,9 @@ Moon	"Tamarena 2"
 	}
 }
 
-Moon	"Tamarena 3"
+Moon	"Tamarena 3/Dina 6.3"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         5143.56      // Radius in km  
 	Mass            0.859
@@ -654,9 +654,9 @@ Moon	"Tamarena 3"
 	}
 }
 
-Moon	"Tamarena 4"
+Moon	"Tamarena 4/Dina 6.4"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         1143.56      // Radius in km  
 	Mass            0.259
@@ -672,9 +672,9 @@ Moon	"Tamarena 4"
 	}
 }
 
-Moon	"Tamarena 5"
+Moon	"Tamarena 5/Dina 6.5"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         7843.56      // Radius in km  
 	Mass            0.459
@@ -690,9 +690,9 @@ Moon	"Tamarena 5"
 	}
 }
 
-Moon	"Tamarena 6"
+Moon	"Tamarena 6/Dina 6.6"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         6643.56      // Radius in km  
 	Mass            0.459
@@ -708,9 +708,9 @@ Moon	"Tamarena 6"
 	}
 }
 
-Moon	"Tamarena 7"
+Moon	"Tamarena 7/Dina 6.7"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         6921.56      // Radius in km  
 	Mass            0.459
@@ -726,9 +726,9 @@ Moon	"Tamarena 7"
 	}
 }
 
-Moon	"Tamarena 8"
+Moon	"Tamarena 8/Dina 6.8"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         7043.56      // Radius in km  
 	Mass            0.459
@@ -744,9 +744,9 @@ Moon	"Tamarena 8"
 	}
 }
 
-Moon	"Tamarena 9"
+Moon	"Tamarena 9/Dina 6.9"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         7143.56      // Radius in km  
 	Mass            0.459
@@ -762,9 +762,9 @@ Moon	"Tamarena 9"
 	}
 }
 
-Moon	"Tamarena 10"
+Moon	"Tamarena 10/Dina 6.10"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         7143.56      // Radius in km  
 	Mass            0.459
@@ -780,9 +780,9 @@ Moon	"Tamarena 10"
 	}
 }
 
-Moon	"Tamarena 11"
+Moon	"Tamarena 11/Dina 6.11"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         7143.56      // Radius in km  
 	Mass            0.459
@@ -798,9 +798,9 @@ Moon	"Tamarena 11"
 	}
 }
 
-Moon	"Tamarena 12"
+Moon	"Tamarena 12/Dina 6.12"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         7143.56      // Radius in km  
 	Mass            0.459
@@ -816,9 +816,9 @@ Moon	"Tamarena 12"
 	}
 }
 
-Moon	"Tamarena 13"
+Moon	"Tamarena 13/Dina 6.13"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         2143.56      // Radius in km  
 	Mass            0.159
@@ -834,9 +834,9 @@ Moon	"Tamarena 13"
 	}
 }
 
-Moon	"Tamarena 14"
+Moon	"Tamarena 14/Dina 6.14"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         5143.56      // Radius in km  
 	Mass            0.859
@@ -852,9 +852,9 @@ Moon	"Tamarena 14"
 	}
 }
 
-Moon	"Tamarena 15"
+Moon	"Tamarena 15/Dina 6.15"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         1143.56      // Radius in km  
 	Mass            0.259
@@ -870,9 +870,9 @@ Moon	"Tamarena 15"
 	}
 }
 
-Moon	"Tamarena 16"
+Moon	"Tamarena 16/Dina 6.16"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         7843.56      // Radius in km  
 	Mass            0.459
@@ -888,9 +888,9 @@ Moon	"Tamarena 16"
 	}
 }
 
-Moon	"Tamarena 17"
+Moon	"Tamarena 17/Dina 6.17"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         6643.56      // Radius in km  
 	Mass            0.459
@@ -906,9 +906,9 @@ Moon	"Tamarena 17"
 	}
 }
 
-Moon	"Tamarena 18"
+Moon	"Tamarena 18/Dina 6.18"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         6921.56      // Radius in km  
 	Mass            0.459
@@ -924,9 +924,9 @@ Moon	"Tamarena 18"
 	}
 }
 
-Moon	"Tamarena 19"
+Moon	"Tamarena 19/Dina 6.19"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         7043.56      // Radius in km  
 	Mass            0.459
@@ -942,9 +942,9 @@ Moon	"Tamarena 19"
 	}
 }
 
-Moon	"Tamarena 20"
+Moon	"Tamarena 20/Dina 6.20"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         7143.56      // Radius in km  
 	Mass            0.459
@@ -960,9 +960,9 @@ Moon	"Tamarena 20"
 	}
 }
 
-Moon	"Tamarena 21"
+Moon	"Tamarena 21/Dina 6.21"
 {
-	ParentBody     "Tamarena"
+	ParentBody     "Dina 6"
 
     Radius         7143.56      // Radius in km  
 	Mass            0.459
@@ -978,7 +978,7 @@ Moon	"Tamarena 21"
 	}
 }
 	
-Planet	"Dulbris"
+Planet	"Dulbris/Dina 7"
 {
 	ParentBody     "Dina"
 	Class          "GasGiant"
@@ -997,10 +997,9 @@ Planet	"Dulbris"
 	}
 }
 
-Moon	"Dulbris 1"
+Moon	"Dulbris 1/Dina 7.1"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         7143.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1015,10 +1014,9 @@ Moon	"Dulbris 1"
 	}
 }
 
-Moon	"Dulbris 2"
+Moon	"Dulbris 2/Dina 7.2"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         2143.56      // Radius in km  
 	Mass            0.159
     RotationPeriod  42        // Rotation period in hours 
@@ -1033,10 +1031,9 @@ Moon	"Dulbris 2"
 	}
 }
 
-Moon	"Dulbris 3"
+Moon	"Dulbris 3/Dina 7.3"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         5143.56      // Radius in km  
 	Mass            0.859
     RotationPeriod  37        // Rotation period in hours 
@@ -1051,10 +1048,9 @@ Moon	"Dulbris 3"
 	}
 }
 
-Moon	"Dulbris 4"
+Moon	"Dulbris 4/Dina 7.4"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         1143.56      // Radius in km  
 	Mass            0.259
     RotationPeriod  52        // Rotation period in hours 
@@ -1069,10 +1065,9 @@ Moon	"Dulbris 4"
 	}
 }
 
-Moon	"Dulbris 5"
+Moon	"Dulbris 5/Dina 7.5"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         7843.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  30        // Rotation period in hours 
@@ -1087,10 +1082,9 @@ Moon	"Dulbris 5"
 	}
 }
 
-Moon	"Dulbris 6"
+Moon	"Dulbris 6/Dina 7.6"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         6643.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1105,10 +1099,9 @@ Moon	"Dulbris 6"
 	}
 }
 
-Moon	"Dulbris 7"
+Moon	"Dulbris 7/Dina 7.7"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         6921.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1123,10 +1116,9 @@ Moon	"Dulbris 7"
 	}
 }
 
-Moon	"Dulbris 8"
+Moon	"Dulbris 8/Dina 7.8"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         7043.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1141,10 +1133,9 @@ Moon	"Dulbris 8"
 	}
 }
 
-Moon	"Dulbris 9"
+Moon	"Dulbris 9/Dina 7.9"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         7143.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1159,10 +1150,9 @@ Moon	"Dulbris 9"
 	}
 }
 
-Moon	"Dulbris 10"
+Moon	"Dulbris 10/Dina 7.10"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         7143.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1177,10 +1167,9 @@ Moon	"Dulbris 10"
 	}
 }
 
-Moon	"Dulbris 11"
+Moon	"Dulbris 11/Dina 7.11"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         7143.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1195,10 +1184,9 @@ Moon	"Dulbris 11"
 	}
 }
 
-Moon	"Dulbris 12"
+Moon	"Dulbris 12/Dina 7.12"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         7143.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1213,10 +1201,9 @@ Moon	"Dulbris 12"
 	}
 }
 
-Moon	"Dulbris 13"
+Moon	"Dulbris 13/Dina 7.13"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         2143.56      // Radius in km  
 	Mass            0.159
     RotationPeriod  42        // Rotation period in hours 
@@ -1231,10 +1218,9 @@ Moon	"Dulbris 13"
 	}
 }
 
-Moon	"Dulbris 14"
+Moon	"Dulbris 14/Dina 7.14"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         5143.56      // Radius in km  
 	Mass            0.859
     RotationPeriod  37        // Rotation period in hours 
@@ -1249,10 +1235,9 @@ Moon	"Dulbris 14"
 	}
 }
 
-Moon	"Dulbris 15"
+Moon	"Dulbris 15/Dina 7.15"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         1143.56      // Radius in km  
 	Mass            0.259
     RotationPeriod  52        // Rotation period in hours 
@@ -1267,10 +1252,9 @@ Moon	"Dulbris 15"
 	}
 }
 
-Moon	"Dulbris 16"
+Moon	"Dulbris 16/Dina 7.16"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         7843.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  30        // Rotation period in hours 
@@ -1285,10 +1269,9 @@ Moon	"Dulbris 16"
 	}
 }
 
-Moon	"Dulbris 17"
+Moon	"Dulbris 17/Dina 7.17"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         6643.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1303,10 +1286,9 @@ Moon	"Dulbris 17"
 	}
 }
 
-Moon	"Dulbris 18"
+Moon	"Dulbris 18/Dina 7.18"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         6921.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1321,10 +1303,9 @@ Moon	"Dulbris 18"
 	}
 }
 
-Moon	"Dulbris 19"
+Moon	"Dulbris 19/Dina 7.19"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         7043.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1339,10 +1320,9 @@ Moon	"Dulbris 19"
 	}
 }
 
-Moon	"Dulbris 20"
+Moon	"Dulbris 20/Dina 7.20"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         7143.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1357,10 +1337,9 @@ Moon	"Dulbris 20"
 	}
 }
 
-Moon	"Dulbris 21"
+Moon	"Dulbris 21/Dina 7.21"
 {
-	ParentBody     "Dulbris"
-
+	ParentBody     "Dina 7"
     Radius         7143.56      // Radius in km  
 	Mass            0.459
     RotationPeriod  52        // Rotation period in hours 
@@ -1375,7 +1354,7 @@ Moon	"Dulbris 21"
 	}
 }
 
-Planet	"Purnell"
+Planet	"Purnell/Dina 8"
 {
 	ParentBody     "Dina"
 	Class          "IceGiant"
@@ -1394,9 +1373,9 @@ Planet	"Purnell"
 	}
 }
 
-Moon	"Purnell 2"
+Moon	"Purnell 2/Dina 8.2"
 {
-	ParentBody     "Purnell"
+	ParentBody     "Dina 8"
 
     Radius         7843.56      // Radius in km  
     RotationPeriod  30        // Rotation period in hours 
@@ -1411,9 +1390,9 @@ Moon	"Purnell 2"
 	}
 }
 
-Moon	"Purnell 3"
+Moon	"Purnell 3/Dina 8.3"
 {
-	ParentBody     "Purnell"
+	ParentBody     "Dina 8"
 
     Radius         6643.56      // Radius in km  
     RotationPeriod  52        // Rotation period in hours 
@@ -1428,9 +1407,9 @@ Moon	"Purnell 3"
 	}
 }
 
-Moon	"Purnell 4"
+Moon	"Purnell 4/Dina 8.4"
 {
-	ParentBody     "Purnell"
+	ParentBody     "Dina 8"
 
     Radius         6921.56      // Radius in km  
     RotationPeriod  52        // Rotation period in hours 
@@ -1445,9 +1424,9 @@ Moon	"Purnell 4"
 	}
 }
 
-Moon	"Purnell 5"
+Moon	"Purnell 5/Dina 8.5"
 {
-	ParentBody     "Purnell"
+	ParentBody     "Dina 8"
 
     Radius         7043.56      // Radius in km  
     RotationPeriod  52        // Rotation period in hours 
@@ -1462,9 +1441,9 @@ Moon	"Purnell 5"
 	}
 }
 
-Moon	"Purnell 6"
+Moon	"Purnell 6/Dina 8.6"
 {
-	ParentBody     "Purnell"
+	ParentBody     "Dina 8"
 
     Radius         7143.56      // Radius in km  
     RotationPeriod  52        // Rotation period in hours 
@@ -1479,9 +1458,9 @@ Moon	"Purnell 6"
 	}
 }
 
-Moon	"Purnell 1/Parakus"
+Moon	"Purnell 1/Parakus/Dina 8.1"
 {
-	ParentBody     "Purnell"
+	ParentBody     "Dina 8"
 	Class	       "IceWorld"
 
     Radius         5143.56      // Radius in km  
