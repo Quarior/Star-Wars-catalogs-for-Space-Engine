@@ -653,7 +653,7 @@ Star "Doornik-1142/Doornik-1142 System" // Star name / system name
     RA         0.08734702624972879
     Dec        24.585744336764428
     Dist       382999903.11463785
-    Class      "T9 I" // Brown dwarf star
+    Class      "T9 V" // Brown dwarf star
 }
 
 // http://starwars.wikia.com/wiki/Dorsis_system
@@ -961,7 +961,7 @@ Star "Hemei System" // system name
 // Sector : 
 // Grid location : M12
 // X : 2246.52, Y : -4160.25, Z : 567.2100924869244
-Star "Hosnian’s Sun (Hosnian Prime core : during hosnian cataclysm)/Hosnian System" // Star name / system name
+Star "Hosnian's Sun (Hosnian Prime core : during hosnian cataclysm)/Hosnian System" // Star name / system name
 {
     RA         0.08731059507306967
     Dec        24.58525198450837
