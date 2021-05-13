@@ -153,21 +153,25 @@ Cluster	"Galactic Center Cluster/Star Wars galaxy center cluster"
 
 // http://starwars.wikia.com/wiki/Starswarm_Cluster
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : L10
-// X : 146.34, Y : -599.47, Z : -361.9035783614696
+// Sector wiki : 
+// System wiki : 
+// Grid location : L-10
+// Known planet : Starswarm Cluster
+// X : 146.34, Y : 1531.8900000000003, Z : 2886.7461540052373
 Cluster "Starswarm Cluster"
 {
 	Galaxy   "Star Wars galaxy"
 	Type     "Open"	// within galaxy disk
-    RA         0.08733154052977352
-    Dec        24.585784667941773
-    Dist       383000361.90666986
+    RA         0.08733154051739403
+    Dec        24.585784668389632
+    Dist       382997113.2569375
 	Radius   40 // default
 	CenPow   10  // star concentration parameter
 	//Age      
 	NStars   2000  // default
-	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle "Dense Star cluster within galactic deep core (more than 20 white stars)"
 }
 
 //////////////////////////////////////

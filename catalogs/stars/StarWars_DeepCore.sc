@@ -4,9 +4,13 @@
 
 // http://starwars.wikia.com/wiki/Galactic_Center
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : K11
-// X : 0, Y : -2131.37, Z : 70.91719562934213
+// Sector wiki : 
+// System wiki : 
+// Grid location : K-11
+// Known planet : Galactic Center
+// X : 0, Y : 0, Z : 0
 Star "Galactic Center/Star Wars galaxy center"
 {
 	CenterOf "Star Wars galaxy"
@@ -22,29 +26,55 @@ Star "Galactic Center/Star Wars galaxy center"
 //           Deep Core              //
 //////////////////////////////////////
 
+// https://starwars.fandom.com/wiki/Adana
+// Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Adana_system
+// Grid location : L-10
+// Known planet : Adana
+// X : 637.5, Y : 1456.9500000000003, Z : -5635.631357827874
+Star "Adana system" // system name
+{
+    RA         0.08732664220679079
+    Dec        24.58577345263097
+    Dist       383005635.6346595
+    Class      "M8 IV" // random
+}
+
 // http://starwars.wikia.com/wiki/Besero
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : L10
-// X : 744.02, Y : -572.52, Z : 405.67516274989146
-Star "Besero System" // system name
+// Sector wiki : 
+// System wiki : 
+// Grid location : L-10
+// Known planet : Besero
+// X : 744.015, Y : 1558.8450000000003, Z : 7843.245146897867
+Star "Besero system" // system name
 {
-    RA         0.0873255797648344
-    Dec        24.58578870005352
-    Dist       382999594.3287323
+    RA         0.08732557967060289
+    Dec        24.58578870383418
+    Dist       382992156.7587482
     Class      "M9 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Byss
+// http://starwars.wikia.com/wiki/Byss, https://starwars.fandom.com/wiki/Abanol
+// https://starwars.fandom.com/wiki/Abanol
 // Region : Deep Core
-// Sector : 
-// Grid location : K11
-// X : -721.1, Y : -2731.02, Z : -274.4621174514146
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
+// Sector : Deep Core Security Zone
+// Sector wiki : https://starwars.fandom.com/wiki/Deep_Core_Security_Zone
+// System wiki : https://starwars.fandom.com/wiki/Beshqek_system
+// Grid location : K-11
+// Known planet : Abanol, Byss
+// X : -721.11, Y : -599.6549999999997, Z : -3062.623269841584
 Star "Beshqek/Beshqek System/Byss System" // Star name / system name
 {
-    RA         0.08734019163742372
-    Dec        24.585465794022028
-    Dist       383000274.46326566
+    RA         0.08734019168480127
+    Dec        24.58546579392708
+    Dist       383003062.62441814
     Class      "B9 V" // "G5 V"
     MassSol  0.96511
     RadSol   0.95172
@@ -54,300 +84,378 @@ Star "Beshqek/Beshqek System/Byss System" // Star name / system name
 
 // http://starwars.wikia.com/wiki/Cambria
 // Region : Deep Core
+// Region wiki : 
 // Sector : 
-// Grid location : L10
-// X : 1396.66, Y : -876.72, Z : -8.27624143057028
+// Sector wiki : https://starwars.fandom.com/wiki/Cambria_system
+// System wiki : 
+// Grid location : L-10
+// Known planet : 
+// X : 1396.651000005, Y : 1254.6450000000002, Z : 334.1387479136756
 Star "Cambria System" // system name
 {
-    RA         0.08731907089265706
-    Dec        24.585743192292984
-    Dist       383000008.28084296
+    RA         0.08731907096996239
+    Dec        24.5857431917128
+    Dist       382999665.8658536
     Class      "K6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Constancia
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : K12
-// X : -210.88, Y : -3632.69, Z : -29.81397903793402
+// Sector wiki : 
+// System wiki : 
+// Grid location : K-12
+// Known planet : Constancia
+// X : -210.885, Y : -1501.3199999999997, Z : 450.82149487019194
 Star "Constancia System" // system name
 {
-    RA         0.08733510313891091
-    Dec        24.58533090654569
-    Dist       383000029.8169796
-    Class      "G8 V" // random
+    RA         0.08733510319141602
+    Dec        24.58533090626384
+    Dist       382999549.1815057
+    Class      "G8 V" // TODO Yellow and orange star https://static.wikia.nocookie.net/starwars/images/5/58/Constancia_system.png/revision/latest?cb=20141129190651
 }
 
 // http://starwars.wikia.com/wiki/Crystan
+// https://starwars.fandom.com/wiki/Crystan_V
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : L12
-// X : 201.08, Y : -3703.28, Z : 494.78178888933553
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Crystan_system
+// Grid location : L-12
+// Known planet : Crystan V
+// X : 201.09, Y : -1571.9099999999994, Z : -7790.729106020577
 Star "Crystan System" // system name
 {
-    RA         0.08733099459526056
-    Dec        24.585320346148503
-    Dist       382999505.2214896
+    RA         0.08733099453891345
+    Dec        24.585320351235527
+    Dist       383007790.73238444
     Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Dremulae
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : M10
-// X : 1526.48, Y : -1102.89, Z : -287.4931127263838
+// Sector wiki : 
+// System wiki : 
+// Grid location : M-10
+// Known planet : Dremulae
+// X : 1526.475, Y : 1028.4750000000004, Z : -1986.776681520619
 Star "Dremulae System" // system name
 {
-    RA         0.08731777618871026
-    Dec        24.58570935775217
-    Dist       383000287.4975356
+    RA         0.08731777630612
+    Dec        24.58570935632156
+    Dist       383001986.7811043
     Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Dulvoyinn
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : K12
-// X : -51.61, Y : -3703.9, Z : -43.44514058241839
+// Sector wiki : 
+// System wiki : 
+// Grid location : K-12
+// Known planet : Dulvoyinn
+// X : -51.614999999999995, Y : -1572.5399999999995, Z : 355.1315551513403
 Star "Dulvoyinn System" // system name
 {
-    RA         0.08733351471450744
-    Dec        24.585320253728625
-    Dist       383000043.44837236
+    RA         0.0873335147649089
+    Dec        24.585320251987838
+    Dist       382999644.8716766
     Class      "M8 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Eclipse
+// https://starwars.fandom.com/wiki/Eclipse_(planet)
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : L11
-// X : 1488.68, Y : -2654.1, Z : 366.34889642957376
+// Sector wiki : 
+// System wiki : 
+// Grid location : L-11
+// Known planet : Eclipse (hidden in an asteroid field)
+// X : 1488.6750000000002, Y : -522.7349999999997, Z : -8370.61341080115
 Star "Eclipse System" // system name
 {
-    RA         0.08731815314836691
-    Dec        24.585477300909993
-    Dist       382999633.65435344
+    RA         0.08731815353690928
+    Dec        24.585477301945854
+    Dist       383008370.61666065
     Class      "M0 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Empress_Teta
-// Region : Deep Core
-// Sector : Koros
-// Grid location : L10
-// X : 29.8, Y : -782.05, Z : -318.85172812805627
-Star "Koros/Empress Teta System/Teta System/Koros System" // Star name / system name
-{
-    RA         0.08733270280020747
-    Dec        24.58575735450875
-    Dist       383000318.8541061
-    Class      "M2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Had_Abbadon
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : L10
-// X : 1115.53, Y : -1182.51, Z : -151.41311134784422
+// Sector wiki : 
+// System wiki : 
+// Grid location : L-10
+// Known planet : Had Abbadon
+// X : 1115.535, Y : 948.8550000000002, Z : 6530.13390769356
 Star "Had Abbadon System" // system name
 {
-    RA         0.08732187465001702
-    Dec        24.585697446871688
-    Dist       383000151.41591126
-    Class      "M4 III" // random
+    RA         0.0873218744060621
+    Dec        24.585697448600037
+    Dist       382993469.8688923
+    Class      "M4 III" // random TODO "Yellow/White star according to picture https://static.wikia.nocookie.net/starwars/images/6/69/Relentlesshadabbadon.jpg/revision/latest?cb=20100630025244" 
 }
 
 // http://starwars.wikia.com/wiki/Hakassi
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : M11
-// X : 1699.53, Y : -2292.17, Z : -478.9916223758688
+// Sector wiki : 
+// System wiki : 
+// Grid location : M-11
+// Known planet : Hakassi
+// X : 1699.5300000000002, Y : -160.81500000000005, Z : -7922.599355005574
 Star "Hakassi System" // system name
 {
-    RA         0.08731605034388615
-    Dec        24.585531444778532
-    Dist       383000478.99542695
+    RA         0.08731605067329601
+    Dec        24.58553144300212
+    Dist       383007922.6031594
     Class      "G7 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Iope
-// Region : Deep Core
-// Sector : 
-// Grid location : L10
-// X : 173.53, Y : -524.37, Z : -180.77193937999607
-Star "Iope System" // system name
-{
-    RA         0.08733126935910772
-    Dec        24.58579590280475
-    Dist       383000180.7753501
-    Class      "M1 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Jerrilek
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : L10
-// X : 29.19, Y : -360.77, Z : -501.22247426430124
+// Sector wiki : 
+// System wiki : 
+// Grid location : L-10
+// Known planet : Jerrilek
+// X : 29.189999999999998, Y : 1770.6000000000004, Z : -7032.824221464553
 Star "Jerrilek System" // system name
 {
-    RA         0.087332708883966
-    Dec        24.585820376695676
-    Dist       383000501.2265681
+    RA         0.08733270888893055
+    Dec        24.585820372178606
+    Dist       383007032.82831526
     Class      "M9 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Kalist_VI
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : K12
-// X : -204.62, Y : -3034.84, Z : -263.23671376333795
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Kalist_system
+// Grid location : K-12
+// Known planet : Kalist VI
+// X : -204.63, Y : -903.48, Z : 4913.046199403991
 Star "Kalist System" // system name
 {
-    RA         0.08733504070571733
-    Dec        24.58542034338815
-    Dist       383000263.23783404
-    Class      "M5 V" // random
+    RA         0.08733504083303087
+    Dec        24.585420340065482
+    Dist       382995086.95492095
+    Class      "M5 V" // random TODO "White star according to picture diffuse surface light" https://static.wikia.nocookie.net/starwars/images/6/66/KalistVI.jpg/revision/latest?cb=20090523062317
 }
 
 // http://starwars.wikia.com/wiki/Keeara_Major
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : K10
-// X : -110.05, Y : -875.28, Z : 298.6471894597721
+// Sector wiki : 
+// System wiki : 
+// Grid location : K-10
+// Known planet : Keeara Major
+// X : -110.05499999999999, Y : 1256.0850000000003, Z : -3986.6963157558544
 Star "Keeara Major System" // system name
 {
-    RA         0.08733409754664091
-    Dec        24.585743407863728
-    Dist       382999701.3548861
+    RA         0.08733409758422599
+    Dec        24.58574340501329
+    Dist       383003986.69839126
     Class      "M0 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Khomm
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : L12
-// X : 187.61, Y : -3827.06, Z : -31.438337013705564
+// Sector wiki : 
+// System wiki : 
+// Grid location : L-12
+// Known planet : Khomm
+// X : 187.605, Y : -1695.705, Z : 8630.733586381728
 Star "Khomm System" // system name
 {
-    RA         0.08733112893641216
-    Dec        24.58530182931492
-    Dist       383000031.4421367
-    Class      "M3 V" // random
+    RA         0.08733112894396095
+    Dec        24.5853018213336
+    Dist       382991369.2702135
+    Class      "M3 V" // random TODO "Yellow/White star according to picture" https://static.wikia.nocookie.net/starwars/images/b/b5/Khomm_FF7.jpg/revision/latest?cb=20070628185753
+}
+
+// http://starwars.wikia.com/wiki/Empress_Teta
+// Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
+// Sector : Koros
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Empress_Teta_system/Legends
+// Grid location : L-10
+// Known planet : Empress Teta
+// X : 29.805, Y : 1349.3100000000002, Z : 3209.6265262049583
+Star "Koros/Empress Teta System/Teta System/Koros System" // Star name / system name
+{
+    RA         0.08733270274760323
+    Dec        24.585757354872413
+    Dist       382996790.3758518
+    Class      "M2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Kuar
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : K10
-// X : -28.47, Y : -678.46, Z : 58.939283564677
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Kuar_system
+// Grid location : K-10
+// Known planet : Kuar
+// X : -28.47, Y : 1452.9, Z : 6482.200690586327
 Star "Kuar System" // system name
 {
-    RA         0.08733328393578654
-    Dec        24.585772851498234
-    Dist       382999941.0634733
-    Class      "M5 III" // random
+    RA         0.0873332839405485
+    Dec        24.58577285364748
+    Dist       382993517.8020663
+    Class      "M5 III" // random TODO "Yellow/Orange star according to picture" https://static.wikia.nocookie.net/starwars/images/9/96/Kuar.jpg/revision/latest?cb=20060701092553
 }
 
 // http://starwars.wikia.com/wiki/Lialic
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : K12
-// X : -249.51, Y : -3402.59, Z : 511.42860563177805
+// Sector wiki : 
+// System wiki : 
+// Grid location : K-12
+// Known planet : Lialic
+// X : -249.51, Y : -1271.2199999999998, Z : 4607.0476864830325
 Star "Lialic System" // system name
 {
-    RA         0.08733548840540224
-    Dec        24.585365328621172
-    Dist       382999488.57358533
+    RA         0.08733548843201239
+    Dec        24.585365326587546
+    Dist       382995392.9545045
     Class      "M9 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Odik
+// https://starwars.fandom.com/wiki/Odik_II
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : Sector 5
-// Grid location : K11
-// X : -1152.75, Y : -1646.85, Z : -205.20500463126774
+// Sector wiki : https://starwars.fandom.com/wiki/Deep_Core_Security_Zone
+// System wiki : https://starwars.fandom.com/wiki/Odik_system
+// Grid location : K-11
+// Known planet : Odik II
+// X : -1152.75, Y : 484.5150000000001, Z : -1572.1756630256382
 Star "Odik System" // system name
 {
-    RA         0.0873444965490768
-    Dec        24.585627982862185
-    Dist       383000205.20704585
+    RA         0.08734449650804448
+    Dec        24.585627981855502
+    Dist       383001572.1777043
     Class      "K4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Ojom
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : M11
-// X : 1617.85, Y : -2449.18, Z : -23.94594073983103
+// Sector wiki : 
+// System wiki : 
+// Grid location : M-11
+// Known planet : Ojom
+// X : 1617.84, Y : -317.8199999999997, Z : 183.95327476833472
 Star "Ojom System" // system name
 {
-    RA         0.08731686493105498
-    Dec        24.585507956473766
-    Dist       383000023.9494896
-    Class      "M2 III" // random
+    RA         0.08731686502202816
+    Dec        24.585507954951982
+    Dist       382999816.050274
+    Class      "M2 III" // random TODO "White star according to picture" https://static.wikia.nocookie.net/starwars/images/9/9f/Ojom.jpg/revision/latest?cb=20061119201000
 }
 
 // http://starwars.wikia.com/wiki/Ottabesk
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : M11
-// X : 1693.6, Y : -2388.97, Z : -357.7907420209292
+// Sector wiki : 
+// System wiki : 
+// Grid location : M-11
+// Known planet : Ottabesk
+// X : 1693.5900000000001, Y : -257.5949999999998, Z : -7702.309901164903
 Star "Ottabesk System" // system name
 {
-    RA         0.08731610947928048
-    Dec        24.585516963762366
-    Dist       383000357.7945731
+    RA         0.08731610990290103
+    Dec        24.585516965249305
+    Dist       383007702.31373215
     Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Prakith
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : Sector 5
-// Grid location : K10
-// X : -668.68, Y : -1332.3, Z : 557.4747888553729
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Prakith_system
+// Grid location : K-10
+// Known planet : Prakith
+// X : -668.6850000000001, Y : 799.0650000000003, Z : -8959.825181598426
 Star "Prak/Prakith System" // Star name / system name
 {
-    RA         0.08733966885946223
-    Dec        24.585675038916907
-    Dist       382999442.52662843
+    RA         0.08733966874361392
+    Dec        24.585675035198545
+    Dist       383008959.8265989
     Class      "M5 VI"
 }
 
 // http://starwars.wikia.com/wiki/Primus_Goluud
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : L10
-// X : 547.19, Y : -541.44, Z : -211.84851004031498
+// Sector wiki : 
+// System wiki : 
+// Grid location : L-10
+// Known planet : Primus Goluud
+// X : 547.1999999999999, Y : 1589.9250000000002, Z : 311.2184191497886
 Star "Primus Goluud/Primus Goluud System" // Star name / system name
 {
-    RA         0.08732754279194947
-    Dec        24.585793349160138
-    Dist       383000211.852201
+    RA         0.08732754268476486
+    Dec        24.585793348736985
+    Dist       382999688.7852719
     Class      "M6Ia" // "(orange star then supernova)"
 }
 
-// http://starwars.wikia.com/wiki/Symbia
+// https://starwars.fandom.com/wiki/Symbia_system
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : K10
-// X : -152.78, Y : -778.16, Z : -492.88804418859854
+// Sector wiki : 
+// System wiki : 
+// Grid location : K-10
+// Known planet : Symbia
+// X : -152.775, Y : 1353.1950000000002, Z : -446.2054736972715
 Star "Symbia System" // system name
 {
-    RA         0.08733452369676742
-    Dec        24.585757936349914
-    Dist       383000492.8904652
+    RA         0.08733452364708741
+    Dec        24.58575793413063
+    Dist       383000446.2078947
     Class      "M3 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Thoadeye
+// https://starwars.fandom.com/wiki/Thoadeye_system
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : M11
-// X : 1784.08, Y : -1684.92, Z : -377.25455529564874
+// Sector wiki : 
+// System wiki : 
+// Grid location : M-11
+// Known planet : Thoadeye
+// X : 1784.0849999999998, Y : 446.44500000000016, Z : 851.8966423748941
 Star "Thoadeye System" // system name
 {
-    RA         0.08731520710989969
-    Dec        24.58562228766467
-    Dist       383000377.2589708
+    RA         0.08731520700293145
+    Dec        24.58562228713102
+    Dist       382999148.1077731
     Class      "M4 IV" // random
 }
 
@@ -364,54 +472,104 @@ Star "Treskov System/Ebaq System" // system name
     Class      "G1 IV" // random
 }
 
+// http://starwars.wikia.com/wiki/Ebaq
+// Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Treskov_system
+// Grid location : M-11
+// Known planet : Ebaq
+// X : 1592.055, Y : -17.070000000000164, Z : -5400.754250229364
+Star "Treskov 115-W/Treskov system/Ebaq system" // Star name / system name
+{
+    RA         0.08731712241149035
+    Dec        24.585552946409493
+    Dist       383005400.7575595
+    Class      "A0 Va" // old main-sequence star
+}
+
+// https://starwars.fandom.com/wiki/Thoadeye_system
+// Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
+// Sector : 
+// Sector wiki : 
+// System wiki : 
+// Grid location : M-11
+// Known planet : Thoadeye
+// X : 1784.0849999999998, Y : 446.44500000000016, Z : 851.8966423748941
+Star "Thoadeye system" // system name
+{
+    RA         0.08731520700293145
+    Dec        24.58562228713102
+    Dist       382999148.1077731
+    Class      "G3 IV" // random
+}
+
 // http://starwars.wikia.com/wiki/Tsoss_Beacon
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : L11
-// X : 171.13, Y : -1579.61, Z : -342.07461248286387
+// Sector wiki : 
+// System wiki : 
+// Grid location : L-11
+// Known planet : Tsoss Beacon
+// X : 171.12, Y : 551.7600000000002, Z : 4353.253924816152
 Star "Tsoss Beacon System" // system name
 {
-    RA         0.0873312932953889
-    Dec        24.58563804175214
-    Dist       383000342.07504815
+    RA         0.08733129337419827
+    Dec        24.58563804276406
+    Dist       382995646.7465109
     Class      "M4 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Tython
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : L10
-// X : 19.19, Y : -1173.87, Z : -165.01118312280522
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Tython_system
+// Grid location : L-10
+// Known planet : Tython
+// X : 19.185, Y : 957.4950000000003, Z : 1490.3505295437658
 Star "Tythos/Tython System/Tythan System" // Star name / system name
 {
-    RA         0.08733280861522451
-    Dec        24.58569873938707
-    Dist       383000165.0123805
+    RA         0.0873328086642633
+    Dec        24.585698739258177
+    Dist       382998509.6506678
     Class      "K2 V"
 }
 
 // http://starwars.wikia.com/wiki/Vulpter
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : L10
-// X : 876.1, Y : -735.67, Z : 44.7719069177374
+// Sector wiki : 
+// System wiki : 
+// Grid location : L-10
+// Known planet : Vulpter
+// X : 876.09, Y : 1395.69, Z : -5295.12221917903
 Star "Vulpter/Vulpter System" // Star name / system name
 {
-    RA         0.08732426251726731
-    Dec        24.585764293025626
-    Dist       382999955.23163813
+    RA         0.08732426273881626
+    Dec        24.585764288618662
+    Dist       383005295.1257642
     Class      "M8 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Zamael
 // Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
 // Sector : 
-// Grid location : K12
-// X : -201.17, Y : -3198.86, Z : 533.0433060216524
+// Sector wiki : 
+// System wiki : 
+// Grid location : K-12
+// Known planet : Zamael
+// X : -201.165, Y : -1067.4899999999998, Z : -3430.584760330386
 Star "Zamael System" // system name
 {
-    RA         0.08733500630252503
-    Dec        24.58539580611803
-    Dist       382999466.9582345
+    RA         0.08733500623189687
+    Dec        24.58539580777067
+    Dist       383003430.58630073
     Class      "K7 III" // random
 }
