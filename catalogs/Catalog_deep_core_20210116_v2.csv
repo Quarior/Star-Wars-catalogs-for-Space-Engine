@@ -1,33 +1,33 @@
-Object type;Object class;Region;Sector;Star name;System;Planet;X;Y;Z;Planet link;Region link;System link;Sector link;Grid;technicalId
+Object type;Object class;Region;Sector;Star name;System;Planet;X;Y;Z;Planet link;Region link;Sector link;System link;Grid;technicalId
 Star;X;Deep Core;;;Galactic Center/Star Wars galaxy center;Galactic Center;0;-142.091;0;http://starwars.wikia.com/wiki/Galactic_Center;http://starwars.wikia.com/wiki/Deep_Core;;;K-11;32
 Star;;Deep Core;;;Adana system;Adana;42.5;-44.961;;https://starwars.fandom.com/wiki/Adana;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Adana_system;L-10;2189
-Star;;Deep Core;;;Besero system;Besero;49.601;-38.168;;http://starwars.wikia.com/wiki/Besero;http://starwars.wikia.com/wiki/Deep_Core;;;L-10;16
-Star;;Deep Core;Deep Core Security Zone;Beshqek;Beshqek system/Byss System;Abanol, Byss;-48.074;-182.068;;http://starwars.wikia.com/wiki/Byss, https://starwars.fandom.com/wiki/Abanol;http://starwars.wikia.com/wiki/Deep_Core;https://starwars.fandom.com/wiki/Deep_Core_Security_Zone;https://starwars.fandom.com/wiki/Beshqek_system;K-11;6
-Star;;Deep Core;;;Cambria system;;93.110066667;-58.448;;;;https://starwars.fandom.com/wiki/Cambria_system;;L-10;
-Star;Yellow and orange star;Deep Core;;;Constancia system;Constancia;-14.059;-242.179;;http://starwars.wikia.com/wiki/Constancia;http://starwars.wikia.com/wiki/Deep_Core;;;K-12;10
+Star;;Deep Core;;;Besero system;Besero;49.601;-38.168;;http://starwars.wikia.com/wiki/Besero;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Besero_system;L-10;16
+Star;;Deep Core;Deep Core Security Zone;Beshqek;Beshqek system/Byss system;Abanol, Byss;-48.074;-182.068;;http://starwars.wikia.com/wiki/Byss, https://starwars.fandom.com/wiki/Abanol;http://starwars.wikia.com/wiki/Deep_Core;https://starwars.fandom.com/wiki/Deep_Core_Security_Zone;https://starwars.fandom.com/wiki/Beshqek_system;K-11;6
+Star;;Deep Core;;;Cambria system;;93.110066667;-58.448;;;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Cambria_system;L-10;
+Star;Yellow and orange star;Deep Core;;;Constancia system;Constancia;-14.059;-242.179;;http://starwars.wikia.com/wiki/Constancia;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Constancia_system;K-12;10
 Star;;Deep Core;;;Crystan system;Crystan V;13.406;-246.885;;https://starwars.fandom.com/wiki/Crystan_V;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Crystan_system;L-12;24
-Star;;Deep Core;;;Dremulae system;Dremulae;101.765;-73.526;;http://starwars.wikia.com/wiki/Dremulae;http://starwars.wikia.com/wiki/Deep_Core;;;M-10;26
-Star;;Deep Core;;;Dulvoyinn;Dulvoyinn;-3.441;-246.927;;http://starwars.wikia.com/wiki/Dulvoyinn;http://starwars.wikia.com/wiki/Deep_Core;;;K-12;11
-Star;;Deep Core;;;Eclipse;Eclipse (hidden in an asteroid field);99.245;-176.94;;https://starwars.fandom.com/wiki/Eclipse_(planet);http://starwars.wikia.com/wiki/Deep_Core;;;L-11;23
-Star;Yellow/White star according to picture;Deep Core;;;Had Abbadon;Had Abbadon;74.369;-78.834;;http://starwars.wikia.com/wiki/Had_Abbadon;http://starwars.wikia.com/wiki/Deep_Core;;;L-10;13
-Star;;Deep Core;;;Hakassi;Hakassi;113.302;-152.812;;http://starwars.wikia.com/wiki/Hakassi;http://starwars.wikia.com/wiki/Deep_Core;;;M-11;29
-Star;;Deep Core;;;Jerrilek;Jerrilek;1.946;-24.051;;http://starwars.wikia.com/wiki/Jerrilek;http://starwars.wikia.com/wiki/Deep_Core;;;L-10;21
+Star;;Deep Core;;;Dremulae system;Dremulae;101.765;-73.526;;http://starwars.wikia.com/wiki/Dremulae;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Dremulae_system;M-10;26
+Star;;Deep Core;;;Dulvoyinn;Dulvoyinn;-3.441;-246.927;;http://starwars.wikia.com/wiki/Dulvoyinn;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Dulvoyinn_system;K-12;11
+Star;;Deep Core;;;Eclipse;Eclipse (hidden in an asteroid field);99.245;-176.94;;https://starwars.fandom.com/wiki/Eclipse_(planet);http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Eclipse_system;L-11;23
+Star;Yellow/White star according to picture;Deep Core;;;Had Abbadon;Had Abbadon;74.369;-78.834;;http://starwars.wikia.com/wiki/Had_Abbadon;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Had_Abbadon_system;L-10;13
+Star;;Deep Core;;;Hakassi;Hakassi;113.302;-152.812;;http://starwars.wikia.com/wiki/Hakassi;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Hakassi_system;M-11;29
+Star;;Deep Core;;;Jerrilek;Jerrilek;1.946;-24.051;;http://starwars.wikia.com/wiki/Jerrilek;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Jerrilek_system;L-10;21
 Star;White star according to picture;Deep Core;;;Kalist system;Kalist VI;-13.642;-202.323;;http://starwars.wikia.com/wiki/Kalist_VI;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Kalist_system;K-12;7
-Star;;Deep Core;;;Keeara Major;Keeara Major;-7.337;-58.352;;http://starwars.wikia.com/wiki/Keeara_Major;http://starwars.wikia.com/wiki/Deep_Core;;;K-10;2
-Star;Yellow/White star according to picture;Deep Core;;;Khomm;Khomm;12.507;-255.138;;http://starwars.wikia.com/wiki/Khomm;http://starwars.wikia.com/wiki/Deep_Core;;;L-12;25
-Star;;Deep Core;Koros;Koros;Empress Teta System/Teta System/Koros System;Empress Teta;1.987;-52.137;;http://starwars.wikia.com/wiki/Empress_Teta;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Empress_Teta_system/Legends;L-10;18
+Star;;Deep Core;;;Keeara Major;Keeara Major;-7.337;-58.352;;http://starwars.wikia.com/wiki/Keeara_Major;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Keeara_Major_system;K-10;2
+Star;Yellow/White star according to picture;Deep Core;;;Khomm;Khomm;12.507;-255.138;;http://starwars.wikia.com/wiki/Khomm;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Khomm_system;L-12;25
+Star;;Deep Core;Koros;Koros;Empress Teta system/Teta system/Koros system;Empress Teta;1.987;-52.137;;http://starwars.wikia.com/wiki/Empress_Teta;http://starwars.wikia.com/wiki/Deep_Core;https://starwars.fandom.com/wiki/Koros_sector/Legends;https://starwars.fandom.com/wiki/Empress_Teta_system/Legends;L-10;18
 Star;Yellow/Orange star according to picture;Deep Core;;;Kuar system;Kuar;-1.898;-45.231;;http://starwars.wikia.com/wiki/Kuar;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Kuar_system;K-10;4
-Star;;Deep Core;;;Lialic;Lialic;-16.634;-226.839;;http://starwars.wikia.com/wiki/Lialic;http://starwars.wikia.com/wiki/Deep_Core;;;K-12;9
-Star;;Deep Core;Sector 5;;Odik system;Odik II;-76.85;-109.79;;https://starwars.fandom.com/wiki/Odik_II;http://starwars.wikia.com/wiki/Deep_Core;https://starwars.fandom.com/wiki/Deep_Core_Security_Zone;https://starwars.fandom.com/wiki/Odik_system;K-11;5
-Star;White star according to picture;Deep Core;;;Ojom;Ojom;107.856;-163.279;;http://starwars.wikia.com/wiki/Ojom;http://starwars.wikia.com/wiki/Deep_Core;;;M-11;27
-Star;;Deep Core;;;Ottabesk;Ottabesk;112.906;-159.264;;http://starwars.wikia.com/wiki/Ottabesk;http://starwars.wikia.com/wiki/Deep_Core;;;M-11;28
-Star;M5 VI;Deep Core;Sector 5;Prak;Prakith system;Prakith;-44.579;-88.82;;http://starwars.wikia.com/wiki/Prakith;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Prakith_system;K-10;1
-Star;M6Ia // (orange star then supernova);Deep Core;;Primus Goluud;Primus Goluud;Primus Goluud;36.48;-36.096;;http://starwars.wikia.com/wiki/Primus_Goluud;http://starwars.wikia.com/wiki/Deep_Core;;;L-10;17
+Star;;Deep Core;;;Lialic;Lialic;-16.634;-226.839;;http://starwars.wikia.com/wiki/Lialic;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Lialic_system;K-12;9
+Star;;Deep Core;Sector 5;;Odik system;Odik II;-76.85;-109.79;;https://starwars.fandom.com/wiki/Odik_II;http://starwars.wikia.com/wiki/Deep_Core;https://starwars.fandom.com/wiki/Sector_5;https://starwars.fandom.com/wiki/Odik_system;K-11;5
+Star;White star according to picture;Deep Core;;;Ojom;Ojom;107.856;-163.279;;http://starwars.wikia.com/wiki/Ojom;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Ojom_system;M-11;27
+Star;;Deep Core;;;Ottabesk;Ottabesk;112.906;-159.264;;http://starwars.wikia.com/wiki/Ottabesk;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Ottabesk_system;M-11;28
+Star;M5 VI;Deep Core;Sector 5;Prak;Prakith system;Prakith;-44.579;-88.82;;http://starwars.wikia.com/wiki/Prakith;http://starwars.wikia.com/wiki/Deep_Core;https://starwars.fandom.com/wiki/Sector_5;https://starwars.fandom.com/wiki/Prakith_system;K-10;1
+Star;M6Ia // (orange star then supernova);Deep Core;;Primus Goluud;Primus Goluud;Primus Goluud;36.48;-36.096;;http://starwars.wikia.com/wiki/Primus_Goluud;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Primus_Goluud_system;L-10;17
 Cluster;Dense Star cluster within galactic deep core (more than 20 white stars);Deep Core;;;Starswarm Cluster;Starswarm Cluster;9.756;-39.965;;http://starwars.wikia.com/wiki/Starswarm_Cluster;http://starwars.wikia.com/wiki/Deep_Core;;;L-10;20
-Star;;Deep Core;;;Symbia;Symbia;-10.185;-51.878;;https://starwars.fandom.com/wiki/Symbia_system;http://starwars.wikia.com/wiki/Deep_Core;;;K-10;3
-Star;;Deep Core;;;Thoadeye;Thoadeye;118.939;-112.328;;https://starwars.fandom.com/wiki/Thoadeye_system;http://starwars.wikia.com/wiki/Deep_Core;;;M-11;31
-Star;A0 Va // old main-sequence star;Deep Core;;Treskov 115-W;Treskov system/Ebaq System;Ebaq;106.137;-143.229;;http://starwars.wikia.com/wiki/Ebaq;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Treskov_system;M-11;30
-Star;;Deep Core;;;Tsoss Beacon;Tsoss Beacon;11.408;-105.307;;http://starwars.wikia.com/wiki/Tsoss_Beacon;http://starwars.wikia.com/wiki/Deep_Core;;;L-11;22
-Star;K2 V;Deep Core;;Tythos;Tython system/Tythan System;Tython;1.279;-78.258;;http://starwars.wikia.com/wiki/Tython;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Tython_system;L-10;12
-Star;;Deep Core;;Vulpter;Vulpter system;Vulpter;58.406;-49.045;;http://starwars.wikia.com/wiki/Vulpter;http://starwars.wikia.com/wiki/Deep_Core;;;L-10;15
+Star;;Deep Core;;;Symbia;Symbia;-10.185;-51.878;;;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Symbia_system;K-10;3
+Star;;Deep Core;;;Thoadeye;Thoadeye;118.939;-112.328;;;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Thoadeye_system;M-11;31
+Star;A0 Va // old main-sequence star;Deep Core;;Treskov 115-W;Treskov system/Ebaq system;Ebaq;106.137;-143.229;;http://starwars.wikia.com/wiki/Ebaq;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Treskov_system;M-11;30
+Star;;Deep Core;;;Tsoss Beacon;Tsoss Beacon;11.408;-105.307;;http://starwars.wikia.com/wiki/Tsoss_Beacon;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Tsoss_Beacon_system;L-11;22
+Star;K2 V;Deep Core;;Tythos;Tython system/Tythan system;Tython;1.279;-78.258;;http://starwars.wikia.com/wiki/Tython;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Tython_system;L-10;12
+Star;;Deep Core;;Vulpter;Vulpter system;Vulpter;58.406;-49.045;;http://starwars.wikia.com/wiki/Vulpter;http://starwars.wikia.com/wiki/Deep_Core;;https://starwars.fandom.com/wiki/Vulpter_system;L-10;15
 Star;;Deep Core;;;Zamael;Zamael;-13.411;-213.257;;http://starwars.wikia.com/wiki/Zamael;http://starwars.wikia.com/wiki/Deep_Core;;;K-12;8

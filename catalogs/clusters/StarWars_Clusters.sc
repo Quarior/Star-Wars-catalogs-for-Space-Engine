@@ -138,12 +138,21 @@ Cluster "Ringali Shell"
 //            Deep Core             //
 //////////////////////////////////////
 
-Cluster	"Galactic Center Cluster/Star Wars galaxy center cluster"
+// http://starwars.wikia.com/wiki/Galactic_Center
+// Region : Deep Core
+// Region wiki : http://starwars.wikia.com/wiki/Deep_Core
+// Sector : 
+// Sector wiki : 
+// System wiki : 
+// Grid location : K-11
+// Known body : Galactic Center
+// X : 0, Y : 0, Z : 0
+Cluster	"Galactic center Cluster/Star Wars galaxy center cluster"
 {
 	Galaxy  "Star Wars galaxy"
 	Type    "Part"	// part of a galaxy
-	RA       0.0873333
-	Dec      +24.5855555
+    RA       0.087333
+    Dec      24.5855555
 	Dist     3.83e8
 	Radius   300
 	AbsMagn  4.6
@@ -158,15 +167,15 @@ Cluster	"Galactic Center Cluster/Star Wars galaxy center cluster"
 // Sector wiki : 
 // System wiki : 
 // Grid location : L-10
-// Known planet : Starswarm Cluster
-// X : 146.34, Y : 1531.8900000000003, Z : 2886.7461540052373
+// Known body : Starswarm Cluster
+// X : 146.34, Y : 1531.8900000000003, Z : 3056.737993758868
 Cluster "Starswarm Cluster"
 {
 	Galaxy   "Star Wars galaxy"
 	Type     "Open"	// within galaxy disk
-    RA         0.08733154051739403
-    Dec        24.585784668389632
-    Dist       382997113.2569375
+    RA         0.08733154051674624
+    Dec        24.58578466849135
+    Dist       382996943.26509774
 	Radius   40 // default
 	CenPow   10  // star concentration parameter
 	//Age      
