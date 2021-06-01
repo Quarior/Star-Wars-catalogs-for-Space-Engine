@@ -1,0 +1,71 @@
+Object type;Object class;Region;Sector;Star name;System;Planet;X;Y;Z;Planet link;Region link;System link;Sector link;Grid;technicalId
+Cluster;;Wild Space;;;Parthovian Cluster;Parthovian Cluster;830.419;587.4;;http://starwars.wikia.com/wiki/Parthovian_Cluster;http://starwars.wikia.com/wiki/Wild_Space;;;T-4;2024
+Nebula;;Wild Space;;;Red Nebula;Red Nebula;-410.118;-1134.896;;http://starwars.wikia.com/wiki/Red_Nebula;http://starwars.wikia.com/wiki/Wild_Space;;;G-21;1987
+Star;;Wild Space;;;Abbaji system;Abbaji;-190.336;516.382;;https://starwars.fandom.com/wiki/Abbaji_(Kalee_system);http://starwars.wikia.com/wiki/Wild_Space;;;J-4;284
+Star;;Wild Space;;;Abran system;B'Knos;-421.114;-696.857;;https://starwars.fandom.com/wiki/B%27Knos;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Abran_system;G-16;2341
+Star;;Wild Space;;Katorrs;Adumar system/Katorrs system;Adumar, Bakarr, Katorr;-194.013;352.511;;http://starwars.wikia.com/wiki/Adumar;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Katorrs_system;J-6;2002
+Star;;Wild Space;;Aeten;Aeten system;Aeten II;-169.164;386.96;;http://starwars.wikia.com/wiki/Aeten;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Aeten_system;J-6;2003
+Star;;Wild Space;;;Alashan;Alashan;-144.146;422.049;;http://starwars.wikia.com/wiki/Alashan;http://starwars.wikia.com/wiki/Wild_Space;;;J-5;2000
+Star;;Wild Space;;;Anoth system;Anoth;-173.689;-1097.811;;http://starwars.wikia.com/wiki/Anoth;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Anoth_system;J-20;2004
+Star;;Wild Space;Bakura Sector;Bakura;Bakura system;Bakura;-438.157;-670.906;;http://starwars.wikia.com/wiki/Bakura;http://starwars.wikia.com/wiki/Wild_Space;http://starwars.wikia.com/wiki/Bakura_sector;https://starwars.fandom.com/wiki/Bakura_system;G-16;1986
+Star;;Wild Space;;;Betal system;Betal;-190.138;471.789;;https://starwars.fandom.com/wiki/Betal;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Betal_system;J-5;2403
+Star;;Wild Space;Trianii Space;;Brochiib system;Brochiib;710.452;635.058;;http://starwars.wikia.com/wiki/Brochiib;http://starwars.wikia.com/wiki/Wild_Space;https://starwars.fandom.com/wiki/Trianii_Space;;S-3;2016
+Star;;Wild Space;;;Bursol II;Bursoll II;-378.243;-762.285;;https://starwars.fandom.com/wiki/Bursoll_II;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Bursol_II;H-17;2466
+Star;;Wild Space;Morellian Commonwealth;;Chrelythiumn system;Mortis;-55.975;733.387;;http://starwars.wikia.com/wiki/Mortis;http://starwars.wikia.com/wiki/Wild_Space;;;K-2;2046
+Star;;Wild Space;;;Crytal Nest;Crytal Nest;-309.627;-1084.46;;https://starwars.fandom.com/wiki/Crytal_Nest;http://starwars.wikia.com/wiki/Wild_Space;;;H-20;2593
+Star;;Wild Space;;;Diab system;Diab;-189.276;384.362;;https://starwars.fandom.com/wiki/Diab;http://starwars.wikia.com/wiki/Wild_Space;;;J-6;2159
+Star;;Wild Space;;;Dosuun system;Dosuun;-368.167;-1019.857;;http://starwars.wikia.com/wiki/Dosuun;http://starwars.wikia.com/wiki/Wild_Space;;;H-20;2071
+Star;;Wild Space;;;Drynn system;Kammia;-474.472;-660.256;;https://starwars.fandom.com/wiki/Kammia;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Drynn_system;G-16;3237
+Star;;Wild Space;Trianii Space;;Ekibo system;Ekibo;684.597;628.424;;http://starwars.wikia.com/wiki/Ekibo;http://starwars.wikia.com/wiki/Wild_Space;https://starwars.fandom.com/wiki/Trianii_Space;;R-3;2015
+Star;;Wild Space;;TODO Rogue planet;Esfandia system;Esfandia;-280.135;351.381;;http://starwars.wikia.com/wiki/Esfandia;http://starwars.wikia.com/wiki/Wild_Space;;;I-6;1991
+Star;" // Contained in Parthovian cluster ""yellow-white"" in Jun article";Wild Space;Parthovian Cluster;Faarlsun;Faarlsun system;Jun;830.419;587.4;;https://starwars.fandom.com/wiki/Jun_(planet);https://starwars.fandom.com/wiki/Wild_Space/Legends;https://starwars.fandom.com/wiki/Faarlsun_system;;;
+Star;;Wild Space;Farana Sector;;Farana system;Farana;752.926;626.085;;http://starwars.wikia.com/wiki/Farana;http://starwars.wikia.com/wiki/Wild_Space;http://starwars.wikia.com/wiki/Farana_sector;;S-3;2011
+Star;;Wild Space;Trianii Space;;Fibuli system;Fibuli;711.563;633.752;;http://starwars.wikia.com/wiki/Fibuli;http://starwars.wikia.com/wiki/Wild_Space;https://starwars.fandom.com/wiki/Trianii_Space;https://starwars.fandom.com/wiki/Fibuli_system;S-3;546
+Star;yellow primary star;Wild Space;;Gorsh;Gorsh system;Gorsh;325.24;669.48;;http://starwars.wikia.com/wiki/Gorsh;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Gorsh_system;O-3;2010
+Star;;Wild Space;Kadok Regions;Kadok I, II, III // TODO tertiary;Guiteica system/Tertiary Kadok system;Guiteica;-176.395;584.146;;http://starwars.wikia.com/wiki/Guiteica;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Tertiary_Kadok_system;J-4;1997
+Star;;Wild Space;;;Gulma system;Gulma;406.845;676.257;;http://starwars.wikia.com/wiki/Gulma;http://starwars.wikia.com/wiki/Wild_Space;;;P-3;2018
+Star;;Wild Space;;;Hast system;Hast;927.011;380.504;;http://starwars.wikia.com/wiki/Hast;http://starwars.wikia.com/wiki/Wild_Space;;;U-6;2027
+Star;;Wild Space;;;Huk system;Huk;-185.611;560.403;;http://starwars.wikia.com/wiki/Huk;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Huk_system;J-4;1995
+Star;;Wild Space;Farana Sector;;Hull's Star system;None;748.093;633.324;;http://starwars.wikia.com/wiki/Hull's_Star;http://starwars.wikia.com/wiki/Wild_Space;http://starwars.wikia.com/wiki/Farana_sector;;S-3;2012
+Star;;Wild Space;;;Iskallon system;Iskadrell;-384.262;-493.311;;https://starwars.fandom.com/wiki/Iskadrell;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Iskallon_system;H-14;3149
+Star;;Wild Space;;;Kadavo system;Kadavo;789.335;556.938;;http://starwars.wikia.com/wiki/Kadavo;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Kadavo_system;S-4;2112
+Star;;Wild Space;;Iminec;Kalee system;Kalee;-164.01;566.37;;http://starwars.wikia.com/wiki/Kalee;http://starwars.wikia.com/wiki/Wild_Space;;;J-4;1996
+Star;Yellow/white https://starwars.fandom.com/wiki/Kalee/Legends?file=NotTenochtitlan-TEoR.jpg;Wild Space;;;Kamar system;Kamar;765.901;598.938;;https://starwars.fandom.com/wiki/Kamar/Legends;http://starwars.wikia.com/wiki/Wild_Space;;;S-4;541
+Star;;Wild Space;;;Kariek system;Kariek;-236.347;362.097;;https://starwars.fandom.com/wiki/Kariek;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Kariek_system;I-6;3248
+Star;Yellow https://static.wikia.nocookie.net/starwars/images/f/fd/The_Doomed%27s_migration.jpg/revision/latest?cb=20130126000051;Wild Space;;;Kesh system;Kesh;970.992;-33.29;;http://starwars.wikia.com/wiki/Kesh;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Kesh_system;U-10;2009
+Star;;Wild Space;;;Kinooine system;Kinooine;-192.622;-1144.365;;http://starwars.wikia.com/wiki/Kinooine;http://starwars.wikia.com/wiki/Wild_Space;;;J-21;2006
+Star;;Wild Space;;Lamaro;Lamaro system/LM0228 system;Lamaredd;751.119;-838.836;;http://starwars.wikia.com/wiki/Lamaredd;http://starwars.wikia.com/wiki/Wild_Space;;;S-18;2022
+Star;;Wild Space;;Lasan;Lasan system;Lasan;443.613;-1028.573;;http://starwars.wikia.com/wiki/Lasan;http://starwars.wikia.com/wiki/Wild_Space;;;P-20;2062
+Star;;Wild Space;;;Malagarr system;Malagarr;1005.095;162.295;;http://starwars.wikia.com/wiki/Malagarr;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Malagarr_system;V-8;2032
+Star;;Wild Space;Mephout Dominion;;Mephout system;Mephout;-368.566;-1061.236;;http://starwars.wikia.com/wiki/Mephout;http://starwars.wikia.com/wiki/Wild_Space;;;H-20;1988
+Star;;Wild Space;;;Morellia system;Morellia;764.98;650.933;;http://starwars.wikia.com/wiki/Morellia;http://starwars.wikia.com/wiki/Wild_Space;;;S-3;2019
+Star;Small star;Wild Space;;Mytus;Mytus system;Mytus VII;733.426;668.722;;https://starwars.fandom.com/wiki/Mytus_VII;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Mytus_system;S-3;2020
+Star;;Wild Space;;;Naos system;Naos;770.341;-809.404;;http://starwars.wikia.com/wiki/Naos;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Naos_system;S-18;2023
+Star;;Wild Space;;;Needan system;Needan;-230.762;-1081.871;;http://starwars.wikia.com/wiki/Needan;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Needan_system;I-20;1992
+Star;;Wild Space;Gradilis sector;Nirauan;Nirauan system;Nirauan;-219.708;403.902;;http://starwars.wikia.com/wiki/Nirauan;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Nirauan_system;I-5;1990
+Star;;Wild Space;;;Odessen system;Odessen;-425.785;-492.179;;https://starwars.fandom.com/wiki/Odessen;http://starwars.wikia.com/wiki/Wild_Space;;;G-14;4772
+Star;;Wild Space;Perinn sector;;Parshoone system;Parshoone;-180.075;530.914;;http://starwars.wikia.com/wiki/Parshoone;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Parshoone_system;J-4;1999
+Star;;Wild Space;;;Plutha system;Pluthan asteroid field;968.585;161.284;;https://starwars.fandom.com/wiki/Plutha_system;http://starwars.wikia.com/wiki/Wild_Space;;;U-8;2030
+Star;;Wild Space;Trianii Space;;Pypin system;Pypin;691.441;631.118;;http://starwars.wikia.com/wiki/Pypin;http://starwars.wikia.com/wiki/Wild_Space;https://starwars.fandom.com/wiki/Trianii_Space;https://starwars.fandom.com/wiki/Pypin_system;R-3;2014
+Star;;Wild Space;;;Qonto system;Qonto;-121.053;664.182;;https://starwars.fandom.com/wiki/Qonto_system;http://starwars.wikia.com/wiki/Wild_Space;;;J-3;1994
+Star;Red sun;Wild Space;;;Red Nebula system;Planet of the Red Nebula;-410.118;-1134.896;;https://starwars.fandom.com/wiki/Planet_of_the_Red_Nebula;https://starwars.fandom.com/wiki/Wild_Space/Legends;;;;
+Star;;Wild Space;;;Regel system;Regel Eight;-289.969;266.432;;https://starwars.fandom.com/wiki/Regel_Eight;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Regel_system;I-7;4013
+Star;;Wild Space;;;Seoul system;Seoul 5;-391.231;-1076.346;;http://starwars.wikia.com/wiki/Seoul_5;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Seoul_system;H-20;1989
+Star;;Wild Space;;;Shiva system;Shiva IV;28.098;-1121.778;;https://starwars.fandom.com/wiki/Shiva_IV;http://starwars.wikia.com/wiki/Wild_Space;;;L-21;2008
+Star;;Wild Space;;;Silken system;Silken Asteroids;353.882;-1008.234;;https://starwars.fandom.com/wiki/Silken_Asteroids;http://starwars.wikia.com/wiki/Wild_Space;;;O-20;2017
+Star;;Wild Space;;;Smarteel system;Smarteel;950.166;-478.752;;http://starwars.wikia.com/wiki/Smarteel;http://starwars.wikia.com/wiki/Wild_Space;;;U-14;2031
+Star;;Wild Space;;;Svekk system;Bormter;-392.641;-472.585;;https://starwars.fandom.com/wiki/Bormter;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Svekk_system;H-14;2438
+Star;;Wild Space;;;Targonn system;Targonn;962.691;212.014;;https://starwars.fandom.com/wiki/Targonn;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Targonn_system;U-7;2029
+Star;;Wild Space;;;The Red Twins system;Acherin;-286.483;286.946;;https://starwars.fandom.com/wiki/Acherin;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/The_Red_Twins_system;I-7;2184
+Star;;Wild Space;;;Tholon system;Tholon;-318.711;-774.526;;https://starwars.fandom.com/wiki/Tholon;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Tholon_system;H-17;4389
+Star;;Wild Space;;;Tovarskl system;Tovarskl;-165.541;552.363;;http://starwars.wikia.com/wiki/Tovarskl;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Tovarskl_system;J-4;1998
+Star;;Wild Space;Trianii Space;;Trian system;Trian;683.773;629.708;;http://starwars.wikia.com/wiki/Trian;http://starwars.wikia.com/wiki/Wild_Space;https://starwars.fandom.com/wiki/Trianii_Space;https://starwars.fandom.com/wiki/Trian_system;R-3;2013
+Star;;Wild Space;;;Velabri system;Velabri;713.876;-848.147;;http://starwars.wikia.com/wiki/Velabri;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Velabri_system;S-18;2021
+Star;;Wild Space;;;Vengler system;Vengler;-350.99;-722.932;;https://starwars.fandom.com/wiki/Vengler;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Vengler_system;H-17;4584
+Star;;Wild Space;;;Xala system;Xala;-383.534;-695.521;;https://starwars.fandom.com/wiki/Xala;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Xala_system;H-16;4665
+Star;;Wild Space;;;Xerton system;Xerton Nine;-143.763;664.844;;https://starwars.fandom.com/wiki/Xerton_Nine;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Xerton_system;J-3;1993
+Star;;Wild Space;;;Yalara system;Yalara;-273.049;-1174.904;;http://starwars.wikia.com/wiki/Yalara;http://starwars.wikia.com/wiki/Wild_Space;;;I-21;2072
+Star;;Wild Space;;;Yanibar system;Yanibar;642.725;-917.056;;https://starwars.fandom.com/wiki/Yanibar;http://starwars.wikia.com/wiki/Wild_Space;;;R-19;2155
+Star;;Wild Space;The Wastes;;Zeta 0-9 system;Zeta 0-9;-75.418;739.073;;https://starwars.fandom.com/wiki/Zeta_Zero_Nine;http://starwars.wikia.com/wiki/Wild_Space;;;K-2;2007
+Star;;Wild Space;;;Zigoola system;Zigoola;938.776;362.706;;http://starwars.wikia.com/wiki/Zigoola;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Zigoola_system;U-6;2028
+Star;;Wild Space;;Zonju;Zonju system;Zonju V;-129.928;-1153.055;;https://starwars.fandom.com/wiki/Zonju_V;http://starwars.wikia.com/wiki/Wild_Space;;https://starwars.fandom.com/wiki/Zonju_system;J-21;2005

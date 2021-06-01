@@ -922,16 +922,20 @@ Cluster "Morellian Commonwealth"
 
 // http://starwars.wikia.com/wiki/Parthovian_Cluster
 // Region : Wild Space
+// Region wiki : http://starwars.wikia.com/wiki/Wild_Space
 // Sector : 
-// Grid location : T4
-// X : 12456.29, Y : 8811, Z : 61.254667264624004
+// Sector wiki : 
+// System wiki : 
+// Grid location : T-4
+// Known planet : Parthovian Cluster
+// X : 12456.285, Y : 10942.365, Z : 851.7214899987312
 Cluster "Parthovian Cluster"
 {
 	Galaxy     	"Star Wars galaxy"
 	Type       	"Open"	// within galaxy disk
-    RA         0.08720877146052514
-    Dec        24.587192449657888
-    Dist       382999939.10420305
+    RA         0.08720877125399741
+    Dec        24.587192452288377
+    Dist       382999148.6373807
     Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter

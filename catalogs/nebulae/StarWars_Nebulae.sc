@@ -149,16 +149,20 @@ Nebula    "Stygian Caldera"
 
 // http://starwars.wikia.com/wiki/Red_Nebula
 // Region : Wild Space
+// Region wiki : http://starwars.wikia.com/wiki/Wild_Space
 // Sector : 
-// Grid location : G21
-// X : -6151.77, Y : -17023.45, Z : -352.17927963750753
+// Sector wiki : 
+// System wiki : 
+// Grid location : G-21
+// Known planet : Red Nebula
+// X : -6151.7699999999995, Y : -14892.074999999999, Z : -4040.0675053033715
 Nebula "Red Nebula"
 {
     Galaxy  "Star Wars Galaxy"
     Type    "Diffuse"
-    RA         0.08739435250363771
-    Dec        24.583327686560963
-    Dist       383000352.51820666
+    RA         0.0873943519128837
+    Dec        24.583327708760223
+    Dist       383004040.4064288
     Radius     5
     AbsMagn   -5
 }
