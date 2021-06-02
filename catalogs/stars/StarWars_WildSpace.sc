@@ -288,7 +288,7 @@ Star "Esfandia system" // system name
     RA         0.08737490792520307
     Dec        24.58666284401257
     Dist       382995653.4341017
-    Class      "M2 V" // TODO Rogue planet
+    Class      "P"
 }
 
 // http://starwars.wikia.com/wiki/Parthovian_Cluster
