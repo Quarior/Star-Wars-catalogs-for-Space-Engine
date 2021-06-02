@@ -945,17 +945,21 @@ Cluster "Parthovian Cluster"
 }
 
 // http://starwars.wikia.com/wiki/The_Redoubt
-// Region : Wild Space
+// Region : Unknown Regions
+// Region wiki : http://starwars.wikia.com/wiki/Unknown_Regions
 // Sector : 
-// Grid location : H7
-// X : -4835.31, Y : 3155.78, Z : 225.65862565454347
-Cluster "The Redoubt/Chiss Redoubt System"
+// Sector wiki : https://starwars.fandom.com/wiki/Chiss_Ascendancy/Legends
+// System wiki : 
+// Grid location : H-7
+// Known planet : The Redoubt/Chiss Redoubt
+// X : -4835.3099999999995, Y : 5287.155000000001, Z : 3713.5034893197026
+Cluster "The Redoubt/Chiss Redoubt"
 {
 	Galaxy     	"Star Wars galaxy"
 	Type       	"Open"	// within galaxy disk
-    RA         0.08738122332791172
-    Dec        24.586346444018584
-    Dist       382999774.4083903
+    RA          0.08738122376706868
+    Dec         24.586346451969494
+    Dist        382996286.5635273
     Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter

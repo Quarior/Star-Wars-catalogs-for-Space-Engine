@@ -139,9 +139,25 @@ Nebula    "Stygian Caldera"
 //           Unknown Regions        //
 //////////////////////////////////////
 
-// http://starwars.wikia.com/wiki/Rata_Nebula
-// (to be added)
-
+// https://starwars.fandom.com/wiki/Rata_Nebula
+// Region : Unknown Regions
+// Region wiki : http://starwars.wikia.com/wiki/Unknown_Regions
+// Sector : Chiss Ascendancy
+// Sector wiki : https://starwars.fandom.com/wiki/Chiss_Ascendancy/Legends
+// System wiki : https://starwars.fandom.com/wiki/Rata_Nebula
+// Grid location : E-9/F-9
+// Known planet : Rata Nebula
+// X : -9049.215, Y : 3400.425, Z : -3197.9559285821265
+Nebula "Rata Nebula" // arbitrary centered on Rhigar, TO CHECK position
+{
+    Galaxy  "Star Wars Galaxy"
+    Type    "Diffuse"
+    RA         0.08742324847661448
+    Dec        24.586064190272264
+    Dist       383003198.07792646
+    Radius     5
+    AbsMagn   -5
+}
 
 //////////////////////////////////////
 //           Wild Space             //
