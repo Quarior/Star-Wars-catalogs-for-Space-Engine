@@ -79,6 +79,29 @@ Nebula "Utegetu Nebula"
 }
 
 
+//////////////////////////////////////
+//           Hutt Space             //
+//////////////////////////////////////
+
+// https://starwars.fandom.com/wiki/Ganath_Cloud/Legends
+// Region : Hutt Space
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Oktos sector
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Oktos_sector
+// Grid location : R-11, R-12
+// Known planet : 
+// X : 9768.914999999999, Y : -1035.2399999999998, Z : 3691.96742831231
+Nebula "Ganath Cloud" (arbitrary centered on Jilrua)
+{
+    Galaxy  "Star Wars Galaxy"
+    Type    "Diffuse" // default
+    RA         0.0872355721505122
+    Dec        24.585400629361462
+    Dist       382996308.15855646
+    Radius     5 // default
+    AbsMagn   -5 // default
+}
+
 
 //////////////////////////////////////
 //           Outer Rim              //

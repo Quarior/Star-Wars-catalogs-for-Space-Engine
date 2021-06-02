@@ -4,1119 +4,1447 @@
 
 // http://starwars.wikia.com/wiki/Affavan
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S12
-// X : 11010.17, Y : -3886.74, Z : 151.05773826803215
-Star "Affavan System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Affavan_system
+// Grid location : S-12
+// Known planet : Affavan
+// X : 11010.164999999999, Y : -1755.3749999999995, Z : 3918.7912557155432
+Star "Affavan system" // system name
 {
-    RA         0.08722319381699671
-    Dec        24.58529290122154
-    Dist       382999849.1045401
+    RA         0.08722319278664192
+    Dec        24.585292897890223
+    Dist       382996081.37102413
     Class      "M8 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Alee
-// Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : R9
-// X : 10265.65, Y : 418.1, Z : 293.66799693724806
-Star "Alee System" // system name
+// Region : Hutt Space, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Alee_system
+// Grid location : R-9
+// Known planet : Alee
+// X : 10265.654999999999, Y : 2549.46, Z : 8340.438803941872
+Star "Alee system" // system name
 {
-    RA         0.08723061899568181
-    Dec        24.585936894211482
-    Dist       382999706.478065
+    RA         0.08723061679475902
+    Dec        24.585936900728683
+    Dist       382991659.7072611
     Class      "M5 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Varl
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11550.98, Y : -2334.91, Z : -14.532042871364979
-Star "Ardos System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Ardos_system
+// Grid location : S-11
+// Known planet : Varl
+// X : 11550.975, Y : -203.54999999999973, Z : -2765.756465098782
+Star "Ardos/Ardos System" // system name (formerly Ardos, Evona)
 {
-    RA         0.08721780028234498
-    Dec        24.58552505095948
-    Dist       383000014.7062812
+    RA         0.08721780115972473
+    Dec        24.585525049682243
+    Dist       383002765.93070203
     Class      "DA 3"
 }
 
 // http://starwars.wikia.com/wiki/Aylayl
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S12
-// X : 11834.26, Y : -4342, Z : 180.73945777922984
-Star "Aylayl System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Aylayl_system
+// Grid location : S-12
+// Known planet : Aylayl
+// X : 11834.265, Y : -2210.64, Z : 6562.062288028851
+Star "Aylayl system" // system name
 {
-    RA         0.08721497502673259
-    Dec        24.585224795486074
-    Dist       382999819.4497546
+    RA         0.08721497301036893
+    Dec        24.585224788479973
+    Dist       382993438.12692773
     Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Bootana_Shagplan
-// Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11809.38, Y : -1451.55, Z : 85.16419608895148
-Star "Bootana Shagplan System" // system name
+// Region : Hutt Space, Bootana Hutta
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Bootana_Shagplan_system
+// Grid location : S-10
+// Known planet : Bootana Shagplan
+// X : 11809.380000000001, Y : 679.8150000000003, Z : 1452.7873274168978
+Star "Bootana Shagplan system" // system name
 {
-    RA         0.08721522318835381
-    Dec        24.585657199283265
-    Dist       382999915.0184719
+    RA         0.08721522276779271
+    Dec        24.585657198898424
+    Dist       382998547.39534116
     Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Carnovia
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S12
-// X : 10627.84, Y : -4368.58, Z : -262.2837211634026
-Star "Carnovia System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Carnovia_system
+// Grid location : S-12
+// Known planet : Carnovia
+// X : 10627.845000000001, Y : -2237.22, Z : -5497.956036604767
+Star "Carnovia system" // system name
 {
-    RA         0.08722700696950733
-    Dec        24.585220819574147
-    Dist       383000262.43771076
+    RA         0.08722700836856344
+    Dec        24.585220822653266
+    Dist       383005498.11002433
     Class      "M6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Ylesia
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T12
-// X : 12678.44, Y : -3209.46, Z : -191.1566567574136
-Star "Cha Raaba System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Cha_Raaba_system
+// Grid location : T-12
+// Known planet : Ylesia
+// X : 12678.435000000001, Y : -1078.0949999999998, Z : 2771.137114415511
+Star "Cha Raaba system/Ylesian system" // system name
 {
-    RA         0.08720655600696513
-    Dec        24.58539422068902
-    Dist       383000191.368021
+    RA         0.08720655507884964
+    Dec        24.585394218693615
+    Dist       382997229.07425135
     Class      "M0 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Circumtore
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S12
-// X : 10630.46, Y : -3666.77, Z : 287.87566434242535
-Star "Circumtore System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Circumtore_system
+// Grid location : S-12
+// Known planet : Circumtore
+// X : 10630.455, Y : -1535.4149999999995, Z : -2481.905062070378
+Star "Circumtore system" // system name
 {
-    RA         0.08722698068756624
-    Dec        24.585325808078366
-    Dist       382999712.2749417
+    RA         0.08722698150413756
+    Dec        24.585325807495497
+    Dist       383002482.0556669
     Class      "M8 IV" // random
 }
 
-// http://starwars.wikia.com/wiki/Cyax
+// http://starwars.wikia.com/wiki/Da_Soocha
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11839.69, Y : -2134.58, Z : 5.696971663597424
-Star "Cyax System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Cyax_system
+// Grid location : S-11
+// Known planet : Da Soocha
+// X : 11839.68, Y : -3.2100000000000364, Z : -5409.457590525744
+Star "Cyax/Cyax system" // Star name / system name
 {
-    RA         0.08721492092643732
-    Dec        24.585555019792547
-    Dist       382999994.48602873
+    RA         0.08721492269563849
+    Dec        24.585555019799337
+    Dist       383005409.640588
     Class      "M0 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Cyborrea
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S9
-// X : 11039.67, Y : 279.08, Z : -579.5226866255639
-Star "Cyborrea System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Cyborrea_system
+// Grid location : S-9
+// Known planet : Cyborrea
+// X : 11039.67, Y : 2410.44, Z : -8924.807708778484
+Star "Cyborrea system" // system name
 {
-    RA         0.08722289981880614
-    Dec        24.585916096351834
-    Dist       383000579.6893764
+    RA         0.08722290221775125
+    Dec        24.585916086998953
+    Dist       383008924.9743949
     Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Dirha
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S9
-// X : 11328.02, Y : 1153.72, Z : 278.32286183960264
-Star "Dirha System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Dirha_system
+// Grid location : S-9
+// Known planet : Dirha
+// X : 11328.015, Y : 3285.09, Z : 4809.522136043867
+Star "Dirha system" // system name
 {
-    RA         0.08722002381066868
-    Dec        24.586046941068137
-    Dist       382999721.85875165
+    RA         0.08722002252391876
+    Dec        24.58604694688235
+    Dist       382995190.6594795
     Class      "K5 IV"
 }
 
 // http://starwars.wikia.com/wiki/Diyu
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S12
-// X : 11784.38, Y : -3265.33, Z : -130.02104479351362
-Star "Diyu System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Diyu_system
+// Grid location : S-12
+// Known planet : Diyu
+// X : 11784.375, Y : -1133.9699999999998, Z : -7326.386102551804
+Star "Diyu system" // system name
 {
-    RA         0.08721547258333337
-    Dec        24.585385862662978
-    Dist       383000130.20401794
+    RA         0.08721547484143323
+    Dec        24.585385864354368
+    Dist       383007326.5690721
     Class      "M7 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Du_Hutta
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 10696.87, Y : -2577.91, Z : 576.8783328329969
-Star "Du Hutta System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : 
+// Grid location : S-11
+// Known planet : Du Hutta
+// X : 10696.875, Y : -446.5499999999997, Z : 2410.6084445353627
+Star "Du Hutta system" // system name (assumed)
 {
-    RA         0.08722631828929917
-    Dec        24.58548869870517
-    Dist       382999423.271305
+    RA         0.08722631772865841
+    Dec        24.585488696889357
+    Dist       382997589.5411942
     Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Elgit
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T10
-// X : 12081.75, Y : -1161.41, Z : 68.20726365692951
-Star "Elgit System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Elgit_system
+// Grid location : T-10
+// Known planet : Elgit
+// X : 12081.75, Y : 969.96, Z : -5748.2686052926565
+Star "Elgit system" // system name
 {
-    RA         0.08721250680466835
-    Dec        24.585700603457425
-    Dist       382999931.98452425
+    RA         0.0872125086345254
+    Dec        24.585700601253826
+    Dist       383005748.46039027
     Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Far_Pando
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S13
-// X : 11460.58, Y : -5526.04, Z : 283.28533641520187
-Star "Far Pando System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Far_Pando_system
+// Grid location : S-13
+// Known planet : Far Pando
+// X : 11460.585, Y : -3394.68, Z : 266.56871151715166
+Star "Far Pando system" // system name
 {
-    RA         0.08721870176670822
-    Dec        24.585047666037347
-    Dist       382999716.90117633
+    RA         0.08721870172183113
+    Dec        24.58504766456354
+    Dist       382999733.6178015
     Class      "M1 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Ganath
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : R12
-// X : 10297.89, Y : -3294.92, Z : 19.49302417337867
-Star "Ganath System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Ganathan Space, Oktos Nebula
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Ganathan_Space, https://starwars.fandom.com/wiki/Oktos_Nebula
+// System wiki : https://starwars.fandom.com/wiki/Ganath_system
+// Grid location : R-12
+// Known planet : Ganath
+// X : 10297.89, Y : -1163.5499999999997, Z : -3855.0156153016064
+Star "Ganath system" // system name
 {
-    RA         0.08723029753441644
-    Dec        24.58538143601137
-    Dist       382999980.6471852
+    RA         0.08723029857336574
+    Dec        24.58538143777222
+    Dist       383003855.1558233
     Class      "M9 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Gos_Hutta
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11378.14, Y : -1761.42, Z : 302.80286285113493
-Star "Gos Hutta System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Gos_Hutta_system
+// Grid location : S-11
+// Known planet : Gos Hutta
+// X : 11378.145, Y : 369.94500000000016, Z : 8810.338687718735
+Star "Gos Hutta system" // system name
 {
-    RA         0.08721952394848906
-    Dec        24.585610843578042
-    Dist       382999697.3663265
+    RA         0.08721952137793341
+    Dec        24.585610844059406
+    Dist       382991189.8305055
     Class      "M5 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Groth
-// Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11573.17, Y : -1771.36, Z : -442.89755534568485
-Star "Groth System" // system name
+// Region : Hutt Space, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Groth_system
+// Grid location : S-11
+// Known planet : Groth
+// X : 11573.175, Y : 360.0000000000002, Z : -5007.826002119735
+Star "Groth system" // system name
 {
-    RA         0.08721757910712077
-    Dec        24.585609356474492
-    Dist       383000443.0725785
+    RA         0.08721758043292464
+    Dec        24.585609354336636
+    Dist       383005008.0010233
     Class      "M9 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Hollastin
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S12
-// X : 11389.88, Y : -4046.48, Z : 231.8101173276558
-Star "Hollastin System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Hollastin_system
+// Grid location : S-12
+// Known planet : Hollastin
+// X : 11389.875, Y : -1915.125, Z : -2202.923582108463
+Star "Hollastin system" // system name
 {
-    RA         0.08721940688460425
-    Dec        24.585269004473332
-    Dist       382999768.36403036
+    RA         0.08721940765657782
+    Dec        24.585269004050627
+    Dist       383002203.0977286
     Class      "G2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Hosko
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11154.49, Y : -2725.21, Z : -588.1762896136632
-Star "Hosko System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Hosko_system
+// Grid location : S-11
+// Known planet : Hosko
+// X : 11154.495, Y : -593.8499999999999, Z : -254.79159155159437
+Star "Hosko system" // system name
 {
-    RA         0.08722175470531549
-    Dec        24.58546666325469
-    Dist       383000588.3391814
+    RA         0.08722175455861565
+    Dec        24.58546666168139
+    Dist       383000254.9544836
     Class      "M7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Huloon
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11555.92, Y : -1578.95, Z : -426.093066643705
-Star "Huloon System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Huloon_system
+// Grid location : S-11
+// Known planet : Huloon
+// X : 11555.925, Y : 552.4200000000001, Z : 7710.646668018736
+Star "Huloon system" // system name
 {
-    RA         0.0872177511388009
-    Dec        24.585638140468163
-    Dist       383000426.26779807
+    RA         0.08721774864045144
+    Dec        24.585638142223875
+    Dist       382992289.5280673
     Class      "K2 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Ilos
-// Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : R10
-// X : 10167.94, Y : -395.29, Z : 450.341355945533
-Star "Ilos System" // system name
-{
-    RA         0.08723159343198973
-    Dec        24.585815213247667
-    Dist       382999549.7975489
-    Class      "M6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Ilos_Minor
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : R10
-// X : 10372.72, Y : -458.43, Z : 492.770114479574
-Star "Ilos Minor System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Ilos_Minor_system
+// Grid location : R-10
+// Known planet : Ilos Minor
+// X : 10372.725, Y : 1672.9350000000002, Z : 7702.109761356967
+Star "Ilos Minor system" // system name
 {
-    RA         0.08722955111530488
-    Dec        24.58580576768852
-    Dist       382999507.37400067
+    RA         0.0872295491181453
+    Dec        24.585805771651486
+    Dist       382992298.0343566
     Class      "M3 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Ilos
+// Region : Hutt Space
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Ilos_system
+// Grid location : R-10
+// Known planet : Ilos
+// X : 10167.945000000002, Y : 1736.0850000000003, Z : 3668.340878120644
+Star "Ilos system" // system name
+{
+    RA         0.08723159253008846
+    Dec        24.585815216177817
+    Dist       382996331.798028
+    Class      "M6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Irith
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 10568.12, Y : -1948.55, Z : 346.4451673092617
-Star "Irith System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Irith_system
+// Grid location : S-11
+// Known planet : Irith
+// X : 10568.115000000002, Y : 182.8200000000004, Z : -869.1357333813005
+Star "Irith system" // system name
 {
-    RA         0.08722760239844186
-    Dec        24.585582849409626
-    Dist       382999653.70067954
+    RA         0.08722760278282195
+    Dec        24.585582849322822
+    Dist       383000869.2815796
     Class      "M8 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Jilrua
-// Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : R12
-// X : 9768.91, Y : -3166.6, Z : 128.90914690554598
-Star "Jilrua System" // system name
+// Region : Hutt Space, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Jilrua_system
+// Grid location : R-12
+// Known planet : Jilrua
+// X : 9768.914999999999, Y : -1035.2399999999998, Z : 6873.306616130577
+Star "Jilrua system" // system name
 {
-    RA         0.08723557310675195
-    Dec        24.585400632298203
-    Dist       382999871.2168365
+    RA         0.08723557134122605
+    Dec        24.58540062807503
+    Dist       382993126.81936973
     Class      "M5 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Kafane
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S9
-// X : 11683.51, Y : 743.24, Z : 92.97754021393257
-Star "Kafane System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Kafane_system
+// Grid location : S-9
+// Known planet : Kafane
+// X : 11683.5, Y : 2874.6150000000002, Z : 5914.043008830831
+Star "Kafane system" // system name
 {
-    RA         0.08721647850736301
-    Dec        24.585985534101116
-    Dist       382999907.2114517
+    RA         0.0872164768361047
+    Dec        24.58598554138513
+    Dist       382994086.1459857
     Class      "M7 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Keldooine
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : R10
-// X : 9853.78, Y : -1260.69, Z : 261.1807484220517
-Star "Keldooine System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Keldooine_system                              
+// Grid location : R-10
+// Known planet : Keldooine
+// X : 9853.785, Y : 870.6750000000002, Z : -6857.551599440228
+Star "Keldooine system" // system name
 {
-    RA         0.08723472665080374
-    Dec        24.585685751496936
-    Dist       382999738.94699985
+    RA         0.08723472842749015
+    Dec        24.58568574832805
+    Dist       383006857.6793454
     Class      "M6 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Kintan/Legends
+// https://starwars.fandom.com/wiki/Kintan/Legends
 // Region : Hutt Space
-// Sector : Si’Klaata Cluster
-// Grid location : S9
-// X : 11599.6793657504, Y : 1408.4440836374, Z : 431.27333700476834
-Star "Kintan/Kintan System" // Star name / system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Si'Klaata Cluster
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Si%27Klaata_Cluster/Legends
+// System wiki : https://starwars.fandom.com/wiki/Kintan_system
+// Grid location : S-9
+// Known planet : Kintan
+// X : 11587.17, Y : 3550.0350000000003, Z : -8402.511821770195
+Star "Kintan/Kintan system" // Star name / system name
 {
-    RA         0.08721731446135063
-    Dec        24.58608504735151
-    Dist       382999568.9186774
+    RA         0.08721744188466116
+    Dec        24.58608656412623
+    Dist       383008402.70354766
     Class      "M5 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Klatooine
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S9
-// X : 11616, Y : 1443.82, Z : -48.00664129843699
-Star "Klatooine System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Si'Klaata Cluster
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Si%27Klaata_Cluster/Legends
+// System wiki : https://starwars.fandom.com/wiki/Klatooine_system
+// Grid location : S-9
+// Known planet : Klatooine
+// X : 11616, Y : 3575.175, Z : 4024.5738006542006
+Star "Klatooine system" // system name
 {
-    RA         0.08721715183791162
-    Dec        24.58609033883101
-    Dist       383000048.1994786
+    RA         0.08721715060604239
+    Dec        24.586090342274222
+    Dist       382995975.6190386
     Class      "G6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Kleeva
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : R11
-// X : 10309.96, Y : -2809.66, Z : 579.4767950666542
-Star "Kleeva System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Kleeva_system
+// Grid location : R-11
+// Known planet : Kleeva
+// X : 10309.965, Y : -678.2999999999997, Z : -1704.202206486333
+Star "Kleeva system" // system name
 {
-    RA         0.0872301770080837
-    Dec        24.58545402946975
-    Dist       382999420.66257244
+    RA         0.08723017757130865
+    Dec        24.585454028578813
+    Dist       383001704.3415733
     Class      "K2 IV"
 }
 
 // http://starwars.wikia.com/wiki/Kor_Anjiliac
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11650.14, Y : -1528.52, Z : -283.1212780205806
-Star "Kor Anjiliac System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Anjiliac_system
+// Grid location : S-11
+// Known planet : Kor Anjiliac
+// X : 11650.140000000001, Y : 602.8500000000004, Z : -7002.946813167587
+Star "Kor Anjiliac system" // system name
 {
-    RA         0.08721681142574433
-    Dec        24.58564568468707
-    Dist       383000283.29894
+    RA         0.08721681346426305
+    Dec        24.585645683104786
+    Dist       383007003.124472
     Class      "M5 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Kor_Besadii
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11221.52, Y : -1066.72, Z : 508.9642934650692
-Star "Kor Besadii System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Besadii_system
+// Grid location : S-10
+// Known planet : Kor Besadii
+// X : 11221.515, Y : 1064.6400000000003, Z : 620.7595220345399
+Star "Kor Besadii system" // system name
 {
-    RA         0.08722108588512759
-    Dec        24.58571476901494
-    Dist       382999491.2015762
+    RA         0.08722108590232638
+    Dec        24.585714767565452
+    Dist       382999379.4063476
     Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Kor_Desilijic
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11482.94, Y : -1645.3, Z : -30.258630588208007
-Star "Kor Desilijic System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Desilijic_system
+// Grid location : S-11
+// Known planet : Kor Desilijic
+// X : 11482.935, Y : 486.0600000000002, Z : -5971.5643103692055
+Star "Kor Desilijic system" // system name
 {
-    RA         0.08721847886053506
-    Dec        24.585628214771145
-    Dist       383000030.43107724
+    RA         0.08721848068688698
+    Dec        24.58562821214722
+    Dist       383005971.7367542
     Class      "M8 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Kor_Gejalli
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11668.72, Y : -1844.35, Z : 400.56327751983815
-Star "Kor Gejalli System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Gejalli_system
+// Grid location : S-11
+// Known planet : Kor Gejalli
+// X : 11668.71, Y : 287.0100000000002, Z : 637.9483415924255
+Star "Kor Gejalli system" // system name
 {
-    RA         0.08721662591691196
-    Dec        24.585598437472157
-    Dist       382999599.6145835
+    RA         0.08721662594451439
+    Dec        24.585598436002794
+    Dist       382999362.2295192
     Class      "K3 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Kor_Hestilic
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11205.59, Y : -1211.37, Z : 31.22388664533935
-Star "Kor Hestilic System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Hestilic_system
+// Grid location : S-10
+// Known planet : Kor Hestilic
+// X : 11205.585, Y : 919.9950000000003, Z : -5842.853273468696
+Star "Kor Hestilic system" // system name
 {
-    RA         0.08722124489710839
-    Dec        24.58569312955992
-    Dist       382999968.9411416
+    RA         0.08722124666093707
+    Dec        24.585693126701152
+    Dist       383005843.01829904
     Class      "M3 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Kor_Hunamma
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11176.4, Y : -1884.16, Z : -56.03273863438335
-Star "Kor Hunamma System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Hunamma_system
+// Grid location : S-11
+// Known planet : Kor Hunamma
+// X : 11176.394999999999, Y : 247.20000000000027, Z : -8304.587733246733
+Star "Kor Hunamma system" // system name
 {
-    RA         0.08722153603894102
-    Dec        24.58559248195191
-    Dist       383000056.19588876
+    RA         0.08722153848931924
+    Dec        24.585592479659518
+    Dist       383008304.75087976
     Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Kor_Jiramma
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11668.72, Y : -1695.72, Z : -411.76516145649146
-Star "Kor Jiramma System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Jiramma_system
+// Grid location : S-11
+// Known planet : Kor Jiramma
+// X : 11668.71, Y : 435.6450000000002, Z : 6731.337927291932
+Star "Kor Jiramma system" // system name
 {
-    RA         0.0872166261637367
-    Dec        24.585620672009163
-    Dist       383000411.9431624
+    RA         0.0872166240930133
+    Dec        24.58562067247667
+    Dist       382993268.8400766
     Class      "K1 IV"
 }
 
 // http://starwars.wikia.com/wiki/Kor_Nasirii
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11120.66, Y : -858.38, Z : 11.926173638547084
-Star "Kor Nasirii System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Nasirii_system
+// Grid location : S-10
+// Known planet : Kor Nasirii
+// X : 11120.654999999999, Y : 1272.9900000000002, Z : -507.432697640794
+Star "Kor Nasirii system" // system name
 {
-    RA         0.08722209192287875
-    Dec        24.585745935918105
-    Dist       382999988.23738974
+    RA         0.08722209212313876
+    Dec        24.58574593565987
+    Dist       383000507.5962607
     Class      "M8 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Kor_Nijiladii
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11329, Y : -1110.51, Z : -67.89498314280729
-Star "Kor Nijiladii System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Nijiladii_system
+// Grid location : S-10
+// Known planet : Kor Nijiladii
+// X : 11329.005000000001, Y : 1020.8550000000002, Z : 3491.744833570099
+Star "Kor Nijiladii system" // system name
 {
-    RA         0.08722001413910412
-    Dec        24.58570821790889
-    Dist       383000068.0638975
+    RA         0.08722001303912656
+    Dec        24.585708218580287
+    Dist       382996508.42408246
     Class      "G8 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Kor_Oktanivii
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11287.87, Y : -1878.85, Z : 522.4952763240744
-Star "Kor Oktanivii System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Oktanivii_system
+// Grid location : S-11
+// Known planet : Kor Oktanivii
+// X : 11287.86, Y : 252.51000000000022, Z : 134.82897891979349
+Star "Kor Oktanivii system" // system name
 {
-    RA         0.08722042416139072
-    Dec        24.58559327637071
-    Dist       382999477.6711466
+    RA         0.08722042437506977
+    Dec        24.585593274836498
+    Dist       382999865.3374436
     Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Kor_Trinivii
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11801.42, Y : -1755.44, Z : 233.79711583456015
-Star "Kor Trinivii System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Trinivii_system
+// Grid location : S-11
+// Known planet : Kor Trinivii
+// X : 11801.414999999999, Y : 375.9300000000003, Z : 5039.239187964988
+Star "Kor Trinivii system" // system name
 {
-    RA         0.08721530252901527
-    Dec        24.585611738160683
-    Dist       382999766.38488793
+    RA         0.08721530110213022
+    Dec        24.5856117388663
+    Dist       382994960.942818
     Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Kor_Usilic
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11271.94, Y : -1690.42, Z : -90.25856660961472
-Star "Kor Usilic System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Usilic_system
+// Grid location : S-11
+// Known planet : Kor Usilic
+// X : 11271.945, Y : 440.95500000000015, Z : 7444.83371018324
+Star "Kor Usilic system" // system name
 {
-    RA         0.08722058321383123
-    Dec        24.585621464929563
-    Dist       383000090.4246907
+    RA         0.08722058095224823
+    Dec        24.585621466975375
+    Dist       382992555.3324173
     Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Kor_Utoradii
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11086.16, Y : -1671.84, Z : 32.99406194577239
-Star "Kor Utoradii System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Utoradii_system
+// Grid location : S-11
+// Known planet : Kor Utoradii
+// X : 11086.155, Y : 459.5250000000001, Z : -760.5943805918503
+Star "Kor Utoradii system" // system name
 {
-    RA         0.08722243599067907
-    Dec        24.585624244469525
-    Dist       382999967.16666144
+    RA         0.08722243626963652
+    Dec        24.5856242435791
+    Dist       383000760.7551035
     Class      "M0 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Kor_Vosadii
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11075.54, Y : -1049.47, Z : -311.8273156892439
-Star "Kor Vosadii System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Kor_Vosadii_system
+// Grid location : S-10
+// Known planet : Kor Vosadii
+// X : 11075.55, Y : 1081.89, Z : 1465.6065325528016
+Star "Kor Vosadii system" // system name
 {
-    RA         0.08722254200504888
-    Dec        24.585717349225554
-    Dist       383000311.98898405
+    RA         0.08722254139269937
+    Dec        24.58571734848069
+    Dist       382998534.55513686
     Class      "M4 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Langoona
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11704.66, Y : -1451.59, Z : 533.2619525140362
-Star "Langoona System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Langoona_system
+// Grid location : S-10
+// Known planet : Langoona
+// X : 11704.665, Y : 679.7700000000002, Z : 8189.881588655586
+Star "Langoona system" // system name
 {
-    RA         0.08721626744087688
-    Dec        24.58565719341835
-    Dist       382999466.9175009
+    RA         0.08721626505733923
+    Dec        24.585657193955356
+    Dist       382991810.29786855
     Class      "M5 III" // random
 }
 
 // http://starwars.wikia.com/wiki/M%27Hanna
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T11
-// X : 12225.35, Y : -2444.91, Z : 151.3991261062405
-Star "M'Hanna System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/M%27Hanna_system
+// Grid location : T-11
+// Known planet : M'Hanna
+// X : 12225.36, Y : -313.5449999999996, Z : -324.7726634779531
+Star "M'Hanna system" // system name
 {
-    RA         0.08721107463277226
-    Dec        24.585508595232874
-    Dist       382999848.79611874
+    RA         0.08721107468462662
+    Dec        24.585508594543203
+    Dist       383000324.9679084
     Class      "M7 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Moralan
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T10
-// X : 12497.14, Y : -1039.15, Z : -68.67254014906064
-Star "Moralan System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Moralan_system
+// Grid location : T-10
+// Known planet : Moralan
+// X : 12497.145, Y : 1092.2100000000003, Z : -6775.881923168215
+Star "Moralan system" // system name
 {
-    RA         0.08720836409933089
-    Dec        24.585718893172533
-    Dist       383000068.8779859
+    RA         0.08720836623208816
+    Dec        24.585718888815247
+    Dist       383006776.0873654
     Class      "K6 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Mulatan
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11386.49, Y : -1261.58, Z : -170.3072344996134
-Star "Mulatan System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Mulatan_system
+// Grid location : S-10
+// Known planet : Mulatan
+// X : 11386.485, Y : 869.7900000000002, Z : 3118.929947576878
+Star "Mulatan system" // system name
 {
-    RA         0.08721944081285005
-    Dec        24.585685618208625
-    Dist       383000170.4774808
+    RA         0.08721943988745215
+    Dec        24.5856856193261
+    Dist       382996881.2403
     Class      "M7 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Nar_Bo_Sholla
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : R10
-// X : 10288.8, Y : -1406.02, Z : -549.2818807739545
-Star "Nar Bo Sholla System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Nar_Bo_Sholla_system
+// Grid location : R-10
+// Known planet : Nar Bo Sholla
+// X : 10288.8, Y : 725.3400000000001, Z : 2366.640006245537
+Star "Nar Bo Sholla system" // system name
 {
-    RA         0.08723038834278998
-    Dec        24.585664010271717
-    Dist       383000549.4207651
+    RA         0.08723038756156433
+    Dec        24.585664009601867
+    Dist       382997633.49887913
     Class      "M3 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Nar_Chunna
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11228.15, Y : -1446.25, Z : 375.9846441133727
-Star "Nar Chunna System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Nar_Chunna_system
+// Grid location : S-10
+// Known planet : Nar Chunna
+// X : 11228.145, Y : 685.1250000000002, Z : 3086.6751967769806
+Star "Nar Chunna system" // system name
 {
-    RA         0.08722101980189764
-    Dec        24.585657992227144
-    Dist       382999624.18055284
+    RA         0.08722101905921523
+    Dec        24.585657993700533
+    Dist       382996913.49000126
     Class      "K6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Nar_Haaska
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T11
-// X : 13215.22, Y : -2235.42, Z : -513.9739645084596
-Star "Nar Haaska System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Nar_Haaska_system
+// Grid location : T-11
+// Known planet : Nar Haaska
+// X : 13215.225, Y : -104.05499999999984, Z : -4932.468033759539
+Star "Nar Haaska system" // system name
 {
-    RA         0.08720120273021219
-    Dec        24.585539934418126
-    Dist       383000514.2019706
+    RA         0.08720120420081169
+    Dec        24.58553993384972
+    Dist       383004932.6960373
     Class      "M5 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Nar_Kaaga
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S13
-// X : 10567.61, Y : -4965.64, Z : -160.35403022416267
-Star "Nar Kaaga System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Nar_Kaaga_system
+// Grid location : S-13
+// Known planet : Nar Kaaga
+// X : 10567.605, Y : -2834.28, Z : -650.0808818906154
+Star "Nar Kaaga system" // system name
 {
-    RA         0.08722760762421493
-    Dec        24.58513150093732
-    Dist       383000160.51030624
+    RA         0.08722760780884142
+    Dec        24.585131499983497
+    Dist       383000650.23715764
     Class      "M8 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Nar_Kreeta
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 10638.9, Y : -533.37, Z : 292.1309453602024
-Star "Nar Kreeta System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Nar_Kreeta_system
+// Grid location : S-10
+// Known planet : Nar Kreeta
+// X : 10638.9, Y : 1597.9950000000003, Z : -7484.548148969396
+Star "Nar Kreeta system" // system name
 {
-    RA         0.08722689651289005
-    Dec        24.585794556724537
-    Dist       382999708.0201511
+    RA         0.0872268986672416
+    Dec        24.5857945511227
+    Dist       383007484.69924235
     Class      "K4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Near_Pando
-// Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S14
-// X : 11691.75, Y : -6177.9, Z : -207.96675030045674
-Star "Near Pando System" // system name
+// Region : Hutt Space, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Near_Pando_system
+// Grid location : S-14
+// Known planet : Near Pando
+// X : 11691.75, Y : -4046.5350000000003, Z : -3936.2488094001187
+Star "Near Pando system" // system name
 {
-    RA         0.08721639642016205
-    Dec        24.58495015022253
-    Dist       383000208.16658235
+    RA         0.08721639755521836
+    Dec        24.584950155367217
+    Dist       383003936.4486395
     Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Nimban
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 10848.1, Y : -504.46, Z : -114.2039147826207
-Star "Nimban System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Nimban_system
+// Grid location : S-10
+// Known planet : Nimban
+// X : 10848.105, Y : 1626.9, Z : 8217.321650389078
+Star "Nimban system" // system name
 {
-    RA         0.08722481024190874
-    Dec        24.585798881328596
-    Dist       383000114.361001
+    RA         0.08722480783850384
+    Dec        24.58579888512706
+    Dist       382991782.8354394
     Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Nimia
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S9
-// X : 11710.27, Y : 1470, Z : -564.9014199334371
-Star "Nimia System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Nimia_system
+// Grid location : S-9
+// Known planet : Nimia
+// X : 11710.275, Y : 3601.3650000000002, Z : 4825.513638578349
+Star "Nimia system" // system name
 {
-    RA         0.08721621182625891
-    Dec        24.58609425456166
-    Dist       383000565.097373
+    RA         0.08721621013267276
+    Dec        24.586094261396294
+    Dist       382995174.6823174
     Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Orondia
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 10837.25, Y : -2710.83, Z : 478.7901962559308
-Star "Orondia System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Orondia_system
+// Grid location : S-11
+// Known planet : Orondia
+// X : 10837.244999999999, Y : -579.4649999999997, Z : 7134.695441109647
+Star "Orondia system" // system name
 {
-    RA         0.08722491828327425
-    Dec        24.58546881421958
-    Dist       382999521.36356604
+    RA         0.08722491645482486
+    Dec        24.585468811965097
+    Dist       382992865.4583237
     Class      "F3 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Outland_Transit
+// https://starwars.fandom.com/wiki/Outland_Transit_Station
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T12
-// X : 13441.08, Y : -3233.8, Z : 400.2610086080181
-Star "Space station/Outland Transit Station System" // Star name / system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Outland_Transit_Station
+// Grid location : T-12
+// Known planet : Outland Transit Station planetoid
+// X : 13441.08, Y : -1102.4249999999997, Z : 8861.749272458574
+Star "Outland Transit Station system" // system name
 {
-    RA         0.08719894987630859
-    Dec        24.585390579237025
-    Dist       382999599.97643024
+    RA         0.08719894691471644
+    Dec        24.585390576341407
+    Dist       382991138.48817164
     Class      "M7 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Poytta
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T12
-// X : 12839.98, Y : -3148.58, Z : -307.3759385877027
-Star "Poytta System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Poytta_system
+// Grid location : T-12
+// Known planet : Poytta
+// X : 12839.985, Y : -1017.2099999999996, Z : 8672.810318372505
+Star "Poytta system" // system name
 {
-    RA         0.08720494498305634
-    Dec        24.58540332821644
-    Dist       383000307.5925178
+    RA         0.08720494193062038
+    Dec        24.585403324648393
+    Dist       382991327.4062661
     Class      "M8 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Pybus
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11242.75, Y : -2068.61, Z : 182.69056994599725
-Star "Pybus System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Pybus_system
+// Grid location : S-11
+// Known planet : Pybus
+// X : 11242.74, Y : 62.745000000000346, Z : -53.86329595448103
+Star "Pybus system" // system name
 {
-    RA         0.08722087425026971
-    Dec        24.58556488873326
-    Dist       382999817.47444755
+    RA         0.08722087441925394
+    Dec        24.5855648864835
+    Dist       383000054.0283131
     Class      "G2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Ques
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S8
-// X : 11636.95, Y : 1545.94, Z : 98.74175906758057
-Star "Ques System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Ques_system
+// Grid location : S-8
+// Known planet : Ques
+// X : 11636.955, Y : 3677.3100000000004, Z : 8322.251930313749
+Star "Ques system" // system name
 {
-    RA         0.08721694285585815
-    Dec        24.586105615919777
-    Dist       382999901.4526812
+    RA         0.08721694031403869
+    Dec        24.58610562773174
+    Dist       382991677.94251436
     Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Quesh
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11723.47, Y : -833.99, Z : -49.84190145393518
-Star "Quesh System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Quesh_system
+// Grid location : S-10
+// Known planet : Quesh
+// X : 11723.475, Y : 1297.3800000000003, Z : -1570.8880671552993
+Star "Quesh system" // system name
 {
-    RA         0.08721608002356383
-    Dec        24.58574958456593
-    Dist       383000050.0235241
+    RA         0.08721608043803233
+    Dec        24.585749583795145
+    Dist       383001571.0696892
     Class      "M1 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Riileb
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T12
-// X : 12473.22, Y : -3768.5, Z : 544.8903854646119
-Star "Riileb System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Riileb_system
+// Grid location : T-12
+// Known planet : Riileb
+// X : 12473.22, Y : -1637.145, Z : -6758.000025975149
+Star "Riileb system" // system name
 {
-    RA         0.08720860245788845
-    Dec        24.585310589365633
-    Dist       382999455.3162224
+    RA         0.08720860482980904
+    Dec        24.585310591791487
+    Dist       383006758.20663
     Class      "M3 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Rorak_4
+// https://starwars.fandom.com/wiki/Rorak
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S12
-// X : 11054.64, Y : -3425.94, Z : 326.13724840193515
-Star "Rorak System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Rorak_system
+// Grid location : S-12
+// Known planet : Rorak
+// X : 11054.64, Y : -1294.5749999999994, Z : 6542.596648765251
+Star "Rorak system" // system name
 {
-    RA         0.08722275026018993
-    Dec        24.585361835612417
-    Dist       382999674.02447623
+    RA         0.08722274847069975
+    Dec        24.585361831721002
+    Dist       382993457.56507856
     Class      "F7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Runaway_Prince
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : R11
-// X : 9718.79, Y : -2090.83, Z : -10.204839182841056
-Star "Runaway Prince System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Runaway_Prince_system
+// Grid location : R-11
+// Known planet : Runaway Prince
+// X : 9718.785, Y : 40.5300000000002, Z : -2978.7154857917726
+Star "Runaway Prince system" // system name
 {
-    RA         0.08723607299668971
-    Dec        24.585561564675825
-    Dist       383000010.3281506
+    RA         0.0872360737977995
+    Dec        24.585561563132856
+    Dist       383002978.8387961
     Class      "M8 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Saki
+// https://starwars.fandom.com/wiki/Sakiya
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11588.29, Y : -1932.29, Z : -356.25018178730977
-Star "Saki Prime/Saki System" // Star name / system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Saki_system
+// Grid location : S-11
+// Known planet : Saki/Sakiya
+// X : 11588.295, Y : 199.08000000000038, Z : -968.0825029043871
+Star "Saki Prime/Saki system" // Star name / system name
 {
-    RA         0.08721742828703491
-    Dec        24.58558528180986
-    Dist       383000356.4255447
+    RA         0.08721742842179153
+    Dec        24.585585281762285
+    Dist       383000968.25786567
     Class      "M9 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Sakidopa
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11696.58, Y : -2019.52, Z : 272.3888993008029
-Star "Sakidopa System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Sakidopa_system
+// Grid location : S-11
+// Known planet : Sakidopa
+// X : 11696.58, Y : 111.85500000000047, Z : -8526.082848864218
+Star "Sakidopa system" // system name
 {
-    RA         0.08721634810354238
-    Dec        24.585572232473883
-    Dist       382999727.78972024
+    RA         0.08721635078326971
+    Dec        24.585572232837475
+    Dist       383008526.26146436
     Class      "M9 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Sakiduba
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S11
-// X : 11612.98, Y : -2080.56, Z : -288.38445413050067
-Star "Sakiduba System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Bootana Hutta
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Bootana_Hutta
+// System wiki : https://starwars.fandom.com/wiki/Sakiduba_system
+// Grid location : S-11
+// Known planet : Sakiduba
+// X : 11612.984999999999, Y : 50.80500000000029, Z : -1391.7382494470498
+Star "Sakiduba system" // system name
 {
-    RA         0.08721718202952751
-    Dec        24.585563101034897
-    Dist       383000288.56051654
+    RA         0.08721718231331135
+    Dec        24.585563100265016
+    Dist       383001391.91431147
     Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Sakifwanna
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T11
-// X : 12050.82, Y : -1771.24, Z : -442.28100937310995
-Star "Sakifwanna System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Sakifwanna_system
+// Grid location : T-11
+// Known planet : Sakifwanna
+// X : 12050.82, Y : 360.12000000000035, Z : 8540.311089512998
+Star "Sakifwanna system" // system name
 {
-    RA         0.08721281543461902
-    Dec        24.585609374426237
-    Dist       383000442.4707637
+    RA         0.08721281261583834
+    Dec        24.58560937419379
+    Dist       382991459.8786692
     Class      "M0 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Saqqar
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T11
-// X : 12756.95, Y : -2041.64, Z : -220.24196856079874
-Star "Saqqar System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Saqqar_system
+// Grid location : T-11
+// Known planet : Saqqar
+// X : 12756.945, Y : 89.73000000000002, Z : 1631.8529826686386
+Star "Saqqar system" // system name
 {
-    RA         0.08720577302456425
-    Dec        24.5855689233612
-    Dist       383000220.454433
+    RA         0.08720577245918888
+    Dec        24.585568923426113
+    Dist       382998368.35948265
     Class      "K2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Sionia
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 10974.2, Y : -257.75, Z : 332.66218136750877
-Star "Sionia System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Sionia_system
+// Grid location : S-10
+// Known planet : Sionia
+// X : 10974.210000000001, Y : 1873.6200000000003, Z : 3407.3513842280686
+Star "Sionia system" // system name
 {
-    RA         0.08722355249965255
-    Dec        24.58583578880327
-    Dist       382999667.49962497
+    RA         0.0872235515212777
+    Dec        24.585835791053423
+    Dist       382996592.8104237
     Class      "M1 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Sleheyron
-// Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11546.75, Y : -339.46, Z : 9.476262767632534
-Star "Sleheyron System" // system name
+// Region : Hutt Space                     
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Sleheyron_system
+// Grid location : S-10
+// Known planet : Sleheyron
+// X : 11546.745, Y : 1791.9150000000002, Z : -7921.754067107335
+Star "Sleheyron system" // system name
 {
-    RA         0.08721784246157332
-    Dec        24.585823564968166
-    Dist       382999990.7019858
+    RA         0.087217844896091
+    Dec        24.585823560165117
+    Dist       383007921.93231183
     Class      "F4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Tas-La
 // Region : Hutt Space
-// Sector : Si’Klaata Cluster
-// Grid location : S9
-// X : 11592.8411374826, Y : 1468.7669274169, Z : -239.44655112793998
-Star "Tas-La System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Si'Klaata Cluster
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Si%27Klaata_Cluster/Legends
+// System wiki : https://starwars.fandom.com/wiki/Tas-La_system
+// Grid location : S-9
+// Known planet : Tas-La
+// X : 11600.7, Y : 3608.1525, Z : -5891.069457926168
+Star Cluster "Tas-La system" // system name
 {
-    RA         0.08721738286261467
-    Dec        24.586094070555212
-    Dist       383000239.6389204
+    RA         0.0872173061922036
+    Dec        24.58609526169794
+    Dist       383005891.2621378
     Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Tal_Nami
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : R9
-// X : 10387.37, Y : 56.96, Z : 33.12759122004377
-Star "Tal Nami System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Tal_Nami_system
+// Grid location : R-9
+// Known planet : Tal Nami
+// X : 10387.38, Y : 2188.32, Z : -6279.755257211787
+Star "Tal Nami system" // system name
 {
-    RA         0.08722940513271146
-    Dec        24.585882868365605
-    Dist       382999967.0195188
+    RA         0.08722940674047903
+    Dec        24.58588286147382
+    Dist       383006279.90236497
     Class      "M6 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Terman
-// Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S8
-// X : 11575.1, Y : 1588.47, Z : -412.96910799741704
-Star "Terman System" // system name
-{
-    RA         0.0872175598499318
-    Dec        24.586111977552612
-    Dist       383000413.1620845
-    Class      "M9 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/The_Godsheart
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T11
-// X : 12450.56, Y : -1989.26, Z : 373.1694868382597
-Star "The Godsheart"
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : 
+// Grid location : T-11
+// Known planet : The Godsheart
+// X : 12450.555, Y : 142.09500000000025, Z : -6711.635979909308
+Star "The Godsheart" // system name
 {
-    RA         0.08720882850559124
-    Dec        24.585576759298068
-    Dist       382999627.03291106
+    RA         0.08720883085236336
+    Dec        24.585576756660895
+    Dist       383006711.8383739
     Class      "Q"
 }
 
 // http://starwars.wikia.com/wiki/Tisht
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T11
-// X : 12741.24, Y : -2659.65, Z : -28.35107209824912
-Star "Tisht System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Tisht_system
+// Grid location : T-11
+// Known planet : Tisht
+// X : 12741.240000000002, Y : -528.2849999999999, Z : 5237.973638142475
+Star "Tisht system" // system name
 {
-    RA         0.08720592963908524
-    Dec        24.585476470725432
-    Dist       383000028.5633675
+    RA         0.0872059278918191
+    Dec        24.58547646889075
+    Dist       382994762.23866016
     Class      "M2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Tol_Amn
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : R11
-// X : 9549.89, Y : -2407.04, Z : 593.0262560644671
-Star "Tol Amn System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Tol_Amn_system
+// Grid location : R-11
+// Known planet : Tol Amn
+// X : 9549.885, Y : -275.6699999999996, Z : 4005.7548145456058
+Star "Tol Amn system" // system name
 {
-    RA         0.08723775731263324
-    Dec        24.585514260438657
-    Dist       382999407.09290385
+    RA         0.08723775651382894
+    Dec        24.58551426007119
+    Dist       382995994.3643463
     Class      "M7 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Toydaria
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : R11
-// X : 10070.35, Y : -2562.2, Z : 461.8104692792799
-Star "Toydaria System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Toydaria_system
+// Grid location : R-11
+// Known planet : Toydaria
+// X : 10070.355, Y : -430.8299999999995, Z : 5402.4157034387945
+StarBarycenter "Toydaria system" // Star names (Toydar, Little Toydar) / system name
 {
-    RA         0.08723256671039098
-    Dec        24.585491048902217
-    Dist       382999538.32216483
+    RA         0.08723256536494164
+    Dec        24.5854910480708
+    Dist       382994597.7169325
     Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Tsyk
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T13
-// X : 12098.75, Y : -4651, Z : 459.48622981272524
-Star "Tsyk System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Tsyk_system
+// Grid location : T-13
+// Known planet : Tsyk
+// X : 12098.744999999999, Y : -2519.64, Z : -5509.405349418568
+Star "Tsyk system" // system name
 {
-    RA         0.08721233713772024
-    Dec        24.585178569613248
-    Dist       382999540.7131546
+    RA         0.08721233906803748
+    Dec        24.58517857399151
+    Dist       383005509.60473067
     Class      "M7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Ulmatra
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11942.96, Y : -265.33, Z : 106.31611976384102
-Star "Ulmatra System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Ulmatra_system
+// Grid location : S-10
+// Known planet : Ulmatra
+// X : 11942.955, Y : 1866.0450000000003, Z : 1240.779531907798
+Star "Ulmatra system" // system name
 {
-    RA         0.08721389096734204
-    Dec        24.585834654689506
-    Dist       382999893.8746327
+    RA         0.08721389066440047
+    Dec        24.585834656264367
+    Dist       382998759.4112211
     Class      "M6 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Usk
+// https://starwars.fandom.com/wiki/Usk_(planet)
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T10
-// X : 12452.95, Y : -1280.72, Z : -301.7725964117271
-Star "Usk System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Usk_system
+// Grid location : T-10
+// Known planet : Usk
+// X : 12452.955, Y : 850.6350000000002, Z : -2510.271908499561
+Star "Usk system" // system name
 {
-    RA         0.08720880488858906
-    Dec        24.585682754873215
-    Dist       383000301.97599
+    RA         0.08720880555486726
+    Dec        24.585682751895483
+    Dist       383002510.475301
     Class      "M3 II" // random
 }
 
-// http://starwars.wikia.com/wiki/Vodran/Legends
+// http://starwars.wikia.com/wiki/Vodran
 // Region : Hutt Space
-// Sector : Si’Klaata Cluster
-// Grid location : S9
-// X : 11572.9205213667, Y : 1445.0333495364, Z : 350.9130754070786
-Star "Vodran System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Si'Klaata Cluster
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Si%27Klaata_Cluster/Legends
+// System wiki : https://starwars.fandom.com/wiki/Vodran_system
+// Grid location : S-9
+// Known planet : Vodran
+// X : 11598.269999999999, Y : 3200.295, Z : -1668.4936803143025
+Star "Vodran system" // system name
 {
-    RA         0.08721758135598928
-    Dec        24.586090520902104
-    Dist       382999649.2784693
+    RA         0.08721732915134744
+    Dec        24.586034253519312
+    Dist       383001668.6826635
     Class      "F2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Vontor
 // Region : Hutt Space
-// Sector : Si’Klaata Cluster
-// Grid location : S9
-// X : 11631.2925592878, Y : 1437.1221569096, Z : 544.4761748559067
-Star "Vontor System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Si'Klaata Cluster
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/Si%27Klaata_Cluster/Legends
+// System wiki : https://starwars.fandom.com/wiki/Vontor_system
+// Grid location : S-9
+// Known planet : Vontor
+// X : 11633.115000000002, Y : 3573.7200000000003, Z : 1006.2470397054358
+
+Star "Vontor system" // system name
 {
-    RA         0.08721699914340822
-    Dec        24.586089337677475
-    Dist       382999455.71706444
+    RA         0.0872169808280166
+    Dec        24.58609012039456
+    Dist       382998993.94630396
     Class      "M1 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Xolu
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S13
-// X : 11308.7, Y : -4910.65, Z : 563.5638534083862
-Star "Xolu System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Xolu_system
+// Grid location : S-13
+// Known planet : Xolu
+// X : 11308.695, Y : -2779.2899999999995, Z : 1886.251608465304
+Star "Xolu system" // system name
 {
-    RA         0.08722021640818056
-    Dec        24.585139726505492
-    Dist       382999436.61318487
+    RA         0.08722021606854734
+    Dec        24.585139723573633
+    Dist       382998113.9254303
     Class      "M8 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Nal_Hutta
+// http://starwars.wikia.com/wiki/Nal_Hutta, https://starwars.fandom.com/wiki/Nar_Shaddaa/Legends
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S12
-// X : 10559.83, Y : -3087.1, Z : 548.2887622129917
-Star "Y'Toub/Y'Toub System/Nal Hutta System"
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Y%27Toub_system
+// Grid location : S-12
+// Known planet : Nal Hutta, Nar Shaddaa
+// X : 10559.820000000002, Y : -955.7399999999998, Z : 7517.767271458711
+Star "Y'Toub/Y'Toub system/Nal Hutta system/Nar Shaddaa system" // Star name / system name
 {
-    RA         0.0872276850204756
-    Dec        24.585412525133826
-    Dist       382999451.85800487
+    RA         0.08722768320374726
+    Dec        24.585412521036048
+    Dist       382992482.379498
     Class      "K3 IV"
     Lum        2.50135
     MassSol    0.76384
@@ -1126,26 +1454,34 @@ Star "Y'Toub/Y'Toub System/Nal Hutta System"
 
 // http://starwars.wikia.com/wiki/Zisia
 // Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : S10
-// X : 11965.55, Y : -694.14, Z : -461.49953339111414
-Star "Zisia System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Zisia_system
+// Grid location : S-10
+// Known planet : Zisia
+// X : 11965.545, Y : 1437.2250000000001, Z : -1715.2132653483372
+Star "Zisia system" // system name
 {
-    RA         0.08721366585061098
-    Dec        24.58577050551949
-    Dist       383000461.6891416
+    RA         0.08721366629110366
+    Dec        24.58577050406771
+    Dist       383001715.40287274
     Class      "K1 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Ziugen
-// Region : Hutt Space
-// Sector : Hutt Space Sector
-// Grid location : T12
-// X : 13130.77, Y : -3259.33, Z : 488.05527668031027
-Star "Ziugen System" // system name
+// Region : Hutt Space, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hutt Space
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : https://starwars.fandom.com/wiki/Ziugen_system
+// Grid location : T-12
+// Known planet : Ziugen
+// X : 13130.76, Y : -1127.955, Z : -8963.892513357028
+Star "Ziugen system" // system name
 {
-    RA         0.08720204461946662
-    Dec        24.585386759974377
-    Dist       382999512.1714722
+    RA         0.0872020479509307
+    Dec        24.585386764886536
+    Dist       383008964.11925626
     Class      "M5 V" // random
 }

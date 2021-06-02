@@ -556,6 +556,35 @@ Cluster "Mektrun Cluster"
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
 
+
+//////////////////////////////////////
+//           Hutt Space             //
+//////////////////////////////////////
+
+// https://starwars.fandom.com/wiki/Si%27Klaata_Cluster/Legends
+// Region : Hutt Space
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Si'Klaata Cluster
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : 
+// Grid location : S-9
+// X : 11621.500000000005, Y : 3449.245000000001, Z : 7348.944967633572
+Star Cluster "Si'Klaata Cluster" // system name. Centered on 2/3 vontor, 1/3 vodran (https://starwars.fandom.com/wiki/Si%27Klaata_Cluster/Legends?file=Sisar_Run.png)
+{
+    Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA          0.08721709474706234
+    Dec         24.5860715077627
+    Dist        382992651.24688536
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+
 //////////////////////////////////////
 //           Outer Rim              //
 //////////////////////////////////////
