@@ -23,17 +23,19 @@ LogLevel    1
 
 // http://starwars.wikia.com/wiki/Anarid_Cluster
 // Region : Colonies
-// Sector : Duluur
-// Grid location : M13
-// Location is arbitrary centered on Kelada system for X-Y coords
-// X : 1816.82, Y : -5299, Z : 14.913586246782756
+// Region wiki : http://starwars.wikia.com/wiki/Colonies
+// Sector : Duluur sector, Anarid Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Duluur_sector/Legends, https://starwars.fandom.com/wiki/Anarid_Cluster
+// Grid location : M-13
+// Location is arbitrary centered on Kelada system
+// X : 1816.8149999999998, Y : -3167.64, Z : 3381.1172088284184
 Cluster "Anarid Cluster"
 {
 	Galaxy     "Star Wars galaxy"
 	Type       "Open"	// within galaxy disk
-    RA         0.08731488057055047
-    Dec        24.585081630973573
-    Dist       382999985.103822
+    RA         0.08731488046116283
+    Dec        24.585081625312696
+    Dist       382996618.9001996
     Radius     200 // not far from bestine
 	AbsMagn    1 // default
 	CenPow   0.5 // default star concentration parameter
@@ -47,18 +49,21 @@ Cluster "Anarid Cluster"
 // Grid location : N12
 
 // http://starwars.wikia.com/wiki/Zenox_Cluster
-// http://starwars.wikia.com/wiki/Zenox_Star_Cluster
 // Region : Colonies
+// Region wiki : http://starwars.wikia.com/wiki/Colonies
 // Sector : 
-// Grid location : K13
-// X : -1112.95, Y : -5428.37, Z : 476.94522256228424
-Cluster	"Zenox Cluster"
+// Sector wiki : 
+// System wiki : 
+// Grid location : K-13
+// Known planet : 
+// X : -1112.955, Y : -3297.015, Z : 7372.1926199340505
+Cluster	"Zenox Star Cluster" // system name
 {
 	Galaxy     "Star Wars galaxy"
 	Type       "Open"	// within galaxy disk
-	RA         0.08734409963746173
-    Dec        24.585062276970522
-    Dist       382999523.07058537
+    RA         0.08734409988716195
+    Dec        24.585062265846727
+    Dist       382992627.8231885
 	Radius     4 // default
 	AbsMagn    1 // default
 	CenPow   0.5 // default star concentration parameter
@@ -285,20 +290,21 @@ Cluster "Zuni Cluster"
 //           Hutt Space             //
 //////////////////////////////////////
 
-// http://starwars.wikia.com/wiki/Si%27Klaata_Cluster
+// https://starwars.fandom.com/wiki/Si%27Klaata_Cluster/Legends
 // Region : Hutt Space
-// Sector :
-// Grid location : S12
-// Coordinates are barycenter 1/4 Vontor coords, 1/4 Klatooine coords, 1/2 Tas-la coord 
-// X : 11613.2250237408, Y : 1438.6055055271, Z : 0
-// Based on this map : https://vignette.wikia.nocookie.net/starwars/images/b/b5/Sisar_Run.png/revision/latest?cb=20080330194644
-Cluster "Si'Klaata Cluster"
+// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// Sector : Hutt Space, Si'Klaata Cluster
+// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
+// System wiki : 
+// Grid location : S-9
+// X : 11621.500000000005, Y : 3449.245000000001, Z : 7348.944967633572
+Star Cluster "Si'Klaata Cluster" // system name. Centered on 2/3 vontor, 1/3 vodran (https://starwars.fandom.com/wiki/Si%27Klaata_Cluster/Legends?file=Sisar_Run.png)
 {
-	Galaxy     	"Star Wars galaxy"
+    Galaxy     	"Star Wars galaxy"
 	Type       	"Open"	// within galaxy disk
-    RA         0.08721717949866106
-    Dec        24.586089558823566
-    Dist       383000000.19270456
+    RA          0.08721709474706234
+    Dec         24.5860715077627
+    Dist        382992651.24688536
 	Radius		54.202606641 // 3 times cluster center-vontor distance
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
@@ -306,6 +312,7 @@ Cluster "Si'Klaata Cluster"
 	NStars   	1500       // default number of stars
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
+
 
 /////////////////////////////////////
 //           Inner Rim             //
@@ -549,34 +556,6 @@ Cluster "Mektrun Cluster"
     Dec        24.584118839186566
     Dist       382999651.9868421
 	Radius		4.68       // default radius
-	AbsMagn 	-3.6        // default absolute magnitude
-	CenPow   	0.5        // default star concentration parameter
-	Age      	760        // default age
-	NStars   	1500       // default number of stars
-	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
-}
-
-
-//////////////////////////////////////
-//           Hutt Space             //
-//////////////////////////////////////
-
-// https://starwars.fandom.com/wiki/Si%27Klaata_Cluster/Legends
-// Region : Hutt Space
-// Region wiki : http://starwars.wikia.com/wiki/Hutt_Space
-// Sector : Hutt Space, Si'Klaata Cluster
-// Sector wiki : http://starwars.wikia.com/wiki/Hutt_Space
-// System wiki : 
-// Grid location : S-9
-// X : 11621.500000000005, Y : 3449.245000000001, Z : 7348.944967633572
-Star Cluster "Si'Klaata Cluster" // system name. Centered on 2/3 vontor, 1/3 vodran (https://starwars.fandom.com/wiki/Si%27Klaata_Cluster/Legends?file=Sisar_Run.png)
-{
-    Galaxy     	"Star Wars galaxy"
-	Type       	"Open"	// within galaxy disk
-    RA          0.08721709474706234
-    Dec         24.5860715077627
-    Dist        382992651.24688536
-    Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
 	Age      	760        // default age
