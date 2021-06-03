@@ -4,15 +4,19 @@
 
 // http://starwars.wikia.com/wiki/Alpheridies
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Farstey Sector
-// Grid location : O8
-// X : 5416.89, Y : 2750.36, Z : -27.482674908617696
-Star "Aber/Abron System" // Star name / system name
+// Sector wiki : http://starwars.wikia.com/wiki/Farstey_sector
+// System wiki : https://starwars.fandom.com/wiki/Abron_system
+// Grid location : O-8
+// Known planet : Alpheridies
+// X : 5416.889999999999, Y : 4881.72, Z : -4248.7464467465115
+Star "Aber/Abron system/Alpheridies System" // Star name / system name
 {
-    RA         0.08727897651648471
-    Dec        24.586285793748402
-    Dist       383000027.5520926
-    Class      "G6 V"
+    RA         0.08727897711190206
+    Dec        24.586285784203543
+    Dist       383004248.81586355
+    Class      "M6 V" // red dwarf
 }
 
 // http://starwars.wikia.com/wiki/Adin
@@ -28,94 +32,139 @@ Star "Adin System" // system name
     Class      "M9 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Aguarl
-// Region : Expansion Region
-// Sector : Mbandamonte Sector
-// Grid location : N15
-// X : 4025.64, Y : -7796.87, Z : -490.5173180661051
-Star "Aguarl System" // system name
+// https://starwars.fandom.com/wiki/Adner
+// Region : Expansion Region, Trailing Sectors
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
+// Sector : Yaraga Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Yaraga_sector
+// System wiki : https://starwars.fandom.com/wiki/Adner_system
+// Grid location : N-16
+// Known planet : Adner
+// X : 3098.73, Y : -7051.23, Z : -3702.633827105892
+StarBarycenter "Adner system" // system name
 {
-    RA         0.08729285171689657
-    Dec        24.58470795738101
-    Dist       383000490.58037764
+    RA         0.08730209618199061
+    Dec        24.584500664977384
+    Dist       383003702.7112702
+    Class      "G6 V" // random,  2 stars
+}
+
+// https://starwars.fandom.com/wiki/Aguarl_3
+// Region : Expansion Region, Trailing Sectors
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
+// Sector : Mbandamonte Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Mbandamonte_sector
+// System wiki : https://starwars.fandom.com/wiki/Aguarl_system
+// Grid location : N-15
+// Known planet : Aguarl III
+// X : 4025.6399999999994, Y : -5665.5, Z : -3065.2811492091073
+Star "Aguarl system" // system name
+{
+    RA         0.08729285198679611
+    Dec        24.584707963078674
+    Dist       383003065.34420836
     Class      "M8 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Allanteen
-// Region : Expansion Region
+// https://starwars.fandom.com/wiki/Allanteen_VI
+// Region : Expansion Region, Trailing Sectors, The Slice
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends, https://starwars.fandom.com/wiki/The_Slice/Legends
 // Sector : Tynna Sector
-// Grid location : O14
-// X : 4786.71, Y : -6141.04, Z : -88.76771251447406
-Star "Allanteen System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Tynna_sector
+// System wiki : https://starwars.fandom.com/wiki/Allanteen_system
+// Grid location : O-14
+// Known planet : Allanteen VI
+// X : 4786.71, Y : -4009.68, Z : 3336.1762661394027
+Star "Allanteen system" // system name
 {
-    RA         0.08728526140693227
-    Dec        24.58495566419064
-    Dist       383000088.81861335
+    RA         0.08728526098003035
+    Dec        24.584955657330628
+    Dist       382996663.8746352
     Class      "M9 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Altier
-// Region : Expansion Region
+// Region : Expansion Region, The Slice
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/The_Slice/Legends
 // Sector : Altier Sector
-// Grid location : O13
-// X : 5247.32, Y : -5257.93, Z : -246.53515839509038
-Star "Altier System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Altier_sector
+// System wiki : https://starwars.fandom.com/wiki/Altier_system
+// Grid location : O-13
+// Known planet : Altier
+// X : 5247.33, Y : -3126.5699999999993, Z : 7289.3075134378105
+Star "Altier system" // system name
 {
-    RA         0.08728066769430644
-    Dec        24.58508777525567
-    Dist       383000246.5838656
+    RA         0.08728066656487186
+    Dec        24.58508776455662
+    Dist       382992710.74119496
     Class      "M0 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Aramand_system
+// https://starwars.fandom.com/wiki/Mirani
 // Region : Expansion Region
-// Sector : Brak sector
-// Grid location : O14
-// X : 5738.7118181818, Y : -6976.7, Z : 5
-Star "Aramand/Aramand System" // Star name / system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Brak Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Brak_sector
+// System wiki : https://starwars.fandom.com/wiki/Aramand_system
+// Grid location : O-14
+// Known planet : Mirani
+// X : 5667, Y : -4751.654999999999, Z : -7657.7768420884995
+Star "Aramand/Aramand system" // Star name / system name
 {
-    RA         0.08727576693276039
-    Dec        24.584830651532748
-    Dist       382999995.0736424
+    RA         0.08727648325664267
+    Dec        24.584844679284906
+    Dist       383007657.8482416
     Class      "G3 V"
 }
 
 // http://starwars.wikia.com/wiki/Arrgaw
-// Region : Expansion Region
+// Region : Expansion Region, Trailing Sectors
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
 // Sector : Kira Sector
-// Grid location : N16
-// X : 3329.95, Y : -9085.79, Z : 177.55248096238267
-Star "Arrgaw System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Kira_sector
+// System wiki : https://starwars.fandom.com/wiki/Arrgaw_system
+// Grid location : N-16
+// Known planet : Arrgaw
+// X : 3329.9550000000004, Y : -6954.42, Z : -25.264320426582003
+Star "Arrgaw system" // system name
 {
-    RA         0.08729978987477234
-    Dec        24.584515136815572
-    Dist       382999822.5251334
+    RA         0.08729978984249291
+    Dec        24.584515137366495
+    Dist       383000025.3419347
     Class      "M7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Artesia
-// Region : Expansion Region
+// Region : Expansion Region, The Slice
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/The_Slice/Legends
 // Sector : Hangshan Sector
-// Grid location : P11
-// X : 7020.27, Y : -2464.6, Z : 225.98213956866425
-Star "Artesia System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Hangshan_sector
+// System wiki : https://starwars.fandom.com/wiki/Artesia_system
+// Grid location : P-11
+// Known planet : Artesia
+// X : 7020.2699999999995, Y : -333.2399999999998, Z : -7479.935016321861
+Star "Artesia system" // system name
 {
-    RA         0.08726298571291088
-    Dec        24.585505649650464
-    Dist       382999774.08234507
+    RA         0.087262987121563
+    Dec        24.585505649157486
+    Dist       383007479.9994997
     Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Aruza
 // Region : Expansion Region
-// Sector : Freestanding Subsectors Sector
-// Grid location : I14
-// X : -3357.69, Y : -7184.57, Z : 421.9774898674219
-Star "Aruza System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Freestanding Subsectors
+// Sector wiki : https://starwars.fandom.com/wiki/Freestanding_subsectors
+// System wiki : https://starwars.fandom.com/wiki/Aruza_system
+// Grid location : I-14
+// Known planet : Aruza
+// X : -3357.69, Y : -5053.200000000001, Z : 1041.904148360316
+Star "Aruza system" // system name
 {
-    RA         0.08736648680206588
-    Dec        24.5847995539112
-    Dist       382999578.07056355
+    RA         0.08736648685626801
+    Dec        24.584799552687617
+    Dist       382998958.1439052
     Class      "M2 V" // random
 }
 
@@ -134,327 +183,393 @@ Star "Asran System" // system name
 
 // http://starwars.wikia.com/wiki/Nkllon
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Alchenaut Sector
-// Grid location : L16
-// X : 878.37, Y : -9221.59, Z : 395.26189738865014
-Star "Athega/Athega system System" // Star name / system name
+// Sector wiki : http://starwars.wikia.com/wiki/Alchenaut_sector
+// System wiki : https://starwars.fandom.com/wiki/Athega_system
+// Grid location : L-16
+// Known planet : Nkllon
+// X : 878.37, Y : -7090.230000000001, Z : -7132.662982574998
+Star "Athega/Athega system" // Star name / system name
 {
-    RA         0.08732423987018467
-    Dec        24.58449482088507
-    Dist       382999604.80473816
+    RA         0.0873242400423632
+    Dec        24.58449484023655
+    Dist       383007132.729617
     Class      "M3 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Attahox
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Hocatar Sector
-// Grid location : P12
-// X : 7116.44, Y : -3274.65, Z : -90.50396568462804
-Star "Attahox System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Hocatar_sector
+// System wiki : https://starwars.fandom.com/wiki/Attahox_system
+// Grid location : P-12
+// Known planet : Attahox
+// X : 7120.665, Y : -1122.12, Z : -7765.483716565126
+Star "Attahox system" // system name
 {
-    RA         0.08726202665260911
-    Dec        24.585384468398637
-    Dist       383000090.5717866
+    RA         0.0872619859390946
+    Dec        24.58538763724133
+    Dist       383007765.551552
     Class      "K7 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Ryvellia
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Treffani Sector
-// Grid location : O14
-// X : 5822.3, Y : -6585.77, Z : 166.32806517864447
-Star "Avhn-Bendara System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Treffani_sector
+// System wiki : https://starwars.fandom.com/wiki/Avhn-Bendara_system
+// Grid location : O-14
+// Known planet : Ryvellia
+// X : 5822.295, Y : -4454.4, Z : 6249.997581966438
+Star "Avhn-Bendara system" // system name
 {
-    RA         0.08727493327033851
-    Dec        24.5848891333392
-    Dist       382999833.74209267
+    RA         0.08727493239784333
+    Dec        24.58488912275429
+    Dist       382993750.0725769
     Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Bacrana
-// http://starwars.wikia.com/wiki/Bacrana_system
+                                                
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Brak Sector
-// Grid location : O14
-// X : 5736.53, Y : -6989.2, Z : 0
-Star "Bacrana/Bacrana System" // Star name / system name
+// Sector wiki : http://starwars.wikia.com/wiki/Brak_sector
+// System wiki : https://starwars.fandom.com/wiki/Bacrana_system
+// Grid location : O-14
+// Known planet : Bacrana
+// X : 5736.525, Y : -4857.84, Z : -7925.321341116563
+Star "Bacrana/Bacrana system" // Star name / system name
 {
-    RA         0.08727578869312
-    Dec        24.584828781575517
-    Dist       383000000.073768
-    Class      "G6 V"
+    RA         0.08727578992681922
+    Dec        24.584828795117065
+    Dist       383007925.3951076
+    Class      "G6 V" // yellow star
 }
 
 // http://starwars.wikia.com/wiki/Barenth
-// Region : Expansion Region
+// Region : Expansion Region, Outer Expansion Zone, Northern Dependencies
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Outer_Expansion_Zone/Legendshttps://starwars.fandom.com/wiki/Outer_Expansion_Zone/Legends,
 // Sector : Drannik Sector
-// Grid location : K8
-// X : -895.59, Y : 2876.55, Z : 173.2993810115555
-Star "Barenth System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Drannik_sector
+// System wiki : https://starwars.fandom.com/wiki/Barenth_system
+// Grid location : K-8
+// Known planet : Barenth
+// X : -895.59, Y : 5007.915000000001, Z : -4941.373085232751
+Star "Barenth system" // system name
 {
-    RA         0.0873419318625574
-    Dec        24.58630467182756
-    Dist       382999826.73440665
+    RA         0.08734193174328074
+    Dec        24.586304661075093
+    Dist       383004941.4068724
     Class      "G6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Baroli
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Baroli Sector
-// Grid location : N14
-// X : 3501.49, Y : -7179.8, Z : 494.82953634066894
-Star "Baroli System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Baroli_sector
+// System wiki : https://starwars.fandom.com/wiki/Baroli_system
+// Grid location : N-14
+// Known planet : Baroli
+// X : 3501.495, Y : -5048.43, Z : -7063.654319426415
+Star "Baroli system" // system name
 {
-    RA         0.0872980790499216
-    Dec        24.58480026734762
-    Dist       382999505.2197419
+    RA         0.08729807968920704
+    Dec        24.58480028225182
+    Dist       383007063.7035967
     Class      "G2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Belasco
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Belasco Sector
-// Grid location : O11
-// X : 5790.4, Y : -2052.18, Z : 578.0799612555247
-Star "Belasco System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Belasco_sector
+// System wiki : https://starwars.fandom.com/wiki/Belasco_system
+// Grid location : O-11
+// Known planet : Belasco
+// X : 5790.405, Y : 79.18499999999995, Z : 1847.1869828838305
+Star "Belasco system" // system name
 {
-    RA         0.08727525135205964
-    Dec        24.585567346630885
-    Dist       382999421.9638182
+    RA         0.08727525111083705
+    Dec        24.585567345922147
+    Dist       382998152.8567968
     Class      "M7 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Belassar
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Sarla Sector
-// Grid location : J8
-// X : -2332.56, Y : 2723.17, Z : 518.7602781374471
-Star "Belassar System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Sarla_sector
+// System wiki : https://starwars.fandom.com/wiki/Belassar_system
+// Grid location : J-8
+// Known planet : 
+// X : -2332.56, Y : 4854.525000000001, Z : 8679.90158361646
+Star "Belassar system" // system name
 {
-    RA         0.08735626301557499
-    Dec        24.5862817272329
-    Dist       382999481.2775905
+    RA         0.08735626351128532
+    Dec        24.586281740464027
+    Dist       382991320.1362857
     Class      "M9 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Bimin_Three
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Majoor Sector
-// Grid location : N15
-// X : 3553.9, Y : -8513.99, Z : -302.59357786461356
-Star "Bimin Three System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Majoor_sector
+// System wiki : https://starwars.fandom.com/wiki/Bimin_Three_system
+// Grid location : N-15
+// Known planet : 
+// X : 3553.9049999999997, Y : -6382.635, Z : 5946.708797387622
+Star "Bimin Three system" // system name
 {
-    RA         0.08729755642995113
-    Dec        24.584600677808673
-    Dist       383000302.66324884
+    RA         0.08729755580175291
+    Dec        24.584600659984872
+    Dist       382994053.36087507
     Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Boordii
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Sumitra Sector
-// Grid location : N7
-// X : 4111.2, Y : 3547.46, Z : 147.84670591156987
-Star "Boordii System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Sumitra_sector
+// System wiki : https://starwars.fandom.com/wiki/Boordii_system
+// Grid location : N-7
+// Known planet : Boordii
+// X : 4077.6150000000002, Y : 5594.235000000001, Z : 840.5348974791656
+Star "Boordii system" // system name
 {
-    RA         0.0872919983464483
-    Dec        24.586405038164884
-    Dist       382999852.21746
+    RA         0.08729233322146246
+    Dec        24.586392384486977
+    Dist       382999159.5276645
     Class      "K2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Borkyne
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Bes Ber Bikade Sector
-// Grid location : L15
-// X : 704.45, Y : -8344.84, Z : 65.62132094860169
-Star "Borkyne System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Bes_Ber_Bikade_sector
+// System wiki : https://starwars.fandom.com/wiki/Bimin_Three_system
+// Grid location : L-15
+// Known planet : Borkyne
+// X : 704.445, Y : -6213.465, Z : 7158.19898085422
+Star "Borkyne system" // system name
 {
-    RA         0.08732597440926138
-    Dec        24.584625981284347
-    Dist       382999934.429728
+    RA         0.0873259743290224
+    Dec        24.584625964818752
+    Dist       382992841.8520689
     Class      "M7 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Bovo_Yagen
+// https://starwars.fandom.com/wiki/Bovo_Yagen_(planet)
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Kailion Sector
-// Grid location : O13
-// X : 4796.24, Y : -5581.95, Z : 67.5844087531716
-Star "Bovo Yagen/Bovo Yagen System" // Star name / system name
+// Sector wiki : http://starwars.wikia.com/wiki/Kailion_sector
+// System wiki : https://starwars.fandom.com/wiki/Bovo_Yagen_system
+// Grid location : O-13
+// Known planet : Bovo Yagen
+// X : 4796.235000000001, Y : -3450.5849999999996, Z : -2166.800519397094
+Star "Bovo Yagen/Bovo Yagen system" // Star name / system name
 {
-    RA         0.08728516634325333
-    Dec        24.58503930233485
-    Dist       382999932.4611662
+    RA         0.08728516667217417
+    Dec        24.585039304598297
+    Dist       383002166.8460941
     Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Brevost
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Brevost Sector
-// Grid location : O15
-// X : 4776.12, Y : -8499.7, Z : 339.4009891293141
-Star "Brevost System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Brevost_sector
+// System wiki : https://starwars.fandom.com/wiki/Brevost_system
+// Grid location : O-15
+// Known planet : Brevost
+// X : 4776.12, Y : -6368.34, Z : 8433.945508278764
+Star "Brevost system" // system name
 {
-    RA         0.0872853669693761
-    Dec        24.584602813955993
-    Dist       382999660.68173546
+    RA         0.08728536596264978
+    Dec        24.584602792324922
+    Dist       382991566.1372181
     Class      "M4 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Calonica
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Vensensor Sector
-// Grid location : K16
-// X : -651.18, Y : -9841.04, Z : 40.38179603817741
-Star "Calonica System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Vensensor_sector
+// System wiki : https://starwars.fandom.com/wiki/Calonica_system
+// Grid location : K-16
+// Known planet : Calonica
+// X : -651.18, Y : -7709.67, Z : 5803.701149492621
+Star "Calonica system" // system name
 {
-    RA         0.08733949432021533
-    Dec        24.584402153788634
-    Dist       382999959.69635415
+    RA         0.08733949441794224
+    Dec        24.584402136433013
+    Dist       382994196.3770019
     Class      "K6 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Carcel
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Locris Sector
-// Grid location : O8
-// X : 5677.66, Y : 1649.95, Z : 447.44551334541234
-Star "Carcel System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Locris_sector
+// System wiki : https://starwars.fandom.com/wiki/Carcel_system
+// Grid location : O-8
+// Known planet : Carcel
+// X : 5677.65, Y : 3781.32, Z : -2865.826855018093
+Star "Carcel system" // system name
 {
-    RA         0.08727637574664396
-    Dec        24.58612117605768
-    Dist       382999552.6152363
+    RA         0.08727637633621856
+    Dec        24.58612117116414
+    Dist       383002865.887604
     Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Cartao
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Prackla Sector
-// Grid location : O8
-// X : 5653.61, Y : 2117.86, Z : 139.25277457648372
-Star "Cartao System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Prackla_sector
+// System wiki : https://starwars.fandom.com/wiki/Cartao_system
+// Grid location : O-8
+// Known planet : Cartao
+// X : 5653.62, Y : 4249.215, Z : -4417.605309333255
+Star "Cartao system" // system name
 {
-    RA         0.08727661564669023
-    Dec        24.586191173717207
-    Dist       382999860.81252474
+    RA         0.08727661621780194
+    Dec        24.58619116391024
+    Dist       383004417.6706078
     Class      "M1 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Cathar
-// Region : Expansion Region
-// Sector : Ploo Sector
-// Grid location : N7
-// X : 3608.15, Y : 3645.48, Z : -421.11221355231726
-Star "Cathar System" // system name
-{
-    RA         0.0872970153978171
-    Dec        24.586419700417572
-    Dist       383000421.17277586
-    Class      "K8 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Celdaru
-// Region : Expansion Region
-// Sector : Freestanding Subsectors Sector
-// Grid location : I8
-// X : -3639.79, Y : 2704.36, Z : 555.691932180152
-Star "Celdaru System" // system name
-{
-    RA         0.08736930024506247
-    Dec        24.586278913372965
-    Dist       382999444.3558908
-    Class      "G5 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Celegia
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Noori Sector
-// Grid location : O10
-// X : 5818.14, Y : -997.39, Z : -21.437266324171446
-Star "Celegia System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Noori_sector
+// System wiki : https://starwars.fandom.com/wiki/Celegia_system
+// Grid location : O-10
+// Known planet : Celegia
+// X : 5818.139999999999, Y : 1133.9700000000003, Z : -8374.82263466053
+Star "Celegia system" // system name
 {
-    RA         0.08727497478713105
-    Dec        24.585725140377065
-    Dist       383000021.4831367
+    RA         0.08727497605265681
+    Dec        24.58572513518128
+    Dist       383008374.8685039
     Class      "M8 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Cerenia
+// https://starwars.fandom.com/wiki/Ruten
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Mbandamonte Sector
-// Grid location : N15
-// X : 4406.83, Y : -8699.83, Z : -238.2596136938941
-Star "Cerenia System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Mbandamonte_sector
+// System wiki : https://starwars.fandom.com/wiki/Cerenia_system
+// Grid location : N-15
+// Known planet : Ruten
+// X : 4406.835, Y : -6568.470000000001, Z : -8671.486883996302
+Star "Cerenia system" // system name
 {
-    RA         0.08728905002559652
-    Dec        24.584572876496754
-    Dist       383000238.34129095
+    RA         0.08728905094343875
+    Dec        24.584572896636583
+    Dist       383008671.5685597
     Class      "K7 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Mayvitch
+// https://starwars.fandom.com/wiki/Mayvitch_7
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Immalia Sector
-// Grid location : L8
-// X : 114.59, Y : 2504.38, Z : -341.8483656161881
-Star "Chalenor System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Immalia_sector
+// System wiki : https://starwars.fandom.com/wiki/Chalenor_system
+// Grid location : L-8
+// Known planet : Mayvitch 7
+// X : 114.6, Y : 4635.75, Z : -5478.439421353349
+Star "Chalenor system" // system name
 {
-    RA         0.08733185717710804
-    Dec        24.58624899522923
-    Dist       383000341.8764378
+    RA         0.0873318570927046
+    Dec        24.586248985928577
+    Dist       383005478.4674931
     Class      "M8 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Chanosant
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Harron Sector
-// Grid location : O11
-// X : 5318.8, Y : -2512.68, Z : -14.021553029859433
-Star "Chanosant System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Harron_sector
+// System wiki : https://starwars.fandom.com/wiki/Chanosant_system
+// Grid location : O-11
+// Known planet : Chanosant
+// X : 5318.805, Y : -381.3149999999996, Z : -522.0091261936165
+Star "Chanosant system" // system name
 {
-    RA         0.08727995478139286
-    Dec        24.585498457042075
-    Dist       383000014.0586745
+    RA         0.08727995480188297
+    Dec        24.585498456369745
+    Dist       383000522.04624766
     Class      "M8 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Charra
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Charra Sector
-// Grid location : P14
-// X : 6111.37, Y : -6134.69, Z : -1.8964486182288738
-Star "Charra System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Charra_sector
+// System wiki : https://starwars.fandom.com/wiki/Charra_system
+// Grid location : P-14
+// Known planet : Charra
+// X : 6111.375, Y : -4003.3199999999993, Z : 8696.006100728711
+Star "Charra system" // system name
 {
-    RA         0.08727205035573901
-    Dec        24.58495661399766
-    Dist       383000001.9661293
+    RA         0.08727204892167863
+    Dec        24.584956600396694
+    Dist       382991304.06358165
     Class      "M2 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Cheku
-// Region : Expansion Region
+// https://starwars.fandom.com/wiki/Cheku_system
+// Region : Expansion Region, Trailing Sectors
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
 // Sector : Brevost Sector
-// Grid location : O15
-// X : 5077.9, Y : -7561, Z : 329.22382233220617
-Star "Cheku System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Brevost_sector
+// System wiki : https://starwars.fandom.com/wiki/Cheku_system
+// Grid location : O-15
+// Known planet : Cheku
+// X : 5077.905, Y : -5429.639999999999, Z : -2206.396509277781
+Star "Cheku system" // system name
 {
-    RA         0.08728235726912717
-    Dec        24.584743241120858
-    Dist       382999670.8483265
+    RA         0.08728235755453584
+    Dec        24.584743245002358
+    Dist       383002206.46865785
     Class      "M2 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Mimban
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Circarpous Sector
-// Grid location : O12
-// X : 5562.92, Y : -3010.18, Z : -409.37219819658117
-Star "Circarpous System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Circarpous_sector
+// System wiki : https://starwars.fandom.com/wiki/Circarpous_system
+// Grid location : O-12
+// Known planet : Mimban
+// X : 5586.075, Y : -911.8800000000001, Z : -7874.409065806877
+Star "Circarpous Major/Circarpous system" // Star name / system name                                 
 {
-    RA         0.08727752019198116
-    Dec        24.585424032506072
-    Dist       383000409.413606
+    RA         0.08727729034964103
+    Dec        24.585419087986274
+    Dist       383007874.4508871
     Class      "G0 V" // random
 }
 
@@ -473,93 +588,172 @@ Star "Cirra System" // system name
 
 // http://starwars.wikia.com/wiki/Coonee
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Brevost Sector
-// Grid location : O15
-// X : 5179.55, Y : -7799.25, Z : 555.1015867701901
-Star "Coonee System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Brevost_sector
+// System wiki : https://starwars.fandom.com/wiki/Coonee_system
+// Grid location : O-15
+// Known planet : Coonee
+// X : 5179.5599999999995, Y : -5667.885, Z : 8616.482077631043
+Star "Coonee system" // system name
 {
-    RA         0.08728134346651378
-    Dec        24.584707599024977
-    Dist       382999444.975375
+    RA         0.08728134227948928
+    Dec        24.58470758042996
+    Dist       382991383.59488595
     Class      "M8 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Copperline
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Vatha Sector
-// Grid location : K16
-// X : -491.56, Y : -9297.83, Z : 447.8683277661412
-Star "Copperline System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Vatha_sector
+// System wiki : https://starwars.fandom.com/wiki/Copperline_system
+// Grid location : K-16
+// Known planet : Copperline
+// X : -491.55000000000007, Y : -7166.460000000001, Z : 5376.594755578832
+Star "Copperline system" // system name
 {
-    RA         0.08733790241015003
-    Dec        24.584483415425186
-    Dist       382999552.199035
+    RA         0.08733790237350579
+    Dec        24.584483401628617
+    Dist       382994623.472608
     Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Corsin
-// Region : Expansion Region
+// Region : Expansion Region, Greater Plooriod Cluster
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Greater_Plooriod_Cluster
 // Sector : Greater Plooriod Sector
-// Grid location : M7
-// X : 2848.04, Y : 3501.22, Z : -525.6521815685704
-Star "Corsin System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Greater_Plooriod_sector
+// System wiki : https://starwars.fandom.com/wiki/Corsin_system
+// Grid location : M-7
+// Known planet : Corsin
+// X : 2848.035, Y : 5632.59, Z : -4356.989593494666
+Star "Corsin system" // system name
 {
-    RA         0.08730459609261569
-    Dec        24.586398119299687
-    Dist       383000525.7041886
+    RA         0.08730459642661594
+    Dec        24.586398110870647
+    Dist       383004357.0415999
     Class      "M5 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Cridark_II
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Baroli Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Baroli_sector
+// System wiki : https://starwars.fandom.com/wiki/Cridark_system
+// Grid location : N-15
+// Known planet : Cridark II
+// X : 3684.45, Y : -5429.610000000001, Z : -4987.4903757006305
+Star "Cridark system" // system name
+{
+    RA         0.0872962548849727
+    Dec        24.584743255388204
+    Dist       383004987.54658365
+    Class      "M1 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Cuirilla
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Mbandamonte Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Mbandamonte_sector
+// System wiki : https://starwars.fandom.com/wiki/Cuirilla_system
+// Grid location : N-15
+// Known planet : Cuirilla
+// X : 4200.39, Y : -6366.24, Z : 4956.055484201901
+Star "Cuirilla system" // system name
+{
+    RA         0.08729110831443654
+    Dec        24.584603115134712
+    Dist       382995044.0204597
+    Class      "M3 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Cularin
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Thaere Sector
-// Grid location : P14
-// X : 6143.14, Y : -6776.37, Z : 187.9523983440771
-Star "Jo tree/Cularin System" // Star name / system name
+// Sector wiki : http://starwars.wikia.com/wiki/Thaere_sector
+// System wiki : https://starwars.fandom.com/wiki/Cularin_system
+// Grid location : P-14
+// Known planet : Cularin
+// X : 6143.129999999999, Y : -4645.004999999999, Z : 365.3404770329428
+StarBarycenter "Cularin system" // system name // Star names (Morasil+Termadus) 
 {
-    RA         0.08727173347821485
-    Dec        24.584860620035432
-    Dist       382999812.12503535
-    Class      "M5 III" // random
+    RA         0.08727173354957063
+    Dec        24.58486061896561
+    Dist       382999634.7369566
+    Class      "M5 III" // random, Main sequence + white dwarf
 }
 
 // http://starwars.wikia.com/wiki/Aquaris
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Sumitra Sector
-// Grid location : N7
-// X : 4484.78, Y : 3305.18, Z : 61.91917148985385
-Star "Cvetaen System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Sumitra_sector
+// System wiki : https://starwars.fandom.com/wiki/Cvetaen_system/Legends
+// Grid location : N-7
+// Known planet : Aquaris
+// X : 4484.775000000001, Y : 5436.555, Z : 346.09097402343764
+Star "Cvetaen system" // system name
 {
-    RA         0.08728827258353782
-    Dec        24.586368793525978
-    Dist       382999938.14567095
+    RA         0.08728827260021753
+    Dec        24.5863687948774
+    Dist       382999653.9738685
     Class      "M8 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Cyrillia
 // Region : Expansion Region
-// Sector : Cyrillian Protectorate Sector
-// Grid location : O12
-// X : 5551.83, Y : -4389.85, Z : -122.7833440259613
-Star "Cyrillia System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Cyrillian Protectorate
+// Sector wiki : https://starwars.fandom.com/wiki/Cyrillian_Protectorate
+// System wiki : https://starwars.fandom.com/wiki/Cyrillia_system
+// Grid location : O-12
+// Known planet : Cyrillia
+// X : 5551.83, Y : -2258.4899999999993, Z : -8863.853484936893
+Star "Cyrillia system" // system name
 {
-    RA         0.08727763075272836
-    Dec        24.585217637517943
-    Dist       383000122.8302416
+    RA         0.08727763201637137
+    Dec        24.585217643732737
+    Dist       383008863.90038145
     Class      "M4 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Daemen
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Woostri Sector
-// Grid location : M16
-// X : 2010.05, Y : -9531.32, Z : -326.26610504333985
-Star "Daemen System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Woostri_sector
+// System wiki : https://starwars.fandom.com/wiki/Daemen_system
+// Grid location : M-16
+// Known planet : Daemen
+// X : 2010.06, Y : -7399.950000000001, Z : -1757.8480631878965
+Star "Daemen system" // system name
 {
-    RA         0.08731295347545662
-    Dec        24.584448488140016
-    Dist       383000326.3428668
+    RA         0.08731295345065532
+    Dec        24.584448492277797
+    Dist       383001757.9248247
     Class      "G7 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Daroon
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Harron Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Harron_sector
+// System wiki : https://starwars.fandom.com/wiki/Daroon_system
+// Grid location : O-11
+// Known planet : Daroon
+// X : 5326.995, Y : -767.6549999999997, Z : 356.95838481343856
+Star "Daroon system" // system name
+{
+    RA         0.08727987299992523
+    Dec        24.585440660750354
+    Dist       382999643.07943004
+    Class      "K6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Demar_system
@@ -575,107 +769,139 @@ Star "Demar/Demar System" // Star name / system name
     Class      "K3 Ia"
 }
 
-// http://starwars.wikia.com/wiki/De%27nel_system
+// https://starwars.fandom.com/wiki/De%27nel
 // Region : Expansion Region
-// Sector : Brak sector
-// Grid location : O14
-// X : 5736.1209090909, Y : -6957.8, Z : 5.9583333333
-Star "De'nel System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Brak Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Brak_sector
+// System wiki : https://starwars.fandom.com/wiki/De%27nel_system
+// Grid location : O-14
+// Known planet : De'nel
+// X : 5579.07, Y : -5020.469999999999, Z : 1121.6121660357085
+Star "De'nel system" // system name
 {
-    RA         0.08727579277215736
-    Dec        24.584833478920622
-    Dist       382999994.11503154
+    RA         0.08727735890327216
+    Dec        24.584804448865423
+    Dist       382998878.4613735
     Class      "K5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Derra
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Mikaster Sector
-// Grid location : N15
-// X : 3075.03, Y : -7789.72, Z : -541.4215231308407
-Star "Derra System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Mikaster_sector
+// System wiki : https://starwars.fandom.com/wiki/Derra_system
+// Grid location : N-15
+// Known planet : Derra IV
+// X : 3075.03, Y : -5658.360000000001, Z : 4310.488104487709
+Star "Derra/Derra system" // Star name / system name
 {
-    RA         0.0873023322903725
-    Dec        24.584709027113092
-    Dist       383000541.47566503
+    RA         0.08730233190186433
+    Dec        24.58470901489372
+    Dist       382995689.56603825
     Class      "M5 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Dica
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Tolemses Sector
-// Grid location : P11
-// X : 6974.65, Y : -1840.73, Z : -362.8639402256274
-Star "Dica System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Tolemses_sector
+// System wiki : https://starwars.fandom.com/wiki/Dica_system
+// Grid location : P-11
+// Known planet : Dica
+// X : 6974.655, Y : 290.6400000000001, Z : -3051.397582333052
+Star "Dica system" // system name
 {
-    RA         0.0872634407954867
-    Dec        24.58559897892841
-    Dist       383000362.92755663
+    RA         0.0872634412339001
+    Dec        24.585598978623207
+    Dist       383003051.4611984
     Class      "M0 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Donovia
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Hali Sector
-// Grid location : O9
-// X : 5912.53, Y : 1489.05, Z : 6.538955514685995
-Star "Donovia System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Hali_sector
+// System wiki : https://starwars.fandom.com/wiki/Donovia_system
+// Grid location : O-9
+// Known planet : Donovia
+// X : 5912.535, Y : 3620.415, Z : 2789.1800465323986
+Star "Donovia system" // system name
 {
-    RA         0.08727403341670996
-    Dec        24.58609710519478
-    Dist       382999993.5237931
+    RA         0.08727403293842598
+    Dec        24.586097108381786
+    Dist       382997210.8827026
     Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Dorin
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Deadalis Sector
-// Grid location : J8
-// X : -2125.42, Y : 2890.85, Z : -485.6054533958154
-Star "Dorin System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Deadalis_sector
+// System wiki : https://starwars.fandom.com/wiki/Dorin_system
+// Grid location : J-8
+// Known planet : Dorin
+// X : -2125.4249999999997, Y : 5022.210000000001, Z : -8584.943717513575
+Star "Dorin system" // system name
 {
-    RA         0.087354197117718
-    Dec        24.586306809777884
-    Dist       383000485.6442785
+    RA         0.0873541967193352
+    Dec        24.586306792394282
+    Dist       383008584.9825418
     Class      "M0 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Draria
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Lostar Sector
-// Grid location : M7
-// X : 2219.24, Y : 3170.18, Z : 510.4314816006224
-Star "Draria System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Lostar_sector
+// System wiki : https://starwars.fandom.com/wiki/Draria_system
+// Grid location : M-7
+// Known planet : Draria
+// X : 2219.235, Y : 5301.540000000001, Z : -65.51896875761884
+Star "Draria system" // system name
 {
-    RA         0.08731086714444128
-    Dec        24.586348598811178
-    Dist       382999489.61164045
+    RA         0.08731086722759016
+    Dec        24.586348596122555
+    Dist       383000065.5620906
     Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Droecil
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Boeus Sector
-// Grid location : M15
-// X : 1621.71, Y : -7885.02, Z : -320.0441019979864
-Star "Droecil System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Boeus_sector
+// System wiki : https://starwars.fandom.com/wiki/Droecil_system
+// Grid location : M-15
+// Known planet : Droecil
+// X : 1621.71, Y : -5753.655000000001, Z : -5092.811383812102
+Star "Droecil system" // system name
 {
-    RA         0.08731682644718018
-    Dec        24.584694770009666
-    Dist       383000320.09075266
+    RA         0.08731682664872477
+    Dec        24.58469477998756
+    Dist       383005092.85803396
     Class      "F7 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Emberlene
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Authala Sector
-// Grid location : P12
-// X : 6946.29, Y : -3846.12, Z : -459.67348034007205
-Star "Emberlene System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Authala_sector
+// System wiki : https://starwars.fandom.com/wiki/Emberlene_system
+// Grid location : P-12
+// Known planet : Emberlene
+// X : 6946.29, Y : -1714.755, Z : 3698.766510666838
+Star "Emberlene system" // system name
 {
-    RA         0.0872637236514251
-    Dec        24.585298978276757
-    Dist       383000459.74030966
+    RA         0.08726372289924672
+    Dec        24.585298974743537
+    Dist       382996301.3003194
     Class      "M6 IV" // random
 }
 
@@ -694,248 +920,307 @@ Star "Enet System" // system name
 
 // http://starwars.wikia.com/wiki/Epica
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Bes Ber Bikade Sector
-// Grid location : L15
-// X : 921.26, Y : -8051.79, Z : -527.7111414110009
-Star "Epica System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Bes_Ber_Bikade_sector
+// System wiki : https://starwars.fandom.com/wiki/Epica_system
+// Grid location : L-15
+// Known planet : Epica
+// X : 921.255, Y : -5920.424999999999, Z : 6660.055955462778
+Star "Epica system" // system name
 {
-    RA         0.08732381214323653
-    Dec        24.584669822163093
-    Dist       383000527.7580083
+    RA         0.08732381202067152
+    Dec        24.584669804793275
+    Dist       382993339.9909124
     Class      "M4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Erai
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Hangshan Sector
-// Grid location : P11
-// X : 6576.41, Y : -2338.84, Z : -37.55184354805965
-Star "Erai System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Hangshan_sector
+// System wiki : https://starwars.fandom.com/wiki/Erai_system
+// Grid location : P-11
+// Known planet : Erai
+// X : 6576.405000000001, Y : -207.48000000000002, Z : -3980.7596068682446
+Star "Erai system" // system name
 {
-    RA         0.08726741244554105
-    Dec        24.58552446304384
-    Dist       383000037.60836077
+    RA         0.08726741317066132
+    Dec        24.585524461867422
+    Dist       383003980.8161235
     Class      "M8 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Fabrin
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Circarpous Sector
-// Grid location : O12
-// X : 5568.47, Y : -3537.26, Z : 187.87963440407088
-Star "Fabrin System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Circarpous_sector
+// System wiki : https://starwars.fandom.com/wiki/Fabrin/Legends
+// Grid location : O-12
+// Known planet : Fabrin
+// X : 5568.465, Y : -1405.9049999999997, Z : -1034.0721679602511
+Star "Fabrin system" // system name
 {
-    RA         0.08727746475442438
-    Dec        24.585345182498767
-    Dist       382999812.16342616
+    RA         0.08727746498147335
+    Dec        24.58534518092582
+    Dist       383001034.11522835
     Class      "G3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Aridus
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Narvath Sector
-// Grid location : O14
-// X : 5491.92, Y : -6312.58, Z : 487.14028433820727
-Star "Flarestar System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Narvath_sector
+// System wiki : https://starwars.fandom.com/wiki/Flarestar_system
+// Grid location : O-14
+// Known planet : Aridus
+// X : 5491.92, Y : -4181.205, Z : 1955.9011039529037
+Star "Flarestar/Flarestar system" // Star name / system name
 {
-    RA         0.08727822815707127
-    Dec        24.584930001329102
-    Dist       382999512.9219138
+    RA         0.0872782279470265
+    Dec        24.584929999678366
+    Dist       382998044.1610943
     Class      "M1 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Frewwil
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Freestanding Subsectors
+// Sector wiki : https://starwars.fandom.com/wiki/Freestanding_subsectors
+// System wiki : https://starwars.fandom.com/wiki/Frewwil_system
+// Grid location : I-14
+// Known planet : Frewwil
+// X : -3660.1349999999998, Y : -5096.82, Z : -501.48842747358685
+Star "Frewwil system" // system name
+{
+    RA         0.0873695030484515
+    Dec        24.584793030306656
+    Dist       383000501.5398297
+    Class      "M2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Gacerian
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Baroli Sector
-// Grid location : N15
-// X : 3489.58, Y : -7692.04, Z : -329.45222163629364
-Star "Gacerian System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Baroli_sector
+// System wiki : https://starwars.fandom.com/wiki/Gacerian_system
+// Grid location : N-15
+// Known planet : Gacerian
+// X : 3489.585, Y : -5560.665000000001, Z : 6570.57160061767
+Star "Klozar/Gacerian system" // Star name / system name
 {
-    RA         0.08729819790525964
-    Dec        24.58472363929978
-    Dist       383000329.50848556
+    RA         0.08729819722839718
+    Dec        24.58472362506095
+    Dist       382993429.4846643
     Class      "M1 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Gamor
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Chaykin Sector
-// Grid location : O14
-// X : 5253.68, Y : -6620.71, Z : 270.0730401132887
-Star "Gamor System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Chaykin_sector
+// System wiki : https://starwars.fandom.com/wiki/Gholondreine_system
+// Grid location : O-14
+// Known planet : Gamor
+// X : 5253.675, Y : -4489.3499999999985, Z : -79.36732928122353
+Star "Gamor system" // system name
 {
-    RA         0.08728060419440316
-    Dec        24.58488390622411
-    Dist       382999729.98930365
-    Class      "M4 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Garia_system
-// Region : Expansion Region
-// Sector : Brak sector
-// Grid location : O14
-// X : 5731.1663636364, Y : -7001.6, Z : -2
-Star "Garia System" // system name
-{
-    RA         0.08727584218579905
-    Dec        24.58482692657236
-    Dist       383000002.07384515
+    RA         0.08728060429207364
+    Dec        24.58488390534088
+    Dist       383000079.4296731
     Class      "F1 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Genesia_system
+// https://starwars.fandom.com/wiki/Amthau
 // Region : Expansion Region
-// Sector : Brak sector
-// Grid location : O14
-// X : 5717.1209090909, Y : -6997.5, Z : 14.1666666667
-Star "Genesia/Genesia System" // Star name / system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Brak Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Brak_sector
+// System wiki : https://starwars.fandom.com/wiki/Genesia_system
+// Grid location : O-14
+// Known planet : Amthau
+// X : 5404.905, Y : -4861.664999999999, Z : -3315.241336293022
+Star "Genesia/Genesia system" // Star name / system name
 {
-    RA         0.08727598226089663
-    Dec        24.584827539890707
-    Dist       382999985.90691644
+    RA         0.08727909650746696
+    Dec        24.58482821416511
+    Dist       383003315.3103289
     Class      "G5 V"
 }
 
-// http://starwars.wikia.com/wiki/Gholondreine
+// https://starwars.fandom.com/wiki/Gholondreine-%C3%9F
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Chitarghar Sector
-// Grid location : K15
-// X : -560.65, Y : -8773.68, Z : 88.38023825304413
-Star "Gholondreine System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Chitarghar_sector
+// System wiki : 
+// Grid location : K-15
+// Known planet : Gholondreine-?
+// X : -560.6550000000001, Y : -6642.3150000000005, Z : 7750.780711017914
+Star "Gholondreine system" // system name
 {
-    RA         0.08733859145103508
-    Dec        24.58456182789295
-    Dist       382999911.67777044
+    RA         0.0873385916127682
+    Dec        24.584561807264876
+    Dist       382992249.2772989
     Class      "M8 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Gizer
 // Region : Expansion Region
-// Sector : Locris Sector
-// Grid location : P8
-// X : 6091.63, Y : 1728.14, Z : 77.01481072141758
-Star "Gizer System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Lantillian sector
+// Sector wiki : https://starwars.fandom.com/wiki/Lantillian_sector
+// System wiki : https://starwars.fandom.com/wiki/Gizer_system
+// Grid location : P-8
+// Known planet : Gizer
+// X : 6091.62, Y : 3859.5, Z : -7071.931462560056
+Star "Gizer system" // system name
 {
-    RA         0.08727224721331439
-    Dec        24.586132872528584
-    Dist       382999923.0530793
+    RA         0.08727224844701378
+    Dec        24.586132860255802
+    Dist       383007071.9993511
     Class      "K4 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Glom_Tho
-// Region : Expansion Region
-// Sector : Vardoss Sector
-// Grid location : I8
-// X : -3129.35, Y : 2876.98, Z : -26.29657749747969
-Star "Glom Tho System" // system name
-{
-    RA         0.0873642094926553
-    Dec        24.586304735763985
-    Dist       383000026.3421081
-    Class      "M2 II" // random
 }
 
 // http://starwars.wikia.com/wiki/Golden_Nyss
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Fellwe Sector
-// Grid location : L8
-// X : 654.63, Y : 2852.08, Z : -24.856697789253644
-Star "Golden Nyss System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Fellwe_sector
+// System wiki : https://starwars.fandom.com/wiki/Golden_Nyss_system
+// Grid location : L-8
+// Known planet : 
+// X : 654.63, Y : 4983.435, Z : 2424.8369215103526
+Star "Golden Nyss system" // system name
 {
-    RA         0.08732647127350593
-    Dec        24.586301010793388
-    Dist       383000024.88967866
+    RA         0.0873264712317475
+    Dec        24.586301013317783
+    Dist       382997575.19605935
     Class      "K2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Gyndine
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Circarpous Sector
-// Grid location : O12
-// X : 4695.54, Y : -3352.32, Z : -451.9917132203798
-Star "Gyndine System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Circarpous_sector
+// System wiki : https://starwars.fandom.com/wiki/Gyndine_system
+// Grid location : O-12
+// Known planet : Gyndine
+// X : 4695.54, Y : -1220.955, Z : -470.95035302091674
+Star "Gyndine system" // system name
 {
-    RA         0.0872861707037381
-    Dec        24.585372849348722
-    Dist       383000452.02244276
+    RA         0.08728617070605617
+    Dec        24.58537284860978
+    Dist       383000470.9810825
     Class      "G2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Har_Binande
 // Region : Expansion Region
-// Sector : Har Worlds Sector
-// Grid location : J16
-// X : -1763.8, Y : -9471.75, Z : 365.49815734107517
-Star "Har System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Har Worlds
+// Sector wiki : https://starwars.fandom.com/wiki/Har_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Har_system
+// Grid location : J-16
+// Known planet : Har Binande
+// X : -1763.805, Y : -7340.385, Z : -8863.396425787725
+Star "Har system" // system name
 {
-    RA         0.08735059066881545
-    Dec        24.584457397662337
-    Dist       382999634.57624507
+    RA         0.08735059029481931
+    Dec        24.584457423373994
+    Dist       383008863.4708265
     Class      "M1 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Hijo
 // Region : Expansion Region
-// Sector : Hijoan Space Sector
-// Grid location : J8
-// X : -2598.87, Y : 2614.67, Z : 171.6700960683354
-Star "Hijo System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Hijoian Space
+// Sector wiki : https://starwars.fandom.com/wiki/Hijoian_Space
+// System wiki : https://starwars.fandom.com/wiki/Hijoian_system
+// Grid location : J-8
+// Known planet : Hijo
+// X : -2598.8700000000003, Y : 4746.030000000001, Z : -3233.5893874084254
+Star "Hijoian system" // system name
 {
-    RA         0.08735891894677868
-    Dec        24.586265495256583
-    Dist       382999828.3681272
+    RA         0.08735891871633482
+    Dec        24.5862654874481
+    Dist       383003233.6276102
     Class      "M3 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Hilo
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Hilo Sector
-// Grid location : O13
-// X : 5850.89, Y : -5836.08, Z : -588.427127322623
-Star "Hilo System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Hilo_sector
+// System wiki : https://starwars.fandom.com/wiki/Hilo_system
+// Grid location : O-13
+// Known planet : Hilo
+// X : 5850.885, Y : -3704.7149999999997, Z : 7989.0832543879615
+Star "Hilo system" // system name
 {
-    RA         0.08727464825268355
-    Dec        24.585001286106532
-    Dist       383000588.4897353
+    RA         0.0872746469957014
+    Dec        24.585001272946325
+    Dist       382992010.9793549
     Class      "M6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Iktotchon
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Narvath Sector
-// Grid location : O14
-// X : 5190.14, Y : -6096.57, Z : -61.775994942307534
-Star "Iktotch System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Narvath_sector
+// System wiki : https://starwars.fandom.com/wiki/Iktotch_system
+// Grid location : O-14
+// Known planet : Iktotchon
+// X : 5190.15, Y : -3965.2049999999995, Z : 4648.099639777318
+Star "Iktotch system" // system name
 {
-    RA         0.08728123793401235
-    Dec        24.584962316740803
-    Dist       383000061.83168733
+    RA         0.08728123719773688
+    Dec        24.584962308698152
+    Dist       382995351.9560535
     Class      "M7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Illoud
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Hali Sector
-// Grid location : O9
-// X : 5901.44, Y : 1392.88, Z : -372.87649177554806
-Star "Illoud System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Hali_sector
+// System wiki : https://starwars.fandom.com/wiki/Illoud_system
+// Grid location : O-9
+// Known planet : Illoud
+// X : 5901.4349999999995, Y : 3524.25, Z : 2910.589518135305
+Star "Illoud system" // system name
 {
-    RA         0.08727414407731364
-    Dec        24.586082717896492
-    Dist       383000372.9381723
+    RA         0.08727414362260306
+    Dec        24.586082722416375
+    Dist       382997089.47216284
     Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Immalia
-// Region : Expansion Region
+// Region : Expansion Region, Outer Expansion Zone, Northern Dependencies
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Outer_Expansion_Zone/Legendshttps://starwars.fandom.com/wiki/Outer_Expansion_Zone/Legends,
 // Sector : Immalia Sector
-// Grid location : K8
-// X : -99.76, Y : 2527.79, Z : -316.17913829824573
-Star "Immalia System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Immalia_sector
+// System wiki : https://starwars.fandom.com/wiki/Immalia_system
+// Grid location : K-8
+// Known planet : Immalia
+// X : -99.765, Y : 4659.15, Z : -442.3625978556288
+Star "Immalia system" // system name
 {
-    RA         0.08733399492119158
-    Dec        24.586252497346443
-    Dist       383000316.2074904
+    RA         0.08733399497072951
+    Dec        24.586252495620837
+    Dist       383000442.39094985
     Class      "M0 V" // random
 }
 
@@ -952,55 +1237,88 @@ Star "Intran System" // system name
     Class      "M4 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Ishanna
+// https://starwars.fandom.com/wiki/Insta-7
 // Region : Expansion Region
-// Sector : Circarpous Sector
-// Grid location : O12
-// X : 5453.81, Y : -3213.62, Z : -344.5636041083195
-Star "Ishanna System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Majoor Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Majoor_sector
+// System wiki : https://starwars.fandom.com/wiki/Insta_system
+// Grid location : N-15
+// Known planet : Insta-7
+// X : 3569.355, Y : -5977.305, Z : 6311.3752687647
+Star "Insta system" // system name
 {
-    RA         0.08727860835263282
-    Dec        24.585393598429263
-    Dist       383000344.6039635
+    RA         0.08729740168021004
+    Dec        24.584661296362952
+    Dist       382993688.68800706
+    Class      "M3 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Ishanna_I
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Circarpous Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Circarpous_sector
+// System wiki : https://starwars.fandom.com/wiki/Ishanna_system
+// Grid location : O-12
+// Known planet : Ishanna
+// X : 5453.805, Y : -1082.25, Z : -473.15168393803333
+Star "Ishanna system" // system name
+{
+    RA         0.08727860842075992
+    Dec        24.58539359848362
+    Dist       383000473.19204324
     Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Jazbina
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Lostar Sector
-// Grid location : M8
-// X : 2293.21, Y : 2948.25, Z : 121.56926607152582
-Star "Jazbina System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Lostar_sector
+// System wiki : https://starwars.fandom.com/wiki/Jazbina_system
+// Grid location : M-8
+// Known planet : Jazbina
+// X : 2293.215, Y : 5079.615, Z : 3501.326592223606
+Star "Jazbina system" // system name
 {
-    RA         0.08731012945235143
-    Dec        24.58631539785873
-    Dist       382999878.471284
+    RA         0.08731012920066378
+    Dec        24.586315403816467
+    Dist       382996498.7139582
     Class      "M1 II" // random
 }
 
 // http://starwars.wikia.com/wiki/Jendorn
-// Region : Expansion Region
+// Region : Expansion Region, Trans-Hydian
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Trans-Hydian
 // Sector : Farstey Sector
-// Grid location : O8
-// X : 5198.66, Y : 2811.39, Z : -1.3981903237280449
-Star "Jendorn System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Farstey_sector
+// System wiki : https://starwars.fandom.com/wiki/Jendorn_system/Legends
+// Grid location : O-8
+// Known planet : Jendorn
+// X : 5198.655, Y : 4942.755, Z : 226.42260573819613
+Star "Jendorn system" // system name
 {
-    RA         0.08728115295456608
-    Dec        24.586294923723493
-    Dist       383000001.4653665
+    RA         0.08728115297359157
+    Dec        24.586294923415338
+    Dist       382999773.6445703
     Class      "M2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Jestan
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Corpheli Sector
-// Grid location : M7
-// X : 1816.06, Y : 3099.9, Z : -427.61781769592636
-Star "Jestan System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Corpheli_sector
+// System wiki : https://starwars.fandom.com/wiki/Jestan_system
+// Grid location : M-7
+// Known planet : Jestan
+// X : 1816.065, Y : 5231.265, Z : 363.0810248493117
+Star "Jestan system" // system name
 {
-    RA         0.08731488817107612
-    Dec        24.58633808317971
-    Dist       383000427.6578493
+    RA         0.08731488808381861
+    Dec        24.58633808404736
+    Dist       382999636.95900685
     Class      "K3 III" // random
 }
 
@@ -1019,144 +1337,205 @@ Star "Jinet System" // system name
 
 // http://starwars.wikia.com/wiki/Jurzan
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Jurzan Sector
-// Grid location : M15
-// X : 2901.1, Y : -8854.69, Z : 239.5741955228284
-Star "Jurzan System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Jurzan_sector
+// System wiki : https://starwars.fandom.com/wiki/Jurzan_system
+// Grid location : M-15
+// Known planet : Jurzan
+// X : 2901.105, Y : -6723.33, Z : 970.3654886158904
+Star "Jurzan system" // system name
 {
-    RA         0.08730406685989264
-    Dec        24.584549708612958
-    Dist       382999760.4958038
+    RA         0.08730406675482011
+    Dec        24.584549705197855
+    Dist       382999029.70451105
     Class      "M4 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Ring_of_Kafrene
 // Region : Expansion Region
-// Sector : Trans Jardeen Sector
-// Grid location : K15
-// X : -1170.44, Y : -8964.99, Z : -253.55981414791285
-Star "Kafrene System/Ring of Kafrene System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Thand Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Thand_sector
+// System wiki : 
+// Grid location : J-15
+// Known planet : Ring of Kafrene/Kafrene
+// X : -2101.77, Y : -5600.654999999999, Z : -8888.008916446608
+Star "Kafrene system" // system name (assumed)
 {
-    RA         0.08734467297263292
-    Dec        24.58453320933279
-    Dist       383000253.6225664
+    RA         0.08735396079303921
+    Dec        24.58471767637754
+    Dist       383008888.05563176
     Class      "K9 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Kayri
+// https://starwars.fandom.com/wiki/Kashir
 // Region : Expansion Region
-// Sector : Freestanding Subsectors Sector
-// Grid location : I15
-// X : -3117.05, Y : -7715.86, Z : 126.07812912163843
-Star "Kayri System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Vardoss Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Vardoss_sector
+// System wiki : https://starwars.fandom.com/wiki/Kashir_system
+// Grid location : J-8
+// Known planet : Kashir
+// X : -2962.275, Y : 4904.295, Z : -3792.89570439531
+Star "Kashir system" // system name
 {
-    RA         0.08736408683521633
-    Dec        24.584720074900684
-    Dist       382999873.9752685
+    RA         0.08736254293724187
+    Dec        24.586289162199133
+    Dist       383003792.9385593
+    Class      "M7 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Kayri_III
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Freestanding Subsectors
+// Sector wiki : https://starwars.fandom.com/wiki/Freestanding_subsectors
+// System wiki : https://starwars.fandom.com/wiki/Kayri_system
+// Grid location : I-15
+// Known planet : Kayri III
+// X : -3117.06, Y : -5584.5, Z : 7246.169012840084
+Star "Kayri system" // system name
+{
+    RA         0.08736408751287479
+    Dec        24.58472005787357
+    Dist       382992753.88438594
     Class      "M8 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Taloraan
 // Region : Expansion Region
-// Sector : Freestanding Subsectors Sector
-// Grid location : I15
-// X : -3634.05, Y : -7637.24, Z : 440.71039914282323
-Star "Kelavine/Kelavine System" // Star name / system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Freestanding Subsectors
+// Sector wiki : https://starwars.fandom.com/wiki/Freestanding_subsectors
+// System wiki : https://starwars.fandom.com/wiki/Kelavine_system
+// Grid location : I-15
+// Known planet : Taloraan
+// X : -3634.05, Y : -5505.869999999999, Z : -7983.538099623093
+Star "Kelavine system" // system name
 {
-    RA         0.08736924298818506
-    Dec        24.584731835570437
-    Dist       382999559.3464168
+    RA         0.08736924219102168
+    Dec        24.58473185368691
+    Dist       383007983.5949143
     Class      "M0 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Kerkoidia
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Kira Sector
-// Grid location : N15
-// X : 4264.59, Y : -8911.33, Z : -286.7863369309621
-Star "Kerkoidia System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Kira_sector
+// System wiki : https://starwars.fandom.com/wiki/Kerkoidia_system
+// Grid location : N-15
+// Known planet : Kerkoidia
+// X : 4264.59, Y : -6779.970000000001, Z : 2574.063119915497
+Star "Kerkoidia system" // system name
 {
-    RA         0.08729046861176983
-    Dec        24.584541236808487
-    Dist       383000286.87008965
+    RA         0.08729046829407605
+    Dec        24.58454122773633
+    Dist       382997426.0206336
     Class      "K7 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Kidriff
+// https://starwars.fandom.com/wiki/Kidriff_5
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Lostar Sector
-// Grid location : M8
-// X : 1810.51, Y : 2887.22, Z : -153.76175024162188
-Star "Kidriff System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Lostar_sector
+// System wiki : https://starwars.fandom.com/wiki/Kidriff_system
+// Grid location : M-8
+// Known planet : Kidriff 5
+// X : 1810.5149999999999, Y : 5018.58, Z : -8241.451970253629
+Star "Kidriff system" // system name
 {
-    RA         0.08731494350911757
-    Dec        24.586306267390736
-    Dist       383000153.7989097
+    RA         0.0873149438405379
+    Dec        24.586306250041417
+    Dist       383008241.4891288
     Class      "M2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Kinyen
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Bes Ber Bikade Sector
-// Grid location : L15
-// X : 161.25, Y : -8909.49, Z : 487.177851268573
-Star "Kinyen System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Bes_Ber_Bikade_sector
+// System wiki : https://starwars.fandom.com/wiki/Kinyen_system
+// Grid location : L-15
+// Known planet : Kinyen
+// X : 161.25, Y : -6778.125, Z : -7310.461878364441
+Star "Kinyen system" // system name
 {
-    RA         0.0873313918265973
-    Dec        24.584541510018315
-    Dist       382999512.8821604
+    RA         0.08733139185933808
+    Dec        24.584541529914148
+    Dist       383007310.5218889
     Class      "M2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Kira
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Kira Sector
-// Grid location : N15
-// X : 3785.01, Y : -8985.73, Z : 549.1724099583071
-Star "Kira/Kira System" // Star name / system name
+// Sector wiki : http://starwars.wikia.com/wiki/Kira_sector
+// System wiki : https://starwars.fandom.com/wiki/Kira_system
+// Grid location : N-15
+// Known planet : Kira
+// X : 3785.01, Y : -6854.355, Z : -7826.230967492091
+Star "Kira system" // system name
 {
-    RA         0.0872952514518077
-    Dec        24.584530104536974
-    Dist       382999450.9076274
+    RA         0.08729525227727208
+    Dec        24.584530127707726
+    Dist       383007826.3110031
     Class      "M4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Kiros
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Ehosiq Sector
-// Grid location : L8
-// X : 1100.83, Y : 2688.64, Z : -516.8648047128338
-Star "Kiros System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Ehosiq_sector
+// System wiki : https://starwars.fandom.com/wiki/Kiros_system/Legends
+// Grid location : L-8
+// Known planet : Kiros
+// X : 1100.835, Y : 4820.01, Z : 7270.52582877869
+Star "Kiros system" // system name
 {
-    RA         0.0873220212658236
-    Dec        24.586276559680172
-    Dist       383000516.8967163
+    RA         0.08732202099272629
+    Dec        24.58627657434148
+    Dist       382992729.5060835
     Class      "G5 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Krann
+// https://starwars.fandom.com/wiki/Ahug
 // Region : Expansion Region
-// Sector : Brevost Sector
-// Grid location : O15
-// X : 5078.7, Y : -8142.33, Z : -23.83332420820227
-Star "Krann System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Freestanding Subsectors
+// Sector wiki : https://starwars.fandom.com/wiki/Freestanding_subsectors
+// System wiki : https://starwars.fandom.com/wiki/Kriekaal_system
+// Grid location : J-14
+// Known planet : Ahug
+// X : -2951.01, Y : -5093.16, Z : 5167.520218176348
+Star "Kriekaal system" // system name
 {
-    RA         0.0872823493372866
-    Dec        24.584656276455974
-    Dist       383000023.91416603
-    Class      "M9 IV" // random
+    RA         0.08736243127930347
+    Dec        24.584793566554378
+    Dist       382994832.5250158
+    Class      "M5 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Lahag_Erli
 // Region : Expansion Region
-// Sector : Cantons of Lahag Sector
-// Grid location : J15
-// X : -2326.07, Y : -8666.47, Z : -281.375624082537
-Star "Lahag Erli System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Cantons of Lahag
+// Sector wiki : https://starwars.fandom.com/wiki/Cantons_of_Lahag
+// System wiki : https://starwars.fandom.com/wiki/Lahag_Erli_system
+// Grid location : J-15
+// Known planet : Lahag Erli
+// X : -2326.065, Y : -6535.110000000001, Z : -4303.599615792243
+Star "Lahag Erli system" // system name
 {
-    RA         0.08735619824124265
-    Dec        24.584577867170818
-    Dist       383000281.43844146
+    RA         0.08735619794775479
+    Dec        24.58457787594174
+    Dist       383004303.6624327
     Class      "M3 II" // random
 }
 
@@ -1188,40 +1567,52 @@ Star "Laud System" // system name
 
 // http://starwars.wikia.com/wiki/Lazerian
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Kira Sector
-// Grid location : N15
-// X : 3773.09, Y : -8947.61, Z : 348.4200183700656
-Star "Lazerian System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Kira_sector
+// System wiki : https://starwars.fandom.com/wiki/Lazerian_system
+// Grid location : N-15
+// Known planet : Lazerian
+// X : 3773.1, Y : -6816.24, Z : -8387.560132676355
+Star "Lazerian/Lazerian system" // Star name / system name
 {
-    RA         0.08729537035171803
-    Dec        24.58453580773006
-    Dist       382999651.65922105
-    Class      "G3 III" // random
+    RA         0.08729537111027759
+    Dec        24.584535830988063
+    Dist       383008387.6393704
+    Class      "G3 III" // random, Yellow sun
 }
 
 // http://starwars.wikia.com/wiki/Lequabis
 // Region : Expansion Region
-// Sector : Freestanding Subsectors Sector
-// Grid location : I14
-// X : -3195.68, Y : -7070.21, Z : -400.79109331337014
-Star "Lequabis System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Freestanding Subsectors
+// Sector wiki : https://starwars.fandom.com/wiki/Freestanding_subsectors
+// System wiki : https://starwars.fandom.com/wiki/Lequabis_system
+// Grid location : I-14
+// Known planet : Lequabis
+// X : -3195.6749999999997, Y : -4938.84, Z : -3011.489956094835
+Star "Lequabis system" // system name
 {
-    RA         0.0873648709808644
-    Dec        24.584816663468526
-    Dist       383000400.83626884
+    RA         0.0873648707137539
+    Dec        24.584816668504725
+    Dist       383003011.5351313
     Class      "M8 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Lohopa
+// https://starwars.fandom.com/wiki/Lohopa_II
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Boeus Sector
-// Grid location : M15
-// X : 2362.66, Y : -8437.75, Z : 42.96033018043818
-Star "Lohopa System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Boeus_sector
+// System wiki : https://starwars.fandom.com/wiki/Lohopa_system
+// Grid location : M-15
+// Known planet : Lohopa II
+// X : 2362.665, Y : -6306.390000000001, Z : 4202.833386061193
+Star "Lohopa system" // system name
 {
-    RA         0.08730943682130428
-    Dec        24.584612082249343
-    Dist       382999957.09887683
+    RA         0.0873094365155087
+    Dec        24.58461207050651
+    Dist       382995797.2258218
     Class      "M7 IV" // random
 }
 
@@ -1240,14 +1631,18 @@ Star "Lota System" // system name
 
 // http://starwars.wikia.com/wiki/Majoor
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Majoor Sector
-// Grid location : N15
-// X : 3451.46, Y : -8137.56, Z : 151.67501928345484
-Star "Majoor System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Majoor_sector
+// System wiki : https://starwars.fandom.com/wiki/Majoor_system
+// Grid location : N-15
+// Known planet : Majoor
+// X : 3451.455, Y : -6006.195, Z : -7303.54400761025
+Star "Majoor system" // system name
 {
-    RA         0.08729857803838692
-    Dec        24.584656989623483
-    Dist       382999848.3876268
+    RA         0.0872985787582736
+    Dec        24.58465700636497
+    Dist       383007303.6066525
     Class      "M1 IV" // random
 }
 
@@ -1279,41 +1674,53 @@ Star "Maxca System" // system name
 
 // http://starwars.wikia.com/wiki/Mek_va_Uil
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Surron Sector
-// Grid location : O13
-// X : 5814.44, Y : -4633.97, Z : 157.7693527634941
-Star "Mek va Uil System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Surron_sector
+// System wiki : https://starwars.fandom.com/wiki/Mek_va_Uil_system
+// Grid location : O-13
+// Known planet : Mek va Uil
+// X : 5814.45, Y : -2502.6, Z : 4579.34955619435
+Star "Mek va Uil system" // system name
 {
-    RA         0.0872750116606722
-    Dec        24.58518111755386
-    Dist       382999842.2829589
-    Class      "M6 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Mendicat
-// Region : Expansion Region
-// Sector : Freestanding Subsectors Sector
-// Grid location : I8
-// X : -3575.68, Y : 2499.69, Z : 322.419018742861
-Star "Mendicat System" // system name
-{
-    RA         0.08736866084340285
-    Dec        24.58624829481992
-    Dist       382999677.62567085
+    RA         0.0872750108914795
+    Dec        24.585181113231712
+    Dist       382995420.7027562
     Class      "M6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Merren
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Chaykin Sector
-// Grid location : O14
-// X : 5393.45, Y : -6544.47, Z : 430.5239779569954
-Star "Merren System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Chaykin_sector
+// System wiki : https://starwars.fandom.com/wiki/Merren_system
+// Grid location : O-14
+// Known planet : Merren
+// X : 5393.445, Y : -4413.105, Z : -5267.037406484065
+Star "Merren system" // system name
 {
-    RA         0.08727921022291361
-    Dec        24.58489531125644
-    Dist       382999569.5394226
+    RA         0.08727921107295193
+    Dec        24.584895320329387
+    Dist       383005267.10080606
     Class      "F5 III" // random
+}
+
+// https://starwars.fandom.com/wiki/Pasaana
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Ombakond Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Ombakond_sector
+// System wiki : https://starwars.fandom.com/wiki/Middian_system
+// Grid location : P-12
+// Known planet : Pasaana
+// X : 6005.535000000001, Y : -2348.8199999999993, Z : 4877.385628898591
+Star "Middian system" // system name
+{
+    RA         0.0872731051016279
+    Dec        24.585204118311598
+    Dist       382995122.66865826
+    Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Mila_system
@@ -1331,196 +1738,273 @@ Star "Mila System" // system name
 
 // http://starwars.wikia.com/wiki/Milagro
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Chaykin Sector
-// Grid location : O14
-// X : 5402.98, Y : -6763.66, Z : -578.7643579436829
-Star "Milagro System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Chaykin_sector
+// System wiki : https://starwars.fandom.com/wiki/Milagro_system
+// Grid location : O-14
+// Known planet : Milagro
+// X : 5402.985000000001, Y : -4632.299999999999, Z : -4741.277939181858
+Star "Milagro system" // system name
 {
-    RA         0.08727911532063096
-    Dec        24.584862522805754
-    Dist       383000578.83048093
+    RA         0.08727911585638704
+    Dec        24.584862528841107
+    Dist       383004741.34406173
     Class      "M7 IV" // random
 }
 
-// http://starwars.wikia.com/wiki/Momansi
+// https://starwars.fandom.com/wiki/Momansi_Belt
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Brevost Sector
-// Grid location : O15
-// X : 5004.84, Y : -8256.69, Z : -133.7503352010187
-Star "Momansi System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Brevost_sector
+// System wiki : https://starwars.fandom.com/wiki/Momansi_system
+// Grid location : O-15
+// Known planet : Momansi belt
+// X : 5004.84, Y : -6125.325000000001, Z : -58.953728578511004
+Star "Momansi system" // system name
 {
-    RA         0.08728308596884565
-    Dec        24.584639168768728
-    Dist       383000133.8320166
+    RA         0.08728308595909788
+    Dec        24.58463916784179
+    Dist       383000059.03541005
     Class      "M3 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Mondress
-// Region : Expansion Region
+// https://starwars.fandom.com/wiki/Mondress_system
+// Region : Expansion Region, Outer Expansion Zone
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Mandress Sector
-// Grid location : J7
-// X : -2838.06, Y : 3144.83, Z : -262.82399341300413
-Star "Mondress System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Mandress_sector
+// System wiki : https://starwars.fandom.com/wiki/Mondress_system
+// Grid location : J-7
+// Known planet : Mondress
+// X : -2838.06, Y : 5276.205, Z : 7119.687546927204
+Star "Mondress system" // system name
 {
-    RA         0.08736130439485044
-    Dec        24.586344804920106
-    Dist       383000262.87085086
+    RA         0.08736130494044157
+    Dec        24.586344820882626
+    Dist       382992880.3593116
     Class      "M7 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Montitia
 // Region : Expansion Region
-// Sector : Mintitian Grant Sector
-// Grid location : J15
-// X : -2497.61, Y : -8330.54, Z : 7.419621298064271
-Star "Montitia System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Outer_Expansion_Zone/Legends
+// Sector : Mintitian Grant sector
+// Sector wiki : http://starwars.wikia.com/wiki/Mintitian_Grant
+// System wiki : https://starwars.fandom.com/wiki/Montitia_system
+// Grid location : J-15
+// Known planet : Montitia
+// X : -2497.605, Y : -6199.1849999999995, Z : 8651.947647400817
+Star "Montitia system" // system name
 {
-    RA         0.08735790905389727
-    Dec        24.58462812066754
-    Dist       382999992.6386917
+    RA         0.0873579095662546
+    Dec        24.584628097491574
+    Dist       382991348.11066717
     Class      "M3 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Mordagon
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Authala Sector
-// Grid location : P12
-// X : 7338.37, Y : -3502.13, Z : -463.540960627844
-Star "Mordagon System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Authala_sector
+// System wiki : https://starwars.fandom.com/wiki/Mordagon_system
+// Grid location : P-12
+// Known planet : Mordagon
+// X : 7338.36, Y : -1370.7599999999998, Z : -5945.769016626278
+Star "Mordagon system" // system name
 {
-    RA         0.08725981338197057
-    Dec        24.585350438204518
-    Dist       383000463.61371595
+    RA         0.08725981452927108
+    Dec        24.58535044113971
+    Dist       383005945.8417707
     Class      "M3 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Muzara
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Trestis Sector
-// Grid location : K8
-// X : -1147.61, Y : 2736.11, Z : -45.84118706577851
-Star "Muzara System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Trestis_sector
+// System wiki : https://starwars.fandom.com/wiki/Muzara_system
+// Grid location : K-8
+// Known planet : Muzara
+// X : -1147.605, Y : 4867.47, Z : 8478.366756052394
+Star "Muzara system" // system name
 {
-    RA         0.08734444529184626
-    Dec        24.58628366195162
-    Dist       383000045.8738364
+    RA         0.08734444549671622
+    Dec        24.586283676662248
+    Dist       382991521.6658938
     Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Myomar
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Deadalis Sector
-// Grid location : J7
-// X : -1894.28, Y : 3085.65, Z : 55.09756181888167
-Star "Myomar System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Deadalis_sector
+// System wiki : https://starwars.fandom.com/wiki/Myomar_system
+// Grid location : J-7
+// Known planet : Myomar
+// X : -1894.2749999999999, Y : 5217.015, Z : -7674.435993806666
+Star "Myomar system" // system name
 {
-    RA         0.08735189195210245
-    Dec        24.586335952403704
-    Dist       382999944.9426543
+    RA         0.08735189152097644
+    Dec        24.586335935905307
+    Dist       383007674.4762091
     Class      "M1 II" // random
 }
 
-// http://starwars.wikia.com/wiki/Natalon
+// https://starwars.fandom.com/wiki/Natalon_system
 // Region : Expansion Region
-// Sector : Piryn SHar Sector
-// Grid location : K16
-// X : -1454.08, Y : -9414.57, Z : 558.5640033577017
-Star "Natalon System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Piryn Shar Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Piryn_Shar_sector
+// System wiki : https://starwars.fandom.com/wiki/Natalon_system
+// Grid location : K-16
+// Known planet : Natalon
+// X : -1454.0849999999998, Y : -7283.205, Z : 5878.416305330889
+Star "Natalon system" // system name
 {
-    RA         0.08734750178739366
-    Dec        24.584465951096917
-    Dist       382999441.5080064
+    RA         0.08734750203869246
+    Dec        24.5844659352149
+    Dist       382994121.6557055
     Class      "G2 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Nazzri
-// Region : Expansion Region
-// Sector : Dona Laza Sector
-// Grid location : P9
-// X : 6369.59, Y : 1045.02, Z : 61.19979143688806
-Star "Nazzri/Nazzri System" // Star name / system name
-{
-    RA         0.08726947507702162
-    Dec        24.586030679556565
-    Dist       382999938.8663458
-    Class      "M6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Nessem
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Lostar Sector
-// Grid location : M8
-// X : 1692.15, Y : 2792.89, Z : -342.97223852505783
-Star "Nessem System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Lostar_sector
+// System wiki : https://starwars.fandom.com/wiki/Nessem_system
+// Grid location : M-8
+// Known planet : Nessem
+// X : 1692.15, Y : 4924.26, Z : -3847.3337842786586
+Star "Nessem system" // system name
 {
-    RA         0.0873161239396898
-    Dec        24.586292155515817
-    Dist       383000343.0076324
+    RA         0.08731612409410029
+    Dec        24.586292148775655
+    Dist       383003847.3691778
     Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/New_Balosar
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Arc d'Stot Sector
-// Grid location : K16
-// X : -482.03, Y : -9002.4, Z : -308.4189052424687
-Star "New Balosar System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Arc_d'Stot_sector
+// System wiki : https://starwars.fandom.com/wiki/New_Balosar_system
+// Grid location : K-16
+// Known planet : New Balosar
+// X : -482.025, Y : -6871.035, Z : -8561.4809004185
+Star "New Balosar system" // system name
 {
-    RA         0.08733780735637223
-    Dec        24.584527613047403
-    Dist       383000308.48084176
+    RA         0.08733780720291873
+    Dec        24.58452763444832
+    Dist       383008561.54283565
     Class      "M1 III" // random
+}
+
+// https://starwars.fandom.com/wiki/Nigel_VI
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Kira Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Kira_sector
+// System wiki : https://starwars.fandom.com/wiki/Nigel_system
+// Grid location : N-16
+// Known planet : Nigel VI
+// X : 4067.52, Y : -6927.615, Z : -3790.321892661361
+Star "Nigel system" // system name
+{
+    RA         0.08729243439117047
+    Dec        24.584519157510506
+    Dist       383003790.40614325
+    Class      "M8 Ia" // random
 }
 
 // http://starwars.wikia.com/wiki/Nivek
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Citlik Sector
-// Grid location : O14
-// X : 5237.79, Y : -7294.16, Z : -299.4239267670568
-Star "Nivek System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Citlik_sector
+// System wiki : https://starwars.fandom.com/wiki/Nivek_system
+// Grid location : O-14
+// Known planet : Nivek
+// X : 5237.79, Y : -5162.789999999999, Z : 8775.324666295686
+Star "Nivek system" // system name
 {
-    RA         0.08728076274563257
-    Dec        24.58478316097588
-    Dist       383000299.4945388
+    RA         0.08728076150790198
+    Dec        24.58478314267577
+    Dist       382991224.74594736
     Class      "M6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Noe%27ha%27on
 // Region : Expansion Region
-// Sector : Piryn SHar Sector
-// Grid location : K16
-// X : -1242.04, Y : -9345.48, Z : -113.7632418983543
-Star "Noe'ha'on System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Piryn Shar Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Piryn_Shar_sector
+// System wiki : https://starwars.fandom.com/wiki/Noe%27ha%27on_system
+// Grid location : K-16
+// Known planet : Noe'ha'on
+// X : -1242.045, Y : -7214.115000000002, Z : 2972.6825009208574
+Star "Noe'ha'on system" // system name
 {
-    RA         0.08734538705462981
-    Dec        24.584476288686375
-    Dist       383000113.83319753
+    RA         0.08734538720431913
+    Dec        24.584476279241375
+    Dist       382997027.38745546
     Class      "M8 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Noe%27ha%27on/Canon
+// https://starwars.fandom.com/wiki/Scardia_Station
 // Region : Expansion Region
-// Sector : Piryn SHar Sector
-// Grid location : K16
-// X : -1139.77, Y : -9349.82, Z : -470.1939711337245
-Star "Noe'ha'on (Canon) System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Null Zone
+// Sector wiki : https://starwars.fandom.com/wiki/Indra-su-Mar_sector
+// System wiki : https://starwars.fandom.com/wiki/Null_Zone
+// Grid location : P-12
+// Known planet : 
+// X : 6877.86, Y : -1797.975, Z : -1630.7008243699097
+//Location "Null Zone" // system name ( TODO empty area : no system, no star)
+//{
+//    RA         0.08726440632337631
+//    Dec        24.58528652887583
+//    Dist       383001630.76680017
+//    Class      "M7 IV" // random
+//}
+
+// http://starwars.wikia.com/wiki/Krann
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Brevost Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Brevost_sector
+// System wiki : https://starwars.fandom.com/wiki/Opiteihr_system
+// Grid location : O-15
+// Known planet : Krann
+// X : 5078.7, Y : -6010.965, Z : -4685.39093293342                                                
+StarBarycenter "Opiteihr system" // system name / Star names : Dal,Kalnus,Opiteihr,Terax/
 {
-    RA         0.08734436708972051
-    Dec        24.584475640439077
-    Dist       383000470.2636905
-    Class      "M0 V" // random
+    RA         0.08728234995375682
+    Dec        24.584656286652464
+    Dist       383004685.4717738
+    Class      "M9 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Ord_Vaug
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Rocantor Sector
-// Grid location : L15
-// X : 1250.04, Y : -8818.95, Z : -598.0905519572882
-Star "Ord Vaug System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Rocantor_sector
+// System wiki : https://starwars.fandom.com/wiki/Ord_Vaug_system
+// Grid location : L-15
+// Known planet : Ord Vaug
+// X : 1250.04, Y : -6687.584999999999, Z : 7432.515847687822
+Star "Ord Vaug system" // system name
 {
-    RA         0.08732053317591332
-    Dec        24.584555057413155
-    Dist       383000598.1509779
+    RA         0.08732053291450836
+    Dec        24.584555035687828
+    Dist       382992567.5445796
     Class      "M4 III" // random
 }
 
@@ -1539,197 +2023,274 @@ Star "Orma System" // system name
 
 // http://starwars.wikia.com/wiki/Rhommamool
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Merthian Sector
-// Grid location : N13
-// X : 4192.68, Y : -5442.18, Z : 587.8205421798291
-Star "Osarian System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Merthian_sector
+// System wiki : https://starwars.fandom.com/wiki/Osarian_system
+// Grid location : N-13
+// Known planet : Rhommamool
+// X : 4192.68, Y : -3310.815, Z : -4652.311418973579
+Star "Osarian system" // system name
 {
-    RA         0.08729118568537353
-    Dec        24.585060210885363
-    Dist       382999412.2167164
+    RA         0.08729118625746196
+    Dec        24.585060216913753
+    Dist       383004652.34867704
     Class      "M6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Pamorjal
 // Region : Expansion Region
-// Sector : Immerian Outback Sector
-// Grid location : N14
-// X : 4224.44, Y : -6630.24, Z : 583.396010034965
-Star "Garbat/Pamorjal System" // Star name / system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Immerian Outback
+// Sector wiki : https://starwars.fandom.com/wiki/Immerian_Outback
+// System wiki : https://starwars.fandom.com/wiki/Pamorjal_system
+// Grid location : N-14
+// Known planet : Pamorjal
+// X : 4224.435, Y : -4498.875, Z : 7113.239678774739
+Star "Garbat/Pamorjal system" // Star name / system name
 {
-    RA         0.08729086893794902
-    Dec        24.584882480009913
-    Dist       382999416.6537103
+    RA         0.08729086826950147
+    Dec        24.58488246778725
+    Dist       382992886.8100424
     Class      "M1 IV" // random
 }
 
-// http://starwars.wikia.com/wiki/Parcelus_Minor
+// https://starwars.fandom.com/wiki/Parcellus_Minor
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Parcelus Sector
-// Grid location : O12
-// X : 4915.63, Y : -3884.96, Z : 44.675762485862606
-Star "Parcelus Minor System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Parcelus_sector
+// System wiki : https://starwars.fandom.com/wiki/Parcellus_Minor_system
+// Grid location : O-12
+// Known planet : Parcellus Minor
+// X : 4915.620000000001, Y : -1753.5900000000001, Z : -2040.5561046260455
+Star "Parcellus Minor system" // system name
 {
-    RA         0.08728397565091636
-    Dec        24.585293167577767
-    Dist       382999955.35979694
+    RA         0.08728397601755755
+    Dec        24.58529316900602
+    Dist       383002040.5916637
     Class      "K7 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Pax
-// Region : Expansion Region
+// Region : Expansion Region, Trailing Sectors
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
 // Sector : Kira Sector
-// Grid location : N16
-// X : 3306.13, Y : -9314.51, Z : 388.93600728354704
-Star "Pax System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Kira_sector
+// System wiki : https://starwars.fandom.com/wiki/Pax_system
+// Grid location : N-16
+// Known planet : Pax
+// X : 3306.12, Y : -7183.139999999999, Z : 1601.2512032273248
+Star "Pax/Pax system" // Star name / system name
 {
-    RA         0.08730002741725322
-    Dec        24.58448092030406
-    Dist       382999611.1456221
+    RA         0.08730002741261618
+    Dec        24.584480916902663
+    Dist       382998398.8304263
     Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Pendari
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Vensensor Sector
-// Grid location : K16
-// X : -158.01, Y : -9221.59, Z : -3.383188354720801
-Star "Pendari System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Vensensor_sector
+// System wiki : https://starwars.fandom.com/wiki/Pendari_system
+// Grid location : K-16
+// Known planet : Pendari
+// X : -158.01000000000002, Y : -7090.230000000001, Z : 7066.332121376919
+Star "Pendari system" // system name
 {
-    RA         0.08733457585831869
-    Dec        24.584494821989075
-    Dist       383000003.4488492
+    RA         0.08733457588740766
+    Dec        24.584494800913884
+    Dist       382992933.73354083
     Class      "M3 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Pendarr_III
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Alchenaut Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Alchenaut_sector
+// System wiki : https://starwars.fandom.com/wiki/Pendarr_system
+// Grid location : L-15
+// Known planet : Pendarr III
+// X : 1102.185, Y : -6838.77, Z : 1156.8289766206412
+Star "Pendarr system" // system name
+{
+    RA         0.08732200770418005
+    Dec        24.58453243513961
+    Dist       382998843.2336653
+    Class      "M7 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Pesitiin
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Freestanding Subsectors
+// Sector wiki : https://starwars.fandom.com/wiki/Freestanding_subsectors
+// System wiki : https://starwars.fandom.com/wiki/Pesitiin_system
+// Grid location : I-8
+// Known planet : Pesitiin
+// X : -3231.315, Y : 4587.135, Z : -7285.895639267635
+Star "Pesitiin system" // system name
+{
+    RA         0.08736522579458073
+    Dec        24.586241710119815
+    Dist       383007285.93673927
+    Class      "K3 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Pirin
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Locris Sector
-// Grid location : O8
-// X : 5842.25, Y : 1673.99, Z : 502.24310153200577
-Star "Pirin System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Locris_sector
+// System wiki : https://starwars.fandom.com/wiki/Pirin_system
+// Grid location : O-8
+// Known planet : Pirin
+// X : 5842.259999999999, Y : 3805.3650000000002, Z : 7276.323928145361
+Star "Pirin system" // system name
 {
-    RA         0.08727473425469313
-    Dec        24.586124772463275
-    Dist       382999497.82036155
+    RA         0.08727473312439998
+    Dec        24.58612478328013
+    Dist       382992723.7395362
     Class      "M6 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Ploo
+// https://starwars.fandom.com/wiki/Ploo_II/Legends
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Ploo Sector
-// Grid location : N7
-// X : 3523.08, Y : 3530.81, Z : 262.384352198274
-Star "Ploo System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Ploo_sector
+// System wiki : https://starwars.fandom.com/wiki/Ploo_system
+// Grid location : N-7
+// Known planet : Ploo II
+// X : 3523.0800000000004, Y : 5662.185, Z : -2804.4344887604784
+Star "Ploo system" // system name
 {
-    RA         0.08729786375053623
-    Dec        24.5864025476216
-    Dist       382999737.67370576
+    RA         0.08729786403188278
+    Dec        24.586402541587013
+    Dist       383002804.4925463
     Class      "M8 III" // random
 }
 
 // http://starwars.wikia.com/wiki/M%27haeli
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Majoor Sector
-// Grid location : N15
-// X : 3237.03, Y : -8666.47, Z : 58.873004265363306
-Star "Plynn System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Majoor_sector
+// System wiki : https://starwars.fandom.com/wiki/Plynn_system
+// Grid location : N-15
+// Known planet : M'haeli
+// X : 3237.0299999999997, Y : -6535.110000000001, Z : 3652.3479519875746
+Star "Plynn system" // system name
 {
-    RA         0.0873007165908334
-    Dec        24.58457786630231
-    Dist       382999941.196429
+    RA         0.08730071628793332
+    Dec        24.584577855633643
+    Dist       382996347.7214821
     Class      "K6 VI"
 }
 
-// http://starwars.wikia.com/wiki/Poviduze
+// 
 // Region : Expansion Region
-// Sector : Freestanding Subsectors Sector
-// Grid location : J14
-// X : -2862.13, Y : -7341.81, Z : -426.858424498792
-Star "Poviduze System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Freestanding Subsectors
+// Sector wiki : https://starwars.fandom.com/wiki/Freestanding_subsectors
+// System wiki : https://starwars.fandom.com/wiki/Poviduze_system
+// Grid location : J-14
+// Known planet : 
+// X : -2862.1349999999998, Y : -5210.445, Z : -6294.299264741766
+Star "Poviduze system" // system name
 {
-    RA         0.08736154443631822
-    Dec        24.584776032927767
-    Dist       383000426.9045608
+    RA         0.08736154404889848
+    Dec        24.58477604412079
+    Dist       383006294.34540045
     Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Prazhi
-// Region : Expansion Region
-// Sector : Cyrillian Protectorate Sector
-// Grid location : O12
-// X : 5655.39, Y : -3982.98, Z : -330.75029287569026
-Star "Prazhi System" // system name
+// Region : Expansion Region, The Slice
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Cyrillian Protectorate
+// Sector wiki : https://starwars.fandom.com/wiki/Cyrillian_Protectorate
+// System wiki : https://starwars.fandom.com/wiki/Pax_system
+// Grid location : O-12
+// Known planet : Prazhi
+// X : 5655.39, Y : -1851.6149999999993, Z : -6439.245301912713
+Star "Prazhi system" // system name
 {
-    RA         0.08727659796368109
-    Dec        24.585278504316747
-    Dist       383000330.7965225
+    RA         0.08727659886322617
+    Dec        24.585278507986523
+    Dist       383006439.2915308
     Class      "G1 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Qat_Chrystac
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Parnabe Sector
-// Grid location : L16
-// X : 1385.84, Y : -9841.04, Z : -151.92187357993123
-Star "Qat Chrystac System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Parnabe_sector
+// System wiki : https://starwars.fandom.com/wiki/Qat_Chrystac_system
+// Grid location : L-16
+// Known planet : Qat Chrystac
+// X : 1385.85, Y : -7709.67, Z : -6820.567762471509
+Star "Qat Chrystac system" // system name
 {
-    RA         0.08731917880738312
-    Dec        24.58440215436773
-    Dist       383000152.0019774
+    RA         0.08731917894829824
+    Dec        24.58440217444897
+    Dist       383006820.64786494
     Class      "M9 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Quas_Killam
+// https://starwars.fandom.com/wiki/Quesaya_system
 // Region : Expansion Region
-// Sector : Couronne Sector
-// Grid location : P10
-// X : 6620.7, Y : -52.35, Z : 30.775029640152525
-Star "Quas Killam System" // system name
-{
-    RA         0.08726697072273885
-    Dec        24.58586651587753
-    Dist       382999969.2878372
-    Class      "M0 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Quesaya
-// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Andirma Sector
-// Grid location : L15
-// X : 432.85, Y : -8047.03, Z : -508.9357966547784
-Star "Quesaya System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Andirma_sector
+// System wiki : https://starwars.fandom.com/wiki/Quesaya_system
+// Grid location : L-15
+// Known planet : Quesaya
+// X : 432.855, Y : -5915.654999999999, Z : -8421.789278603932
+Star "Quesaya system" // system name
 {
-    RA         0.08732868312529032
-    Dec        24.584670534202047
-    Dist       383000508.98172665
+    RA         0.08732868316461115
+    Dec        24.584670553233178
+    Dist       383008421.8352075
     Class      "G6 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Ragith
+// https://starwars.fandom.com/wiki/Raamen
 // Region : Expansion Region
-// Sector : Majoor Sector
-// Grid location : N15
-// X : 3463.37, Y : -7887.4, Z : 131.38853179519015
-Star "Ragith System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Tacuni Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Tacuni_sector
+// System wiki : https://starwars.fandom.com/wiki/Raamen_system
+// Grid location : N-15
+// Known planet : Raamen
+// X : 4426.6050000000005, Y : -5453.43, Z : 7827.377436306009
+Star "Raamen system" // system name
 {
-    RA         0.087298459259885
-    Dec        24.58469441295336
-    Dist       382999868.6703805
-    Class      "M2 IV" // random
+    RA         0.08728885187684585
+    Dec        24.584739664729245
+    Dist       382992172.68697065
+    Class      "G4 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Rainos_CLuster
+// https://starwars.fandom.com/wiki/Ragith_III
 // Region : Expansion Region
-// Sector : Rocantor Sector
-// Grid location : L15
-// X : 940.32, Y : -8544.97, Z : 249.87465870394794
-Star "Rainos Cluster System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Majoor Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Majoor_sector
+// System wiki : https://starwars.fandom.com/wiki/Ragith_system
+// Grid location : N-15
+// Known planet : Ragith III
+// X : 3855.105, Y : -6096.360000000001, Z : 1150.6000322761547
+Star "Ragith system" // system name
 {
-    RA         0.08732362203611116
-    Dec        24.584596041902888
-    Dist       382999750.1801957
-    Class      "M8 V" // random
+    RA         0.08729455232208166
+    Dec        24.58464349804775
+    Dist       382998849.46788883
+    Class      "M2 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Ralme_system
@@ -1745,16 +2306,20 @@ Star "Ralme System" // system name
     Class      "M6 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Ramordia
+// https://starwars.fandom.com/wiki/Ramordia_system
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Majoor Sector
-// Grid location : N15
-// X : 3430.02, Y : -8347.22, Z : 80.841948482612
-Star "Ramordia System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Majoor_sector
+// System wiki : https://starwars.fandom.com/wiki/Ramordia_system
+// Grid location : N-15
+// Known planet : Ramordia
+// X : 3430.02, Y : -6215.85, Z : -2889.154484184041
+Star "Ramordia system" // system name
 {
-    RA         0.08729879186925639
-    Dec        24.58462562520567
-    Dist       382999919.22385025
+    RA         0.08729879213452339
+    Dec        24.584625632416387
+    Dist       383002889.22028244
     Class      "M5 V" // random
 }
 
@@ -1773,170 +2338,222 @@ Star "Rehn System" // system name
 
 // http://starwars.wikia.com/wiki/Reytha
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Harron Sector
-// Grid location : O12
-// X : 5006.25, Y : -3056.41, Z : -128.22355636982132
-Star "Reytha System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Harron_sector
+// System wiki : https://starwars.fandom.com/wiki/Reytha_system
+// Grid location : O-12
+// Known planet : Reytha
+// X : 5006.25, Y : -925.0499999999997, Z : 6268.468241155744
+Star "Reytha system" // system name
 {
-    RA         0.08728307190598056
-    Dec        24.58541711652706
-    Dist       383000128.2573922
+    RA         0.08728307107209059
+    Dec        24.585417112719806
+    Dist       382993731.56559527
     Class      "M9 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Roldalna
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Kira Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Kira_sector
+// System wiki : https://starwars.fandom.com/wiki/Roldalna_system
+// Grid location : N-16
+// Known planet : Roldalna
+// X : 4118.820000000001, Y : -6940.230000000001, Z : 7153.969568235005
+Star "Roldalna system" // system name
+{
+    RA         0.08729192159953535
+    Dec        24.584517240690648
+    Dist       382992846.11546135
+    Class      "M3 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Roona
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Bes Ber Bikade Sector
-// Grid location : L15
-// X : 811.66, Y : -8218.57, Z : 151.6792185533335
-Star "Roona System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Bes_Ber_Bikade_sector
+// System wiki : https://starwars.fandom.com/wiki/Roona_system
+// Grid location : L-15
+// Known planet : Roona
+// X : 811.665, Y : -6087.195, Z : 6637.15637801889
+Star "Roona system" // system name
 {
-    RA         0.08732490518523642
-    Dec        24.584644870738522
-    Dist       382999848.3700149
+    RA         0.08732490499829498
+    Dec        24.58464485606624
+    Dist       382993362.8928562
     Class      "F3 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Ropagi
+// https://starwars.fandom.com/wiki/Ropagi_II
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Kira Sector
-// Grid location : N16
-// X : 3782.62, Y : -9028.61, Z : 141.90389088808706
-Star "Ropagi System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Kira_sector
+// System wiki : https://starwars.fandom.com/wiki/Ropagi_system
+// Grid location : N-16
+// Known planet : Ropagi II
+// X : 3782.625, Y : -6897.240000000002, Z : 56.38799972034349
+Star "Ropagi/Ropagi system" // Star name / system name
 {
-    RA         0.08729527532779914
-    Dec        24.58452369089122
-    Dist       382999858.1768926
-    Class      "F6 V"
+    RA         0.08729527528635649
+    Dec        24.5845236911216
+    Dist       382999943.6927838
+    Class      "F6 V" // yellow-white
 }
 
 // http://starwars.wikia.com/wiki/Roxuli
 // Region : Expansion Region
-// Sector : Freestanding Subsectors Sector
-// Grid location : I8
-// X : -3410.46, Y : 2401.06, Z : -53.144110174389084
-Star "Roxuli System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Freestanding Subsectors
+// Sector wiki : https://starwars.fandom.com/wiki/Freestanding_subsectors
+// System wiki : https://starwars.fandom.com/wiki/Roxuli_system
+// Grid location : I-8
+// Known planet : Roxuli
+// X : -3410.46, Y : 4532.43, Z : -4880.625865900936
+Star "Roxuli system" // system name
 {
-    RA         0.08736701304387799
-    Dec        24.586233539357423
-    Dist       383000053.186113
+    RA         0.08736701261516976
+    Dec        24.58623353081126
+    Dist       383004880.66786814
     Class      "M7 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Sarko
+// https://starwars.fandom.com/wiki/Sarko_VI
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Venzeiia Sector
-// Grid location : O12
-// X : 4556.84, Y : -4158.67, Z : 439.32253715957563
-Star "Sarko System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Venzeiia_sector
+// System wiki : https://starwars.fandom.com/wiki/Sarko_system
+// Grid location : O-12
+// Known planet : Sarko VI
+// X : 4556.835, Y : -2027.31, Z : -4148.061940963228
+Star "Sarko system" // system name
 {
-    RA         0.08728755387303973
-    Dec        24.58525222097378
-    Dist       382999560.70993644
+    RA         0.0872875544672303
+    Dec        24.58525222311031
+    Dist       383004148.0944141
     Class      "M9 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Sarrish
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Vensensor Sector
-// Grid location : K16
-// X : -256.19, Y : -9207.47, Z : -385.1587129653831
-Star "Sarrish System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Vensensor_sector
+// System wiki : https://starwars.fandom.com/wiki/Sarrish_system
+// Grid location : K-16
+// Known planet : Sarrish
+// X : -256.185, Y : -7076.115, Z : 733.9285199477604
+Star "Sarrish system" // system name
 {
-    RA         0.0873355550201901
-    Dec        24.584496935358615
-    Dist       383000385.2241657
+    RA         0.08733555497778975
+    Dec        24.584496930021626
+    Dist       382999266.1369332
     Class      "M6 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Scardia
-// Region : Expansion Region
-// Sector : Inra-su-Mar Sector
-// Grid location : P12
-// X : 6877.86, Y : -3929.34, Z : -66.29810997949528
-Star "Scardia Station System" // system name
-{
-    RA         0.08726440604319848
-    Dec        24.585286528525177
-    Dist       383000066.3640861
-    Class      "M3 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Selsor
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Zarracina Sector
-// Grid location : O14
-// X : 5017.55, Y : -7414.87, Z : 236.0743985621474
-Star "Selsor System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Zarracina_sector
+// System wiki : https://starwars.fandom.com/wiki/Selsor_system
+// Grid location : O-14
+// Known planet : Selsor
+// X : 5017.545, Y : -5283.51, Z : -4512.747396403864
+Star "Selsor system" // system name
 {
-    RA         0.08728295916176156
-    Dec        24.58476510199052
-    Dist       382999763.9949111
+    RA         0.08728295983207641
+    Dec        24.584765110294605
+    Dist       383004512.8167053
     Class      "M4 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Sepan
+// http://starwars.wikia.com/wiki/Sepan 8
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Sepan Sector
-// Grid location : P13
-// X : 6391.46, Y : -4678.36, Z : 511.6060445823225
-Star "Sepan System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Sepan_sector
+// System wiki : https://starwars.fandom.com/wiki/Sepan_system
+// Grid location : P-13
+// Known planet : Sepan 8
+// X : 6391.47, Y : -2547.0000000000005, Z : -4917.698696229326
+Star "Sepan/Sepan system" // Star name / system name
 {
-    RA         0.08726925688910998
-    Dec        24.585174476573386
-    Dist       382999488.45575434
+    RA         0.08726925769297326
+    Dec        24.58517448047865
+    Dist       383004917.76049453
     Class      "M0 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Sermeria
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Locris Sector
-// Grid location : O8
-// X : 5592.58, Y : 1646.25, Z : -586.9579934556955
-Star "Sermeria System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Locris_sector
+// System wiki : https://starwars.fandom.com/wiki/Sermeria_system
+// Grid location : O-8
+// Known planet : Sermeria
+// X : 5592.585, Y : 3777.6150000000002, Z : -4521.370402059935
+Star "Sermeria system" // system name
 {
-    RA         0.08727722441436073
-    Dec        24.586120621020616
-    Dist       383000587.0174546
+    RA         0.08727722493745001
+    Dec        24.586120614467433
+    Dist       383004521.4298627
     Class      "M0 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Serroco
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Ploo Sector
-// Grid location : N7
-// X : 3820.84, Y : 3623.29, Z : 140.076441548734
-Star "Serroco System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Ploo_sector
+// System wiki : https://starwars.fandom.com/wiki/Serroco_system
+// Grid location : N-7
+// Known planet : Serroco
+// X : 3820.83, Y : 5754.645, Z : -4720.265152074301
+Star "Serroco system" // system name
 {
-    RA         0.08729489415382881
-    Dec        24.58641638211775
-    Dist       382999859.98584956
+    RA         0.08729489473712349
+    Dec        24.586416368949195
+    Dist       383004720.32744205
     Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Shili
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Ehosiq Sector
-// Grid location : L8
-// X : 1054.1, Y : 2844.68, Z : 484.73070853850345
-Star "Shili System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Ehosiq_sector
+// System wiki : https://starwars.fandom.com/wiki/Shili_system
+// Grid location : L-8
+// Known planet : Shili
+// X : 1054.095, Y : 4976.040000000001, Z : 2920.5701719042218
+Star "Shili system" // system name
 {
-    RA         0.08732248728326855
-    Dec        24.58629990476362
-    Dist       382999515.3030672
+    RA         0.08732248726627444
+    Dec        24.586299908002008
+    Dist       382997079.4636039
     Class      "G3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Sika
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Brevost Sector
-// Grid location : O15
-// X : 5198.61, Y : -7694.42, Z : 227.3981762545966
-Star "Sika System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Brevost_sector
+// System wiki : https://starwars.fandom.com/wiki/Sika_system
+// Grid location : O-15
+// Known planet : Sika
+// X : 5198.610000000001, Y : -5563.049999999999, Z : -1332.2156513392054
+Star "Sika system" // system name
 {
-    RA         0.08728115342225179
-    Dec        24.584723282048454
-    Dist       382999772.6775066
+    RA         0.08728115363337544
+    Dec        24.584723285437317
+    Dist       383001332.2913339
     Class      "M6 III" // random
 }
 
@@ -1953,212 +2570,309 @@ Star "Skone System" // system name
     Class      "M6 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Solibus
+// https://starwars.fandom.com/wiki/Solibus_IV
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Chitarghar Sector
-// Grid location : K15
-// X : -772.69, Y : -8559.26, Z : -559.2802322236221
-Star "Solibus System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Chitarghar_sector
+// System wiki : https://starwars.fandom.com/wiki/Solibus_system
+// Grid location : K-15
+// Known planet : Solibus IV
+// X : -772.6949999999999, Y : -6427.889999999999, Z : -1378.234686259477
+Star "Solibus system" // system name
 {
-    RA         0.08734070614642706
-    Dec        24.584593906187106
-    Dist       383000559.3349512
+    RA         0.08734070617981496
+    Dec        24.58459390824324
+    Dist       383001378.28940517
     Class      "K5 IV" // random
 }
 
-// http://starwars.wikia.com/wiki/Soun
-// Region : Expansion Region
-// Sector : Freestanding Subsectors Sector
-// Grid location : J8
-// X : -2995.37, Y : 2189.27, Z : -524.0756506563127
-Star "Soun System" // system name
+// https://starwars.fandom.com/wiki/Soun_IV
+// Region : Expansion Region, Outer Expansion Zone
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Outer_Expansion_Zone/Legends
+// Sector : Freestanding Subsectors
+// Sector wiki : https://starwars.fandom.com/wiki/Freestanding_subsectors
+// System wiki : https://starwars.fandom.com/wiki/Soun_system
+// Grid location : I-8
+// Known planet : Soun IV
+// X : -3038.37, Y : 4320.63, Z : 37.44886641562573
+Star "Soun system" // system name
 {
-    RA         0.08736287325052026
-    Dec        24.58620185534738
-    Dist       383000524.11173433
+    RA         0.08736330214005521
+    Dec        24.586201854799043
+    Dist       382999962.58755594
     Class      "M3 III" // random
+}
+
+// https://starwars.fandom.com/wiki/Stennaros
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Har Worlds
+// Sector wiki : https://starwars.fandom.com/wiki/Har_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Stennaros_system
+// Grid location : K-16
+// Known planet : Stennaros
+// X : -1391.7, Y : -7020.27, Z : -8894.832055384706
+Star "Stennaros system" // system name
+{
+    RA         0.0873468793184569
+    Dec        24.58450531070303
+    Dist       383008894.898922
+    Class      "M9 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Stobar
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Boeus Sector
-// Grid location : M15
-// X : 2104.53, Y : -7951.44, Z : -311.4541874666044
-Star "Stobar System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Boeus_sector
+// System wiki : https://starwars.fandom.com/wiki/Stobar_system
+// Grid location : M-15
+// Known planet : Stobar
+// X : 2104.5299999999997, Y : -5820.075000000001, Z : -7752.237077836704
+Star "Stobar system" // system name
 {
-    RA         0.08731201121169682
-    Dec        24.584684833743417
-    Dist       383000311.5041904
+    RA         0.08731201161945101
+    Dec        24.584684849910087
+    Dist       383007752.2870798
     Class      "M2 II" // random
 }
 
 // http://starwars.wikia.com/wiki/Surron
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Surron Sector
-// Grid location : O13
-// X : 5385.38, Y : -4944.67, Z : -576.7705352471776
-Star "Surron System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Surron_sector
+// System wiki : https://starwars.fandom.com/wiki/Surron_system
+// Grid location : O-13
+// Known planet : Surron
+// X : 5385.375, Y : -2813.309999999999, Z : 6746.300620199546
+Star "Surron system" // system name
 {
-    RA         0.08727929084762645
-    Dec        24.585134638449713
-    Dist       383000576.81872964
+    RA         0.08727928987054044
+    Dec        24.585134628906577
+    Dist       382993253.74757516
     Class      "F3 III" // random
 }
 
 // http://starwars.wikia.com/wiki/T%27surr
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Nuon e Safyd Sector
-// Grid location : P12
-// X : 6628.19, Y : -3653.78, Z : -362.32306392786256
-Star "T'surr System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Nuon_e_Safyd_sector
+// System wiki : https://starwars.fandom.com/wiki/T%27surr_system
+// Grid location : P-12
+// Known planet : T'surr
+// X : 6628.185, Y : -1522.4099999999999, Z : 7231.832639748336
+Star "T'surr system" // system name
 {
-    RA         0.08726689609164345
-    Dec        24.58532775173585
-    Dist       383000362.3834433
+    RA         0.08726689483077166
+    Dec        24.585327747219953
+    Dist       382992768.2277407
     Class      "M2 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Tar_Mordren
+// https://starwars.fandom.com/wiki/Tar_Morden
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Vensensor Sector
-// Grid location : K16
-// X : -594, Y : -9752.89, Z : 504.1509605218132
-Star "Tar Mordren System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Vensensor_sector
+// System wiki : https://starwars.fandom.com/wiki/Tar_Morden_system
+// Grid location : K-16
+// Known planet : Tar Morden
+// X : -594, Y : -7621.515000000001, Z : -8742.842025058313
+Star "Tar Morden system" // system name
 {
-    RA         0.08733892406228547
-    Dec        24.584415339414544
-    Dist       382999495.9253326
+    RA         0.08733892391926064
+    Dec        24.58441536768945
+    Dist       383008742.9183162
     Class      "M0 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Tarhassan
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Harron Sector
-// Grid location : O11
-// X : 5562.92, Y : -2738.31, Z : -165.48518927329775
-Star "Tarhassan System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Harron_sector
+// System wiki : https://starwars.fandom.com/wiki/Tarhassan_system
+// Grid location : O-11
+// Known planet : Tarhassan
+// X : 5562.93, Y : -606.9449999999997, Z : 5901.127551735131
+Star "Tarhassan system" // system name
 {
-    RA         0.08727752015665272
-    Dec        24.585464703432397
-    Dist       383000165.52606976
+    RA         0.0872775191781209
+    Dec        24.585464701246185
+    Dist       382994098.91332954
     Class      "M4 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Tarmidia
-// Region : Expansion Region
+// https://starwars.fandom.com/wiki/Tarmidia_system
+// Region : Expansion Region, The Slice
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/The_Slice/Legends
 // Sector : Kailion Sector
-// Grid location : O13
-// X : 4888.36, Y : -5937.73, Z : 21.234666508193186
-Star "Tarmidia System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Kailion_sector
+// System wiki : https://starwars.fandom.com/wiki/Tarmidia_system
+// Grid location : O-13
+// Known planet : Tarmidia
+// X : 4888.365000000001, Y : -3806.3699999999994, Z : 7713.806657233788
+Star "Tarmidia system" // system name
 {
-    RA         0.0872842476218879
-    Dec        24.58498607865433
-    Dist       382999978.8154437
+    RA         0.08728424659280772
+    Dec        24.584986065721246
+    Dist       382992286.24345416
     Class      "M3 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Tel_system
+// https://starwars.fandom.com/wiki/Tel_III
 // Region : Expansion Region
-// Sector : Brak sector
-// Grid location : O14
-// X : 5723.8936363636, Y : -6949.5, Z : -14.375
-Star "Tel System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Brak Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Brak_sector
+// System wiki : https://starwars.fandom.com/wiki/Tel_Minor_system
+// Grid location : O-14
+// Known planet : Tel III
+// X : 5162.955, Y : -4968.254999999999, Z : -2523.904118328896
+Star "Tel/Tel Minor system" // Star name / system name
 {
-    RA         0.08727591471968459
-    Dec        24.58483472061679
-    Dist       383000014.4480775
-    Class      "M0 V" // random
+    RA         0.08728150938521541
+    Dec        24.58481226718752
+    Dist       383002523.97114086
+    Class      "G4 VII" // White dwarf
+}
+
+// https://starwars.fandom.com/wiki/Tentrix
+// Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Baroli Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Baroli_sector
+// System wiki : https://starwars.fandom.com/wiki/Tentrix_system
+// Grid location : N-15
+// Known planet : Tentrix
+// X : 3434.415, Y : -5417.700000000001, Z : 7313.7555328863355
+Star "Tentrix system" // system name
+{
+    RA         0.08729874739037087
+    Dec        24.584745011038212
+    Dist       382992686.2981845
+    Class      "G9 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Terrijo
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Venzeiia Sector
-// Grid location : O12
-// X : 4845.35, Y : -4389.85, Z : 409.18090689438725
-Star "Terrijo System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Venzeiia_sector
+// System wiki : https://starwars.fandom.com/wiki/Terrijo_system
+// Grid location : O-12
+// Known planet : 
+// X : 4845.345, Y : -2258.4899999999993, Z : 6610.047800770445
+Star "Terrijo system" // system name
 {
-    RA         0.08728467651839084
-    Dec        24.585217637048668
-    Dist       382999590.8564014
+    RA         0.08728467578587458
+    Dec        24.58521763008249
+    Dist       382993389.98950815
     Class      "K4 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Teya_system
 // http://starwars.wikia.com/wiki/Teya_IV
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Lostar Sector
-// Grid location : M7
-// X : 2080, Y : 3251.85, Z : 501.44103770548986
-Star "Teya/Teya System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Lostar_sector
+// System wiki : https://starwars.fandom.com/wiki/Teya_system
+// Grid location : M-7
+// Known planet : Teya IV
+// X : 2079.99, Y : 5383.215, Z : 1368.9097109734594
+Star "Teya/Teya system" // Star name / system name
 {
-    RA         0.08731225580897896
-    Dec        24.58636081642295
-    Dist       382999498.6024421
+    RA         0.08731225586172653
+    Dec        24.586360817498953
+    Dist       382998631.1337688
     Class      "M3 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Thaere
+// https://starwars.fandom.com/wiki/Thaereian_system
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Thaere Sector
-// Grid location : O14
-// X : 5755.59, Y : -7144.86, Z : 472.0107841946224
-Star "Thaereian System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Thaere_sector
+// System wiki : https://starwars.fandom.com/wiki/Thaereian_system
+// Grid location : O-14
+// Known planet : Thaere
+// X : 5755.59, Y : -5013.495000000001, Z : -2217.1610349877237
+Star "Thaereian system" // system name
 {
-    RA         0.08727559853403054
-    Dec        24.584805494329963
-    Dist       382999528.0652758
-    Class      "G0" // "dying yellow star"
+    RA         0.0872755989370632
+    Dec        24.58480549884799
+    Dist       383002217.2370945
+    Class      "G0" // dying yellow star
 }
 
 // http://starwars.wikia.com/wiki/Thisspias
-// Region : Expansion Region
+// Region : Expansion Region, Trans-Hydian
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Trans-Hydian
 // Sector : Farstey Sector
-// Grid location : O8
-// X : 5267.08, Y : 2611.65, Z : 506.94138542496626
-Star "Thisspias System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Farstey_sector
+// System wiki : https://starwars.fandom.com/wiki/Thisspias_system
+// Grid location : O-8
+// Known planet : Thisspias
+// X : 5267.085, Y : 4743.015, Z : -619.0320418548754
+Star "Thisspias system" // system name
 {
-    RA         0.08728047052153537
-    Dec        24.58626504409355
-    Dist       382999493.1242
+    RA         0.08728047062609971
+    Dec        24.586265041259598
+    Dist       383000619.0976271
     Class      "F0 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Thustra
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Sumitra Sector
-// Grid location : O7
-// X : 4547.66, Y : 3416.15, Z : 9.11359987764422
-Star "Thustra System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Sumitra_sector
+// System wiki : https://starwars.fandom.com/wiki/Thustra_system
+// Grid location : O-7
+// Known planet : Thustra
+// X : 4547.655000000001, Y : 5547.51, Z : -8575.473115749866
+Star "Thustra system" // system name
 {
-    RA         0.08728764547765912
-    Dec        24.586385394230565
-    Dist       382999990.9535753
+    RA         0.08728764654408021
+    Dec        24.586385374133737
+    Dist       383008575.5402892
     Class      "M8 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Tierfon
 // Region : Expansion Region
-// Sector : Dentari Sector
-// Grid location : O7
-// X : 5002.62, Y : 3123.94, Z : -74.68879624736292
-Star "Tierfon System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Sumitra Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Sumitra_sector
+// System wiki : https://starwars.fandom.com/wiki/Tierfon_system
+// Grid location : O-7
+// Known planet : Tierfon
+// X : 4984.755, Y : 5300.280000000001, Z : -1788.8507519594573
+Star "Tierfon system" // system name
 {
-    RA         0.08728310810154988
-    Dec        24.586341680220094
-    Dist       383000074.7575227
+    RA         0.08728328649444038
+    Dec        24.586348404062225
+    Dist       383001788.91986483
     Class      "M8 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Tlactehon
-// Region : Expansion Region
-// Sector : Kailion Sector
-// Grid location : O13
-// X : 4580.23, Y : -5931.38, Z : -160.86093680214015
-Star "Tlactehon System" // system name
+// Region : Expansion Region, the Slice, Trailing Sectors
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
+// Sector : Kailion Sector, 77 Sectors
+// Sector wiki : http://starwars.wikia.com/wiki/Kailion_sector, https://starwars.fandom.com/wiki/77_Sectors
+// System wiki : https://starwars.fandom.com/wiki/Tlactehon_system
+// Grid location : O-13
+// Known planet : Tlactehon
+// X : 4580.22, Y : -3800.0099999999998, Z : 1062.2523487161902
+Star "Tlactehon system" // system name
 {
-    RA         0.08728732067224257
-    Dec        24.58498702886774
-    Dist       383000160.9071752
+    RA         0.08728732062609673
+    Dec        24.58498702705232
+    Dist       382998937.79388964
     Class      "G8 V" // random
 }
 
@@ -2177,221 +2891,289 @@ Star "Torve System" // system name
 
 // http://starwars.wikia.com/wiki/Trammen
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Harron Sector
-// Grid location : O11
-// X : 5481.55, Y : -2409.12, Z : 255.69309695500908
-Star "Trammen System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Harron_sector
+// System wiki : https://starwars.fandom.com/wiki/Trammen_system
+// Grid location : O-11
+// Known planet : Trammen
+// X : 5481.555, Y : -277.75499999999965, Z : -3945.9561529697135
+Star "Trammen system" // system name
 {
-    RA         0.08727833161186363
-    Dec        24.585513949312315
-    Dist       382999744.34623015
+    RA         0.08727833216172427
+    Dec        24.585513949020157
+    Dist       383003945.9954797
     Class      "M3 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Tregillis
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Tregillis Sector
-// Grid location : M15
-// X : 1605.03, Y : -8225.71, Z : 439.19068052384046
-Star "Tregillis System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Tregillis_sector
+// System wiki : https://starwars.fandom.com/wiki/Tregillis_system
+// Grid location : M-15
+// Known planet : Tregillis
+// X : 1605.03, Y : -6094.35, Z : -4541.884515789471
+Star "Tregillis system" // system name
 {
-    RA         0.0873169927675466
-    Dec        24.584643801928728
-    Dist       382999560.8611695
+    RA         0.08731699297572489
+    Dec        24.58464381228965
+    Dist       383004541.9363653
     Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Tynna
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Tynna Sector
-// Grid location : N14
-// X : 4307.03, Y : -6074.33, Z : -152.861334985336
-Star "Tynnani System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Tynna_sector
+// System wiki : https://starwars.fandom.com/wiki/Tynnani_system
+// Grid location : N-14
+// Known planet : Tynna
+// X : 4307.04, Y : -3942.9599999999996, Z : 5633.1390834641425
+Star "Tynnani system" // system name
 {
-    RA         0.08729004533633869
-    Dec        24.58496564392529
-    Dist       383000152.90584856
+    RA         0.08729004458767783
+    Dec        24.58496563501417
+    Dist       382994366.905431
     Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Ulda_Frav
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Hangshan Sector
-// Grid location : P11
-// X : 6600.45, Y : -2599.61, Z : 468.08179777594705
-Star "Ulda Frav System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Hangshan_sector
+// System wiki : https://starwars.fandom.com/wiki/Ulda_Frav_system
+// Grid location : P-11
+// Known planet : Ulda Frav
+// X : 6600.45, Y : -468.2399999999998, Z : 2697.254479652217
+Star "Ulda Frav system" // system name
 {
-    RA         0.08726717260399673
-    Dec        24.585485452458
-    Dist       382999531.97536314
+    RA         0.08726717222085921
+    Dec        24.5854854520503
+    Dist       382997302.80268157
     Class      "M4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Umbara
 // Region : Expansion Region
-// Sector : Ghost Nebula Sector
-// Grid location : P10
-// X : 6113.06, Y : -277.35, Z : -52.76093383921136
-Star "Umbara System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Ghost Nebula
+// Sector wiki : https://starwars.fandom.com/wiki/Ghost_Nebula
+// System wiki : https://starwars.fandom.com/wiki/Umbara_system
+// Grid location : P-10
+// Known planet : Umbara
+// X : 6113.054999999999, Y : 1854.0150000000003, Z : 7924.713309108406
+Star "Umbara system" // system name
 {
-    RA         0.08727203350920265
-    Dec        24.585832856413834
-    Dist       383000052.8142065
+    RA         0.08727203228917736
+    Dec        24.585832861442984
+    Dist       382992075.3399646
     Class      "G4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Valgauth
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Nojic Sector
-// Grid location : P9
-// X : 6084.94, Y : 1244.99, Z : -91.27048245681755
-Star "Valgauth System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Nojic_sector
+// System wiki : https://starwars.fandom.com/wiki/Valgauth_system
+// Grid location : P-9
+// Known planet : Valgauth
+// X : 6084.945, Y : 3376.3650000000002, Z : -793.5283563543987
+StarBarycenter "Valgauth system" // system name / Star names V1 and V2
 {
-    RA         0.08727231396040411
-    Dec        24.586060594339457
-    Dist       383000091.3337022
+    RA         0.0872723140218104
+    Dec        24.586060594161317
+    Dist       383000793.59157604
     Class      "M7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Vandelhelm
 // Region : Expansion Region
-// Sector : Epsi Collective Sector
-// Grid location : M15
-// X : 1805.16, Y : -8773.68, Z : -222.48789307634627
-Star "Vandelhelm System" // system name
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Epsi Collective
+// Sector wiki : https://starwars.fandom.com/wiki/Epsi_Collective
+// System wiki : https://starwars.fandom.com/wiki/Vandelhelm_system
+// Grid location : M-15
+// Known planet : Vandelhelm
+// X : 1805.1599999999999, Y : -6642.3150000000005, Z : 1579.1348028863017
+Star "Vandelhelm/Vandelhelm system" // Star name / system name
 {
-    RA         0.08731499686870968
-    Dec        24.58456182869948
-    Dist       383000222.5497454
-    Class      "M6 V" // random
+    RA         0.08731499678402303
+    Dec        24.584561823277266
+    Dist       382998420.92704976
+    Class      "M6 V" // Yellow star
 }
 
 // http://starwars.wikia.com/wiki/Vena
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Nojic Sector
-// Grid location : P9
-// X : 6019.5, Y : 874.8, Z : 498.074768876736
-Star "Vena System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Nojic_sector
+// System wiki : https://starwars.fandom.com/wiki/Vena_system
+// Grid location : P-9
+// Known planet : Vena
+// X : 6019.5, Y : 3006.165, Z : -2686.92414184915
+Star "Vena system" // system name
 {
-    RA         0.08727296651118048
-    Dec        24.586005215607017
-    Dist       382999501.98433226
+    RA         0.08727296701041092
+    Dec        24.58600521111926
+    Dist       383002686.98324245
     Class      "K7 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Vendaxa
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Zarracina Sector
-// Grid location : O14
-// X : 4802.59, Y : -6849.43, Z : 542.0367234979922
-Star "Vendaxa System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Zarracina_sector
+// System wiki : https://starwars.fandom.com/wiki/Vendaxa_system
+// Grid location : O-14
+// Known planet : Vendaxa
+// X : 4802.595, Y : -4718.07, Z : 3049.263837807007
+Star "Vendaxa system" // system name
 {
-    RA         0.08728510295436959
-    Dec        24.584849689796215
-    Dist       382999458.0224476
+    RA         0.0872851025909532
+    Dec        24.584849683679757
+    Dist       382996950.7953338
     Class      "K9 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Vernet
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Baroli Sector
-// Grid location : N14
-// X : 4029.61, Y : -7189.33, Z : -587.7344388558139
-Star "Vernet System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Baroli_sector
+// System wiki : https://starwars.fandom.com/wiki/Vernet_system
+// Grid location : N-14
+// Known planet : Vernet
+// X : 4029.6150000000002, Y : -5057.969999999999, Z : -1463.2386894167078
+Star "Vernet system" // system name
 {
-    RA         0.08729281213372005
-    Dec        24.58479884382189
-    Dist       383000587.78903496
+    RA         0.08729281217572003
+    Dec        24.584798844055566
+    Dist       383001463.2932856
     Class      "M0 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Von-Alai
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Locris Sector
-// Grid location : O8
-// X : 5747.93, Y : 2247.32, Z : -142.6874506156883
-Star "Von-Alai System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Locris_sector
+// System wiki : https://starwars.fandom.com/wiki/Von-Alai_system
+// Grid location : O-8
+// Known planet : Von-Alai
+// X : 5747.9400000000005, Y : 4378.68, Z : 7840.980248714126
+Star "Von-Alai system" // system name
 {
-    RA         0.08727567502050154
-    Dec        24.586210540113107
-    Dist       383000142.75561196
+    RA         0.08727567372579939
+    Dec        24.586210552271748
+    Dist       382992159.0879141
     Class      "M0 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Wann_Tsir
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Sepan Sector
-// Grid location : P13
-// X : 6409.96, Y : -4876.25, Z : 440.9978292172689
-Star "Wann Tsir System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Sepan_sector
+// System wiki : https://starwars.fandom.com/wiki/Wann_Tsir_system
+// Grid location : P-13
+// Known planet : Wann Tsir
+// X : 6409.965, Y : -2744.8800000000006, Z : 7688.503612158422
+Star "Wann Tsir system" // system name
 {
-    RA         0.08726907239726851
-    Dec        24.585144872792814
-    Dist       382999559.065646
+    RA         0.08726907113767596
+    Dec        24.585144865022365
+    Dist       382992311.55986434
     Class      "M6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Woostri
-// Region : Expansion Region
+// Region : Expansion Region, The Slice
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/The_Slice/Legends
 // Sector : Woostri Sector
-// Grid location : M16
-// X : 1945.73, Y : -9231.12, Z : -257.67104619612553
-Star "Woostri System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Woostri_sector
+// System wiki : https://starwars.fandom.com/wiki/Woostri_system
+// Grid location : M-16
+// Known planet : Woostri
+// X : 1945.7250000000001, Y : -7099.755000000001, Z : 4896.135817013046
+Star "Woostri system" // system name
 {
-    RA         0.08731359494480953
-    Dec        24.58449339703165
-    Dist       383000257.7417933
+    RA         0.08731359473355013
+    Dec        24.584493381991376
+    Dist       382995103.9349311
     Class      "M0 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Yinchorr
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Fellwe Sector
-// Grid location : L8
-// X : 495.58, Y : 2680.08, Z : 65.49463586444881
-Star "Yinchorri System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Fellwe_sector
+// System wiki : https://starwars.fandom.com/wiki/Yinchorri_system
+// Grid location : L-8
+// Known planet : Yinchorr
+// X : 495.56999999999994, Y : 4811.445, Z : -174.4216554974605
+Star "Yinchorri system" // system name
 {
-    RA         0.08732805750265157
-    Dec        24.58627528022315
-    Dist       382999934.53590673
+    RA         0.08732805760547913
+    Dec        24.58627527902428
+    Dist       383000174.452198
     Class      "M4 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Yutan
-// Region : Expansion Region
+// https://starwars.fandom.com/wiki/Yutan_system
+// Region : Expansion Region, The Slice
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/The_Slice/Legends
 // Sector : Ombakond Sector
-// Grid location : P12
-// X : 6265.7, Y : -4415.74, Z : -380.8474358413828
-Star "Yutan System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Ombakond_sector
+// System wiki : https://starwars.fandom.com/wiki/Yutan_system
+// Grid location : P-12
+// Known planet : Yutan
+// X : 6265.71, Y : -2284.3799999999997, Z : -6265.680499768877
+Star "Yutan system" // system name
 {
-    RA         0.08727051126045553
-    Dec        24.585213764674425
-    Dist       383000380.9055002
+    RA         0.08727051212085558
+    Dec        24.58521376842919
+    Dist       383006265.7385635
     Class      "M5 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Zaloriis
-// Region : Expansion Region
+// Region : Expansion Region, The Slice
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/The_Slice/Legends
 // Sector : Askarian Sector
-// Grid location : P12
-// X : 6090.01, Y : -3344.92, Z : -221.76968451858545
-Star "Zaloriis System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Askarian_sector
+// System wiki : https://starwars.fandom.com/wiki/Zaloriis_system
+// Grid location : P-12
+// Known planet : Zaloriis
+// X : 6090.014999999999, Y : -1213.56, Z : 5189.500497715842
+Star "Zaloriis system" // system name
 {
-    RA         0.08727226341721148
-    Dec        24.585373956258575
-    Dist       383000221.8200251
+    RA         0.0872722625092079
+    Dec        24.58537395219758
+    Dist       382994810.5498437
     Class      "M9 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Zirulast
-// Region : Expansion Region
+// Region : Expansion Region, The Slice
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region, https://starwars.fandom.com/wiki/The_Slice/Legends
 // Sector : Belasco Sector
-// Grid location : P11
-// X : 6126.15, Y : -1653.44, Z : 48.66346755292159
-Star "Zirulast System" // system name
+// Sector wiki : http://starwars.wikia.com/wiki/Belasco_sector
+// System wiki : https://starwars.fandom.com/wiki/Zirulast_system
+// Grid location : P-11
+// Known planet : Zirulast
+// X : 6126.150000000001, Y : 477.9300000000003, Z : 7156.464001341201
+Star "Zirulast/Zirulast system" // Star name / system name
 {
-    RA         0.08727190294443306
-    Dec        24.585626997063663
-    Dist       382999951.3858251
+    RA         0.08727190181055891
+    Dec        24.585626998390545
+    Dist       382992843.5852922
     Class      "M7 V" // random
 }

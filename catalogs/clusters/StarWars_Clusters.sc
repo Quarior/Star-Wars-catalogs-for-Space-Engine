@@ -244,18 +244,22 @@ Cluster "Greater Plooriod Cluster"
 }
 
 
-// http://starwars.wikia.com/wiki/Rainos_Cluster
+// https://starwars.fandom.com/wiki/Rainos_Cluster
 // Region : Expansion Region
-// Sector : Rocantor
-// Grid location : L15
-// X : 940.32, Y : -8544.97, Z : -438.60574901192246
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
+// Sector : Rocantor Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Rocantor_sector
+// System wiki : 
+// Grid location : L-15
+// Known planet : 
+// X : 940.32, Y : -6413.594999999999, Z : -2400.279067654189
 Cluster "Rainos Cluster"
 {
 	Galaxy     	"Star Wars galaxy"
 	Type       	"Open"	// within galaxy disk
-    RA         0.08732362205296895
-    Dec        24.584596043627606
-    Dist       383000438.66060334
+    RA         0.08732362210100121
+    Dec        24.58459604928976
+    Dist       383002400.3339216
     Radius		4			// default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter

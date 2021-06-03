@@ -26,16 +26,20 @@ Nebula "Osssorck Nebulae"
 
 // http://starwars.wikia.com/wiki/Llon_Nebulae
 // Region : Expansion Region
+// Region wiki : https://starwars.fandom.com/wiki/Expansion_Region
 // Sector : Itopol Sector
-// Grid location : K15
-// X : -155.63, Y : -8311.48, Z : 488.20567119270345
+// Sector wiki : http://starwars.wikia.com/wiki/Itopol_sector
+// System wiki : 
+// Grid location : K-15
+// Known planet : 
+// X : -155.625, Y : -6180.120000000001, Z : 8612.492990121205
 Nebula "Llon Nebulae"
 {
     Galaxy  "Star Wars Galaxy"
     Type    "Diffuse"
-    RA         0.0873345521242005
-    Dec        24.58463097083223
-    Dist       382999511.8442218
+    RA         0.08733455210725838
+    Dec        24.58463094972445
+    Dist       382991387.5569041
     Radius     5
     AbsMagn   -5
 }
