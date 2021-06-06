@@ -1,213 +1,4085 @@
-/////////////////////////////////////
+//////////////////////////////////////
 //           Inner Rim              //
 //////////////////////////////////////
 
-/*// http://starwars.wikia.com/wiki/Telkur_Station
+// http://starwars.wikia.com/wiki/Adari
 // Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5044.33, Y : 628.87, Z : 146.7906299084583
-SpaceStation "Telkur Station System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Adari Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Adari_sector
+// System wiki : https://starwars.fandom.com/wiki/Adari_system
+// Grid location : M-9
+// Known planet : Adari
+// X : 2547.06, Y : 3301.1100000000006, Z : -557.0709709088135
+Star "Adari system" // system name
 {
-    RA         0.08728269209221488
-    Dec        24.585968424707715
-    Dist       382999853.25253487
-    Class      "Space Station"
+    RA         0.08730759781098309
+    Dec        24.586049336542043
+    Dist       383000557.0936665
+    Class      "M7 III" // random
+}
+
+// Region : Inner Rim
+// Region wiki : https://starwars.fandom.com/wiki/Inner_Rim
+// Sector : Adari Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Adari_sector
+// System wiki : https://starwars.fandom.com/wiki/Adim_system
+// Grid location : M-9
+// Known planet : Adim
+// X : ?, Y : ?, Z : ?
+/*Star "Adim system" // system name
+{
+    RA         ?
+    Dec        ?
+    Dist       ?
+    Class      "M3 V" // random
 }*/
 
-// http://starwars.wikia.com/wiki/Antar
-// Region : Inner Rim
+// http://starwars.wikia.com/wiki/Affa
+// Region : Inner Rim, Trailing Sectors
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
 // Sector : 
-// Grid location : N12
-// X : 4242.5, Y : -3156.04, Z : -106.26493857301853
-Star "Antar/Prindaar System" // Star name / system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Affa_system                         
+// Grid location : M-13
+// Known planet : Affa
+// X : 2295.87, Y : -3747.69, Z : 2825.5195292235485
+Star "Affa system" // system name
 {
-    RA         0.08729068889867161
-    Dec        24.58540221214072
-    Dist       383000106.2898064
-    Class      "Binary system"
+    RA         0.08731010276209608
+    Dec        24.584994851425485
+    Dist       382997174.5056879
+    Class      "M0 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Ailon
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Ailon_system
+// Grid location : N-12
+// Known planet : Ailon
+// X : 3881.865, Y : -1521.2399999999998, Z : -7196.627324976326
+Star "Ailon system" // system name
+{
+    RA         0.08729428628337527
+    Dec        24.58532793082534
+    Dist       383007196.65001786
+    Class      "M2 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Aldereen_system
+// Region : Inner Rim, Trailing Sectors
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Aldereen_system
+// Grid location : M-14
+// Known planet : Aldereen
+// X : 2430.255, Y : -4633.514999999999, Z : -6798.943781665008
+Star "Aldereen system" // system name
+{
+    RA         0.08730876311873614
+    Dec        24.58486235080649
+    Dist       383006798.9795194
+    Class      "M4 III" // random
+}
+
+// https://starwars.fandom.com/wiki/Aleen_Minor
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Aleen_system, https://starwars.fandom.com/wiki/Aleen_Minor_system
+// Grid location : M-13
+// Known planet : Aleen Minor
+// X : 2541.705, Y : -3528.0749999999994, Z : 3328.757248510771
+Star "Aleen system/Aleen Minor system" // system name
+{
+    RA         0.08730765095996916
+    Dec        24.58502770479321
+    Dist       382996671.2674352
+    Class      "M1 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Algnadesh
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Rifle Worlds
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Rifle_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Algnadesh_system
+// Grid location : O-9
+// Known planet : Algnadesh
+// X : 5150.070000000001, Y : 2945.655, Z : -8673.447383079514
+Star "Algnadesh system" // system name
+{
+    RA         0.08728163871314397
+    Dec        24.58599615216038
+    Dist       383008673.4933352
+    Class      "M2 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Ambria
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Stenness Node, Airon sector
+// Sector wiki : https://starwars.fandom.com/wiki/Stenness_Node, https://starwars.fandom.com/wiki/Airon_sector
+// System wiki : https://starwars.fandom.com/wiki/Ambria_system
+// Grid location : O-10
+// Known planet : Ambria
+// X : 5560.620000000001, Y : 1918.0650000000003, Z : -6411.1145305826885
+Star "Amber/Ambria system" // Star name / system name
+{
+    RA         0.08727754399922853
+    Dec        24.585842432610374
+    Dist       383006411.1596988
+    Class      "" // Yellow star
+}
+
+// http://starwars.wikia.com/wiki/Andalia
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Lorelli Reach
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Lorelli_Reach
+// System wiki : https://starwars.fandom.com/wiki/Andalia_system
+// Grid location : O-9
+// Known planet : Andalia
+// X : 5019.464999999999, Y : 2823.465, Z : 3669.003908858819
+Star "Andalia system" // system name
+{
+    RA         0.08728293961445197
+    Dec        24.58597788688731
+    Dist       382996331.03939044
+    Class      "M5 IV" // random
+}
+
+// https://starwars.fandom.com/wiki/Aphran_IV
+// Region : Inner Rim, Northern Dependencies
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim,https://starwars.fandom.com/wiki/Northern_Dependencies
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Aphran_system
+// Grid location : K-8
+// Known planet : Aphran IV
+// X : -1468.95, Y : 4339.2300000000005, Z : 1270.373700006996
+Star "Aphran/Aphran system" // Star name / system name
+{
+    RA         0.08734765011566269
+    Dec        24.586204639399416
+    Dist       382998729.65369785
+    Class      "" // red-gold orb at sunset
+}
+
+// http://starwars.wikia.com/wiki/Arabanth
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Arabanth_system
+// Grid location : O-9
+// Known planet : Arabanth
+// X : 5254.755, Y : 2944.65, Z : -7173.587132364704
+Star "Arabanth system" // system name
+{
+    RA         0.08728059449176254
+    Dec        24.58599600354347
+    Dist       383007173.6344989
+    Class      "M3 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Archais
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Archais_system
+// Grid location : O-9
+// Known planet : Archais
+// X : 5223.63, Y : 2911.005, Z : 4035.824657000354
+Star "Archais system" // system name
+{
+    RA         0.08728090337571592
+    Dec        24.585990983180608
+    Dist       382995964.2220279
+    Class      "M2 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Arkam_system
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Arkam_system
+// Grid location : M-14
+// Known planet : Arkam
+// X : 2101.68, Y : -4955.82, Z : -691.4746650040905
+Star "Arkam system" // system name
+{
+    RA         0.08731203965596472
+    Dec        24.584814123871105
+    Dist       383000691.5124942
+    Class      "M1 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Asrat
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Asrat_system
+// Grid location : N-8
+// Known planet : Asrat
+// X : 4079.1600000000003, Y : 4481.955, Z : -6573.034173450992
+Star "Asrat system" // system name
+{
+    RA         0.08729231860035747
+    Dec        24.58622597701929
+    Dist       383006573.0821197
+    Class      "M8 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Atapap_I
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Atapap_system
+// Grid location : N-12
+// Known planet : Atapap I
+// X : 3833.31, Y : -1608.6299999999997, Z : -4878.891676823734
+Star "Atapap system" // system name
+{
+    RA         0.08729477028950762
+    Dec        24.585314856303597
+    Dist       383004878.91423786
+    Class      "M5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Korbin
+// https://starwars.fandom.com/wiki/Abatrarg
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : J14
-// X : -1630.91, Y : -6122.71, Z : 202.2456525537641
-Star "Atrig/Atrig System" // Star name / system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Atrig_system
+// Grid location : J-14
+// Known planet : Korbin, Abatrarg
+// X : -1630.905, Y : -3991.35, Z : 3774.374154216719
+Star "Atrig/Atrig system" // Star name / system name
 {
-    RA         0.0873492653279563
-    Dec        24.584958405855478
-    Dist       382999797.77861726
+    RA         0.08734926542979346
+    Dec        24.584958398790512
+    Dist       382996225.6501159
     Class      "M6 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Atzerri
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Atzerri_system
+// Grid location : M-13
+// Known planet : Atzerri
+// X : 2841, Y : -3785.145, Z : -6468.658334693219
+Star "Atzerri/Atzerri system" // Star name / system name
+{
+    RA         0.08730466674318166
+    Dec        24.584989261956824
+    Dist       383006468.68757516
+    Class      "M1 V" // random
+}
+                                        
 // http://starwars.wikia.com/wiki/Taboon
 // Region : Inner Rim
-// Sector : Airon Sector
-// Grid location : O10
-// X : 5534.26, Y : -346.46, Z : 592.8193166108672
-Star "Awer/Aweris System" // Star name / system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Airon sector, Stenness Node
+// Sector wiki : https://starwars.fandom.com/wiki/Airon_sector, https://starwars.fandom.com/wiki/Stenness_Node
+// System wiki : https://starwars.fandom.com/wiki/Aweris_system
+// Grid location : O-10
+// Known planet : Taboon
+// X : 5534.265, Y : 1784.9100000000003, Z : -4212.883855778226
+Star "Aweris system" // system name
 {
-    RA         0.0872778058778924
-    Dec        24.585822518193485
-    Dist       382999407.224827
+    RA         0.08727780652056934
+    Dec        24.5858225148431
+    Dist       383004212.92799884
     Class      "M8 IV" // random
 }
 
-// http://starwars.wikia.com/wiki/Bestine
+// http://starwars.wikia.com/wiki/Kiffu
 // Region : Inner Rim
-// Sector : 
-// Grid location : M14
-// X : 1589.86, Y : -6162.01, Z : 279.2552705185702
-Star "Bestine/Bestine System" // Star name / system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Kiffu sector
+// Sector wiki : https://starwars.fandom.com/wiki/Kiffu_sector
+// System wiki : https://starwars.fandom.com/wiki/Azurbani_system
+// Grid location : L-14
+// Known planet : Kiffu
+// X : 420.57, Y : -4338.57, Z : 6033.004073086667
+Star "Kiffu's sun/Azurbani system" // Star name / system name
 {
-    RA         0.08731714406711331
-    Dec        24.584952526555846
-    Dist       382999720.76923823
+    RA         0.08732880552383478
+    Dec        24.584906451264168
+    Dist       382993967.02073157
+    Class      "M9 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Babbadod
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Babbadod_system
+// Grid location : N-14
+// Known planet : Babbadod
+// X : 3510.9449999999997, Y : -3959.9099999999994, Z : -8666.70830269676
+Star "Babbadod system" // system name
+{
+    RA         0.08729798559117459
+    Dec        24.58496312141966
+    Dist       383008666.7448653
+    Class      "M5 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Baldavia_system
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Interior Region
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster,https://starwars.fandom.com/wiki/Interior_Region
+// System wiki : https://starwars.fandom.com/wiki/Baldavia_system
+// Grid location : O-9
+// Known planet : Baldavia
+// X : 5203.53, Y : 2953.545, Z : -568.3805001066065
+Star "Baldavia system" // system name
+{
+    RA         0.08728110446212267
+    Dec        24.585997341806696
+    Dist       383000568.4272365
+    Class      "M8 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Barlok
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Marcol sector
+// Sector wiki : https://starwars.fandom.com/wiki/Marcol_sector
+// System wiki : https://starwars.fandom.com/wiki/Barlok_system
+// Grid location : L-8
+// Known planet : Barlok
+// X : 684.12, Y : 4119.345, Z : 2575.760686648522
+Star "Barlok system" // system name
+{
+    RA         0.08732617711883514
+    Dec        24.58617174718056
+    Dist       382997424.2620773
+    Class      "M2 III" // random
+}
+
+// https://starwars.fandom.com/wiki/Beckoning_Call_Starr_3
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Airon Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Airon_sector
+// System wiki : https://starwars.fandom.com/wiki/Beckoning_Call_Starr_system
+// Grid location : O-10
+// Known planet : Beckoning Call Starr 3
+// X : 4831.29, Y : 1911.1950000000002, Z : 5184.6372812978
+Star "Beckoning Call Starr system" // system name
+{
+    RA         0.08728481614032609
+    Dec        24.58584141355009
+    Dist       382994815.3979594
+    Class      "M7 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Beltrix_III
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Six Local Systems
+// Sector wiki : https://starwars.fandom.com/wiki/Six_Local_Systems
+// System wiki : https://starwars.fandom.com/wiki/Beltrix_system
+// Grid location : M-14
+// Known planet : Beltrix III
+// X : 1727.175, Y : -4414.860000000001, Z : 4260.17828403088
+Star "Beltrix system" // system name
+{
+    RA         0.08731577442319577
+    Dec        24.584895041360834
+    Dist       382995739.85105586
+    Class      "M8 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Bengat
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Bengat_system
+// Grid location : J-8
+// Known planet : Bengat
+// X : -1658.01, Y : 4489.65, Z : -8218.550745938737
+Star "Bengat system" // system name
+{
+    RA         0.08734953523706782
+    Dec        24.58622712526552
+    Dist       383008218.58064866
+    Class      "M5 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Berchest
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Anthos Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Anthos_sector
+// System wiki : https://starwars.fandom.com/wiki/Berchest_system
+// Grid location : N-8
+// Known planet : Berchest
+// X : 3147.66, Y : 4043.1900000000005, Z : -1437.7461001864824
+Star "Berchest system" // system name
+{
+    RA         0.08730160801456352
+    Dec        24.58616034818053
+    Dist       383001437.7803757
+    Class      "M5 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Berri
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Berri_system
+// Grid location : N-9
+// Known planet : Berri
+// X : 3365.43, Y : 3126.3300000000004, Z : -6571.935073813298
+Star "Berri system" // system name
+{
+    RA         0.08729943661852109
+    Dec        24.58602318261301
+    Dist       383006571.9626191
+    Class      "M9 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Bestine_IV
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Bestine system
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Bestine_system/Legends
+// Grid location : M-14
+// Known planet : Bestine IV
+// X : 1589.865, Y : -4030.649999999999, Z : 8186.765865060742
+Star "Bestine/Bestine system" // Star name / system name
+{
+    RA         0.08731714368987406
+    Dec        24.58495251261044
+    Dist       382991813.25864434
     Class      "M3 II" // random
+}
+
+// http://starwars.wikia.com/wiki/Bilbringi
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Bilbringi_system
+// Grid location : J-8
+// Known planet : Bilbringi
+// X : -1820.76, Y : 4550.475, Z : 1737.7879434483434
+Star "Bilbringi system" // system name
+{
+    RA         0.08735115880536949
+    Dec        24.58623624202416
+    Dist       382998262.243417
+    Class      "M9 II" // random
+}
+
+// http://starwars.wikia.com/wiki/Bogden
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Bogden_system
+// Grid location : M-8
+// Known planet : Bogden
+// X : 1580.175, Y : 4770.495000000001, Z : 7384.637838286007
+Star "Bogden system" // system name
+{
+    RA         0.08731724036482513
+    Dec        24.58626916710143
+    Dist       382992615.3951317
+    Class      "G1 V"
+}
+
+// http://starwars.wikia.com/wiki/Borao
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Borao_system
+// Grid location : M-14
+// Known planet : Borao
+// X : 2617.68, Y : -4769.955, Z : -1199.1752404235342
+Star "Borao system" // system name
+{
+    RA         0.08730689355151951
+    Dec        24.58484192967557
+    Dist       383001199.2138887
+    Class      "K4 IV" // random
+}
+
+// https://starwars.fandom.com/wiki/Calfa-5
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Calfa_system
+// Grid location : O-9
+// Known planet : Calfa-5
+// X : 5341.5599999999995, Y : 2836.965, Z : 4251.074426707667
+Star "Calfa system" // system name
+{
+    RA         0.08727972719913042
+    Dec        24.585979907115693
+    Dist       382995748.97332925
+    Class      "M8 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Calus
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Calus_system
+// Grid location : L-15
+// Known planet : Calus
+// X : 1022.5500000000001, Y : -5756.16, Z : -1876.1868270810317
+Star "Calus system" // system name
+{
+    RA         0.08732280199959257
+    Dec        24.58469439801935
+    Dist       383001876.2314469
+    Class      "M6 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Carest_1
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Nouane Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Nouane_sector
+// System wiki : https://starwars.fandom.com/wiki/Carest_system
+// Grid location : N-8
+// Known planet : Carest
+// X : 4403.73, Y : 4953.555, Z : 6814.7618870096085
+Star "Carest system" // system name
+{
+    RA         0.08728908013356736
+    Dec        24.586296551815046
+    Dist       382993185.2954646
+    Class      "M4 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Carlania
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Interior Region
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster,https://starwars.fandom.com/wiki/Interior_Region
+// System wiki : https://starwars.fandom.com/wiki/Carlania_system
+// Grid location : O-9
+// Known planet : Carlania
+// X : 5250.735, Y : 2959.905, Z : 7682.301156456843
+Star "Carlania system" // system name
+{
+    RA         0.08728063255189548
+    Dec        24.585998302783292
+    Dist       382992317.74627435
+    Class      "M8 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Champala
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Chagri_system
+// Grid location : L-8
+// Known planet : Champala
+// X : 1070.595, Y : 4070.9700000000003, Z : 8122.362419133819
+Star "Champala's star/Chagri system" // Star name / system name                                  
+{
+    RA         0.08732232256293161
+    Dec        24.586164519180656
+    Dist       382991877.6607132
+    Class      "F0 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Chardaan
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Chardaan_system/Legends
+// Grid location : N-13
+// Known planet : Chardaan
+// X : 3508.02, Y : -3856.0350000000003, Z : -4842.55890123849
+Star "Chardaan system" // system name
+{
+    RA         0.0872980144126814
+    Dec        24.58497865473175
+    Dist       383004842.5943776
+    Class      "M8 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Charubah
+// Region : Inner Rim, Transitory Mists
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Transitory_Mists
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Charubah_system
+// Grid location : O-9
+// Known planet : Charubah
+// X : 5098.47, Y : 2990.3700000000003, Z : 690.9765268348804
+Star "Charubah system" // system name
+{
+    RA         0.08728215207311094
+    Dec        24.586002852191356
+    Dist       382999309.0690825
+    Class      "M2 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Chazwa
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Orus sector
+// Sector wiki : https://starwars.fandom.com/wiki/Orus_sector
+// System wiki : https://starwars.fandom.com/wiki/Chazwa_system
+// Grid location : M-8
+// Known planet : Chazwa
+// X : 2997.855, Y : 3721.38, Z : -4527.182716833886
+Star "Chazwa/Chazwa system" // Star name / system name
+{
+    RA         0.08730310227871158
+    Dec        24.586112201952133
+    Dist       383004527.2125282
+    Class      "M8 III" // random // TODO White star
+}
+
+// http://starwars.wikia.com/wiki/Cheruba
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Rifle Worlds
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Rifle_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Cheruba_system
+// Grid location : O-9
+// Known planet : Cheruba
+// X : 5142.135, Y : 2986.1400000000003, Z : 5787.610207279052
+Star "Cheruba system" // system name
+{
+    RA         0.08728171591203594
+    Dec        24.58600222533813
+    Dist       382994212.4359535
+    Class      "M5 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Chosper
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Chosper_system
+// Grid location : O-9
+// Known planet : Chosper
+// X : 5092.485000000001, Y : 2748.0600000000004, Z : -8936.71565964754
+Star "Chosper system" // system name
+{
+    RA         0.08728221303921896
+    Dec        24.585966592861688
+    Dist       383008936.759373
+    Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Colla_IV
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : N9
-// X : 3635.91, Y : 1395.83, Z : -144.60574983394622
-Star "Colla/Colla System" // Star name / system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Colla_system
+// Grid location : N-9
+// Known planet : Colla IV
+// X : 3635.91, Y : 3527.1900000000005, Z : -2959.1327629268385
+Star "Colla/Colla system" // Star name / system name
 {
-    RA         0.08729673851714032
-    Dec        24.58608315952269
-    Dist       383000144.6392498
+    RA         0.08729673878361063
+    Dec        24.586083154149183
+    Dist       383002959.1662625
     Class      "M1 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Comkin_V
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Nouane Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Nouane_sector
+// System wiki : https://starwars.fandom.com/wiki/Comkin_system
+// Grid location : N-7
+// Known planet : Comkin V
+// X : 3183.12, Y : 5386.320000000001, Z : 7505.278454882699
+Star "Comkin system" // system name
+{
+    RA         0.08730125362651696
+    Dec        24.586361294910713
+    Dist       382992494.7726488
+    Class      "M0 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Corvanni_IV
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Neshig sector
+// Sector wiki : https://starwars.fandom.com/wiki/Neshig_sector
+// System wiki : https://starwars.fandom.com/wiki/Corvanni_system
+// Grid location : N-9
+// Known planet : Corvanni IV
+// X : 3473.085, Y : 2374.4100000000003, Z : -3727.8368762768014
+Star "Corvanni system" // system name
+{
+    RA         0.08729836271966009
+    Dec        24.585910701952212
+    Dist       383003727.85998327
+    Class      "M4 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Dagary_Minor
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Dagary_Minor_system
+// Grid location : M-8
+// Known planet : Dagary Minor
+// X : 2908.92, Y : 4875.465, Z : -5796.274373503571
+Star "Dagary Minor system" // system name
+{
+    RA         0.08730398932695722
+    Dec        24.586284845535673
+    Dist       383005796.3164512
+    Class      "F3 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Dalastine
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Dalastine_system
+// Grid location : L-14
+// Known planet : Dalastine
+// X : 626.97, Y : -5249.67, Z : 4221.030378084495
+Star "Dalastine system" // system name
+{
+    RA         0.08732674706165554
+    Dec        24.584770154700305
+    Dist       382995779.0061133
+    Class      "F8 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Dalcretti_system
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Anthos Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Anthos_sector
+// System wiki : http://starwars.wikia.com/wiki/Dalcretti_system
+// Grid location : O-8
+// Known planet : Dalcretti
+// X : 4698.405, Y : 3891.9900000000002, Z : 2877.5228629490725
+Star "Dalcretti system" // system name
+{
+    RA         0.08728614172333053
+    Dec        24.586137735708345
+    Dist       382997122.52573085
+    Class      "M8 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Damualer_Triac
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Airon Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Airon_sector
+// System wiki : https://starwars.fandom.com/wiki/Damualer_Triac_system
+// Grid location : O-10
+// Known planet : Damualer Triac
+// X : 4754.43, Y : 1171.5450000000003, Z : 2493.7500530180714
+Star "Damualer Triac system" // system name
+{
+    RA         0.08728558302059741
+    Dec        24.585730761151613
+    Dist       382997506.2812489
+    Class      "M1 II" // random
+}
+
+// https://starwars.fandom.com/wiki/Dancreti
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Dancreti_system
+// Grid location : N-14
+// Known planet : Dancreti
+// X : 3265.1549999999997, Y : -4730.414999999999, Z : 5716.110031273542
+Star "Dancreti system" // system name
+{
+    RA         0.0873004356147823
+    Dec        24.58484783195838
+    Dist       382994283.9331
+    Class      "G3 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Dartessex_IV
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Airon Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Airon_sector
+// System wiki : https://starwars.fandom.com/wiki/Dartessex_system
+// Grid location : N-10
+// Known planet : Dartessex IV
+// X : 3874.9199999999996, Y : 1448.4750000000001, Z : -7657.827746353727
+Star "Dartessex system" // system name
+{
+    RA         0.08729435559217406
+    Dec        24.58577218366816
+    Dist       383007657.8500867
+    Class      "K1 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Daruvvia
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Lorelli Reach
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Lorelli_Reach
+// System wiki : https://starwars.fandom.com/wiki/Daruvvia_system
+// Grid location : O-9
+// Known planet : Daruvvia
+// X : 5043.705, Y : 2890.0950000000003, Z : 2042.9822823771024
+Star "Daruvvia system" // system name
+{
+    RA         0.0872826980764001
+    Dec        24.5859878528177
+    Dist       382997957.06183225
+    Class      "M7 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Datar
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Datar_system
+// Grid location : L-8
+// Known planet : Datar
+// X : 838.4250000000001, Y : 4569.9, Z : -6485.327834289472
+Star "Datar system's sun/Datar system" // Star name / system name
+{
+    RA         0.08732463839851656
+    Dec        24.586239133287727
+    Dist       383006485.3560152
+    Class      "G9 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Denon
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Iseno sector
+// Sector wiki : https://starwars.fandom.com/wiki/Iseno_sector
+// System wiki : https://starwars.fandom.com/wiki/Denon/Legends
+// Grid location : N-13
+// Known planet : Denon
+// X : 3418.575, Y : -2617.02, Z : -4043.1063843078887
+Star "Denon system" // system name
+{
+    RA         0.08729890637915026
+    Dec        24.58516400491373
+    Dist       383004043.1305818
+    Class      "M4 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Divora
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Rifle Worlds
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Rifle_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Divora_system
+// Grid location : O-9
+// Known planet : Divora
+// X : 5124.134999999999, Y : 2936.925, Z : -8598.838414837555
+Star "Divora system" // system name
+{
+    RA         0.08728189735112507
+    Dec        24.5859948462908
+    Dist       383008598.883952
+    Class      "K5 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Donadus
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Bamula sector
+// Sector wiki : https://starwars.fandom.com/wiki/Bamula_sector
+// System wiki : https://starwars.fandom.com/wiki/Donadus_system
+// Grid location : J-13
+// Known planet : Donadus
+// X : -2366.985, Y : -3608.52, Z : 7881.947094830383
+Star "Donadus system" // system name
+{
+    RA         0.08735660679576705
+    Dec        24.585015663913207
+    Dist       382992118.077219
+    Class      "M3 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Drearia
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Drearia_system
+// Grid location : L-8
+// Known planet : Drearia
+// X : 1190.805, Y : 4268.85, Z : -4456.638532031186
+Star "Drearia system" // system name
+{
+    RA         0.08732112405451332
+    Dec        24.586194101154963
+    Dist       383004456.6641729
+    Class      "F4 V"
+}
+
+// http://starwars.wikia.com/wiki/Dreena
+// Region : Inner Rim, Transitory Mists
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Transitory_Mists
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Dreena_system
+// Grid location : O-9
+// Known planet : Dreena
+// X : 5377.02, Y : 2871.36, Z : 4607.809553265277
+Star "Dreena system" // system name
+{
+    RA         0.08727937349715441
+    Dec        24.58598505297326
+    Dist       382995392.23895526
+    Class      "G7 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Dulin_system
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Dulin_system
+// Grid location : K-14
+// Known planet : Dulin
+// X : -630.375, Y : -5174.984999999999, Z : -6391.574048658847                                                  
+Star "Dulin system" // system name
+{
+    RA         0.08733928672311221
+    Dec        24.584781348951747
+    Dist       383006391.60952824
+    Class      "K5 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Ediorung
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Ediorung_system
+// Grid location : O-9
+// Known planet : Ediorung
+// X : 5241.63, Y : 2974.29, Z : -4732.945458056598
+Star "Ediorung system" // system name
+{
+    RA         0.08728072505386712
+    Dec        24.58600044036075
+    Dist       383004732.992874
+    Class      "M7 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Ejolus
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Ejolus_system
+// Grid location : M-8
+// Known planet : Ejolus
+// X : 2300.46, Y : 4956.84, Z : -194.62943592034264
+Star "Ejolus system" // system name
+{
+    RA         0.08731005716589088
+    Dec        24.58629702967985
+    Dist       383000194.66842073
+    Class      "M2 II" // random
+}
+
+// http://starwars.wikia.com/wiki/Eshan
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Eshan_system
+// Grid location : N-8
+// Known planet : Eshan
+// X : 3564.945, Y : 4769.205, Z : 3583.5421058175652
+Star "Eshan system" // system name
+{
+    RA         0.08729744591578176
+    Dec        24.586268967036183
+    Dist       382996416.5041794
+    Class      "G9 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Fadden
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Fadden_system
+// Grid location : N-11
+// Known planet : Fadden
+// X : 4453.335, Y : 157.11000000000035, Z : 1111.6468307082168
+Star "Fadden system" // system name
+{
+    RA         0.08728858606773968
+    Dec        24.585579003305607
+    Dist       382998888.37909216
+    Class      "M1 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Farnica
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Interior Region
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster,https://starwars.fandom.com/wiki/Interior_Region
+// System wiki : https://starwars.fandom.com/wiki/Farnica_system
+// Grid location : O-9
+// Known planet : Farnica
+// X : 5184.0599999999995, Y : 2935.7700000000004, Z : -8004.319599520295
+Star "Farnica system" // system name
+{
+    RA         0.08728129964293616
+    Dec        24.585994674191458
+    Dist       383008004.3659344
+    Class      "M7 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Febrini
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Gateworlds
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Gateworlds
+// System wiki : https://starwars.fandom.com/wiki/Febrini_system
+// Grid location : O-9
+// Known planet : Febrini
+// X : 5215.425, Y : 3030.3150000000005, Z : 110.90002199331764
+Star "Febrini system" // system name
+{
+    RA         0.08728098573936043
+    Dec        24.586008827181114
+    Dist       382999889.147476
+    Class      "M4 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Fennesa
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Fennesa_system
+// Grid location : K-14
+// Known planet : Fennesa
+// X : -639.885, Y : -4088.355, Z : 3828.955557992357
+Star "Fennesa system" // system name
+{
+    RA         0.0873393817365369
+    Dec        24.584943886870807
+    Dist       382996171.06679744
+    Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Filordis
 // Region : Inner Rim
-// Sector : Larrin Sector
-// Grid location : N8
-// X : 3582.59, Y : 2204.95, Z : 65.44545292274461
-Star "Filordi/Filordis System" // Star name / system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Larrin sector
+// Sector wiki : https://starwars.fandom.com/wiki/Larrin_sector
+// System wiki : https://starwars.fandom.com/wiki/Filordis_system
+// Grid location : N-8
+// Known planet : Filordis
+// X : 3582.585, Y : 4336.320000000001, Z : -2511.9622659743895
+Star "Filordis system" // system name
 {
-    RA         0.08729727026600609
-    Dec        24.586204202028885
-    Dist       382999934.59585077
+    RA         0.08729727055631406
+    Dec        24.586204197663456
+    Dist       383002512.00356936
     Class      "M8 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Yag%27Dhul
-// Region : Inner Rim
-// Sector : Givin Domain Sector
-// Grid location : L14
-// X : 1297.19, Y : -7347.95, Z : 22.03077040403059
-Star "Givin/Yag'Dhul System" // Star name / system name
+// http://starwars.wikia.com/wiki/Gallinore
+// Region : Inner Rim, Northern Dependencies
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim,https://starwars.fandom.com/wiki/Northern_Dependencies
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Gallinore_system
+// Grid location : O-9
+// Known planet : Gallinore
+// X : 5192.099999999999, Y : 2961.375, Z : 4953.256849168484
+Star "Gallinore system" // system name
 {
-    RA         0.08732006292140966
-    Dec        24.58477511348651
-    Dist       382999978.00695205
-    Class      "M5 II" // random
+    RA         0.08728121770858895
+    Dec        24.585998519539014
+    Dist       382995046.78979325
+    Class      "M0 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Unidentified_Gelviddis_Cluster_planet                                        
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : 
+// Grid location : 
+// Known planet : Unidentified Gelviddis Cluster planet
+// X : 3882.2699999999995, Y : 2532.5400000000004, Z : 6793.29153391506
+Star "Gelviddis Cluster system" // system name
+{
+    RA         0.08729428083004669
+    Dec        24.585934367956153
+    Dist       382993206.73651594
+    Class      "K0 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Gendrah-Narvin_system
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Gendrah-Narvin_system
+// Grid location : N-13
+// Known planet : Gendrah-Narvin
+// X : 3661.3199999999997, Y : -2427.0000000000005, Z : -8716.758219513686
+Star "Gendrah-Narvin system" // system name
+{
+    RA         0.08729648591659288
+    Dec        24.585192435529684
+    Dist       383008716.78340906
+    Class      "M8 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Genon
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Genon_system
+// Grid location : N-13
+// Known planet : Genon
+// X : 3741.765, Y : -3256.4549999999995, Z : 5797.67091265246
+Star "Genon system" // system name
+{
+    RA         0.087295682230154
+    Dec        24.585068335634237
+    Dist       382994202.3612097
+    Class      "M7 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Gorse
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Gorse_system
+// Grid location : O-10
+// Known planet : Gorse
+// X : 5374.74, Y : 928.8600000000001, Z : 2072.8664179086445
+Star "Gorse system" // system name
+{
+    RA         0.08727939659100947
+    Dec        24.585694455733147
+    Dist       382997927.1724213
+    Class      "M4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Gravan_Seven
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : O8
-// X : 5093.1, Y : 2410.24, Z : -492.41620772512573
-Star "Gravan/Gravan System" // Star name / system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Gravan_system
+// Grid location : O-8
+// Known planet : Gravan Seven
+// X : 5093.1, Y : 4541.595, Z : -4364.469761702903
+Star "Gravan/Gravan system" // Star name / system name
 {
-    RA         0.08728220578599782
-    Dec        24.58623491188154
-    Dist       383000492.4769986
+    RA         0.08728220629951133
+    Dec        24.586234902768965
+    Dist       383004364.53055185
     Class      "M0 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Tasariq
+// https://starwars.fandom.com/wiki/Guagenia
 // Region : Inner Rim
-// Sector : 
-// Grid location : J14
-// X : -2413.21, Y : -6259.57, Z : -220.39625237198806
-Star "Gyrlat/Tasar System" // Star name / system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Guagenian sector
+// Sector wiki : https://starwars.fandom.com/wiki/Guagenian_sector
+// System wiki : 
+// Grid location : J-14
+// Known planet : Guagenia
+// X : -1657.08, Y : -4315.094999999999, Z : -2310.6519035347774
+Star "Guagenia system (assumed)" // system name
 {
-    RA         0.08735706730522398
-    Dec        24.584937932634812
-    Dist       383000220.4261031
-    Class      "M0 II" // random
+    RA         0.08734952621714881
+    Dec        24.584909977179873
+    Dist       383002310.6797963
+    Class      "M8 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Mechis_III
+// http://starwars.wikia.com/wiki/Milvayne
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : L14
-// X : 1391.51, Y : -6994.25, Z : 12.691691140443027
-Star "Mechis/Mechis System" // Star name / system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Gyrica_system
+// Grid location : L-8
+// Known planet : Milvayne
+// X : 750.7049999999999, Y : 4431.9, Z : 3564.260231274473                                                   
+Star "Gyrica system" // system name
 {
-    RA         0.08731912225364806
-    Dec        24.584828026084868
-    Dist       382999987.3417082
+    RA         0.08732551303247313
+    Dec        24.586218506601412
+    Dist       382996435.76614666
+    Class      "M3 III" // random
+}
+
+// http://starwars.wikia.com/wiki/H%27ratth
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/H%27ratth_system
+// Grid location : N-10
+// Known planet : H'ratth
+// X : 3709.86, Y : 1922.8500000000004, Z : 3005.0065937251748
+Star "H'ratth system" // system name
+{
+    RA         0.08729600069828983
+    Dec        24.585843155493585
+    Dist       382996995.0162008
+    Class      "M0 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5048.175, Y : 2875.65, Z : 6726.403803869596
+Star "Hapes Cluster nameless system 1" // system name
+{
+    RA         0.08728265288049564
+    Dec        24.585985697133246
+    Dist       382993273.6402614
+    Class      "G9 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5159.1900000000005, Y : 2790.0750000000003, Z : 2277.8723706263763
+Star "Hapes Cluster nameless system 10" // system name
+{
+    RA         0.08728154628881409
+    Dec        24.585972890268366
+    Dist       382997722.1725406
+    Class      "M5 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5365.9800000000005, Y : 2957.55, Z : 2171.532922275336
+Star "Hapes Cluster nameless system 100" // system name
+{
+    RA         0.08727948394253965
+    Dec        24.585997944108296
+    Dist       382997828.51608694
+    Class      "M2 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5349, Y : 2981.0550000000003, Z : 662.9492526905881
+Star "Hapes Cluster nameless system 101" // system name
+{
+    RA         0.08727965349780924
+    Dec        24.586001458657027
+    Dist       382999337.0997011
+    Class      "M8 Ib" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5344.545, Y : 2987.715, Z : -6316.235072357705
+Star "Hapes Cluster nameless system 102" // system name
+{
+    RA         0.08727969889957116
+    Dec        24.58600244683254
+    Dist       383006316.2840149
+    Class      "M3 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5339.94, Y : 2994.3900000000003, Z : -2427.1959808215515
+Star "Hapes Cluster nameless system 103" // system name
+{
+    RA         0.08727974428443822
+    Dec        24.586003449926764
+    Dist       383002427.2449118
+    Class      "K6 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5325.66, Y : 3036.4500000000003, Z : -5218.794108075361
+Star "Hapes Cluster nameless system 104" // system name
+{
+    RA         0.08727988708732434
+    Dec        24.586009738640005
+    Dist       383005218.843171
+    Class      "M8 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5308.305, Y : 3050.6400000000003, Z : -3778.247199580124
+Star "Hapes Cluster nameless system 105" // system name
+{
+    RA         0.08728005996996677
+    Dec        24.58601186311373
+    Dist       383003778.29613453
+    Class      "M7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5029.530000000001, Y : 2878.965, Z : -2463.518532660356
+Star "Hapes Cluster nameless system 106" // system name
+{
+    RA         0.08728284003683762
+    Dec        24.585986182722895
+    Dist       383002463.5623765
+    Class      "M9 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5245.095, Y : 3036.3450000000003, Z : -5796.1443855071875
+Star "Hapes Cluster nameless system 107" // system name
+{
+    RA         0.0872806906425174
+    Dec        24.586009722247795
+    Dist       383005796.1923357
+    Class      "M0 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5196.9, Y : 2897.5800000000004, Z : 3255.8399993385224
+Star "Hapes Cluster nameless system 108" // system name
+{
+    RA         0.0872811700665304
+    Dec        24.58598897393243
+    Dist       382996744.2062201
+    Class      "M5 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5210.235, Y : 2893.92, Z : -7497.604513597365
+Star "Hapes Cluster nameless system 109" // system name
+{
+    RA         0.0872810385322968
+    Dec        24.585988414246543
+    Dist       383007497.65088516
+    Class      "K7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5161.2, Y : 2817.8100000000004, Z : 5507.455310699684
+Star "Hapes Cluster nameless system 11" // system name
+{
+    RA         0.08728152580860188
+    Dec        24.585977042929755
+    Dist       382994492.589831
+    Class      "M1 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5175.06, Y : 2794.32, Z : 457.1416968680131
+Star "Hapes Cluster nameless system 12" // system name
+{
+    RA         0.08728138825924854
+    Dec        24.585973523325595
+    Dist       382999542.9034592
+    Class      "K2 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5185.965, Y : 2779.08, Z : -1296.8886690804038
+Star "Hapes Cluster nameless system 13" // system name
+{
+    RA         0.08728127973872009
+    Dec        24.5859712415555
+    Dist       383001296.9338615
+    Class      "M2 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5202.48, Y : 2775.585, Z : -1225.793471335915
+Star "Hapes Cluster nameless system 14" // system name
+{
+    RA         0.08728111502298017
+    Dec        24.585970718791657
+    Dist       383001225.83886236
+    Class      "M5 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5224.005, Y : 2770.6200000000003, Z : 5567.81109758668
+Star "Hapes Cluster nameless system 15" // system name
+{
+    RA         0.08728089942734049
+    Dec        24.585969983395294
+    Dist       382994432.2345513
+    Class      "M6 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5234.31, Y : 2782.005, Z : 2841.565617118479
+Star "Hapes Cluster nameless system 16" // system name
+{
+    RA         0.08728079702407011
+    Dec        24.585971683623224
+    Dist       382997158.4802547
+    Class      "M1 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5252.969999999999, Y : 2801.9700000000003, Z : 3063.729898772349
+Star "Hapes Cluster nameless system 17" // system name
+{
+    RA         0.08728061089321477
+    Dec        24.585974670599335
+    Dist       382996936.3163741
+    Class      "K3 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5276.385, Y : 2814.405, Z : -3174.3881780620422
+Star "Hapes Cluster nameless system 18" // system name
+{
+    RA         0.08728037822699077
+    Dec        24.585976523999594
+    Dist       383003174.4348632
+    Class      "M7 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5295.4349999999995, Y : 2822.34, Z : -4100.938049491659
+Star "Hapes Cluster nameless system 19" // system name
+{
+    RA         0.08728018836770965
+    Dec        24.585977710023215
+    Dist       383004100.98505586
+    Class      "M8 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5042.13, Y : 2932.9500000000003, Z : -79.09132610525376
+Star "Hapes Cluster nameless system 2" // system name
+{
+    RA         0.087282714062823
+    Dec        24.58599426141467
+    Dist       383000079.1357455
+    Class      "K8 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5325.075, Y : 2829.63, Z : 6819.623166438916
+Star "Hapes Cluster nameless system 20" // system name
+{
+    RA         0.08727989125225488
+    Dec        24.58597881264599
+    Dist       382993180.424306
     Class      "M1 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Myrkr
+// 
 // Region : Inner Rim
-// Sector : 
-// Grid location : N7
-// X : 4061.32, Y : 3524.21, Z : 202.9215330152315
-Star "Myrkr/Myrkr System" // Star name / system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5344.89, Y : 2851.3650000000002, Z : 2043.7779934514447
+Star "Hapes Cluster nameless system 21" // system name
 {
-    RA         0.08729249580182229
-    Dec        24.586401560147152
-    Dist       382999797.1417567
+    RA         0.08727969429536689
+    Dec        24.585982058882873
+    Dist       382997956.26991564
+    Class      "M7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5359.17, Y : 2863.965, Z : -381.49875430059126
+Star "Hapes Cluster nameless system 22" // system name
+{
+    RA         0.08727955221639352
+    Dec        24.58598394110632
+    Dist       383000381.54695666
+    Class      "M5 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5378.01, Y : 2886.195, Z : -4277.03782289675
+Star "Hapes Cluster nameless system 23" // system name
+{
+    RA         0.08727936486785612
+    Dec        24.585987262260275
+    Dist       383004277.0864557
+    Class      "M4 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5377.38, Y : 2901.1200000000003, Z : -7249.730798772477
+Star "Hapes Cluster nameless system 24" // system name
+{
+    RA         0.08727937156711187
+    Dec        24.585989491607144
+    Dist       383007249.77953506
+    Class      "M3 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5396.4, Y : 2927.8950000000004, Z : 4072.9615000280946
+Star "Hapes Cluster nameless system 25" // system name
+{
+    RA         0.0872791802902301
+    Dec        24.5859935099487
+    Dist       382995927.08770895
+    Class      "M1 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5396.235000000001, Y : 2946.3, Z : 8154.148096918593
+Star "Hapes Cluster nameless system 26" // system name
+{
+    RA         0.08727918136232941
+    Dec        24.585996268013744
+    Dist       382991845.90125144
+    Class      "M2 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5388.465, Y : 2954.235, Z : 1810.5227836136378
+Star "Hapes Cluster nameless system 27" // system name
+{
+    RA         0.08727925974551733
+    Dec        24.585997447773742
+    Dist       382998189.52651566
+    Class      "M9 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5381.160000000001, Y : 2961.7050000000004, Z : 8014.083098859178
+Star "Hapes Cluster nameless system 28" // system name
+{
+    RA         0.08727933173047973
+    Dec        24.58599857244773
+    Dist       382991985.9661561
+    Class      "M8 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5368.455, Y : 2969.8050000000003, Z : 2189.605659828422
+Star "Hapes Cluster nameless system 29" // system name
+{
+    RA         0.08727945925631288
+    Dec        24.585999777455005
+    Dist       382997810.44347894
+    Class      "M4 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5055.3150000000005, Y : 2949.465, Z : -8793.121387923165
+Star "Hapes Cluster nameless system 3" // system name
+{
+    RA         0.08728258371386519
+    Dec        24.58599672197546
+    Dist       383008793.16610694
+    Class      "M3 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5361.945000000001, Y : 2979.1650000000004, Z : -5795.758292122412
+Star "Hapes Cluster nameless system 30" // system name
+{
+    RA         0.08727952529685562
+    Dec        24.586001168402046
+    Dist       383005795.8074114
+    Class      "M3 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5357.504999999999, Y : 2996.3100000000004, Z : 7363.254225098081
+Star "Hapes Cluster nameless system 31" // system name
+{
+    RA         0.08727956774121326
+    Dec        24.586003748610125
+    Dist       382992636.7949675
+    Class      "M4 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5346.555, Y : 3005.835, Z : 2166.133971049217
+Star "Hapes Cluster nameless system 32" // system name
+{
+    RA         0.0872796776729392
+    Dec        24.58600516745026
+    Dist       382997833.9151425
+    Class      "M8 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5347.035, Y : 3019.335, Z : -1918.454754498211
+Star "Hapes Cluster nameless system 33" // system name
+{
+    RA         0.08727967345451342
+    Dec        24.58600718220862
+    Dist       383001918.5039803
+    Class      "M4 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5343.224999999999, Y : 3034.7250000000004, Z : -1232.5821173999782
+Star "Hapes Cluster nameless system 34" // system name
+{
+    RA         0.08727971135661801
+    Dec        24.58600948531307
+    Dist       383001232.6314118
+    Class      "G7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5353.545, Y : 3038.7000000000003, Z : 6923.532636292353
+Star "Hapes Cluster nameless system 35" // system name
+{
+    RA         0.08727960729697036
+    Dec        24.586010089641174
+    Dist       382993076.51683474
+    Class      "M7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5365.125, Y : 3036.1500000000005, Z : 671.3035396560417
+Star "Hapes Cluster nameless system 36" // system name
+{
+    RA         0.08727949267922805
+    Dec        24.586009700746402
+    Dist       382999328.7460725
+    Class      "F1 Iab" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5376.555, Y : 3039.3300000000004, Z : -641.8241760483824
+Star "Hapes Cluster nameless system 37" // system name
+{
+    RA         0.08727937886970066
+    Dec        24.586010174907894
+    Dist       383000641.8739735
+    Class      "K5 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5386.545, Y : 3044.5350000000003, Z : 5358.295233699278
+Star "Hapes Cluster nameless system 38" // system name
+{
+    RA         0.08727927839643514
+    Dec        24.586010960696004
+    Dist       382994641.7547462
+    Class      "G7 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5320.665, Y : 3060.15, Z : 1774.11738290198
+Star "Hapes Cluster nameless system 39" // system name
+{
+    RA         0.08727993593371425
+    Dec        24.58601329240692
+    Dist       382998225.93180007
+    Class      "M6 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5123.73, Y : 2915.655, Z : -1601.8352006552404
+Star "Hapes Cluster nameless system 4" // system name
+{
+    RA         0.08728190045664902
+    Dec        24.585991672395135
+    Dist       383001601.8805708
+    Class      "M7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5282.565, Y : 3076.29, Z : -1023.9606220669992
+Star "Hapes Cluster nameless system 40" // system name
+{
+    RA         0.08728031629759898
+    Dec        24.586015703556985
+    Dist       383001024.00940657
+    Class      "M4 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5348.054999999999, Y : 3079.7250000000004, Z : 3937.30833167564
+Star "Hapes Cluster nameless system 41" // system name
+{
+    RA         0.0872796624664615
+    Dec        24.586016223390516
+    Dist       382996062.74139
+    Class      "M7 Ib" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5330.849999999999, Y : 3077.61, Z : 1319.5466204110294
+Star "Hapes Cluster nameless system 42" // system name
+{
+    RA         0.08727983441975377
+    Dec        24.586015903842057
+    Dist       382998680.50284404
+    Class      "M3 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5321.595, Y : 3076.0200000000004, Z : -3946.838324473038
+Star "Hapes Cluster nameless system 43" // system name
+{
+    RA         0.08727992745139655
+    Dec        24.586015659654095
+    Dist       383003946.8876468
+    Class      "M7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5309.16, Y : 3079.59, Z : 8687.41516383103
+Star "Hapes Cluster nameless system 44" // system name
+{
+    RA         0.08728004971962468
+    Dec        24.58601620890861
+    Dist       382991312.6340162
+    Class      "M7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5298.18, Y : 3090.4500000000003, Z : 3860.054066657863
+Star "Hapes Cluster nameless system 45" // system name
+{
+    RA         0.08728015989337401
+    Dec        24.586017827745177
+    Dist       382996139.9950482
+    Class      "M4 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5286.135, Y : 3092.6850000000004, Z : 7064.856878347231
+Star "Hapes Cluster nameless system 46" // system name
+{
+    RA         0.08728027958009564
+    Dec        24.58601816597005
+    Dist       382992935.19208854
+    Class      "M4 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5234.67, Y : 2983.875, Z : 5740.48092312231
+Star "Hapes Cluster nameless system 47" // system name
+{
+    RA         0.08728079303855159
+    Dec        24.586001886440116
+    Dist       382994259.56647354
+    Class      "M0 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5242.215, Y : 3034.9500000000003, Z : 6473.454588537008
+Star "Hapes Cluster nameless system 48" // system name
+{
+    RA         0.08728071768990621
+    Dec        24.586009528107468
+    Dist       382993526.5933127
+    Class      "M3 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5229.78, Y : 3029.385, Z : -7887.475717049849
+Star "Hapes Cluster nameless system 49" // system name
+{
+    RA         0.0872808436638754
+    Dec        24.586008678591597
+    Dist       383007887.5234025
+    Class      "M5 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5129.925, Y : 2906.28, Z : 3699.9795608606473
+Star "Hapes Cluster nameless system 5" // system name
+{
+    RA         0.08728183796498201
+    Dec        24.5859902759445
+    Dist       382996300.0658216
+    Class      "M7 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5175.8099999999995, Y : 2981.34, Z : -4930.936534244743
+Star "Hapes Cluster nameless system 50" // system name
+{
+    RA         0.08728138150554729
+    Dec        24.58600149477838
+    Dist       383004930.9831099
     Class      "M2 IV" // random
 }
 
-// http://starwars.wikia.com/wiki/Thyferra
+// 
 // Region : Inner Rim
-// Sector : Jaso Sector
-// Grid location : L14
-// X : 989.26, Y : -6633.62, Z : 8.473311045268588
-Star "Polith/Polith System" // Star name / system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5189.355, Y : 2988.5400000000004, Z : 2340.06635461971
+Star "Hapes Cluster nameless system 51" // system name
 {
-    RA         0.08732313395577111
-    Dec        24.584881975381183
-    Dist       382999991.554429
-    Class      "M2 IV" // random
+    RA         0.08728124543837884
+    Dec        24.586002580352744
+    Dist       382997659.9804613
+    Class      "M6 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5191.889999999999, Y : 3026.1150000000002, Z : -2056.0550299203983
+Star "Hapes Cluster nameless system 52" // system name
+{
+    RA         0.08728122075060693
+    Dec        24.586008196310836
+    Dist       383002056.1021747
+    Class      "M7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5177.174999999999, Y : 3027.585, Z : 4831.232266706189
+Star "Hapes Cluster nameless system 53" // system name
+{
+    RA         0.08728136657631357
+    Dec        24.586008424362394
+    Dist       382995168.8146913
+    Class      "M9 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5162.8949999999995, Y : 3028.4400000000005, Z : -8284.210193901112
+Star "Hapes Cluster nameless system 54" // system name
+{
+    RA         0.08728151075799204
+    Dec        24.586008536755756
+    Dist       383008284.2569643
+    Class      "M4 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5207.55, Y : 3018.7050000000004, Z : 6658.9848783382795
+Star "Hapes Cluster nameless system 55" // system name
+{
+    RA         0.0872810633900328
+    Dec        24.58600709807644
+    Dist       382993341.0624216
+    Class      "M3 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5188.92, Y : 3015.42, Z : 1779.2240868816366
+Star "Hapes Cluster nameless system 56" // system name
+{
+    RA         0.08728124985250836
+    Dec        24.58600660089312
+    Dist       382998220.8229338
+    Class      "M5 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5184.795, Y : 3042.3, Z : 1827.5374631368613
+Star "Hapes Cluster nameless system 57" // system name
+{
+    RA         0.08728129098544389
+    Dec        24.586010622145594
+    Dist       382998172.50971425
+    Class      "M8 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5138.655, Y : 3021.7650000000003, Z : 236.96727205593675
+Star "Hapes Cluster nameless system 58" // system name
+{
+    RA         0.08728175136187642
+    Dec        24.58600754827232
+    Dist       382999763.0791207
+    Class      "K0 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5139.599999999999, Y : 2887.9500000000003, Z : 3932.727533047667
+Star "Hapes Cluster nameless system 59" // system name
+{
+    RA         0.08728174144261847
+    Dec        24.585987534061395
+    Dist       382996067.31784046
+    Class      "M9 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5125.485000000001, Y : 2882.3100000000004, Z : -703.4032137933656
+Star "Hapes Cluster nameless system 6" // system name
+{
+    RA         0.08728188283392507
+    Dec        24.585986685104306
+    Dist       383000703.4483551
+    Class      "M2 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5113.575, Y : 2889.21, Z : 1703.1740019450922
+Star "Hapes Cluster nameless system 60" // system name
+{
+    RA         0.08728200129354198
+    Dec        24.58598772003987
+    Dist       382998296.8710325
+    Class      "M0 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5107.215, Y : 2903.82, Z : 8502.032714094606
+Star "Hapes Cluster nameless system 61" // system name
+{
+    RA         0.08728206381889211
+    Dec        24.585989913378224
+    Dist       382991498.0123467
+    Class      "M0 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5137.38, Y : 2922.3900000000003, Z : -8815.330626168212
+Star "Hapes Cluster nameless system 62" // system name
+{
+    RA         0.0872817652886034
+    Dec        24.585992671695237
+    Dist       383008815.37622964
+    Class      "K8 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5143.26, Y : 2934.3, Z : 1724.801040247476
+Star "Hapes Cluster nameless system 63" // system name
+{
+    RA         0.08728170523620196
+    Dec        24.585994465438514
+    Dist       382998275.2447344
+    Class      "M0 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5131.035, Y : 2948.4300000000003, Z : -1784.1733139699024
+Star "Hapes Cluster nameless system 64" // system name
+{
+    RA         0.0872818276274133
+    Dec        24.585996575217315
+    Dist       383001784.2190328
+    Class      "M6 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5141.3550000000005, Y : 2953.9800000000005, Z : -2192.060394261755
+Star "Hapes Cluster nameless system 65" // system name
+{
+    RA         0.08728172475953273
+    Dec        24.585997405008044
+    Dist       383002192.1062942
+    Class      "K0 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5119.6050000000005, Y : 3003.51, Z : -8786.608525662821
+Star "Hapes Cluster nameless system 66" // system name
+{
+    RA         0.08728194255353704
+    Dec        24.586004806785482
+    Dist       383008786.6545186
+    Class      "M3 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5077.695, Y : 2978.9100000000003, Z : 5753.40718913159
+Star "Hapes Cluster nameless system 67" // system name
+{
+    RA         0.08728235859642351
+    Dec        24.586001143693252
+    Dist       382994246.6380555
+    Class      "G4 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5053.3949999999995, Y : 2971.7700000000004, Z : 549.0569183404403
+Star "Hapes Cluster nameless system 68" // system name
+{
+    RA         0.08728260163259019
+    Dec        24.58600006951116
+    Dist       382999450.98794883
+    Class      "M8 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5061.495, Y : 2935.5750000000003, Z : 1101.633024681205
+Star "Hapes Cluster nameless system 69" // system name
+{
+    RA         0.08728252077708383
+    Dec        24.585994655461434
+    Dist       382998898.4116704
+    Class      "M2 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5130.72, Y : 2853.735, Z : -7589.775838904759
+Star "Hapes Cluster nameless system 7" // system name
+{
+    RA         0.08728183154456237
+    Dec        24.58598240269256
+    Dist       383007589.82083553
+    Class      "M9 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5121.165, Y : 3028.0950000000003, Z : 1594.5812975695248
+Star "Hapes Cluster nameless system 70" // system name
+{
+    RA         0.08728192561143487
+    Dec        24.58600849682977
+    Dist       382998405.46491104
+    Class      "M6 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5082.405, Y : 3027.4350000000004, Z : 1899.04063616759
+Star "Hapes Cluster nameless system 71" // system name
+{
+    RA         0.08728231213226563
+    Dec        24.586008398455142
+    Dist       382998101.00505096
+    Class      "M6 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5078.7, Y : 3041.0550000000003, Z : 4656.7074955367825
+Star "Hapes Cluster nameless system 72" // system name
+{
+    RA         0.08728234871829084
+    Dec        24.586010439256615
+    Dist       382995343.33825076
+    Class      "M1 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5096.025000000001, Y : 3043.8300000000004, Z : -7174.1942503574455
+Star "Hapes Cluster nameless system 73" // system name
+{
+    RA         0.08728217750119778
+    Dec        24.586010840328598
+    Dist       383007174.24024737
+    Class      "M4 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5100.255, Y : 3029.82, Z : -3243.5066439433917
+Star "Hapes Cluster nameless system 74" // system name
+{
+    RA         0.08728213479352502
+    Dec        24.586008749160744
+    Dist       383003243.5525867
+    Class      "M8 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5116.8, Y : 3047.8050000000003, Z : -1064.501480266179
+Star "Hapes Cluster nameless system 75" // system name
+{
+    RA         0.08728196949873551
+    Dec        24.58601144224001
+    Dist       383001064.54778665
+    Class      "M5 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5033.505, Y : 2812.3500000000004, Z : 4896.553635542035
+Star "Hapes Cluster nameless system 76" // system name
+{
+    RA         0.08728279942910562
+    Dec        24.585976225445474
+    Dist       382995103.4897664
+    Class      "M7 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5047.47, Y : 2802.3, Z : 7538.669031040878
+Star "Hapes Cluster nameless system 77" // system name
+{
+    RA         0.08728265980493068
+    Dec        24.58597472486508
+    Dist       382992461.3744813
+    Class      "M9 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5057.429999999999, Y : 2785.5750000000003, Z : 552.4966607478899
+Star "Hapes Cluster nameless system 78" // system name
+{
+    RA         0.08728256139039627
+    Dec        24.58597221519908
+    Dist       382999447.5468602
+    Class      "M2 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5065.89, Y : 2771.505, Z : -4054.1752561500984
+Star "Hapes Cluster nameless system 79" // system name
+{
+    RA         0.08728247762505445
+    Dec        24.585970105374713
+    Dist       383004054.2187863
+    Class      "M1 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5140.08, Y : 2826.75, Z : -7149.213528296848
+Star "Hapes Cluster nameless system 8" // system name
+{
+    RA         0.08728173813870982
+    Dec        24.585978366374867
+    Dist       383007149.2584503
+    Class      "M6 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5078.7, Y : 2762.61, Z : -4539.437015692661
+Star "Hapes Cluster nameless system 80" // system name
+{
+    RA         0.0872823499344553
+    Dec        24.585968774196882
+    Dist       383004539.48065126
+    Class      "M9 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5077.11, Y : 2748.5400000000004, Z : -6531.601731019974
+Star "Hapes Cluster nameless system 81" // system name
+{
+    RA         0.08728236605495296
+    Dec        24.58596666724867
+    Dist       383006531.645244
+    Class      "M9 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5060.595, Y : 2759.1150000000002, Z : 6341.829376486777
+Star "Hapes Cluster nameless system 82" // system name
+{
+    RA         0.08728252906240569
+    Dec        24.585968263087107
+    Dist       382993658.21399546
+    Class      "M1 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5026.094999999999, Y : 2769.2850000000003, Z : 3341.383060607427
+Star "Hapes Cluster nameless system 83" // system name
+{
+    RA         0.08728287353467518
+    Dec        24.585969781271643
+    Dist       382996658.65993
+    Class      "M8 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5013.825, Y : 2777.9550000000004, Z : 654.7550518863909
+Star "Hapes Cluster nameless system 84" // system name
+{
+    RA         0.08728299625712727
+    Dec        24.585971075376698
+    Dist       382999345.2878404
+    Class      "M0 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5043.135, Y : 2785.155, Z : -4725.695529850991
+Star "Hapes Cluster nameless system 85" // system name
+{
+    RA         0.08728270464999296
+    Dec        24.585972146626222
+    Dist       383004725.73885876
+    Class      "M5 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5209.1849999999995, Y : 2749.2750000000005, Z : 3544.860301542813
+Star "Hapes Cluster nameless system 86" // system name
+{
+    RA         0.08728104750606623
+    Dec        24.585966788021352
+    Dist       382996455.1849914
+    Class      "M4 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5210.46, Y : 2796.4800000000005, Z : 3585.281712855751
+Star "Hapes Cluster nameless system 87" // system name
+{
+    RA         0.08728103478469063
+    Dec        24.58597384987309
+    Dist       382996414.76393926
+    Class      "K8 VI" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5222.7300000000005, Y : 2811.3, Z : 2042.051698926199
+Star "Hapes Cluster nameless system 88" // system name
+{
+    RA         0.08728091262280338
+    Dec        24.585976065231748
+    Dist       382997957.99422866
+    Class      "M0 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5250.885, Y : 2774.46, Z : -3350.006968591908
+Star "Hapes Cluster nameless system 89" // system name
+{
+    RA         0.08728063256436543
+    Dec        24.58597054819324
+    Dist       383003350.05301183
+    Class      "M9 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5147.865, Y : 2810.61, Z : 4594.049994347821
+Star "Hapes Cluster nameless system 9" // system name
+{
+    RA         0.08728165892498914
+    Dec        24.585975964810682
+    Dist       382995405.9949148
+    Class      "M3 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5251.95, Y : 2787.585, Z : 5924.014642600085
+Star "Hapes Cluster nameless system 90" // system name
+{
+    RA         0.08728062067473746
+    Dec        24.58597252173884
+    Dist       382994076.03151166
+    Class      "K6 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5267.400000000001, Y : 2793.3, Z : 1016.0854396658436
+Star "Hapes Cluster nameless system 91" // system name
+{
+    RA         0.08728046726028642
+    Dec        24.585973371345965
+    Dist       382998983.9609678
+    Class      "M1 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5328.36, Y : 2783.565, Z : 7819.910774099516
+Star "Hapes Cluster nameless system 92" // system name
+{
+    RA         0.08727985835106163
+    Dec        24.58597192240962
+    Dist       382992180.13640654
+    Class      "M1 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5306.549999999999, Y : 2806.005, Z : 161.72697909056012
+Star "Hapes Cluster nameless system 93" // system name
+{
+    RA         0.08728007692826074
+    Dec        24.58597527104877
+    Dist       382999838.3200616
+    Class      "M1 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5333.865, Y : 2857.65, Z : -8608.54587704875
+Star "Hapes Cluster nameless system 94" // system name
+{
+    RA         0.08727980572948772
+    Dec        24.58598298721744
+    Dist       383008608.5936779
+    Class      "F0 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5346.99, Y : 2873.7300000000005, Z : 4385.754571791714
+Star "Hapes Cluster nameless system 95" // system name
+{
+    RA         0.08727967302554149
+    Dec        24.585985407273956
+    Dist       382995614.293534
+    Class      "M0 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5365.3949999999995, Y : 2849.82, Z : -1977.4739985556776
+Star "Hapes Cluster nameless system 96" // system name
+{
+    RA         0.08727949035653758
+    Dec        24.585981823277614
+    Dist       383001977.5221823
+    Class      "M9 III" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5388.675, Y : 2887.92, Z : -2731.9390007430707
+Star "Hapes Cluster nameless system 97" // system name
+{
+    RA         0.08727925828853592
+    Dec        24.585987522055643
+    Dist       383002731.9877966
+    Class      "M2 V" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5359.635, Y : 2913.2700000000004, Z : -1246.4620597963126
+Star "Hapes Cluster nameless system 98" // system name
+{
+    RA         0.08727954769959675
+    Dec        24.585991316011363
+    Dist       383001246.5106403
+    Class      "M8 IV" // random
+}
+
+// 
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5368.995, Y : 2924.7000000000003, Z : -5707.785244274176
+Star "Hapes Cluster nameless system 99" // system name
+{
+    RA         0.08727945497487308
+    Dec        24.585993020806956
+    Dist       383005707.8340425
+    Class      "M4 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Hapes
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Hapes_system
+// Grid location : O-9
+// Known planet : Hapes
+// X : 5259.63, Y : 2932.0200000000004, Z : -3739.011107862876
+Star "Hapes/Hapes system" // Star name / system name
+{
+    RA         0.0872805454031581
+    Dec        24.585994118097773
+    Dist       383003739.0584448
+    Class      "F4 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Harrin
+// Region : Inner Rim, Trailing Sectors
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
+// Sector : Harrin sector
+// Sector wiki : https://starwars.fandom.com/wiki/Harrin_sector
+// System wiki : https://starwars.fandom.com/wiki/Harrin_system
+// Grid location : L-15
+// Known planet : Harrin
+// X : 1223.67, Y : -5401.064999999999, Z : -1042.2013884279995
+Star "Harrin system" // system name
+{
+    RA         0.08732079618176954
+    Dec        24.584747517265605
+    Dist       383001042.241426
+    Class      "M3 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Harterra
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Harterra_system
+// Grid location : O-9
+// Known planet : Harterra
+// X : 5248.3949999999995, Y : 2912.2650000000003, Z : 3152.18568949793
+Star "Harterra system" // system name
+{
+    RA         0.08728065650867801
+    Dec        24.585991170670066
+    Dist       382996847.86134344
+    Class      "M3 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Heptalia
+// Region : Inner Rim, Trailing Sectors
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Heptalia_system
+// Grid location : M-14
+// Known planet : Heptalia
+// X : 2710.605, Y : -4657.605, Z : -6296.375351876367
+Star "Heptalia system" // system name
+{
+    RA         0.08730596715869612
+    Dec        24.584858746156392
+    Dist       383006296.4132634
+    Class      "K0 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Hijarna
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Orus sector
+// Sector wiki : https://starwars.fandom.com/wiki/Orus_sector
+// System wiki : https://starwars.fandom.com/wiki/Hijarna_system
+// Grid location : M-8
+// Known planet : Hijarna
+// X : 2583.42, Y : 3691.8300000000004, Z : -773.6658470099121
+Star "Hijarna system" // system name
+{
+    RA         0.08730723520213972
+    Dec        24.586107786815635
+    Dist       383000773.69235307
+    Class      "M0 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Hillindor_system
+// Region : Inner Rim, Trailing Sectors
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Hillindor_system
+// Grid location : M-13
+// Known planet : Hillindor
+// X : 2465.715, Y : -3331.4099999999994, Z : 6279.831910829124
+Star "Hillindor system" // system name
+{
+    RA         0.08730840863717589
+    Dec        24.585057121768788
+    Dist       382993720.19051516
+    Class      "M4 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Iseno
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Iseno sector
+// Sector wiki : https://starwars.fandom.com/wiki/Iseno_sector
+// System wiki : https://starwars.fandom.com/wiki/Iseno_system
+// Grid location : N-13
+// Known planet : Iseno
+// X : 3304.8450000000003, Y : -2483.8650000000002, Z : 8647.418821759144
+Star "Iseno system" // system name
+{
+    RA         0.08730003952205638
+    Dec        24.5851839120244
+    Dist       382991352.60349154
+    Class      "M3 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Itani_system
+// Region : Inner Rim, Itani Nebula
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Itani_Nebula/Legends
+// Sector : 
+// Sector wiki : 
+// System wiki : http://starwars.wikia.com/wiki/Itani_system
+// Grid location : N-14
+// Known planet : Itani
+// X : 3343.11, Y : -4097.219999999999, Z : -7811.662637402253
+Star "Itani system" // system name
+{
+    RA         0.08729965932345493
+    Dec        24.584942579306013
+    Dist       383007811.69914263
+    Class      "M4 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Ithull
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Airon Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Airon_sector
+// System wiki : https://starwars.fandom.com/wiki/Ithull_system
+// Grid location : O-10
+// Known planet : Ithull
+// X : 5642.46, Y : 1765.4850000000001, Z : 7854.950662306196
+Star "Ithull system" // system name
+{
+    RA         0.08727672571374688
+    Dec        24.585819617268726
+    Dist       382992145.0949709
+    Class      "M1 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Jakku
+// Region : Inner Rim, Western Reaches
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Western_Reaches
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Jakku_system
+// Grid location : I-13
+// Known planet : Jakku
+// X : -4132.665, Y : -2619.9599999999996, Z : 499.3699171707925
+Star "Jakku's sun/Jakku system" // Star name / system name
+{
+    RA         0.08737421576524994
+    Dec        24.58516356045375
+    Dist       382999500.6613402
+    Class      "G2 V" // random // TODO yellow-white star
+}
+
+// http://starwars.wikia.com/wiki/Janara_III
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Janara_system
+// Grid location : L-14
+// Known planet : Janara
+// X : 79.80000000000001, Y : -4745.91, Z : -5445.501069510149
+Star "Janara/Janara system" // Star name / system name
+{
+    RA         0.08733220415349026
+    Dec        24.584845534603613
+    Dist       383005445.53048164
+    Class      "M4 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Jandur
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Jandur_system
+// Grid location : J-14
+// Known planet : Jandur
+// X : -1921.275, Y : -4390.83, Z : 7470.841545365813
+Star "Jandur system" // system name
+{
+    RA         0.08735216154849024
+    Dec        24.58489863071824
+    Dist       382992529.18844306
+    Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Onderon
 // Region : Inner Rim
-// Sector : Japrael Sector
-// Grid location : O9
-// X : 5559.23, Y : 261.08, Z : 18.110478964135723
-Star "Prael/Japrael System/Onderon System" //
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Japrael sector
+// Sector wiki : https://starwars.fandom.com/wiki/Japrael_sector/Legends
+// System wiki : https://starwars.fandom.com/wiki/Japrael_system
+// Grid location : O-9
+// Known planet : Onderon, Dxun
+// X : 5559.225, Y : 2392.4400000000005, Z : -4057.0042847677078
+Star "Prael/Japrael system/Onderon system" // Star name / system name
 {
-    RA         0.08727755693100406
-    Dec        24.58591340416234
-    Dist       382999981.9373394
-    Class      "K1 III"
+    RA         0.08727755757077656
+    Dec        24.585913398858327
+    Dist       383004057.05210245
+    Class      "K1 III" // Yellow star
 }
 
-// http://starwars.wikia.com/wiki/Tala_system
+// http://starwars.wikia.com/wiki/Jodaka
 // Region : Inner Rim
-// Sector : 
-// Grid location : N9
-// X : 3142.12, Y : 900.65, Z : -296.90993024846296
-Star "Tala/Tala System" // Star name / system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster, Corsair_Outback
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Corsair_Outback
+// System wiki : https://starwars.fandom.com/wiki/Jodaka_system
+// Grid location : O-9
+// Known planet : Jodaka
+// X : 5120.745, Y : 2868.735, Z : 6427.748146105858
+Star "Jodaka system" // system name
 {
-    RA         0.08730166317229654
-    Dec        24.58600908176168
-    Dist       383000296.93482065
-    Class      "G5 Iab" // random
+    RA         0.08728192915570006
+    Dec        24.585984662314846
+    Dist       382993572.2968307
+    Class      "M3 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Mindor
+// http://starwars.wikia.com/wiki/Joiol
 // Region : Inner Rim
-// Sector : 
-// Grid location : M8
-// X : 2013.8, Y : 2205.92, Z : -217.14268762549943
-Star "Taspan/Taspan System" // Star name / system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Orus sector
+// Sector wiki : https://starwars.fandom.com/wiki/Orus_sector
+// System wiki : https://starwars.fandom.com/wiki/Joiol_system
+// Grid location : M-8
+// Known planet : Joiol
+// X : 2788.41, Y : 3646.485, Z : 2089.0939081751267
+Star "Joiol system" // system name
 {
-    RA         0.08731291607043233
-    Dec        24.58620434665959
-    Dist       383000217.1725407
-    Class      "M5 V" // random
+    RA         0.08730519060121915
+    Dec        24.586101007415582
+    Dist       382997910.9336012
+    Class      "K1 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Jovaria
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Interior Region
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster,https://starwars.fandom.com/wiki/Interior_Region
+// System wiki : https://starwars.fandom.com/wiki/Jovaria_system
+// Grid location : O-9
+// Known planet : Jovaria
+// X : 5262.165, Y : 2901.69, Z : 8356.534170900251
+Star "Jovaria system" // system name
+{
+    RA         0.08728051846404895
+    Dec        24.585989594563912
+    Dist       382991643.51297134
+    Class      "K4 V" // random
+}
+
+// http://starwars.wikia.com/wiki/k%27Farri
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/K%27Farri_system
+// Grid location : O-9
+// Known planet : k'Farri
+// X : 5212.44, Y : 2766.585, Z : -8150.772540179506
+Star "K'Farri system" // system name
+{
+    RA         0.08728101663056963
+    Dec        24.585969364936926
+    Dist       383008150.81800073
+    Class      "G5 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/K'taktaxka
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/K%27taktaxka_system
+// Grid location : J-14
+// Known planet : K'taktaxka
+// X : -2944.005, Y : -4877.219999999999, Z : -3935.327137461963
+Star "K'taktaxka system" // system name
+{
+    RA         0.08736236071857295
+    Dec        24.584825888379946
+    Dist       383003935.36950576
+    Class      "K6 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Ket
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Ket_system
+// Grid location : O-9
+// Known planet : Ket
+// X : 5048.475, Y : 2914.695, Z : 889.7244573209633
+Star "Ket system" // system name
+{
+    RA         0.08728265065580222
+    Dec        24.585991531618834
+    Dist       382999110.3199065
+    Class      "G3 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Ketal
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Ketal_system
+// Grid location : L-14
+// Known planet : Ketal
+// X : 113.1, Y : -5108.4, Z : 2589.982286227504
+Star "Ketal system" // system name
+{
+    RA         0.08733187202846225
+    Dec        24.58479129180331
+    Dist       382997410.0517983
+    Class      "K7 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Dargulli
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Kether_system
+// Grid location : N-14
+// Known planet : Dargulli
+// X : 3090.6600000000003, Y : -4498.094999999999, Z : 4351.563175162319
+Star "Kether system" // system name
+{
+    RA         0.08730217601638054
+    Dec        24.584882589327545
+    Dist       382995648.47570914
+    Class      "M9 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Kloper
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Kloper_system
+// Grid location : N-9
+// Known planet : Kloper
+// X : 3105.465, Y : 2686.8, Z : 7851.50712541645
+Star "Kloper system" // system name
+{
+    RA         0.08730202807910085
+    Dec        24.58595744636104
+    Dist       382992148.5148891
+    Class      "M6 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Kooriva
+// Region : Inner Rim, Trailing Sectors
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Kooriva_system
+// Grid location : M-14
+// Known planet : Kooriva
+// X : 2377.71, Y : -4234.545, Z : 7151.946567194318
+Star "Kooriva system" // system name
+{
+    RA         0.08730928628513618
+    Dec        24.58492201152135
+    Dist       382992848.08422303
+    Class      "M5 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Korda_Six
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Anthos Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Anthos_sector
+// System wiki : https://starwars.fandom.com/wiki/Korda_system
+// Grid location : O-8
+// Known planet : Korda Six
+// X : 4915.56, Y : 4321.0650000000005, Z : -2348.5834549196366
+Star "Korda system" // system name
+{
+    RA         0.08728397665537047
+    Dec        24.586201915846814
+    Dist       383002348.6393741
+    Class      "M1 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Korev_VII
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Zaric sector
+// Sector wiki : https://starwars.fandom.com/wiki/Zaric_sector
+// System wiki : https://starwars.fandom.com/wiki/Korev_system
+// Grid location : N-9
+// Known planet : Korev VII
+// X : 3369.0600000000004, Y : 2636.565, Z : 633.0762728470563
+Star "Korev system" // system name
+{
+    RA         0.08729939978450933
+    Dec        24.585949923750942
+    Dist       382999366.9476202
+    Class      "M3 II" // random
+}
+
+// http://starwars.wikia.com/wiki/Kroctar
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Shataum sector
+// Sector wiki : https://starwars.fandom.com/wiki/Shataum_sector
+// System wiki : https://starwars.fandom.com/wiki/Kroctar_system
+// Grid location : N-7
+// Known planet : Kroctar
+// X : 3513.2400000000002, Y : 5225.43, Z : 8026.329788382645
+Star "Kroctar system" // system name
+{
+    RA         0.08729796117616914
+    Dec        24.586337226787258
+    Dist       382991973.72197247
+    Class      "M3 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Ktil
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Ktilac Regions
+// Sector wiki : https://starwars.fandom.com/wiki/Ktilac_Regions
+// System wiki : https://starwars.fandom.com/wiki/Ktil_system
+// Grid location : N-9
+// Known planet : Ktil
+// X : 4289.219999999999, Y : 3445.3650000000002, Z : -153.32355737650346
+Star "Ktil system" // system name
+{
+    RA         0.08729022295822246
+    Dec        24.58607091721763
+    Dist       383000153.3630716
+    Class      "M4 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Laertos
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Laertos_system
+// Grid location : L-14
+// Known planet : Laertos
+// X : 777.045, Y : -5015.459999999999, Z : 4983.12304661017
+Star "Laertos system" // system name
+{
+    RA         0.08732525030839744
+    Dec        24.584805190785424
+    Dist       382995016.91058123
+    Class      "M9 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Lalmy'ash
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Interior Region
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster,https://starwars.fandom.com/wiki/Interior_Region
+// System wiki : https://starwars.fandom.com/wiki/Lalmy%27ash_system
+// Grid location : O-9
+// Known planet : Lalmy'ash
+// X : 5217.075, Y : 2921.3700000000003, Z : -3432.6939032436503
+Star "Lalmy'ash system" // system name
+{
+    RA         0.08728096976504322
+    Dec        24.585992525251225
+    Dist       383003432.74057686
+    Class      "M4 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Las_Lagon
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Las_Lagon_system
+// Grid location : M-13
+// Known planet : Las Lagon
+// X : 2168.265, Y : -3740.7449999999994, Z : 6848.2049566378155
+Star "Las Lagon system" // system name
+{
+    RA         0.08731137516888882
+    Dec        24.584995884508906
+    Dist       382993151.81944925
+    Class      "M9 IV" // random
+}
+
+// https://starwars.fandom.com/wiki/Lemmi_VI
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Lemmi_system
+// Grid location : O-9
+// Known planet : Lemmi VI
+// X : 5276.13, Y : 2908.0350000000003, Z : 6801.855367210078
+Star "Lemmi system" // system name
+{
+    RA         0.08728037939949365
+    Dec        24.58599054201375
+    Dist       382993198.1920152
+    Class      "A1 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Levian_Two
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Nouane Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Nouane_sector
+// System wiki : https://starwars.fandom.com/wiki/Levian_system
+// Grid location : N-8
+// Known planet : Levian Two
+// X : 3876.6449999999995, Y : 5022.915000000001, Z : 7671.683895421075
+Star "Levian system" // system name
+{
+    RA         0.08729433684136886
+    Dec        24.586306929752137
+    Dist       382992328.3686618
+    Class      "G8 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Lovola
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Rifle Worlds
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Rifle_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Lovola_system
+// Grid location : O-9
+// Known planet : Lovola
+// X : 5064.615000000001, Y : 2963.9100000000003, Z : -2773.963376566716
+Star "Lovola system" // system name
+{
+    RA         0.08728249017186152
+    Dec        24.585998889827433
+    Dist       383002774.00833064
+    Class      "G5 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Shedu_Maad
+// Region : Inner Rim, Transitory Mists
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Transitory_Mists
+// System wiki : https://starwars.fandom.com/wiki/Maad_system
+// Grid location : O-9
+// Known planet : Shedu Maad
+// X : 5375.7, Y : 3024.0150000000003, Z : -2882.7877607350038
+Star "Maad system" // system name
+{
+    RA         0.08727938771042376
+    Dec        24.586007881181626
+    Dist       383002882.83742464
+    Class      "M6 VI" // random
+}
+
+// http://starwars.wikia.com/wiki/Maires
+// Region : Inner Rim, Transitory Mists
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Transitory_Mists
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Maires_system
+// Grid location : O-9
+// Known planet : Maires
+// X : 5068.845, Y : 2990.3700000000003, Z : -3271.661301521189
+Star "Maires system" // system name
+{
+    RA         0.08728244805140883
+    Dec        24.586002847562952
+    Dist       383003271.70651716
+    Class      "M9 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Manress
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Manress_system
+// Grid location : N-9
+// Known planet : Manress
+// X : 4376.07, Y : 2526.9900000000002, Z : -2124.8276789177326
+Star "Manress system" // system name
+{
+    RA         0.08728935701465003
+    Dec        24.585933528873692
+    Dist       383002124.86101514
+    Class      "M5 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Mantessa
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Orus sector
+// Sector wiki : https://starwars.fandom.com/wiki/Orus_sector
+// System wiki : https://starwars.fandom.com/wiki/Mantessa_system
+// Grid location : M-8
+// Known planet : Mantessa
+// X : 2363.34, Y : 4050.63, Z : 2473.8612205767367
+Star "Mantessa system" // system name
+{
+    RA         0.08730942988995814
+    Dec        24.586161467369294
+    Dist       382997526.1674911
+    Class      "G4 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Mattri_system
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Mattri_system
+// Grid location : O-10
+// Known planet : Mattri
+// X : 5218.995, Y : 779.9100000000003, Z : 579.2047153157881
+Star "Mattri system" // system name
+{
+    RA         0.08728095007154137
+    Dec        24.585672172634407
+    Dist       382999420.83163744
+    Class      "M2 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Meastrinnar
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Meastrinnar_system
+// Grid location : K-8
+// Known planet : Meastrinnar
+// X : -1414.7099999999998, Y : 4262.790000000001, Z : 4585.516549712114                                            
+Star "Meastrinnar system" // system name
+{
+    RA         0.08734710929202967
+    Dec        24.586193209661015
+    Dist       382995414.50978583
+    Class      "M9 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Mechis_III
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Mechis_system
+// Grid location : L-14
+// Known planet : Mechis III
+// X : 1391.5049999999999, Y : -4862.895, Z : 4775.236169025016
+Star "Mechis/Mechis system" // Star name / system name
+{
+    RA         0.08731912213094473
+    Dec        24.584828014794745
+    Dist       382995224.7972309
+    Class      "M1 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Merson
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Stenness Node
+// Sector wiki : https://starwars.fandom.com/wiki/Stenness_Node
+// System wiki : https://starwars.fandom.com/wiki/Merson_system
+// Grid location : O-10
+// Known planet : Merson
+// X : 5510.685, Y : 1583.7900000000002, Z : -2664.385228199454
+Star "Merson system" // system name
+{
+    RA         0.08727804146279486
+    Dec        24.585792429115834
+    Dist       383002664.428147
+    Class      "G3 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Millinar
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Millinar_system
+// Grid location : O-9
+// Known planet : Millinar
+// X : 5214.54, Y : 2934.915, Z : -139.56773309957896
+Star "Millinar system" // system name
+{
+    RA         0.08728099459961539
+    Dec        24.585994555304044
+    Dist       383000139.6144761
+    Class      "M6 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Mindabaal
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : 
+// Grid location : J-13
+// Known planet : Mindabaal
+// X : -2400.27, Y : -3479.055, Z : 2769.064507838716
+Star "Mindabaal system (assumed)" // system name
+{
+    RA         0.08735693843951198
+    Dec        24.585035038878907
+    Dist       382997230.958815
+    Class      "M8 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Modus
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Rifle Worlds
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Rifle_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Modus_system
+// Grid location : O-9
+// Known planet : Modus
+// X : 5099.265, Y : 3014.445, Z : -2138.717260354785
+Star "Modus system" // system name
+{
+    RA         0.08728214452017073
+    Dec        24.586006450421973
+    Dist       383002138.7630687
+    Class      "M3 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Mokk_IX
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Airon Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Airon_sector
+// System wiki : https://starwars.fandom.com/wiki/Mokk_system
+// Grid location : N-10
+// Known planet : Mokk IX
+// X : 4285.5, Y : 1349.9850000000001, Z : -2127.081204326001
+Star "Mokk system" // system name
+{
+    RA         0.08729026027860222
+    Dec        24.58575745303743
+    Dist       383002127.10755926
+    Class      "M3 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Moorja
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Moorja_system
+// Grid location : L-15
+// Known planet : Moorja
+// X : 1136.295, Y : -5600.8049999999985, Z : -181.88330769155698
+Star "Moorja system" // system name
+{
+    RA         0.08732166755842229
+    Dec        24.58471763489306
+    Dist       383000181.925945
+    Class      "M6 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Myrkr
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Myrkr_system
+// Grid location : N-7
+// Known planet : Myrkr
+// X : 4027.7400000000002, Y : 5570.985000000001, Z : 6377.7209564264185
+Star "Myrkr/Myrkr system" // Star name / system name
+{
+    RA         0.08729283005294025
+    Dec        24.586388918390387
+    Dist       382993622.34073985
+    Class      "M2 IV" // TODO yellow-orange star
+}
+
+// http://starwars.wikia.com/wiki/Nantuker
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster, Corsair Outback
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Corsair_Outback
+// System wiki : https://starwars.fandom.com/wiki/Nantuker_system
+// Grid location : O-9
+// Known planet : Nantuker
+// X : 5161.38, Y : 2804.415, Z : -5551.981679654306
+Star "Nantuker system" // system name
+{
+    RA         0.08728152549979754
+    Dec        24.585975026930274
+    Dist       383005552.02672416
+    Class      "M7 IV" // random
+}
+
+// http://starwars.wikia.com/wiki/Neshtab
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Neshtab_system
+// Grid location : K-8
+// Known planet : Neshtab
+// X : -1377.72, Y : 4418.145, Z : 3597.4004419686075
+Star "Neshtab system" // system name
+{
+    RA         0.08734674034513372
+    Dec        24.586216448928106
+    Dist       382996402.6275193
+    Class      "G5 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Norah
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Jaso Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Jaso_sector
+// System wiki : https://starwars.fandom.com/wiki/Norah_system
+// Grid location : L-14
+// Known planet : Norah
+// X : 1123.8, Y : -4194.3150000000005, Z : 250.44134552644607
+Star "Norah system" // system name
+{
+    RA         0.08732179216029239
+    Dec        24.584928041241305
+    Dist       382999749.58326966
+    Class      "F4 IV"
+}
+
+// http://starwars.wikia.com/wiki/Nouane
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Nouane
+// Sector wiki : https://starwars.fandom.com/wiki/Nouane_(Allied_Region)
+// System wiki : https://starwars.fandom.com/wiki/Nouane_system/Legends
+// Grid location : N-8
+// Known planet : Nouane
+// X : 3049.4700000000003, Y : 5034.51, Z : 3277.0249857805175
+Star "Nouane system" // system name
+{
+    RA         0.08730258690065877
+    Dec        24.586308655725876
+    Dist       382996723.0202438
+    Class      "G9 V"
+}
+
+// http://starwars.wikia.com/wiki/Novi
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Interior Region
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster,https://starwars.fandom.com/wiki/Interior_Region
+// System wiki : https://starwars.fandom.com/wiki/Novi_system
+// Grid location : O-9
+// Known planet : Novi
+// X : 5186.175, Y : 2948.6850000000004, Z : -8358.54378590159
+Star "Novi system" // system name
+{
+    RA         0.08728127859798711
+    Dec        24.58599660579271
+    Dist       383008358.5902486
+    Class      "M6 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Carratos
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/O%27pahz_system
+// Grid location : K-8
+// Known planet : Carratos
+// X : -1350.585, Y : 4006.335, Z : 3218.3376177682667
+Star "O'pahz system" // system name
+{
+    RA         0.08734646970768048
+    Dec        24.586154842077526
+    Dist       382996781.68571764
+    Class      "M7 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Obroa-skai
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Obroa-skai_system
+// Grid location : N-8
+// Known planet : Obroa-skai
+// X : 4374.599999999999, Y : 4756.605, Z : 6792.916370445096
+Star "Obroa-skai system" // system name
+{
+    RA         0.08728937065925083
+    Dec        24.586267088054974
+    Dist       382993207.13815063
+    Class      "F9 VI" // yellow-orange star
+}
+
+// http://starwars.wikia.com/wiki/Omonoth
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Omonoth_system
+// Grid location : M-8
+// Known planet : Omonoth
+// X : 1904.685, Y : 3730.6800000000003, Z : -6298.595028639399
+Star "Omonoth system" // system name
+{
+    RA         0.08731400459231761
+    Dec        24.586113590609717
+    Dist       383006298.617934
+    Class      "DC" // white dwarf
+}
+
+// http://starwars.wikia.com/wiki/Ord_Lithone
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Ord_Lithone_system
+// Grid location : L-8
+// Known planet : Ord Lithone
+// X : 139.35, Y : 4573.035, Z : 4452.466809874184
+Star "Ord Lithone system" // system name
+{
+    RA         0.08733161022459632
+    Dec        24.586239621804395
+    Dist       382995547.5605169
+    Class      "M6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Ord_Vaxal
@@ -223,3864 +4095,1431 @@ Star "Vaxal/Ord Vaxal System" // Star name / system name
     Class      "F2 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Zeltros
-// Region : Inner Rim
-// Sector : 
-// Grid location : O10
-// X : 5295.28, Y : -1043.53, Z : 216.52131776632518
-Star "Zel/Zel System" // Star name / system name
-{
-    RA         0.08728018931821753
-    Dec        24.5857182380575
-    Dist       382999783.5168329
-    Class      "F5 V"
-}
-
-// http://starwars.wikia.com/wiki/Adari
-// Region : Inner Rim
-// Sector : Adari Sector
-// Grid location : M9
-// X : 2547.07, Y : 1169.74, Z : 56.353401152181846
-Star "Adari System" // system name
-{
-    RA         0.0873075976705666
-    Dec        24.586049337332987
-    Dist       382999943.6692946
-    Class      "M7 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Affa
-// Region : Inner Rim
-// Sector : 
-// Grid location : M13
-// X : 2295.88, Y : -5879.05, Z : -578.5752962995269
-Star "Affa System" // system name
-{
-    RA         0.08731010286587446
-    Dec        24.58499485790448
-    Dist       383000578.60051316
-    Class      "M0 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Ailon
-// Region : Inner Rim
-// Sector : 
-// Grid location : N12
-// X : 3881.86, Y : -3652.6, Z : 350.08532723499593
-Star "Ailon System" // system name
-{
-    RA         0.08729428557041717
-    Dec        24.58532792783724
-    Dist       382999649.937366
-    Class      "M2 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Aleen
-// Region : Inner Rim
-// Sector : 
-// Grid location : M13
-// X : 2812.43, Y : -5437.76, Z : -304.66079633578494
-Star "Aleen System" // system name
-{
-    RA         0.08730495122001869
-    Dec        24.585060873259202
-    Dist       383000304.6853942
-    Class      "M1 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Algnadesh
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5150.07, Y : 814.29, Z : 1.1714964168387878
-Star "Algnadesh System" // system name
-{
-    RA         0.08728163754985523
-    Dec        24.585996162888758
-    Dist       382999998.87445676
-    Class      "M2 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Ambria
-// Region : Inner Rim
-// Sector : Airon Sector
-// Grid location : O10
-// X : 5560.62, Y : -213.3, Z : -65.32432852574584
-Star "Ambria System" // system name
-{
-    RA         0.08727754308039802
-    Dec        24.585842438112444
-    Dist       383000065.3694976
-    Class      "M9 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Andalia
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5019.46, Y : 692.11, Z : -1.4536185988754893
-Star "Andalia System" // system name
-{
-    RA         0.08728294014406844
-    Dec        24.585977885083352
-    Dist       383000001.49691755
-    Class      "M5 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Aphran
-// Region : Inner Rim
-// Sector : 
-// Grid location : K8
-// X : -1468.95, Y : 2207.86, Z : -4.651834003321937
-Star "Aphran System" // system name
-{
-    RA         0.08734765006689174
-    Dec        24.5862046372384
-    Dist       383000004.6792318
-    Class      "M0 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Arabanth
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5254.75, Y : 813.29, Z : -3.6038104905907007
-Star "Arabanth System" // system name
-{
-    RA         0.08728059356056665
-    Dec        24.58599601328593
-    Dist       383000003.6511779
-    Class      "M3 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Archais
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5223.64, Y : 779.64, Z : -0.5845822538548582
-Star "Archais System" // system name
-{
-    RA         0.08728090382502691
-    Dec        24.58599097933907
-    Dist       383000000.63126683
-    Class      "M2 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Arkam_system
-// Region : Inner Rim
-// Sector : 
-// Grid location : M14
-// X : 2101.69, Y : -7087.19, Z : 269.02021029925504
-Star "Arkam System" // system name
-{
-    RA         0.0873120395036683
-    Dec        24.584814122011863
-    Dist       382999731.017619
-    Class      "M1 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Asrat
-// Region : Inner Rim
-// Sector : 
-// Grid location : N8
-// X : 4079.16, Y : 2350.59, Z : 362.8007095046868
-Star "Asrat System" // system name
-{
-    RA         0.08729231786364797
-    Dec        24.58622598990911
-    Dist       382999637.24723774
-    Class      "M8 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Atapap_I
-// Region : Inner Rim
-// Sector : 
-// Grid location : N12
-// X : 3833.31, Y : -3739.99, Z : 183.25708678059846
-Star "Atapap System" // system name
-{
-    RA         0.08729476978422152
-    Dec        24.585314854618957
-    Dist       382999816.7654745
-    Class      "M5 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Atzerri
-// Region : Inner Rim
-// Sector : 
-// Grid location : M13
-// X : 2840.99, Y : -5916.5, Z : -443.70687512991515
-Star "Atzerri System" // system name
-{
-    RA         0.08730466639720474
-    Dec        24.584989255293333
-    Dist       383000443.7361159
-    Class      "M1 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Babbadod
-// Region : Inner Rim
-// Sector : 
-// Grid location : N14
-// X : 3510.95, Y : -6091.27, Z : 366.7694281448221
-Star "Babbadod System" // system name
-{
-    RA         0.0872979847154545
-    Dec        24.584963108943718
-    Dist       382999633.2671353
-    Class      "M5 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Baldavia
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5203.53, Y : 822.18, Z : 1.7287529275344191
-Star "Baldavia System" // system name
-{
-    RA         0.08728110438487431
-    Dec        24.58599734321238
-    Dist       382999998.3179836
-    Class      "M8 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Barlok
-// Region : Inner Rim
-// Sector : Marcol Sector
-// Grid location : L8
-// X : 684.12, Y : 1987.98, Z : -433.8462656508818
-Star "Barlok System" // system name
-{
-    RA         0.08732617717244916
-    Dec        24.586171743086094
-    Dist       383000433.86902946
-    Class      "M2 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Beltrix_III
-// Region : Inner Rim
-// Sector : 
-// Grid location : M14
-// X : 1727.18, Y : -6546.23, Z : -415.9572361510197
-Star "Beltrix System" // system name
-{
-    RA         0.08731577458364087
-    Dec        24.584895049424517
-    Dist       383000415.9865758
-    Class      "M8 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Bengat
-// Region : Inner Rim
-// Sector : 
-// Grid location : J8
-// X : -1658.01, Y : 2358.28, Z : -339.01042631260964
-Star "Bengat System" // system name
-{
-    RA         0.08734953557725045
-    Dec        24.586227139082997
-    Dist       383000339.0403296
-    Class      "M5 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Berchest
-// Region : Inner Rim
-// Sector : Anthos Sector
-// Grid location : N8
-// X : 3147.67, Y : 1911.82, Z : 26.549202550287532
-Star "Berchest System" // system name
-{
-    RA         0.08730160779481332
-    Dec        24.586160350493003
-    Dist       382999973.48507315
-    Class      "M5 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Berri
-// Region : Inner Rim
-// Sector : 
-// Grid location : N9
-// X : 3365.43, Y : 994.97, Z : 486.1358811624316
-Star "Berri System" // system name
-{
-    RA         0.08729943600000144
-    Dec        24.58602319272763
-    Dist       382999513.8916647
-    Class      "M9 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Bilbringi
-// Region : Inner Rim
-// Sector : 
-// Grid location : J8
-// X : -1820.76, Y : 2419.11, Z : 367.2200993366739
-Star "Bilbringi System" // system name
-{
-    RA         0.08735115874038803
-    Dec        24.586236240336106
-    Dist       382999632.81126106
-    Class      "M9 II" // random
-}
-
-// http://starwars.wikia.com/wiki/Bogden/Legends
-// Region : Inner Rim
-// Sector : 
-// Grid location : M8
-// X : 1588.65, Y : 2669.82, Z : -268.1054535091305
-Star "Bogden System" // system name
-{
-    RA         0.08731715615728361
-    Dec        24.58627374472862
-    Dist       383000268.1388415
-    Class      "G1 V"
-}
-
-// http://starwars.wikia.com/wiki/Borao
-// Region : Inner Rim
-// Sector : 
-// Grid location : M14
-// X : 2617.68, Y : -6901.32, Z : -168.3753082059647
-Star "Borao System" // system name
-{
-    RA         0.08730689348125707
-    Dec        24.584841928503067
-    Dist       383000168.4139566
-    Class      "K4 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Calfa
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5341.56, Y : 705.59, Z : -1.5018924875929907
-Star "Calfa System" // system name
-{
-    RA         0.08727972779063604
-    Dec        24.58597990165537
-    Dist       383000001.54964787
-    Class      "M8 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Calus
-// Region : Inner Rim
-// Sector : 
-// Grid location : L15
-// X : 1022.55, Y : -7887.52, Z : 23.850605856251264
-Star "Calus System" // system name
-{
-    RA         0.08732280194900097
-    Dec        24.584694395243456
-    Dist       382999976.1940141
-    Class      "M6 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Carest_1
-// Region : Inner Rim
-// Sector : 
-// Grid location : N8
-// X : 4403.73, Y : 2822.2, Z : 19.369546236179303
-Star "Carest System" // system name
-{
-    RA         0.08728908091281733
-    Dec        24.586296540910865
-    Dist       382999980.6878045
-    Class      "M4 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Carlania
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5250.73, Y : 828.53, Z : 1.1823098941851136
-Star "Carlania System" // system name
-{
-    RA         0.0872806336519978
-    Dec        24.585998293154834
-    Dist       382999998.8651199
-    Class      "M8 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Carratos
-// Region : Inner Rim
-// Sector : 
-// Grid location : K8
-// X : -1350.59, Y : 1874.97, Z : 114.15634513793327
-Star "O'pahz System" // system name
-{
-    RA         0.08734646964837545
-    Dec        24.586154837967896
-    Dist       382999885.8669902
-    Class      "M7 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Champala
-// Region : Inner Rim
-// Sector : 
-// Grid location : L8
-// X : 1070.59, Y : 1939.6, Z : -231.9664236651849
-Star "Chagri System" // system name
-{
-    RA         0.08732232284570275
-    Dec        24.586164505896207
-    Dist       383000231.9895555
-    Class      "F0 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Chardaan
-// Region : Inner Rim
-// Sector : 
-// Grid location : N13
-// X : 3508.02, Y : -5987.4, Z : 487.54933758700713
-Star "Chardaan System" // system name
-{
-    RA         0.08729801392579574
-    Dec        24.584978647451926
-    Dist       382999512.4861392
-    Class      "M8 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Charubah
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5098.48, Y : 859, Z : -4.610163190378182
-Star "Charubah System" // system name
-{
-    RA         0.087282152065727
-    Dec        24.586002851378897
-    Dist       383000004.6557726
-    Class      "M2 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Chazwa
-// Region : Inner Rim
-// Sector : Orus Sector
-// Grid location : M8
-// X : 2997.86, Y : 1590.02, Z : -538.0013526946162
-Star "Chazwa System" // system name
-{
-    RA         0.08730310191744309
-    Dec        24.58611220924649
-    Dist       383000538.0311645
-    Class      "M8 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Cheruba
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5142.13, Y : 854.77, Z : 4.308179434100346
-Star "Cheruba System" // system name
-{
-    RA         0.08728171673629173
-    Dec        24.586002218592576
-    Dist       382999995.7379805
-    Class      "M5 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Chosper
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5092.49, Y : 616.7, Z : -2.9323718200277016
-Star "Chosper System" // system name
-{
-    RA         0.08728221180470645
-    Dec        24.585966603946733
-    Dist       383000002.9760863
-    Class      "M3 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Comkin_V
-// Region : Inner Rim
-// Sector : Nouane Sector
-// Grid location : N7
-// X : 3183.11, Y : 3254.96, Z : -578.0400912779913
-Star "Comkin System" // system name
-{
-    RA         0.08730125439626314
-    Dec        24.58636127940019
-    Dist       383000578.091194
-    Class      "M0 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Cona
-// Region : Inner Rim
-// Sector : Inner Cluster Sector
-// Grid location : O11
-// X : 4904.13, Y : -1802.26, Z : 137.4087407418673
-Star "Teke Ro System" // system name
-{
-    RA         0.08728409033037816
-    Dec        24.585604733996767
-    Dist       382999862.62279814
-    Class      "B2 III" // blue giant
-}
-
-// http://starwars.wikia.com/wiki/Corvanni_IV
-// Region : Inner Rim
-// Sector : Neshig Sector
-// Grid location : N9
-// X : 3473.08, Y : 243.05, Z : -46.34133011007998
-Star "Corvanni System" // system name
-{
-    RA         0.08729836243658336
-    Dec        24.585910706862478
-    Dist       383000046.3644374
-    Class      "M4 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Dagary_Minor
-// Region : Inner Rim
-// Sector : 
-// Grid location : M8
-// X : 2908.92, Y : 2744.1, Z : -508.6054661412088
-Star "Dagary Minor System" // system name
-{
-    RA         0.08730398892643862
-    Dec        24.586284856352933
-    Dist       383000508.64754444
-    Class      "F3 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Dalcretti_system
-// Region : Inner Rim
-// Sector : 
-// Grid location : O8
-// X : 4698.41, Y : 1760.63, Z : 294.61912552248225
-Star "Dalcretti System" // system name
-{
-    RA         0.08728614198947127
-    Dec        24.586137733277795
-    Dist       382999705.42946815
-    Class      "M8 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Dargulli
-// Region : Inner Rim
-// Sector : 
-// Grid location : N14
-// X : 3090.67, Y : -6629.45, Z : 156.97145765811422
-Star "Kether System" // system name
-{
-    RA         0.0873021762542314
-    Dec        24.584882598941185
-    Dist       382999843.0674261
-    Class      "M9 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Dartessex_IV
-// Region : Inner Rim
-// Sector : 
-// Grid location : N10
-// X : 3874.92, Y : -682.9, Z : 196.0128034292337
-Star "Dartessex System" // system name
-{
-    RA         0.08729435479972714
-    Dec        24.585772187363514
-    Dist       382999804.00953734
-    Class      "K1 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Daruvvia
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5043.71, Y : 758.72, Z : 4.897927509524852
-Star "Daruvvia System" // system name
-{
-    RA         0.08728269829420943
-    Dec        24.585987849769
-    Dist       382999995.1461869
-    Class      "M7 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Datar
-// Region : Inner Rim
-// Sector : 
-// Grid location : L8
-// X : 838.43, Y : 2438.54, Z : -419.7846526987251
-Star "Datar System" // system name
-{
-    RA         0.08732463821622892
-    Dec        24.586239145610335
-    Dist       383000419.8128342
-    Class      "G9 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Denon
-// Region : Inner Rim
-// Sector : Iseno sector
-// Grid location : N13
-// X : 3418.58, Y : -4748.39, Z : -357.14179250592497
-Star "Denon System" // system name
-{
-    RA         0.08729890600117027
-    Dec        24.585164001146012
-    Dist       383000357.16599023
-    Class      "M4 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Divora
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5124.14, Y : 805.56, Z : 0.531286627873568
-Star "Divora System" // system name
-{
-    RA         0.08728189615386876
-    Dec        24.58599485690328
-    Dist       382999999.5142517
-    Class      "K5 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Donadus
-// Region : Inner Rim
-// Sector : Bamula Sector
-// Grid location : J13
-// X : -2366.98, Y : -5739.88, Z : -42.97391247501275
-Star "Donadus System" // system name
-{
-    RA         0.0873566062574366
-    Dec        24.585015676579307
-    Dist       383000042.99822575
-    Class      "M3 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Drearia
-// Region : Inner Rim
-// Sector : 
-// Grid location : L8
-// X : 1190.8, Y : 2137.49, Z : -544.3716865357195
-Star "Drearia System" // system name
-{
-    RA         0.08732112398306885
-    Dec        24.586194109174105
-    Dist       383000544.3973277
-    Class      "F4 V"
-}
-
-// http://starwars.wikia.com/wiki/Dreena
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5377.02, Y : 739.99, Z : -3.16699256796807
-Star "Dreena System" // system name
-{
-    RA         0.08727937414276941
-    Dec        24.585985047801827
-    Dist       383000003.2155004
-    Class      "G7 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Dulin_system
-// Region : Inner Rim
-// Sector : 
-// Grid location : K14
-// X : -630.37, Y : -7306.34, Z : 508.0591492436811
-Star "Dulin System" // system name
-{
-    RA         0.08733928678649999
-    Dec        24.584781337249584
-    Dist       382999491.9763308
-    Class      "K5 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Ediorung
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5241.63, Y : 842.93, Z : -3.8705614915983477
-Star "Ediorung System" // system name
-{
-    RA         0.08728072440840463
-    Dec        24.586000447350603
-    Dist       383000003.9179781
-    Class      "M7 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Ejolus
-// Region : Inner Rim
-// Sector : 
-// Grid location : M8
-// X : 2300.46, Y : 2825.48, Z : -490.96582712830525
-Star "Ejolus System" // system name
-{
-    RA         0.08731005718364229
-    Dec        24.586297030602083
-    Dist       383000491.004812
-    Class      "M2 II" // random
-}
-
-// http://starwars.wikia.com/wiki/Eshan
-// Region : Inner RIm
-// Sector : Sector
-// Grid location : N8
-// X : 3564.95, Y : 2637.85, Z : -58.95141811555732
-Star "Eshan System" // system name
-{
-    RA         0.08729744620405046
-    Dec        24.586268962494767
-    Dist       383000058.99770314
-    Class      "G9 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Fadden
-// Region : Inner Rim
-// Sector : 
-// Grid location : N11
-// X : 4453.33, Y : -1974.25, Z : -32.689234883213885
-Star "Fadden System" // system name
-{
-    RA         0.0872885862503064
-    Dec        24.585579004731358
-    Dist       383000032.7151577
-    Class      "M1 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Farnica
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5184.06, Y : 804.4, Z : -3.749357753212097
-Star "Farnica System" // system name
-{
-    RA         0.08728129856295617
-    Dec        24.585994683365463
-    Dist       383000003.7956936
-    Class      "M7 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Febrini
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5215.42, Y : 898.95, Z : -1.7544220084702609
-Star "Febrini System" // system name
-{
-    RA         0.08728098580452552
-    Dec        24.58600882779576
-    Dist       383000001.80192
-    Class      "M4 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Fennesa
-// Region : Inner Rim
-// Sector : 
-// Grid location : K14
-// X : -637.77, Y : -6183.74, Z : -31.199286530991913
-Star "Fennesa System" // system name
-{
-    RA         0.08733936057899448
-    Dec        24.584949276294772
-    Dist       383000031.2212558
-    Class      "M1 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Gallinore
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5192.1, Y : 830.01, Z : 4.542724765033366
-Star "Gallinore System" // system name
-{
-    RA         0.08728121837766403
-    Dec        24.585998514562778
-    Dist       382999995.5039171
-    Class      "M0 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Gendrah-Narvin_system
-// Region : Inner Rim
-// Sector : 
-// Grid location : N13
-// X : 3661.31, Y : -4558.36, Z : 126.44286941665837
-Star "Gendrah-Narvin System" // system name
-{
-    RA         0.08729648517323964
-    Dec        24.585192428642753
-    Dist       382999873.5823205
-    Class      "M8 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Genon
-// Region : Inner Rim
-// Sector : 
-// Grid location : N13
-// X : 3741.76, Y : -5387.82, Z : -167.98931662667604
-Star "Genon System" // system name
-{
-    RA         0.08729568286128618
-    Dec        24.585068343970356
-    Dist       383000168.02143836
-    Class      "M7 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Gorse
-// Region : Inner Rim
-// Sector : 
-// Grid location : O10
-// X : 5374.74, Y : -1202.51, Z : -34.157894094740186
-Star "Gorse System" // system name
-{
-    RA         0.08727939688590158
-    Dec        24.585694454968703
-    Dist       383000034.196733
-    Class      "M4 V" // random
-}
-
-// http://starwars.wikia.com/wiki/H%27ratth
-// Region : Inner Rim
-// Sector : 
-// Grid location : N10
-// X : 3709.86, Y : -208.52, Z : 61.57860116300117
-Star "H'ratth System" // system name
-{
-    RA         0.08729600098263655
-    Dec        24.585843153282898
-    Dist       382999938.4441931
-    Class      "M0 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Hapes
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5259.63, Y : 800.65, Z : 2.7106276923586057
-Star "Hapes System" // system name
-{
-    RA         0.08728054489070247
-    Dec        24.585994122382857
-    Dist       382999997.33670974
-    Class      "F4 V"
-}
-
-// http://starwars.wikia.com/wiki/Harrin
-// Region : Inner Rim
-// Sector : Harrin Sector
-// Grid location : L15
-// X : 1223.67, Y : -7532.43, Z : 501.1988651899064
-Star "Harrin System" // system name
-{
-    RA         0.08732079613259094
-    Dec        24.584747514757606
-    Dist       382999498.8411725
-    Class      "M3 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Harterra
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5248.4, Y : 780.91, Z : 0.9030685833535754
-Star "Harterra System" // system name
-{
-    RA         0.08728065688948883
-    Dec        24.585991169329375
-    Dist       382999999.1439641
-    Class      "M3 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Heptalia
-// Region : Inner Rim
-// Sector : 
-// Grid location : M14
-// X : 2710.61, Y : -6788.97, Z : 540.5580353071632
-Star "Heptalia System" // system name
-{
-    RA         0.08730596662626632
-    Dec        24.58485873446661
-    Dist       382999459.4798768
-    Class      "K0 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Hijarna
-// Region : Inner Rim
-// Sector : Orus Sector
-// Grid location : M8
-// X : 2583.42, Y : 1560.47, Z : 269.6263306961947
-Star "Hijarna System" // system name
-{
-    RA         0.08730723513195635
-    Dec        24.58610778981604
-    Dist       382999730.4001755
-    Class      "M0 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Hillindor_system
-// Region : Inner Rim
-// Sector : 
-// Grid location : M13
-// X : 2465.71, Y : -5462.78, Z : -344.7082298826281
-Star "Hillindor System" // system name
-{
-    RA         0.0873084091123845
-    Dec        24.585057130388954
-    Dist       383000344.7306555
-    Class      "M4 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Iseno
-// Region : Inner Rim
-// Sector : Iseno Sector
-// Grid location : N13
-// X : 3304.84, Y : -4615.23, Z : -277.37607273840604
-Star "Iseno System" // system name
-{
-    RA         0.08730004033997771
-    Dec        24.58518392143125
-    Dist       383000277.3983854
-    Class      "M3 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Itani_system
-// Region : Inner Rim
-// Sector : 
-// Grid location : N14
-// X : 3343.11, Y : -6228.59, Z : 437.20651782497157
-Star "Itani System" // system name
-{
-    RA         0.08729965860537872
-    Dec        24.58494256610521
-    Dist       382999562.8299882
-    Class      "M4 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Ithull
-// Region : Inner Rim
-// Sector : Airon Sector
-// Grid location : O10
-// X : 5642.46, Y : -365.87, Z : -441.1412457742862
-Star "Ithull System" // system name
-{
-    RA         0.08727672693269235
-    Dec        24.585819613791696
-    Dist       383000441.186878
-    Class      "M1 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Jakku
-// Region : Inner Rim
-// Sector : 
-// Grid location : I13
-// X : -4132.67, Y : -4751.32, Z : -419.11028371084785
-Star "Jakku System" // system name
-{
-    RA         0.08737421571627539
-    Dec        24.58516356288964
-    Dist       383000419.141541
-    Class      "G2 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Janara_III
-// Region : Inner Rim
-// Sector : 
-// Grid location : L14
-// X : 79.81, Y : -6877.28, Z : -58.15879895491605
-Star "Janara System" // system name
-{
-    RA         0.08733220404256421
-    Dec        24.58484552461712
-    Dist       383000058.1882115
-    Class      "M4 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Jandur
-// Region : Inner Rim
-// Sector : 
-// Grid location : J14
-// X : -1921.27, Y : -6522.19, Z : 76.80057427041027
-Star "Jandur System" // system name
-{
-    RA         0.08735216112869938
-    Dec        24.584898644895464
-    Dist       382999923.22941345
-    Class      "M2 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Jodaka
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5120.74, Y : 737.37, Z : -2.4067637872046044
-Star "Jodaka System" // system name
-{
-    RA         0.08728193006298995
-    Dec        24.585984655857665
-    Dist       383000002.4517398
-    Class      "M3 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Joiol
-// Region : Inner Rim
-// Sector : Orus Sector
-// Grid location : M8
-// X : 2788.42, Y : 1515.12, Z : -363.6632355967775
-Star "Joiol System" // system name
-{
-    RA         0.08730519067958073
-    Dec        24.586101004670105
-    Dist       383000363.69074494
-    Class      "K1 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Jovaria
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5262.16, Y : 770.32, Z : 2.7173259231190148
-Star "Jovaria System" // system name
-{
-    RA         0.08728051965861745
-    Dec        24.585989585095646
-    Dist       382999997.32981527
-    Class      "K4 V" // random
-}
-
-// http://starwars.wikia.com/wiki/K'taktaxka
-// Region : Inner Rim
-// Sector : 
-// Grid location : J14
-// X : -2944, Y : -7008.59, Z : -186.94622096421114
-Star "K'taktaxka System" // system name
-{
-    RA         0.08736236095605733
-    Dec        24.58482588123932
-    Dist       383000186.98858964
-    Class      "K6 III" // random
-}
-
-// http://starwars.wikia.com/wiki/k%27Farri
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5212.45, Y : 635.21, Z : 2.144053457680661
-Star "k'Farri System" // system name
-{
-    RA         0.08728101542426868
-    Dec        24.58596937299888
-    Dist       382999997.90140814
-    Class      "G5 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Ket
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5048.47, Y : 783.33, Z : -2.4387848985635188
-Star "Ket System" // system name
-{
-    RA         0.08728265082295217
-    Dec        24.585991531351127
-    Dist       383000002.4831485
-    Class      "G3 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Ketal
-// Region : Inner Rim
-// Sector : 
-// Grid location : L14
-// X : 113.1, Y : -7239.76, Z : -400.031087072012
-Star "Ketal System" // system name
-{
-    RA         0.08733187203726812
-    Dec        24.584791299265312
-    Dist       383000400.0651712
-    Class      "K7 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Kiffu
-// Region : Inner Rim
-// Sector : Kiffu Sector
-// Grid location : L14
-// X : 420.56, Y : -6469.94, Z : 401.9015724585744
-Star "Azurbani System" // system name
-{
-    RA         0.08732880568523628
-    Dec        24.58490646080689
-    Dist       382999598.1232318
-    Class      "M9 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Kloper
-// Region : Inner Rim
-// Sector : 
-// Grid location : N9
-// X : 3105.47, Y : 555.44, Z : 221.45739489170307
-Star "Kloper System" // system name
-{
-    RA         0.08730202864625185
-    Dec        24.585957439849516
-    Dist       382999778.5646193
-    Class      "M6 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Kooriva
-// Region : Inner Rim
-// Sector : 
-// Grid location : M14
-// X : 2377.71, Y : -6365.91, Z : 586.7483290532318
-Star "Kooriva System" // system name
-{
-    RA         0.08730928669162567
-    Dec        24.584922023128303
-    Dist       382999413.2824606
-    Class      "M5 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Korda_Six
-// Region : Inner Rim
-// Sector : 
-// Grid location : O8
-// X : 4915.56, Y : 2189.69, Z : 492.4747565069697
-Star "Korda Six System" // system name
-{
-    RA         0.08728397629171941
-    Dec        24.586201919893885
-    Dist       382999507.58116305
-    Class      "M1 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Korev_VII
-// Region : Inner Rim
-// Sector : Zaric Sector
-// Grid location : N9
-// X : 3369.05, Y : 505.2, Z : 560.2212776181352
-Star "Korev System" // system name
-{
-    RA         0.08729939989063254
-    Dec        24.5859499244239
-    Dist       382999439.80261534
-    Class      "M3 II" // random
-}
-
-// http://starwars.wikia.com/wiki/Kroctar
-// Region : Inner Rim
-// Sector : Shataum Sector
-// Grid location : N7
-// X : 3513.23, Y : 3094.06, Z : 569.0591897621694
-Star "Kroctar System" // system name
-{
-    RA         0.08729796195813161
-    Dec        24.586337211566484
-    Dist       382999430.99257
-    Class      "M3 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Ktil
-// Region : Inner Rim
-// Sector : Ktilac Regions Sector
-// Grid location : N9
-// X : 4289.22, Y : 1313.99, Z : -90.43772372138818
-Star "Ktil System" // system name
-{
-    RA         0.08729022295119879
-    Dec        24.58607091655427
-    Dist       383000090.47723794
-    Class      "M4 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Laertos
-// Region : Inner Rim
-// Sector : 
-// Grid location : L14
-// X : 777.04, Y : -7146.83, Z : -79.831902090011
-Star "Laertos System" // system name
-{
-    RA         0.08732525046070794
-    Dec        24.58480520070391
-    Dist       383000079.86552954
-    Class      "M9 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Lalmy'ash
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5217.08, Y : 790.01, Z : -3.470117052366035
-Star "Lalmy'ash System" // system name
-{
-    RA         0.08728096924932022
-    Dec        24.585992530660143
-    Dist       383000003.51679116
-    Class      "M4 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Las_Lagon
-// Region : Inner Rim
-// Sector : 
-// Grid location : M13
-// X : 2168.27, Y : -5872.12, Z : -263.8584314309901
-Star "Las Lagon System" // system name
-{
-    RA         0.08731137552058198
-    Dec        24.584995894152613
-    Dist       383000263.88283694
-    Class      "M9 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Lemmi
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5276.13, Y : 776.67, Z : 2.18117859314016
-Star "Lemmi System" // system name
-{
-    RA         0.08728038033370498
-    Dec        24.585990535038125
-    Dist       382999997.86620295
-    Class      "A1 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Levian_Two
-// Region : Inner Rim
-// Sector : 
-// Grid location : N8
-// X : 3876.65, Y : 2891.55, Z : 13.905923721668842
-Star "Levian System" // system name
-{
-    RA         0.08729433756454197
-    Dec        24.586306915475888
-    Dist       382999986.1466326
-    Class      "G8 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Lovola
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5064.61, Y : 832.54, Z : -0.6993470298367992
-Star "Lovola System" // system name
-{
-    RA         0.08728248985599077
-    Dec        24.585998893037974
-    Dist       383000000.7443014
-    Class      "G5 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Maires
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5068.84, Y : 859, Z : 3.040562578444913
-Star "Maires System" // system name
-{
-    RA         0.08728244766904861
-    Dec        24.586002851387832
-    Dist       382999997.00465345
-    Class      "M9 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Manaan
-// Region : Inner Rim
-// Sector : 
-// Grid location : O11
-// X : 4769.58, Y : -2162.9, Z : 6.432961561325669
-Star "Pyrshak System" // system name
-{
-    RA         0.08728543223522613
-    Dec        24.585550783195934
-    Dist       382999993.596738
-    Class      "G4 V" // 1 luminosity class (V) and temperature level (3 = cooler than sun) are arbitrary
-}
-
-// http://starwars.wikia.com/wiki/Manress
-// Region : Inner Rim
-// Sector : 
-// Grid location : N9
-// X : 4376.06, Y : 395.62, Z : 36.71399775748125
-Star "Manress System" // system name
-{
-    RA         0.08728935686807314
-    Dec        24.58593353100718
-    Dist       382999963.3193385
-    Class      "M5 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Mantessa
-// Region : Inner Rim
-// Sector : Orus Sector
-// Grid location : M8
-// X : 2363.34, Y : 1919.26, Z : -86.03835752735631
-Star "Mantessa System" // system name
-{
-    RA         0.08730943004749626
-    Dec        24.586161463319126
-    Dist       383000086.067069
-    Class      "G4 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Mattri_system
-// Region : Inner Rim
-// Sector : 
-// Grid location : O10
-// X : 5218.99, Y : -1351.46, Z : -192.86396680085403
-Star "Mattri System" // system name
-{
-    RA         0.08728095022633166
-    Dec        24.585672172399214
-    Dist       383000192.9003194
-    Class      "M6 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Meastrinnar
-// Region : Inner Rim
-// Sector : 
-// Grid location : K8
-// X : -1414.7, Y : 2131.42, Z : -377.4102973512309
-Star "Meastrinnar System" // system name
-{
-    RA         0.08734710900946971
-    Dec        24.586193201397563
-    Dist       383000377.4366325
-    Class      "M9 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Merson
-// Region : Inner Rim
-// Sector : Airon Sector
-// Grid location : O10
-// X : 5510.68, Y : -547.58, Z : -534.7957434765926
-Star "Merson System" // system name
-{
-    RA         0.08727804120707582
-    Dec        24.585792430433226
-    Dist       383000534.83866245
-    Class      "G3 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Millinar
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5214.54, Y : 803.56, Z : -3.1012771149778984
-Star "Millinar System" // system name
-{
-    RA         0.08728099458108539
-    Dec        24.585994557704446
-    Dist       383000003.14802027
-    Class      "M6 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Milvayne
-// Region : Inner Rim
-// Sector : 
-// Grid location : L8
-// X : 750.7, Y : 2300.53, Z : -60.93447695925329
-Star "Gyrica System" // system name
-{
-    RA         0.08732551315320498
-    Dec        24.586218500325884
-    Dist       383000060.96085465
-    Class      "M4 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Mindabaal
-// Region : Inner Rim
-// Sector : 
-// Grid location : J13
-// X : -2400.27, Y : -5610.42, Z : -207.30996424624232
-Star "Mindabaal System" // system name
-{
-    RA         0.08735693825348137
-    Dec        24.585035043671507
-    Dist       383000207.3332868
-    Class      "M8 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Modus
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5099.27, Y : 883.08, Z : -3.611552757598603
-Star "Modus System" // system name
-{
-    RA         0.0872821441868015
-    Dec        24.58600645368387
-    Dist       383000003.6573615
-    Class      "M3 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Mokk_IX
-// Region : Inner Rim
-// Sector : 
-// Grid location : N10
-// X : 4285.49, Y : -781.38, Z : 158.57562629607992
-Star "Mokk System" // system name
-{
-    RA         0.08729026012327279
-    Dec        24.585757454990627
-    Dist       382999841.45072865
-    Class      "M3 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Moorja
-// Region : Inner Rim
-// Sector : 
-// Grid location : L15
-// X : 1136.29, Y : -7732.17, Z : -250.96131628367652
-Star "Moorja System" // system name
-{
-    RA         0.08732166761033196
-    Dec        24.584717635792163
-    Dist       383000251.0039535
-    Class      "M6 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Nantuker
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5161.38, Y : 673.05, Z : -3.5833202556581
-Star "Nantuker System" // system name
-{
-    RA         0.08728152475410295
-    Dec        24.585975033755812
-    Dist       383000003.62836546
-    Class      "M7 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Neshtab
-// Region : Inner Rim
-// Sector : 
-// Grid location : K8
-// X : -1377.72, Y : 2286.77, Z : 168.79200155465446
-Star "Neshtab System" // system name
-{
-    RA         0.08734674022213038
-    Dec        24.586216442263314
-    Dist       382999831.2359594
-    Class      "G5 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Norah
-// Region : Inner Rim
-// Sector : 
-// Grid location : L14
-// X : 1123.81, Y : -6325.69, Z : 447.09491121816245
-Star "Norah System" // system name
-{
-    RA         0.08732179205480597
-    Dec        24.584928040171146
-    Dist       382999552.929704
-    Class      "F4 IV"
-}
-
-// http://starwars.wikia.com/wiki/Nouane
-// Region : Inner Rim
-// Sector : Nouane Sector
-// Grid location : N8
-// X : 3049.47, Y : 2903.15, Z : -199.31365711166745
-Star "Nouane System" // system name
-{
-    RA         0.08730258717670622
-    Dec        24.586308650385757
-    Dist       383000199.3588864
-    Class      "G9 V"
-}
-
-// http://starwars.wikia.com/wiki/Novi
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5186.17, Y : 817.31, Z : 4.505196752160641
-Star "Novi System" // system name
-{
-    RA         0.08728127751848311
-    Dec        24.585996614676553
-    Dist       382999995.5412668
-    Class      "M6 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Obroa-skai
-// Region : Inner Rim
-// Sector : 
-// Grid location : N8
-// X : 4374.6, Y : 2625.23, Z : 158.45773331258692
-Star "Obroa-skai System" // system name
-{
-    RA         0.08728937141501368
-    Dec        24.586267074980608
-    Dist       382999841.59678674
-    Class      "F9 VI"
-}
-
-// http://starwars.wikia.com/wiki/Omonoth
-// Region : Inner Rim
-// Sector : 
-// Grid location : M8
-// X : 1904.68, Y : 1599.31, Z : -396.8705336600233
-Star "Omonoth System" // system name
-{
-    RA         0.08731400434947957
-    Dec        24.586113599209437
-    Dist       383000396.89343935
-    Class      "DC" // white dwarf
-}
-
-// http://starwars.wikia.com/wiki/Ord_Lithone
-// Region : Inner Rim
-// Sector : 
-// Grid location : L8
-// X : 139.35, Y : 2441.66, Z : 277.58342560164976
-Star "Ord Lithone System" // system name
-{
-    RA         0.08733161023974555
-    Dec        24.586239613599147
-    Dist       382999722.4439008
-    Class      "M6 V" // random
-}
-
 // http://starwars.wikia.com/wiki/Orelon
 // Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5270.26, Y : 969.3, Z : 1.4291001645441597
-Star "Orelon System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Orelon_system
+// Grid location : O-9
+// Known planet : Orelon
+// X : 5270.265, Y : 3100.6650000000004, Z : 2313.391741682089
+Star "Orelon/Orelon system" // Star name / system name
 {
-    RA         0.08728043887623249
-    Dec        24.586019351972123
-    Dist       382999998.6197116
+    RA         0.08728043850908158
+    Dec        24.58601935402417
+    Dist       382997686.65707034
     Class      "M4 IV" // random
 }
 
-// http://starwars.wikia.com/wiki/Pa_Tho_(planet)
+// https://starwars.fandom.com/wiki/Pa_Tho
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : K14
-// X : -839.36, Y : -7130.65, Z : -556.7705587236762
-Star "Pa Tho System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Pa_Tho_system
+// Grid location : K-14
+// Known planet : Pa Tho
+// X : -839.355, Y : -4999.289999999999, Z : 5923.400552755351
+Star "Pa Tho system" // system name
 {
-    RA         0.08734137105580167
-    Dec        24.584807622119605
-    Dist       383000556.8041061
+    RA         0.08734137114757146
+    Dec        24.58480760796969
+    Dist       382994076.6329953
     Class      "M8 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Paonid_system
 // Region : Inner Rim
-// Sector : 
-// Grid location : O8
-// X : 4821.24, Y : 2492.07, Z : 381.8943976497857
-Star "Paonid System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Anthos Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Anthos_sector
+// System wiki : http://starwars.wikia.com/wiki/Paonid_system
+// Grid location : O-8
+// Known planet : Paonid
+// X : 4821.24, Y : 4623.435, Z : -1844.9258940898003
+Star "Paonid system" // system name
 {
-    RA         0.08728491697485732
-    Dec        24.58624715499467
-    Dist       382999618.16385376
+    RA         0.087284917254418
+    Dec        24.58624715022532
+    Dist       383001844.9841451
     Class      "M4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Paqualis_III
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : L8
-// X : 1440.47, Y : 2487.03, Z : -18.767084809823018
-Star "Paqualis System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Paqualis_system/Legends
+// Grid location : L-8
+// Known planet : Paqualis III
+// X : 1440.48, Y : 4618.395, Z : 5368.059794856399
+Star "Paqualis system" // system name
 {
-    RA         0.08731863396910866
-    Dec        24.58624640030059
-    Dist       383000018.7976391
+    RA         0.08731863366731721
+    Dec        24.586246409270117
+    Dist       382994631.9707598
     Class      "G9 VI"
+}
+
+// https://starwars.fandom.com/wiki/Patrolia_system
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Patrolia_system
+// Grid location : L-14
+// Known planet : Patrolia
+// X : 92.76, Y : -4940.1, Z : 744.720007242995
+Star "Patrolia system" // system name
+{
+    RA         0.08733207488827817
+    Dec        24.58481647276573
+    Dist       382999255.31186384
+    Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Pavo_Prime
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : N10
-// X : 3980.34, Y : -230.71, Z : -245.1285108963653
-Star "Pavo Prime System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Pavo_Prime_system
+// Grid location : N-10
+// Known planet : Pavo Prime
+// X : 3980.34, Y : 1900.6500000000003, Z : -1581.098779820279
+Star "Pavo Prime system" // system name
 {
-    RA         0.08729330347483766
-    Dec        24.585839833489793
-    Dist       383000245.15390986
+    RA         0.08729330361330544
+    Dec        24.585839831002026
+    Dist       383001581.1241786
     Class      "M4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Pengalan
 // Region : Inner Rim
-// Sector : 
-// Grid location : O8
-// X : 4991.08, Y : 2001.98, Z : 146.71643159086898
-Star "Pengalan System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Anthos Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Anthos_sector
+// System wiki : https://starwars.fandom.com/wiki/Pengalan_system
+// Grid location : O-8
+// Known planet : Pengalan IV
+// X : 4991.07, Y : 4133.34, Z : -8183.192397105669
+Star "Pengalan system" // system name
 {
-    RA         0.08728322316296916
-    Dec        24.586173838383715
-    Dist       382999853.3383928
+    RA         0.08728322434527731
+    Dec        24.58617382343975
+    Dist       383008183.24722004
     Class      "M8 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Per_Lupelo
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : L8
-// X : 1314.71, Y : 2315.04, Z : 373.7896238108683
-Star "Per Lupelo System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Per_Lupelo_system
+// Grid location : L-8
+// Known planet : Per Lupelo
+// X : 1314.72, Y : 4446.405000000001, Z : -5577.490006530726
+Star "Per Lupelo system" // system name
 {
-    RA         0.0873198881796694
-    Dec        24.58622067173788
-    Dist       382999626.2384429
+    RA         0.08731988828367551
+    Dec        24.586220660654224
+    Dist       383005577.51807266
     Class      "F8 V"
 }
 
 // http://starwars.wikia.com/wiki/Perithal_VI
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : N13
-// X : 3652.99, Y : -4952.29, Z : -173.26834520509652
-Star "Perithal System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Perithal_system
+// Grid location : N-13
+// Known planet : Perithal VI
+// X : 3652.995, Y : -2820.9149999999995, Z : -7593.395561329325
+Star "Perithal system" // system name
 {
-    RA         0.08729656817843169
-    Dec        24.58513349807514
-    Dist       383000173.29615444
+    RA         0.08729656883437209
+    Dec        24.58513350699869
+    Dist       383007593.42337006
     Class      "K8 IV"
 }
 
 // http://starwars.wikia.com/wiki/Phateem
 // Region : Inner Rim
-// Sector : 
-// Grid location : N8
-// X : 3153.04, Y : 2768.14, Z : -340.69109690085105
-Star "Phateem System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Nouane
+// Sector wiki : https://starwars.fandom.com/wiki/Nouane_(Allied_Region)
+// System wiki : https://starwars.fandom.com/wiki/Phateem_system
+// Grid location : N-8
+// Known planet : Phateem
+// X : 3153.045, Y : 4899.51, Z : 1758.6134045837634
+Star "Phateem system" // system name
 {
-    RA         0.08730155426911529
-    Dec        24.586288452989443
-    Dist       383000340.7354139
+    RA         0.08730155404688775
+    Dec        24.586288457006933
+    Dist       382998241.43091273
     Class      "M4 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Phelope
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5226.27, Y : 868.79, Z : 1.2533034642036602
-Star "Phelope System" // system name
+// https://starwars.fandom.com/wiki/Phelope_system
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Gateworlds
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Gateworlds
+// System wiki : https://starwars.fandom.com/wiki/Phelope_system
+// Grid location : O-9
+// Known planet : Phelope
+// X : 5226.27, Y : 3000.15, Z : 1734.7569386958844
+Star "Phelope system" // system name
 {
-    RA         0.08728087759537734
-    Dec        24.586004315943665
-    Dist       382999998.79410493
+    RA         0.08728087735946406
+    Dec        24.586004316479087
+    Dist       382998265.2904698
     Class      "M0 IV" // random
-}
-
-// http://starwars.wikia.com/wiki/Pitrolea
-// Region : Inner Rim
-// Sector : 
-// Grid location : L14
-// X : 92.75, Y : -7071.47, Z : 103.84051530032673
-Star "Pitrolea System" // system name
-{
-    RA         0.08733207498955776
-    Dec        24.58481647400236
-    Dist       382999896.1913557
-    Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Poderis
 // Region : Inner Rim
-// Sector : Orus Sector
-// Grid location : M8
-// X : 2694.38, Y : 1763.91, Z : -545.4030987000446
-Star "Poderis System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Orus sector
+// Sector wiki : https://starwars.fandom.com/wiki/Orus_sector
+// System wiki : https://starwars.fandom.com/wiki/Poderis_system
+// Grid location : M-8
+// Known planet : Poderis
+// X : 2694.39, Y : 3895.275, Z : 4759.252643924247
+Star "Poderis system" // system name
 {
-    RA         0.0873061285670034
-    Dec        24.586138222679363
-    Dist       383000545.43238443
+    RA         0.08730612809508921
+    Dec        24.586138230002337
+    Dist       382995240.7766422
     Class      "M6 V" // random
 }
 
+// http://starwars.wikia.com/wiki/Thyferra
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Jaso Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Jaso_sector
+// System wiki : https://starwars.fandom.com/wiki/Polith_system
+// Grid location : L-14
+// Known planet : Thyferra
+// X : 989.2649999999999, Y : -4502.25, Z : 5567.620449752087
+Star "Polith/Polith system/Thyferra system" // Star name / system name
+{
+    RA         0.08732313376269941
+    Dec        24.584881965605003
+    Dist       382994432.4072907
+    Class      "M2 IV" // TODO yellow-white star
+}
+
+
 // http://starwars.wikia.com/wiki/Porus_Vida
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : O9
-// X : 5782.25, Y : 557.06, Z : 176.5319030534771
-Star "Porus Vida System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Porus_Vida_system
+// Grid location : O-9
+// Known planet : Porus Vida
+// X : 5782.259999999999, Y : 2688.42, Z : 873.7350600291506
+Star "Porus Vida system" // system name
 {
-    RA         0.08727533269386141
-    Dec        24.585957682150163
-    Dist       382999823.5211806
+    RA         0.08727533248915334
+    Dec        24.58595768138631
+    Dist       382999126.3180238
     Class      "M2 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Antar
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Antar and Prindaar
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Prindaar_system/Legends
+// Grid location : N-12
+// Known planet : Antar
+// X : 4242.495000000001, Y : -1024.6649999999995, Z : 3592.2404699393874
+StarBarycenter "Prindaar system/Antar system" // system name TODO binary system
+{
+    RA         0.0872906885399496
+    Dec        24.58540221140845
+    Dist       382996407.7843981
+    Class      "K7 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Manaan
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Pyrshak_system
+// Grid location : O-11
+// Known planet : Manaan
+// X : 4769.58, Y : -31.529999999999745, Z : -5348.92401241473
+Star "Pyrshak/Pyrshak system" // Star name / system name
+{
+    RA         0.08728543290034049
+    Dec        24.585550783261887
+    Dist       383005348.9537116
+    Class      "G4 V" // yellow-white star - 1 luminosity class (V) and temperature level (3 = cooler than sun) are arbitrary
 }
 
 // http://starwars.wikia.com/wiki/Quarzite
 // Region : Inner Rim
-// Sector : Sector
-// Grid location : M13
-// X : 2845.36, Y : -5562.91, Z : 106.50496176952754
-Star "Quarzite System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim                    
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Quarzite_system
+// Grid location : M-13
+// Known planet : Quarzite
+// X : 2845.3650000000002, Y : -3431.5350000000003, Z : 8630.92733819651
+Star "Quarzite system" // system name
 {
-    RA         0.08730462277379859
-    Dec        24.585042150616452
-    Dist       382999893.5209802
+    RA         0.08730462209232617
+    Dec        24.585042139938594
+    Dist       382991369.0986044
     Class      "M2 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Rafft
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim             
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Rafft_system
+// Grid location : J-8
+// Known planet : Rafft
+// X : -2039.4, Y : 4583.22, Z : -8655.997204667465
+Star "Rafft system" // system name
+{
+    RA         0.08735333879407305
+    Dec        24.58624112200477
+    Dist       383008656.0300565
+    Class      "M0 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Rainboh
 // Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5340.11, Y : 953.01, Z : -3.893957739854421
-Star "Rainboh System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster, Hapan Rim Worlds
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Hapan_Rim_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Rainboh_system
+// Grid location : O-9
+// Known planet : Rainboh
+// X : 5340.1050000000005, Y : 3084.375, Z : -2039.6343382281052
+Star "Rainboh system" // system name
 {
-    RA         0.08727974225204438
-    Dec        24.586016915025102
-    Dist       383000003.9436055
+    RA         0.08727974258498658
+    Dec        24.586016911824597
+    Dist       383002039.68398553
     Class      "G2 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Rasterous
 // Region : Inner Rim
-// Sector : 
-// Grid location : O10
-// X : 4600.36, Y : -1361.17, Z : -226.0888452289036
-Star "Rasterous System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Airon Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Airon_sector
+// System wiki : https://starwars.fandom.com/wiki/Rasterous_system
+// Grid location : O-10
+// Known planet : Rasterous
+// X : 4600.365, Y : 770.19, Z : -405.24908325596016
+Star "Rasterous system" // system name
 {
-    RA         0.08728711992051635
-    Dec        24.585670719799822
-    Dist       383000226.117248
+    RA         0.08728711989211245
+    Dec        24.58567071824995
+    Dist       383000405.277486
     Class      "M8 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Rbollea
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5282.48, Y : 828.96, Z : 1.1898138982864248
-Star "Rbollea System" // system name
+// https://starwars.fandom.com/wiki/Rbollea_system
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Interior Region
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Rifle_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Rbollea_system
+// Grid location : O-9
+// Known planet : Rbollea
+// X : 5282.475, Y : 2960.3250000000003, Z : 1644.5719945576552
+Star "Rbollea system" // system name
 {
-    RA         0.08728031700430229
-    Dec        24.585998357481696
-    Dist       382999998.8580558
+    RA         0.08728031682811432
+    Dec        24.585998358633937
+    Dist       382998355.4758752
     Class      "M7 VI" // random
 }
 
 // http://starwars.wikia.com/wiki/Reboam
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5402.15, Y : 805.08, Z : -4.7934845230707746
-Star "Reboam System" // system name
+// Region : Inner Rim, Transitory Mists
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Transitory_Mists
+// System wiki : https://starwars.fandom.com/wiki/Reboam_system
+// Grid location : O-9
+// Known planet : Reboam
+// X : 5402.16, Y : 2936.445, Z : 6759.457005536375
+Star "Reboam system" // system name
 {
-    RA         0.08727912351759752
-    Dec        24.585994785090453
-    Dist       383000004.84283954
+    RA         0.08727912246632254
+    Dec        24.5859947921009
+    Dist       382993240.5923505
     Class      "M5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Reecee
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : J8
-// X : -2003.23, Y : 1569.2, Z : -578.3699434970151
-Star "Reecee System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Reecee_system
+// Grid location : J-8
+// Known planet : Reecee
+// X : -2003.2350000000001, Y : 3700.5600000000004, Z : -1017.9525931991515
+Star "Reecee system" // system name
 {
-    RA         0.08735297849452889
-    Dec        24.586109094575992
-    Dist       383000578.39305985
+    RA         0.08735297852146458
+    Dec        24.58610909244464
+    Dist       383001017.9757095
     Class      "M8 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Relatta_system
 // Region : Inner Rim
-// Sector : 
-// Grid location : N8
-// X : 3364.05, Y : 1698.21, Z : -225.27059199639075
-Star "Relatta System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Anthos Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Anthos_sector
+// System wiki : https://starwars.fandom.com/wiki/Relatta_system
+// Grid location : N-8
+// Known planet : Relatta
+// X : 3364.05, Y : 3829.5750000000003, Z : -1521.0261263869381
+Star "Relatta system" // system name
 {
-    RA         0.08729944982529189
-    Dec        24.58612839462727
-    Dist       383000225.30451167
+    RA         0.08729944993879751
+    Dec        24.58612839194109
+    Dist       383001521.0600459
     Class      "M4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Relephon
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5164.09, Y : 839.69, Z : -3.5663681090709165
-Star "Relephon System" // system name
+// Region : Inner Rim, Transitory Mists
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Transitory_Mists
+// System wiki : https://starwars.fandom.com/wiki/Relephon_system
+// Grid location : O-9
+// Known planet : Relephon
+// X : 5164.095, Y : 2971.05, Z : 3610.0287272986916
+Star "Relephon system" // system name
 {
-    RA         0.08728149772684897
-    Dec        24.585999962655592
-    Dist       383000003.61270624
+    RA         0.08728149719105552
+    Dec        24.58599996535314
+    Dist       382996390.01761127
     Class      "M3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Renillis_system
-// Region : Inner Rim
+// Region : Inner Rim, Trailing Sectors
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
 // Sector : 
-// Grid location : L14
-// X : 1341.57, Y : -7193.99, Z : 484.5373302541675
-Star "Renillis System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Renillis_system
+// Grid location : L-14
+// Known planet : Renillis
+// X : 1341.57, Y : -5062.619999999999, Z : 5532.6053686545665
+Star "Renillis system" // system name
 {
-    RA         0.08731962029657693
-    Dec        24.58479814457904
-    Dist       382999515.49847907
+    RA         0.08731962012022541
+    Dec        24.584798134596696
+    Dist       382994467.43044114
     Class      "M6 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Rondai
+// https://starwars.fandom.com/wiki/Rondai-2
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : J8
-// X : -1914.46, Y : 2591.72, Z : 196.18290622665108
-Star "Rondai System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Rondai_system
+// Grid location : J-8
+// Known planet : Rondai-2
+// X : -1914.465, Y : 4723.095, Z : 5166.124290399695
+Star "Rondai system" // system name
 {
-    RA         0.08735209321744684
-    Dec        24.586262062041417
-    Dist       382999803.8510008
+    RA         0.08735209351507688
+    Dec        24.58626207195813
+    Dist       382994833.9096171
     Class      "M7 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Ronyards
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : N13
-// X : 3462.96, Y : -5260.21, Z : 100.58260418191105
-Star "Ronyards System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Ronyards_system
+// Grid location : N-13
+// Known planet : Ronyards
+// X : 3462.96, Y : -3128.85, Z : 8083.879151025868
+Star "Ronyards system" // system name
 {
-    RA         0.08729846335165813
-    Dec        24.58508743374975
-    Dist       382999899.44583154
+    RA         0.08729846263175702
+    Dec        24.58508742249711
+    Dist       382991916.1492853
     Class      "G8 V"
 }
 
-// http://starwars.wikia.com/wiki/Roqoo
 // http://starwars.wikia.com/wiki/Roqoo_Depot
 // Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5433.4, Y : 935.73, Z : 1.2050832354639
-Star "Roqoo" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : Roqoo Depot
+// X : 5433.405, Y : 3067.0950000000003, Z : 6878.327518736798
+/*Location "Roqoo Depot (location) system" // system name
 {
-    RA         0.08727881178348043
-    Dec        24.586014330600257
-    Dist       382999998.8457379
+    RA         0.08727881083275421
+    Dec        24.586014337480147
+    Dist       382993121.72330326
     Class      "O4 III"
-}
+}*/
 
 // http://starwars.wikia.com/wiki/Roundtree_system
-// Region : Inner Rim
+// Region : Inner Rim, Trailing Sectors
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
 // Sector : 
-// Grid location : M14
-// X : 2042.04, Y : -6999.8, Z : -172.22735824993902
-Star "Roundtree System" // system name
+// Sector wiki : 
+// System wiki : http://starwars.wikia.com/wiki/Roundtree_system
+// Grid location : M-14
+// Known planet : Roundtree
+// X : 2042.04, Y : -4868.43, Z : -5381.471015972447
+Star "Roundtree system" // system name
 {
-    RA         0.08731263442628664
-    Dec        24.584827196171265
-    Dist       383000172.26374406
+    RA         0.08731263470327816
+    Dec        24.584827206076902
+    Dist       383005381.5074013
     Class      "M2 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Rynmar
 // Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5303.91, Y : 936.92, Z : 3.828984601774721
-Star "Rynmar System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Rynmar_system
+// Grid location : O-9
+// Known planet : Rynmar
+// X : 5303.91, Y : 3068.28, Z : -4959.37744477625
+Star "Rynmar system" // system name
 {
-    RA         0.08728010327921046
-    Dec        24.586014508013253
-    Dist       382999996.22003084
+    RA         0.08728010396467767
+    Dec        24.586014500569203
+    Dist       383004959.42645955
     Class      "M3 VI" // random
 }
 
 // http://starwars.wikia.com/wiki/Sagar_system
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : N13
-// X : 3451.87, Y : -5034.12, Z : -293.5077662042865
-Star "Sagar System" // system name
+// Sector wiki : 
+// System wiki : http://starwars.wikia.com/wiki/Sagar_system
+// Grid location : N-13
+// Known planet : Sagar
+// X : 3451.86, Y : -2902.7549999999997, Z : 6639.083726687237
+Star "Sagar system" // system name
 {
-    RA         0.0872985739894068
-    Dec        24.58512125666704
-    Dist       383000293.5343215
+    RA         0.08729857346599228
+    Dec        24.58512124805877
+    Dist       382993360.942829
     Class      "M0 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Sargon
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5142.93, Y : 908.48, Z : -0.5447654496413854
-Star "Sargon System" // system name
+// https://starwars.fandom.com/wiki/Sargon_system
+// Region : Inner Rim, The Slice
+// Region wiki : https://starwars.fandom.com/wiki/Rbollea_system
+// Sector : Hapes Cluster, Gateworlds
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Gateworlds
+// System wiki : https://starwars.fandom.com/wiki/Sargon_system
+// Grid location : O-9
+// Known planet : Sargon
+// X : 5142.93, Y : 3039.84, Z : -3482.743348435176
+Star "Sargon system" // system name
 {
-    RA         0.08728170875841698
-    Dec        24.586010253459797
-    Dist       383000000.5913587
+    RA         0.0872817092247477
+    Dec        24.5860102478293
+    Dist       383003482.7899412
     Class      "F1 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Selab
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5240.15, Y : 774.13, Z : 1.190167191932491
-Star "Selab System" // system name
+// Region : Inner Rim, Transitory Mists
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Transitory_Mists
+// System wiki : https://starwars.fandom.com/wiki/Selab_system
+// Grid location : O-9
+// Known planet : Selab
+// X : 5240.145, Y : 2905.5, Z : 3091.4790838529525
+Star "Selab system" // system name
 {
-    RA         0.08728073916798437
-    Dec        24.585990155059765
-    Dist       382999998.8567011
+    RA         0.08728073879617335
+    Dec        24.58599015856687
+    Dist       382996908.5677848
     Class      "K6 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Selvaris
-// Region : Inner Rim
-// Sector : 
-// Grid location : I9
-// X : -3140.83, Y : 983.96, Z : 578.5821051691764
-Star "Selvaris System" // system name
+// https://starwars.fandom.com/wiki/Sennex_system
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Lorelli Reach
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Lorelli_Reach
+// System wiki : https://starwars.fandom.com/wiki/Sennex_system
+// Grid location : O-9
+// Known planet : Sennex
+// X : 5027.565, Y : 2856.75, Z : -3089.757116703207
+Star "Sennex system" // system name
 {
-    RA         0.08736432403394549
-    Dec        24.586021545771366
-    Dist       382999421.4434433
-    Class      "M8 III" // random
-}
-
-// http://starwars.wikia.com/wiki/Sennex
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5027.57, Y : 725.39, Z : -1.9516204197403422
-Star "Sennex System" // system name
-{
-    RA         0.0872828592618412
-    Dec        24.5859828636821
-    Dist       383000001.9952725
+    RA         0.08728285971594575
+    Dec        24.585982858740696
+    Dist       383003089.8007684
     Class      "F3 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Shalam
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : M7
-// X : 2805.35, Y : 3075.15, Z : -350.8666883611892
-Star "Shalam System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Shalam_system/Legends
+// Grid location : M-7
+// Known planet : Shalam
+// X : 2805.345, Y : 5206.514999999999, Z : -7177.697936902476
+Star "Shalam system" // system name
 {
-    RA         0.08730502183328023
-    Dec        24.586334380805873
-    Dist       383000350.9123513
+    RA         0.08730502238183604
+    Dec        24.586334366174903
+    Dist       383007177.74359894
     Class      "M8 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Shasfath
+// https://starwars.fandom.com/wiki/Shasfath_Cluster
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : J14
-// X : -2786.8, Y : -6855.08, Z : 382.36757175170203
-Star "Shasfath System" // system name
+// Sector wiki : 
+// System wiki : 
+// Grid location : J-14
+// Known planet : 
+// X : -2786.79, Y : -4723.7249999999985, Z : 5440.870319405259
+Star "Shasfath Cluster system (assumed)" // system name
 {
-    RA         0.08736079321805963
-    Dec        24.58484884486467
-    Dist       382999617.6716968
+    RA         0.087360793485413
+    Dec        24.584848833287342
+    Dist       382994559.1689498
     Class      "K4 V" // random
-}
-
-// http://starwars.wikia.com/wiki/Shedu_Maad
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5375.69, Y : 892.65, Z : 0.5668242961610552
-Star "Maad System" // system name
-{
-    RA         0.08727938740654372
-    Dec        24.58600788533529
-    Dist       382999999.4828399
-    Class      "M6 VI" // random
 }
 
 // http://starwars.wikia.com/wiki/Shibric
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : N14
-// X : 3527.59, Y : -6558.71, Z : 354.378308477436
-Star "Shibric System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Shibric_system
+// Grid location : N-14
+// Known planet : Shibric
+// X : 3527.5950000000003, Y : -4427.355, Z : -6471.714915493189
+Star "Shibric system" // system name
 {
-    RA         0.08729781876312291
-    Dec        24.584893181119664
-    Dist       382999645.66352606
+    RA         0.08729781934027193
+    Dec        24.58489319067985
+    Dist       383006471.7567496
     Class      "M2 III" // random
+}
+
+// http://starwars.wikia.com/wiki/Telti
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Airon Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Airon_sector
+// System wiki : https://starwars.fandom.com/wiki/Sistooine_system
+// Grid location : N-10
+// Known planet : Telti
+// X : 4303.53, Y : 2026.8750000000002, Z : 3179.4542033141447
+Star "Sistooine system" // system name
+{
+    RA         0.08729007986894056
+    Dec        24.585858717616624
+    Dist       382996820.5753382
+    Class      "M9 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Sivoria
 // Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5183.63, Y : 790.43, Z : -2.9368761357638595
-Star "Sivoria System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Sivoria_system
+// Grid location : O-9
+// Known planet : Sivoria
+// X : 5183.625, Y : 2921.79, Z : 5124.125624927193
+Star "Sivoria system" // system name
 {
-    RA         0.08728130285130342
-    Dec        24.585992593491632
-    Dist       383000002.9830993
+    RA         0.08728130220911226
+    Dec        24.585992597846907
+    Dist       382994875.9205986
     Class      "M9 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Sochi
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : M9
-// X : 2899.38, Y : 970, Z : 535.8123020098392
-Star "Sochi System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Sochi_system
+// Grid location : M-9
+// Known planet : Sochi
+// X : 2899.38, Y : 3101.3700000000003, Z : -8203.714304596562
+Star "Sochi system" // system name
 {
-    RA         0.08730408399136556
-    Dec        24.586019457337596
-    Dist       382999464.21122926
+    RA         0.08730408465117448
+    Dec        24.586019446750964
+    Dist       383008203.73783535
     Class      "M3 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Spirana
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : N13
-// X : 3856.89, Y : -5153.41, Z : 474.8637834387075
-Star "Spirana System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Spirana/Legends
+// Grid location : N-13
+// Known planet : Spirana
+// X : 3856.8899999999994, Y : -3022.0499999999997, Z : 2312.0776938775884
+Star "Spirana system" // system name
 {
-    RA         0.08729453458781092
-    Dec        24.585103410307582
-    Dist       382999525.1675591
+    RA         0.08729453440329495
+    Dec        24.585103406642954
+    Dist       382997687.95364887
     Class      "G3 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Stalsinek
+// https://starwars.fandom.com/wiki/Stalsinek_IV
 // Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5126.03, Y : 704.56, Z : 3.3446509388756844
-Star "Stalsinek System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Stalsinek_system
+// Grid location : O-9
+// Known planet : Stalsinek IV
+// X : 5126.04, Y : 2835.9300000000003, Z : 1062.7425612813495
+Star "Stalsinek system" // system name
 {
-    RA         0.08728187730422894
-    Dec        24.585979747575486
-    Dist       382999996.70015156
+    RA         0.08728187706308868
+    Dec        24.58597974874898
+    Dist       382998937.30224144
+    Class      "M5 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Kamsul
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Airon Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Airon_sector
+// System wiki : https://starwars.fandom.com/wiki/Stenness_system
+// Grid location : O-10
+// Known planet : Kamsul
+// X : 4808.73, Y : 1575.2700000000002, Z : -4455.744168193862
+Star "Stenness system" // system name
+{
+    RA         0.08728504234490898
+    Dec        24.58579115345322
+    Dist       383004455.7775952
     Class      "M5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Sukkult
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : L14
-// X : 1358.22, Y : -7464.47, Z : 525.9086377170161
-Star "Sukkult System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Sukkult_system
+// Grid location : L-14
+// Known planet : Sukkult
+// X : 1358.22, Y : -5333.0999999999985, Z : -4121.28821182357
+Star "Sukkult system" // system name
 {
-    RA         0.08731945424186119
-    Dec        24.584757681354358
-    Dist       382999474.13090116
+    RA         0.08731945440621923
+    Dec        24.584757691034724
+    Dist       383004121.3277502
     Class      "M2 II" // random
 }
 
 // http://starwars.wikia.com/wiki/Taanab
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : O8
-// X : 5300.39, Y : 1652.44, Z : -50.41851502105021
-Star "Taanab System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Taanab_system/Legends
+// Grid location : O-8
+// Known planet : Taanab
+// X : 5300.384999999999, Y : 3783.795, Z : 5059.383248579792
+Star "Tive/Taanab system" // Star name / system name
 {
-    RA         0.08728013839220611
-    Dec        24.58612154781967
-    Dist       383000050.4738823
+    RA         0.08728013773680908
+    Dec        24.586121553127718
+    Dist       382994940.67211926
     Class      "K1 V"
 }
 
-// http://starwars.wikia.com/wiki/Talcharaim
+// https://starwars.fandom.com/wiki/Tala_9
 // Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5187.02, Y : 775.62, Z : 0.9217536956899464
-Star "Talcharaim System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Tala_system
+// Grid location : N-9
+// Known planet : Tala 9
+// X : 3142.1099999999997, Y : 3032.01, Z : -8608.865028977067
+Star "Tala/Tala system" // Star name / system name
 {
-    RA         0.08728126904178467
-    Dec        24.58599037795949
-    Dist       382999999.1244027
+    RA         0.08730166395208969
+    Dec        24.586009070422225
+    Dist       383008608.8899187
+    Class      "G5 Iab" // random
+}
+
+// http://starwars.wikia.com/wiki/Talcharaim
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Interior Region
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Rifle_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Talcharaim_system
+// Grid location : O-9
+// Known planet : Talcharaim
+// X : 5187.014999999999, Y : 2906.985, Z : 4470.9377025863505
+Star "Talcharaim system" // system name
+{
+    RA         0.08728126848788888
+    Dec        24.58599038228704
+    Dist       382995529.10845417
     Class      "M0 V" // random
+}
+
+// https://starwars.fandom.com/wiki/Tantara_system
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Tantara_system
+// Grid location : K-8
+// Known planet : Tantara
+// X : ?, Y : ?, Z : ?
+/*StarBarycenter "Tantara system" // system name // Star names : Centis Major and Renaant
+{
+    RA         ?
+    Dec        ?
+    Dist       ?
+    Class      "K8 V" // random
+}*/
+
+// http://starwars.wikia.com/wiki/Tasariq
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Tasar_system
+// Grid location : J-14
+// Known planet : Tasariq
+// X : -2413.215, Y : -4128.209999999999, Z : -1676.7095176485261
+Star "Gyrlat/Tasar system" // Star name / system name
+{
+    RA         0.08735706726357678
+    Dec        24.584937933487065
+    Dist       383001676.7393684
+    Class      "M0 II" // random
+}
+
+// http://starwars.wikia.com/wiki/Mindor
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Taspan_system
+// Grid location : M-8
+// Known planet : Mindor
+// X : 2013.7949999999998, Y : 4337.280000000001, Z : 819.0782333981196
+Star "Taspan/Taspan system" // Star name / system name
+{
+    RA         0.08731291606596027
+    Dec        24.586204346919093
+    Dist       382999180.9516196
+    Class      "M5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Tauber
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : Jaso Sector
-// Grid location : L14
-// X : 1114.1, Y : -6854.16, Z : -352.1462740381709
-Star "Tauber System" // system name
+// Sector wiki : https://starwars.fandom.com/wiki/Jaso_sector
+// System wiki : https://starwars.fandom.com/wiki/Tauber_system
+// Grid location : L-14
+// Known planet : Tauber
+// X : 1114.095, Y : -4722.795, Z : -141.1421347505319
+Star "Tauber system" // system name
 {
-    RA         0.08732188891744744
-    Dec        24.58484898384931
-    Dist       383000352.17701286
+    RA         0.08732188896119183
+    Dec        24.584848982712085
+    Dist       383000141.1728737
     Class      "M0 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Cona
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Inner Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Inner_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Teke_Ro_system
+// Grid location : O-11
+// Known planet : Cona
+// X : 4904.13, Y : 329.10000000000036, Z : 5820.698377960731
+Star "Teke Ro/Teke Ro system" // Star name / system name
+{
+    RA         0.0872840896046026
+    Dec        24.585604733231357
+    Dist       382994179.3331614
+    Class      "B2 III" // blue giant
 }
 
 // http://starwars.wikia.com/wiki/Telerath
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : Nouane Sector
-// Grid location : N7
-// X : 3356.5, Y : 3160.64, Z : 518.6213517144629
-Star "Telerath System" // system name
+// Sector wiki : https://starwars.fandom.com/wiki/Nouane_sector
+// System wiki : https://starwars.fandom.com/wiki/Telerath_system
+// Grid location : N-7
+// Known planet : Telerath
+// X : 3356.49, Y : 5292, Z : -2997.226298566534
+Star "Telerath system" // system name
 {
-    RA         0.0872995250575556
-    Dec        24.586347171667626
-    Dist       382999481.42991656
+    RA         0.08729952546457587
+    Dec        24.586347162904364
+    Dist       383002997.2775662
     Class      "M7 V" // random
 }
 
-// http://starwars.wikia.com/wiki/Telti
+// http://starwars.wikia.com/wiki/Telkur_Station
 // Region : Inner Rim
-// Sector : 
-// Grid location : N10
-// X : 4303.53, Y : -104.49, Z : 100.60697816602976
-Star "Sistooine System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : 
+// Grid location : O-9
+// Known planet : 
+// X : 5044.335, Y : 2760.2400000000002, Z : 1040.9039821516262
+/*Location "Telkur Station"
 {
-    RA         0.08729008021396553
-    Dec        24.585858715927113
-    Dist       382999899.4225631
-    Class      "M9 V" // random
-}
+    RA         0.08728269192490486
+    Dec        24.58596842567169
+    Dist       382998959.1391828
+    Class      "M1 IV" // random
+}*/
 
 // http://starwars.wikia.com/wiki/Terephon
 // Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5337.86, Y : 911.7, Z : 2.8775960568141645
-Star "Terephon System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Terephon_system
+// Grid location : O-9
+// Known planet : Terephon
+// X : 5337.8550000000005, Y : 3043.0650000000005, Z : 7662.385753878135
+Star "Terephon system" // system name
 {
-    RA         0.08727976469070325
-    Dec        24.586010735167285
-    Dist       382999997.17168987
+    RA         0.0872797636759109
+    Dec        24.586010743523584
+    Dist       382992337.6635329
     Class      "M3 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Theselon
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5216.44, Y : 818.8, Z : 1.0894788483563307
-Star "Theselon System" // system name
+// https://starwars.fandom.com/wiki/Theselon_system
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Interior Region
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Rifle_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Theselon_system
+// Grid location : O-9
+// Known planet : Theselon
+// X : 5216.445, Y : 2950.155, Z : -5102.674354038938
+Star "Theselon system" // system name
 {
-    RA         0.08728097563152046
-    Dec        24.585996837572647
-    Dist       382999998.95740724
+    RA         0.08728097627491005
+    Dec        24.58599682944764
+    Dist       383005102.72123945
     Class      "M4 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Thrakia
 // Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5275.71, Y : 761.43, Z : 4.725148294281638
-Star "Thrakia System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Thrakia_system
+// Grid location : O-9
+// Known planet : Thrakia
+// X : 5275.71, Y : 2892.795, Z : 4737.804909130713
+Star "Thrakia system" // system name
 {
-    RA         0.08728038452208092
-    Dec        24.585988255177593
-    Dist       382999995.322112
+    RA         0.08728038387185551
+    Dec        24.58598825977761
+    Dist       382995262.2423518
     Class      "K0 VI" // random
 }
 
-// http://starwars.wikia.com/wiki/Tinta
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5274.86, Y : 835.31, Z : -3.0633362530957875
-Star "Tinta System" // system name
+// https://starwars.fandom.com/wiki/Tinta_system
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Interior Region
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Rifle_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Tinta_system
+// Grid location : O-9
+// Known planet : Tinta
+// X : 5274.855, Y : 2966.67, Z : 2148.6801947947297
+Star "Tinta system" // system name
 {
-    RA         0.08728039300033316
-    Dec        24.585999307419854
-    Dist       383000003.11115
+    RA         0.08728039275464464
+    Dec        24.585999308417254
+    Dist       382997851.3676191
     Class      "M8 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Tirahnn
 // Region : Inner Rim
-// Sector : Zeemacht Cluster Sector
-// Grid location : N8
-// X : 3936.91, Y : 1792.53, Z : 253.7672676357372
-Star "Tirahnn System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Zeemacht Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Zeemacht_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Tirahnn_system
+// Grid location : N-8
+// Known planet : Tirahnn
+// X : 3936.8999999999996, Y : 3923.8950000000004, Z : -8867.426125402502
+Star "Tirahnn/Tirahnn system" // Star name / system name
 {
-    RA         0.08729373655756804
-    Dec        24.586142505373857
-    Dist       382999746.27306694
+    RA         0.08729373759233948
+    Dec        24.586142490646605
+    Dist       383008867.46645886
     Class      "M1 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Tomo-Reth
-// Region : Inner Rim
-// Sector : 
-// Grid location : L14
-// X : 1276.38, Y : -6087.11, Z : -410.50474724534183
-Star "Tomo-Reth System" // system name
+// Region : Inner Rim, Trailing Sectors
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Trailing_Sectors/Legends
+// Sector : Jaso Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Jaso_sector
+// System wiki : https://starwars.fandom.com/wiki/Tomo-Reth_system
+// Grid location : L-14
+// Known planet : Tomo-Reth
+// X : 1276.3799999999999, Y : -3955.7400000000002, Z : 5959.372960902497
+Star "Tomo-Reth system" // system name
 {
-    RA         0.08732027047716767
-    Dec        24.584963732470186
-    Dist       383000410.5273021
+    RA         0.08732027026545287
+    Dec        24.58496372262803
+    Dist       382994040.64959425
     Class      "M4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Trevura
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : K14
-// X : -1024.3, Y : -7071.47, Z : -311.81044809882974
-Star "Trevura System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Trevura_system
+// Grid location : K-14
+// Known planet : Trevura
+// X : -1024.305, Y : -4940.1, Z : -1434.8445512770625
+Star "Trevura system" // system name
 {
-    RA         0.08734321549506974
-    Dec        24.584816474804384
-    Dist       383000311.8436776
+    RA         0.08734321551498152
+    Dec        24.58481647697135
+    Dist       383001434.8777806
     Class      "G4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Truuine
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : O11
-// X : 4575.39, Y : -2792.62, Z : 182.74168454373387
-Star "Truuine System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Truuine_system
+// Grid location : O-11
+// Known planet : Truuine
+// X : 4575.39, Y : -661.2599999999998, Z : 3437.68766755043
+Star "Truuine system" // system name
 {
-    RA         0.08728736890135866
-    Dec        24.585456578714677
-    Dist       382999817.28621554
+    RA         0.08728736851355685
+    Dec        24.585456576377993
+    Dist       382996562.3402328
     Class      "K6 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Tumani
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5260.47, Y : 841.66, Z : -4.5783172252018325
-Star "Tumani System" // system name
+// https://starwars.fandom.com/wiki/Tumani_system
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Interior Region
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Rifle_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Tumani_system
+// Grid location : O-9
+// Known planet : Tumani
+// X : 5260.469999999999, Y : 2973.0150000000003, Z : -6006.152370821054
+Star "Tumani system" // system name
 {
-    RA         0.08728053651425006
-    Dec        24.586000257361167
-    Dist       383000004.6259823
+    RA         0.08728053733633508
+    Dec        24.586000248148046
+    Dist       383006006.20003504
     Class      "M5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Ukatis
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : L15
-// X : 480.21, Y : -7733.56, Z : 237.01502819876112
-Star "Ukatis System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Ukatis_system
+// Grid location : L-15
+// Known planet : Ukatis
+// X : 480.21000000000004, Y : -5602.200000000001, Z : -8380.630128143834
+Star "Ukatis system" // system name
 {
-    RA         0.08732821078793616
-    Dec        24.584717426784223
-    Dist       382999763.0262449
+    RA         0.0873282108956929
+    Dec        24.584717444144836
+    Dist       383008380.67140037
     Class      "M5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Uphrades
-// Region : Inner Rim
-// Sector : Sector
-// Grid location : M8
-// X : 2570.1, Y : 2626.97, Z : -445.94132744691245
-Star "Uphrades System" // system name
+// Region : Inner Rim, Northern Dependencies
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Northern_Dependencies
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Uphrades_system
+// Grid location : M-8
+// Known planet : Uphrades
+// X : 2570.1, Y : 4758.33, Z : 4372.277464530582
+Star "Uphrades system" // system name
 {
-    RA         0.08730736802237267
-    Dec        24.58626733415676
-    Dist       383000445.9795091
+    RA         0.08730736769991343
+    Dec        24.58626734161589
+    Dist       382995627.7607175
     Class      "M1 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Ut
 // Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5255.81, Y : 789.37, Z : 1.519543614094319
-Star "Ut System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Ut_system
+// Grid location : O-9
+// Known planet : Ut
+// X : 5255.805, Y : 2920.7400000000002, Z : 7667.157172942347
+Star "Ut system" // system name
 {
-    RA         0.08728058298832053
-    Dec        24.58599243492354
-    Dist       382999998.5276552
+    RA         0.08728058198905451
+    Dec        24.585992443668847
+    Dist       382992332.89002675
     Class      "K5 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Vaklin
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : M14
-// X : 2853.48, Y : -7085.8, Z : -453.14767189039594
-Star "Vaklin System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Vaklin_system
+// Grid location : M-14
+// Known planet : Vaklin
+// X : 2853.48, Y : -4954.4400000000005, Z : -6093.449076691434
+Star "Vaklin system" // system name
 {
-    RA         0.08730454183333582
-    Dec        24.584814331349822
-    Dist       383000453.1903464
+    RA         0.0873045422524222
+    Dec        24.58481434076862
+    Dist       383006093.4917507
     Class      "M4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Vanik_system
 // Region : Inner Rim
-// Sector : 
-// Grid location : L14
-// X : 584.24, Y : -6168.95, Z : 337.8975674256451
-Star "Vanik System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Jaso Sector
+// Sector wiki : https://starwars.fandom.com/wiki/Jaso_sector
+// System wiki : https://starwars.fandom.com/wiki/Vanik_system
+// Grid location : L-14
+// Known planet : Vanik
+// X : 586.35, Y : -4101.09, Z : -75.03928841910408
+Star "Vanik system" // system name
 {
-    RA         0.08732717327837158
-    Dec        24.584951488257097
-    Dist       382999662.12416023
+    RA         0.08732715224129933
+    Dec        24.584941987983406
+    Dist       383000075.0616941
     Class      "M7 III" // random
 }
 
-// http://starwars.wikia.com/wiki/Vergill
+// http://starwars.wikia.com/wiki/Ord_Vaxal
 // Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5077.31, Y : 872.5, Z : 1.3667064980748052
-Star "Vergill System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Callia sector
+// Sector wiki : https://starwars.fandom.com/wiki/Callia_sector
+// System wiki : https://starwars.fandom.com/wiki/Vaxal_system
+// Grid location : N-13
+// Known planet : Ord Vaxal
+// X : 3863.82, Y : -3522.7799999999993, Z : -1266.700100457939
+Star "Vaxal/Vaxal system" // Star name / system name
 {
-    RA         0.08728236319664044
-    Dec        24.586004870949914
-    Dist       382999998.6787273
+    RA         0.08729446564897846
+    Dec        24.585028503241254
+    Dist       383001266.7357911
+    Class      "M2 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Vergill
+// Region : Inner Rim, Transitory Mists
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/Transitory_Mists
+// Sector : Hapes Cluster
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster
+// System wiki : https://starwars.fandom.com/wiki/Vergill_system
+// Grid location : O-9
+// Known planet : Vergill
+// X : 5077.305, Y : 3003.8550000000005, Z : -8359.639595785755
+Star "Vergill system" // system name
+{
+    RA         0.0872823643518978
+    Dec        24.586004858896313
+    Dist       383008359.68502843
     Class      "M4 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Virujansi
-// Region : Inner Rim
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
 // Sector : 
-// Grid location : O10
-// X : 5541.2, Y : -787.54, Z : 395.58515931382203
-Star "Virujansi System" // system name
+// Sector wiki : https://starwars.fandom.com/wiki/Airon_sector
+// System wiki : https://starwars.fandom.com/wiki/Virujansi_system
+// Grid location : O-10
+// Known planet : Virujansi
+// X : 5541.195, Y : 1343.8200000000002, Z : 5761.177202841053
+Star "Virujansi system" // system name
 {
-    RA         0.0872777366925438
-    Dec        24.585756533595063
-    Dist       382999604.457283
+    RA         0.08727773596819406
+    Dec        24.585756534915465
+    Dist       382994238.86524
     Class      "M7 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Voltare
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : K8
-// X : -1407.31, Y : 2035.25, Z : 23.653898946995014
-Star "Voltare System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Voltare_system
+// Grid location : K-8
+// Known planet : Voltare
+// X : -1407.3, Y : 4166.610000000001, Z : -3144.2816395241057
+Star "Voltare system" // system name
 {
-    RA         0.08734703532261898
-    Dec        24.586178815288694
-    Dist       382999976.3713507
+    RA         0.08734703510679781
+    Dec        24.586178808637104
+    Dist       383003144.3068888
     Class      "M6 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Vorsia_system
-// Region : Inner Rim
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
 // Sector : 
-// Grid location : N9
-// X : 3523.02, Y : 327.66, Z : -150.00650871683416
-Star "Vorsia System" // system name
+// Sector wiki : 
+// System wiki : http://starwars.wikia.com/wiki/Vorsia_system
+// Grid location : N-9
+// Known planet : Vorsia
+// X : 3523.02, Y : 2459.025, Z : -809.0665640543585
+Star "Vorsia system" // system name
 {
-    RA         0.08729786438675788
-    Dec        24.585923364191938
-    Dist       383000150.0306059
+    RA         0.08729786444721854
+    Dec        24.58592336281094
+    Dist       383000809.0906613
     Class      "K6 V" // random
 }
 
 // http://starwars.wikia.com/wiki/Vurdon_Ka
 // Region : Inner Rim
-// Sector : Darlonn Sector
-// Grid location : M9
-// X : 2535.33, Y : 1416.22, Z : 449.4611142364786
-Star "Vurdon Ka System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Darlonn sector
+// Sector wiki : https://starwars.fandom.com/wiki/Darlonn_sector
+// System wiki : https://starwars.fandom.com/wiki/Vurdon_Ka_system
+// Grid location : M-9
+// Known planet : Vurdon Ka
+// X : 2535.33, Y : 3547.5750000000003, Z : 3546.389912657897
+Star "Vurdon Ka system" // system name
 {
-    RA         0.0873077147294792
-    Dec        24.58608621063439
-    Dist       382999550.5637073
+    RA         0.08730771452502122
+    Dec        24.586086212681764
+    Dist       382996453.634909
     Class      "M0 II" // random
 }
 
 // http://starwars.wikia.com/wiki/Walalla
 // Region : Inner Rim
-// Sector : Seventh Security Zone Sector
-// Grid location : J13
-// X : -2322.59, Y : -5937.77, Z : 599.5936200913673
-Star "Walalla System" // system name
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : Seventh Security Zone
+// Sector wiki : https://starwars.fandom.com/wiki/Seventh_Security_Zone
+// System wiki : https://starwars.fandom.com/wiki/Walalla_system
+// Grid location : J-13
+// Known planet : Walalla
+// X : -2322.585, Y : -3806.4, Z : 8146.344328774429
+Star "Walalla system" // system name
 {
-    RA         0.0873561635879667
-    Dec        24.584986071810558
-    Dist       382999400.43233705
+    RA         0.0873561639945321
+    Dec        24.58498606059013
+    Dist       382991853.6816288
     Class      "M4 IV" // random
 }
 
-// http://starwars.wikia.com/wiki/Wodan
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5153.25, Y : 826.72, Z : 1.1884139157990106
-Star "Wodan System" // system name
+// https://starwars.fandom.com/wiki/Wodan_system
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Rifle Worlds
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Rifle_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Wodan_system
+// Grid location : O-9
+// Known planet : Wodan
+// X : 5153.25, Y : 2958.09, Z : 4339.105310401899
+Star "Wodan system" // system name
 {
-    RA         0.08728160583521773
-    Dec        24.585998022383663
-    Dist       382999998.8576778
+    RA         0.08728160525311292
+    Dec        24.585998027395796
+    Dist       382995660.9407819
     Class      "M7 III" // random
 }
 
 // http://starwars.wikia.com/wiki/Wroona
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : L15
-// X : 1459.48, Y : -7762.69, Z : 488.3860151917279
-Star "Wroona System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Wroona_system
+// Grid location : L-15
+// Known planet : Wroona
+// X : 1459.47, Y : -5631.33, Z : -5863.078733444143
+Star "Wroona system" // system name
 {
-    RA         0.08731844436015405
-    Dec        24.584713068458235
-    Dist       382999511.6581648
+    RA         0.08731844470126325
+    Dec        24.584713080932502
+    Dist       383005863.1229128
     Class      "M3 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Xeron
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : M14
-// X : 2007.37, Y : -7196.76, Z : -160.29586306012004
-Star "Xeron System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Xeron_system
+// Grid location : M-14
+// Known planet : Xeron
+// X : 2007.3600000000001, Y : -5065.395, Z : 5820.99590696119
+Star "Xeron system" // system name
 {
-    RA         0.0873129801948157
-    Dec        24.584797731469706
-    Dist       383000160.3346198
+    RA         0.08731297998189573
+    Dec        24.584797718887494
+    Dist       382994179.04285043
     Class      "M0 V" // random
+}
+
+// http://starwars.wikia.com/wiki/Yag%27Dhul
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Yag%27Dhul_system
+// Grid location : L-14
+// Known planet : Yag'Dhul
+// X : 1297.185, Y : -5216.594999999999, Z : -2042.6818335900002
+Star "Yag'Dhul system" // system name
+{
+    RA         0.08732006304101722
+    Dec        24.584775115449524
+    Dist       383002042.71955603
+    Class      "M5 II" // random
 }
 
 // http://starwars.wikia.com/wiki/Yn
 // Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
 // Sector : 
-// Grid location : K14
-// X : -584.14, Y : -6316.9, Z : -411.2377352135045
-Star "Yn System" // system name
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Yn_system
+// Grid location : K-14
+// Known planet : Yn
+// X : -584.13, Y : -4185.539999999999, Z : 6304.768029923672
+Star "Yn system" // system name
 {
-    RA         0.08733882571291704
-    Dec        24.5849293565365
-    Dist       383000411.26105094
+    RA         0.08733882571534093
+    Dec        24.58492934406073
+    Dist       382993695.25528634
     Class      "M7 IV" // random
 }
 
 // http://starwars.wikia.com/wiki/Zadaria
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5226.8, Y : 882.81, Z : 2.153391999264281
-Star "Zadaria System" // system name
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Gateworlds
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Gateworlds
+// System wiki : https://starwars.fandom.com/wiki/Zadaria_system
+// Grid location : O-9
+// Known planet : Zadaria
+// X : 5226.795, Y : 3014.175, Z : 150.06178073403987
+Star "Zadaria system" // system name
 {
-    RA         0.0872808723094823
-    Dec        24.586006413299376
-    Dist       382999997.89413375
+    RA         0.08728087233921722
+    Dec        24.586006412725524
+    Dist       382999849.9857449
     Class      "K2 VI" // random
 }
 
 // http://starwars.wikia.com/wiki/Zalori
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5334.42, Y : 921.76, Z : -0.10935426850434737
-Star "Zalori System" // system name
+// Region : Inner Rim, The Slice
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim, https://starwars.fandom.com/wiki/The_Slice/Legends
+// Sector : Hapes Cluster, Hapan Rim Worlds
+// Sector wiki : https://starwars.fandom.com/wiki/Hapes_Cluster, https://starwars.fandom.com/wiki/Hapan_Rim_Worlds
+// System wiki : https://starwars.fandom.com/wiki/Zalori_system
+// Grid location : O-9
+// Known planet : Zalori
+// X : 5334.42, Y : 3053.13, Z : 4923.756081444766
+Star "Zalori system" // system name
 {
-    RA         0.08727979899877403
-    Dec        24.58601224011293
-    Dist       383000000.15867233
+    RA         0.08727979831481075
+    Dec        24.586012245984875
+    Dist       382995076.2932372
     Class      "K9 V" // random
 }
 
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5229.78, Y : 898.03, Z : 4.13858869840028
-Star "Unnamed Hapes Cluster 1 System" // system name
-{
-    RA         0.08728084258920779
-    Dec        24.586008690173184
-    Dist       382999995.9090978
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5333.86, Y : 726.28, Z : -0.4885760032617199
-Star "Unnamed Hapes Cluster 2 System" // system name
-{
-    RA         0.08727980458379389
-    Dec        24.585982996825365
-    Dist       383000000.53637785
-    Class      "M4 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5077.69, Y : 847.54, Z : 2.127403031384448
-Star "Unnamed Hapes Cluster 3 System" // system name
-{
-    RA         0.08728235940674069
-    Dec        24.58600113700129
-    Dist       382999997.9178409
-    Class      "M2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5107.22, Y : 772.45, Z : -4.761274022478572
-Star "Unnamed Hapes Cluster 4 System" // system name
-{
-    RA         0.08728206490036731
-    Dec        24.58598990372949
-    Dist       383000004.8063339
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5357.51, Y : 864.95, Z : -1.6476361551726573
-Star "Unnamed Hapes Cluster 5 System" // system name
-{
-    RA         0.08727956871882357
-    Dec        24.5860037414865
-    Dist       383000001.6968279
-    Class      "M0 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5147.86, Y : 679.25, Z : -0.6344997332373135
-Star "Unnamed Hapes Cluster 6 System" // system name
-{
-    RA         0.08728165959077148
-    Dec        24.585975961262523
-    Dist       383000000.6794084
-    Class      "M7 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5286.14, Y : 961.33, Z : 2.330880802302402
-Star "Unnamed Hapes Cluster 7 System" // system name
-{
-    RA         0.08728028050239524
-    Dec        24.586018159682443
-    Dist       382999997.71808535
-    Class      "M5 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5065.89, Y : 640.14, Z : 2.8543432548701304
-Star "Unnamed Hapes Cluster 8 System" // system name
-{
-    RA         0.08728247708988272
-    Dec        24.585970110514516
-    Dist       382999997.18918747
-    Class      "M5 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5175.8, Y : 849.98, Z : 4.623406992434266
-Star "Unnamed Hapes Cluster 9 System" // system name
-{
-    RA         0.08728138094009301
-    Dec        24.5860015020217
-    Dist       382999995.42316914
-    Class      "M0 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5042.14, Y : 801.59, Z : 3.5538897072861104
-Star "Unnamed Hapes Cluster 10 System" // system name
-{
-    RA         0.08728271395224053
-    Dec        24.58599426300532
-    Dist       382999996.49052995
-    Class      "M9 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5252.97, Y : 670.61, Z : 3.1182545334946354
-Star "Unnamed Hapes Cluster 11 System" // system name
-{
-    RA         0.08728061131186415
-    Dec        24.585974668745653
-    Dist       382999996.92801803
-    Class      "G6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5376.56, Y : 907.97, Z : 1.954490624552375
-Star "Unnamed Hapes Cluster 12 System" // system name
-{
-    RA         0.08727937872970397
-    Dec        24.586010177168124
-    Dist       382999998.09530705
-    Class      "M2 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5047.48, Y : 670.93, Z : -1.1545225601055034
-Star "Unnamed Hapes Cluster 13 System" // system name
-{
-    RA         0.08728266069620745
-    Dec        24.585974716612125
-    Dist       383000001.1980342
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5060.6, Y : 627.75, Z : -3.6166953665796586
-Star "Unnamed Hapes Cluster 14 System" // system name
-{
-    RA         0.0872825298487295
-    Dec        24.58596825699654
-    Dist       383000003.6600666
-    Class      "M9 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5365.98, Y : 826.19, Z : 4.886391125249421
-Star "Unnamed Hapes Cluster 15 System" // system name
-{
-    RA         0.08727948424528216
-    Dec        24.585997943101347
-    Dist       382999995.1626179
-    Class      "M3 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5161.2, Y : 686.44, Z : 3.7615697160242263
-Star "Unnamed Hapes Cluster 16 System" // system name
-{
-    RA         0.08728152654828383
-    Dec        24.5859770368722
-    Dist       382999996.2835713
-    Class      "G6 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5175.06, Y : 662.95, Z : 1.921048764870413
-Star "Unnamed Hapes Cluster 17 System" // system name
-{
-    RA         0.08728138832059248
-    Dec        24.585973522828745
-    Dist       382999998.1241072
-    Class      "G4 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5348.99, Y : 849.69, Z : -0.6226843023706614
-Star "Unnamed Hapes Cluster 18 System" // system name
-{
-    RA         0.08727965368996701
-    Dec        24.586001458632364
-    Dist       383000000.67163783
-    Class      "M3 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5048.17, Y : 744.28, Z : -2.543247891240169
-Star "Unnamed Hapes Cluster 19 System" // system name
-{
-    RA         0.08728265381491258
-    Dec        24.585985689575093
-    Dist       383000002.58731234
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5365.13, Y : 904.79, Z : -2.3864179299375596
-Star "Unnamed Hapes Cluster 20 System" // system name
-{
-    RA         0.08727949272348066
-    Dec        24.586009701443444
-    Dist       383000002.43603003
-    Class      "M9 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5346.98, Y : 742.37, Z : 4.303200853419899
-Star "Unnamed Hapes Cluster 21 System" // system name
-{
-    RA         0.0872796737353241
-    Dec        24.58598540385187
-    Dist       382999995.74490434
-    Class      "K3 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5396.4, Y : 796.52, Z : -2.494982856798127
-Star "Unnamed Hapes Cluster 22 System" // system name
-{
-    RA         0.0872791808629191
-    Dec        24.585993504539903
-    Dist       383000002.5441913
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5344.89, Y : 720.01, Z : 3.133415092971303
-Star "Unnamed Hapes Cluster 23 System" // system name
-{
-    RA         0.08727969457938255
-    Dec        24.585982058854103
-    Dist       382999996.9144938
-    Class      "G9 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5061.5, Y : 804.2, Z : 3.824739487716881
-Star "Unnamed Hapes Cluster 24 System" // system name
-{
-    RA         0.08728252087190867
-    Dec        24.58599465345468
-    Dist       382999996.21995544
-    Class      "M7 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5276.39, Y : 683.04, Z : -3.3869461020046554
-Star "Unnamed Hapes Cluster 25 System" // system name
-{
-    RA         0.08728037774144952
-    Dec        24.5859765282334
-    Dist       383000003.4336317
-    Class      "M9 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5026.1, Y : 637.91, Z : -2.5214061254991904
-Star "Unnamed Hapes Cluster 26 System" // system name
-{
-    RA         0.0872828739224546
-    Dec        24.58596977690664
-    Dist       383000002.56439644
-    Class      "G0 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5029.54, Y : 747.6, Z : 3.8793346387054584
-Star "Unnamed Hapes Cluster 27 System" // system name
-{
-    RA         0.08728283961396091
-    Dec        24.585986186245464
-    Dist       382999996.16450965
-    Class      "M3 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5234.67, Y : 852.52, Z : 3.8265935418207278
-Star "Unnamed Hapes Cluster 28 System" // system name
-{
-    RA         0.08728079382051841
-    Dec        24.58600188199801
-    Dist       382999996.22080255
-    Class      "M3 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5139.6, Y : 756.58, Z : 2.686389757337314
-Star "Unnamed Hapes Cluster 29 System" // system name
-{
-    RA         0.087281741968593
-    Dec        24.585987529628206
-    Dist       382999997.3589833
-    Class      "K5 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5209.19, Y : 617.91, Z : 0.9086664039518944
-Star "Unnamed Hapes Cluster 30 System" // system name
-{
-    RA         0.08728104793692402
-    Dec        24.585966784963635
-    Dist       382999999.13662624
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5309.15, Y : 948.23, Z : 1.2725722588212065
-Star "Unnamed Hapes Cluster 31 System" // system name
-{
-    RA         0.08728005102022747
-    Dec        24.586016199956063
-    Dist       382999998.77660656
-    Class      "K3 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5140.08, Y : 695.39, Z : -3.2845324092344983
-Star "Unnamed Hapes Cluster 32 System" // system name
-{
-    RA         0.0872817371822774
-    Dec        24.585978375760586
-    Dist       383000003.3294554
-    Class      "M4 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5121.16, Y : 896.73, Z : 2.245160214592266
-Star "Unnamed Hapes Cluster 33 System" // system name
-{
-    RA         0.08728192587364425
-    Dec        24.586008495694408
-    Dist       382999997.8010482
-    Class      "K0 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5377.38, Y : 769.75, Z : -4.592556159474138
-Star "Unnamed Hapes Cluster 34 System" // system name
-{
-    RA         0.087279370552633
-    Dec        24.58598949981688
-    Dist       383000004.6412934
-    Class      "M4 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5130.72, Y : 722.38, Z : -0.6887752004896921
-Star "Unnamed Hapes Cluster 35 System" // system name
-{
-    RA         0.08728183053066717
-    Dec        24.585982413395534
-    Dist       383000000.7337728
-    Class      "M9 VI" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5242.21, Y : 903.58, Z : 4.866167968885147
-Star "Unnamed Hapes Cluster 36 System" // system name
-{
-    RA         0.08728071862278178
-    Dec        24.58600952043927
-    Dist       382999995.1817324
-    Class      "M3 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5191.89, Y : 894.74, Z : -4.492662353076407
-Star "Unnamed Hapes Cluster 37 System" // system name
-{
-    RA         0.0872812204732483
-    Dec        24.58600819798774
-    Dist       383000004.5398073
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5210.24, Y : 762.56, Z : 1.3103353719268025
-Star "Unnamed Hapes Cluster 38 System" // system name
-{
-    RA         0.08728103746505601
-    Dec        24.585988424218723
-    Dist       382999998.7360372
-    Class      "M5 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5359.17, Y : 732.6, Z : -3.4368444203709303
-Star "Unnamed Hapes Cluster 39 System" // system name
-{
-    RA         0.08727955216363485
-    Dec        24.585983942277224
-    Dist       383000003.4850468
-    Class      "G2 VI" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5347.03, Y : 887.96, Z : -0.21946740781790908
-Star "Unnamed Hapes Cluster 40 System" // system name
-{
-    RA         0.08727967323729602
-    Dec        24.58600718372286
-    Dist       383000000.2686933
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5378.01, Y : 754.83, Z : -1.1603962798278133
-Star "Unnamed Hapes Cluster 41 System" // system name
-{
-    RA         0.08727936426906434
-    Dec        24.585987267828532
-    Dist       383000001.2090296
-    Class      "M1 III" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5013.82, Y : 646.59, Z : -0.736325094344906
-Star "Unnamed Hapes Cluster 42 System" // system name
-{
-    RA         0.08728299639257274
-    Dec        24.58597107541344
-    Dist       383000000.77921736
-    Class      "M5 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5177.18, Y : 896.23, Z : 0.9250754435152739
-Star "Unnamed Hapes Cluster 43 System" // system name
-{
-    RA         0.08728136717763656
-    Dec        24.586008420894178
-    Dist       382999999.1218822
-    Class      "M8 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5196.9, Y : 766.21, Z : 4.135768323459413
-Star "Unnamed Hapes Cluster 44 System" // system name
-{
-    RA         0.08728117050657117
-    Dec        24.5859889702522
-    Dist       382999995.9104507
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5137.38, Y : 791.03, Z : 3.617191151875602
-Star "Unnamed Hapes Cluster 45 System" // system name
-{
-    RA         0.08728176410887428
-    Dec        24.585992683257516
-    Dist       382999996.42841345
-    Class      "M9 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5055.31, Y : 818.1, Z : 2.5217733293326647
-Star "Unnamed Hapes Cluster 46 System" // system name
-{
-    RA         0.08728258260591461
-    Dec        24.585996732856163
-    Dist       382999997.52294666
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5330.85, Y : 946.25, Z : -4.66180287640086
-Star "Unnamed Hapes Cluster 47 System" // system name
-{
-    RA         0.08727983460357182
-    Dec        24.5860159037462
-    Dist       383000004.71126723
-    Class      "K5 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5162.89, Y : 897.07, Z : -0.07444790654750832
-Star "Unnamed Hapes Cluster 48 System" // system name
-{
-    RA         0.08728150969416625
-    Dec        24.58600854655476
-    Dist       383000000.1212193
-    Class      "M7 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5298.17, Y : 959.08, Z : 2.640812095681609
-Star "Unnamed Hapes Cluster 49 System" // system name
-{
-    RA         0.08728016052528867
-    Dec        24.58601782308881
-    Dist       382999997.4083021
-    Class      "M0 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5251.95, Y : 656.22, Z : -2.845835241149355
-Star "Unnamed Hapes Cluster 50 System" // system name
-{
-    RA         0.08728062148529869
-    Dec        24.585972516033483
-    Dist       383000002.8919888
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5344.55, Y : 856.35, Z : -2.8904968906644344
-Star "Unnamed Hapes Cluster 51 System" // system name
-{
-    RA         0.08727969797109386
-    Dec        24.58600245494797
-    Dist       383000002.93944037
-    Class      "G7 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5353.54, Y : 907.33, Z : -3.8231561637115776
-Star "Unnamed Hapes Cluster 52 System" // system name
-{
-    RA         0.08727960831255481
-    Dec        24.58601008141897
-    Dist       383000003.87262625
-    Class      "M9 VI" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5033.51, Y : 680.99, Z : -0.5698585960301781
-Star "Unnamed Hapes Cluster 53 System" // system name
-{
-    RA         0.08728280002111553
-    Dec        24.585976221561957
-    Dist       383000000.6132602
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5368.46, Y : 838.43, Z : 4.02161470987641
-Star "Unnamed Hapes Cluster 54 System" // system name
-{
-    RA         0.08727945951197659
-    Dec        24.585999774171754
-    Dist       382999996.02752376
-    Class      "M8 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5386.54, Y : 913.17, Z : -0.7095331388101851
-Star "Unnamed Hapes Cluster 55 System" // system name
-{
-    RA         0.08727927919798323
-    Dec        24.586010955071103
-    Dist       383000000.7595123
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5321.59, Y : 944.66, Z : -0.27598548007293644
-Star "Unnamed Hapes Cluster 56 System" // system name
-{
-    RA         0.08727992695438473
-    Dec        24.58601566589171
-    Dist       383000000.32530826
-    Class      "B8 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5131.03, Y : 817.06, Z : 0.11702921391757659
-Star "Unnamed Hapes Cluster 57 System" // system name
-{
-    RA         0.08728182743888124
-    Dec        24.585996577272162
-    Dist       382999999.9286898
-    Class      "M8 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5381.16, Y : 830.34, Z : -0.7757542220522549
-Star "Unnamed Hapes Cluster 58 System" // system name
-{
-    RA         0.08727933285357008
-    Dec        24.58599856392375
-    Dist       383000000.8250083
-    Class      "M9 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5388.68, Y : 756.55, Z : 1.4669233146852259
-Star "Unnamed Hapes Cluster 59 System" // system name
-{
-    RA         0.08727925785512468
-    Dec        24.58598752513891
-    Dist       382999998.581873
-    Class      "K8 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5320.66, Y : 928.78, Z : -0.4194565649511439
-Star "Unnamed Hapes Cluster 60 System" // system name
-{
-    RA         0.0872799362294394
-    Dec        24.58601329028585
-    Dist       383000000.46863925
-    Class      "M2 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5224, Y : 639.26, Z : -2.1812766415763205
-Star "Unnamed Hapes Cluster 61 System" // system name
-{
-    RA         0.08728090023490807
-    Dec        24.58596997886341
-    Dist       383000002.22692484
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5057.42, Y : 654.21, Z : -1.417322710597758
-Star "Unnamed Hapes Cluster 62 System" // system name
-{
-    RA         0.08728256156307468
-    Dec        24.585972215344395
-    Dist       383000001.4608435
-    Class      "M4 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5188.93, Y : 884.06, Z : 0.33553894991802746
-Star "Unnamed Hapes Cluster 63 System" // system name
-{
-    RA         0.08728124999313644
-    Dec        24.586006600293906
-    Dist       382999999.71148175
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5388.46, Y : 822.88, Z : 2.3404904218019675
-Star "Unnamed Hapes Cluster 64 System" // system name
-{
-    RA         0.08727926004909636
-    Dec        24.585997447931224
-    Dist       382999997.70880866
-    Class      "M0 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5369, Y : 793.33, Z : 1.809984425419417
-Star "Unnamed Hapes Cluster 65 System" // system name
-{
-    RA         0.08727945412678166
-    Dec        24.585993027329323
-    Dist       382999998.23881453
-    Class      "M0 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5202.47, Y : 644.22, Z : 1.0905587973306572
-Star "Unnamed Hapes Cluster 66 System" // system name
-{
-    RA         0.08728111495650585
-    Dec        24.58597072086974
-    Dist       382999998.9548323
-    Class      "M0 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5325.07, Y : 698.26, Z : 4.253245363883236
-Star "Unnamed Hapes Cluster 67 System" // system name
-{
-    RA         0.08727989224717488
-    Dec        24.585978805113267
-    Dist       382999995.79422617
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5096.03, Y : 912.47, Z : -2.168638166874249
-Star "Unnamed Hapes Cluster 68 System" // system name
-{
-    RA         0.08728217649963418
-    Dec        24.586010850351233
-    Dist       383000002.2146362
-    Class      "K2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5184.8, Y : 910.94, Z : -3.2968244417555557
-Star "Unnamed Hapes Cluster 69 System" // system name
-{
-    RA         0.08728129118275993
-    Dec        24.58601062146597
-    Dist       383000003.3440017
-    Class      "M7 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5159.19, Y : 658.72, Z : -1.5819050720863892
-Star "Unnamed Hapes Cluster 70 System" // system name
-{
-    RA         0.08728154659504485
-    Dec        24.585972890028195
-    Dist       383000001.6268161
-    Class      "M3 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5365.4, Y : 718.45, Z : 3.8456798406169526
-Star "Unnamed Hapes Cluster 71 System" // system name
-{
-    RA         0.08727949002985794
-    Dec        24.585981825483053
-    Dist       382999996.2025043
-    Class      "M9 VI" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5348.05, Y : 948.36, Z : -0.9040513764205995
-Star "Unnamed Hapes Cluster 72 System" // system name
-{
-    RA         0.08727966306477254
-    Dec        24.586016219401095
-    Dist       383000000.9537725
-    Class      "M3 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5123.73, Y : 784.29, Z : 0.6459275701578946
-Star "Unnamed Hapes Cluster 73 System" // system name
-{
-    RA         0.08728190024284731
-    Dec        24.585991674968078
-    Dist       382999999.3994428
-    Class      "K8 VI" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5250.89, Y : 643.1, Z : -0.8849435090489708
-Star "Unnamed Hapes Cluster 74 System" // system name
-{
-    RA         0.08728063205657555
-    Dec        24.58597055331858
-    Dist       383000000.9309873
-    Class      "M6 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5189.35, Y : 857.17, Z : -2.918094546703144
-Star "Unnamed Hapes Cluster 75 System" // system name
-{
-    RA         0.08728124580485071
-    Dec        24.58600257761775
-    Dist       383000002.96491015
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5396.24, Y : 814.94, Z : 1.8912762417171578
-Star "Unnamed Hapes Cluster 76 System" // system name
-{
-    RA         0.08727918245800766
-    Dec        24.585996260127853
-    Dist       382999998.1580712
-    Class      "A7 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5267.4, Y : 661.94, Z : 1.1323561079605993
-Star "Unnamed Hapes Cluster 77 System" // system name
-{
-    RA         0.0872804673994986
-    Dec        24.585973371734575
-    Dist       382999998.91405135
-    Class      "M4 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5210.46, Y : 665.11, Z : -0.8351986690306781
-Star "Unnamed Hapes Cluster 78 System" // system name
-{
-    RA         0.08728103527125286
-    Dec        24.585973845955984
-    Dist       383000000.8808503
-    Class      "M1 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5343.22, Y : 903.36, Z : -4.9501578151391525
-Star "Unnamed Hapes Cluster 79 System" // system name
-{
-    RA         0.08727971123567742
-    Dec        24.58600948751622
-    Dist       383000004.99945235
-    Class      "M0 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5043.14, Y : 653.79, Z : 4.0949599166952275
-Star "Unnamed Hapes Cluster 80 System" // system name
-{
-    RA         0.08728270397901369
-    Dec        24.58597215251951
-    Dist       382999995.94836956
-    Class      "M0 VI" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5116.8, Y : 916.44, Z : -1.2916691533689164
-Star "Unnamed Hapes Cluster 81 System" // system name
-{
-    RA         0.0872819693570746
-    Dec        24.586011444253696
-    Dist       383000001.3379756
-    Class      "F5 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5141.35, Y : 822.62, Z : 3.55541984812994
-Star "Unnamed Hapes Cluster 82 System" // system name
-{
-    RA         0.08728172451545405
-    Dec        24.585997409037315
-    Dist       382999996.4904803
-    Class      "K7 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5308.3, Y : 919.27, Z : -3.903947089225394
-Star "Unnamed Hapes Cluster 83 System" // system name
-{
-    RA         0.08728005949812538
-    Dec        24.58601186761104
-    Dist       383000003.95288247
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5222.74, Y : 679.93, Z : -4.04983733311882
-Star "Unnamed Hapes Cluster 84 System" // system name
-{
-    RA         0.0872809128013383
-    Dec        24.585976062984958
-    Dist       383000004.09576476
-    Class      "M9 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5282.56, Y : 944.92, Z : -1.5892318828834995
-Star "Unnamed Hapes Cluster 85 System" // system name
-{
-    RA         0.0872803162068321
-    Dec        24.586015704785442
-    Dist       383000001.6380165
-    Class      "M5 VI" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5078.7, Y : 631.25, Z : 2.1504250489762633
-Star "Unnamed Hapes Cluster 86 System" // system name
-{
-    RA         0.08728234933385033
-    Dec        24.585968780593433
-    Dist       382999997.893211
-    Class      "M7 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5053.4, Y : 840.4, Z : 0.11234244501401136
-Star "Unnamed Hapes Cluster 87 System" // system name
-{
-    RA         0.08728260165495917
-    Dec        24.58600006887397
-    Dist       382999999.93252474
-    Class      "K5 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5138.66, Y : 890.41, Z : 0.712218785023464
-Star "Unnamed Hapes Cluster 88 System" // system name
-{
-    RA         0.08728175134362358
-    Dec        24.58600755023743
-    Dist       382999999.33417416
-    Class      "F8 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5078.7, Y : 909.69, Z : 2.6188556760534807
-Star "Unnamed Hapes Cluster 89 System" // system name
-{
-    RA         0.08728234933378838
-    Dec        24.58601043447633
-    Dist       382999997.4268901
-    Class      "K2 VI" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5346.55, Y : 874.47, Z : -2.2798599596861036
-Star "Unnamed Hapes Cluster 90 System" // system name
-{
-    RA         0.08727967802469759
-    Dec        24.586005165652384
-    Dist       383000002.3289731
-    Class      "M2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5325.66, Y : 905.09, Z : 1.19959903525963
-Star "Unnamed Hapes Cluster 91 System" // system name
-{
-    RA         0.08727988636343642
-    Dec        24.586009746326898
-    Dist       382999998.8494646
-    Class      "K8 V"
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5125.48, Y : 750.95, Z : -2.4155566077175084
-Star "Unnamed Hapes Cluster 92 System" // system name
-{
-    RA         0.08728188279023341
-    Dec        24.585986687389457
-    Dist       383000002.460698
-    Class      "G1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5207.55, Y : 887.34, Z : -4.991481419428134
-Star "Unnamed Hapes Cluster 93 System" // system name
-{
-    RA         0.08728106429369949
-    Dec        24.586007090966884
-    Dist       383000005.0387806
-    Class      "M9 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5129.92, Y : 774.92, Z : -0.07171763564603229
-Star "Unnamed Hapes Cluster 94 System" // system name
-{
-    RA         0.08728183850910928
-    Dec        24.585990273240228
-    Dist       383000000.11709964
-    Class      "M1 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5143.25, Y : 802.93, Z : 1.3646984422691224
-Star "Unnamed Hapes Cluster 95 System" // system name
-{
-    RA         0.08728170556675144
-    Dec        24.58599446346324
-    Dist       382999998.6810758
-    Class      "M0 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5295.44, Y : 690.98, Z : -4.738862774691903
-Star "Unnamed Hapes Cluster 96 System" // system name
-{
-    RA         0.08728018775302152
-    Dec        24.58597771603474
-    Dist       383000004.7858698
-    Class      "M0 VI" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5245.1, Y : 904.99, Z : -1.5441934382719213
-Star "Unnamed Hapes Cluster 97 System" // system name
-{
-    RA         0.08728068980123696
-    Dec        24.586009731363912
-    Dist       383000001.5921446
-    Class      "M5 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5082.4, Y : 896.07, Z : 1.1411983659169325
-Star "Unnamed Hapes Cluster 98 System" // system name
-{
-    RA         0.08728231243330759
-    Dec        24.58600839695886
-    Dist       382999998.9044886
-    Class      "M5 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5234.32, Y : 650.63, Z : 3.7324197957649297
-Star "Unnamed Hapes Cluster 99 System" // system name
-{
-    RA         0.08728079731113579
-    Dec        24.58597167979153
-    Dist       382999996.3134518
-    Class      "M1 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5328.36, Y : 652.2, Z : 1.9055847673059354
-Star "Unnamed Hapes Cluster 100 System" // system name
-{
-    RA         0.087279859435818
-    Dec        24.585971914657364
-    Dist       382999998.141595
-    Class      "M1 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5185.96, Y : 647.71, Z : -3.3336574885012915
-Star "Unnamed Hapes Cluster 101 System" // system name
-{
-    RA         0.08728127961390439
-    Dec        24.585971242959637
-    Dist       383000003.37885004
-    Class      "M2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5119.6, Y : 872.15, Z : 1.0562661838768959
-Star "Unnamed Hapes Cluster 102 System" // system name
-{
-    RA         0.08728194143192572
-    Dec        24.58600481859048
-    Dist       382999998.98972785
-    Class      "M7 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5100.26, Y : 898.45, Z : 2.4022648245241474
-Star "Unnamed Hapes Cluster 103 System" // system name
-{
-    RA         0.08728213431257875
-    Dec        24.586008753002012
-    Dist       382999997.6436783
-    Class      "M7 VI" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5361.95, Y : 847.8, Z : -1.9076014254641125
-Star "Unnamed Hapes Cluster 104 System" // system name
-{
-    RA         0.08727952443804875
-    Dec        24.586001175891905
-    Dist       383000001.9567215
-    Class      "M3 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5113.57, Y : 757.85, Z : -1.3392451973836272
-Star "Unnamed Hapes Cluster 105 System" // system name
-{
-    RA         0.08728200157037375
-    Dec        24.58598771961228
-    Dist       383000001.3842794
-    Class      "G2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5359.63, Y : 781.9, Z : 3.9585969244792896
-Star "Unnamed Hapes Cluster 106 System" // system name
-{
-    RA         0.08727954757495116
-    Dec        24.585991317434218
-    Dist       382999996.0899837
-    Class      "M4 IV" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5077.11, Y : 617.17, Z : -3.858169019872688
-Star "Unnamed Hapes Cluster 107 System" // system name
-{
-    RA         0.08728236519196235
-    Dec        24.585966674256486
-    Dist       383000003.90168273
-    Class      "M5 VI" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5339.95, Y : 863.02, Z : 0.0850531401928496
-Star "Unnamed Hapes Cluster 108 System" // system name
-{
-    RA         0.08727974384719599
-    Dec        24.58600345276567
-    Dist       382999999.9638782
-    Class      "K2 V" // random
-}
-
-// 
-// Region : Inner Rim
-// Sector : Hapes Cluster Sector
-// Grid location : O9
-// X : 5306.56, Y : 674.64, Z : -3.4640023907859807
-Star "Unnamed Hapes Cluster 109 System" // system name
-{
-    RA         0.08728007685135533
-    Dec        24.585975271615705
-    Dist       383000003.5110432
-    Class      "M5 V" // random
+// http://starwars.wikia.com/wiki/Zeltros
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Zel_system
+// Grid location : O-10
+// Known planet : Zeltros
+// X : 5295.285, Y : 1087.8300000000002, Z : 697.5219589126095
+Star "Zel/Zel system/Zeltros system" // Star name / system name
+{
+    RA         0.08728018920202785
+    Dec        24.585718236765903
+    Dist       382999302.51619184
+    Class      "F5 V"
 }

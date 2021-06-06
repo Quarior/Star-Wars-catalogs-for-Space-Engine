@@ -47,6 +47,30 @@ Nebula "Llon Nebulae"
 
 
 //////////////////////////////////////
+//           Inner Rim              //
+//////////////////////////////////////
+// https://starwars.fandom.com/wiki/Itani_Nebula/Legends
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki :                                                     
+// System wiki : 
+// Grid location : 
+// Known planet : 
+// X : 3343.11, Y : -4097.219999999999, Z : -3416.0052020782086
+Nebula "Itani Nebula" // system name
+{
+    Galaxy  "Star Wars Galaxy"
+    Type    "Diffuse" // reddish-green gases
+    RA         0.08729965894081032
+    Dec        24.584942572271636
+    Dist       383003416.0417077
+    Radius     5
+    AbsMagn   -5
+}
+
+
+//////////////////////////////////////
 //            Mid Rim               //
 //////////////////////////////////////
 
@@ -228,11 +252,6 @@ Inner Rim - Hapes Cluster (p. 136):
 http://starwars.wikia.com/wiki/Transitory_Mists
 Transitory Mists
 Surrounding Hapes Cluster
-
-Inner Rim - Hydian Way (p. 138):
-http://starwars.wikia.com/wiki/Itani_Nebula
-Itani Nebula
-Between Itani and Nordra
 
 Outer Rim - Arkanis Sector (p. 146):
 http://starwars.wikia.com/wiki/D%27Anjon_Nebula

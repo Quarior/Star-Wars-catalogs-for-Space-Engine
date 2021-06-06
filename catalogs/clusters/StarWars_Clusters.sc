@@ -523,6 +523,30 @@ Cluster "Corbett Cluster"
 // Not enough sources about its location aside beneath wookieepedia description
 // The Delphidian Cluster was a stellar nursery situated in the galaxy's Mid Rim, on the fringes of Wild Space.
 
+// http://starwars.wikia.com/wiki/Gelviddis_Cluster
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : 
+// Grid location : N-9
+// Known planet : 
+// X : 3882.2699999999995, Y : 2532.5400000000004, Z : 2579.3237073414284
+Cluster "Gelviddis Cluster" // system name
+{
+    Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// Default // within galaxy disk
+    RA         0.08729428125605826
+    Dec        24.585934363787622
+    Dist       382997420.7043422
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
 // http://starwars.wikia.com/wiki/Lesser_Plooriod_Cluster
 // Region : Mid Rim
 // Sector : Ottega
@@ -560,6 +584,54 @@ Cluster "Mektrun Cluster"
     Dec        24.584118839186566
     Dist       382999651.9868421
 	Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// https://starwars.fandom.com/wiki/Shasfath_Cluster
+// Region : Inner Rim
+// Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
+// Sector : 
+// Sector wiki : 
+// System wiki : 
+// Grid location : J-14
+// Known planet : 
+// X : -2786.79, Y : -4723.7249999999985, Z : -7164.474908211253
+Cluster "Shasfath Cluster system" // system name
+{
+    Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08736079257068734
+    Dec        24.584848856544813
+    Dist       383007164.51417613
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// https://starwars.fandom.com/wiki/Zeemacht_Cluster
+// Region : Inner Rim
+// Region wiki : 
+// Sector : 
+// Sector wiki : 
+// System wiki : https://starwars.fandom.com/wiki/Zeemacht_Cluster
+// Grid location : N-8
+// Known planet : 
+// X : 3936.8999999999996, Y : 3923.8950000000004, Z : 2666.0022521854453
+Cluster "Zeemacht Cluster system" // system name
+{
+    Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08729373641000707
+    Dec        24.586142508323004
+    Dist       382997334.0380825
+    Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
 	Age      	760        // default age
