@@ -498,16 +498,20 @@ Cluster "Bright Jewel Cluster"
 
 // http://starwars.wikia.com/wiki/Corbett_Cluster
 // Region : Mid Rim
-// Sector : Corbett sector
-// Grid location : I17
-// X : -3576.85, Y : -10669.73, Z : -72.7875581797465
+// Region wiki : http://starwars.wikia.com/wiki/Mid_Rim
+// Sector : Corbett Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Corbett_sector
+// System wiki : https://starwars.fandom.com/wiki/Corbett_Cluster/Legends
+// Grid location : I-17
+// Known planet : 
+// X : -3576.855, Y : -8538.36, Z : -3927.8798817905863
 Cluster "Corbett Cluster"
 {
 	Galaxy     	"Star Wars galaxy"
 	Type       	"Open"	// within galaxy disk
-    RA         0.08736867247519542
-    Dec        24.58427818433705
-    Dist       383000072.89943475
+    RA         0.08736867216600253
+    Dec        24.58427819719376
+    Dist       383003927.9917572
     Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
@@ -591,6 +595,31 @@ Cluster "Mektrun Cluster"
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
 
+// http://starwars.wikia.com/wiki/Rearqu_Cluster
+// Region : Mid Rim
+// Region wiki : http://starwars.wikia.com/wiki/Mid_Rim
+// Sector : Taldot Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Taldot_sector
+// System wiki : http://starwars.wikia.com/wiki/Rearqu_Cluster
+// Grid location : P-8
+// Known planet : 
+// X : 7248.96, Y : 4154.67, Z : -8253.398087620004
+Star "Rearqu Cluster"
+{
+    Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.0872607065511209
+    Dec        24.58617701416882
+    Dist       383008253.4892197
+    Class      "M8 IV" // random
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
 // https://starwars.fandom.com/wiki/Shasfath_Cluster
 // Region : Inner Rim
 // Region wiki : http://starwars.wikia.com/wiki/Inner_Rim
@@ -607,6 +636,31 @@ Cluster "Shasfath Cluster system" // system name
     RA         0.08736079257068734
     Dec        24.584848856544813
     Dist       383007164.51417613
+    Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+
+// http://starwars.wikia.com/wiki/Tyus_Cluster
+// Region : Mid Rim
+// Region wiki : http://starwars.wikia.com/wiki/Mid_Rim
+// Sector : Tyus Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Tyus_sector
+// System wiki : http://starwars.wikia.com/wiki/Tyus_Cluster
+// Grid location : N-16
+// Known planet : Tyus Cluster
+// X : 3129.6899999999996, Y : -7457.4, Z : 6091.336884219051
+Cluster "Tyus Cluster" // system name
+{
+    Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08730178661790275
+    Dec        24.584439875086858
+    Dist       382993908.7485059
     Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter

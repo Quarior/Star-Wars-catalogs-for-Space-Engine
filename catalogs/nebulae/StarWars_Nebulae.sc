@@ -76,16 +76,20 @@ Nebula "Itani Nebula" // system name
 
 // http://starwars.wikia.com/wiki/StarForge_Nebula
 // Region : Mid Rim
+// Region wiki : http://starwars.wikia.com/wiki/Mid_Rim
 // Sector : Ado Sector
-// Grid location : M17
-// X : 1592.99, Y : -11185.02, Z : -499.946195655665
+// Sector wiki : http://starwars.wikia.com/wiki/Ado_sector
+// System wiki : http://starwars.wikia.com/wiki/StarForge_Nebula
+// Grid location : M-17
+// Known planet : 
+// X : 1592.985, Y : -9053.655, Z : 7424.569685903452
 Nebula "StarForge Nebula"
 {
     Galaxy  "Star Wars Galaxy"
     Type    "Diffuse"
-    RA         0.08731711288343508
-    Dec        24.584201099851267
-    Dist       383000500.05651695
+    RA         0.0873171126045808
+    Dec        24.584201071079317
+    Dist       382992575.5406378
     Radius     5
     AbsMagn   -5
 }
