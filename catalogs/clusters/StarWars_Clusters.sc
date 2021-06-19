@@ -803,18 +803,46 @@ Cluster "Greeb-Streebling Cluster"
 // Not enough data except it contains Iti system
 // Gevarno Cluster
 
-// http://starwars.wikia.com/wiki/Jaga%27s_Cluster
+// http://starwars.wikia.com/wiki/Jagomir
 // Region : Outer Rim
+// Region wiki : http://starwars.wikia.com/wiki/Outer_Rim
 // Sector : Esstran Sector
-// Grid location : Q5
-// X : 8697.2, Y : 6973.15, Z : 180.0175011215423 // Cluster center is Jagomir System
+// Sector wiki : http://starwars.wikia.com/wiki/Esstran_sector
+// System wiki : https://starwars.fandom.com/wiki/Jaga%27s_Cluster
+// Grid location : Q-5
+// Known planet : Jagomir
+// X : 8697.195, Y : 9104.52, Z : 8031.299400827433 // Cluster center is Jagomir System
 Cluster "Jaga's Cluster"
 {
 	Galaxy     	"Star Wars galaxy"
 	Type       	"Open"	// within galaxy disk
-    RA         0.08724626142946693
-    Dec        24.58691751257332
-    Dist       382999820.1894619
+    RA         0.08724625970120517
+    Dec        24.586917540494387
+    Dist       382991968.9075663
+	Radius		4.68       // default radius
+	AbsMagn 	-3.6        // default absolute magnitude
+	CenPow   	0.5        // default star concentration parameter
+	Age      	760        // default age
+	NStars   	1500       // default number of stars
+	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
+}
+
+// https://starwars.fandom.com/wiki/The_Maw
+// Region : Outer Rim Territories, Maw Nebulae
+// Region wiki : http://starwars.wikia.com/wiki/Outer_Rim, https://starwars.fandom.com/wiki/Maw_Nebulae
+// Sector : Kessel sector
+// Sector wiki : https://starwars.fandom.com/wiki/Kessel_sector/Legends
+// System wiki : 
+// Grid location : T-10
+// Known planet : 
+// X : 12446.445, Y : 1987.9500000000003, Z : -5809.4283090287245
+Cluster "Maw Cluster/The Maw"
+{
+    Galaxy     	"Star Wars galaxy"
+	Type       	"Open"	// within galaxy disk
+    RA         0.08720887154891895
+    Dec        24.585852887512353
+    Dist       383005809.63570267
 	Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
@@ -935,17 +963,21 @@ Cluster "Tion Cluster"
 }
 
 // http://starwars.wikia.com/wiki/Vallusk_Cluster
-// Region : Outer Rim Territories
+// Region : Outer Rim
+// Region wiki : http://starwars.wikia.com/wiki/Outer_Rim
 // Sector : Gordian Reach
-// Grid location : Q6
-// X : 7520.32, Y : 5746.59, Z : -489.9834562441322
+// Sector wiki : https://starwars.fandom.com/wiki/Gordian_Reach
+// System wiki : 
+// Grid location : Q-6
+// Known planet : 
+// X : 7520.325000000001, Y : 7877.955, Z : 8567.379990592795
 Cluster "Vallusk Cluster"
 {
 	Galaxy     	"Star Wars galaxy"
 	Type       	"Open"	// within galaxy disk
-    RA         0.08725799877366544
-    Dec        24.586734020317635
-    Dist       383000490.1383092
+    RA         0.08725799695009473
+    Dec        24.586734047440455
+    Dist       382991432.774866
     Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
@@ -954,19 +986,23 @@ Cluster "Vallusk Cluster"
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
 
-// http://starwars.wikia.com/wiki/Vorzyd_Cluster
-// Region : Outer Rim Territories
-// Sector : Vorzyd
-// Grid location : R6
-// X : 9225.64, Y : 5161.03, Z : -46.55953379920334
+// https://starwars.fandom.com/wiki/Vorzyd_Cluster
+// Region : Outer Rim
+// Region wiki : http://starwars.wikia.com/wiki/Outer_Rim
+// Sector : Vorzyd Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Vorzyd_sector
+// System wiki : 
+// Grid location : R-6
+// Known planet : 
+// X : 9225.645, Y : 7292.4, Z : -7146.591057929125
 // Arbitrary centered on Vorzyd
-Cluster "Vorzyd Cluster System"
+Cluster "Vorzyd Cluster"
 {
 	Galaxy     	"Star Wars galaxy"
 	Type       	"Open"	// within galaxy disk
-    RA         0.08724099126702409
-    Dec        24.586646423476967
-    Dist       383000046.74007094
+    RA         0.08724099292277991
+    Dec        24.58664640325387
+    Dist       383007146.77159196
     Radius		4.68       // default radius
 	AbsMagn 	-3.6        // default absolute magnitude
 	CenPow   	0.5        // default star concentration parameter
@@ -974,7 +1010,6 @@ Cluster "Vorzyd Cluster System"
 	NStars   	1500       // default number of stars
 	Color   	(0.86 0.92 1.00)  // default color of the star-like particle
 }
-
 
 //////////////////////////////////////
 //           Unknown Regions        //

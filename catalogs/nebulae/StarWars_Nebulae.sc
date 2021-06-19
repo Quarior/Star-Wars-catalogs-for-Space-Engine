@@ -139,34 +139,122 @@ Nebula "Ganath Cloud" (arbitrary centered on Jilrua)
 //           Outer Rim              //
 //////////////////////////////////////
 
-// http://starwars.wikia.com/wiki/Maelstrom_Nebula
-// Region : Outer Rim
-// Sector : Albarrio Sector
-// Grid location : K5
-// X : -168.85, Y : 7334.17, Z : 469.8587413466307
-Nebula "Maelstrom Nebula/The Maelstrom"
+// http://starwars.wikia.com/wiki/Denarii_Station
+// Region : Outer Rim Territories, Trans-Hydian
+// Region wiki : https://starwars.fandom.com/wiki/Outer_Rim_Territories/Legends, https://starwars.fandom.com/wiki/Trans-Hydian
+// Sector : Gordian Reach
+// Sector wiki : https://starwars.fandom.com/wiki/Gordian_Reach
+// System wiki : https://starwars.fandom.com/wiki/Denarii_Nebula
+// Grid location : P-6
+// Known planet : Denarri station
+// X : 6339.375, Y : 7798.665000000001, Z : -3730.614627168266
+Nebula "Denarii Nebula" // system name
 {
     Galaxy  "Star Wars Galaxy"
     Type    "Diffuse"
-    RA         0.0873346839694063
-    Dec        24.586971521300345
-    Dist       382999530.25826263
+    RA         0.08726977704189552
+    Dec        24.58672214814089
+    Dist       383003730.74648863
+    Radius     5
+    AbsMagn   -5
+}
+
+// https://starwars.fandom.com/wiki/Ivax_Nebula
+// Region : Outer Rim Territories
+// Region wiki : http://starwars.wikia.com/wiki/Outer_Rim
+// Sector : Anoat sector
+// Sector wiki : https://starwars.fandom.com/wiki/Anoat_sector
+// System wiki : https://starwars.fandom.com/wiki/Ivax_Nebula
+// Grid location : K-18
+// Known planet : 
+// X : -1225.5900000000001, Y : -10752.12, Z : -7912.556658346638 // TODO Between the Ring and Isde Naha
+Nebula "Ivax Nebula" // (arbitrary centered on burning konn)
+{
+    Galaxy  "Star Wars Galaxy"
+    Type    "Diffuse"
+    RA         0.08734522274738302
+    Dec        24.58394704472673
+    Dist       383007912.7095405
     Radius     5
     AbsMagn   -5
 }
 
 // http://starwars.wikia.com/wiki/Kalki_Nebula
-// Region : Outer Rim
-// Sector : Cassander Sector
-// Grid location : L5
-// X : 34.05, Y : 6611.34, Z : 540.9718766089907
+// Region : Outer Rim Territories, New Territories
+// Region wiki : https://starwars.fandom.com/wiki/Outer_Rim_Territories/Legends, https://starwars.fandom.com/wiki/New_Territories/Legends
+// Sector : Cassander sector, Tendrannan sector
+// Sector wiki : https://starwars.fandom.com/wiki/Cassander_sector/Legends, https://starwars.fandom.com/wiki/Tendrannan_sector
+// System wiki : 
+// Grid location : L-5
+// Known planet : 
+// X : 34.05, Y : 8742.705, Z : 2464.133056364885
 Nebula "Kalki Nebula"
 {
     Galaxy  "Star Wars Galaxy"
     Type    "Diffuse"
-    RA         0.08733266041356866
-    Dec        24.586863387968542
-    Dist       382999459.1279096
+    RA         0.08733266041186348
+    Dec        24.5868633937879
+    Dist       382997535.9667303
+    Radius     5
+    AbsMagn   -5
+}
+
+// https://starwars.fandom.com/wiki/Maelstrom_Nebula
+// Region : Outer Rim
+// Region wiki : http://starwars.wikia.com/wiki/Outer_Rim
+// Sector : Albarrio Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Albarrio_sector
+// System wiki : 
+// Grid location : K-5
+// Known planet : 
+// X : -168.855, Y : 9465.525, Z : 8257.722349649262
+Nebula "Maelstrom Nebula/The Maelstrom"
+{
+    Galaxy  "Star Wars Galaxy"
+    Type    "Diffuse"
+    RA         0.08733468405351547
+    Dec        24.58697154785012
+    Dist       382991742.39465636
+    Radius     5
+    AbsMagn   -5
+}
+
+// https://starwars.fandom.com/wiki/Marcellus_Nebula
+// Region : Outer Rim
+// Region wiki : http://starwars.wikia.com/wiki/Outer_Rim
+// Sector : Meerian Sector
+// Sector wiki : http://starwars.wikia.com/wiki/Meerian_sector
+// System wiki : https://starwars.fandom.com/wiki/Dagelin_system
+// Grid location : N-6
+// Known planet : 
+// X : 4334.46, Y : 6691.335000000001, Z : 6794.095877821074
+Nebula "Marcellus Nebula"
+{
+    Galaxy  "Star Wars Galaxy"
+    Type    "Diffuse"
+    RA         0.08728977098868783
+    Dec        24.58655652364444
+    Dist       382993205.9871021
+    Radius     5
+    AbsMagn   -5
+}
+
+// https://starwars.fandom.com/wiki/Maw_Nebulae
+// Region : Outer Rim
+// Region wiki : http://starwars.wikia.com/wiki/Outer_Rim
+// Sector : Kessel sector, Calaron sector
+// Sector wiki : https://starwars.fandom.com/wiki/Kessel_sector/Legends, https://starwars.fandom.com/wiki/Calaron_sector
+// System wiki : 
+// Grid location : T-10
+// Known planet : 
+// X : 12446.445, Y : 1987.9500000000003, Z : 8000.043954413954
+Nebula "Maw Nebulae"
+{
+    Galaxy  "Star Wars Galaxy"
+    Type    "Diffuse"
+    RA         0.08720886707324217
+    Dec        24.5858528982352
+    Dist       382992000.1634467
     Radius     5
     AbsMagn   -5
 }
@@ -176,7 +264,7 @@ Nebula "Kalki Nebula"
 // Sector : Esstran sector, Sith Worlds Sector
 // Grid location : R5
 // X : 9456.4, Y : 7520.25, Z : 0
-Nebula    "Stygian Caldera"
+Nebula "Stygian Caldera"
 {
     Galaxy  "Star Wars Galaxy"
     Type    "Diffuse"
@@ -188,6 +276,25 @@ Nebula    "Stygian Caldera"
     Axis (201.6196, -0.7081141, 0.4208594, 0.5669672)
 }
 
+// http://starwars.wikia.com/wiki/ThonBoka
+// Region : Outer Rim
+// Region wiki : http://starwars.wikia.com/wiki/Outer_Rim
+// Sector : The Centrality
+// Sector wiki : https://starwars.fandom.com/wiki/Centrality
+// System wiki : https://starwars.fandom.com/wiki/ThonBoka
+// Grid location : U-8
+// Known planet : ThonBoka/ThonBoka Nebula
+// X : 13799.519999999999, Y : 4072.41, Z : -8587.981720103855
+Nebula "ThonBoka/ThonBoka Nebula" // system name
+{
+    Galaxy  "Star Wars Galaxy"
+    Type    "Diffuse"
+    RA         0.08719537832435548
+    Dec        24.58616470802499
+    Dist       383008588.25196373
+    Radius     5
+    AbsMagn   -5
+}
 
 
 //////////////////////////////////////
@@ -290,9 +397,6 @@ Outer Rim - Greater Javin (p. 184):
 http://starwars.wikia.com/wiki/Kiax_Nebula
 Kiax Nebula
 Between Mijos, Shuldene and Lutrillia
-http://starwars.wikia.com/wiki/Ivax_Nebula/Legends
-Ivax Nebula
-Between the Ring and Isde Naha
 
 Outer Rim - Moddell Sector (p. 188):
 http://starwars.wikia.com/wiki/Din_Nebula
