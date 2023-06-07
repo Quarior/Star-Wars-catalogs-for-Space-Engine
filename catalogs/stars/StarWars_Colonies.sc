@@ -470,12 +470,12 @@ Star "Castell system" // system name
 // Grid location : N-11
 // Known planet : Cato Neimoidia
 // X : 3244.5750000000003, Y : 103.99500000000035, Z : -8493.762656498406
-Star "Cato Neimoidia system" // system name
+Star "Neri/Cato Neimoidia system" // system name
 {
     RA         0.08730064206593559
     Dec        24.585571057029906
     Dist       383008493.7764135
-    Class      "G6 V"
+    Class      "G7 V"
 }
 
 // http://starwars.wikia.com/wiki/Chorax
