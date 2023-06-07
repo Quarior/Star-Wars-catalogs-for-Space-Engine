@@ -611,7 +611,7 @@ Planet "Daver Kuat/Kuat System 3"
 
 	Orbit
 	{
-		RefPlane        "Extrasolar"
+		RefPlane        "Equator"
 		SemiMajorAxis   2.51
 		Period          2.84781
 		Eccentricity    0
@@ -1099,7 +1099,7 @@ Planet "Kuat/Kuat System 4"
 
 	Orbit
 	{
-		RefPlane        "Extrasolar"
+		RefPlane        "Equator"
 		SemiMajorAxis   2.7
 		Period          0.734677
 		Eccentricity    0
