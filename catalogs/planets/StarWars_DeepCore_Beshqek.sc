@@ -1269,14 +1269,14 @@ Planet	"Byss"
 
 	Atmosphere
 	{
-		Model          "Earth"
+		Model          "Ethereal"
 		Height          53.98
 		Pressure        0.997019
 		Greenhouse		32.859
 		Bright          10
 		Opacity         1
 		SkyLight        3.33333
-		Hue             0
+		Hue             -0.4
 		Saturation      1
 
 		Composition
