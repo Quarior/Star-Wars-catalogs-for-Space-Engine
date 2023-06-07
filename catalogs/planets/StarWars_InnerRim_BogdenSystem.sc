@@ -876,14 +876,41 @@ DwarfMoon	"Bogg 19"
 
 	Orbit
 	{
-		//Period         0.00312
-		SemiMajorAxis  0.006143921
-		Eccentricity   0.0005
-		Inclination    0.12
-		AscendingNode  8.998
-		ArgOfPericen   30.956
-		MeanAnomaly    7.538
+		RefPlane        "Equator"
+		//PeriodDays      132.427621
+		SemiMajorAxisKm 1068715.37
+		Eccentricity    0.0005
+		Inclination     19.2366412
+		AscendingNode   90.6870229
+		ArgOfPericenter 30.956
+		MeanAnomaly     7.538
 	}
+
+}
+
+DwarfMoon	"Bogg 20"
+{
+	ParentBody      "Bogden"
+	Albedo          0.06
+	Radius          12
+	RotationOffset  242.9
+	Obliquity       0.1
+	EqAscendNode    346.7
+
+	Orbit
+	Orbit
+	{
+		RefPlane        "Equator"
+		//PeriodDays      187.256704
+		SemiMajorAxisKm 1346380.84
+		Eccentricity    0.335877863
+		Inclination     57.7099237
+		AscendingNode   -111.08217
+		ArgOfPericenter -53.5030364
+		MeanAnomaly     -84.701869
+	}
+
+
 }
 
 DwarfPlanet	"Bogden 1"
