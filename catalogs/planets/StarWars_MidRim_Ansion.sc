@@ -362,6 +362,10 @@ Planet	"Soltan"
 	Mass            0.632
     RotationPeriod  43        // Rotation period in hours 
 
+	NoOcean true
+	NoClouds true
+	NoAtmosphere true
+	
 	Orbit
 	{
 		Epoch          2454762
@@ -456,7 +460,7 @@ Moon	"Soltan 4"
 Planet	"Trauchta"
 {
 	ParentBody     "Ansion System"
-	Class          "Selena"
+	Class          "GasGiant"
 
     Radius          30000      // Radius in km  
 	Mass            139
