@@ -16,7 +16,7 @@ Planet	"Bruss"
 	{
 		Epoch          2454762
 		//Period         0.591632     // Orbital period in years 
-		SemiMajorAxis  0.52432
+		SemiMajorAxis  1.19216
 		Inclination    0.1
 		Eccentricity   0.03
 		ArgOfPericen   9.2
@@ -28,8 +28,8 @@ Barycenter	"Boz Pity-Mourn"
 	ParentBody     "Cama Coll"
 	Orbit
 	{
-		SemiMajorAxis   0.742
-		//Period          2.13	// 778 days
+		//SemiMajorAxis   1.4612
+		Period          2.1237443	// 778 local days
 		Eccentricity    0.005
 		Inclination     0.0
 		AscendingNode   0
@@ -64,123 +64,182 @@ Planet    "Boz Pity"
 		Biome   "Marine/Terrestrial"
 	}
       
-     Surface         // Surface tag 
-     { 
-         BumpHeight      14.114
-         BumpOffset      2.823
-         DiffMapAlpha   "Water"  // Mode of specular effect (flecks of sunlight) 
-         SpecularBright  20.0
-         SpecularPower   150.0
-         DayAmbient      0.1
-         Lommel          0.0
-         Exposure        2.0
+ 	Surface
+	{
+		Preset         "terra_wet_earth_green.cfg"
+		SurfStyle       0.675
+		Randomize      (0.395, 0.281, 0.764)
+		colorDistMagn   0.076
+		colorDistFreq   1291.6
+		detailScale     37490
+		drivenDarkening 0
+		seaLevel        0.3
+		snowLevel       1.1298
+		tropicLatitude  0.302
+		icecapLatitude  2
+		icecapHeight    0.659
+		climatePole     1
+		climateTropic   0.508
+		climateEquator  0.625
+		climateSteppeMin 0.3125
+		climateSteppeMax 0.5625
+		climateForestMin 0.5
+		climateForestMax 0.6875
+		climateGrassMin  0.625
+		climateGrassMax  0.8125
+		humidity        1
+		heightTempGrad  0.4295
+		beachWidth      0.0010638
+		tropicWidth     1
+		mainFreq        1.7939
+		venusFreq       0.919
+		venusMagn       0
+		mareFreq        0.029218
+		mareDensity     0.69466
+		terraceProb     0.41012
+		erosion         0.10639
+		montesMagn      0.208
+		montesFreq      453.83
+		montesSpiky     0.93353
+		montesFraction  0.57954
+		dunesMagn       0.063
+		dunesFreq       72.704
+		dunesFraction   0.23756
+		hillsMagn       0.23
+		hillsFreq       727.18
+		hillsFraction   0.81365
+		hills2Fraction  0.49117
+		riversMagn      71.677
+		riversFreq      3.1618
+		riversSin       6.1702
+		riftsMagn       0
+		riftsFreq       3.0697
+		riftsSin        6.7263
+		canyonsMagn     0.15267
+		canyonsFreq     213.74
+		canyonsFraction 0.90887
+		cracksMagn      0.065
+		cracksFreq      0.563
+		cracksOctaves   0
+		craterMagn      0.827
+		craterFreq      23.333
+		craterDensity   0
+		craterOctaves   4
+		craterRayedFactor 0
+		volcanoMagn     0.72078
+		volcanoFreq     0.62416
+		volcanoDensity  0.30473
+		volcanoOctaves  3
+		volcanoActivity 0.35649
+		volcanoFlows    0.67518
+		volcanoRadius   0.45985
+		volcanoTemp     378.29
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		stripeZones     2.9316
+		stripeTwist     0.20402
+		cycloneMagn     2.041
+		cycloneFreq     0.651
+		cycloneDensity  0.031
+		cycloneOctaves  2
+		BumpHeight      14.114
+		BumpOffset      2.823
+		DiffMapAlpha   "Water"
+		SpecBrightWater 2
+		SpecBrightIce   2
+		RoughnessWater  0.25463
+		RoughnessIce    0.25463
+		SpecularScale   1
+		RoughnessBias   0.5
+		Hapke           0
+		SpotBright      1.6307
+		SpotWidth       0.05
+		DayAmbient      0.1
+	}
 
-         // Next are parameters for procedural surface generation 
-   Style           0.675
-   Randomize      (0.395, 0.281, 0.764) 
-   colorDistMagn   0.076  // Magnitude of detail textures distortion 
-   colorDistFreq   1291.550    // Frequency of detail textures distortion 
-   detailScale     37490.168    // Scale of detail textures 
-   colorConversion true        // Perform textures color conversion 
-   seaLevel        5.341   // Sea level height (0...1) 
-   snowLevel       0.333   // Snow line level (0...1) 
-   tropicLatitude  0.302   // Latitude of tropics 
-   icecapLatitude  5.0000000   // Latitude of ice caps boundaries 
-   icecapHeight    0.659   // Height of ice caps 
-   climatePole     1.000       // Climate of poles   - index to color table (0...1) 
-   climateTropic   0.508       // Climate of tropics - index to color table (0...1) 
-   climateEquator  0.625       // Climate of equator - index to color table (0...1) 
-   tropicWidth     1.00        // Width of tropics 
-   mainFreq        0.729   // Main noise frequency (oceans/continents) 
-   venusFreq       0.919   // Venus-like global structures frequency 
-   venusMagn       0.000   // Venus-like global structures magnitude 
-   mareFreq        0.729   // Lunar mare frequency 
-   mareDensity     0.061  // Lunar mare density 
-   montesMagn      0.208   // Mountains magnitude (0...1) 
-   montesFreq      453.833    // Mountains frequency 
-   montesDensity   0.108095    // Mountains density 
-   dunesMagn       0.063  // Dunes magnitude (0...1) 
-   dunesFreq       72.704     // Dunes frequency 
-   dunesDensity    0.959   // Dunes density 
-   hillsMagn       0.230   // Hills magnitude (0...1) 
-   hillsFreq       727.185    // Hills frequency 
-   hillsDensity    0.355   // Hills density 
-   canyonMagn      0.043   // Canyons magnitude (0...1) 
-   canyonFreq      100.000    // Canyons frequency 
-   canyonDensity   0.273   // Canyons density 
-   cracksMagn      0.065  // Ice cracks magnitude (0...1) 
-   cracksFreq      0.563   // Ice cracks frequency 
-   cracksOctaves   0           // Number of ice cracks octaves 
-   craterMagn      0.827   // Craters magnitude 
-   craterFreq      23.333    // Craters frequency 
-   craterDensity   0.000  // Craters density 
-   craterOctaves   4.000    // Number of craters octaves 
-   craterRayedFactor 0           // Number of rayed craters relative to usual craters 
-   cycloneMagn     2.041    // Cyclones magnitude (0...1) 
-   cycloneFreq     0.651   // Cyclones frequency 
-   cycloneDensity  0.031  // Cyclones density 
-   colorSea       (0.040, 0.100, 0.200, 1.000) // Color of seas 
-   colorShelf     (0.150, 0.480, 0.460, 1.000) // Color of shelf areas 
-   colorBeach     (0.282, 0.250, 0.031, 0.000) // Color of beach lines 
-   colorDesert    (0.309, 0.392, 0.098, 0.000) // Color of deserts 
-   colorLowland   (0.211, 0.298, 0.066, 0.000) // Color of lower lands 
-   colorUpland    (0.309, 0.392, 0.098, 0.000) // Color of upper lands 
-   colorRock      (0.231, 0.313, 0.090, 0.000) // Color of rocks 
-   colorSnow      (1.000, 1.000, 1.000, 0.016) // Color of snow 
-   colorLowPlants (0.282, 0.250, 0.031, 0.000) // Color of lower vegetation 
-   colorUpPlants  (0.235, 0.313, 0.105, 0.000) // Color of upper vegetation 
-  } 
+	Ocean
+	{
+		Depth           4.2341
+		Hapke           0
+		SpotBright      2
+		SpotWidth       0.05
+		DayAmbient      2
+		ModulateBright  1
+	}
 
-     Clouds      // Clouds layer tag 
-     { 
-         BumpHeight      0.5     // Max height of "cloud landscape" in km 
-         BumpOffset      0.0     // Offset of zero height level 
-         DayAmbient      2.0     // Brightness of fake daytime ambient light 
-         Lommel          0.2     // Lambert to Lommel-Seeliger lighting model ratio 
-         Exposure        2.0     // Global clouds brighness 
-         Height          6.3     // Height of cloud layer in km 
-         Velocity        75.0    // Velosity of clouds layer 
-         Color          (1.0, 1.0, 1.0)  // Global color of clouds layer 
+	Clouds
+	{
+		Height          6.2998
+		Velocity        75
+		BumpHeight      0.5
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.03
+		DayAmbient      2
+		ModulateBright  1
+		mainFreq        0.9
+		mainOctaves     10
+		Coverage        0.1
+		stripeZones     2.9316
+		stripeTwist     0.20402
+	}
 
-         // Next are parameters for procedural surface generation 
-         mainFreq        0.9     // Main noise frequency 
-         mainOctaves     10      // Number of octaves of main noise 
-         Coverage        0.1     // Clouds coverage (0...1) 
-         twistZones      2.68    // Number of Jupiter-like zones or strips 
-         twistMagn       2.53    // Strength of twist 
-  } 
+	NoLava          true
 
-  Ocean 
-  { 
-   Height          6.009521 
-   DayAmbient      2.0 
-   Lommel          0.0 
-   Exposure        2.0 
-   Color          (1.000, 1.000, 1.000, 1.000) 
-  } 
+	Atmosphere
+	{
+		Model          "Earth"
+		Height          80
+		Density         1.83
+		Pressure        1.2
+		Greenhouse      18
+		Bright          10
+		Opacity         1
+		SkyLight        1
+		Hue             0
+		Saturation      1
 
-     Atmosphere      // Atmosphere tag 
-     { 
-         Model          "Earth"  // Model of the atmosphere 
-         Height          80.0    // Height of the top boundary in km 
-         Pressure        1.2     // Surface pressure in bars 
-         Density         1.83    // Surface density in kg/m^3 
-         Greenhouse      18.0    // Greenhouse effect in degrees 
-         Bright          10.0    // Brightness (rendering parameter) 
-         Opacity         1.0     // Opacity (rendering parameter) 
-         SkyLight        1.0     // Brightness of skylight on terrain 
-         EclipseBright   250.0               // Brightness of solar eclipse shadow 
-         EclipseColor   (1.000 0.600 0.200)  // Color of solar eclipse shadow 
-		 
-		 Composition // values in percent
+		Composition
 		{
-			N2  77.7729
-			O2  20.8625
-			Ar  0.9303
-			H2O 0.4000
-			CO2 0.0398
+			N2        	77.773
+			O2        	20.862
+			Ar        	0.9303
+			H2O       	0.4
+			CO2       	0.0398
 		}
-     } 
+	}
+
+	Aurora
+	{
+		Height         51.49
+		NorthLat       67.298
+		NorthLon       -3.1784
+		NorthRadius    1482.5
+		NorthWidth     511.6
+		NorthRings     4
+		NorthBright    0.3
+		NorthFlashFreq 76.588
+		NorthMoveSpeed 0.59446
+		NorthParticles 50000
+		SouthLat       -55.577
+		SouthLon       -178.95
+		SouthRadius    1166.5
+		SouthWidth     324.51
+		SouthRings     3
+		SouthBright    0.3
+		SouthFlashFreq 73.968
+		SouthMoveSpeed 1.3766
+		SouthParticles 50000
+		TopColor    (1.000 1.000 1.000)
+		BottomColor (0.000 1.000 0.000)
+	}
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
 
 	Orbit
 	{
@@ -251,7 +310,7 @@ Planet	"Pine"
 	{
 		Epoch          2454762
 		//Period         4.3202     // Orbital period in years 
-		SemiMajorAxis  1.2343
+		SemiMajorAxis  2.4081
 		Inclination    0.1
 		Eccentricity   0.03
 		ArgOfPericen   9.2
@@ -275,7 +334,7 @@ Planet	"Nyss"
 	{
 		Epoch          2454762
 		//Period         7.322     // Orbital period in years 
-		SemiMajorAxis  1.6343
+		SemiMajorAxis  3.4225
 		Inclination    0.1
 		Eccentricity   0.03
 		ArgOfPericen   9.2
