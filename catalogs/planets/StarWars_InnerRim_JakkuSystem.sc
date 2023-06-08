@@ -3,26 +3,23 @@
 // Sector : 
 // Grid location : I13
 // X : -4132.67, Y : -4751.32, Z : -419.11028371084785
-Planet	"Jakku/Jakku System 4"
+Planet	"Jakku/Jakku System 1"
 {
 	ParentBody     "Jakku System"
-	Class	       "Desert"
-
-	Mass            0.0469773
-	Radius          5779.69
+	Class          "Terra"
+	//Mass            0.046977
+	Radius          3200
 	InertiaMoment   0.34364
-
-	Oblateness      0.00305501
-
-	RotationPeriod  26.8954
-	Obliquity       -63.1347
-	EqAscendNode    -139.029
+	Oblateness      0.003055
+	RotationPeriod  26.808
+	Obliquity       -63.135
+	EqAscendNode    -139.03
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
 	Brightness      2
-	Color          (0.695 0.692 0.718)
-	
+	BrightnessReal  1
+
 	Life
 	{
 		Class   "Organic"
@@ -32,65 +29,74 @@ Planet	"Jakku/Jakku System 4"
 
 	Surface
 	{
-		SurfStyle       0.100794
-		OceanStyle      0.820896
+		Preset         "terra_arid_mars2_green.cfg"
+		SurfStyle       0.10079
 		Randomize      (0.757, 0.418, 0.688)
-		colorDistMagn   0.0623747
-		colorDistFreq   356.396
-		detailScale     6110.39
-		colorConversion true
+		colorDistMagn   0.062375
+		colorDistFreq   356.4
+		detailScale     6110.4
 		drivenDarkening -1
-		seaLevel        0.0616124
-		snowLevel       1
-		tropicLatitude  0.898736
-		icecapLatitude  0.997657
-		icecapHeight    0.0617232
+		seaLevel        -0.015267
+		snowLevel       2
+		tropicLatitude  0.89874
+		icecapLatitude  0.99766
+		icecapHeight    0.061723
 		climatePole     0.9375
-		climateTropic   0.3125
+		climateTropic   0.83206
 		climateEquator  0.6875
+		climateSteppeMin 0
+		climateSteppeMax 0.3125
+		climateForestMin 0.25
+		climateForestMax 0.5625
+		climateGrassMin  0.5
+		climateGrassMax  0.8125
+		humidity        0
 		heightTempGrad  0.625
+		beachWidth      0.00041221
 		tropicWidth     0.07
-		mainFreq        1.38272
-		venusFreq       2
+		mainFreq        0.038168
+		venusFreq       0.10687
 		venusMagn       0
-		mareFreq        0.001
+		mareFreq        0.0015248
 		mareDensity     0.023773
-		terraceProb     0.260156
-		erosion         0
+		terraceProb     0.64885
+		erosion         1
 		montesMagn      0
-		montesFreq      19.8413
-		montesSpiky     0.00793651
-		montesFraction  0.0396825
-		dunesMagn       0.0793651
-		dunesFreq       100
-		dunesFraction   0.674603
-		hillsMagn       0.135883
-		hillsFreq       232.204
-		hillsFraction   0
+		montesFreq      19.841
+		montesSpiky     0.0079365
+		montesFraction  0.039683
+		dunesMagn       0.91603
+		dunesFreq       5343.5
+		dunesFraction   0.19847
+		hillsMagn       0.68702
+		hillsFreq       1145
+		hillsFraction   0.091603
 		hills2Fraction  0
-		riversMagn      62.1819
-		riversFreq      3.28158
-		riversSin       8.29728
-		riversOctaves   0
-		canyonsMagn     0.0346008
-		canyonsFreq     54.9235
-		canyonFraction  0.047619
-		cracksMagn      0.396825
-		cracksFreq      0.714286
+		riversMagn      0
+		riversFreq      0
+		riversSin       0
+		riftsMagn       0
+		riftsFreq       0
+		riftsSin        0
+		canyonsMagn     0.034601
+		canyonsFreq     0
+		canyonsFraction 0
+		cracksMagn      0.39682
+		cracksFreq      0.71429
 		cracksOctaves   0
-		craterMagn      0.238095
-		craterFreq      2.38095
-		craterDensity   0.380945
-		craterOctaves   6
-		craterRayedFactor 0
-		volcanoMagn     0.404762
+		craterMagn      7.9389
+		craterFreq      1.5267
+		craterDensity   0.16031
+		craterOctaves   1
+		craterRayedFactor 1
+		volcanoMagn     0.28244
 		volcanoFreq     0.031746
-		volcanoDensity  0.235015
-		volcanoOctaves  3
-		volcanoActivity 0.127168
-		volcanoFlows    0.69757
-		volcanoRadius   0.379475
-		volcanoTemp     1304.56
+		volcanoDensity  0.061069
+		volcanoOctaves  0
+		volcanoActivity 0
+		volcanoFlows    0.061069
+		volcanoRadius   0.42748
+		volcanoTemp     45.802
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
@@ -101,53 +107,46 @@ Planet	"Jakku/Jakku System 4"
 		cycloneFreq     0
 		cycloneDensity  0
 		cycloneOctaves  0
-		colorSea       (0.240, 0.230, 0.230, 0.000)
-		colorShelf     (0.380, 0.360, 0.350, 0.000)
-		colorBeach     (0.550, 0.520, 0.480, 0.000)
-		colorDesert    (0.520, 0.490, 0.470, 0.000)
-		colorLowland   (0.460, 0.440, 0.410, 0.000)
-		colorUpland    (0.390, 0.360, 0.330, 0.000)
-		colorRock      (0.170, 0.160, 0.160, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 0.769)
-		colorLowPlants (0.460, 0.440, 0.410, 0.000)
-		colorUpPlants  (0.390, 0.360, 0.330, 0.000)
-		BumpHeight      20
+		BumpHeight      4.6145
 		DiffMapAlpha   "Ice"
 		SpecBrightWater 0.5
 		SpecBrightIce   0.5
-		SpecularPower   30
+		RoughnessWater  0.50737
+		RoughnessIce    0.50737
+		SpecularScale   1
+		RoughnessBias   0.5
 		Hapke           0
 		SpotBright      4
 		SpotWidth       0.05
 		DayAmbient      0.07
 	}
 
-	NoClouds        true
-
 	NoOcean         true
+
+	NoClouds        true
 
 	NoLava          true
 
 	Atmosphere
 	{
 		Model          "Earth"
-		Height          56.8615
-		Density         0.108213
-		Pressure        0.8360544
-		Greenhouse      38.0952
-		Bright          10
+		Height          9.4864
+		Density         0.10821
+		Pressure        0.83605
+		Greenhouse      17.557
+		Bright          5
 		Opacity         1
-		SkyLight        3.33333
-		Hue             -0.047619
+		SkyLight        1
+		Hue             0
 		Saturation      1
 
 		Composition
 		{
-			N2    	77.7729
-			O2    	20.8625
-			Ar    	0.9303
-			H2O   	0.4
-			CO2   	0.0398
+			N2        	77.773
+			O2        	20.862
+			Ar        	0.9303
+			H2O       	0.4
+			CO2       	0.0398
 		}
 	}
 
@@ -162,8 +161,8 @@ Planet	"Jakku/Jakku System 4"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   1.25961
-		Period          1.29973
+		Period          0.964
+		SemiMajorAxis   1.01636785
 		Eccentricity    0.0295915
 		Inclination     1.2071
 		AscendingNode   -135.067
@@ -172,7 +171,7 @@ Planet	"Jakku/Jakku System 4"
 	}
 }
 
-Moon	"Jakku Moon 1/Jakku System 4.D1"
+Moon	"Jakku Moon 1/Jakku System 1.1"
 {
 	ParentBody     "Jakku"
 	Class	       "Selena"
@@ -293,8 +292,8 @@ Moon	"Jakku Moon 1/Jakku System 4.D1"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   0.0002335
-		Period          0.00082523
+		SemiMajorAxisKm 19133.5538
+		//Period          0.00082523
 		Eccentricity    2.46663e-005
 		Inclination     0.00889273
 		AscendingNode   109.53
@@ -303,7 +302,7 @@ Moon	"Jakku Moon 1/Jakku System 4.D1"
 	}
 }
 
-Moon	"Jakku Moon 2/Jakku System 4.D2"
+Moon	"Jakku Moon 2/Jakku System 1.2"
 {
 	ParentBody     "Jakku System 4"
 	Class	       "Selena"
@@ -424,8 +423,8 @@ Moon	"Jakku Moon 2/Jakku System 4.D2"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   0.000669
-		Period          0.00101655
+		SemiMajorAxisKm 54930.1656
+		//Period          0.00101655
 		Eccentricity    5.47092e-005
 		Inclination     0.00252832
 		AscendingNode   110.021
@@ -437,2665 +436,8 @@ Moon	"Jakku Moon 2/Jakku System 4.D2"
 ///////////////
 // GENERATED //
 ///////////////
-Planet	"Jakku System 1"
-{
-	ParentBody     "Jakku System"
-	Class	       "Desert"
-
-	Mass            4.55074
-	Radius          9532.22
-	InertiaMoment   0.330332
-
-	RotationPeriod  1798.18
-	Obliquity       -0.0248164
-	EqAscendNode    -92.3809
-
-	AlbedoBond      0.7
-	AlbedoGeom      0.84
-	Brightness      2
-	Color          (0.524 0.421 0.368)
-
-	Surface
-	{
-		SurfStyle       0.504485
-		OceanStyle      0.785646
-		Randomize      (-0.961, 0.876, 0.874)
-		colorDistMagn   0.0643746
-		colorDistFreq   1209.4
-		detailScale     24517.4
-		colorConversion true
-		seaLevel        0.026307
-		snowLevel       2
-		tropicLatitude  0.00059802
-		icecapLatitude  10
-		icecapHeight    0.147021
-		climatePole     0.5625
-		climateTropic   0.5625
-		climateEquator  0.6875
-		heightTempGrad  0.375
-		tropicWidth     0.5
-		mainFreq        1.19498
-		venusFreq       0.60019
-		venusMagn       0
-		mareFreq        1.41747
-		mareDensity     0.201689
-		terraceProb     0.246429
-		erosion         0
-		montesMagn      0.177684
-		montesFreq      468.989
-		montesSpiky     0.942037
-		montesFraction  0.266918
-		dunesMagn       0.0443329
-		dunesFreq       103.458
-		dunesFraction   0.256639
-		hillsMagn       0.174379
-		hillsFreq       891.969
-		hillsFraction   0
-		hills2Fraction  0
-		riversMagn      57.6709
-		riversFreq      2.55433
-		riversSin       7.2924
-		riversOctaves   0
-		canyonsMagn     0.0434969
-		canyonsFreq     222.757
-		canyonFraction  0
-		cracksMagn      0.103089
-		cracksFreq      0.873456
-		cracksOctaves   0
-		craterMagn      0.924652
-		craterFreq      24.2529
-		craterDensity   0
-		craterOctaves   0
-		volcanoMagn     0.657117
-		volcanoFreq     0.54578
-		volcanoDensity  0.4
-		volcanoOctaves  3
-		volcanoActivity 2
-		volcanoFlows    0.644086
-		volcanoRadius   0.455654
-		volcanoTemp     1428.15
-		lavaCoverTidal  0.0466114
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		stripeZones     1.54697
-		stripeTwist     1.29356
-		cycloneMagn     2.44823
-		cycloneFreq     0.655781
-		cycloneDensity  0.343467
-		cycloneOctaves  4
-		colorSea       (0.640, 0.620, 0.420, 0.000)
-		colorShelf     (0.680, 0.620, 0.470, 0.000)
-		colorBeach     (0.740, 0.730, 0.610, 0.000)
-		colorDesert    (0.450, 0.420, 0.380, 0.000)
-		colorLowland   (0.530, 0.480, 0.400, 0.000)
-		colorUpland    (0.600, 0.540, 0.420, 0.000)
-		colorRock      (0.170, 0.160, 0.160, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 0.769)
-		colorLowPlants (0.530, 0.480, 0.400, 0.000)
-		colorUpPlants  (0.600, 0.540, 0.420, 0.000)
-		BumpHeight      14.0116
-		DiffMapAlpha   "Ice"
-		SpecBrightWater 0.5
-		SpecBrightIce   0.5
-		SpecularPower   30
-		Hapke           0
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	Clouds
-	{
-		Height          33.5635
-		Velocity        139.273
-		BumpHeight      6.84841
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        0.96409
-		mainOctaves     10
-		Coverage        1
-		stripeZones     1.54697
-		stripeTwist     1.29356
-	}
-
-	Clouds
-	{
-		Height          60.1211
-		Velocity        152.512
-		BumpHeight      5.96021
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        0.96409
-		mainOctaves     10
-		Coverage        1
-		stripeZones     1.54697
-		stripeTwist     1.29356
-	}
-
-	Clouds
-	{
-		Height          86.6777
-		Velocity        28.8983
-		BumpHeight      5.10419
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        0.96409
-		mainOctaves     10
-		Coverage        1
-		stripeZones     1.54697
-		stripeTwist     1.29356
-	}
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Venus"
-		Height          288.326
-		Density         34.7951
-		Pressure        153.379
-		Greenhouse      521.71
-		Bright          10
-		Opacity         1
-		SkyLight        3.33333
-		Hue             0.518122
-		Saturation      0.636244
-
-		Composition
-		{
-			H2O   	85.159
-			CO2   	9.97413
-			SO2   	3.93992
-			N2    	0.926292
-			He    	0.00037387
-			CO    	0.000184054
-			Ar    	6.58087e-005
-			Kr    	1.85787e-005
-		}
-	}
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.176853
-		Period          0.0683782
-		Eccentricity    0.0728412
-		Inclination     -0.0248164
-		AscendingNode   -92.3809
-		ArgOfPericenter 182.281
-		MeanAnomaly     204.339
-	}
-}
 
 Planet	"Jakku System 2"
-{
-	ParentBody     "Jakku System"
-	Class	       "IceGiant"
-
-	Mass            23.1547
-	Radius          24719.9
-	InertiaMoment   0.253012
-
-	Obliquity       0.580291
-	EqAscendNode    31.2581
-	TidalLocked     true
-
-	AlbedoBond      0.50406
-	AlbedoGeom      0.604872
-	Brightness      2
-
-	Surface
-	{
-		SurfStyle       0.159281
-		Randomize      (-0.522, -0.705, 0.953)
-		detailScale     63581
-		colorConversion true
-		tropicLatitude  0.0195059
-		icecapLatitude  0.919506
-		craterOctaves   0
-		volcanoActivity 0
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		stripeZones     7.16009
-		stripeFluct     0.468845
-		stripeTwist     13.4181
-		cycloneMagn     6.38917
-		cycloneFreq     0.650205
-		cycloneDensity  0.447927
-		cycloneOctaves  1
-		colorLayer0    (0.810, 0.810, 0.810, 1.000)
-		colorLayer1    (0.630, 0.650, 0.650, 1.000)
-		colorLayer2    (0.580, 0.560, 0.580, 1.000)
-		colorLayer3    (0.610, 0.610, 0.630, 1.000)
-		colorLayer4    (0.720, 0.720, 0.720, 1.000)
-		colorLayer5    (0.780, 0.780, 0.780, 1.000)
-		colorLayer6    (0.540, 0.540, 0.560, 1.000)
-		colorLayer7    (0.690, 0.660, 0.620, 1.000)
-		colorLowPlants (0.720, 0.720, 0.720, 1.000)
-		colorUpPlants  (0.780, 0.780, 0.780, 1.000)
-		BumpHeight      16.1088
-		SpecularPower   55
-		Hapke           0
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      1
-		ModulateColor  (0.000 0.000 0.000 0.000)
-	}
-
-	Clouds
-	{
-		Height          39.2188
-		Velocity        -1045.44
-		BumpHeight      23.109
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      1
-		mainFreq        1.03645
-		mainOctaves     12
-		Coverage        0.5203
-		stripeZones     7.16009
-		stripeFluct     0.468845
-		stripeTwist     13.4181
-	}
-
-	Clouds
-	{
-		Height          62.3262
-		Velocity        134.025
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      1
-		ModulateColor  (1.000 1.000 1.000 0.329)
-		mainFreq        1.03645
-		mainOctaves     12
-		Coverage        0.5203
-		stripeZones     7.16009
-		stripeFluct     0.468845
-		stripeTwist     13.4181
-	}
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Neptune"
-		Height          247.199
-		Density         1446.24
-		Pressure        270246
-		Bright          10
-		Opacity         1
-		SkyLight        3.33333
-		Hue             -0.00661411
-		Saturation      0.860082
-
-		Composition
-		{
-			H2    	93.358
-			He    	6.29889
-			CH4   	0.269466
-			N2    	0.0359187
-			NH3   	0.0242042
-			O2    	0.00655455
-			C2H2  	0.0030908
-			Ne    	0.00113629
-			C2H4  	0.00108319
-			Ar    	0.000716582
-			C2H6  	0.000598235
-			C3H8  	0.000327267
-		}
-	}
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.294271
-		Period          0.146761
-		Eccentricity    0.0705177
-		Inclination     0.580291
-		AscendingNode   31.2581
-		ArgOfPericenter 14.4619
-		MeanAnomaly     7.20547
-	}
-}
-
-DwarfMoon	"Jakku System 2.D1"
-{
-	ParentBody     "Jakku System 2"
-	Class	       "Asteroid"
-
-	Mass            3.10097e-011
-	Radius          2.55854
-	InertiaMoment   0.398906
-
-	Oblateness      0.234893
-
-	Obliquity       -0.000163768
-	EqAscendNode    -90.4494
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.605 0.601 0.595)
-
-	Surface
-	{
-		SurfStyle       0.434662
-		OceanStyle      0.505508
-		Randomize      (-0.128, 0.857, 0.183)
-		colorDistMagn   0.792651
-		colorDistFreq   0.00451236
-		detailScale     69.8653
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.301729
-		terraceProb     0.295777
-		erosion         0
-		montesMagn      0.464709
-		montesFreq      2.86988
-		montesSpiky     0.921014
-		montesFraction  0.641086
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.0170521
-		hillsFraction   0.65266
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.280667
-		craterFreq      0.191856
-		craterDensity   0.810392
-		craterOctaves   9
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.515411
-		volcanoTemp     1622.98
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.242, 0.241, 0.238, 0.000)
-		colorShelf     (0.257, 0.256, 0.253, 0.000)
-		colorBeach     (0.272, 0.271, 0.268, 0.000)
-		colorDesert    (0.287, 0.286, 0.282, 0.000)
-		colorLowland   (0.302, 0.301, 0.297, 0.000)
-		colorUpland    (0.318, 0.316, 0.312, 0.000)
-		colorRock      (0.333, 0.331, 0.327, 0.000)
-		colorSnow      (0.348, 0.346, 0.342, 1.000)
-		BumpHeight      2.30269
-		BumpOffset      0.460538
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00027011
-		Period          0.000533545
-		Eccentricity    2.05115e-005
-		Inclination     -0.000163768
-		AscendingNode   -90.4494
-		ArgOfPericenter 177.275
-		MeanAnomaly     62.5407
-	}
-}
-
-DwarfMoon	"Jakku System 2.D2"
-{
-	ParentBody     "Jakku System 2"
-	Class	       "Asteroid"
-
-	Mass            5.60783e-011
-	Radius          2.92361
-	InertiaMoment   0.399835
-
-	Oblateness      0.0821798
-
-	Obliquity       0.0148425
-	EqAscendNode    4.54517
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.685 0.537 0.444)
-
-	Surface
-	{
-		SurfStyle       0.244079
-		OceanStyle      0.792989
-		Randomize      (-0.315, -0.877, -0.129)
-		colorDistMagn   0.28012
-		colorDistFreq   0.00632634
-		detailScale     79.8342
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.000488281
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.67085
-		terraceProb     0.305746
-		erosion         0
-		montesMagn      0.476543
-		montesFreq      3.51203
-		montesSpiky     0.85109
-		montesFraction  0.314348
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.0183104
-		hillsFraction   0.848421
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.22989
-		craterFreq      0.259106
-		craterDensity   1.01301
-		craterOctaves   9
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.51372
-		volcanoTemp     1243.76
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.274, 0.215, 0.178, 0.000)
-		colorShelf     (0.291, 0.228, 0.189, 0.000)
-		colorBeach     (0.308, 0.242, 0.200, 0.000)
-		colorDesert    (0.326, 0.255, 0.211, 0.000)
-		colorLowland   (0.343, 0.269, 0.222, 0.000)
-		colorUpland    (0.360, 0.282, 0.233, 0.000)
-		colorRock      (0.377, 0.295, 0.244, 0.000)
-		colorSnow      (0.394, 0.309, 0.255, 1.000)
-		BumpHeight      2.63125
-		BumpOffset      0.526251
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000359949
-		Period          0.000820772
-		Eccentricity    4.47152e-005
-		Inclination     0.0148425
-		AscendingNode   4.54517
-		ArgOfPericenter 168.897
-		MeanAnomaly     -126.38
-	}
-}
-
-DwarfMoon	"Jakku System 2.D3"
-{
-	ParentBody     "Jakku System 2"
-	Class	       "Asteroid"
-
-	Mass            9.54635e-011
-	Radius          6.14806
-	InertiaMoment   0.397859
-
-	Oblateness      0.224508
-
-	Obliquity       -0.00917331
-	EqAscendNode    136.87
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.526 0.521 0.514)
-
-	Surface
-	{
-		SurfStyle       0.63365
-		OceanStyle      0.827044
-		Randomize      (-0.182, 0.309, 0.766)
-		colorDistMagn   0.554283
-		colorDistFreq   0.0133283
-		detailScale     167.883
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.529758
-		terraceProb     0.439647
-		erosion         0
-		montesMagn      0.393283
-		montesFreq      2.60139
-		montesSpiky     0.873204
-		montesFraction  0.561879
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.105571
-		hillsFraction   0.652057
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.272216
-		craterFreq      0.20338
-		craterDensity   0.907223
-		craterOctaves   10
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.58211
-		volcanoTemp     1581.84
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.205, 0.177, 0.144, 0.000)
-		colorShelf     (0.211, 0.183, 0.165, 0.000)
-		colorBeach     (0.247, 0.214, 0.195, 0.000)
-		colorDesert    (0.268, 0.229, 0.190, 0.000)
-		colorLowland   (0.295, 0.245, 0.216, 0.000)
-		colorUpland    (0.326, 0.297, 0.262, 0.000)
-		colorRock      (0.353, 0.323, 0.283, 0.000)
-		colorSnow      (0.384, 0.344, 0.298, 1.000)
-		BumpHeight      5.53325
-		BumpOffset      1.10665
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000452359
-		Period          0.00115634
-		Eccentricity    1.44487e-005
-		Inclination     -0.00917331
-		AscendingNode   136.87
-		ArgOfPericenter 84.8877
-		MeanAnomaly     -53.0765
-	}
-}
-
-DwarfMoon	"Jakku System 2.D4"
-{
-	ParentBody     "Jakku System 2"
-	Class	       "Asteroid"
-
-	Mass            9.30077e-005
-	Radius          305.673
-	InertiaMoment   0.395932
-
-	Oblateness      0.0203399
-
-	Obliquity       -0.461437
-	EqAscendNode    142.039
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.716 0.659 0.571)
-
-	Surface
-	{
-		SurfStyle       0.427548
-		OceanStyle      0.160943
-		Randomize      (-0.135, 0.516, 0.056)
-		colorDistMagn   0.944297
-		colorDistFreq   51.9407
-		detailScale     8346.92
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.00523622
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.548648
-		terraceProb     0.138157
-		erosion         0
-		montesMagn      0.372739
-		montesFreq      3.20715
-		montesSpiky     0.974826
-		montesFraction  0.61661
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       205.22
-		hillsFraction   0.571071
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.225916
-		craterFreq      2.7027
-		craterDensity   0.81971
-		craterOctaves   17
-		volcanoActivity 0.772791
-		volcanoFlows    0
-		volcanoRadius   0.545146
-		volcanoTemp     973.384
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.286, 0.264, 0.229, 0.000)
-		colorShelf     (0.304, 0.280, 0.243, 0.000)
-		colorBeach     (0.322, 0.296, 0.257, 0.000)
-		colorDesert    (0.340, 0.313, 0.271, 0.000)
-		colorLowland   (0.358, 0.329, 0.286, 0.000)
-		colorUpland    (0.376, 0.346, 0.300, 0.000)
-		colorRock      (0.394, 0.362, 0.314, 0.000)
-		colorSnow      (0.412, 0.379, 0.329, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000503915
-		Period          0.00135955
-		Eccentricity    0.00260677
-		Inclination     -0.461437
-		AscendingNode   142.039
-		ArgOfPericenter -159.182
-		MeanAnomaly     -29.9436
-	}
-}
-
-DwarfMoon	"Jakku System 2.D5"
-{
-	ParentBody     "Jakku System 2"
-	Class	       "Asteroid"
-
-	Mass            2.43846e-010
-	Radius          5.14347
-	InertiaMoment   0.399961
-
-	RotationPeriod  119.067
-	Obliquity       37.4812
-	EqAscendNode    129.86
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.456 0.454 0.448)
-
-	Surface
-	{
-		SurfStyle       0.250475
-		OceanStyle      0.340278
-		Randomize      (-0.859, 0.679, 0.095)
-		colorDistMagn   0.330159
-		colorDistFreq   0.0138516
-		detailScale     140.451
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.498239
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.464727
-		terraceProb     0.289601
-		erosion         0
-		montesMagn      0.44907
-		montesFreq      3.77965
-		montesSpiky     0.965003
-		montesFraction  0.473546
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.0542371
-		hillsFraction   0.516747
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.291018
-		craterFreq      0.197378
-		craterDensity   1.00037
-		craterOctaves   10
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.519113
-		volcanoTemp     1402.85
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.183, 0.181, 0.179, 0.000)
-		colorShelf     (0.194, 0.193, 0.191, 0.000)
-		colorBeach     (0.205, 0.204, 0.202, 0.000)
-		colorDesert    (0.217, 0.215, 0.213, 0.000)
-		colorLowland   (0.228, 0.227, 0.224, 0.000)
-		colorUpland    (0.240, 0.238, 0.235, 0.000)
-		colorRock      (0.251, 0.249, 0.247, 0.000)
-		colorSnow      (0.262, 0.261, 0.258, 1.000)
-		BumpHeight      4.62913
-		BumpOffset      0.925825
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00147256
-		Period          0.00679154
-		Eccentricity    0.262366
-		Inclination     37.4812
-		AscendingNode   129.86
-		ArgOfPericenter -127.594
-		MeanAnomaly     -89.752
-	}
-}
-
-DwarfMoon	"Jakku System 2.D6"
-{
-	ParentBody     "Jakku System 2"
-	Class	       "Asteroid"
-
-	Mass            3.72301e-010
-	Radius          5.54092
-	InertiaMoment   0.398069
-
-	RotationPeriod  111.305
-	Obliquity       74.323
-	EqAscendNode    142.589
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.828 0.742 0.709)
-
-	Surface
-	{
-		SurfStyle       0.190201
-		OceanStyle      0.410778
-		Randomize      (-0.840, -0.718, -0.125)
-		colorDistMagn   0.126399
-		colorDistFreq   0.0210897
-		detailScale     151.304
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.587369
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.461372
-		terraceProb     0.446523
-		erosion         0
-		montesMagn      0.667156
-		montesFreq      3.56446
-		montesSpiky     0.9168
-		montesFraction  0.752955
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.0542878
-		hillsFraction   0.651949
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.232835
-		craterFreq      0.157241
-		craterDensity   0.920544
-		craterOctaves   10
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.524479
-		volcanoTemp     1515.88
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.331, 0.297, 0.283, 0.000)
-		colorShelf     (0.352, 0.315, 0.301, 0.000)
-		colorBeach     (0.373, 0.334, 0.319, 0.000)
-		colorDesert    (0.393, 0.353, 0.337, 0.000)
-		colorLowland   (0.414, 0.371, 0.354, 0.000)
-		colorUpland    (0.435, 0.390, 0.372, 0.000)
-		colorRock      (0.455, 0.408, 0.390, 0.000)
-		colorSnow      (0.476, 0.427, 0.407, 1.000)
-		BumpHeight      4.98683
-		BumpOffset      0.997366
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.0018448
-		Period          0.00952323
-		Eccentricity    0.44864
-		Inclination     74.323
-		AscendingNode   142.589
-		ArgOfPericenter -131.301
-		MeanAnomaly     54.2605
-	}
-}
-
-DwarfMoon	"Jakku System 2.D7"
-{
-	ParentBody     "Jakku System 2"
-	Class	       "Asteroid"
-
-	Mass            5.55638e-010
-	Radius          5.96564
-	InertiaMoment   0.399186
-
-	Obliquity       -82.3199
-	EqAscendNode    -54.4896
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.511 0.431 0.310)
-
-	Surface
-	{
-		SurfStyle       0.895038
-		OceanStyle      0.924821
-		Randomize      (-0.290, -0.218, -0.474)
-		colorDistMagn   0.299317
-		colorDistFreq   0.0114172
-		detailScale     162.902
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.833436
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.480268
-		terraceProb     0.501146
-		erosion         0
-		montesMagn      0.573057
-		montesFreq      3.13409
-		montesSpiky     0.904983
-		montesFraction  0.45654
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.0669498
-		hillsFraction   0.813226
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.240826
-		craterFreq      0.2425
-		craterDensity   0.830108
-		craterOctaves   10
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.442933
-		volcanoTemp     1578.14
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.174, 0.151, 0.124, 0.050)
-		colorShelf     (0.204, 0.177, 0.143, 0.040)
-		colorBeach     (0.235, 0.203, 0.161, 0.030)
-		colorDesert    (0.266, 0.229, 0.183, 0.020)
-		colorLowland   (0.296, 0.254, 0.202, 0.030)
-		colorUpland    (0.327, 0.280, 0.220, 0.050)
-		colorRock      (0.358, 0.306, 0.245, 0.020)
-		colorSnow      (0.358, 0.306, 0.245, 1.000)
-		BumpHeight      5.36908
-		BumpOffset      1.07382
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00246929
-		Period          0.0147475
-		Eccentricity    0.00732234
-		Inclination     -82.3199
-		AscendingNode   -54.4896
-		ArgOfPericenter -111.196
-		MeanAnomaly     -74.9804
-	}
-}
-
-Planet	"Jakku System 3"
-{
-	ParentBody     "Jakku System"
-	Class	       "IceGiant"
-
-	Mass            21.9728
-	Radius          23508.7
-	InertiaMoment   0.294548
-
-	Oblateness      0.0212795
-
-	RotationPeriod  13.4206
-	Obliquity       -34.5762
-	EqAscendNode    11.2521
-
-	AlbedoBond      0.414458
-	AlbedoGeom      0.49735
-	Brightness      2
-
-	Surface
-	{
-		SurfStyle       0.348798
-		Randomize      (0.365, 0.872, -0.071)
-		detailScale     60465.8
-		colorConversion true
-		tropicLatitude  0.546472
-		icecapLatitude  1
-		craterOctaves   0
-		volcanoActivity 0
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		stripeZones     6.99954
-		stripeFluct     0.344449
-		stripeTwist     7.04001
-		cycloneMagn     12.0835
-		cycloneFreq     1.05972
-		cycloneDensity  0.226656
-		cycloneOctaves  1
-		colorLayer0    (0.120, 0.200, 0.480, 1.000)
-		colorLayer1    (0.330, 0.400, 0.720, 1.000)
-		colorLayer2    (0.330, 0.400, 0.720, 1.000)
-		colorLayer3    (0.600, 0.600, 0.600, 1.000)
-		colorLayer4    (0.350, 0.430, 0.770, 1.000)
-		colorLayer5    (0.470, 0.540, 0.850, 1.000)
-		colorLayer6    (0.600, 0.650, 0.910, 1.000)
-		colorLayer7    (0.990, 0.990, 1.000, 1.000)
-		colorLowPlants (0.350, 0.430, 0.770, 1.000)
-		colorUpPlants  (0.470, 0.540, 0.850, 1.000)
-		BumpHeight      15.7261
-		SpecularPower   55
-		Hapke           0
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      1
-		ModulateColor  (0.000 0.000 0.000 0.000)
-	}
-
-	Clouds
-	{
-		Height          59.5977
-		Velocity        -169.296
-		BumpHeight      43.8722
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      1
-		mainFreq        0.660879
-		mainOctaves     12
-		Coverage        0.0722916
-		stripeZones     6.99954
-		stripeFluct     0.344449
-		stripeTwist     7.04001
-	}
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Neptune"
-		Height          235.087
-		Density         1474.57
-		Pressure        273780
-		Bright          10
-		Opacity         1
-		SkyLight        3.33333
-		Hue             -0.00590367
-		Saturation      0.639723
-
-		Composition
-		{
-			H2    	92.7215
-			He    	6.91799
-			CH4   	0.293446
-			N2    	0.0303252
-			NH3   	0.0227925
-			O2    	0.00718893
-			C2H2  	0.00302411
-			Ne    	0.00108651
-			C2H4  	0.00105959
-			Ar    	0.000659519
-			C2H6  	0.000591671
-			C3H8  	0.000317427
-		}
-	}
-
-	Aurora
-	{
-		Height      444.373
-		NorthLat    53.3754
-		NorthLon    97.7521
-		NorthRadius 6427.01
-		NorthWidth  2643.15
-		NorthRings  5
-		NorthBright 1
-		NorthParticles 10000
-		SouthLat    -31.3721
-		SouthLon    246.627
-		SouthRadius 4984.25
-		SouthWidth  1783.64
-		SouthRings  4
-		SouthBright 1
-		SouthParticles 10000
-		TopColor    (1.000 1.000 1.000)
-		BottomColor (1.000 0.000 0.500)
-	}
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.577641
-		Period          0.403623
-		Eccentricity    0.0639558
-		Inclination     1.48483
-		AscendingNode   12.0363
-		ArgOfPericenter 126.903
-		MeanAnomaly     283.723
-	}
-}
-
-DwarfMoon	"Jakku System 3.D1"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            1.39463e-008
-	Radius          16.9556
-	InertiaMoment   0.398562
-
-	Oblateness      0.0695227
-
-	Obliquity       -0.00211974
-	EqAscendNode    88.3031
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.684 0.681 0.680)
-
-	Surface
-	{
-		SurfStyle       0.674869
-		OceanStyle      0.618331
-		Randomize      (-0.083, 0.027, -0.984)
-		colorDistMagn   0.813663
-		colorDistFreq   0.1796
-		detailScale     463
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.761553
-		terraceProb     0.135266
-		erosion         0
-		montesMagn      0.492466
-		montesFreq      3.45392
-		montesSpiky     0.884526
-		montesFraction  0.587535
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.631408
-		hillsFraction   0.452114
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.197193
-		craterFreq      0.206906
-		craterDensity   0.972134
-		craterOctaves   12
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.528102
-		volcanoTemp     1613.83
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.267, 0.232, 0.190, 0.000)
-		colorShelf     (0.274, 0.238, 0.218, 0.000)
-		colorBeach     (0.321, 0.279, 0.258, 0.000)
-		colorDesert    (0.349, 0.300, 0.251, 0.000)
-		colorLowland   (0.383, 0.320, 0.285, 0.000)
-		colorUpland    (0.424, 0.388, 0.347, 0.000)
-		colorRock      (0.458, 0.422, 0.374, 0.000)
-		colorSnow      (0.499, 0.450, 0.394, 1.000)
-		BumpHeight      15.26
-		BumpOffset      3.052
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000344363
-		Period          0.000788426
-		Eccentricity    6.36458e-005
-		Inclination     -0.00211974
-		AscendingNode   88.3031
-		ArgOfPericenter -138.595
-		MeanAnomaly     -118.762
-	}
-}
-
-DwarfMoon	"Jakku System 3.D2"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            1.89629e-008
-	Radius          41.4638
-	InertiaMoment   0.39955
-
-	Oblateness      0.249
-
-	Obliquity       0.00834959
-	EqAscendNode    103.382
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.468 0.465 0.462)
-
-	Surface
-	{
-		SurfStyle       0.643987
-		OceanStyle      0.294944
-		Randomize      (0.103, -0.782, 0.367)
-		colorDistMagn   0.624269
-		colorDistFreq   1.28335
-		detailScale     1132.24
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.665708
-		terraceProb     0.497334
-		erosion         0
-		montesMagn      0.510929
-		montesFreq      2.9047
-		montesSpiky     0.949565
-		montesFraction  0.183587
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       5.16763
-		hillsFraction   0.695723
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.257477
-		craterFreq      0.246751
-		craterDensity   0.879211
-		craterOctaves   14
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.553629
-		volcanoTemp     1136.36
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.182, 0.158, 0.129, 0.000)
-		colorShelf     (0.187, 0.163, 0.148, 0.000)
-		colorBeach     (0.220, 0.191, 0.176, 0.000)
-		colorDesert    (0.239, 0.205, 0.171, 0.000)
-		colorLowland   (0.262, 0.219, 0.194, 0.000)
-		colorUpland    (0.290, 0.265, 0.236, 0.000)
-		colorRock      (0.314, 0.288, 0.254, 0.000)
-		colorSnow      (0.342, 0.307, 0.268, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000373771
-		Period          0.000891546
-		Eccentricity    5.61745e-005
-		Inclination     0.00834959
-		AscendingNode   103.382
-		ArgOfPericenter -142.957
-		MeanAnomaly     116.903
-	}
-}
-
-DwarfMoon	"Jakku System 3.D3"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            2.57465e-008
-	Radius          23.8151
-	InertiaMoment   0.397269
-
-	Oblateness      0.0742021
-
-	Obliquity       -0.000140293
-	EqAscendNode    -56.8
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.651 0.646 0.641)
-
-	Surface
-	{
-		SurfStyle       0.0272723
-		OceanStyle      0.579225
-		Randomize      (0.334, -0.111, -0.174)
-		colorDistMagn   0.367523
-		colorDistFreq   0.359436
-		detailScale     650.31
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.312805
-		terraceProb     0.24085
-		erosion         0
-		montesMagn      0.364056
-		montesFreq      2.70129
-		montesSpiky     0.924861
-		montesFraction  0.442399
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       1.23311
-		hillsFraction   0.454739
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.234106
-		craterFreq      0.221498
-		craterDensity   0.850958
-		craterOctaves   13
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.4374
-		volcanoTemp     1668.58
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.260, 0.258, 0.256, 0.000)
-		colorShelf     (0.276, 0.275, 0.272, 0.000)
-		colorBeach     (0.293, 0.291, 0.288, 0.000)
-		colorDesert    (0.309, 0.307, 0.304, 0.000)
-		colorLowland   (0.325, 0.323, 0.320, 0.000)
-		colorUpland    (0.342, 0.339, 0.336, 0.000)
-		colorRock      (0.358, 0.355, 0.352, 0.000)
-		colorSnow      (0.374, 0.372, 0.368, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000385186
-		Period          0.000932701
-		Eccentricity    6.95575e-005
-		Inclination     -0.000140293
-		AscendingNode   -56.8
-		ArgOfPericenter -135.841
-		MeanAnomaly     66.0436
-	}
-}
-
-DwarfMoon	"Jakku System 3.D4"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            3.49366e-008
-	Radius          45.6341
-	InertiaMoment   0.39872
-
-	Oblateness      0.249
-
-	Obliquity       0.0120502
-	EqAscendNode    154.395
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.561 0.557 0.549)
-
-	Surface
-	{
-		SurfStyle       0.434072
-		OceanStyle      0.392353
-		Randomize      (-0.213, -0.527, 0.756)
-		colorDistMagn   0.343631
-		colorDistFreq   1.04286
-		detailScale     1246.11
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.419142
-		terraceProb     0.214328
-		erosion         0
-		montesMagn      0.312686
-		montesFreq      3.07649
-		montesSpiky     0.798853
-		montesFraction  0.53931
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       4.0034
-		hillsFraction   0.473715
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.26144
-		craterFreq      0.239327
-		craterDensity   0.706981
-		craterOctaves   14
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.548235
-		volcanoTemp     1826.61
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.225, 0.223, 0.220, 0.000)
-		colorShelf     (0.239, 0.237, 0.233, 0.000)
-		colorBeach     (0.253, 0.251, 0.247, 0.000)
-		colorDesert    (0.267, 0.265, 0.261, 0.000)
-		colorLowland   (0.281, 0.278, 0.275, 0.000)
-		colorUpland    (0.295, 0.292, 0.288, 0.000)
-		colorRock      (0.309, 0.306, 0.302, 0.000)
-		colorSnow      (0.323, 0.320, 0.316, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000413558
-		Period          0.00103763
-		Eccentricity    4.4664e-005
-		Inclination     0.0120502
-		AscendingNode   154.395
-		ArgOfPericenter -137.124
-		MeanAnomaly     64.0793
-	}
-}
-
-DwarfMoon	"Jakku System 3.D5"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            4.74204e-008
-	Radius          25.7751
-	InertiaMoment   0.399678
-
-	Oblateness      0.035622
-
-	Obliquity       -0.000981931
-	EqAscendNode    70.5783
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.564 0.493 0.351)
-
-	Surface
-	{
-		SurfStyle       0.864696
-		OceanStyle      0.878087
-		Randomize      (0.977, 0.016, -0.709)
-		colorDistMagn   0.171724
-		colorDistFreq   0.186043
-		detailScale     703.831
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.438997
-		terraceProb     0.512284
-		erosion         0
-		montesMagn      0.619285
-		montesFreq      3.99062
-		montesSpiky     0.890541
-		montesFraction  0.47408
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       1.67271
-		hillsFraction   0.732241
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.248132
-		craterFreq      0.229254
-		craterDensity   0.851344
-		craterOctaves   13
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.515655
-		volcanoTemp     1507.44
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.192, 0.173, 0.141, 0.050)
-		colorShelf     (0.226, 0.202, 0.162, 0.040)
-		colorBeach     (0.260, 0.232, 0.183, 0.030)
-		colorDesert    (0.294, 0.261, 0.207, 0.020)
-		colorLowland   (0.327, 0.291, 0.228, 0.030)
-		colorUpland    (0.361, 0.321, 0.250, 0.050)
-		colorRock      (0.395, 0.350, 0.278, 0.020)
-		colorSnow      (0.395, 0.350, 0.278, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000435656
-		Period          0.00112189
-		Eccentricity    1.37895e-005
-		Inclination     -0.000981931
-		AscendingNode   70.5783
-		ArgOfPericenter -145.031
-		MeanAnomaly     -68.6552
-	}
-}
-
-DwarfMoon	"Jakku System 3.D6"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            6.44387e-008
-	Radius          36.3616
-	InertiaMoment   0.397557
-
-	Oblateness      0.0637065
-
-	Obliquity       0.00280007
-	EqAscendNode    104.942
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.840 0.768 0.705)
-
-	Surface
-	{
-		SurfStyle       0.653732
-		OceanStyle      0.387043
-		Randomize      (0.740, -0.642, -0.859)
-		colorDistMagn   0.971411
-		colorDistFreq   0.661659
-		detailScale     992.915
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.435687
-		terraceProb     0.339373
-		erosion         0
-		montesMagn      0.478622
-		montesFreq      3.15334
-		montesSpiky     0.996871
-		montesFraction  0.41419
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       3.14835
-		hillsFraction   0.693217
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.25014
-		craterFreq      0.176142
-		craterDensity   0.836347
-		craterOctaves   13
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.49775
-		volcanoTemp     1551.74
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.328, 0.261, 0.197, 0.000)
-		colorShelf     (0.336, 0.269, 0.226, 0.000)
-		colorBeach     (0.395, 0.315, 0.268, 0.000)
-		colorDesert    (0.429, 0.338, 0.261, 0.000)
-		colorLowland   (0.471, 0.361, 0.296, 0.000)
-		colorUpland    (0.521, 0.438, 0.359, 0.000)
-		colorRock      (0.563, 0.476, 0.388, 0.000)
-		colorSnow      (0.613, 0.507, 0.409, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000455918
-		Period          0.00120106
-		Eccentricity    4.52931e-005
-		Inclination     0.00280007
-		AscendingNode   104.942
-		ArgOfPericenter 115.479
-		MeanAnomaly     -92.9824
-	}
-}
-
-DwarfMoon	"Jakku System 3.D7"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            8.77431e-008
-	Radius          65.1066
-	InertiaMoment   0.398869
-
-	RotationPeriod  275.777
-	Obliquity       -25.542
-	EqAscendNode    -2.75792
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.703 0.701 0.699)
-
-	Surface
-	{
-		SurfStyle       0.853709
-		OceanStyle      0.915412
-		Randomize      (0.010, -0.482, -0.635)
-		colorDistMagn   0.497351
-		colorDistFreq   1.21249
-		detailScale     1777.84
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.777895
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.41456
-		terraceProb     0.253866
-		erosion         0
-		montesMagn      0.649213
-		montesFreq      3.00651
-		montesSpiky     0.962977
-		montesFraction  0.154893
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       7.97857
-		hillsFraction   0.724453
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.26713
-		craterFreq      0.152762
-		craterDensity   0.851973
-		craterOctaves   14
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.526861
-		volcanoTemp     1304.51
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.239, 0.246, 0.280, 0.050)
-		colorShelf     (0.281, 0.288, 0.321, 0.040)
-		colorBeach     (0.324, 0.330, 0.363, 0.030)
-		colorDesert    (0.366, 0.372, 0.412, 0.020)
-		colorLowland   (0.408, 0.414, 0.454, 0.030)
-		colorUpland    (0.450, 0.456, 0.496, 0.050)
-		colorRock      (0.492, 0.498, 0.552, 0.020)
-		colorSnow      (0.492, 0.498, 0.552, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00286057
-		Period          0.0188763
-		Eccentricity    0.119609
-		Inclination     -25.542
-		AscendingNode   -2.75792
-		ArgOfPericenter -73.2205
-		MeanAnomaly     -177.585
-	}
-}
-
-DwarfMoon	"Jakku System 3.D8"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            1.1983e-007
-	Radius          37.6732
-	InertiaMoment   0.399804
-
-	RotationPeriod  367.226
-	Obliquity       -70.1689
-	EqAscendNode    92.2454
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.568 0.563 0.556)
-
-	Surface
-	{
-		SurfStyle       0.818102
-		OceanStyle      0.306864
-		Randomize      (0.586, -0.223, -0.746)
-		colorDistMagn   0.856626
-		colorDistFreq   0.895473
-		detailScale     1028.73
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.988722
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.353129
-		terraceProb     0.160671
-		erosion         0
-		montesMagn      0.262224
-		montesFreq      2.86877
-		montesSpiky     0.98863
-		montesFraction  0.325895
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       3.26263
-		hillsFraction   0.753294
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.199379
-		craterFreq      0.244072
-		craterDensity   0.909245
-		craterOctaves   13
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.418226
-		volcanoTemp     1461.64
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.222, 0.191, 0.156, 0.000)
-		colorShelf     (0.227, 0.197, 0.178, 0.000)
-		colorBeach     (0.267, 0.231, 0.211, 0.000)
-		colorDesert    (0.290, 0.248, 0.206, 0.000)
-		colorLowland   (0.318, 0.265, 0.233, 0.000)
-		colorUpland    (0.352, 0.321, 0.283, 0.000)
-		colorRock      (0.381, 0.349, 0.306, 0.000)
-		colorSnow      (0.415, 0.371, 0.322, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00346235
-		Period          0.0251358
-		Eccentricity    0.20376
-		Inclination     -70.1689
-		AscendingNode   92.2454
-		ArgOfPericenter -75.2388
-		MeanAnomaly     -138.371
-	}
-}
-
-DwarfMoon	"Jakku System 3.D9"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            1.64301e-007
-	Radius          73.7053
-	InertiaMoment   0.397802
-
-	RotationPeriod  1630.9
-	Obliquity       47.9517
-	EqAscendNode    -28.4291
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.781 0.779 0.777)
-
-	Surface
-	{
-		SurfStyle       0.110535
-		OceanStyle      0.189513
-		Randomize      (-0.171, 0.909, -0.232)
-		colorDistMagn   0.693516
-		colorDistFreq   2.70036
-		detailScale     2012.64
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.999339
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.387585
-		terraceProb     0.469377
-		erosion         0
-		montesMagn      0.501357
-		montesFreq      3.68098
-		montesSpiky     0.954185
-		montesFraction  0.441307
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       12.437
-		hillsFraction   0.604358
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.234904
-		craterFreq      0.277714
-		craterDensity   0.854365
-		craterOctaves   15
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.491102
-		volcanoTemp     1573.68
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.313, 0.312, 0.311, 0.000)
-		colorShelf     (0.332, 0.331, 0.330, 0.000)
-		colorBeach     (0.352, 0.351, 0.350, 0.000)
-		colorDesert    (0.371, 0.370, 0.369, 0.000)
-		colorLowland   (0.391, 0.389, 0.389, 0.000)
-		colorUpland    (0.410, 0.409, 0.408, 0.000)
-		colorRock      (0.430, 0.428, 0.427, 0.000)
-		colorSnow      (0.449, 0.448, 0.447, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00398259
-		Period          0.0310087
-		Eccentricity    0.343981
-		Inclination     47.9517
-		AscendingNode   -28.4291
-		ArgOfPericenter 109.148
-		MeanAnomaly     104.09
-	}
-}
-
-DwarfMoon	"Jakku System 3.D10"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            2.26412e-007
-	Radius          56.85
-	InertiaMoment   0.399013
-
-	RotationPeriod  1811.04
-	Obliquity       -80.0033
-	EqAscendNode    -179.708
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.701 0.696 0.693)
-
-	Surface
-	{
-		SurfStyle       0.998487
-		OceanStyle      0.217376
-		Randomize      (-0.700, 0.388, -0.215)
-		colorDistMagn   0.148947
-		colorDistFreq   1.61709
-		detailScale     1552.38
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.00501528
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.409855
-		terraceProb     0.289509
-		erosion         0
-		montesMagn      0.455281
-		montesFreq      2.60143
-		montesSpiky     0.949813
-		montesFraction  0.463201
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       5.63326
-		hillsFraction   0.701237
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.26747
-		craterFreq      0.21525
-		craterDensity   0.872924
-		craterOctaves   14
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.507072
-		volcanoTemp     1593.22
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.238, 0.244, 0.277, 0.050)
-		colorShelf     (0.280, 0.285, 0.319, 0.040)
-		colorBeach     (0.323, 0.327, 0.360, 0.030)
-		colorDesert    (0.365, 0.369, 0.409, 0.020)
-		colorLowland   (0.407, 0.411, 0.450, 0.030)
-		colorUpland    (0.449, 0.452, 0.492, 0.050)
-		colorRock      (0.491, 0.494, 0.547, 0.020)
-		colorSnow      (0.491, 0.494, 0.547, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00427069
-		Period          0.0344337
-		Eccentricity    0.468537
-		Inclination     -80.0033
-		AscendingNode   -179.708
-		ArgOfPericenter -80.8049
-		MeanAnomaly     -75.6757
-	}
-}
-
-DwarfMoon	"Jakku System 3.D11"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            3.13953e-007
-	Radius          55.9881
-	InertiaMoment   0.399929
-
-	Obliquity       21.8852
-	EqAscendNode    79.9699
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.474 0.470 0.466)
-
-	Surface
-	{
-		SurfStyle       0.761592
-		OceanStyle      0.0591449
-		Randomize      (-0.880, 0.614, 0.586)
-		colorDistMagn   0.641261
-		colorDistFreq   1.10147
-		detailScale     1528.85
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.547418
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.721802
-		terraceProb     0.251443
-		erosion         0
-		montesMagn      0.464056
-		montesFreq      3.82636
-		montesSpiky     0.815354
-		montesFraction  0.613023
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       7.63256
-		hillsFraction   0.581344
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.276109
-		craterFreq      0.194731
-		craterDensity   1.06809
-		craterOctaves   14
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.567554
-		volcanoTemp     1218.23
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.185, 0.160, 0.130, 0.000)
-		colorShelf     (0.190, 0.165, 0.149, 0.000)
-		colorBeach     (0.223, 0.193, 0.177, 0.000)
-		colorDesert    (0.242, 0.207, 0.172, 0.000)
-		colorLowland   (0.265, 0.221, 0.196, 0.000)
-		colorUpland    (0.294, 0.268, 0.237, 0.000)
-		colorRock      (0.318, 0.291, 0.256, 0.000)
-		colorSnow      (0.346, 0.310, 0.270, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00465236
-		Period          0.0391514
-		Eccentricity    0.260581
-		Inclination     21.8852
-		AscendingNode   79.9699
-		ArgOfPericenter 19.5743
-		MeanAnomaly     -130.186
-	}
-}
-
-DwarfMoon	"Jakku System 3.D12"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            4.38656e-007
-	Radius          107.263
-	InertiaMoment   0.398018
-
-	RotationPeriod  771.258
-	Obliquity       -74.1217
-	EqAscendNode    -139.081
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.508 0.506 0.503)
-
-	Surface
-	{
-		SurfStyle       0.113852
-		OceanStyle      0.5376
-		Randomize      (-0.882, -0.498, 0.629)
-		colorDistMagn   0.128341
-		colorDistFreq   6.77502
-		detailScale     2929
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.633275
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.466817
-		terraceProb     0.219739
-		erosion         0
-		montesMagn      0.393536
-		montesFreq      3.3859
-		montesSpiky     0.990641
-		montesFraction  0.676152
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       32.5532
-		hillsFraction   0.664015
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.241431
-		craterFreq      0.303987
-		craterDensity   0.856737
-		craterOctaves   15
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.425429
-		volcanoTemp     1313.28
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.203, 0.202, 0.201, 0.000)
-		colorShelf     (0.216, 0.215, 0.214, 0.000)
-		colorBeach     (0.229, 0.227, 0.226, 0.000)
-		colorDesert    (0.241, 0.240, 0.239, 0.000)
-		colorLowland   (0.254, 0.253, 0.252, 0.000)
-		colorUpland    (0.267, 0.265, 0.264, 0.000)
-		colorRock      (0.280, 0.278, 0.277, 0.000)
-		colorSnow      (0.292, 0.291, 0.289, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00502837
-		Period          0.0439924
-		Eccentricity    0.478885
-		Inclination     -74.1217
-		AscendingNode   -139.081
-		ArgOfPericenter -149.338
-		MeanAnomaly     -74.826
-	}
-}
-
-DwarfMoon	"Jakku System 3.D13"
-{
-	ParentBody     "Jakku System 3"
-	Class	       "Asteroid"
-
-	Mass            6.1851e-007
-	Radius          61.8562
-	InertiaMoment   0.399152
-
-	Obliquity       -74.1583
-	EqAscendNode    -48.2725
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.718 0.715 0.711)
-
-	Surface
-	{
-		SurfStyle       0.988059
-		OceanStyle      0.634373
-		Randomize      (-0.251, 0.322, -0.244)
-		colorDistMagn   0.662592
-		colorDistFreq   1.59207
-		detailScale     1689.09
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.840718
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.748289
-		terraceProb     0.126918
-		erosion         0
-		montesMagn      0.626028
-		montesFreq      2.4403
-		montesSpiky     0.93297
-		montesFraction  0.489125
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       6.7633
-		hillsFraction   0.396165
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.194556
-		craterFreq      0.200181
-		craterDensity   1.0946
-		craterOctaves   14
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.493372
-		volcanoTemp     1257.01
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.244, 0.250, 0.284, 0.050)
-		colorShelf     (0.287, 0.293, 0.327, 0.040)
-		colorBeach     (0.330, 0.336, 0.370, 0.030)
-		colorDesert    (0.373, 0.379, 0.420, 0.020)
-		colorLowland   (0.416, 0.422, 0.462, 0.030)
-		colorUpland    (0.459, 0.465, 0.505, 0.050)
-		colorRock      (0.502, 0.508, 0.562, 0.020)
-		colorSnow      (0.502, 0.508, 0.562, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00545734
-		Period          0.0497402
-		Eccentricity    0.421017
-		Inclination     -74.1583
-		AscendingNode   -48.2725
-		ArgOfPericenter -19.1643
-		MeanAnomaly     -83.2796
-	}
-}
-
-Planet	"Jakku System 5"
 {
 	ParentBody     "Jakku System"
 	Class	       "GasGiant"
@@ -3364,7 +706,7 @@ DwarfMoon	"Jakku System 5.D1"
 
 DwarfMoon	"Jakku System 5.D2"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.95863e-008
@@ -3471,9 +813,9 @@ DwarfMoon	"Jakku System 5.D2"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D3"
+DwarfMoon	"Jakku System 2.D3"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.65902e-008
@@ -3580,9 +922,9 @@ DwarfMoon	"Jakku System 5.D3"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D4"
+DwarfMoon	"Jakku System 2.D4"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            3.6081e-008
@@ -3689,9 +1031,9 @@ DwarfMoon	"Jakku System 5.D4"
 	}
 }
 
-Moon	"Jakku System 5.1"
+Moon	"Jakku System 2.1"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Selena"
 
 	Mass            0.0117572
@@ -3820,9 +1162,9 @@ Moon	"Jakku System 5.1"
 	}
 }
 
-Moon	"Jakku System 5.2"
+Moon	"Jakku System 2.2"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Selena"
 
 	Mass            0.0136195
@@ -3951,9 +1293,9 @@ Moon	"Jakku System 5.2"
 	}
 }
 
-Moon	"Jakku System 5.3"
+Moon	"Jakku System 2.3"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Selena"
 
 	Mass            0.0158004
@@ -4080,9 +1422,9 @@ Moon	"Jakku System 5.3"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D5"
+DwarfMoon	"Jakku System 2.D5"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.23866e-007
@@ -4187,9 +1529,9 @@ DwarfMoon	"Jakku System 5.D5"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D6"
+DwarfMoon	"Jakku System 2.D6"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.69915e-007
@@ -4294,9 +1636,9 @@ DwarfMoon	"Jakku System 5.D6"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D7"
+DwarfMoon	"Jakku System 2.D7"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.3429e-007
@@ -4401,9 +1743,9 @@ DwarfMoon	"Jakku System 5.D7"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D8"
+DwarfMoon	"Jakku System 2.D8"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            3.25116e-007
@@ -4508,9 +1850,9 @@ DwarfMoon	"Jakku System 5.D8"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D9"
+DwarfMoon	"Jakku System 2.D9"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            4.54654e-007
@@ -4615,9 +1957,9 @@ DwarfMoon	"Jakku System 5.D9"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D10"
+DwarfMoon	"Jakku System 2.D10"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            6.41751e-007
@@ -4722,9 +2064,9 @@ DwarfMoon	"Jakku System 5.D10"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D11"
+DwarfMoon	"Jakku System 2.D11"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            9.16e-007
@@ -4829,9 +2171,9 @@ DwarfMoon	"Jakku System 5.D11"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D12"
+DwarfMoon	"Jakku System 2.D12"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.32503e-006
@@ -4936,9 +2278,9 @@ DwarfMoon	"Jakku System 5.D12"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D13"
+DwarfMoon	"Jakku System 2.D13"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.94772e-006
@@ -5043,9 +2385,9 @@ DwarfMoon	"Jakku System 5.D13"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D14"
+DwarfMoon	"Jakku System 2.D14"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.91916e-006
@@ -5150,9 +2492,9 @@ DwarfMoon	"Jakku System 5.D14"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D15"
+DwarfMoon	"Jakku System 2.D15"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            4.48005e-006
@@ -5257,9 +2599,9 @@ DwarfMoon	"Jakku System 5.D15"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D16"
+DwarfMoon	"Jakku System 2.D16"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.21489e-011
@@ -5364,9 +2706,9 @@ DwarfMoon	"Jakku System 5.D16"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D17"
+DwarfMoon	"Jakku System 2.D17"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.48102e-011
@@ -5471,9 +2813,9 @@ DwarfMoon	"Jakku System 5.D17"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D18"
+DwarfMoon	"Jakku System 2.D18"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            4.60407e-011
@@ -5578,9 +2920,9 @@ DwarfMoon	"Jakku System 5.D18"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D19"
+DwarfMoon	"Jakku System 2.D19"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            7.98709e-011
@@ -5685,9 +3027,9 @@ DwarfMoon	"Jakku System 5.D19"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D20"
+DwarfMoon	"Jakku System 2.D20"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.31808e-010
@@ -5792,9 +3134,9 @@ DwarfMoon	"Jakku System 5.D20"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D21"
+DwarfMoon	"Jakku System 2.D21"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.09322e-010
@@ -5899,9 +3241,9 @@ DwarfMoon	"Jakku System 5.D21"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D22"
+DwarfMoon	"Jakku System 2.D22"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            3.2249e-010
@@ -6006,9 +3348,9 @@ DwarfMoon	"Jakku System 5.D22"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D23"
+DwarfMoon	"Jakku System 2.D23"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            4.84852e-010
@@ -6113,9 +3455,9 @@ DwarfMoon	"Jakku System 5.D23"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D24"
+DwarfMoon	"Jakku System 2.D24"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            7.14548e-010
@@ -6220,9 +3562,9 @@ DwarfMoon	"Jakku System 5.D24"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D25"
+DwarfMoon	"Jakku System 2.D25"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.03584e-009
@@ -6327,9 +3669,9 @@ DwarfMoon	"Jakku System 5.D25"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D26"
+DwarfMoon	"Jakku System 2.D26"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.48114e-009
@@ -6434,9 +3776,9 @@ DwarfMoon	"Jakku System 5.D26"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D27"
+DwarfMoon	"Jakku System 2.D27"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.09377e-009
@@ -6541,9 +3883,9 @@ DwarfMoon	"Jakku System 5.D27"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D28"
+DwarfMoon	"Jakku System 2.D28"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.93166e-009
@@ -6648,9 +3990,9 @@ DwarfMoon	"Jakku System 5.D28"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D29"
+DwarfMoon	"Jakku System 2.D29"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            4.07236e-009
@@ -6755,9 +4097,9 @@ DwarfMoon	"Jakku System 5.D29"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D30"
+DwarfMoon	"Jakku System 2.D30"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            5.61994e-009
@@ -6862,9 +4204,9 @@ DwarfMoon	"Jakku System 5.D30"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D31"
+DwarfMoon	"Jakku System 2.D31"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            7.71447e-009
@@ -6969,9 +4311,9 @@ DwarfMoon	"Jakku System 5.D31"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D32"
+DwarfMoon	"Jakku System 2.D32"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.0545e-008
@@ -7076,9 +4418,9 @@ DwarfMoon	"Jakku System 5.D32"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D33"
+DwarfMoon	"Jakku System 2.D33"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.4368e-008
@@ -7183,9 +4525,9 @@ DwarfMoon	"Jakku System 5.D33"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D34"
+DwarfMoon	"Jakku System 2.D34"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.95328e-008
@@ -7290,9 +4632,9 @@ DwarfMoon	"Jakku System 5.D34"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D35"
+DwarfMoon	"Jakku System 2.D35"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.65178e-008
@@ -7397,9 +4739,9 @@ DwarfMoon	"Jakku System 5.D35"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D36"
+DwarfMoon	"Jakku System 2.D36"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            3.59829e-008
@@ -7504,9 +4846,9 @@ DwarfMoon	"Jakku System 5.D36"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D37"
+DwarfMoon	"Jakku System 2.D37"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            4.8844e-008
@@ -7611,9 +4953,9 @@ DwarfMoon	"Jakku System 5.D37"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D38"
+DwarfMoon	"Jakku System 2.D38"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            6.63838e-008
@@ -7718,9 +5060,9 @@ DwarfMoon	"Jakku System 5.D38"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D39"
+DwarfMoon	"Jakku System 2.D39"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            9.04137e-008
@@ -7825,9 +5167,9 @@ DwarfMoon	"Jakku System 5.D39"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D40"
+DwarfMoon	"Jakku System 2.D40"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.23519e-007
@@ -7932,9 +5274,9 @@ DwarfMoon	"Jakku System 5.D40"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D41"
+DwarfMoon	"Jakku System 2.D41"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.69433e-007
@@ -8039,9 +5381,9 @@ DwarfMoon	"Jakku System 5.D41"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D42"
+DwarfMoon	"Jakku System 2.D42"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.33612e-007
@@ -8146,9 +5488,9 @@ DwarfMoon	"Jakku System 5.D42"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D43"
+DwarfMoon	"Jakku System 2.D43"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            3.24155e-007
@@ -8253,9 +5595,9 @@ DwarfMoon	"Jakku System 5.D43"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D44"
+DwarfMoon	"Jakku System 2.D44"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            4.53277e-007
@@ -8360,9 +5702,9 @@ DwarfMoon	"Jakku System 5.D44"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D45"
+DwarfMoon	"Jakku System 2.D45"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            6.3975e-007
@@ -8467,9 +5809,9 @@ DwarfMoon	"Jakku System 5.D45"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D46"
+DwarfMoon	"Jakku System 2.D46"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            9.13044e-007
@@ -8574,9 +5916,9 @@ DwarfMoon	"Jakku System 5.D46"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D47"
+DwarfMoon	"Jakku System 2.D47"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.32058e-006
@@ -8681,9 +6023,9 @@ DwarfMoon	"Jakku System 5.D47"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D48"
+DwarfMoon	"Jakku System 2.D48"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.94088e-006
@@ -8788,9 +6130,9 @@ DwarfMoon	"Jakku System 5.D48"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D49"
+DwarfMoon	"Jakku System 2.D49"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.90835e-006
@@ -8895,9 +6237,9 @@ DwarfMoon	"Jakku System 5.D49"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D50"
+DwarfMoon	"Jakku System 2.D50"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            4.46241e-006
@@ -9002,9 +6344,9 @@ DwarfMoon	"Jakku System 5.D50"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D51"
+DwarfMoon	"Jakku System 2.D51"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.2065e-011
@@ -9109,9 +6451,9 @@ DwarfMoon	"Jakku System 5.D51"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D52"
+DwarfMoon	"Jakku System 2.D52"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.46643e-011
@@ -9216,9 +6558,9 @@ DwarfMoon	"Jakku System 5.D52"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D53"
+DwarfMoon	"Jakku System 2.D53"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            4.58024e-011
@@ -9323,9 +6665,9 @@ DwarfMoon	"Jakku System 5.D53"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D54"
+DwarfMoon	"Jakku System 2.D54"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            7.94982e-011
@@ -9430,9 +6772,9 @@ DwarfMoon	"Jakku System 5.D54"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D55"
+DwarfMoon	"Jakku System 2.D55"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.31244e-010
@@ -9537,9 +6879,9 @@ DwarfMoon	"Jakku System 5.D55"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D56"
+DwarfMoon	"Jakku System 2.D56"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.08489e-010
@@ -9644,9 +6986,9 @@ DwarfMoon	"Jakku System 5.D56"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D57"
+DwarfMoon	"Jakku System 2.D57"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            3.21285e-010
@@ -9751,9 +7093,9 @@ DwarfMoon	"Jakku System 5.D57"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D58"
+DwarfMoon	"Jakku System 2.D58"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            4.83135e-010
@@ -9858,9 +7200,9 @@ DwarfMoon	"Jakku System 5.D58"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D59"
+DwarfMoon	"Jakku System 2.D59"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            7.12133e-010
@@ -9965,9 +7307,9 @@ DwarfMoon	"Jakku System 5.D59"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D60"
+DwarfMoon	"Jakku System 2.D60"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.03248e-009
@@ -10072,9 +7414,9 @@ DwarfMoon	"Jakku System 5.D60"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D61"
+DwarfMoon	"Jakku System 2.D61"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            1.4765e-009
@@ -10179,9 +7521,9 @@ DwarfMoon	"Jakku System 5.D61"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D62"
+DwarfMoon	"Jakku System 2.D62"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.08741e-009
@@ -10286,9 +7628,9 @@ DwarfMoon	"Jakku System 5.D62"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D63"
+DwarfMoon	"Jakku System 2.D63"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            2.92297e-009
@@ -10393,9 +7735,9 @@ DwarfMoon	"Jakku System 5.D63"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D64"
+DwarfMoon	"Jakku System 2.D64"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            4.06055e-009
@@ -10500,9 +7842,9 @@ DwarfMoon	"Jakku System 5.D64"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D65"
+DwarfMoon	"Jakku System 2.D65"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            5.60395e-009
@@ -10607,9 +7949,9 @@ DwarfMoon	"Jakku System 5.D65"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D66"
+DwarfMoon	"Jakku System 2.D66"
 {
-	ParentBody     "Jakku System 5"
+	ParentBody     "Jakku System 2"
 	Class	       "Asteroid"
 
 	Mass            7.69284e-009
@@ -10714,7 +8056,7 @@ DwarfMoon	"Jakku System 5.D66"
 	}
 }
 
-DwarfMoon	"Jakku System 5.D67"
+DwarfMoon	"Jakku System 2.D67"
 {
 	ParentBody     "Jakku System 5"
 	Class	       "Asteroid"
@@ -10821,7 +8163,7 @@ DwarfMoon	"Jakku System 5.D67"
 	}
 }
 
-Planet	"Jakku System 6"
+Planet	"Jakku System 3"
 {
 	ParentBody     "Jakku System"
 	Class	       "IceWorld"
@@ -12987,7 +10329,7 @@ DwarfMoon	"Jakku System 7.D12"
 
 DwarfMoon	"Jakku System 7.D13"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            5.79594e-009
@@ -13092,9 +10434,9 @@ DwarfMoon	"Jakku System 7.D13"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D14"
+DwarfMoon	"Jakku System 4.D14"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            7.95244e-009
@@ -13199,9 +10541,9 @@ DwarfMoon	"Jakku System 7.D14"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D15"
+DwarfMoon	"Jakku System 4.D15"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.08665e-008
@@ -13306,9 +10648,9 @@ DwarfMoon	"Jakku System 7.D15"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D16"
+DwarfMoon	"Jakku System 4.D16"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.48022e-008
@@ -13413,9 +10755,9 @@ DwarfMoon	"Jakku System 7.D16"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D17"
+DwarfMoon	"Jakku System 4.D17"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            2.01196e-008
@@ -13520,9 +10862,9 @@ DwarfMoon	"Jakku System 7.D17"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D18"
+DwarfMoon	"Jakku System 4.D18"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            2.73121e-008
@@ -13627,9 +10969,9 @@ DwarfMoon	"Jakku System 7.D18"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D19"
+DwarfMoon	"Jakku System 4.D19"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            3.70606e-008
@@ -13734,9 +11076,9 @@ DwarfMoon	"Jakku System 7.D19"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D20"
+DwarfMoon	"Jakku System 4.D20"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            5.0311e-008
@@ -13841,9 +11183,9 @@ DwarfMoon	"Jakku System 7.D20"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D21"
+DwarfMoon	"Jakku System 4.D21"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            6.83888e-008
@@ -13948,9 +11290,9 @@ DwarfMoon	"Jakku System 7.D21"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D22"
+DwarfMoon	"Jakku System 4.D22"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            9.31682e-008
@@ -14055,9 +11397,9 @@ DwarfMoon	"Jakku System 7.D22"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D23"
+DwarfMoon	"Jakku System 4.D23"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.27327e-007
@@ -14162,9 +11504,9 @@ DwarfMoon	"Jakku System 7.D23"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D24"
+DwarfMoon	"Jakku System 4.D24"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.74734e-007
@@ -14269,9 +11611,9 @@ DwarfMoon	"Jakku System 7.D24"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D25"
+DwarfMoon	"Jakku System 4.D25"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            2.41056e-007
@@ -14376,9 +11718,9 @@ DwarfMoon	"Jakku System 7.D25"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D26"
+DwarfMoon	"Jakku System 4.D26"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            3.34713e-007
@@ -14483,9 +11825,9 @@ DwarfMoon	"Jakku System 7.D26"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D27"
+DwarfMoon	"Jakku System 4.D27"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            4.68427e-007
@@ -14590,9 +11932,9 @@ DwarfMoon	"Jakku System 7.D27"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D28"
+DwarfMoon	"Jakku System 4.D28"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            6.61786e-007
@@ -14697,9 +12039,9 @@ DwarfMoon	"Jakku System 7.D28"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D29"
+DwarfMoon	"Jakku System 4.D29"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            9.45616e-007
@@ -14804,9 +12146,9 @@ DwarfMoon	"Jakku System 7.D29"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D30"
+DwarfMoon	"Jakku System 4.D30"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.36964e-006
@@ -14911,9 +12253,9 @@ DwarfMoon	"Jakku System 7.D30"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D31"
+DwarfMoon	"Jakku System 4.D31"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            2.01643e-006
@@ -15018,9 +12360,9 @@ DwarfMoon	"Jakku System 7.D31"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D32"
+DwarfMoon	"Jakku System 4.D32"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            3.02786e-006
@@ -15125,9 +12467,9 @@ DwarfMoon	"Jakku System 7.D32"
 	}
 }
 
-Moon	"Jakku System 7.4"
+Moon	"Jakku System 4.4"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "IceWorld"
 
 	Mass            4.6577e-006
@@ -15257,9 +12599,9 @@ Moon	"Jakku System 7.4"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D33"
+DwarfMoon	"Jakku System 4.D33"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.29978e-011
@@ -15364,9 +12706,9 @@ DwarfMoon	"Jakku System 7.D33"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D34"
+DwarfMoon	"Jakku System 4.D34"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            2.62801e-011
@@ -15471,9 +12813,9 @@ DwarfMoon	"Jakku System 7.D34"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D35"
+DwarfMoon	"Jakku System 4.D35"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            4.84362e-011
@@ -15578,9 +12920,9 @@ DwarfMoon	"Jakku System 7.D35"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D36"
+DwarfMoon	"Jakku System 4.D36"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            8.361e-011
@@ -15685,9 +13027,9 @@ DwarfMoon	"Jakku System 7.D36"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D37"
+DwarfMoon	"Jakku System 4.D37"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.37459e-010
@@ -15792,9 +13134,9 @@ DwarfMoon	"Jakku System 7.D37"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D38"
+DwarfMoon	"Jakku System 4.D38"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            2.17654e-010
@@ -15899,9 +13241,9 @@ DwarfMoon	"Jakku System 7.D38"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D39"
+DwarfMoon	"Jakku System 4.D39"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            3.34539e-010
@@ -16006,9 +13348,9 @@ DwarfMoon	"Jakku System 7.D39"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D40"
+DwarfMoon	"Jakku System 4.D40"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            5.02005e-010
@@ -16113,9 +13455,9 @@ DwarfMoon	"Jakku System 7.D40"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D41"
+DwarfMoon	"Jakku System 4.D41"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            7.38665e-010
@@ -16220,9 +13562,9 @@ DwarfMoon	"Jakku System 7.D41"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D42"
+DwarfMoon	"Jakku System 4.D42"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.0694e-009
@@ -16327,9 +13669,9 @@ DwarfMoon	"Jakku System 7.D42"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D43"
+DwarfMoon	"Jakku System 4.D43"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.52747e-009
@@ -16434,9 +13776,9 @@ DwarfMoon	"Jakku System 7.D43"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D44"
+DwarfMoon	"Jakku System 4.D44"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            2.1573e-009
@@ -16541,9 +13883,9 @@ DwarfMoon	"Jakku System 7.D44"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D45"
+DwarfMoon	"Jakku System 4.D45"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            3.01832e-009
@@ -16648,9 +13990,9 @@ DwarfMoon	"Jakku System 7.D45"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D46"
+DwarfMoon	"Jakku System 4.D46"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            4.1901e-009
@@ -16755,9 +14097,9 @@ DwarfMoon	"Jakku System 7.D46"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D47"
+DwarfMoon	"Jakku System 4.D47"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            5.77946e-009
@@ -16862,9 +14204,9 @@ DwarfMoon	"Jakku System 7.D47"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D48"
+DwarfMoon	"Jakku System 4.D48"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            7.93017e-009
@@ -16969,9 +14311,9 @@ DwarfMoon	"Jakku System 7.D48"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D49"
+DwarfMoon	"Jakku System 4.D49"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.08364e-008
@@ -17076,9 +14418,9 @@ DwarfMoon	"Jakku System 7.D49"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D50"
+DwarfMoon	"Jakku System 4.D50"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.47616e-008
@@ -17183,9 +14525,9 @@ DwarfMoon	"Jakku System 7.D50"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D51"
+DwarfMoon	"Jakku System 4.D51"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            2.00647e-008
@@ -17290,9 +14632,9 @@ DwarfMoon	"Jakku System 7.D51"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D52"
+DwarfMoon	"Jakku System 4.D52"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            2.72377e-008
@@ -17397,9 +14739,9 @@ DwarfMoon	"Jakku System 7.D52"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D53"
+DwarfMoon	"Jakku System 4.D53"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            3.69597e-008
@@ -17504,9 +14846,9 @@ DwarfMoon	"Jakku System 7.D53"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D54"
+DwarfMoon	"Jakku System 4.D54"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            5.01737e-008
@@ -17611,9 +14953,9 @@ DwarfMoon	"Jakku System 7.D54"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D55"
+DwarfMoon	"Jakku System 4.D55"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            6.82011e-008
@@ -17718,9 +15060,9 @@ DwarfMoon	"Jakku System 7.D55"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D56"
+DwarfMoon	"Jakku System 4.D56"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            9.29102e-008
@@ -17825,9 +15167,9 @@ DwarfMoon	"Jakku System 7.D56"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D57"
+DwarfMoon	"Jakku System 4.D57"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.2697e-007
@@ -17932,9 +15274,9 @@ DwarfMoon	"Jakku System 7.D57"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D58"
+DwarfMoon	"Jakku System 4.D58"
 {
-	ParentBody     "Jakku System 7"
+	ParentBody     "Jakku System 4"
 	Class	       "Asteroid"
 
 	Mass            1.74237e-007
@@ -18039,7 +15381,7 @@ DwarfMoon	"Jakku System 7.D58"
 	}
 }
 
-DwarfMoon	"Jakku System 7.D59"
+DwarfMoon	"Jakku System 4.D59"
 {
 	ParentBody     "Jakku System 7"
 	Class	       "Asteroid"
@@ -18933,7 +16275,7 @@ Moon	"Jakku System 8.3"
 
 Moon	"Jakku System 8.4"
 {
-	ParentBody     "Jakku System 8"
+	ParentBody     "Jakku System 5"
 	Class	       "IceWorld"
 
 	Mass            0.000155128
@@ -19063,9 +16405,9 @@ Moon	"Jakku System 8.4"
 	}
 }
 
-Moon	"Jakku System 8.5"
+Moon	"Jakku System 5.5"
 {
-	ParentBody     "Jakku System 8"
+	ParentBody     "Jakku System 5"
 	Class	       "IceWorld"
 
 	Mass            0.000196816
@@ -19195,9 +16537,9 @@ Moon	"Jakku System 8.5"
 	}
 }
 
-Moon	"Jakku System 8.6"
+Moon	"Jakku System 5.6"
 {
-	ParentBody     "Jakku System 8"
+	ParentBody     "Jakku System 5"
 	Class	       "IceWorld"
 
 	Mass            0.00244494
@@ -19327,9 +16669,9 @@ Moon	"Jakku System 8.6"
 	}
 }
 
-Moon	"Jakku System 8.7"
+Moon	"Jakku System 5.7"
 {
-	ParentBody     "Jakku System 8"
+	ParentBody     "Jakku System 5"
 	Class	       "IceWorld"
 
 	Mass            0.000298898
@@ -19459,9 +16801,9 @@ Moon	"Jakku System 8.7"
 	}
 }
 
-DwarfMoon	"Jakku System 8.D3"
+DwarfMoon	"Jakku System 5.D3"
 {
-	ParentBody     "Jakku System 8"
+	ParentBody     "Jakku System 5"
 	Class	       "Asteroid"
 
 	Mass            1.30227e-009
@@ -19566,9 +16908,9 @@ DwarfMoon	"Jakku System 8.D3"
 	}
 }
 
-DwarfMoon	"Jakku System 8.D4"
+DwarfMoon	"Jakku System 5.D4"
 {
-	ParentBody     "Jakku System 8"
+	ParentBody     "Jakku System 5"
 	Class	       "Asteroid"
 
 	Mass            1.84816e-009
@@ -20400,7 +17742,7 @@ Moon	"Jakku System 9.1"
 
 Moon	"Jakku System 9.2"
 {
-	ParentBody     "Jakku System 9"
+	ParentBody     "Jakku System 6"
 	Class	       "Selena"
 
 	Mass            0.0351632
@@ -20551,9 +17893,9 @@ Moon	"Jakku System 9.2"
 	}
 }
 
-Moon	"Jakku System 9.3"
+Moon	"Jakku System 6.3"
 {
-	ParentBody     "Jakku System 9"
+	ParentBody     "Jakku System 6"
 	Class	       "IceWorld"
 
 	Mass            0.00411858
@@ -20685,9 +18027,9 @@ Moon	"Jakku System 9.3"
 	}
 }
 
-Moon	"Jakku System 9.4"
+Moon	"Jakku System 6.4"
 {
-	ParentBody     "Jakku System 9"
+	ParentBody     "Jakku System 6"
 	Class	       "IceWorld"
 
 	Mass            0.00484758
@@ -20817,9 +18159,9 @@ Moon	"Jakku System 9.4"
 	}
 }
 
-Moon	"Jakku System 9.5"
+Moon	"Jakku System 6.5"
 {
-	ParentBody     "Jakku System 9"
+	ParentBody     "Jakku System 6"
 	Class	       "IceWorld"
 
 	Mass            0.00574033
@@ -20949,9 +18291,9 @@ Moon	"Jakku System 9.5"
 	}
 }
 
-Moon	"Jakku System 9.6"
+Moon	"Jakku System 6.6"
 {
-	ParentBody     "Jakku System 9"
+	ParentBody     "Jakku System 6"
 	Class	       "IceWorld"
 
 	Mass            0.00684881
@@ -21213,7 +18555,7 @@ Moon	"Jakku System 9.7"
 	}
 }
 
-Planet	"Jakku System 10"
+Planet	"Jakku System 7"
 {
 	ParentBody     "Jakku System"
 	Class	       "IceWorld"
