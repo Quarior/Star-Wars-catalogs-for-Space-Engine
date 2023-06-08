@@ -7,182 +7,186 @@
 // http://starwars.wikia.com/wiki/Iridonia/Legends
 Planet	"Iridonia/Iridonia System 1"
 {
-	ParentBody		"Iridonia System"
-	Class	       	"Terra"
-
-	Mass			0.87
-	InertiaMoment	0.374798
-
-	Oblateness      0.00173823
-
+	ParentBody     "Iridonia System"
+	Class          "Terra"
+	Mass            0.87
+	Radius          6023.6
+	InertiaMoment   0.3748
+	Oblateness      0.0017382
 	RotationPeriod  29
 	Obliquity       18.23
-	EqAscendNode    -110.573
-	//Precession      0
-	TidalLocked     false
+	EqAscendNode    -110.57
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
 	Brightness      2
-	Color          (0.642 0.637 0.635)
-    
-    Life
+	BrightnessReal  1
+
+	Life
 	{
 		Class   "Organic"
 		Type    "Multicellular"
 		Biome   "Marine/Terrestrial"
-		Panspermia "false"
 	}
 
 	Surface
 	{
-		SurfStyle       0.624603
-		OceanStyle      0.912698
-		Randomize      (-0.749, 0.129, -0.197)
-		colorDistMagn   0.293651
-		colorDistFreq   136.557
-		detailScale     2.01688e+008
-		colorConversion true
+		Preset         "terra_wet_mars_black_plants.cfg"
+		SurfStyle       0.6246
+		Randomize      (0.046, -0.473, -0.840)
+		colorDistMagn   0.55725
+		colorDistFreq   136.56
+		detailScale     2.0169e+08
 		drivenDarkening -1
-		seaLevel        0.206349
+		seaLevel        0.030534
 		snowLevel       0.31746
-		tropicLatitude  0.947359
+		tropicLatitude  0.76336
 		icecapLatitude  1
-		icecapHeight    0.5
-		climatePole     0.68254
-		climateTropic   0.992063
-		climateEquator  0.6875
+		icecapHeight    0.21374
+		climatePole     0.72519
+		climateTropic   0.84733
+		climateEquator  0.77863
+		climateSteppeMin 0.3125
+		climateSteppeMax 0.5625
+		climateForestMin 0.5
+		climateForestMax 0.6875
+		climateGrassMin  0.625
+		climateGrassMax  0.8125
+		humidity        0.63359
 		heightTempGrad  0.625
+		beachWidth      0.00033588
 		tropicWidth     0.5
-		mainFreq        0.277778
-		venusFreq       1.04762
-		venusMagn       2.22222
-		mareFreq        0.00334048
-		mareDensity     1
-		terraceProb     0.047619
-		erosion         0.0555556
-		montesMagn      5.07937
-		montesFreq      301.587
-		montesSpiky     0.0238095
-		montesFraction  0.293651
-		dunesMagn       0.793651
-		dunesFreq       11.7626
-		dunesFraction   0.0179516
+		mainFreq        1.0687
+		venusFreq       0.79389
+		venusMagn       1.3359
+		mareFreq        0.001
+		mareDensity     0.038168
+		terraceProb     0
+		erosion         0.055556
+		montesMagn      1.5267
+		montesFreq      30.534
+		montesSpiky     0.02381
+		montesFraction  0.053435
+		dunesMagn       0.79365
+		dunesFreq       9160.3
+		dunesFraction   0.061069
 		hillsMagn       0.31746
-		hillsFreq       108.598
-		hillsFraction   0
-		hills2Fraction  0
-		riversMagn      6.34921
-		riversFreq      0.634921
-		riversSin       0.634921
-		riversOctaves   0
-		canyonsMagn     6.26984
-		canyonsFreq     16.6667
-		canyonFraction  0.445594
-		cracksMagn      0.714286
-		cracksFreq      0.277778
+		hillsFreq       687.02
+		hillsFraction   0.068702
+		hills2Fraction  0.10687
+		riversMagn      6.3492
+		riversFreq      0.63492
+		riversSin       0.63492
+		riftsMagn       0
+		riftsFreq       0.61069
+		riftsSin        0.61069
+		canyonsMagn     0.076336
+		canyonsFreq     16.667
+		canyonsFraction 0.099237
+		cracksMagn      0.71429
+		cracksFreq      0.27778
 		cracksOctaves   1
-		craterMagn      0.597257
+		craterMagn      2.6718
 		craterFreq      0
-		craterDensity   0.526346
+		craterDensity   0.19084
 		craterOctaves   6
 		craterRayedFactor 0.031746
-		volcanoMagn     0.217295
-		volcanoFreq     0.827352
+		volcanoMagn     0.61832
+		volcanoFreq     1.2672
 		volcanoDensity  0.4
 		volcanoOctaves  3
 		volcanoActivity 2
-		volcanoFlows    0.869099
-		volcanoRadius   0.595238
-		volcanoTemp     1669.02
+		volcanoFlows    0.61069
+		volcanoRadius   0.76336
+		volcanoTemp     1669
 		lavaCoverTidal  0.047619
-		lavaCoverSun    0.103175
-		lavaCoverYoung  0.571429
-		stripeZones     1.97849
+		lavaCoverSun    0.10317
+		lavaCoverYoung  0.38931
+		stripeZones     1.9785
 		stripeFluct     0
-		stripeTwist     0.0807239
-		cycloneMagn     2.89245
-		cycloneFreq     0.829939
-		cycloneDensity  0.418808
+		stripeTwist     0.080724
+		cycloneMagn     4.7328
+		cycloneFreq     1.2061
+		cycloneDensity  0.41881
 		cycloneOctaves  3
-		colorSea       (0.170, 0.070, 0.040, 1.000)
-		colorShelf     (0.320, 0.110, 0.000, 1.000)
-		colorBeach     (0.780, 0.750, 0.740, 0.000)
-		colorDesert    (0.500, 0.370, 0.500, 1.000)
-		colorLowland   (0.500, 0.370, 0.500, 1.000)
-		colorUpland    (0.170, 0.130, 0.120, 1.000)
-		colorRock      (0.170, 0.130, 0.120, 1.000)
-		colorSnow      (0.500, 0.370, 0.500, 1.000)
-		colorLowPlants (0.500, 0.370, 0.500, 1.000)
-		colorUpPlants  (0.170, 0.130, 0.120, 1.000)
-		BumpHeight      19.8413
-		BumpOffset      7.14286
+		cycloneMagn2     1.9847
+		cycloneFreq2     0.53435
+		cycloneLatitude2 0.26718
+		cycloneOctaves2  1
+		BumpHeight      19.841
+		BumpOffset      7.1429
 		DiffMapAlpha   "Water"
 		SpecBrightWater 0.5
 		SpecBrightIce   0.5
-		SpecularPower   30
+		RoughnessWater  0.50737
+		RoughnessIce    0.50737
+		SpecularScale   1
+		RoughnessBias   0.5
 		Hapke           0.73684
 		SpotBright      4
 		SpotWidth       0.05
 		DayAmbient      0.07
 	}
 
+	Ocean
+	{
+		Depth           0.60575
+		Hapke           0
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		ModulateBright  1
+	}
+
 	Clouds
 	{
-		Height          105.635
-		Velocity        105.928
-		BumpHeight      10.3175
-		BumpOffset      11.1111
+		Height          105.63
+		Velocity        105.93
+		BumpHeight      10.318
+		BumpOffset      11.111
 		Hapke           0.2
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      2
-		mainFreq        1.08938
+		ModulateBright  1
+		mainFreq        0.66412
 		mainOctaves     10
-		Coverage        0.230159
-		stripeZones     1.97849
+		Coverage        0.51145
+		stripeZones     1.9785
 		stripeFluct     0
-		stripeTwist     0.0807239
-	}
-
-	Ocean
-	{
-		Height          4.09403
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
+		stripeTwist     0.080724
 	}
 
 	Lava
 	{
-		Height          -1e+038
+		Height          -1e+38
 		Hapke           0
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      2
+		ModulateBright  1
 	}
 
 	Atmosphere
 	{
-		Model          "Earth"
-		Height          223.463
-		Density         1e-009
-		Pressure        0.4347
-		Greenhouse      2.3771
-		Bright          11.1111
-		Opacity         0.253968
-		SkyLight        4.52381
-		Hue             0.0238096
-		Saturation      1.42857
+		Model          "Thick"
+		Height          223.46
+		Density         1e-09
+		Pressure        1.8828
+		Greenhouse      34.351
+		Bright          5.4962
+		Opacity         0.25397
+		SkyLight        4.5238
+		Hue             -0.5
+		Saturation      0.51908
 
 		Composition
 		{
-			N2    	77.7729
-			O2    	20.8625
-			Ar    	0.9303
-			H2O   	0.4
-			CO2   	0.0398
+			N2        	77.773
+			O2        	20.862
+			Ar        	0.9303
+			H2O       	0.4
+			CO2       	0.0398
 		}
 	}
 
@@ -197,7 +201,8 @@ Planet	"Iridonia/Iridonia System 1"
 	Orbit
 	{
 		RefPlane        "Equator"
-		Period          1.13073
+		Period          4.47801694
+		SemiMajorAxis   1.09216366
 		Eccentricity    0.0062968
 		Inclination     -2.66638
 		AscendingNode   -100.008
