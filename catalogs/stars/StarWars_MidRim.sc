@@ -2870,7 +2870,7 @@ Star "Iridonia system" // system name
     RA         0.08735027194959505
     Dec        24.58653310260957
     Dist       382992486.89218366
-    Class      "M8 V"
+    Class      "G8 V"
 }
 
 // http://starwars.wikia.com/wiki/Iskalon
