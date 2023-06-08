@@ -1727,7 +1727,7 @@ Planet	"Morvolo/Japrael System 4"
 
 	NoLava          true
 
-	NoAtmosphere
+	NoAtmosphere	true
 
 	Aurora
 	{
