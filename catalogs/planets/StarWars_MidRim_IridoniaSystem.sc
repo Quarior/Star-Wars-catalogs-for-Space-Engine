@@ -102,6 +102,7 @@ Planet	"Iridonia/Iridonia System 1"
 		lavaCoverTidal  0.047619
 		lavaCoverSun    0.10317
 		lavaCoverYoung  0.38931
+		colorSea       (0.110, 0.022, 0.022, 1.000)
 		stripeZones     1.9785
 		stripeFluct     0
 		stripeTwist     0.080724
