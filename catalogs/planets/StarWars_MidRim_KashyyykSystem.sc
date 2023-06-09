@@ -1096,7 +1096,7 @@ Moon	"Wasskah"
 	Mass            0.443
 	Radius          3242
 	InertiaMoment   0.33162
-	Oblateness      0.075
+	Oblateness      0.06
 	OblatenessInfo  0
 	RotationPeriod  25
 	Obliquity       5.89
@@ -1118,85 +1118,86 @@ Moon	"Wasskah"
 	{
 		Preset         "terra_wet_yellow_green_plants.cfg"
 		SurfStyle       0.35962
-		Randomize      (-0.472, -0.143, -0.505)
-		colorDistMagn   0.062272
-		colorDistFreq   409.44
+		Randomize      (-0.321, 1.328, -0.402)
+		colorDistMagn   0.079905
+		colorDistFreq   365.2
 		detailScale     8192
 		drivenDarkening 0
-		seaLevel        0.05
-		snowLevel       0.85
-		tropicLatitude  0.18254
-		icecapLatitude  2
-		icecapHeight    0.143
-		climatePole     0.45
-		climateTropic   0.45
-		climateEquator  0.45
-		climateSteppeMin 0
-		climateSteppeMax 0.3125
-		climateForestMin 0.25
-		climateForestMax 0.5625
-		climateGrassMin  0.5
+		seaLevel        0.0076336
+		snowLevel       0.99824
+		tropicLatitude  0.57792
+		icecapLatitude  1
+		icecapHeight    0
+		climatePole     0.83969
+		climateTropic   0.75573
+		climateEquator  0.61832
+		climateSteppeMin -0.20611
+		climateSteppeMax 0.14504
+		climateForestMin 0.17557
+		climateForestMax 0.29771
+		climateGrassMin  0.625
 		climateGrassMax  0.8125
-		humidity        1
-		heightTempGrad  0.4875
+		humidity        0.87786
+		heightTempGrad  0.625
 		beachWidth      0.0013194
 		tropicWidth     0.07
-		mainFreq        0.74092
-		venusFreq       1.3623
-		venusMagn       0.68416
-		mareFreq        1.1744
+		mainFreq        0.72519
+		venusFreq       0.32061
+		venusMagn       0.30534
+		mareFreq        2.9675
 		mareDensity     0
-		terraceProb     0.13167
-		erosion         0
-		montesMagn      0.24235
-		montesFreq      135.32
-		montesSpiky     0.95758
-		montesFraction  0.2486
-		dunesMagn       0.069551
-		dunesFreq       26.384
-		dunesFraction   0.38957
-		hillsMagn       0.11467
-		hillsFreq       458.24
-		hillsFraction   0
-		hills2Fraction  0
-		riversMagn      0
+		terraceProb     0.26906
+		erosion         0.96183
+		montesMagn      0.24815
+		montesFreq      187.61
+		montesSpiky     0.8955
+		montesFraction  0.94604
+		dunesMagn       0.054439
+		dunesFreq       33.933
+		dunesFraction   0.93156
+		hillsMagn       0.15267
+		hillsFreq       303.83
+		hillsFraction   0.96207
+		hills2Fraction  0.54104
+		riversMagn      65.206
 		riversFreq      3.6223
 		riversSin       6.6194
-		riftsMagn       62.752
-		riftsFreq       2.7301
-		riftsSin        6.2978
-		canyonsMagn     0.046975
-		canyonsFreq     91.741
-		canyonsFraction 0
-		cracksMagn      0.074951
-		cracksFreq      0.31164
+		riftsMagn       25.954
+		riftsFreq       4.4275
+		riftsSin        5.6138
+		canyonsMagn     0.38168
+		canyonsFreq     198.47
+		canyonsFraction 0.21374
+		cracksMagn      0.11884
+		cracksFreq      0.2266
 		cracksOctaves   0
-		craterMagn      0.83606
-		craterFreq      9.7762
+		craterMagn      0.81348
+		craterFreq      10.438
 		craterDensity   0
 		craterOctaves   0
-		volcanoMagn     0.69279
-		volcanoFreq     0.67015
+		volcanoMagn     0.75906
+		volcanoFreq     0.68577
 		volcanoDensity  0.4
 		volcanoOctaves  3
-		volcanoActivity 2
-		volcanoFlows    0.86566
+		volcanoActivity 0.44275
+		volcanoFlows    0.81171
 		volcanoRadius   0.50103
-		volcanoTemp     170.51
-		lavaCoverTidal  0.027493
+		volcanoTemp     953.58
+		lavaCoverTidal  0.044006
 		lavaCoverSun    0
 		lavaCoverYoung  0
 		stripeZones     1.8989
 		stripeFluct     0.1374
 		stripeTwist     0.15266
-		cycloneMagn     1.9274
-		cycloneFreq     0.49165
-		cycloneDensity  0.31088
-		cycloneOctaves  4
+		cycloneMagn     2.4119
+		cycloneFreq     0.55508
+		cycloneDensity  0.22124
+		cycloneOctaves  2
 		BumpHeight      15.291
-		DiffMapAlpha   "Ice"
-		SpecBrightWater 0.5
-		SpecBrightIce   0.5
+		BumpOffset      9.2527
+		DiffMapAlpha   "Water"
+		SpecBrightWater 0.65
+		SpecBrightIce   0.85
 		RoughnessWater  0.35
 		RoughnessIce    0.45
 		SpecularScale   1
@@ -1207,11 +1208,19 @@ Moon	"Wasskah"
 		DayAmbient      0.07
 	}
 
-	NoOcean         true
+	Ocean
+	{
+		Depth           0.11667
+		Hapke           0
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		ModulateBright  1
+	}
 
 	Clouds
 	{
-		Height          37.5
+		Height          13.722
 		Velocity        100
 		BumpHeight      2.9922
 		Hapke           0.2
@@ -1232,13 +1241,13 @@ Moon	"Wasskah"
 	Atmosphere
 	{
 		Model          "Chlorine"
-		Height          95.78
-		Density         100
+		Height          50
+		Density         1.2348
 		Pressure        0.976
 		Greenhouse      53.763
-		Bright          3
-		Opacity         1
-		SkyLight        2.3016
+		Bright          2
+		Opacity         2.5
+		SkyLight        4
 		Hue             0
 		Saturation      1
 
@@ -1277,7 +1286,7 @@ Moon	"Wasskah"
 		BottomColor (0.000 1.000 0.000)
 	}
 
-	NoRings true
+	NoRings         true
 
 	NoAccretionDisk true
 
@@ -1481,7 +1490,7 @@ Moon	"Alaris Prime/Alaris 8/Wookiee Colony 3"
 		colorDistFreq   939.25
 		detailScale     32768
 		drivenDarkening 0
-		seaLevel        0.01
+		seaLevel        0.04
 		snowLevel       1.084
 		tropicLatitude  0.18254
 		icecapLatitude  2
@@ -1552,6 +1561,7 @@ Moon	"Alaris Prime/Alaris 8/Wookiee Colony 3"
 		cycloneDensity  0.21028
 		cycloneOctaves  3
 		BumpHeight      20
+		BumpOffset      9.2527
 		DiffMapAlpha   "Water"
 		SpecBrightWater 0.65
 		SpecBrightIce   0.85
@@ -1565,7 +1575,15 @@ Moon	"Alaris Prime/Alaris 8/Wookiee Colony 3"
 		DayAmbient      0.07
 	}
 
-	NoOcean         true
+	Ocean
+	{
+		Depth           0.80002
+		Hapke           0
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		ModulateBright  1
+	}
 
 	Clouds
 	{
@@ -1635,7 +1653,7 @@ Moon	"Alaris Prime/Alaris 8/Wookiee Colony 3"
 		BottomColor (0.000 1.000 0.000)
 	}
 
-	NoRings		true
+	NoRings         true
 
 	NoAccretionDisk true
 
