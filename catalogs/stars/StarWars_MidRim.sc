@@ -3252,7 +3252,7 @@ Star "Karlinus system" // system name
 // Grid location : P-9
 // Known planet : Kashyyyk, Trandosha
 // X : 7087.755, Y : 2298.8250000000003, Z : -7395.446160867919
-Star "Kashyyyk/Kashyyyk system/Hsskassi system" // Star name / system name
+Star "Kashyyyk (Star)/Kashyyyk system/Hsskassi system" // Star name / system name
 {
     RA         0.08726231408070187
     Dec        24.58589939145459
