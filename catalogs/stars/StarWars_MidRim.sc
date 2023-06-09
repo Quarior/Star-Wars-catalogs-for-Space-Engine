@@ -3257,7 +3257,7 @@ Star "Kashyyyk/Kashyyyk system/Hsskassi system" // Star name / system name
     RA         0.08726231408070187
     Dec        24.58589939145459
     Dist       383007395.518641
-    Class      "G5 V" // Yellow-white
+    Class      "G0 V" // Yellow-white
 }
 
 // http://starwars.wikia.com/wiki/Kassido
