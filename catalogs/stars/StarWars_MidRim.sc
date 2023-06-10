@@ -4298,7 +4298,7 @@ Star "Naalol system" // system name
 // Grid location : O-17
 // Known planet : Naboo
 // X : 5016.63, Y : -8477.1, Z : 5341.127560474996
-Star "Naboo/Naboo system" // Star name / system name
+Star "Naboo (Star)/Naboo system" // Star name / system name
 {
     RA         0.08728296767018309
     Dec        24.584287330741816
