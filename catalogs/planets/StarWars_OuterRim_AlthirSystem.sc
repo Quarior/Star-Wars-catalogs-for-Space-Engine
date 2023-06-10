@@ -158,7 +158,7 @@ Planet	"Althir III/Althir/Althir System 3"
 		Height          62
 		Density         1.2929
 		Pressure        1
-		Greenhouse      55
+		Greenhouse      10.087
 		Bright          5
 		Opacity         1
 		SkyLight        3
