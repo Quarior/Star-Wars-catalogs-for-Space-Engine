@@ -3933,7 +3933,7 @@ Star "Striar/Malastare system" // Star name / system name
     RA         0.08730183424972475
     Dec        24.58434044279752
     Dist       382996473.61543316
-    Class      "G3 V" // Yellow star
+    Class      "G8 V" // Yellow star
 }
 
 // https://starwars.fandom.com/wiki/Kaellin_III
