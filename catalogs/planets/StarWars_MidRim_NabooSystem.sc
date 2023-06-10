@@ -6,83 +6,90 @@
 Planet	"Behpour"
 {
 	ParentBody     "Naboo System"
-	Class	       "Desert"
-
+	Class          "Terra"
 	Mass            0.98
 	Radius          3905.7
-	InertiaMoment   0.328827
-
-	Obliquity       0.04
-	EqAscendNode    -0.711
+	InertiaMoment   0.32883
+	Obliquity       5.7143
+	EqAscendNode    -205.71
 	Precession      9.002
 	TidalLocked     true
 
-	AlbedoBond      0.372543
-	AlbedoGeom      0.447051
+	AlbedoBond      0.37254
+	AlbedoGeom      0.44705
 	Brightness      2
-	Color          (1.042 1.040 1.013)
+	BrightnessReal  1
 
 	Surface
 	{
-		SurfStyle       0.729365
-		OceanStyle      0.46564
+		Preset         "terra_arid_yellow_blue_plants.cfg"
+		SurfStyle       0.72936
 		Randomize      (0.979, -0.648, -0.275)
-		colorDistMagn   0.0746733
-		colorDistFreq   503.199
-		detailScale     10045.7
-		colorConversion true
+		colorDistMagn   0.074673
+		colorDistFreq   503.2
+		detailScale     10046
 		drivenDarkening -1
-		seaLevel        0.0894428
-		snowLevel       0.85
-		tropicLatitude  0.00138107
+		seaLevel        0.089443
+		snowLevel       1.8855
+		tropicLatitude  0.0013811
 		icecapLatitude  1
-		icecapHeight    0.252278
+		icecapHeight    0.25228
 		climatePole     0.5625
 		climateTropic   0.5625
-		climateEquator  0.563492
+		climateEquator  0.56349
+		climateSteppeMin -1
+		climateSteppeMax -1
+		climateForestMin -1
+		climateForestMax -1
+		climateGrassMin  -1
+		climateGrassMax  -1
+		humidity        0
 		heightTempGrad  0.375
+		beachWidth      0.00074142
 		tropicWidth     0.5
-		mainFreq        1.34921
-		venusFreq       1.28357
-		venusMagn       0.446897
-		mareFreq        0.644947
-		mareDensity     0.214286
-		terraceProb     0.452381
-		erosion         0.444444
-		montesMagn      0.155459
-		montesFreq      209.889
-		montesSpiky     0.539683
-		montesFraction  0.734374
-		dunesMagn       0.634921
-		dunesFreq       12.6984
+		mainFreq        1.7176
+		venusFreq       1.2836
+		venusMagn       1.3359
+		mareFreq        5.698
+		mareDensity     0.29008
+		terraceProb     0.45238
+		erosion         0.44444
+		montesMagn      0.15546
+		montesFreq      209.89
+		montesSpiky     0.53968
+		montesFraction  0.73437
+		dunesMagn       0.63492
+		dunesFreq       12.698
 		dunesFraction   0.047619
-		hillsMagn       0.104964
-		hillsFreq       345.406
+		hillsMagn       0.10496
+		hillsFreq       345.41
 		hillsFraction   0
 		hills2Fraction  0
-		riversMagn      55.8372
-		riversFreq      3.33333
-		riversSin       5.81206
-		riversOctaves   0
-		canyonsMagn     4.28571
-		canyonsFreq     69.0476
-		canyonFraction  0.261905
+		riversMagn      55.837
+		riversFreq      3.3333
+		riversSin       5.8121
+		riftsMagn       67.543
+		riftsFreq       4.8092
+		riftsSin        6.6053
+		canyonsMagn     6.3359
+		canyonsFreq     328.24
+		canyonsFraction 0.44275
 		cracksMagn      0
-		cracksFreq      0.314744
+		cracksFreq      0.31474
 		cracksOctaves   0
-		craterMagn      0.985383
-		craterFreq      10.9171
+		craterMagn      0.98538
+		craterFreq      10.917
 		craterDensity   0
 		craterOctaves   0
 		craterRayedFactor 0
-		volcanoMagn     0.735145
-		volcanoFreq     0.627782
+		volcanoMagn     0.73514
+		volcanoFreq     0.62778
 		volcanoDensity  0.4
 		volcanoOctaves  3
-		volcanoActivity 1.68946
-		volcanoFlows    0.580797
-		volcanoRadius   0.496306
-		volcanoTemp     1140.26
+		volcanoActivity 1.6895
+		volcanoFlows    0.5808
+		volcanoRadius   0.49631
+		volcanoTemp     1140.3
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
@@ -91,78 +98,56 @@ Planet	"Behpour"
 		stripeTwist     3.5
 		cycloneMagn     1.2418
 		cycloneFreq     0
-		cycloneDensity  0.345509
+		cycloneDensity  0.34551
 		cycloneOctaves  0
-		colorSea       (0.640, 0.620, 0.420, 0.000)
-		colorShelf     (0.680, 0.620, 0.470, 0.000)
-		colorBeach     (0.400, 0.380, 0.270, 0.000)
-		colorDesert    (0.800, 0.680, 0.500, 0.000)
-		colorLowland   (0.670, 0.600, 0.490, 0.000)
-		colorUpland    (0.580, 0.490, 0.350, 0.000)
-		colorRock      (0.220, 0.210, 0.210, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 0.769)
-		colorLowPlants (0.670, 0.600, 0.490, 0.000)
-		colorUpPlants  (0.580, 0.490, 0.350, 0.000)
-		BumpHeight      9.52381
+		BumpHeight      24.943
 		DiffMapAlpha   "Ice"
 		SpecBrightWater 0.5
 		SpecBrightIce   0.5
-		SpecularPower   30
+		RoughnessWater  0.50737
+		RoughnessIce    0.50737
+		SpecularScale   1
+		RoughnessBias   0.5
 		Hapke           0
 		SpotBright      4
 		SpotWidth       0.05
 		DayAmbient      0.07
 	}
 
-	Clouds
-	{
-		Height          12.144
-		Velocity        131.135
-		BumpHeight      5.95834
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        0.980885
-		mainOctaves     10
-		Coverage        0.539683
-		stripeZones     1
-		stripeFluct     0
-		stripeTwist     3.5
-	}
-
 	NoOcean         true
+
+	NoClouds true
 
 	NoLava          true
 
 	Atmosphere
 	{
 		Model          "Chlorine"
-		Height          133.963
-		Density         0.639368
+		Height          25.385
+		Density         0.63937
 		Pressure        0.8
 		Greenhouse      4.7619
 		Bright          5
 		Opacity         1
-		SkyLight        1.66667
+		SkyLight        1.6667
 		Hue             0
 		Saturation      1
 
 		Composition
 		{
-			CO2   	79.9959
-			H2O   	15.9915
-			SO2   	3.98193
-			N2    	0.0215004
-			CH4   	0.00651233
-			C2H2  	0.00165922
-			C2H4  	0.000567664
-			H2S   	0.000118554
-			NH3   	0.0001145
-			CO    	0.000100679
-			Ar    	3.2428e-005
-			Ne    	2.2625e-005
-			C2H6  	1.16362e-005
+			CO2       	79.996
+			H2O       	15.991
+			SO2       	3.9819
+			N2        	0.0215
+			CH4       	0.0065123
+			C2H2      	0.0016592
+			C2H4      	0.00056766
+			H2S       	0.00011855
+			NH3       	0.0001145
+			CO        	0.00010068
+			Ar        	3.2428e-05
+			Ne        	2.2625e-05
+			C2H6      	1.1636e-05
 		}
 	}
 
@@ -177,6 +162,7 @@ Planet	"Behpour"
 	Orbit
 	{
 		RefPlane        "Equator"
+		Period          0.104983171
 		SemiMajorAxis   0.231782
 		Eccentricity    0.06
 		Inclination     5.71429
@@ -642,24 +628,20 @@ Moon	"Erep 1"
 Planet	"Naboo"
 {
 	ParentBody     "Naboo System"
-	Class	       "Terra"
-
+	Class          "Terra"
 	Mass            0.98
 	Radius          6060
-	InertiaMoment   0.328782
-
-	Oblateness      0.00246313
-
+	InertiaMoment   0.32878
+	Oblateness      0.0024631
 	RotationPeriod  26
-	RotationOffset  -102.857
-	Obliquity       -45.4468
-	EqAscendNode    0.871529
-	//Precession      0
+	RotationOffset  -102.86
+	Obliquity       -45.447
+	EqAscendNode    0.87153
 
 	AlbedoBond      0.32443
-	AlbedoGeom      0.389316
+	AlbedoGeom      0.38932
 	Brightness      2
-	Color          (1.015 1.034 1.036)
+	BrightnessReal  1
 
 	Life
 	{
@@ -670,138 +652,143 @@ Planet	"Naboo"
 
 	Surface
 	{
-		SurfStyle       0.344504
-		OceanStyle      0.665073
-		Randomize      (0.047, 0.055, 0.530)
-		colorDistMagn   0.0420566
-		colorDistFreq   883.503
-		detailScale     15586.7
-		colorConversion true
+		Preset         "terra_wet_earth_green.cfg"
+		SurfStyle       0.3445
+		Randomize      (0.931, -0.534, -1.023)
+		colorDistMagn   0.042057
+		colorDistFreq   883.5
+		detailScale     15587
 		drivenDarkening -1
-		seaLevel        0.347294
-		snowLevel       0.795072
+		seaLevel        0.01
+		snowLevel       0.79507
 		tropicLatitude  0.7126
-		icecapLatitude  0.819841
-		icecapHeight    0.364001
-		climatePole     1
-		climateTropic   0.619
+		icecapLatitude  1.8931
+		icecapHeight    0.29008
+		climatePole     0.85496
+		climateTropic   0.76336
 		climateEquator  0.632
-		heightTempGrad  0
-		tropicWidth     0.07
-		mainFreq        2.103
-		venusFreq       0.795072
-		venusMagn       0.533329
+		climateSteppeMin 0.3125
+		climateSteppeMax 0.5625
+		climateForestMin 0.5
+		climateForestMax 0.6875
+		climateGrassMin  0.625
+		climateGrassMax  0.8125
+		humidity        1
+		heightTempGrad  0.053435
+		beachWidth      0.00029008
+		tropicWidth     0.22901
+		mainFreq        4.9237
+		venusFreq       0.48855
+		venusMagn       0.45802
 		mareFreq        0.001
 		mareDensity     0
-		terraceProb     0.284926
-		erosion         0.108962
-		montesMagn      0.212326
-		montesFreq      323.801
-		montesSpiky     0.946373
-		montesFraction  0.760199
-		dunesMagn       0.0513222
-		dunesFreq       55.1379
-		dunesFraction   0.728277
+		terraceProb     0.10687
+		erosion         0.64885
+		montesMagn      0.21233
+		montesFreq      68.702
+		montesSpiky     0.16031
+		montesFraction  0.068702
+		dunesMagn       0.076336
+		dunesFreq       3053.4
+		dunesFraction   0.12214
 		hillsMagn       0.11163
-		hillsFreq       693.352
-		hillsFraction   0.36632
-		hills2Fraction  0.818251
-		riversMagn      65.9843
-		riversFreq      2.55672
+		hillsFreq       693.35
+		hillsFraction   0.16031
+		hills2Fraction  0.1374
+		riversMagn      65.984
+		riversFreq      2.5567
 		riversSin       5.8835
-		riversOctaves   2
-		canyonsMagn     0.0599787
-		canyonsFreq     100
-		canyonFraction  0.103896
-		cracksMagn      0.0791459
-		cracksFreq      0.481649
-		cracksOctaves   0
-		craterMagn      0.677755
-		craterFreq      19.0026
-		craterDensity   0
-		craterOctaves   0
+		riftsMagn       1.5267
+		riftsFreq       2.9927
+		riftsSin        7.6784
+		canyonsMagn     1.0687
+		canyonsFreq     625.95
+		canyonsFraction 0.39695
+		cracksMagn      0.53435
+		cracksFreq      1.8321
+		cracksOctaves   1
+		craterMagn      0.67775
+		craterFreq      35.878
+		craterDensity   0.091603
+		craterOctaves   3
 		craterRayedFactor 0
-		volcanoMagn     0.695095
-		volcanoFreq     0.75606
-		volcanoDensity  0.323641
-		volcanoOctaves  3
-		volcanoActivity 0.719305
-		volcanoFlows    0.702759
-		volcanoRadius   0.574076
-		volcanoTemp     1706.32
+		volcanoMagn     0
+		volcanoFreq     0
+		volcanoDensity  0
+		volcanoOctaves  0
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0
+		volcanoTemp     0
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		stripeZones     2.17203
+		stripeZones     2.172
 		stripeFluct     0
-		stripeTwist     0.0291049
+		stripeTwist     0.029105
 		cycloneMagn     0
 		cycloneFreq     0
 		cycloneDensity  0
 		cycloneOctaves  0
-		colorSea       (0.071, 0.165, 0.180, 1.000)
-		colorShelf     (0.150, 0.370, 0.370, 1.000)
-		colorBeach     (0.780, 0.750, 0.740, 0.000)
-		colorDesert    (0.450, 0.420, 0.380, 0.000)
-		colorLowland   (0.480, 0.380, 0.280, 0.000)
-		colorUpland    (0.600, 0.540, 0.420, 0.000)
-		colorRock      (0.170, 0.160, 0.160, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 1.308)
-		colorLowPlants (0.502, 0.667, 0.651, 0.000)
-		colorUpPlants  (0.114, 0.227, 0.220, 0.075)
-		BumpHeight      19.1953
-		BumpOffset      6.66642
+		BumpHeight      18.178
+		BumpOffset      6.6664
 		DiffMapAlpha   "Water"
 		SpecBrightWater 0.65
 		SpecBrightIce   0.85
-		SpecularPower   55
+		RoughnessWater  0.39877
+		RoughnessIce    0.39877
+		SpecularScale   1
+		RoughnessBias   0.5
 		Hapke           0
 		SpotBright      4
 		SpotWidth       0.05
 		DayAmbient      0.07
 	}
 
-	Clouds
-	{
-		Height          29.9355
-		Velocity        146.035
-		BumpHeight      5.94019
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        1.06683
-		mainOctaves     10
-		Coverage        0.207383
-		stripeZones     2.17203
-		stripeFluct     0
-		stripeTwist     0.0291049
-	}
-
-	Clouds
-	{
-		Height          29.9355
-		Velocity        118.347
-		BumpHeight      5.39611
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        1.06683
-		mainOctaves     10
-		Coverage        0.207383
-		stripeZones     2.17203
-		stripeFluct     0
-		stripeTwist     0.0291049
-	}
-
 	Ocean
 	{
-		Height          6.66642
+		Depth           0.18156
 		Hapke           0
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      2
+		ModulateBright  1
+	}
+
+	Clouds
+	{
+		Height          18.178
+		Velocity        146.04
+		BumpHeight      5.9402
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		ModulateBright  1
+		mainFreq        0.68702
+		mainOctaves     8
+		Coverage        0.31298
+		stripeZones     2.172
+		stripeFluct     0
+		stripeTwist     0.029105
+	}
+
+	Clouds
+	{
+		Height          18.178
+		Velocity        45.802
+		BumpHeight      5.3961
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		ModulateBright  1
+		mainFreq        0.68702
+		mainOctaves     8
+		Coverage        0.31298
+		stripeZones     2.172
+		stripeFluct     0
+		stripeTwist     0.029105
 	}
 
 	NoLava          true
@@ -809,42 +796,46 @@ Planet	"Naboo"
 	Atmosphere
 	{
 		Model          "Earth"
-		Height          61.8202
-		Density         1.20045
+		Height          61.82
+		Density         1.2004
 		Pressure        1
-		Greenhouse      7
+		Greenhouse      9.1603
 		Bright          5
 		Opacity         1
-		SkyLight        1.66667
-		Hue             0
+		SkyLight        1.6667
+		Hue             -0.05
 		Saturation      1
 
 		Composition
 		{
-			N2    	77.7729
-			O2    	20.8625
-			Ar    	0.9303
-			H2O   	0.4
-			CO2   	0.0398
+			N2        	77.773
+			O2        	20.862
+			Ar        	0.9303
+			H2O       	0.4
+			CO2       	0.0398
 		}
 	}
 
 	Aurora
 	{
-		Height      78.9045
-		NorthLat    74.1343
-		NorthLon    -164.172
-		NorthRadius 2400.43
-		NorthWidth  737.502
-		NorthRings  4
-		NorthBright 0.3
+		Height         78.905
+		NorthLat       74.134
+		NorthLon       -164.17
+		NorthRadius    2400.4
+		NorthWidth     737.5
+		NorthRings     4
+		NorthBright    0.3
+		NorthFlashFreq 66.852
+		NorthMoveSpeed 0.98593
 		NorthParticles 50000
-		SouthLat    -61.6666
-		SouthLon    6.91055
-		SouthRadius 1358.34
-		SouthWidth  436.276
-		SouthRings  3
-		SouthBright 0.3
+		SouthLat       -61.667
+		SouthLon       6.9106
+		SouthRadius    1358.3
+		SouthWidth     436.28
+		SouthRings     3
+		SouthBright    0.3
+		SouthFlashFreq 71.069
+		SouthMoveSpeed 0.75916
 		SouthParticles 50000
 		TopColor    (1.000 1.000 1.000)
 		BottomColor (0.000 1.000 0.000)
@@ -859,8 +850,8 @@ Planet	"Naboo"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   1.00481
-		Period          0.926027
+		Period          1.00473973
+		SemiMajorAxis   1.04480594
 		Eccentricity    0.032
 		Inclination     -0.743
 		AscendingNode   131.429
@@ -869,167 +860,169 @@ Planet	"Naboo"
 	}
 }
 
+
 Moon	"Ohma-D'un/Naboo 1"
 {
 	ParentBody     "Naboo"
-	Class	       "Terra"
-
+	Class          "Terra"
 	Mass            0.34
 	Radius          4132
 	InertiaMoment   0.32996
-
-	Obliquity       0.571429
-	EqAscendNode    -74.2857
-	//Precession      0
+	Obliquity       5.7143
+	EqAscendNode    -108.57
 	TidalLocked     true
 
-	AlbedoBond      0.348134
-	AlbedoGeom      0.417761
-	Brightness      2
-	Color          (1.037 1.040 1.039)
+	AlbedoBond      0.34813
+	AlbedoGeom      0.41776
+	Brightness      1
+	BrightnessReal  1
 
 	Life
 	{
 		Class   "Organic"
 		Type    "Multicellular"
 		Biome   "Marine/Terrestrial"
-		Panspermia "true"
 	}
 
 	Surface
 	{
-		SurfStyle       0.732639
-		OceanStyle      0.892741
+		Preset         "terra_wet_LB_green.cfg"
+		SurfStyle       0.73264
 		Randomize      (0.711, -0.533, -0.883)
-		colorDistMagn   0.0714625
-		colorDistFreq   459.293
-		detailScale     10627.7
-		colorConversion true
+		colorDistMagn   0.071462
+		colorDistFreq   459.29
+		detailScale     10628
 		drivenDarkening -1
-		seaLevel        0.476202
+		seaLevel        0.16794
 		snowLevel       1
-		tropicLatitude  0
-		icecapLatitude  0.504561
-		icecapHeight    0.768052
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
+		tropicLatitude  0.25954
+		icecapLatitude  1.8626
+		icecapHeight    0.76805
+		climatePole     0.85496
+		climateTropic   0.76336
+		climateEquator  0.70992
+		climateSteppeMin 0.3125
+		climateSteppeMax 0.5625
+		climateForestMin 0.5
+		climateForestMax 0.6875
+		climateGrassMin  0.625
+		climateGrassMax  0.8125
+		humidity        1
 		heightTempGrad  0.625
+		beachWidth      0.00065974
 		tropicWidth     0.07
-		mainFreq        0.709047
-		venusFreq       1
-		venusMagn       0.243537
-		mareFreq        4.48332
-		mareDensity     0.0406245
-		terraceProb     0.249206
-		erosion         0.11513
-		montesMagn      0.257401
-		montesFreq      173.574
-		montesSpiky     0.889752
+		mainFreq        1.0305
+		venusFreq       0.076336
+		venusMagn       0.1145
+		mareFreq        0.76824
+		mareDensity     0.040624
+		terraceProb     0.24921
+		erosion         0.91603
+		montesMagn      0.2574
+		montesFreq      173.57
+		montesSpiky     0.34351
 		montesFraction  0.3154
-		dunesMagn       0.0417709
-		dunesFreq       39.8356
-		dunesFraction   0.0536069
-		hillsMagn       0.143158
+		dunesMagn       0.041771
+		dunesFreq       39.836
+		dunesFraction   0.053607
+		hillsMagn       0.14316
 		hillsFreq       462.38
 		hillsFraction   0.23403
-		hills2Fraction  0.117434
-		riversMagn      51.7538
-		riversFreq      3.25738
-		riversSin       5.36811
-		riversOctaves   2
-		canyonsMagn     0.0593784
+		hills2Fraction  0.11743
+		riversMagn      51.754
+		riversFreq      3.2574
+		riversSin       5.3681
+		riftsMagn       0
+		riftsFreq       3.2585
+		riftsSin        6.3584
+		canyonsMagn     0.059378
 		canyonsFreq     100
-		canyonFraction  0.247579
-		cracksMagn      0.0841901
+		canyonsFraction 0.24758
+		cracksMagn      0.08419
 		cracksFreq      0.40133
 		cracksOctaves   0
-		craterMagn      0.637537
-		craterFreq      15.2423
+		craterMagn      0.63754
+		craterFreq      15.242
 		craterDensity   0
 		craterOctaves   0
 		craterRayedFactor 0
-		volcanoMagn     0.68193
-		volcanoFreq     2
-		volcanoDensity  0.4
+		volcanoMagn     0.29008
+		volcanoFreq     0.44275
+		volcanoDensity  0.35115
 		volcanoOctaves  1
-		volcanoActivity 1.907
-		volcanoFlows    0.709649
-		volcanoRadius   0.250319
-		volcanoTemp     1587.03
+		volcanoActivity 0
+		volcanoFlows    0
+		volcanoRadius   0.42748
+		volcanoTemp     0
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		stripeZones     1.45696
+		stripeZones     1
 		stripeFluct     0
-		stripeTwist     0.933671
+		stripeTwist     0.76336
 		cycloneMagn     0
 		cycloneFreq     0
 		cycloneDensity  0
 		cycloneOctaves  0
-		colorSea       (0.040, 0.200, 0.100, 1.000)
-		colorShelf     (0.150, 0.460, 0.280, 1.000)
-		colorBeach     (0.780, 0.750, 0.740, 0.000)
-		colorDesert    (0.470, 0.420, 0.390, 0.000)
-		colorLowland   (0.270, 0.250, 0.230, 0.000)
-		colorUpland    (0.490, 0.480, 0.460, 0.000)
-		colorRock      (0.260, 0.240, 0.230, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 1.308)
-		colorLowPlants (0.100, 0.160, 0.070, 0.000)
-		colorUpPlants  (0.090, 0.110, 0.040, 0.000)
-		BumpHeight      20
-		BumpOffset      9.52404
+		BumpHeight      14.721
+		BumpOffset      9.524
 		DiffMapAlpha   "Water"
 		SpecBrightWater 0.65
 		SpecBrightIce   0.85
-		SpecularPower   55
+		RoughnessWater  0.39877
+		RoughnessIce    0.39877
+		SpecularScale   1
+		RoughnessBias   0.5
 		Hapke           1
 		SpotBright      4
 		SpotWidth       0.05
 		DayAmbient      0.07
 	}
 
-	Clouds
-	{
-		Height          19.3071
-		Velocity        146.195
-		BumpHeight      5.15603
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        0.962966
-		mainOctaves     10
-		Coverage        0.24689
-		stripeZones     1.45696
-		stripeFluct     0
-		stripeTwist     0.933671
-	}
-
-	Clouds
-	{
-		Height          26.8271
-		Velocity        186.743
-		BumpHeight      5.15603
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        0.962966
-		mainOctaves     10
-		Coverage        0.24689
-		stripeZones     1.45696
-		stripeFluct     0
-		stripeTwist     0.933671
-	}
-
 	Ocean
 	{
-		Height          9.52404
+		Depth           2.4723
 		Hapke           0
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      2
+		ModulateBright  1
+	}
+
+	Clouds
+	{
+		Height          19.307
+		Velocity        146.2
+		BumpHeight      5.156
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		ModulateBright  1
+		mainFreq        0.82443
+		mainOctaves     10
+		Coverage        0.5
+		stripeZones     1
+		stripeFluct     0
+		stripeTwist     0.76336
+	}
+
+	Clouds
+	{
+		Height          19.307
+		Velocity        186.74
+		BumpHeight      5.156
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		ModulateBright  1
+		mainFreq        0.82443
+		mainOctaves     10
+		Coverage        0.5
+		stripeZones     1
+		stripeFluct     0
+		stripeTwist     0.76336
 	}
 
 	NoLava          true
@@ -1037,42 +1030,46 @@ Moon	"Ohma-D'un/Naboo 1"
 	Atmosphere
 	{
 		Model          "Earth"
-		Height          73.5756
-		Density         0.412561
+		Height          73.576
+		Density         0.41256
 		Pressure        0.34
 		Greenhouse      4
-		Bright          10
+		Bright          7
 		Opacity         1
-		SkyLight        3.33333
+		SkyLight        3.3333
 		Hue             0
 		Saturation      1
 
 		Composition
 		{
-			N2    	77.7729
-			O2    	20.8625
-			Ar    	0.9303
-			H2O   	0.4
-			CO2   	0.0398
+			N2        	77.773
+			O2        	20.862
+			Ar        	0.9303
+			H2O       	0.4
+			CO2       	0.0398
 		}
 	}
 
 	Aurora
 	{
-		Height      34.1354
-		NorthLat    74.6885
-		NorthLon    -151.506
-		NorthRadius 1218.78
-		NorthWidth  398.9
-		NorthRings  2
-		NorthBright 0.3
+		Height         34.135
+		NorthLat       74.688
+		NorthLon       -151.51
+		NorthRadius    1218.8
+		NorthWidth     398.9
+		NorthRings     2
+		NorthBright    0.3
+		NorthFlashFreq 71.919
+		NorthMoveSpeed 1.0876
 		NorthParticles 50000
-		SouthLat    -63.3728
-		SouthLon    4.62819
-		SouthRadius 1025.81
-		SouthWidth  346.288
-		SouthRings  5
-		SouthBright 0.3
+		SouthLat       -63.373
+		SouthLon       4.6282
+		SouthRadius    1025.8
+		SouthWidth     346.29
+		SouthRings     5
+		SouthBright    0.3
+		SouthFlashFreq 80.294
+		SouthMoveSpeed 0.83622
 		SouthParticles 50000
 		TopColor    (1.000 1.000 1.000)
 		BottomColor (0.000 1.000 0.000)
@@ -1087,7 +1084,8 @@ Moon	"Ohma-D'un/Naboo 1"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   0.000942
+		PeriodDays      5.3034432
+		SemiMajorAxisKm 140921.194
 		Eccentricity    0
 		Inclination     5.71429
 		AscendingNode   -108.571
@@ -1096,143 +1094,151 @@ Moon	"Ohma-D'un/Naboo 1"
 	}
 }
 
+
 Moon	"Rori/Naboo 2"
 {
 	ParentBody     "Naboo"
-	Class	       "Desert"
-
+	Class          "Terra"
 	Mass            0.29
 	Radius          3214
-	InertiaMoment   0.330092
-
-	Obliquity       -0.114286
-	EqAscendNode    102.857
-	//Precession      0
+	InertiaMoment   0.33009
+	Obliquity       2.6654
+	EqAscendNode    -262.86
 	TidalLocked     true
 
-	AlbedoBond      0.332802
-	AlbedoGeom      0.399362
+	AlbedoBond      0.3328
+	AlbedoGeom      0.39936
 	Brightness      2
-	Color          (1.024 1.034 1.036)
+	BrightnessReal  1
 
 	Life
 	{
 		Class   "Organic"
 		Type    "Multicellular"
 		Biome   "Terrestrial"
-		Panspermia "true"
 	}
 
 	Surface
 	{
-		SurfStyle       0.673251
-		OceanStyle      0.138924
-		Randomize      (-0.412, 0.289, 0.578)
-		colorDistMagn   0.0546708
-		colorDistFreq   433.415
-		detailScale     8266.59
-		colorConversion true
-		drivenDarkening -1
-		seaLevel        0.0791773
-		snowLevel       0.85
-		tropicLatitude  0
-		icecapLatitude  0.956515
-		icecapHeight    0.0823486
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
+		Preset         "terra_wet_rocky_green.cfg"
+		SurfStyle       0.84215
+		Randomize      (-0.467, -0.991, -0.244)
+		colorDistMagn   0.089243
+		colorDistFreq   383.17
+		detailScale     8192
+		drivenDarkening 0
+		seaLevel        0.030534
+		snowLevel       1.4275
+		tropicLatitude  0.72368
+		icecapLatitude  0.93328
+		icecapHeight    0.0088197
+		climatePole     0.81679
+		climateTropic   0.64122
+		climateEquator  0.46565
+		climateSteppeMin 0.3125
+		climateSteppeMax 0.5625
+		climateForestMin 0.5
+		climateForestMax 0.6875
+		climateGrassMin  0.625
+		climateGrassMax  0.8125
+		humidity        1
 		heightTempGrad  0.625
+		beachWidth      0.0012428
 		tropicWidth     0.07
-		mainFreq        0.77956
-		venusFreq       0.818568
-		venusMagn       0
-		mareFreq        1.47337
-		mareDensity     0.201342
-		terraceProb     0.326657
-		erosion         0
-		montesMagn      0.179006
-		montesFreq      129.216
-		montesSpiky     0.980015
-		montesFraction  0.0724857
-		dunesMagn       0.0467541
-		dunesFreq       34.5044
-		dunesFraction   0.559835
-		hillsMagn       0.13574
-		hillsFreq       451.64
-		hillsFraction   0
-		hills2Fraction  0
-		riversMagn      62.6794
-		riversFreq      3.01983
-		riversSin       6.42774
-		riversOctaves   0
-		canyonsMagn     0.0466665
-		canyonsFreq     77.4078
-		canyonFraction  0
-		cracksMagn      0.0962674
-		cracksFreq      0.217149
+		mainFreq        1.9847
+		venusFreq       0.38538
+		venusMagn       0.70996
+		mareFreq        0.0066746
+		mareDensity     0
+		terraceProb     0.25487
+		erosion         0.80916
+		montesMagn      0.23237
+		montesFreq      148.6
+		montesSpiky     0.49618
+		montesFraction  0.41952
+		dunesMagn       0.033748
+		dunesFreq       29.826
+		dunesFraction   0.0027933
+		hillsMagn       0.11944
+		hillsFreq       448.89
+		hillsFraction   0.79206
+		hills2Fraction  0.3018
+		riversMagn      68.934
+		riversFreq      2.9594
+		riversSin       5.6052
+		riftsMagn       0
+		riftsFreq       2.5182
+		riftsSin        6.4226
+		canyonsMagn     0.45802
+		canyonsFreq     93.529
+		canyonsFraction 0.1304
+		cracksMagn      0.081258
+		cracksFreq      0.26283
 		cracksOctaves   0
-		craterMagn      0.645387
-		craterFreq      8.53426
-		craterDensity   0.140968
-		craterOctaves   2
-		craterRayedFactor 0
-		volcanoMagn     0.762663
-		volcanoFreq     0.520205
-		volcanoDensity  0.250055
+		craterMagn      0.66215
+		craterFreq      8.8234
+		craterDensity   0
+		craterOctaves   0
+		volcanoMagn     0.70254
+		volcanoFreq     0.56323
+		volcanoDensity  0.4
 		volcanoOctaves  3
-		volcanoActivity 0.405949
-		volcanoFlows    0.912467
-		volcanoRadius   0.445354
-		volcanoTemp     1328.5
+		volcanoActivity 0.38168
+		volcanoFlows    0.68112
+		volcanoRadius   0.58987
+		volcanoTemp     297.2
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		stripeZones     1.63451
-		stripeFluct     0
-		stripeTwist     1.01319
-		cycloneMagn     1.84646
-		cycloneFreq     0.760414
-		cycloneDensity  0.328857
+		stripeZones     1.6794
+		stripeFluct     0.045802
+		stripeTwist     1.0132
+		cycloneMagn     3.1315
+		cycloneFreq     1.1651
+		cycloneDensity  0.35033
 		cycloneOctaves  4
-		colorSea       (0.640, 0.620, 0.420, 0.000)
-		colorShelf     (0.680, 0.620, 0.470, 0.000)
-		colorBeach     (0.400, 0.380, 0.270, 0.000)
-		colorDesert    (0.800, 0.680, 0.500, 0.000)
-		colorLowland   (0.670, 0.600, 0.490, 0.000)
-		colorUpland    (0.580, 0.490, 0.350, 0.000)
-		colorRock      (0.220, 0.210, 0.210, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 0.769)
-		colorLowPlants (0.100, 0.160, 0.070, 0.000)
-		colorUpPlants  (0.090, 0.110, 0.040, 0.000)
-		BumpHeight      18.7147
-		DiffMapAlpha   "Ice"
-		SpecBrightWater 0.5
-		SpecBrightIce   0.5
-		SpecularPower   30
-		Hapke           0
-		SpotBright      4
+		BumpHeight      18.736
+		BumpOffset      9.2527
+		DiffMapAlpha   "Water"
+		SpecBrightWater 0.65
+		SpecBrightIce   0.85
+		RoughnessWater  0.35
+		RoughnessIce    0.45
+		SpecularScale   1
+		RoughnessBias   0.5
+		Hapke           0.5
+		SpotBright      2.4934
 		SpotWidth       0.05
 		DayAmbient      0.07
 	}
 
+	Ocean
+	{
+		Depth           0.572
+		Hapke           0
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		ModulateBright  1
+	}
+
 	Clouds
 	{
-		Height          18.2771
-		Velocity        71.5555
-		BumpHeight      5.17167
+		Height          18.277
+		Velocity        71.555
+		BumpHeight      5.1717
 		Hapke           0.2
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      2
-		mainFreq        0.961297
+		ModulateBright  1
+		mainFreq        1.3969
 		mainOctaves     10
-		Coverage        0.265604
-		stripeZones     1.63451
-		stripeFluct     0
-		stripeTwist     1.01319
+		Coverage        0.26718
+		stripeZones     1.6794
+		stripeFluct     0.045802
+		stripeTwist     1.0132
 	}
-
-	NoOcean         true
 
 	NoLava          true
 
@@ -1240,41 +1246,45 @@ Moon	"Rori/Naboo 2"
 	{
 		Model          "Earth"
 		Height          50.628
-		Density         0.357022
+		Density         0.35702
 		Pressure        0.29
-		Greenhouse      11.2671
+		Greenhouse      11.267
 		Bright          10
 		Opacity         1
-		SkyLight        3.33333
+		SkyLight        3.3333
 		Hue             0
 		Saturation      1
 
 		Composition
 		{
-			N2    	77.7729
-			O2    	20.8625
-			Ar    	0.9303
-			H2O   	0.4
-			CO2   	0.0398
+			N2        	77.773
+			O2        	20.862
+			Ar        	0.9303
+			H2O       	0.4
+			CO2       	0.0398
 		}
 	}
 
 	Aurora
 	{
-		Height      43.7113
-		NorthLat    74.1553
-		NorthLon    -88.5963
-		NorthRadius 846.606
-		NorthWidth  316.469
-		NorthRings  4
-		NorthBright 0.3
+		Height         43.711
+		NorthLat       74.155
+		NorthLon       -88.596
+		NorthRadius    846.61
+		NorthWidth     316.47
+		NorthRings     4
+		NorthBright    0.3
+		NorthFlashFreq 68.855
+		NorthMoveSpeed 1.0476
 		NorthParticles 50000
-		SouthLat    -65.8282
-		SouthLon    94.9019
-		SouthRadius 654.029
-		SouthWidth  204.892
-		SouthRings  3
-		SouthBright 0.3
+		SouthLat       -65.828
+		SouthLon       94.902
+		SouthRadius    654.03
+		SouthWidth     204.89
+		SouthRings     3
+		SouthBright    0.3
+		SouthFlashFreq 66.761
+		SouthMoveSpeed 1.1364
 		SouthParticles 50000
 		TopColor    (1.000 1.000 1.000)
 		BottomColor (0.000 1.000 0.000)
@@ -1289,7 +1299,8 @@ Moon	"Rori/Naboo 2"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   0.00221
+		PeriodDays      19.4292078
+		SemiMajorAxisKm 330611.294
 		Eccentricity    0.0793651
 		Inclination     2.6654
 		AscendingNode   -262.857
@@ -1319,6 +1330,7 @@ Moon	"Naboo 3"
 
 	Surface
 	{
+		Preset         "terra_airless_moon.cfg"
 		SurfStyle       0.26402
 		OceanStyle      0.280236
 		Randomize      (0.864, 0.424, 0.245)
