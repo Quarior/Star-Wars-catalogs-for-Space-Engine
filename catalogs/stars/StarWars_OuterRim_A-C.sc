@@ -1815,7 +1815,7 @@ Star "Bespin (Star)/Bespin system" // Star name / system name
     RA         0.08734726117386873
     Dec        24.583967294715958
     Dist       382998392.2335469
-    Class      "G2 V" // Yellow-whitish star
+    Class      "A2 V" // Yellow-whitish star
 }
 
 // https://starwars.fandom.com/wiki/Bestal_Three
