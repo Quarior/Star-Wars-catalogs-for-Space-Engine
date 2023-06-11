@@ -1810,7 +1810,7 @@ Star "Besberra system" // system name
 // Grid location : K-18
 // Known planet : Bespin
 // X : -1429.95, Y : -10616.49, Z : 1607.9162639656477
-Star "Bespin/Bespin system" // Star name / system name
+Star "Bespin (Star)/Bespin system" // Star name / system name
 {
     RA         0.08734726117386873
     Dec        24.583967294715958
