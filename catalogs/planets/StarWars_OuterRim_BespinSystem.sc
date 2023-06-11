@@ -236,7 +236,7 @@ Planet	"Orin"
 	Orbit
 	{
 		RefPlane        "Equator"
-		//Period          3.86791025
+		Period          3.86791025
 		SemiMajorAxis   3.42256059
 		Eccentricity    0.345343511
 		Inclination     -13.740458
@@ -253,7 +253,7 @@ Planet	"Bespin"
 	Mass            100.75
 	Radius          59000
 	InertiaMoment   0.28262
-	OblatenessInfo  0.087979
+	OblatenessInfo  0
 	RotationPeriod  12
 	Obliquity       1.2461
 	EqAscendNode    324.96
@@ -493,12 +493,145 @@ Moon	"H'gaard/Bespin 5"
 {
 	ParentBody     "Bespin"
 	Class          "Aquaria"
-	Radius		2500
+	Mass            0.042137
+	Radius          2500
+	InertiaMoment   0.34467
+	Obliquity       -0.5091
+	EqAscendNode    -104.47
+	TidalLocked     true
+
+	AlbedoBond      0.07
+	AlbedoGeom      0.36
+	Brightness      1
+	BrightnessReal  1
+
+	Surface
+	{
+		Preset         "aquaria_arid_titan2.cfg"
+		SurfStyle       0.17477
+		Randomize      (-0.615, -0.680, -0.970)
+		colorDistMagn   0.07311
+		colorDistFreq   283.47
+		detailScale     8192
+		drivenDarkening 0
+		seaLevel        0.1308
+		snowLevel       2
+		tropicLatitude  0.16521
+		icecapLatitude  2
+		icecapHeight    0.59899
+		climatePole     0.4375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		climateSteppeMin -1
+		climateSteppeMax -1
+		climateForestMin -1
+		climateForestMax -1
+		climateGrassMin  -1
+		climateGrassMax  -1
+		humidity        0.29978
+		heightTempGrad  0.625
+		beachWidth      0.00097674
+		tropicWidth     0.07
+		mainFreq        1.5453
+		venusFreq       1.4336
+		venusMagn       0
+		mareFreq        1.487
+		mareDensity     0.14745
+		terraceProb     0.25403
+		erosion         0
+		montesMagn      0.1502
+		montesFreq      105.55
+		montesSpiky     0.88783
+		montesFraction  0.39157
+		dunesMagn       0.04907
+		dunesFreq       14.535
+		dunesFraction   0.32265
+		hillsMagn       0.10281
+		hillsFreq       240.73
+		hillsFraction   0.44522
+		hills2Fraction  0.16551
+		riversMagn      0
+		riversFreq      2.9104
+		riversSin       6.3142
+		riftsMagn       0
+		riftsFreq       2.6633
+		riftsSin        5.7752
+		canyonsMagn     0.54043
+		canyonsFreq     0.62778
+		canyonsFraction 0
+		cracksMagn      0.061307
+		cracksFreq      0.46064
+		cracksOctaves   3
+		craterMagn      0.6171
+		craterFreq      6.8349
+		craterDensity   0.80851
+		craterOctaves   19
+		craterRayedFactor 0.21054
+		volcanoMagn     0.49937
+		volcanoFreq     0.73397
+		volcanoDensity  0.4
+		volcanoOctaves  3
+		volcanoActivity 2
+		volcanoFlows    0.24591
+		volcanoRadius   0.37653
+		volcanoTemp     306.72
+		lavaCoverTidal  0.057051
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		BumpHeight      20
+		DiffMapAlpha   "Ice"
+		SpecBrightWater 0.03
+		SpecBrightIce   0.03
+		RoughnessWater  0.35
+		RoughnessIce    0.45
+		SpecularScale   1
+		RoughnessBias   0.2
+		Hapke           0.5
+		SpotBright      2.5
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoOcean         true
+
+	NoClouds        true
+
+	NoLava          true
+
+	Atmosphere
+	{
+		Model          "Ethereal"
+		Height          81.801
+		Density         1.1387e-07
+		Pressure        2.0181e-08
+		Bright          0.5
+		Opacity         0
+		SkyLight        0.16667
+		Hue             0
+		Saturation      1
+
+		Composition
+		{
+			C8H18     	98.607
+			Cl2       	1.3331
+			SO2       	0.039547
+			Kr        	0.018457
+			Xe        	0.001427
+		}
+	}
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
 
 	Orbit
 	{
 		RefPlane        "Equator"
-		//PeriodDays      2.5129459
+		//PeriodDays      2.57394039
 		SemiMajorAxisKm 369223.146
 		Eccentricity    0.00264428626
 		Inclination     -0.509101567
@@ -512,12 +645,125 @@ Moon	"Drudonna/Bespin 6"
 {
 	ParentBody     "Bespin"
 	Class          "Aquaria"
-	Radius		1250
+	Mass            0.005303
+	Radius          1250
+	InertiaMoment   0.39
+	Obliquity       1.148
+	EqAscendNode    11.857
+	TidalLocked     true
+
+	AlbedoBond      0.3
+	AlbedoGeom      0.36
+	Brightness      1
+	BrightnessReal  1
+
+	Surface
+	{
+		Preset         "aquaria_arid_ganymede.cfg"
+		SurfStyle       0.52088
+		Randomize      (-0.694, 0.204, 0.002)
+		colorDistMagn   0.056684
+		colorDistFreq   138.98
+		detailScale     4096
+		drivenDarkening 0.7
+		seaLevel        0.22194
+		snowLevel       2
+		tropicLatitude  0.18211
+		icecapLatitude  1.9396
+		icecapHeight    0.43338
+		climatePole     0.4375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		climateSteppeMin -1
+		climateSteppeMax -1
+		climateForestMin -1
+		climateForestMax -1
+		climateGrassMin  -1
+		climateGrassMax  -1
+		humidity        0.143
+		heightTempGrad  0.625
+		beachWidth      0.00056021
+		tropicWidth     0.07
+		mainFreq        1.8099
+		venusFreq       0.28858
+		venusMagn       0
+		mareFreq        0.58418
+		mareDensity     0.13444
+		terraceProb     0.40751
+		erosion         0
+		montesMagn      0.068867
+		montesFreq      59.425
+		montesSpiky     0.79566
+		montesFraction  0.27747
+		dunesMagn       0.026514
+		dunesFreq       10.651
+		dunesFraction   0.091125
+		hillsMagn       0.12272
+		hillsFreq       132.43
+		hillsFraction   0.33292
+		hills2Fraction  0.1847
+		riversMagn      0
+		riversFreq      1.8285
+		riversSin       7.0331
+		riftsMagn       0
+		riftsFreq       1.9855
+		riftsSin        8.0181
+		canyonsMagn     0.50661
+		canyonsFreq     0.3167
+		canyonsFraction 0
+		cracksMagn      0.058241
+		cracksFreq      0.68559
+		cracksOctaves   1
+		craterMagn      0.57959
+		craterFreq      2.2768
+		craterDensity   0.82963
+		craterOctaves   19
+		craterRayedFactor 0.10973
+		volcanoMagn     0.19788
+		volcanoFreq     0.7474
+		volcanoDensity  0.28554
+		volcanoOctaves  3
+		volcanoActivity 1.0679
+		volcanoFlows    0.24111
+		volcanoRadius   0.14934
+		volcanoTemp     303.25
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		BumpHeight      20
+		DiffMapAlpha   "Ice"
+		SpecBrightWater 0.03
+		SpecBrightIce   0.03
+		RoughnessWater  0.35
+		RoughnessIce    0.45
+		SpecularScale   1
+		RoughnessBias   0.2
+		Hapke           0.5
+		SpotBright      2.5
+		SpotWidth       0.05
+		DayAmbient      0.07
+	}
+
+	NoOcean         true
+
+	NoClouds        true
+
+	NoLava          true
+
+	NoAtmosphere    true
+
+	NoAurora        true
+
+	NoRings         true
+
+	NoAccretionDisk true
+
+	NoCometTail     true
 
 	Orbit
 	{
 		RefPlane        "Equator"
-		//PeriodDays      5.27640048
+		//PeriodDays      5.40547067
 		SemiMajorAxisKm 605423.623
 		Eccentricity    0.0149825923
 		Inclination     1.14799127
