@@ -377,9 +377,9 @@ Planet	"Kashyyyk"
 	{
 		RefPlane        "Equator"
 		Epoch           2454762
-		Period          1.22694178
+		Period          1.1304739726
 		//SemiMajorAxis   1.15402669
-		Eccentricity    0.02
+		Eccentricity    0.03
 		Inclination     0.0889
 		AscendingNode   165.410561
 		ArgOfPericenter 9.2
@@ -1036,9 +1036,9 @@ Planet	"Trandosha/Dosha/Hsskhor"
 	{
 		RefPlane        "Equator"
 		Epoch           2454762
-		Period          1.1011416
+		Period          1.058722191781
 		//SemiMajorAxis   1.13473725
-		Eccentricity    0.03
+		Eccentricity    0.04
 		Inclination     0.0589
 		AscendingNode   135.99415
 		ArgOfPericenter 189.618321
