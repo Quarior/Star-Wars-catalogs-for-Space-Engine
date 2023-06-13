@@ -1049,7 +1049,7 @@ Star "Cama Coll/Boz Pity system" // Star name / system name
     RA         0.08722764107189633
     Dec        24.586008551020456
     Dist       382998122.02105385
-    Class      "F8 V"
+    Class      "A8 V"
 }
 
 // https://starwars.fandom.com/wiki/Castilon
