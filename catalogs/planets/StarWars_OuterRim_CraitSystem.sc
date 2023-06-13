@@ -4,95 +4,173 @@
 // Grid location : N17
 // X : 3720.76, Y : -11167.14, Z : 29.548364395964313
 
-// TODO surface/atmosphere
-Planet	"Crait/Crait System 5"
+Planet	"Crait/Crait system 1"
 {
-	ParentBody     "Crait System"
-	Class	       "Desert"
+	ParentBody     "Crait system"
+	Class          "Terra"
+	Mass            0.68177
+	Radius          3700
+	InertiaMoment   0.32984
+	Oblateness      0.0021019
+	RotationPeriod  27
+	Obliquity       -1.6171
+	EqAscendNode    154.71
 
-	Mass            0.8
-	Radius          3381.18
-	InertiaMoment   0.329844
-	
-	Oblateness      0.00210191
+	AlbedoBond      0.15
+	AlbedoGeom      0.36
+	Brightness      1
+	BrightnessReal  1
 
-	RotationPeriod  27 // According to wookieepedia
-	Obliquity       -1.61711
-	EqAscendNode    154.712
-	TidalLocked     false
-
-	Brightness      3.5
-	Color         ( 0.745 0.718 0.655 )
-	Albedo          0.64
-	
 	Life
 	{
 		Class   "Organic"
 		Type    "Multicellular"
 		Biome   "Terrestrial"
-		Panspermia "false"
 	}
 
 	Surface
 	{
-		DiffMap        "Europa/Surface-BJ"
-		DiffTileSize    256
-		BumpMap        "Europa/Bump-BJ-SE"
-		BumpTileSize    256
-		GlowTileSize    256
-		BumpHeight      2
-		BumpOffset      1
+		Preset         "aquaria_arid_pluto_variant.cfg"
+		SurfStyle       0.61892
+		Randomize      (0.548, -0.127, -0.071)
+		colorDistMagn   0.05837
+		colorDistFreq   422.81
+		detailScale     16384
+		drivenDarkening 0
+		seaLevel        0.07896
+		snowLevel       0.85
+		tropicLatitude  4.1175e-09
+		icecapLatitude  0.9418
+		icecapHeight    0.037813
+		climatePole     0.9375
+		climateTropic   0.3125
+		climateEquator  0.6875
+		climateSteppeMin 0
+		climateSteppeMax 0.3125
+		climateForestMin 0.25
+		climateForestMax 0.5625
+		climateGrassMin  0.5
+		climateGrassMax  0.8125
+		humidity        0
+		heightTempGrad  0.625
+		beachWidth      0.00063794
+		tropicWidth     0.07
+		mainFreq        0.95311
+		venusFreq       1.0438
+		venusMagn       0
+		mareFreq        1.0541
+		mareDensity     0.24427
+		terraceProb     0.35856
+		erosion         0.51145
+		montesMagn      0.15844
+		montesFreq      233.48
+		montesSpiky     0.67176
+		montesFraction  0.24737
+		dunesMagn       0.063148
+		dunesFreq       38.603
+		dunesFraction   0.24785
+		hillsMagn       0.16548
+		hillsFreq       488.19
+		hillsFraction   0
+		hills2Fraction  0
+		riversMagn      6.8702
+		riversFreq      2.7227
+		riversSin       5.849
+		riftsMagn       71.756
+		riftsFreq       4.0458
+		riftsSin        5.4962
+		canyonsMagn     0.30534
+		canyonsFreq     96.02
+		canyonsFraction 0
+		cracksMagn      1.6794
+		cracksFreq      0.25594
+		cracksOctaves   0
+		craterMagn      0.60218
+		craterFreq      8.8859
+		craterDensity   0.022901
+		craterOctaves   1
+		volcanoMagn     0.16794
+		volcanoFreq     0.70616
+		volcanoDensity  0.2578
+		volcanoOctaves  1
+		volcanoActivity 0.36955
+		volcanoFlows    0.33588
+		volcanoRadius   0.19084
+		volcanoTemp     215.27
+		lavaCoverTidal  0
+		lavaCoverSun    0
+		lavaCoverYoung  0
+		stripeZones     0
+		stripeFluct     1.5556
+		stripeTwist     12.698
+		cycloneMagn     2.4703
+		cycloneFreq     0.57049
+		cycloneDensity  0.42023
+		cycloneOctaves  3
+		BumpHeight      16.358
 		DiffMapAlpha   "Ice"
 		SpecBrightWater 0.5
 		SpecBrightIce   0.5
-		SpecularPower   30
+		RoughnessWater  0.35
+		RoughnessIce    0.45
+		SpecularScale   1
+		RoughnessBias   0.5
 		Hapke           0.5
-		SpotBright      4
+		SpotBright      1.6708
 		SpotWidth       0.05
 		DayAmbient      0.07
 	}
 
+	NoOcean         true
+
 	Clouds
 	{
-		Height          15.5298
-		Velocity        95.2383
-		BumpHeight      5.52964
+		Height          15.53
+		Velocity        95.238
+		BumpHeight      5.5296
 		Hapke           0.2
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      2
-		mainFreq        3
-		mainOctaves     16
-		Coverage        0.15873
+		ModulateBright  1
+		mainFreq        0.59542
+		mainOctaves     15
+		Coverage        0.56489
 		stripeZones     0
-		stripeFluct     1.55556
-		stripeTwist     12.6984
+		stripeFluct     1.5556
+		stripeTwist     12.698
 	}
-
-	NoOcean         true
 
 	NoLava          true
 
 	Atmosphere
 	{
 		Model          "Earth"
-		Height          74.1252
-		Density         1e+006
+		Height          78.186
+		Density         10000
 		Pressure        1
-		Greenhouse      95.2381
-		Bright          14.4444
+		Greenhouse      17.557
+		Bright          14.444
 		Opacity         1
 		SkyLight        1.5873
-		Hue             -0.0216387
+		Hue             -0.021639
 		Saturation      1
 
 		Composition
 		{
-			N2    	78.951
-			O2    	20.7233
-			CO2   	0.258892
-			H2O   	0.0497247
-			Ne    	0.0170738
+			CO2       	80.055
+			H2S       	11.165
+			SO2       	4.0117
+			N2        	3.4932
+			C2H6      	0.72393
+			C3H8      	0.49882
+			C2H4      	0.035331
+			CO        	0.013313
+			C8H18     	0.0026003
+			Ar        	0.00037401
+			Cl2       	3.0082e-05
+			Kr        	1.5625e-05
+			O2        	1.014e-05
 		}
 	}
 
@@ -107,8 +185,8 @@ Planet	"Crait/Crait System 5"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   0.383335
-		Period          1.437371 // According to wookieepedia
+		Period          1.43836
+		SemiMajorAxis   1.34146089
 		Eccentricity    0.0508145
 		Inclination     -1.61711
 		AscendingNode   154.712
@@ -121,4473 +199,9 @@ Planet	"Crait/Crait System 5"
 // GENERATED //
 ///////////////
 
-/*Star	"Crait System"
+Planet	"Crait system 2"
 {
-	ParentBody     "Crait System"
-	Class	       "M0 V"
-	Luminosity      0.0539511
-	MassSol         0.564937
-	RadSol          0.73939
-	Teff            3850
-
-	Age             4.22762
-
-	InertiaMoment   0.0439866
-
-	RotationPeriod  375.534
-	Obliquity       161.592
-	EqAscendNode    299.965
-
-	AlbedoBond      0.3
-	AlbedoGeom      0.36
-	Brightness      2
-	Color          (1.000 0.610 0.334)
-
-	Surface
-	{
-		Randomize      (-0.244, -0.954, 0.508)
-		colorDistMagn   0.391566
-		colorDistFreq   9.30819
-		detailScale     1.32362e+006
-		colorConversion true
-		tropicLatitude  0.518
-		icecapLatitude  1.012
-		mareFreq        31.4539
-		mareDensity     0.0135596
-		erosion         1
-		montesFreq      537
-		dunesMagn       0.515711
-		hillsMagn       0.03
-		hillsFreq       3311.18
-		craterOctaves   0
-		BumpHeight      589.305
-		BumpOffset      589.305
-		SpecBrightWater 0
-		SpecBrightIce   0
-		SpecularPower   55
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      1
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Sun"
-		Height          5146.16
-		Density         0
-		Pressure        1
-		Bright          10
-		Opacity         0
-		SkyLight        0
-		Hue             0
-		Saturation      1
-	}
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	Corona
-	{
-		Radius      2.63114e+006
-		Period      0.0319207
-		Brightness  0.5
-		RayDensity  2.81404
-		RayCurv     12.5433
-	}
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Static"
-		SemiMajorAxis   0
-		Period          0
-		Eccentricity    0
-		Inclination     161.592
-		AscendingNode   299.965
-		ArgOfPericenter 0
-		MeanAnomaly     0
-	}
-}*/
-
-Planet	"Crait System 1"
-{
-	ParentBody     "Crait System"
-	Class	       "Desert"
-
-	Mass            3.25869
-	Radius          9899.76
-	InertiaMoment   0.330619
-
-	RotationPeriod  213.516
-	Obliquity       -1.76015
-	EqAscendNode    -59.9112
-
-	AlbedoBond      0.388249
-	AlbedoGeom      0.465899
-	Brightness      2
-	Color          (0.659 0.571 0.488)
-
-	Surface
-	{
-		SurfStyle       0.0148746
-		OceanStyle      0.375548
-		Randomize      (-0.115, 0.793, 0.090)
-		colorDistMagn   0.0520967
-		colorDistFreq   1173.07
-		detailScale     25462.7
-		colorConversion true
-		seaLevel        0.0951923
-		snowLevel       2
-		tropicLatitude  0.053206
-		icecapLatitude  10
-		icecapHeight    0.127591
-		climatePole     0.5625
-		climateTropic   0.5625
-		climateEquator  0.6875
-		heightTempGrad  0.375
-		tropicWidth     0.5
-		mainFreq        0.868612
-		venusFreq       1.14975
-		venusMagn       0
-		mareFreq        2.1534
-		mareDensity     0.20739
-		terraceProb     0.273373
-		erosion         0
-		montesMagn      0.162814
-		montesFreq      486.833
-		montesSpiky     0.812039
-		montesFraction  0.745865
-		dunesMagn       0.0260046
-		dunesFreq       93.2088
-		dunesFraction   0.782513
-		hillsMagn       0.107427
-		hillsFreq       1151.37
-		hillsFraction   0
-		hills2Fraction  0
-		riversMagn      62.6539
-		riversFreq      2.27481
-		riversSin       6.08355
-		riversOctaves   0
-		canyonsMagn     0.0572787
-		canyonsFreq     233.308
-		canyonFraction  0
-		cracksMagn      0.111142
-		cracksFreq      0.607205
-		cracksOctaves   0
-		craterMagn      0.629852
-		craterFreq      27.6906
-		craterDensity   0
-		craterOctaves   0
-		volcanoMagn     0.747998
-		volcanoFreq     0.712508
-		volcanoDensity  0.4
-		volcanoOctaves  3
-		volcanoActivity 2
-		volcanoFlows    0.811684
-		volcanoRadius   0.527011
-		volcanoTemp     1242.46
-		lavaCoverTidal  0.554109
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		stripeZones     1.75574
-		stripeTwist     0.754737
-		cycloneMagn     2.87378
-		cycloneFreq     0.576423
-		cycloneDensity  0.459448
-		cycloneOctaves  2
-		colorSea       (0.240, 0.230, 0.230, 0.000)
-		colorShelf     (0.380, 0.360, 0.350, 0.000)
-		colorBeach     (0.550, 0.520, 0.480, 0.000)
-		colorDesert    (0.520, 0.490, 0.470, 0.000)
-		colorLowland   (0.460, 0.440, 0.410, 0.000)
-		colorUpland    (0.390, 0.360, 0.330, 0.000)
-		colorRock      (0.170, 0.160, 0.160, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 0.769)
-		colorLowPlants (0.460, 0.440, 0.410, 0.000)
-		colorUpPlants  (0.390, 0.360, 0.330, 0.000)
-		BumpHeight      17.1965
-		DiffMapAlpha   "Ice"
-		SpecBrightWater 0.5
-		SpecBrightIce   0.5
-		SpecularPower   30
-		Hapke           0
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	Clouds
-	{
-		Height          106.585
-		Velocity        143.94
-		BumpHeight      6.78253
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        0.955428
-		mainOctaves     10
-		Coverage        0.376498
-		stripeZones     1.75574
-		stripeTwist     0.754737
-	}
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Neptune"
-		Height          333.022
-		Density         9.35379
-		Pressure        36.4983
-		Greenhouse      461.209
-		Bright          10
-		Opacity         1
-		SkyLight        3.33333
-		Hue             0.0292517
-		Saturation      0.687008
-
-		Composition
-		{
-			H2O   	76.35
-			CO2   	23.217
-			SO2   	0.424801
-			N2    	0.00700274
-			CO    	0.00115234
-			Ne    	1.56474e-005
-		}
-	}
-
-	Aurora
-	{
-		Height      167.729
-		NorthLat    59.6222
-		NorthLon    105.771
-		NorthRadius 2109.08
-		NorthWidth  694.621
-		NorthRings  3
-		NorthBright 0.3
-		NorthParticles 50000
-		SouthLat    -24.0711
-		SouthLon    284.736
-		SouthRadius 2845.26
-		SouthWidth  911.44
-		SouthRings  2
-		SouthBright 0.3
-		SouthParticles 50000
-		TopColor    (1.000 1.000 1.000)
-		BottomColor (0.000 1.000 0.000)
-	}
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.0437594
-		Period          0.0121788
-		Eccentricity    0.0933734
-		Inclination     -1.76015
-		AscendingNode   -59.9112
-		ArgOfPericenter 155.943
-		MeanAnomaly     8.77833
-	}
-}
-
-DwarfMoon	"Crait System 1.D1"
-{
-	ParentBody     "Crait System 1"
-	Class	       "Asteroid"
-
-	Mass            6.10413e-006
-	Radius          139.979
-	InertiaMoment   0.397977
-
-	Oblateness      0.249
-
-	Obliquity       -0.00589184
-	EqAscendNode    39.813
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.785 0.718 0.663)
-
-	Surface
-	{
-		SurfStyle       0.103866
-		OceanStyle      0.698966
-		Randomize      (-0.491, -0.625, -0.152)
-		colorDistMagn   0.362676
-		colorDistFreq   4.24138
-		detailScale     3822.37
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.610486
-		terraceProb     0.419402
-		erosion         0
-		montesMagn      0.515799
-		montesFreq      3.05961
-		montesSpiky     0.976892
-		montesFraction  0.672701
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       48.3453
-		hillsFraction   0.805339
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.18834
-		craterFreq      0.587096
-		craterDensity   0.707757
-		craterOctaves   16
-		volcanoActivity 0.106246
-		volcanoFlows    0
-		volcanoRadius   0.518436
-		volcanoTemp     1818.64
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.314, 0.287, 0.265, 0.000)
-		colorShelf     (0.334, 0.305, 0.282, 0.000)
-		colorBeach     (0.353, 0.323, 0.298, 0.000)
-		colorDesert    (0.373, 0.341, 0.315, 0.000)
-		colorLowland   (0.392, 0.359, 0.331, 0.000)
-		colorUpland    (0.412, 0.377, 0.348, 0.000)
-		colorRock      (0.432, 0.395, 0.364, 0.000)
-		colorSnow      (0.451, 0.413, 0.381, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000100114
-		Period          0.00032092
-		Eccentricity    8.69989e-005
-		Inclination     -0.00589184
-		AscendingNode   39.813
-		ArgOfPericenter -103.695
-		MeanAnomaly     -46.6169
-	}
-}
-
-Planet	"Crait System 2"
-{
-	ParentBody     "Crait System"
-	Class	       "GasGiant"
-
-	Mass            2597.09
-	Radius          74701.2
-	InertiaMoment   0.259916
-
-	Obliquity       -1.80348
-	EqAscendNode    -64.3851
-	TidalLocked     true
-
-	AlbedoBond      0.497629
-	AlbedoGeom      0.597154
-	Brightness      2
-	Color          (0.668 0.487 0.355)
-
-	Surface
-	{
-		SurfStyle       0.216452
-		Randomize      (-0.394, 0.474, 0.741)
-		detailScale     192136
-		colorConversion true
-		tropicLatitude  0.0532474
-		icecapLatitude  0.953247
-		craterOctaves   0
-		volcanoActivity 0
-		lavaCoverTidal  0.47534
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		stripeZones     7.58681
-		stripeFluct     0.341154
-		stripeTwist     8.46358
-		cycloneMagn     17.6657
-		cycloneFreq     1.02878
-		cycloneDensity  0.340916
-		cycloneOctaves  5
-		colorLayer0    (0.810, 0.810, 0.810, 1.100)
-		colorLayer1    (0.630, 0.650, 0.650, 0.800)
-		colorLayer2    (0.580, 0.560, 0.580, 0.200)
-		colorLayer3    (0.610, 0.610, 0.630, 0.050)
-		colorLayer4    (0.720, 0.720, 0.720, 0.000)
-		colorLayer5    (0.780, 0.780, 0.780, 0.000)
-		colorLayer6    (0.540, 0.540, 0.560, 0.000)
-		colorLayer7    (0.690, 0.660, 0.620, 1.000)
-		colorLowPlants (0.720, 0.720, 0.720, 0.000)
-		colorUpPlants  (0.780, 0.780, 0.780, 0.000)
-		BumpHeight      4.59642
-		SpecularPower   55
-		Hapke           0
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      1
-		ModulateColor  (0.000 0.000 0.000 0.000)
-	}
-
-	Clouds
-	{
-		Height          14.1406
-		Velocity        697.487
-		BumpHeight      9.54036
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      1
-		mainFreq        1.22555
-		mainOctaves     12
-		Coverage        0.476286
-		stripeZones     7.58681
-		stripeFluct     0.341154
-		stripeTwist     8.46358
-	}
-
-	Clouds
-	{
-		Height          23.6797
-		Velocity        660.529
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      1
-		ModulateColor  (1.000 1.000 1.000 0.195)
-		mainFreq        1.22555
-		mainOctaves     12
-		Coverage        0.476286
-		stripeZones     7.58681
-		stripeFluct     0.341154
-		stripeTwist     8.46358
-	}
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Neptune"
-		Height          100
-		Density         5382.95
-		Pressure        1e+006
-		Bright          10
-		Opacity         1
-		SkyLight        3.33333
-		Hue             0.0124682
-		Saturation      0.580286
-
-		Composition
-		{
-			H2    	92.7636
-			He    	6.8846
-			CH4   	0.279573
-			N2    	0.0359388
-			NH3   	0.0222309
-			O2    	0.00675191
-			C2H2  	0.00334648
-			C2H4  	0.00119801
-			Ne    	0.00115101
-			Ar    	0.000697307
-			C2H6  	0.000541771
-			C3H8  	0.000312767
-		}
-	}
-
-	Aurora
-	{
-		Height      3068.51
-		NorthLat    81.164
-		NorthLon    58.4297
-		NorthRadius 14080.9
-		NorthWidth  8691.02
-		NorthRings  4
-		NorthBright 1
-		NorthParticles 10000
-		SouthLat    -80.1516
-		SouthLon    245.198
-		SouthRadius 20657.5
-		SouthWidth  14201.8
-		SouthRings  3
-		SouthBright 1
-		SouthParticles 10000
-		TopColor    (1.000 1.000 1.000)
-		BottomColor (1.000 0.000 0.500)
-	}
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.0705708
-		Period          0.0247727
-		Eccentricity    0.0477542
-		Inclination     -1.80348
-		AscendingNode   -64.3851
-		ArgOfPericenter 288.446
-		MeanAnomaly     83.9227
-	}
-}
-
-DwarfMoon	"Crait System 2.D1"
-{
-	ParentBody     "Crait System 2"
-	Class	       "Asteroid"
-
-	Mass            1.13036e-009
-	Radius          14.4046
-	InertiaMoment   0.396709
-
-	Oblateness      0.249
-
-	Obliquity       -0.00543513
-	EqAscendNode    94.1499
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.704 0.583 0.541)
-
-	Surface
-	{
-		SurfStyle       0.336445
-		OceanStyle      0.75356
-		Randomize      (0.517, -0.834, 0.089)
-		colorDistMagn   0.446232
-		colorDistFreq   0.116312
-		detailScale     393.342
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.530152
-		terraceProb     0.27727
-		erosion         0
-		montesMagn      0.506706
-		montesFreq      3.24825
-		montesSpiky     0.91436
-		montesFraction  0.93475
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.492575
-		hillsFraction   0.637967
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.218214
-		craterFreq      0.20195
-		craterDensity   0.753327
-		craterOctaves   12
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.577595
-		volcanoTemp     1628.08
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.282, 0.233, 0.217, 0.000)
-		colorShelf     (0.299, 0.248, 0.230, 0.000)
-		colorBeach     (0.317, 0.262, 0.244, 0.000)
-		colorDesert    (0.335, 0.277, 0.257, 0.000)
-		colorLowland   (0.352, 0.292, 0.271, 0.000)
-		colorUpland    (0.370, 0.306, 0.284, 0.000)
-		colorRock      (0.387, 0.321, 0.298, 0.000)
-		colorSnow      (0.405, 0.335, 0.311, 1.000)
-		BumpHeight      12.9641
-		BumpOffset      2.59283
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00190493
-		Period          0.00094353
-		Eccentricity    2.5246e-005
-		Inclination     -0.00543513
-		AscendingNode   94.1499
-		ArgOfPericenter 61.688
-		MeanAnomaly     165.53
-	}
-}
-
-DwarfMoon	"Crait System 2.D2"
-{
-	ParentBody     "Crait System 2"
-	Class	       "Asteroid"
-
-	Mass            1.61154e-009
-	Radius          8.19296
-	InertiaMoment   0.398489
-
-	Oblateness      0.0287724
-
-	Obliquity       -0.00757266
-	EqAscendNode    56.3229
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.553 0.549 0.547)
-
-	Surface
-	{
-		SurfStyle       0.0475799
-		OceanStyle      0.218161
-		Randomize      (-0.458, -0.782, -0.393)
-		colorDistMagn   0.302762
-		colorDistFreq   0.0401328
-		detailScale     223.723
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.424335
-		terraceProb     0.573981
-		erosion         0
-		montesMagn      0.571465
-		montesFreq      3.49114
-		montesSpiky     0.891494
-		montesFraction  0.538931
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.18602
-		hillsFraction   0.376366
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.246444
-		craterFreq      0.258923
-		craterDensity   0.781606
-		craterOctaves   11
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.428021
-		volcanoTemp     1131.14
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.221, 0.219, 0.219, 0.000)
-		colorShelf     (0.235, 0.233, 0.232, 0.000)
-		colorBeach     (0.249, 0.247, 0.246, 0.000)
-		colorDesert    (0.263, 0.261, 0.260, 0.000)
-		colorLowland   (0.277, 0.274, 0.273, 0.000)
-		colorUpland    (0.290, 0.288, 0.287, 0.000)
-		colorRock      (0.304, 0.302, 0.301, 0.000)
-		colorSnow      (0.318, 0.316, 0.314, 1.000)
-		BumpHeight      7.37367
-		BumpOffset      1.47473
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00224955
-		Period          0.00121082
-		Eccentricity    8.65755e-005
-		Inclination     -0.00757266
-		AscendingNode   56.3229
-		ArgOfPericenter 99.3217
-		MeanAnomaly     -169.558
-	}
-}
-
-DwarfMoon	"Crait System 2.D3"
-{
-	ParentBody     "Crait System 2"
-	Class	       "Asteroid"
-
-	Mass            2.2725e-009
-	Radius          11.5146
-	InertiaMoment   0.399493
-
-	Oblateness      0.0570446
-
-	Obliquity       -15.7748
-	EqAscendNode    -123.883
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.414 0.411 0.409)
-
-	Surface
-	{
-		SurfStyle       0.482124
-		OceanStyle      0.87772
-		Randomize      (-0.295, 0.836, 0.571)
-		colorDistMagn   0.733451
-		colorDistFreq   0.0730846
-		detailScale     314.426
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.253651
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.565041
-		terraceProb     0.235153
-		erosion         0
-		montesMagn      0.669899
-		montesFreq      3.63405
-		montesSpiky     0.887963
-		montesFraction  0.44982
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.341624
-		hillsFraction   0.492694
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.202775
-		craterFreq      0.141578
-		craterDensity   0.98719
-		craterOctaves   11
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.472763
-		volcanoTemp     1767.2
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.165, 0.164, 0.163, 0.000)
-		colorShelf     (0.176, 0.175, 0.174, 0.000)
-		colorBeach     (0.186, 0.185, 0.184, 0.000)
-		colorDesert    (0.197, 0.195, 0.194, 0.000)
-		colorLowland   (0.207, 0.205, 0.204, 0.000)
-		colorUpland    (0.217, 0.216, 0.215, 0.000)
-		colorRock      (0.228, 0.226, 0.225, 0.000)
-		colorSnow      (0.238, 0.236, 0.235, 1.000)
-		BumpHeight      10.3631
-		BumpOffset      2.07263
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00224706
-		Period          0.00120881
-		Eccentricity    0.24217
-		Inclination     -15.7748
-		AscendingNode   -123.883
-		ArgOfPericenter -37.8328
-		MeanAnomaly     17.4531
-	}
-}
-
-DwarfMoon	"Crait System 2.D4"
-{
-	ParentBody     "Crait System 2"
-	Class	       "Asteroid"
-
-	Mass            3.17538e-009
-	Radius          21.2964
-	InertiaMoment   0.397119
-
-	Oblateness      0.16755
-
-	Obliquity       24.8467
-	EqAscendNode    161.265
-	TidalLocked     false
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.575 0.568 0.563)
-
-	Surface
-	{
-		SurfStyle       0.441617
-		OceanStyle      0.561638
-		Randomize      (-0.432, -0.398, 0.030)
-		colorDistMagn   0.570655
-		colorDistFreq   0.186599
-		detailScale     581.534
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.136465
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.704306
-		terraceProb     0.156707
-		erosion         0
-		montesMagn      0.441045
-		montesFreq      3.16041
-		montesSpiky     0.941934
-		montesFraction  0.338803
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.92734
-		hillsFraction   0.766304
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.246732
-		craterFreq      0.172299
-		craterDensity   0.952973
-		craterOctaves   13
-		volcanoActivity 0.000365491
-		volcanoFlows    0
-		volcanoRadius   0.627011
-		volcanoTemp     1261.04
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.230, 0.227, 0.225, 0.000)
-		colorShelf     (0.244, 0.241, 0.239, 0.000)
-		colorBeach     (0.259, 0.255, 0.253, 0.000)
-		colorDesert    (0.273, 0.270, 0.267, 0.000)
-		colorLowland   (0.288, 0.284, 0.282, 0.000)
-		colorUpland    (0.302, 0.298, 0.296, 0.000)
-		colorRock      (0.316, 0.312, 0.310, 0.000)
-		colorSnow      (0.331, 0.326, 0.324, 1.000)
-		BumpHeight      19.1668
-		BumpOffset      3.83335
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00258807
-		Period          0.00149417
-		Eccentricity    0.150546
-		Inclination     24.8467
-		AscendingNode   161.265
-		ArgOfPericenter 51.4238
-		MeanAnomaly     -126.166
-	}
-}
-
-DwarfMoon	"Crait System 2.D5"
-{
-	ParentBody     "Crait System 2"
-	Class	       "Asteroid"
-
-	Mass            4.40341e-009
-	Radius          12.3532
-	InertiaMoment   0.39865
-
-	Oblateness      0.00155954
-
-	RotationPeriod  51.0772
-	Obliquity       50.2
-	EqAscendNode    -148.981
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.557 0.550 0.546)
-
-	Surface
-	{
-		SurfStyle       0.246335
-		OceanStyle      0.30324
-		Randomize      (0.478, -0.570, 0.165)
-		colorDistMagn   0.728505
-		colorDistFreq   0.0573801
-		detailScale     337.325
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.402114
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.584872
-		terraceProb     0.158324
-		erosion         0
-		montesMagn      0.47051
-		montesFreq      2.78415
-		montesSpiky     0.942168
-		montesFraction  0.671341
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.4071
-		hillsFraction   0.758473
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.230923
-		craterFreq      0.229795
-		craterDensity   0.826622
-		craterOctaves   12
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.525387
-		volcanoTemp     1733.18
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.223, 0.220, 0.219, 0.000)
-		colorShelf     (0.237, 0.234, 0.232, 0.000)
-		colorBeach     (0.251, 0.248, 0.246, 0.000)
-		colorDesert    (0.265, 0.261, 0.260, 0.000)
-		colorLowland   (0.279, 0.275, 0.273, 0.000)
-		colorUpland    (0.293, 0.289, 0.287, 0.000)
-		colorRock      (0.306, 0.303, 0.301, 0.000)
-		colorSnow      (0.320, 0.316, 0.314, 1.000)
-		BumpHeight      11.1179
-		BumpOffset      2.22358
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00308261
-		Period          0.00194229
-		Eccentricity    0.492917
-		Inclination     50.2
-		AscendingNode   -148.981
-		ArgOfPericenter 6.214
-		MeanAnomaly     -101.089
-	}
-}
-
-DwarfMoon	"Crait System 2.D6"
-{
-	ParentBody     "Crait System 2"
-	Class	       "Asteroid"
-
-	Mass            6.06838e-009
-	Radius          24.2347
-	InertiaMoment   0.399621
-
-	Oblateness      0.0227128
-
-	RotationPeriod  31.3853
-	Obliquity       -70.0864
-	EqAscendNode    29.1253
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.616 0.608 0.605)
-
-	Surface
-	{
-		SurfStyle       0.649966
-		OceanStyle      0.355532
-		Randomize      (0.732, 0.604, 0.813)
-		colorDistMagn   0.905918
-		colorDistFreq   0.230188
-		detailScale     661.77
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.754583
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.39679
-		terraceProb     0.381358
-		erosion         0
-		montesMagn      0.310332
-		montesFreq      3.33383
-		montesSpiky     0.831371
-		montesFraction  0.750273
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       1.61626
-		hillsFraction   0.658659
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.248053
-		craterFreq      0.273758
-		craterDensity   0.794544
-		craterOctaves   13
-		volcanoActivity 0.00137611
-		volcanoFlows    0
-		volcanoRadius   0.552867
-		volcanoTemp     1841.16
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.240, 0.207, 0.169, 0.000)
-		colorShelf     (0.246, 0.213, 0.193, 0.000)
-		colorBeach     (0.290, 0.249, 0.230, 0.000)
-		colorDesert    (0.314, 0.267, 0.224, 0.000)
-		colorLowland   (0.345, 0.286, 0.254, 0.000)
-		colorUpland    (0.382, 0.346, 0.308, 0.000)
-		colorRock      (0.413, 0.377, 0.333, 0.000)
-		colorSnow      (0.450, 0.401, 0.351, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00353675
-		Period          0.00238694
-		Eccentricity    0.341168
-		Inclination     -70.0864
-		AscendingNode   29.1253
-		ArgOfPericenter 152.647
-		MeanAnomaly     152.239
-	}
-}
-
-DwarfMoon	"Crait System 2.D7"
-{
-	ParentBody     "Crait System 2"
-	Class	       "Asteroid"
-
-	Mass            8.32076e-009
-	Radius          18.0991
-	InertiaMoment   0.397434
-
-	Oblateness      0.00273734
-
-	Obliquity       -74.2188
-	EqAscendNode    -23.9827
-	TidalLocked     false
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.448 0.445 0.441)
-
-	Surface
-	{
-		SurfStyle       0.215374
-		OceanStyle      0.771152
-		Randomize      (0.529, 0.670, 0.883)
-		colorDistMagn   0.340492
-		colorDistFreq   0.133039
-		detailScale     494.226
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.635472
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.591484
-		terraceProb     0.501985
-		erosion         0
-		montesMagn      0.464545
-		montesFreq      2.63399
-		montesSpiky     0.952836
-		montesFraction  0.474257
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.805672
-		hillsFraction   0.723086
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.227873
-		craterFreq      0.201203
-		craterDensity   0.766457
-		craterOctaves   12
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.503713
-		volcanoTemp     1755.44
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.179, 0.178, 0.177, 0.000)
-		colorShelf     (0.190, 0.189, 0.188, 0.000)
-		colorBeach     (0.202, 0.200, 0.199, 0.000)
-		colorDesert    (0.213, 0.211, 0.210, 0.000)
-		colorLowland   (0.224, 0.222, 0.221, 0.000)
-		colorUpland    (0.235, 0.233, 0.232, 0.000)
-		colorRock      (0.246, 0.245, 0.243, 0.000)
-		colorSnow      (0.258, 0.256, 0.254, 1.000)
-		BumpHeight      16.2892
-		BumpOffset      3.25784
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00396242
-		Period          0.00283059
-		Eccentricity    0.0679953
-		Inclination     -74.2188
-		AscendingNode   -23.9827
-		ArgOfPericenter 70.1924
-		MeanAnomaly     -8.59316
-	}
-}
-
-DwarfMoon	"Crait System 2.D8"
-{
-	ParentBody     "Crait System 2"
-	Class	       "Asteroid"
-
-	Mass            1.1364e-008
-	Radius          18.1931
-	InertiaMoment   0.398803
-
-	RotationPeriod  93.6684
-	Obliquity       -21.659
-	EqAscendNode    135.968
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.537 0.533 0.527)
-
-	Surface
-	{
-		SurfStyle       0.448872
-		OceanStyle      0.267295
-		Randomize      (-0.345, 0.217, -0.375)
-		colorDistMagn   0.606808
-		colorDistFreq   0.230202
-		detailScale     496.794
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.274051
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.609811
-		terraceProb     0.315266
-		erosion         0
-		montesMagn      0.393228
-		montesFreq      3.67273
-		montesSpiky     0.833776
-		montesFraction  0.715402
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.852663
-		hillsFraction   0.641936
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.23201
-		craterFreq      0.200826
-		craterDensity   0.932111
-		craterOctaves   12
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.478413
-		volcanoTemp     1443.8
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.215, 0.213, 0.211, 0.000)
-		colorShelf     (0.228, 0.226, 0.224, 0.000)
-		colorBeach     (0.241, 0.240, 0.237, 0.000)
-		colorDesert    (0.255, 0.253, 0.250, 0.000)
-		colorLowland   (0.268, 0.266, 0.264, 0.000)
-		colorUpland    (0.282, 0.280, 0.277, 0.000)
-		colorRock      (0.295, 0.293, 0.290, 0.000)
-		colorSnow      (0.308, 0.306, 0.303, 1.000)
-		BumpHeight      16.3738
-		BumpOffset      3.27477
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00461844
-		Period          0.00356188
-		Eccentricity    0.23411
-		Inclination     -21.659
-		AscendingNode   135.968
-		ArgOfPericenter 111.555
-		MeanAnomaly     -115.182
-	}
-}
-
-DwarfMoon	"Crait System 2.D9"
-{
-	ParentBody     "Crait System 2"
-	Class	       "Asteroid"
-
-	Mass            1.54741e-008
-	Radius          34.8504
-	InertiaMoment   0.399747
-
-	Oblateness      0.0096353
-
-	RotationPeriod  52.0497
-	Obliquity       -26.9017
-	EqAscendNode    144.156
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.792 0.791 0.790)
-
-	Surface
-	{
-		SurfStyle       0.6671
-		OceanStyle      0.156222
-		Randomize      (0.957, -0.297, -0.773)
-		colorDistMagn   0.46372
-		colorDistFreq   1.02256
-		detailScale     951.648
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.275752
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.544963
-		terraceProb     0.184314
-		erosion         0
-		montesMagn      0.449314
-		montesFreq      2.7238
-		montesSpiky     0.891671
-		montesFraction  0.309552
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       3.41408
-		hillsFraction   0.731205
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.236162
-		craterFreq      0.237759
-		craterDensity   0.948281
-		craterOctaves   13
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.567199
-		volcanoTemp     1740.85
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.309, 0.269, 0.221, 0.000)
-		colorShelf     (0.317, 0.277, 0.253, 0.000)
-		colorBeach     (0.372, 0.324, 0.300, 0.000)
-		colorDesert    (0.404, 0.348, 0.292, 0.000)
-		colorLowland   (0.444, 0.372, 0.332, 0.000)
-		colorUpland    (0.491, 0.451, 0.403, 0.000)
-		colorRock      (0.531, 0.490, 0.434, 0.000)
-		colorSnow      (0.578, 0.522, 0.458, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00495525
-		Period          0.00395853
-		Eccentricity    0.148497
-		Inclination     -26.9017
-		AscendingNode   144.156
-		ArgOfPericenter 101.904
-		MeanAnomaly     -108.41
-	}
-}
-
-DwarfMoon	"Crait System 2.D10"
-{
-	ParentBody     "Crait System 2"
-	Class	       "Asteroid"
-
-	Mass            2.10279e-008
-	Radius          19.722
-	InertiaMoment   0.397696
-
-	RotationPeriod  78.65
-	Obliquity       -42.0116
-	EqAscendNode    85.4954
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.622 0.618 0.611)
-
-	Surface
-	{
-		SurfStyle       0.793551
-		OceanStyle      0.136113
-		Randomize      (-0.585, 0.892, -0.567)
-		colorDistMagn   0.682684
-		colorDistFreq   0.245439
-		detailScale     538.542
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.856056
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.329117
-		terraceProb     0.295804
-		erosion         0
-		montesMagn      0.422181
-		montesFreq      3.49041
-		montesSpiky     0.984895
-		montesFraction  0.42766
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.71229
-		hillsFraction   0.721265
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.245259
-		craterFreq      0.219867
-		craterDensity   1.03938
-		craterOctaves   12
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.518459
-		volcanoTemp     1389.22
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.243, 0.210, 0.171, 0.000)
-		colorShelf     (0.249, 0.216, 0.196, 0.000)
-		colorBeach     (0.293, 0.254, 0.232, 0.000)
-		colorDesert    (0.317, 0.272, 0.226, 0.000)
-		colorLowland   (0.349, 0.291, 0.257, 0.000)
-		colorUpland    (0.386, 0.352, 0.312, 0.000)
-		colorRock      (0.417, 0.383, 0.336, 0.000)
-		colorSnow      (0.454, 0.408, 0.355, 1.000)
-		BumpHeight      17.7498
-		BumpOffset      3.54996
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00538634
-		Period          0.00448618
-		Eccentricity    0.0960384
-		Inclination     -42.0116
-		AscendingNode   85.4954
-		ArgOfPericenter -6.83894
-		MeanAnomaly     -78.8003
-	}
-}
-
-DwarfPlanet	"Crait System 3"
-{
-	ParentBody     "Crait System"
-	Class	       "Selena"
-
-	Mass            0.00605411
-	Radius          1084.23
-	InertiaMoment   0.383451
-
-	Obliquity       0.498136
-	EqAscendNode    85.6966
-	TidalLocked     true
-
-	AlbedoBond      0.3
-	AlbedoGeom      0.36
-	Brightness      3.5
-	Color          (0.767 0.690 0.593)
-
-	Surface
-	{
-		SurfStyle       0.416235
-		OceanStyle      0.417027
-		Randomize      (0.860, -0.905, 0.058)
-		colorDistMagn   0.0691726
-		colorDistFreq   115.466
-		detailScale     2788.71
-		colorConversion true
-		drivenDarkening 0
-		seaLevel        0.241182
-		snowLevel       2
-		tropicLatitude  0.0127466
-		icecapLatitude  10
-		icecapHeight    0.215858
-		climatePole     0.4375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        1.72308
-		venusFreq       0.840548
-		venusMagn       0
-		mareFreq        0.346825
-		mareDensity     0.00714053
-		terraceProb     0.212017
-		erosion         0
-		montesMagn      0.066455
-		montesFreq      42.9999
-		montesSpiky     0.958005
-		montesFraction  0.980176
-		dunesMagn       0.0398139
-		dunesFreq       1413.34
-		dunesFraction   0.842713
-		hillsMagn       0.102311
-		hillsFreq       143.643
-		hillsFraction   0.610311
-		hills2Fraction  0
-		riversMagn      63.603
-		riversFreq      1.9277
-		riversSin       5.81515
-		riversOctaves   0
-		canyonsMagn     0.446334
-		canyonsFreq     0.361184
-		canyonFraction  0.260544
-		cracksMagn      0.0460932
-		cracksFreq      0.296749
-		cracksOctaves   0
-		craterMagn      0.602762
-		craterFreq      2.39066
-		craterDensity   0.966665
-		craterOctaves   10
-		craterRayedFactor 0.134139
-		volcanoMagn     0.158401
-		volcanoFreq     0.752297
-		volcanoDensity  0.213074
-		volcanoOctaves  3
-		volcanoActivity 0
-		volcanoFlows    0.355449
-		volcanoRadius   0.134221
-		volcanoTemp     1206.27
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.420, 0.420, 0.430, 0.000)
-		colorShelf     (0.470, 0.480, 0.480, 0.000)
-		colorBeach     (0.422, 0.393, 0.356, 0.000)
-		colorDesert    (0.368, 0.317, 0.273, 0.000)
-		colorLowland   (0.468, 0.421, 0.332, 0.000)
-		colorUpland    (0.499, 0.448, 0.362, 0.000)
-		colorRock      (0.340, 0.340, 0.340, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 1.000)
-		BumpHeight      20
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   55
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.137831
-		Period          0.0680803
-		Eccentricity    0.0112007
-		Inclination     2.69499
-		AscendingNode   85.0317
-		ArgOfPericenter 296.07
-		MeanAnomaly     166.915
-	}
-}
-
-Planet	"Crait System 4"
-{
-	ParentBody     "Crait System"
-	Class	       "IceGiant"
-
-	Mass            46.7745
-	Radius          28066.6
-	InertiaMoment   0.206629
-
-	RotationPeriod  3507
-	Obliquity       0.92954
-	EqAscendNode    -71.9551
-
-	AlbedoBond      0.518711
-	AlbedoGeom      0.622453
-	Brightness      2
-
-	Surface
-	{
-		SurfStyle       0.463006
-		Randomize      (-0.051, -0.268, -0.322)
-		detailScale     72188.8
-		colorConversion true
-		tropicLatitude  0.0262539
-		icecapLatitude  0.926254
-		craterOctaves   0
-		volcanoActivity 0
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		stripeZones     4.10678
-		stripeFluct     0.414583
-		stripeTwist     9.118
-		cycloneMagn     17.0895
-		cycloneFreq     0.981794
-		cycloneDensity  0.37809
-		cycloneOctaves  1
-		colorLayer0    (0.120, 0.200, 0.480, 1.000)
-		colorLayer1    (0.330, 0.400, 0.720, 1.000)
-		colorLayer2    (0.330, 0.400, 0.720, 1.000)
-		colorLayer3    (0.600, 0.600, 0.600, 1.000)
-		colorLayer4    (0.350, 0.430, 0.770, 1.000)
-		colorLayer5    (0.470, 0.540, 0.850, 1.000)
-		colorLayer6    (0.600, 0.650, 0.910, 1.000)
-		colorLayer7    (0.990, 0.990, 1.000, 1.000)
-		colorLowPlants (0.350, 0.430, 0.770, 1.000)
-		colorUpPlants  (0.470, 0.540, 0.850, 1.000)
-		BumpHeight      12.8683
-		SpecularPower   55
-		Hapke           0
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      1
-		ModulateColor  (0.000 0.000 0.000 0.000)
-	}
-
-	Clouds
-	{
-		Height          119.986
-		Velocity        1234.97
-		BumpHeight      56.8151
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      1
-		mainFreq        0.917832
-		mainOctaves     12
-		Coverage        0.593554
-		stripeZones     4.10678
-		stripeFluct     0.414583
-		stripeTwist     9.118
-	}
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Neptune"
-		Height          280.666
-		Density         5437.5
-		Pressure        1e+006
-		Bright          10
-		Opacity         1
-		SkyLight        3.33333
-		Hue             0.049708
-		Saturation      0.58042
-
-		Composition
-		{
-			H2    	92.333
-			He    	7.21132
-			CH4   	0.367404
-			N2    	0.044619
-			NH3   	0.0282252
-			O2    	0.00741002
-			C2H2  	0.00371318
-			C2H4  	0.00125069
-			Ne    	0.00107626
-			Ar    	0.000919666
-			C2H6  	0.000685994
-			C3H8  	0.000327999
-		}
-	}
-
-	NoAurora        true
-
-	Rings
-	{
-		InnerRadius     31379.5
-		OuterRadius     61352.6
-		RotationPeriod  4.04463
-		RotationOffset  0
-		FrontBright     0.712237
-		BackBright      0.905478
-		Density         0.932258
-		Brightness      1
-	}
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.24367
-		Period          0.160011
-		Eccentricity    0.0526722
-		Inclination     0.92954
-		AscendingNode   -71.9551
-		ArgOfPericenter 299.029
-		MeanAnomaly     282.89
-	}
-}
-
-DwarfMoon	"Crait System 4.D1"
-{
-	ParentBody     "Crait System 4"
-	Class	       "Asteroid"
-
-	Mass            3.10188e-011
-	Radius          2.27026
-	InertiaMoment   0.398573
-
-	Oblateness      0.119198
-
-	Obliquity       -0.0101177
-	EqAscendNode    52.9815
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.571 0.567 0.560)
-
-	Surface
-	{
-		SurfStyle       0.99975
-		OceanStyle      0.505479
-		Randomize      (-0.914, -0.790, 0.042)
-		colorDistMagn   0.45266
-		colorDistFreq   0.00173514
-		detailScale     61.9932
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.000345267
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.412667
-		terraceProb     0.40805
-		erosion         0
-		montesMagn      0.436273
-		montesFreq      2.94126
-		montesSpiky     0.984906
-		montesFraction  0.658724
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.0131118
-		hillsFraction   0.741177
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.246511
-		craterFreq      0.217431
-		craterDensity   0.987339
-		craterOctaves   9
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.538251
-		volcanoTemp     1558.77
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.194, 0.199, 0.224, 0.050)
-		colorShelf     (0.228, 0.233, 0.258, 0.040)
-		colorBeach     (0.263, 0.267, 0.291, 0.030)
-		colorDesert    (0.297, 0.301, 0.331, 0.020)
-		colorLowland   (0.331, 0.335, 0.364, 0.030)
-		colorUpland    (0.365, 0.369, 0.398, 0.050)
-		colorRock      (0.400, 0.403, 0.443, 0.020)
-		colorSnow      (0.400, 0.403, 0.443, 1.000)
-		BumpHeight      2.04323
-		BumpOffset      0.408646
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000379656
-		Period          0.000625547
-		Eccentricity    4.7303e-005
-		Inclination     -0.0101177
-		AscendingNode   52.9815
-		ArgOfPericenter 13.8887
-		MeanAnomaly     -25.8405
-	}
-}
-
-DwarfMoon	"Crait System 4.D2"
-{
-	ParentBody     "Crait System 4"
-	Class	       "Asteroid"
-
-	Mass            5.6093e-011
-	Radius          6.36471
-	InertiaMoment   0.399559
-
-	Oblateness      0.249
-
-	Obliquity       0.00462931
-	EqAscendNode    -23.6767
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.769 0.766 0.763)
-
-	Surface
-	{
-		SurfStyle       0.714442
-		OceanStyle      0.123179
-		Randomize      (-0.614, -0.058, -0.943)
-		colorDistMagn   0.764586
-		colorDistFreq   0.0164759
-		detailScale     173.799
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.553234
-		terraceProb     0.412425
-		erosion         0
-		montesMagn      0.570808
-		montesFreq      3.10334
-		montesSpiky     0.787341
-		montesFraction  0.144435
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.0783831
-		hillsFraction   0.435347
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.2442
-		craterFreq      0.267723
-		craterDensity   0.881157
-		craterOctaves   11
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.514795
-		volcanoTemp     1619.85
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.300, 0.261, 0.214, 0.000)
-		colorShelf     (0.308, 0.268, 0.244, 0.000)
-		colorBeach     (0.362, 0.314, 0.290, 0.000)
-		colorDesert    (0.392, 0.337, 0.282, 0.000)
-		colorLowland   (0.431, 0.360, 0.321, 0.000)
-		colorUpland    (0.477, 0.437, 0.389, 0.000)
-		colorRock      (0.515, 0.475, 0.420, 0.000)
-		colorSnow      (0.562, 0.506, 0.443, 1.000)
-		BumpHeight      5.72824
-		BumpOffset      1.14565
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000575046
-		Period          0.00116608
-		Eccentricity    2.13767e-005
-		Inclination     0.00462931
-		AscendingNode   -23.6767
-		ArgOfPericenter 40.7438
-		MeanAnomaly     -36.7651
-	}
-}
-
-DwarfMoon	"Crait System 4.D3"
-{
-	ParentBody     "Crait System 4"
-	Class	       "Asteroid"
-
-	Mass            9.54862e-011
-	Radius          3.78622
-	InertiaMoment   0.39729
-
-	Obliquity       13.0346
-	EqAscendNode    -130.424
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.702 0.700 0.697)
-
-	Surface
-	{
-		SurfStyle       0.815872
-		OceanStyle      0.710294
-		Randomize      (-0.698, -0.122, 0.918)
-		colorDistMagn   0.0979838
-		colorDistFreq   0.0110592
-		detailScale     103.389
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.188273
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.401097
-		terraceProb     0.351546
-		erosion         0
-		montesMagn      0.469775
-		montesFreq      2.76714
-		montesSpiky     0.950174
-		montesFraction  0.400576
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.0338744
-		hillsFraction   0.599573
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.254491
-		craterFreq      0.163782
-		craterDensity   0.848657
-		craterOctaves   10
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.549406
-		volcanoTemp     1399.3
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.274, 0.238, 0.195, 0.000)
-		colorShelf     (0.281, 0.245, 0.223, 0.000)
-		colorBeach     (0.330, 0.287, 0.265, 0.000)
-		colorDesert    (0.358, 0.308, 0.258, 0.000)
-		colorLowland   (0.393, 0.329, 0.293, 0.000)
-		colorUpland    (0.435, 0.399, 0.356, 0.000)
-		colorRock      (0.470, 0.434, 0.384, 0.000)
-		colorSnow      (0.512, 0.462, 0.405, 1.000)
-		BumpHeight      3.4076
-		BumpOffset      0.681519
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00200991
-		Period          0.00761972
-		Eccentricity    0.0547654
-		Inclination     13.0346
-		AscendingNode   -130.424
-		ArgOfPericenter 175.122
-		MeanAnomaly     -51.7511
-	}
-}
-
-DwarfMoon	"Crait System 4.D4"
-{
-	ParentBody     "Crait System 4"
-	Class	       "Asteroid"
-
-	Mass            1.55324e-010
-	Radius          7.60935
-	InertiaMoment   0.39873
-
-	Oblateness      0.0043144
-
-	Obliquity       -66.93
-	EqAscendNode    -41.9815
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.624 0.619 0.612)
-
-	Surface
-	{
-		SurfStyle       0.120942
-		OceanStyle      0.932716
-		Randomize      (0.964, 0.075, 0.956)
-		colorDistMagn   0.827968
-		colorDistFreq   0.0126253
-		detailScale     207.786
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.879626
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.419491
-		terraceProb     0.263184
-		erosion         0
-		montesMagn      0.622185
-		montesFreq      3.60785
-		montesSpiky     0.947858
-		montesFraction  0.903789
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       0.115698
-		hillsFraction   0.706778
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.229756
-		craterFreq      0.235395
-		craterDensity   0.847686
-		craterOctaves   11
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.513734
-		volcanoTemp     1219.64
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.250, 0.248, 0.245, 0.000)
-		colorShelf     (0.265, 0.263, 0.260, 0.000)
-		colorBeach     (0.281, 0.279, 0.276, 0.000)
-		colorDesert    (0.296, 0.294, 0.291, 0.000)
-		colorLowland   (0.312, 0.310, 0.306, 0.000)
-		colorUpland    (0.328, 0.325, 0.322, 0.000)
-		colorRock      (0.343, 0.341, 0.337, 0.000)
-		colorSnow      (0.359, 0.356, 0.352, 1.000)
-		BumpHeight      6.84842
-		BumpOffset      1.36968
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00224902
-		Period          0.00901913
-		Eccentricity    0.456399
-		Inclination     -66.93
-		AscendingNode   -41.9815
-		ArgOfPericenter 38.2421
-		MeanAnomaly     79.7566
-	}
-}
-
-/*DwarfMoon	"Crait System 5.D1"
-{
-	ParentBody     "Crait System 5"
-	Class	       "Asteroid"
-
-	Mass            5.44984e-009
-	Radius          24.5014
-	InertiaMoment   0.397984
-
-	Oblateness      0.181985
-
-	Obliquity       -0.00795759
-	EqAscendNode    -179.474
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.512 0.436 0.356)
-
-	Surface
-	{
-		SurfStyle       0.341158
-		OceanStyle      0.837049
-		Randomize      (-0.138, -0.317, 0.489)
-		colorDistMagn   0.819904
-		colorDistFreq   0.276415
-		detailScale     669.052
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.460805
-		terraceProb     0.258902
-		erosion         0
-		montesMagn      0.491236
-		montesFreq      3.51022
-		montesSpiky     0.915288
-		montesFraction  0.394725
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       1.50657
-		hillsFraction   0.827427
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.23094
-		craterFreq      0.233556
-		craterDensity   0.953379
-		craterOctaves   13
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.507305
-		volcanoTemp     1466.92
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.205, 0.174, 0.142, 0.000)
-		colorShelf     (0.218, 0.185, 0.151, 0.000)
-		colorBeach     (0.230, 0.196, 0.160, 0.000)
-		colorDesert    (0.243, 0.207, 0.169, 0.000)
-		colorLowland   (0.256, 0.218, 0.178, 0.000)
-		colorUpland    (0.269, 0.229, 0.187, 0.000)
-		colorRock      (0.282, 0.240, 0.196, 0.000)
-		colorSnow      (0.294, 0.251, 0.205, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   9.67942e-005
-		Period          0.00135267
-		Eccentricity    7.30078e-005
-		Inclination     -0.00795759
-		AscendingNode   -179.474
-		ArgOfPericenter -111.845
-		MeanAnomaly     -172.869
-	}
-}
-
-DwarfMoon	"Crait System 5.D2"
-{
-	ParentBody     "Crait System 5"
-	Class	       "Asteroid"
-
-	Mass            7.48443e-009
-	Radius          26.0338
-	InertiaMoment   0.399129
-
-	Oblateness      0.00128467
-
-	Obliquity       40.499
-	EqAscendNode    -19.6489
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.647 0.518 0.369)
-
-	Surface
-	{
-		SurfStyle       0.338432
-		OceanStyle      0.276731
-		Randomize      (0.364, 0.436, -0.877)
-		colorDistMagn   0.892941
-		colorDistFreq   0.232624
-		detailScale     710.897
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.983478
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.434021
-		terraceProb     0.351865
-		erosion         0
-		montesMagn      0.253118
-		montesFreq      3.07121
-		montesSpiky     0.858401
-		montesFraction  0.491955
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       1.45132
-		hillsFraction   0.621197
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.206992
-		craterFreq      0.235803
-		craterDensity   0.946837
-		craterOctaves   13
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.511828
-		volcanoTemp     1484.06
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.259, 0.207, 0.147, 0.000)
-		colorShelf     (0.275, 0.220, 0.157, 0.000)
-		colorBeach     (0.291, 0.233, 0.166, 0.000)
-		colorDesert    (0.307, 0.246, 0.175, 0.000)
-		colorLowland   (0.324, 0.259, 0.184, 0.000)
-		colorUpland    (0.340, 0.272, 0.194, 0.000)
-		colorRock      (0.356, 0.285, 0.203, 0.000)
-		colorSnow      (0.372, 0.298, 0.212, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000483031
-		Period          0.0150792
-		Eccentricity    0.156741
-		Inclination     40.499
-		AscendingNode   -19.6489
-		ArgOfPericenter 112.658
-		MeanAnomaly     -9.90616
-	}
-}
-
-DwarfMoon	"Crait System 5.D3"
-{
-	ParentBody     "Crait System 5"
-	Class	       "Asteroid"
-
-	Mass            1.02343e-008
-	Radius          34.0647
-	InertiaMoment   0.395046
-
-	Obliquity       -48.5573
-	EqAscendNode    145.395
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.701 0.557 0.452)
-
-	Surface
-	{
-		SurfStyle       0.886335
-		OceanStyle      0.00957769
-		Randomize      (0.341, 0.632, -0.874)
-		colorDistMagn   0.515109
-		colorDistFreq   0.669717
-		detailScale     930.194
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.434668
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.545957
-		terraceProb     0.178754
-		erosion         0
-		montesMagn      0.427142
-		montesFreq      2.29597
-		montesSpiky     0.954648
-		montesFraction  0.880632
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       3.358
-		hillsFraction   0.512285
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.219104
-		craterFreq      0.251038
-		craterDensity   0.863429
-		craterOctaves   13
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.550273
-		volcanoTemp     1587.88
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.238, 0.195, 0.181, 0.050)
-		colorShelf     (0.280, 0.228, 0.208, 0.040)
-		colorBeach     (0.322, 0.262, 0.235, 0.030)
-		colorDesert    (0.364, 0.295, 0.266, 0.020)
-		colorLowland   (0.406, 0.329, 0.294, 0.030)
-		colorUpland    (0.449, 0.362, 0.321, 0.050)
-		colorRock      (0.491, 0.396, 0.357, 0.020)
-		colorSnow      (0.491, 0.396, 0.357, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00108686
-		Period          0.0508956
-		Eccentricity    0.0143449
-		Inclination     -48.5573
-		AscendingNode   145.395
-		ArgOfPericenter -175.719
-		MeanAnomaly     -152.597
-	}
-}*/
-
-Planet	"Crait System 6"
-{
-	ParentBody     "Crait System"
-	Class	       "Desert"
-
-	Mass            0.791113
-	Radius          6561.75
-	InertiaMoment   0.33094
-
-	Oblateness      0.00745463
-
-	RotationPeriod  18.816
-	Obliquity       21.3124
-	EqAscendNode    -48.331
-
-	AlbedoBond      0.271189
-	AlbedoGeom      0.325427
-	Brightness      2
-	Color          (0.469 0.402 0.348)
-
-	Surface
-	{
-		SurfStyle       0.583868
-		OceanStyle      0.0931194
-		Randomize      (-0.131, -0.564, -0.314)
-		colorDistMagn   0.0593848
-		colorDistFreq   790.12
-		detailScale     16877.2
-		colorConversion true
-		seaLevel        0.138335
-		snowLevel       2
-		tropicLatitude  0.34078
-		icecapLatitude  0.83698
-		icecapHeight    0.145536
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.610817
-		venusFreq       0.649784
-		venusMagn       0.476693
-		mareFreq        1.93415
-		mareDensity     0.114479
-		terraceProb     0.246054
-		erosion         0
-		montesMagn      0.233012
-		montesFreq      254.774
-		montesSpiky     0.941065
-		montesFraction  0.87763
-		dunesMagn       0.0533894
-		dunesFreq       47.7418
-		dunesFraction   0.230436
-		hillsMagn       0.159164
-		hillsFreq       987.069
-		hillsFraction   0
-		hills2Fraction  0
-		riversMagn      64.8593
-		riversFreq      3.82295
-		riversSin       6.30283
-		riversOctaves   0
-		canyonsMagn     0.0249178
-		canyonsFreq     180.656
-		canyonFraction  0
-		cracksMagn      0.0810726
-		cracksFreq      0.398359
-		cracksOctaves   0
-		craterMagn      0.568245
-		craterFreq      18.1256
-		craterDensity   0.336346
-		craterOctaves   5.16695
-		volcanoMagn     0.690384
-		volcanoFreq     0.662697
-		volcanoDensity  0.267515
-		volcanoOctaves  3
-		volcanoActivity 0.521465
-		volcanoFlows    0.892901
-		volcanoRadius   0.446468
-		volcanoTemp     1569.81
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		stripeZones     1.93975
-		stripeTwist     0
-		cycloneMagn     2.74606
-		cycloneFreq     0.713124
-		cycloneDensity  0.303035
-		cycloneOctaves  3
-		colorSea       (0.640, 0.620, 0.420, 0.000)
-		colorShelf     (0.680, 0.620, 0.470, 0.000)
-		colorBeach     (0.740, 0.730, 0.610, 0.000)
-		colorDesert    (0.450, 0.420, 0.380, 0.000)
-		colorLowland   (0.530, 0.480, 0.400, 0.000)
-		colorUpland    (0.600, 0.540, 0.420, 0.000)
-		colorRock      (0.170, 0.160, 0.160, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 0.769)
-		colorLowPlants (0.530, 0.480, 0.400, 0.000)
-		colorUpPlants  (0.600, 0.540, 0.420, 0.000)
-		BumpHeight      20
-		DiffMapAlpha   "Ice"
-		SpecBrightWater 0.5
-		SpecBrightIce   0.5
-		SpecularPower   30
-		Hapke           0
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	Clouds
-	{
-		Height          15.8779
-		Velocity        86.9979
-		BumpHeight      5.71395
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        0.958977
-		mainOctaves     10
-		Coverage        0.142378
-		stripeZones     1.93975
-		stripeTwist     0
-	}
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Titan"
-		Height          32.8087
-		Density         0.188372
-		Pressure        0.0642136
-		Greenhouse      0.675664
-		Bright          10
-		Opacity         1
-		SkyLight        3.33333
-		Hue             0.0128652
-		Saturation      1
-
-		Composition
-		{
-			CO2   	89.4323
-			C2H2  	8.16346
-			H2S   	1.28313
-			CH4   	0.703441
-			C2H4  	0.296887
-			C2H6  	0.0877036
-			N2    	0.0151178
-			C3H8  	0.0148446
-			NH3   	0.00197283
-			SO2   	0.000833496
-			Ne    	0.000139032
-			CO    	0.00011337
-			Ar    	7.45854e-005
-		}
-	}
-
-	Aurora
-	{
-		Height      138.922
-		NorthLat    55.9561
-		NorthLon    -23.5371
-		NorthRadius 1767.01
-		NorthWidth  536.466
-		NorthRings  4
-		NorthBright 0.3
-		NorthParticles 50000
-		SouthLat    -52.7059
-		SouthLon    157.397
-		SouthRadius 1988.76
-		SouthWidth  544.416
-		SouthRings  3
-		SouthBright 0.3
-		SouthParticles 50000
-		TopColor    (1.000 1.000 1.000)
-		BottomColor (0.000 1.000 0.000)
-	}
-
-	Rings
-	{
-		InnerRadius     8052.08
-		OuterRadius     10343.5
-		RotationPeriod  2.74783
-		RotationOffset  0
-		FrontBright     0.920251
-		BackBright      0.797385
-		Density         0.529728
-		Brightness      1
-	}
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.629382
-		Period          0.664311
-		Eccentricity    0.0170141
-		Inclination     -2.22926
-		AscendingNode   -49.213
-		ArgOfPericenter 311.822
-		MeanAnomaly     351.532
-	}
-}
-
-DwarfMoon	"Crait System 6.D1"
-{
-	ParentBody     "Crait System 6"
-	Class	       "Asteroid"
-
-	Mass            1.96339e-007
-	Radius          87.7425
-	InertiaMoment   0.399497
-
-	Oblateness      0.249
-
-	Obliquity       0.00107543
-	EqAscendNode    -13.1442
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.735 0.732 0.729)
-
-	Surface
-	{
-		SurfStyle       0.85382
-		OceanStyle      0.698859
-		Randomize      (-0.892, 0.745, -0.180)
-		colorDistMagn   0.603526
-		colorDistFreq   5.81208
-		detailScale     2395.96
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.333429
-		terraceProb     0.179755
-		erosion         0
-		montesMagn      0.215901
-		montesFreq      2.62279
-		montesSpiky     0.944883
-		montesFraction  0.111062
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       16.6214
-		hillsFraction   0.689855
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.229803
-		craterFreq      0.297115
-		craterDensity   0.997056
-		craterOctaves   15
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.56123
-		volcanoTemp     1465.58
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.250, 0.256, 0.292, 0.050)
-		colorShelf     (0.294, 0.300, 0.335, 0.040)
-		colorBeach     (0.338, 0.344, 0.379, 0.030)
-		colorDesert    (0.382, 0.388, 0.430, 0.020)
-		colorLowland   (0.426, 0.432, 0.474, 0.030)
-		colorUpland    (0.470, 0.476, 0.518, 0.050)
-		colorRock      (0.514, 0.520, 0.576, 0.020)
-		colorSnow      (0.514, 0.520, 0.576, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000128626
-		Period          0.000948537
-		Eccentricity    2.81166e-005
-		Inclination     0.00107543
-		AscendingNode   -13.1442
-		ArgOfPericenter 27.4266
-		MeanAnomaly     -53.7488
-	}
-}
-
-DwarfMoon	"Crait System 6.D2"
-{
-	ParentBody     "Crait System 6"
-	Class	       "Asteroid"
-
-	Mass            2.71462e-007
-	Radius          92.8121
-	InertiaMoment   0.39713
-
-	Oblateness      0.249
-
-	Obliquity       0.00186506
-	EqAscendNode    -62.6784
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.703 0.676 0.625)
-
-	Surface
-	{
-		SurfStyle       0.158854
-		OceanStyle      0.518795
-		Randomize      (-0.312, -0.757, -0.611)
-		colorDistMagn   0.642555
-		colorDistFreq   4.26241
-		detailScale     2534.39
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.299706
-		terraceProb     0.165888
-		erosion         0
-		montesMagn      0.48986
-		montesFreq      2.37015
-		montesSpiky     0.891586
-		montesFraction  0.579858
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       23.7676
-		hillsFraction   0.658457
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.225066
-		craterFreq      0.328455
-		craterDensity   0.655263
-		craterOctaves   15
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.508052
-		volcanoTemp     1394.79
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.281, 0.270, 0.250, 0.000)
-		colorShelf     (0.299, 0.287, 0.266, 0.000)
-		colorBeach     (0.316, 0.304, 0.281, 0.000)
-		colorDesert    (0.334, 0.321, 0.297, 0.000)
-		colorLowland   (0.351, 0.338, 0.313, 0.000)
-		colorUpland    (0.369, 0.355, 0.328, 0.000)
-		colorRock      (0.386, 0.372, 0.344, 0.000)
-		colorSnow      (0.404, 0.389, 0.360, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000146328
-		Period          0.00115093
-		Eccentricity    1.73854e-005
-		Inclination     0.00186506
-		AscendingNode   -62.6784
-		ArgOfPericenter -4.6841
-		MeanAnomaly     63.5123
-	}
-}
-
-Moon	"Crait System 6.1"
-{
-	ParentBody     "Crait System 6"
-	Class	       "Selena"
-
-	Mass            0.0158806
-	Radius          2056.89
-	InertiaMoment   0.369
-
-	Oblateness      0.00379994
-
-	Obliquity       -0.640842
-	EqAscendNode    164.818
-	TidalLocked     true
-
-	AlbedoBond      0.3
-	AlbedoGeom      0.36
-	Brightness      3.5
-	Color          (0.594 0.590 0.589)
-
-	Surface
-	{
-		SurfStyle       0.558281
-		OceanStyle      0.94783
-		Randomize      (0.324, -0.414, 0.399)
-		colorDistMagn   0.068028
-		colorDistFreq   234.275
-		detailScale     5290.44
-		colorConversion true
-		drivenDarkening 0
-		seaLevel        0.127456
-		snowLevel       2
-		tropicLatitude  0.00294996
-		icecapLatitude  6.75867
-		icecapHeight    0.119065
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        1.69666
-		venusFreq       1.0674
-		venusMagn       0
-		mareFreq        1.21728
-		mareDensity     0.00389365
-		terraceProb     0.322247
-		erosion         0
-		montesMagn      0.116426
-		montesFreq      80.3101
-		montesSpiky     0.826636
-		montesFraction  0.832545
-		dunesMagn       0.0493659
-		dunesFreq       2709.07
-		dunesFraction   0.385719
-		hillsMagn       0.108536
-		hillsFreq       262.741
-		hillsFraction   0.280712
-		hills2Fraction  0
-		riversMagn      62.4852
-		riversFreq      3.26992
-		riversSin       3.54267
-		riversOctaves   0
-		canyonsMagn     0.454998
-		canyonsFreq     0.817171
-		canyonFraction  0.850451
-		cracksMagn      0.0206724
-		cracksFreq      1.20108
-		cracksOctaves   0
-		craterMagn      0.565333
-		craterFreq      5.18285
-		craterDensity   0.641253
-		craterOctaves   7.76507
-		craterRayedFactor 0.111155
-		volcanoMagn     0.304347
-		volcanoFreq     0.827612
-		volcanoDensity  0.4
-		volcanoOctaves  3
-		volcanoActivity 2
-		volcanoFlows    0.243862
-		volcanoRadius   0.275412
-		volcanoTemp     1681.81
-		lavaCoverTidal  0.326761
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.430, 0.400, 0.370, 0.000)
-		colorShelf     (0.620, 0.600, 0.530, 0.000)
-		colorBeach     (0.368, 0.360, 0.318, 0.000)
-		colorDesert    (0.386, 0.366, 0.324, 0.000)
-		colorLowland   (0.303, 0.272, 0.247, 0.000)
-		colorUpland    (0.446, 0.419, 0.365, 0.000)
-		colorRock      (0.300, 0.260, 0.220, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 1.000)
-		BumpHeight      20
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   55
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00033771
-		Period          0.0039954
-		Eccentricity    0.0379551
-		Inclination     -0.640842
-		AscendingNode   164.818
-		ArgOfPericenter 8.19709
-		MeanAnomaly     -34.3279
-	}
-}
-
-DwarfMoon	"Crait System 6.D3"
-{
-	ParentBody     "Crait System 6"
-	Class	       "Asteroid"
-
-	Mass            5.30656e-007
-	Radius          105.731
-	InertiaMoment   0.399625
-
-	RotationPeriod  732.673
-	Obliquity       -66.5541
-	EqAscendNode    38.7228
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.687 0.685 0.683)
-
-	Surface
-	{
-		SurfStyle       0.368304
-		OceanStyle      0.568714
-		Randomize      (-0.276, -0.216, -0.403)
-		colorDistMagn   0.800356
-		colorDistFreq   2.41109
-		detailScale     2887.17
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.86697
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.54903
-		terraceProb     0.239715
-		erosion         0
-		montesMagn      0.416457
-		montesFreq      3.08109
-		montesSpiky     0.898594
-		montesFraction  0.388967
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       23.7625
-		hillsFraction   0.563352
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.250452
-		craterFreq      0.359336
-		craterDensity   0.778305
-		craterOctaves   15
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.570109
-		volcanoTemp     1429.66
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.275, 0.274, 0.273, 0.000)
-		colorShelf     (0.292, 0.291, 0.290, 0.000)
-		colorBeach     (0.309, 0.308, 0.307, 0.000)
-		colorDesert    (0.326, 0.325, 0.324, 0.000)
-		colorLowland   (0.344, 0.342, 0.341, 0.000)
-		colorUpland    (0.361, 0.360, 0.359, 0.000)
-		colorRock      (0.378, 0.377, 0.376, 0.000)
-		colorSnow      (0.395, 0.394, 0.393, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00138275
-		Period          0.0334332
-		Eccentricity    0.445948
-		Inclination     -66.5541
-		AscendingNode   38.7228
-		ArgOfPericenter -7.47549
-		MeanAnomaly     19.2958
-	}
-}
-
-DwarfMoon	"Crait System 6.D4"
-{
-	ParentBody     "Crait System 6"
-	Class	       "Asteroid"
-
-	Mass            7.52629e-007
-	Radius          138.798
-	InertiaMoment   0.397443
-
-	Obliquity       -36.2679
-	EqAscendNode    128.709
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.760 0.718 0.693)
-
-	Surface
-	{
-		SurfStyle       0.112623
-		OceanStyle      0.277952
-		Randomize      (-0.080, 0.692, -0.732)
-		colorDistMagn   0.313165
-		colorDistFreq   7.85608
-		detailScale     3790.1
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.494987
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.604866
-		terraceProb     0.328422
-		erosion         0
-		montesMagn      0.484326
-		montesFreq      2.08815
-		montesSpiky     0.849975
-		montesFraction  0.771496
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       43.6086
-		hillsFraction   0.727922
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.233942
-		craterFreq      0.79715
-		craterDensity   0.797351
-		craterOctaves   16
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.546951
-		volcanoTemp     1443.45
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.304, 0.287, 0.277, 0.000)
-		colorShelf     (0.323, 0.305, 0.294, 0.000)
-		colorBeach     (0.342, 0.323, 0.312, 0.000)
-		colorDesert    (0.361, 0.341, 0.329, 0.000)
-		colorLowland   (0.380, 0.359, 0.346, 0.000)
-		colorUpland    (0.399, 0.377, 0.364, 0.000)
-		colorRock      (0.418, 0.395, 0.381, 0.000)
-		colorSnow      (0.437, 0.413, 0.398, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00183579
-		Period          0.0511442
-		Eccentricity    0.0759233
-		Inclination     -36.2679
-		AscendingNode   128.709
-		ArgOfPericenter -175.816
-		MeanAnomaly     -175.454
-	}
-}
-
-DwarfMoon	"Crait System 6.D5"
-{
-	ParentBody     "Crait System 6"
-	Class	       "Asteroid"
-
-	Mass            1.08045e-006
-	Radius          147.982
-	InertiaMoment   0.398808
-
-	RotationPeriod  955.223
-	Obliquity       -13.6091
-	EqAscendNode    -46.9116
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.605 0.601 0.596)
-
-	Surface
-	{
-		SurfStyle       0.982046
-		OceanStyle      0.899052
-		Randomize      (0.603, -0.959, -0.249)
-		colorDistMagn   0.63203
-		colorDistFreq   6.16341
-		detailScale     4040.91
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.42153
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.542628
-		terraceProb     0.480838
-		erosion         0
-		montesMagn      0.527875
-		montesFreq      3.20193
-		montesSpiky     0.83356
-		montesFraction  0.638188
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       40.6784
-		hillsFraction   0.529577
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.278089
-		craterFreq      0.597137
-		craterDensity   0.873758
-		craterOctaves   16
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.442062
-		volcanoTemp     1673.93
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.206, 0.211, 0.238, 0.050)
-		colorShelf     (0.242, 0.247, 0.274, 0.040)
-		colorBeach     (0.278, 0.283, 0.310, 0.030)
-		colorDesert    (0.314, 0.319, 0.352, 0.020)
-		colorLowland   (0.351, 0.355, 0.387, 0.030)
-		colorUpland    (0.387, 0.391, 0.423, 0.050)
-		colorRock      (0.423, 0.427, 0.471, 0.020)
-		colorSnow      (0.423, 0.427, 0.471, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00231975
-		Period          0.0726476
-		Eccentricity    0.180713
-		Inclination     -13.6091
-		AscendingNode   -46.9116
-		ArgOfPericenter 15.7967
-		MeanAnomaly     -62.8815
-	}
-}
-
-DwarfMoon	"Crait System 6.D6"
-{
-	ParentBody     "Crait System 6"
-	Class	       "Asteroid"
-
-	Mass            1.57371e-006
-	Radius          161.08
-	InertiaMoment   0.399751
-
-	Obliquity       -75.5895
-	EqAscendNode    -112.602
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.703 0.583 0.510)
-
-	Surface
-	{
-		SurfStyle       0.261593
-		OceanStyle      0.139196
-		Randomize      (0.822, -0.157, -0.204)
-		colorDistMagn   0.61444
-		colorDistFreq   7.63348
-		detailScale     4398.55
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.906381
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.624601
-		terraceProb     0.211142
-		erosion         0
-		montesMagn      0.489382
-		montesFreq      2.15456
-		montesSpiky     0.813936
-		montesFraction  0.424155
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       45.8735
-		hillsFraction   0.725926
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.252954
-		craterFreq      1.07915
-		craterDensity   0.821246
-		craterOctaves   16
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.606656
-		volcanoTemp     1556.78
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.281, 0.233, 0.204, 0.000)
-		colorShelf     (0.299, 0.248, 0.217, 0.000)
-		colorBeach     (0.316, 0.262, 0.230, 0.000)
-		colorDesert    (0.334, 0.277, 0.242, 0.000)
-		colorLowland   (0.351, 0.292, 0.255, 0.000)
-		colorUpland    (0.369, 0.306, 0.268, 0.000)
-		colorRock      (0.386, 0.321, 0.281, 0.000)
-		colorSnow      (0.404, 0.335, 0.293, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00253734
-		Period          0.0831049
-		Eccentricity    0.0444761
-		Inclination     -75.5895
-		AscendingNode   -112.602
-		ArgOfPericenter 153.686
-		MeanAnomaly     -51.2598
-	}
-}
-
-DwarfMoon	"Crait System 6.D7"
-{
-	ParentBody     "Crait System 6"
-	Class	       "Asteroid"
-
-	Mass            2.33258e-006
-	Radius          175.042
-	InertiaMoment   0.397704
-
-	Obliquity       -18.6765
-	EqAscendNode    -10.543
-	TidalLocked     true
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.709 0.677 0.635)
-
-	Surface
-	{
-		SurfStyle       0.645451
-		OceanStyle      0.255108
-		Randomize      (0.953, -0.822, -0.060)
-		colorDistMagn   0.846967
-		colorDistFreq   9.37034
-		detailScale     4779.82
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.604448
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.714346
-		terraceProb     0.566884
-		erosion         0
-		montesMagn      0.602773
-		montesFreq      2.65221
-		montesSpiky     0.892369
-		montesFraction  0.839363
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       61.548
-		hillsFraction   0.615764
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.277641
-		craterFreq      1.10669
-		craterDensity   0.963414
-		craterOctaves   16
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.457172
-		volcanoTemp     1576.58
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.277, 0.230, 0.178, 0.000)
-		colorShelf     (0.284, 0.237, 0.203, 0.000)
-		colorBeach     (0.333, 0.278, 0.241, 0.000)
-		colorDesert    (0.362, 0.298, 0.235, 0.000)
-		colorLowland   (0.397, 0.318, 0.267, 0.000)
-		colorUpland    (0.440, 0.386, 0.324, 0.000)
-		colorRock      (0.475, 0.420, 0.349, 0.000)
-		colorSnow      (0.518, 0.447, 0.368, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00288674
-		Period          0.100849
-		Eccentricity    0.429963
-		Inclination     -18.6765
-		AscendingNode   -10.543
-		ArgOfPericenter 154.253
-		MeanAnomaly     -114.675
-	}
-}
-
-DwarfMoon	"Crait System 6.D8"
-{
-	ParentBody     "Crait System 6"
-	Class	       "Asteroid"
-
-	Mass            3.53151e-006
-	Radius          235.346
-	InertiaMoment   0.398954
-
-	RotationPeriod  6022.55
-	Obliquity       -7.01605
-	EqAscendNode    -85.4503
-
-	AlbedoBond      0.2
-	AlbedoGeom      0.24
-	Brightness      3.5
-	Color          (0.781 0.779 0.778)
-
-	Surface
-	{
-		SurfStyle       0.459729
-		OceanStyle      0.462209
-		Randomize      (0.524, -0.138, -0.425)
-		colorDistMagn   0.536597
-		colorDistFreq   25.4261
-		detailScale     6426.52
-		colorConversion true
-		snowLevel       2
-		tropicLatitude  0.178739
-		icecapLatitude  1
-		climatePole     0.9375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        0.502225
-		terraceProb     0.276875
-		erosion         0
-		montesMagn      0.473445
-		montesFreq      2.78548
-		montesSpiky     0.90687
-		montesFraction  0.516632
-		dunesFraction   0
-		hillsMagn       0
-		hillsFreq       74.746
-		hillsFraction   0.516617
-		hills2Fraction  0
-		canyonFraction  0
-		craterMagn      0.222641
-		craterFreq      1.44402
-		craterDensity   0.858065
-		craterOctaves   16
-		volcanoActivity 0
-		volcanoFlows    0
-		volcanoRadius   0.565866
-		volcanoTemp     1869.3
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.312, 0.312, 0.311, 0.000)
-		colorShelf     (0.332, 0.331, 0.331, 0.000)
-		colorBeach     (0.352, 0.351, 0.350, 0.000)
-		colorDesert    (0.371, 0.370, 0.370, 0.000)
-		colorLowland   (0.391, 0.390, 0.389, 0.000)
-		colorUpland    (0.410, 0.409, 0.409, 0.000)
-		colorRock      (0.430, 0.429, 0.428, 0.000)
-		colorSnow      (0.449, 0.448, 0.448, 1.000)
-		BumpHeight      20
-		BumpOffset      4
-		SpecBrightWater 0
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           1
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	NoAtmosphere    true
-
-	NoAurora        true
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00354791
-		Period          0.13741
-		Eccentricity    0.404705
-		Inclination     -7.01605
-		AscendingNode   -85.4503
-		ArgOfPericenter 139.707
-		MeanAnomaly     128.661
-	}
-}
-
-Planet	"Crait System 7"
-{
-	ParentBody     "Crait System"
-	Class	       "IceWorld"
-
-	Mass            3.7895
-	Radius          11209.1
-	InertiaMoment   0.332481
-
-	Oblateness      0.0142771
-
-	RotationPeriod  13.9091
-	Obliquity       68.0706
-	EqAscendNode    -111.896
-
-	AlbedoBond      0.3
-	AlbedoGeom      0.36
-	Brightness      2
-	Color          (0.554 0.544 0.537)
-
-	Surface
-	{
-		SurfStyle       0.0179057
-		OceanStyle      0.733796
-		Randomize      (0.586, 0.534, -0.714)
-		colorDistMagn   0.0600146
-		colorDistFreq   1458.43
-		detailScale     28830.5
-		colorConversion true
-		drivenDarkening 0
-		seaLevel        0.230477
-		snowLevel       2
-		tropicLatitude  0.930679
-		icecapLatitude  1
-		icecapHeight    0.230477
-		climatePole     0.4375
-		climateTropic   0.3125
-		climateEquator  0.6875
-		heightTempGrad  0.625
-		tropicWidth     0.07
-		mainFreq        1.67868
-		venusFreq       1.24234
-		venusMagn       0
-		mareFreq        2.05377
-		mareDensity     0.105713
-		terraceProb     0.302773
-		erosion         0
-		montesMagn      0.205486
-		montesFreq      435.284
-		montesSpiky     0.984733
-		montesFraction  0.850692
-		dunesMagn       0.0373201
-		dunesFreq       14831
-		dunesFraction   0.11481
-		hillsMagn       0.115175
-		hillsFreq       1355.44
-		hillsFraction   0.719007
-		hills2Fraction  0.0493419
-		riversMagn      67.4989
-		riversFreq      2.16858
-		riversSin       7.13071
-		riversOctaves   0
-		canyonsMagn     0.635683
-		canyonsFreq     4.30998
-		canyonFraction  0
-		cracksMagn      0.0307778
-		cracksFreq      4.83172
-		cracksOctaves   7
-		craterMagn      0.661857
-		craterFreq      28.8728
-		craterDensity   0.576098
-		craterOctaves   8.64179
-		craterRayedFactor 0.0649821
-		volcanoMagn     0.647732
-		volcanoFreq     0.463822
-		volcanoDensity  0.197308
-		volcanoOctaves  3
-		volcanoActivity 0
-		volcanoFlows    0.126945
-		volcanoRadius   0.466926
-		volcanoTemp     1201.22
-		lavaCoverTidal  0
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		colorSea       (0.554, 0.544, 0.537, 0.500)
-		colorShelf     (0.526, 0.517, 0.510, 0.500)
-		colorBeach     (0.388, 0.381, 0.376, 0.750)
-		colorDesert    (0.471, 0.462, 0.456, 1.000)
-		colorLowland   (0.487, 0.479, 0.472, 1.000)
-		colorUpland    (0.515, 0.506, 0.499, 1.000)
-		colorRock      (1.000, 1.000, 1.000, 1.000)
-		colorSnow      (1.000, 1.000, 1.000, 0.154)
-		colorLowPlants (0.487, 0.479, 0.472, 1.000)
-		colorUpPlants  (0.515, 0.506, 0.499, 1.000)
-		BumpHeight      18.0558
-		DiffMapAlpha   "Ice"
-		SpecBrightWater 0.03
-		SpecBrightIce   0.03
-		SpecularPower   30
-		Hapke           0.717661
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.2
-	}
-
-	NoClouds        true
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Neptune"
-		Height          56.0455
-		Density         0.0282339
-		Pressure        0.0140666
-		Greenhouse      1.61778
-		Bright          7.76523
-		Opacity         1
-		SkyLight        2.58841
-		Hue             0
-		Saturation      1
-
-		Composition
-		{
-			CH4   	70.3548
-			CO2   	21.7045
-			C2H4  	4.84719
-			C2H2  	2.37664
-			C2H6  	0.499335
-			H2    	0.170683
-			N2    	0.0426814
-			CO    	0.00359548
-			H2S   	0.00035817
-			Ar    	0.000160463
-			Ne    	2.4894e-005
-			C3H8  	1.66504e-005
-			He    	1.34732e-005
-			Kr    	1.02919e-005
-		}
-	}
-
-	Aurora
-	{
-		Height      248.832
-		NorthLat    47.382
-		NorthLon    118.117
-		NorthRadius 2003.79
-		NorthWidth  661.32
-		NorthRings  5
-		NorthBright 0.3
-		NorthParticles 50000
-		SouthLat    -47.2051
-		SouthLon    281.666
-		SouthRadius 1864.43
-		SouthWidth  423.068
-		SouthRings  4
-		SouthBright 0.3
-		SouthParticles 50000
-		TopColor    (1.000 1.000 1.000)
-		BottomColor (0.000 1.000 0.000)
-	}
-
-	Rings
-	{
-		InnerRadius     13412.3
-		OuterRadius     17662.3
-		RotationPeriod  2.75649
-		RotationOffset  0
-		FrontBright     0.968788
-		BackBright      0.871842
-		Density         0.978841
-		Brightness      1
-	}
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.99143
-		Period          1.31338
-		Eccentricity    0.00073592
-		Inclination     -1.34161
-		AscendingNode   -110.271
-		ArgOfPericenter 126.014
-		MeanAnomaly     290.577
-	}
-}
-
-Barycenter	"Crait System 8-8.1"
-{
-	ParentBody     "Crait System"
-	Mass            26.6243
-	Radius          8466.96
-	RotationPeriod  24
-	Obliquity       0
-	EqAscendNode    0
-
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   1.59209
-		Period          2.67259
-		Eccentricity    0.0962202
-		Inclination     2.45318
-		AscendingNode   -71.5261
-		ArgOfPericenter 94.1444
-		MeanAnomaly     252.977
-	}
-}
-
-Planet	"Crait System 8"
-{
-	ParentBody     "Crait System 8-8.1"
-	Class	       "IceGiant"
-
-	Mass            19.1024
-	Radius          21538.6
-	InertiaMoment   0.192282
-
-	Obliquity       -0.135448
-	EqAscendNode    63.6086
-	TidalLocked     true
-
-	AlbedoBond      0.494145
-	AlbedoGeom      0.592974
-	Brightness      2
-
-	Surface
-	{
-		SurfStyle       0.737197
-		Randomize      (-0.428, 0.447, -0.350)
-		detailScale     55398.6
-		colorConversion true
-		tropicLatitude  0.00401163
-		icecapLatitude  0.904012
-		craterOctaves   0
-		volcanoActivity 0
-		lavaCoverTidal  0.172106
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		stripeZones     6.02166
-		stripeFluct     0.324698
-		stripeTwist     9.97935
-		cycloneMagn     7.36805
-		cycloneFreq     0.518869
-		cycloneDensity  0.470004
-		cycloneOctaves  0
-		colorLayer0    (0.840, 0.730, 0.570, 1.000)
-		colorLayer1    (0.850, 0.750, 0.600, 1.000)
-		colorLayer2    (0.340, 0.290, 0.200, 1.000)
-		colorLayer3    (0.460, 0.380, 0.270, 1.000)
-		colorLayer4    (0.560, 0.470, 0.320, 1.000)
-		colorLayer5    (0.580, 0.500, 0.360, 1.000)
-		colorLayer6    (0.730, 0.630, 0.480, 1.000)
-		colorLayer7    (0.690, 0.660, 0.620, 1.000)
-		colorLowPlants (0.560, 0.470, 0.320, 1.000)
-		colorUpPlants  (0.580, 0.500, 0.360, 1.000)
-		BumpHeight      15.4529
-		SpecularPower   55
-		Hapke           0
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      1
-		ModulateColor  (0.000 0.000 0.000 0.000)
-	}
-
-	Clouds
-	{
-		Height          55.4395
-		Velocity        929.95
-		BumpHeight      39.9867
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      1
-		mainFreq        1.37252
-		mainOctaves     12
-		Coverage        0.470727
-		stripeZones     6.02166
-		stripeFluct     0.324698
-		stripeTwist     9.97935
-	}
-
-	Clouds
-	{
-		Height          95.4258
-		Velocity        -491.504
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      1
-		ModulateColor  (1.000 1.000 1.000 0.087)
-		mainFreq        1.37252
-		mainOctaves     12
-		Coverage        0.470727
-		stripeZones     6.02166
-		stripeFluct     0.324698
-		stripeTwist     9.97935
-	}
-
-	NoOcean         true
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Jupiter"
-		Height          215.386
-		Density         1804.95
-		Pressure        246426
-		Bright          10
-		Opacity         1
-		SkyLight        3.33333
-		Hue             0.0172244
-		Saturation      0.931346
-
-		Composition
-		{
-			H2    	91.8449
-			He    	7.78687
-			CH4   	0.324814
-			N2    	0.0342296
-			O2    	0.00711615
-			Ne    	0.00122826
-			Ar    	0.000795562
-			C2H4  	2.80977e-005
-		}
-	}
-
-	Aurora
-	{
-		Height      561.618
-		NorthLat    80.2776
-		NorthLon    108.75
-		NorthRadius 6354.08
-		NorthWidth  1579.94
-		NorthRings  3
-		NorthBright 1
-		NorthParticles 10000
-		SouthLat    -90
-		SouthLon    285.847
-		SouthRadius 5742.06
-		SouthWidth  2246.04
-		SouthRings  2
-		SouthBright 1
-		SouthParticles 10000
-		TopColor    (1.000 1.000 1.000)
-		BottomColor (1.000 0.000 0.500)
-	}
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.000454023
-		Period          0.00722081
-		Eccentricity    0.0182728
-		Inclination     -0.135448
-		AscendingNode   63.6086
-		ArgOfPericenter 312.635
-		MeanAnomaly     93.7122
-	}
-}
-
-Moon	"Crait System 8.1"
-{
-	ParentBody     "Crait System 8-8.1"
-	Class	       "Oceania"
-
-	Mass            7.52185
-	Radius          12378.7
-	InertiaMoment   0.330445
-
-	Obliquity       -0.135448
-	EqAscendNode    63.6086
-	TidalLocked     true
-
-	AlbedoBond      0.394696
-	AlbedoGeom      0.473635
-	Brightness      2
-	Color          (0.790 0.751 0.696)
-
-	Surface
-	{
-		SurfStyle       0.478143
-		OceanStyle      0.539148
-		Randomize      (-0.557, -0.130, -0.367)
-		colorDistMagn   0.0518688
-		colorDistFreq   1610.3
-		detailScale     31838.8
-		colorConversion true
-		seaLevel        0.90883
-		snowLevel       2
-		tropicLatitude  0.00401163
-		icecapLatitude  10
-		icecapHeight    1.03821
-		climatePole     0.5625
-		climateTropic   0.5625
-		climateEquator  0.6875
-		heightTempGrad  0.375
-		tropicWidth     0.5
-		mainFreq        0.856985
-		venusFreq       1.43077
-		venusMagn       0.280865
-		mareFreq        0
-		mareDensity     0
-		terraceProb     0.333818
-		erosion         0
-		montesMagn      0.183607
-		montesFreq      491.647
-		montesSpiky     0.895442
-		montesFraction  0.787627
-		dunesMagn       0.0529232
-		dunesFreq       122.908
-		dunesFraction   0.527822
-		hillsMagn       0.124907
-		hillsFreq       1223.9
-		hillsFraction   0.837046
-		hills2Fraction  0.721816
-		riversMagn      65.2193
-		riversFreq      3.62444
-		riversSin       5.54222
-		riversOctaves   0
-		canyonsMagn     0.0166726
-		canyonsFreq     309.208
-		canyonFraction  0.816309
-		cracksMagn      0.111277
-		cracksFreq      1.05151
-		cracksOctaves   3
-		craterMagn      0.0618996
-		craterFreq      95.6416
-		craterDensity   0
-		craterOctaves   0
-		volcanoMagn     0.614083
-		volcanoFreq     0.703882
-		volcanoDensity  0
-		volcanoOctaves  0
-		volcanoActivity 2
-		volcanoFlows    0
-		volcanoRadius   0.461658
-		volcanoTemp     1451.84
-		lavaCoverTidal  0.519825
-		lavaCoverSun    0
-		lavaCoverYoung  0
-		stripeZones     1.36851
-		stripeTwist     0.718073
-		cycloneMagn     2.12932
-		cycloneFreq     0.806806
-		cycloneDensity  0.338876
-		cycloneOctaves  2
-		colorSea       (0.040, 0.100, 0.200, 1.000)
-		colorShelf     (0.150, 0.480, 0.460, 1.000)
-		colorBeach     (0.950, 0.950, 0.950, 1.308)
-		colorDesert    (0.770, 0.770, 0.470, 1.308)
-		colorLowland   (0.880, 0.880, 0.880, 1.308)
-		colorUpland    (1.000, 1.000, 1.000, 1.308)
-		colorRock      (1.000, 1.000, 1.000, 1.308)
-		colorSnow      (1.000, 1.000, 1.000, 1.308)
-		BumpHeight      32.7247
-		BumpOffset      29.7412
-		DiffMapAlpha   "Water"
-		SpecBrightWater 0.65
-		SpecBrightIce   0.85
-		SpecularPower   55
-		Hapke           0
-		SpotBright      4
-		SpotWidth       0.05
-		DayAmbient      0.07
-	}
-
-	Clouds
-	{
-		Height          26.2988
-		Velocity        74.8235
-		BumpHeight      6.64825
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        1.02478
-		mainOctaves     10
-		Coverage        0.324493
-		stripeZones     1.36851
-		stripeTwist     0.718073
-	}
-
-	Clouds
-	{
-		Height          52.5977
-		Velocity        112.496
-		BumpHeight      5.25961
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        1.02478
-		mainOctaves     10
-		Coverage        0.324493
-		stripeZones     1.36851
-		stripeTwist     0.718073
-	}
-
-	Ocean
-	{
-		Height          29.7412
-		Hapke           0
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-	}
-
-	NoLava          true
-
-	Atmosphere
-	{
-		Model          "Venus"
-		Height          260.373
-		Density         648.855
-		Pressure        1961.97
-		Greenhouse      459.737
-		Bright          10
-		Opacity         1
-		SkyLight        3.33333
-		Hue             0.489816
-		Saturation      0.579633
-
-		Composition
-		{
-			H2O   	96.7003
-			CO2   	3.01937
-			SO2   	0.264939
-			N2    	0.0151105
-			CO    	0.00015453
-			Ar    	0.00011782
-			Ne    	1.05215e-005
-		}
-	}
-
-	Aurora
-	{
-		Height      102.923
-		NorthLat    53.9772
-		NorthLon    -116.639
-		NorthRadius 3994.6
-		NorthWidth  1031.51
-		NorthRings  2
-		NorthBright 0.3
-		NorthParticles 50000
-		SouthLat    -28.0302
-		SouthLon    89.1847
-		SouthRadius 3097.74
-		SouthWidth  790.763
-		SouthRings  5
-		SouthBright 0.3
-		SouthParticles 50000
-		TopColor    (1.000 1.000 1.000)
-		BottomColor (0.000 1.000 0.000)
-	}
-
-	NoRings         true
-
-	NoAccretionDisk true
-
-	NoCometTail     true
-
-	Orbit
-	{
-		RefPlane        "Equator"
-		SemiMajorAxis   0.00115303
-		Period          0.00722081
-		Eccentricity    0.0182728
-		Inclination     -0.135448
-		AscendingNode   63.6086
-		ArgOfPericenter 132.635
-		MeanAnomaly     93.7122
-	}
-}
-
-Planet	"Crait System 9"
-{
-	ParentBody     "Crait System"
+	ParentBody     "Crait system"
 	Class	       "IceGiant"
 
 	Mass            19.6721
@@ -4745,9 +359,9 @@ Planet	"Crait System 9"
 	}
 }
 
-DwarfMoon	"Crait System 9.D1"
+DwarfMoon	"Crait system 2.D1"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            3.37756e-007
@@ -4854,9 +468,9 @@ DwarfMoon	"Crait System 9.D1"
 	}
 }
 
-DwarfMoon	"Crait System 9.D2"
+DwarfMoon	"Crait system 2.D2"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            4.72796e-007
@@ -4963,9 +577,9 @@ DwarfMoon	"Crait System 9.D2"
 	}
 }
 
-DwarfMoon	"Crait System 9.D3"
+DwarfMoon	"Crait system 2.D3"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            6.68149e-007
@@ -5072,9 +686,9 @@ DwarfMoon	"Crait System 9.D3"
 	}
 }
 
-DwarfMoon	"Crait System 9.D4"
+DwarfMoon	"Crait system 2.D4"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            9.5503e-007
@@ -5181,9 +795,9 @@ DwarfMoon	"Crait System 9.D4"
 	}
 }
 
-Moon	"Crait System 9.1"
+Moon	"Crait system 2.1"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Selena"
 
 	Mass            0.00809736
@@ -5312,9 +926,9 @@ Moon	"Crait System 9.1"
 	}
 }
 
-Moon	"Crait System 9.2"
+Moon	"Crait system 2.2"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "IceWorld"
 
 	Mass            0.0100057
@@ -5444,9 +1058,9 @@ Moon	"Crait System 9.2"
 	}
 }
 
-Moon	"Crait System 9.3"
+Moon	"Crait system 2.3"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "IceWorld"
 
 	Mass            0.0126053
@@ -5576,9 +1190,9 @@ Moon	"Crait System 9.3"
 	}
 }
 
-Moon	"Crait System 9.4"
+Moon	"Crait system 2.4"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "IceWorld"
 
 	Mass            4.71453e-006
@@ -5708,9 +1322,9 @@ Moon	"Crait System 9.4"
 	}
 }
 
-DwarfMoon	"Crait System 9.D5"
+DwarfMoon	"Crait system 2.D5"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            1.32705e-011
@@ -5815,9 +1429,9 @@ DwarfMoon	"Crait System 9.D5"
 	}
 }
 
-DwarfMoon	"Crait System 9.D6"
+DwarfMoon	"Crait system 2.D6"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            2.67504e-011
@@ -5922,9 +1536,9 @@ DwarfMoon	"Crait System 9.D6"
 	}
 }
 
-DwarfMoon	"Crait System 9.D7"
+DwarfMoon	"Crait system 2.D7"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            4.92004e-011
@@ -6029,9 +1643,9 @@ DwarfMoon	"Crait System 9.D7"
 	}
 }
 
-DwarfMoon	"Crait System 9.D8"
+DwarfMoon	"Crait system 2.D8"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            8.48003e-011
@@ -6136,9 +1750,9 @@ DwarfMoon	"Crait System 9.D8"
 	}
 }
 
-DwarfMoon	"Crait System 9.D9"
+DwarfMoon	"Crait system 2.D9"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            1.39255e-010
@@ -6243,9 +1857,9 @@ DwarfMoon	"Crait System 9.D9"
 	}
 }
 
-DwarfMoon	"Crait System 9.D10"
+DwarfMoon	"Crait system 2.D10"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            2.203e-010
@@ -6350,9 +1964,9 @@ DwarfMoon	"Crait System 9.D10"
 	}
 }
 
-DwarfMoon	"Crait System 9.D11"
+DwarfMoon	"Crait system 2.D11"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            3.3836e-010
@@ -6457,9 +2071,9 @@ DwarfMoon	"Crait System 9.D11"
 	}
 }
 
-DwarfMoon	"Crait System 9.D12"
+DwarfMoon	"Crait system 2.D12"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            5.07442e-010
@@ -6564,9 +2178,9 @@ DwarfMoon	"Crait System 9.D12"
 	}
 }
 
-DwarfMoon	"Crait System 9.D13"
+DwarfMoon	"Crait system 2.D13"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            7.46302e-010
@@ -6671,9 +2285,9 @@ DwarfMoon	"Crait System 9.D13"
 	}
 }
 
-DwarfMoon	"Crait System 9.D14"
+DwarfMoon	"Crait system 2.D14"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            1.08003e-009
@@ -6778,9 +2392,9 @@ DwarfMoon	"Crait System 9.D14"
 	}
 }
 
-DwarfMoon	"Crait System 9.D15"
+DwarfMoon	"Crait system 2.D15"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            1.54213e-009
@@ -6885,9 +2499,9 @@ DwarfMoon	"Crait System 9.D15"
 	}
 }
 
-DwarfMoon	"Crait System 9.D16"
+DwarfMoon	"Crait system 2.D16"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            2.17739e-009
@@ -6992,9 +2606,9 @@ DwarfMoon	"Crait System 9.D16"
 	}
 }
 
-DwarfMoon	"Crait System 9.D17"
+DwarfMoon	"Crait system 2.D17"
 {
-	ParentBody     "Crait System 9"
+	ParentBody     "Crait system 2"
 	Class	       "Asteroid"
 
 	Mass            3.04572e-009
@@ -7099,9 +2713,9 @@ DwarfMoon	"Crait System 9.D17"
 	}
 }
 
-Planet	"Crait System 10"
+Planet	"Crait system 3"
 {
-	ParentBody     "Crait System"
+	ParentBody     "Crait system"
 	Class	       "IceWorld"
 
 	Mass            0.0389234
@@ -7252,9 +2866,9 @@ Planet	"Crait System 10"
 	}
 }
 
-DwarfMoon	"Crait System 10.D1"
+DwarfMoon	"Crait system 3.D1"
 {
-	ParentBody     "Crait System 10"
+	ParentBody     "Crait system 3"
 	Class	       "Asteroid"
 
 	Mass            6.00216e-008
@@ -7361,9 +2975,9 @@ DwarfMoon	"Crait System 10.D1"
 	}
 }
 
-DwarfMoon	"Crait System 10.D2"
+DwarfMoon	"Crait system 3.D2"
 {
-	ParentBody     "Crait System 10"
+	ParentBody     "Crait system 3"
 	Class	       "Asteroid"
 
 	Mass            8.16834e-008
@@ -7470,9 +3084,9 @@ DwarfMoon	"Crait System 10.D2"
 	}
 }
 
-Moon	"Crait System 10.1"
+Moon	"Crait system 3.1"
 {
-	ParentBody     "Crait System 10"
+	ParentBody     "Crait system 3"
 	Class	       "IceWorld"
 
 	Mass            0.000429245
@@ -7602,9 +3216,9 @@ Moon	"Crait System 10.1"
 	}
 }
 
-Planet	"Crait System 11"
+Planet	"Crait system 4"
 {
-	ParentBody     "Crait System"
+	ParentBody     "Crait system"
 	Class	       "GasGiant"
 
 	Mass            134.799
@@ -7769,9 +3383,9 @@ Planet	"Crait System 11"
 	}
 }
 
-DwarfMoon	"Crait System 11.D1"
+DwarfMoon	"Crait system 4.D1"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            3.20134e-006
@@ -7878,9 +3492,9 @@ DwarfMoon	"Crait System 11.D1"
 	}
 }
 
-Moon	"Crait System 11.1"
+Moon	"Crait system 4.1"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Desert"
 
 	Mass            0.114989
@@ -8087,9 +3701,9 @@ Moon	"Crait System 11.1"
 	}
 }
 
-Moon	"Crait System 11.2"
+Moon	"Crait system 4.2"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Selena"
 
 	Mass            2.54458
@@ -8270,9 +3884,9 @@ Moon	"Crait System 11.2"
 	}
 }
 
-Moon	"Crait System 11.3"
+Moon	"Crait system 4.3"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "IceWorld"
 
 	Mass            0.00139387
@@ -8402,9 +4016,9 @@ Moon	"Crait System 11.3"
 	}
 }
 
-Moon	"Crait System 11.4"
+Moon	"Crait system 4.4"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "IceWorld"
 
 	Mass            0.000247577
@@ -8534,9 +4148,9 @@ Moon	"Crait System 11.4"
 	}
 }
 
-Moon	"Crait System 11.5"
+Moon	"Crait system 4.5"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "IceWorld"
 
 	Mass            0.000374232
@@ -8666,9 +4280,9 @@ Moon	"Crait System 11.5"
 	}
 }
 
-Moon	"Crait System 11.6"
+Moon	"Crait system 4.6"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "IceWorld"
 
 	Mass            0.000521431
@@ -8798,9 +4412,9 @@ Moon	"Crait System 11.6"
 	}
 }
 
-Moon	"Crait System 11.7"
+Moon	"Crait system 4.7"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "IceWorld"
 
 	Mass            0.000691424
@@ -8930,9 +4544,9 @@ Moon	"Crait System 11.7"
 	}
 }
 
-Moon	"Crait System 11.8"
+Moon	"Crait system 4.8"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "IceWorld"
 
 	Mass            0.00886788
@@ -9062,9 +4676,9 @@ Moon	"Crait System 11.8"
 	}
 }
 
-Moon	"Crait System 11.9"
+Moon	"Crait system 4.9"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "IceWorld"
 
 	Mass            0.00111049
@@ -9194,9 +4808,9 @@ Moon	"Crait System 11.9"
 	}
 }
 
-DwarfMoon	"Crait System 11.D2"
+DwarfMoon	"Crait system 4.D2"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            7.76556e-010
@@ -9301,9 +4915,9 @@ DwarfMoon	"Crait System 11.D2"
 	}
 }
 
-DwarfMoon	"Crait System 11.D3"
+DwarfMoon	"Crait system 4.D3"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.12208e-009
@@ -9408,9 +5022,9 @@ DwarfMoon	"Crait System 11.D3"
 	}
 }
 
-DwarfMoon	"Crait System 11.D4"
+DwarfMoon	"Crait system 4.D4"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.60013e-009
@@ -9515,9 +5129,9 @@ DwarfMoon	"Crait System 11.D4"
 	}
 }
 
-DwarfMoon	"Crait System 11.D5"
+DwarfMoon	"Crait system 4.D5"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            2.25687e-009
@@ -9622,9 +5236,9 @@ DwarfMoon	"Crait System 11.D5"
 	}
 }
 
-DwarfMoon	"Crait System 11.D6"
+DwarfMoon	"Crait system 4.D6"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            3.15408e-009
@@ -9729,9 +5343,9 @@ DwarfMoon	"Crait System 11.D6"
 	}
 }
 
-DwarfMoon	"Crait System 11.D7"
+DwarfMoon	"Crait system 4.D7"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            4.3745e-009
@@ -9836,9 +5450,9 @@ DwarfMoon	"Crait System 11.D7"
 	}
 }
 
-DwarfMoon	"Crait System 11.D8"
+DwarfMoon	"Crait system 4.D8"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            6.02921e-009
@@ -9943,9 +5557,9 @@ DwarfMoon	"Crait System 11.D8"
 	}
 }
 
-DwarfMoon	"Crait System 11.D9"
+DwarfMoon	"Crait system 4.D9"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            8.26782e-009
@@ -10050,9 +5664,9 @@ DwarfMoon	"Crait System 11.D9"
 	}
 }
 
-DwarfMoon	"Crait System 11.D10"
+DwarfMoon	"Crait system 4.D10"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.12925e-008
@@ -10157,9 +5771,9 @@ DwarfMoon	"Crait System 11.D10"
 	}
 }
 
-DwarfMoon	"Crait System 11.D11"
+DwarfMoon	"Crait system 4.D11"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.53776e-008
@@ -10264,9 +5878,9 @@ DwarfMoon	"Crait System 11.D11"
 	}
 }
 
-DwarfMoon	"Crait System 11.D12"
+DwarfMoon	"Crait system 4.D12"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            2.08973e-008
@@ -10371,9 +5985,9 @@ DwarfMoon	"Crait System 11.D12"
 	}
 }
 
-DwarfMoon	"Crait System 11.D13"
+DwarfMoon	"Crait system 4.D13"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            2.83651e-008
@@ -10478,9 +6092,9 @@ DwarfMoon	"Crait System 11.D13"
 	}
 }
 
-DwarfMoon	"Crait System 11.D14"
+DwarfMoon	"Crait system 4.D14"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            3.84897e-008
@@ -10585,9 +6199,9 @@ DwarfMoon	"Crait System 11.D14"
 	}
 }
 
-DwarfMoon	"Crait System 11.D15"
+DwarfMoon	"Crait system 4.D15"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            5.22571e-008
@@ -10692,9 +6306,9 @@ DwarfMoon	"Crait System 11.D15"
 	}
 }
 
-DwarfMoon	"Crait System 11.D16"
+DwarfMoon	"Crait system 4.D16"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            7.10502e-008
@@ -10799,9 +6413,9 @@ DwarfMoon	"Crait System 11.D16"
 	}
 }
 
-DwarfMoon	"Crait System 11.D17"
+DwarfMoon	"Crait system 4.D17"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            9.68267e-008
@@ -10906,9 +6520,9 @@ DwarfMoon	"Crait System 11.D17"
 	}
 }
 
-DwarfMoon	"Crait System 11.D18"
+DwarfMoon	"Crait system 4.D18"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.32387e-007
@@ -11013,9 +6627,9 @@ DwarfMoon	"Crait System 11.D18"
 	}
 }
 
-DwarfMoon	"Crait System 11.D19"
+DwarfMoon	"Crait system 4.D19"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.81786e-007
@@ -11120,9 +6734,9 @@ DwarfMoon	"Crait System 11.D19"
 	}
 }
 
-DwarfMoon	"Crait System 11.D20"
+DwarfMoon	"Crait system 4.D20"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            2.50968e-007
@@ -11227,9 +6841,9 @@ DwarfMoon	"Crait System 11.D20"
 	}
 }
 
-DwarfMoon	"Crait System 11.D21"
+DwarfMoon	"Crait system 4.D21"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            3.48789e-007
@@ -11334,9 +6948,9 @@ DwarfMoon	"Crait System 11.D21"
 	}
 }
 
-DwarfMoon	"Crait System 11.D22"
+DwarfMoon	"Crait system 4.D22"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            4.88654e-007
@@ -11441,9 +7055,9 @@ DwarfMoon	"Crait System 11.D22"
 	}
 }
 
-DwarfMoon	"Crait System 11.D23"
+DwarfMoon	"Crait system 4.D23"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            6.91258e-007
@@ -11548,9 +7162,9 @@ DwarfMoon	"Crait System 11.D23"
 	}
 }
 
-DwarfMoon	"Crait System 11.D24"
+DwarfMoon	"Crait system 4.D24"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            9.89261e-007
@@ -11655,9 +7269,9 @@ DwarfMoon	"Crait System 11.D24"
 	}
 }
 
-DwarfMoon	"Crait System 11.D25"
+DwarfMoon	"Crait system 4.D25"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.43552e-006
@@ -11762,9 +7376,9 @@ DwarfMoon	"Crait System 11.D25"
 	}
 }
 
-DwarfMoon	"Crait System 11.D26"
+DwarfMoon	"Crait system 4.D26"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            2.11818e-006
@@ -11869,9 +7483,9 @@ DwarfMoon	"Crait System 11.D26"
 	}
 }
 
-Moon	"Crait System 11.10"
+Moon	"Crait system 4.10"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "IceWorld"
 
 	Mass            3.18934e-006
@@ -12001,9 +7615,9 @@ Moon	"Crait System 11.10"
 	}
 }
 
-Moon	"Crait System 11.11"
+Moon	"Crait system 4.11"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "IceWorld"
 
 	Mass            4.92261e-006
@@ -12133,9 +7747,9 @@ Moon	"Crait System 11.11"
 	}
 }
 
-DwarfMoon	"Crait System 11.D27"
+DwarfMoon	"Crait system 4.D27"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.42733e-011
@@ -12240,9 +7854,9 @@ DwarfMoon	"Crait System 11.D27"
 	}
 }
 
-DwarfMoon	"Crait System 11.D28"
+DwarfMoon	"Crait system 4.D28"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            2.84719e-011
@@ -12347,9 +7961,9 @@ DwarfMoon	"Crait System 11.D28"
 	}
 }
 
-DwarfMoon	"Crait System 11.D29"
+DwarfMoon	"Crait system 4.D29"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            5.19895e-011
@@ -12454,9 +8068,9 @@ DwarfMoon	"Crait System 11.D29"
 	}
 }
 
-DwarfMoon	"Crait System 11.D30"
+DwarfMoon	"Crait system 4.D30"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            8.91348e-011
@@ -12561,9 +8175,9 @@ DwarfMoon	"Crait System 11.D30"
 	}
 }
 
-DwarfMoon	"Crait System 11.D31"
+DwarfMoon	"Crait system 4.D31"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.45785e-010
@@ -12668,9 +8282,9 @@ DwarfMoon	"Crait System 11.D31"
 	}
 }
 
-DwarfMoon	"Crait System 11.D32"
+DwarfMoon	"Crait system 4.D32"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            2.29902e-010
@@ -12775,9 +8389,9 @@ DwarfMoon	"Crait System 11.D32"
 	}
 }
 
-DwarfMoon	"Crait System 11.D33"
+DwarfMoon	"Crait system 4.D33"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            3.52218e-010
@@ -12882,9 +8496,9 @@ DwarfMoon	"Crait System 11.D33"
 	}
 }
 
-DwarfMoon	"Crait System 11.D34"
+DwarfMoon	"Crait system 4.D34"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            5.27137e-010
@@ -12989,9 +8603,9 @@ DwarfMoon	"Crait System 11.D34"
 	}
 }
 
-DwarfMoon	"Crait System 11.D35"
+DwarfMoon	"Crait system 4.D35"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            7.73957e-010
@@ -13096,9 +8710,9 @@ DwarfMoon	"Crait System 11.D35"
 	}
 }
 
-DwarfMoon	"Crait System 11.D36"
+DwarfMoon	"Crait system 4.D36"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.11847e-009
@@ -13203,9 +8817,9 @@ DwarfMoon	"Crait System 11.D36"
 	}
 }
 
-DwarfMoon	"Crait System 11.D37"
+DwarfMoon	"Crait system 4.D37"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.59515e-009
@@ -13310,9 +8924,9 @@ DwarfMoon	"Crait System 11.D37"
 	}
 }
 
-DwarfMoon	"Crait System 11.D38"
+DwarfMoon	"Crait system 4.D38"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            2.25005e-009
@@ -13417,9 +9031,9 @@ DwarfMoon	"Crait System 11.D38"
 	}
 }
 
-DwarfMoon	"Crait System 11.D39"
+DwarfMoon	"Crait system 4.D39"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            3.14478e-009
@@ -13524,9 +9138,9 @@ DwarfMoon	"Crait System 11.D39"
 	}
 }
 
-DwarfMoon	"Crait System 11.D40"
+DwarfMoon	"Crait system 4.D40"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            4.36187e-009
@@ -13631,9 +9245,9 @@ DwarfMoon	"Crait System 11.D40"
 	}
 }
 
-DwarfMoon	"Crait System 11.D41"
+DwarfMoon	"Crait system 4.D41"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            6.01211e-009
@@ -13738,9 +9352,9 @@ DwarfMoon	"Crait System 11.D41"
 	}
 }
 
-DwarfMoon	"Crait System 11.D42"
+DwarfMoon	"Crait system 4.D42"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            8.2447e-009
@@ -13845,9 +9459,9 @@ DwarfMoon	"Crait System 11.D42"
 	}
 }
 
-DwarfMoon	"Crait System 11.D43"
+DwarfMoon	"Crait system 4.D43"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.12613e-008
@@ -13952,9 +9566,9 @@ DwarfMoon	"Crait System 11.D43"
 	}
 }
 
-DwarfMoon	"Crait System 11.D44"
+DwarfMoon	"Crait system 4.D44"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.53354e-008
@@ -14059,9 +9673,9 @@ DwarfMoon	"Crait System 11.D44"
 	}
 }
 
-DwarfMoon	"Crait System 11.D45"
+DwarfMoon	"Crait system 4.D45"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            2.08403e-008
@@ -14166,9 +9780,9 @@ DwarfMoon	"Crait System 11.D45"
 	}
 }
 
-DwarfMoon	"Crait System 11.D46"
+DwarfMoon	"Crait system 4.D46"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            2.82879e-008
@@ -14273,9 +9887,9 @@ DwarfMoon	"Crait System 11.D46"
 	}
 }
 
-DwarfMoon	"Crait System 11.D47"
+DwarfMoon	"Crait system 4.D47"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            3.83849e-008
@@ -14380,9 +9994,9 @@ DwarfMoon	"Crait System 11.D47"
 	}
 }
 
-DwarfMoon	"Crait System 11.D48"
+DwarfMoon	"Crait system 4.D48"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            5.21144e-008
@@ -14487,9 +10101,9 @@ DwarfMoon	"Crait System 11.D48"
 	}
 }
 
-DwarfMoon	"Crait System 11.D49"
+DwarfMoon	"Crait system 4.D49"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            7.0855e-008
@@ -14594,9 +10208,9 @@ DwarfMoon	"Crait System 11.D49"
 	}
 }
 
-DwarfMoon	"Crait System 11.D50"
+DwarfMoon	"Crait system 4.D50"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            9.65582e-008
@@ -14701,9 +10315,9 @@ DwarfMoon	"Crait System 11.D50"
 	}
 }
 
-DwarfMoon	"Crait System 11.D51"
+DwarfMoon	"Crait system 4.D51"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.32016e-007
@@ -14808,9 +10422,9 @@ DwarfMoon	"Crait System 11.D51"
 	}
 }
 
-DwarfMoon	"Crait System 11.D52"
+DwarfMoon	"Crait system 4.D52"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.81268e-007
@@ -14915,9 +10529,9 @@ DwarfMoon	"Crait System 11.D52"
 	}
 }
 
-DwarfMoon	"Crait System 11.D53"
+DwarfMoon	"Crait system 4.D53"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            2.5024e-007
@@ -15022,9 +10636,9 @@ DwarfMoon	"Crait System 11.D53"
 	}
 }
 
-DwarfMoon	"Crait System 11.D54"
+DwarfMoon	"Crait system 4.D54"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            3.47754e-007
@@ -15129,9 +10743,9 @@ DwarfMoon	"Crait System 11.D54"
 	}
 }
 
-DwarfMoon	"Crait System 11.D55"
+DwarfMoon	"Crait system 4.D55"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            4.87165e-007
@@ -15236,9 +10850,9 @@ DwarfMoon	"Crait System 11.D55"
 	}
 }
 
-DwarfMoon	"Crait System 11.D56"
+DwarfMoon	"Crait system 4.D56"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            6.89088e-007
@@ -15343,9 +10957,9 @@ DwarfMoon	"Crait System 11.D56"
 	}
 }
 
-DwarfMoon	"Crait System 11.D57"
+DwarfMoon	"Crait system 4.D57"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            9.86043e-007
@@ -15450,9 +11064,9 @@ DwarfMoon	"Crait System 11.D57"
 	}
 }
 
-DwarfMoon	"Crait System 11.D58"
+DwarfMoon	"Crait system 4.D58"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.43066e-006
@@ -15557,9 +11171,9 @@ DwarfMoon	"Crait System 11.D58"
 	}
 }
 
-DwarfMoon	"Crait System 11.D59"
+DwarfMoon	"Crait system 4.D59"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            2.11066e-006
@@ -15664,9 +11278,9 @@ DwarfMoon	"Crait System 11.D59"
 	}
 }
 
-Moon	"Crait System 11.12"
+Moon	"Crait system 4.12"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "IceWorld"
 
 	Mass            3.17738e-006
@@ -15796,9 +11410,9 @@ Moon	"Crait System 11.12"
 	}
 }
 
-Moon	"Crait System 11.13"
+Moon	"Crait system 4.13"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "IceWorld"
 
 	Mass            4.90295e-006
@@ -15928,9 +11542,9 @@ Moon	"Crait System 11.13"
 	}
 }
 
-DwarfMoon	"Crait System 11.D60"
+DwarfMoon	"Crait system 4.D60"
 {
-	ParentBody     "Crait System 11"
+	ParentBody     "Crait system 4"
 	Class	       "Asteroid"
 
 	Mass            1.41783e-011
