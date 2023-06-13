@@ -3361,12 +3361,12 @@ Star "Craci system" // system name
 // Grid location : N-17
 // Known planet : Crait
 // X : 3720.75, Y : -9035.775, Z : 4779.300564715764
-Star "Crait/Crait system" // Star name / system name
+Star "Crait (Star)/Crait system" // Star name / system name
 {
     RA         0.08729589191786305
     Dec        24.584203755267815
     Dist       382995220.8240964
-    Class      "M0 V" // random // TODO white (from atmosphere)"
+    Class      "G1 V"
 }
 
 // https://starwars.fandom.com/wiki/Cranan_12
