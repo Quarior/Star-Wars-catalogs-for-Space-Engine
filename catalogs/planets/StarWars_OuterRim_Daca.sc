@@ -174,154 +174,151 @@ DwarfPlanet	"Mon Luxu"
 	}
 }
 
-
-
-
 Planet	"Mon Calamari/Dac/Calamari/Mon Cala"
 {
 	ParentBody     "Daca"
-	Class	       "Terra"
-
+	Class          "Terra"
 	Mass            0.54249
-	Radius          5515.01
-	InertiaMoment   0.329909
-
-	Oblateness      0.00513353
-
-	RotationPeriod  21.0586
+	Radius          5515
+	InertiaMoment   0.32991
+	Oblateness      0.0051335
+	RotationPeriod  21.059
 	Obliquity       -91.601
-	EqAscendNode    156.929
+	EqAscendNode    156.93
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      2
-	Color          (0.853 0.819 0.830)
+	Brightness      0.5
+	BrightnessReal  1
 
 	Life
 	{
 		Class   "Organic"
 		Type    "Multicellular"
 		Biome   "Marine/Terrestrial"
-		Panspermia "false"
 	}
 
 	Surface
 	{
-		SurfStyle       0.115049
-		OceanStyle      0.8
-		Randomize      (-0.518, -0.862, -0.069)
-		colorDistMagn   0.0522856
-		colorDistFreq   766.954
-		detailScale     14184.9
-		colorConversion true
+		Preset         "terra_wet_LB_blue.cfg"
+		SurfStyle       0.11505
+		Randomize      (-0.518, -0.862, 0.656)
+		colorDistMagn   0.052286
+		colorDistFreq   766.95
+		detailScale     14185
 		drivenDarkening -1
-		seaLevel        0.979285
+		seaLevel        0.85
 		snowLevel       1
-		tropicLatitude  0.337456
-		icecapLatitude  0.987539
-		icecapHeight    0.179647
-		climatePole     0.690476
-		climateTropic   0.492063
-		climateEquator  0.571429
+		tropicLatitude  0.33746
+		icecapLatitude  0.98754
+		icecapHeight    0.17965
+		climatePole     0.69048
+		climateTropic   0.49206
+		climateEquator  0.57143
+		climateSteppeMin 0.3125
+		climateSteppeMax 0.5625
+		climateForestMin 0.5
+		climateForestMax 0.6875
+		climateGrassMin  0.625
+		climateGrassMax  0.8125
+		humidity        1
 		heightTempGrad  0.625
-		tropicWidth     0.0816573
-		mainFreq        1.84912
-		venusFreq       1
-		venusMagn       0
+		beachWidth      0.0011077
+		tropicWidth     0.081657
+		mainFreq        3.1679
+		venusFreq       0.58015
+		venusMagn       0.38168
 		mareFreq        0.001
 		mareDensity     0
-		terraceProb     0.409557
-		erosion         0.113271
-		montesMagn      0.189775
+		terraceProb     0.40956
+		erosion         0.11327
+		montesMagn      0.18978
 		montesFreq      266.19
-		montesSpiky     0.871855
-		montesFraction  0.330392
-		dunesMagn       0.0412341
-		dunesFreq       38.4502
-		dunesFraction   0.659302
-		hillsMagn       0.122711
+		montesSpiky     0.87186
+		montesFraction  0.33039
+		dunesMagn       0.041234
+		dunesFreq       38.45
+		dunesFraction   0.6593
+		hillsMagn       0.12271
 		hillsFreq       551.04
-		hillsFraction   0.269323
-		hills2Fraction  0.876676
-		riversMagn      100
+		hillsFraction   0.26932
+		hills2Fraction  0.87668
+		riversMagn      77.863
 		riversFreq      0
 		riversSin       0
-		riversOctaves   0
-		canyonsMagn     0.0524796
+		riftsMagn       0
+		riftsFreq       4.2896
+		riftsSin        5.8018
+		canyonsMagn     0.05248
 		canyonsFreq     100
-		canyonFraction  0.596232
-		cracksMagn      0.0703947
-		cracksFreq      0.379182
+		canyonsFraction 0.59623
+		cracksMagn      0.070395
+		cracksFreq      0.37918
 		cracksOctaves   0
 		craterMagn      0
-		craterFreq      11.2531
-		craterDensity   0.193116
+		craterFreq      11.253
+		craterDensity   0.19312
 		craterOctaves   0
 		craterRayedFactor 0
-		volcanoMagn     0.659365
-		volcanoFreq     1.476095
-		volcanoDensity  0.0793016
-		volcanoOctaves  5
-		volcanoActivity 0.301587
+		volcanoMagn     0.61832
+		volcanoFreq     1.2061
+		volcanoDensity  0.079302
+		volcanoOctaves  4
+		volcanoActivity 0.30159
 		volcanoFlows    0.5851
-		volcanoRadius   1.0
-		volcanoTemp     1489.36
+		volcanoRadius   0.31298
+		volcanoTemp     1489.4
 		lavaCoverTidal  0
 		lavaCoverSun    0
 		lavaCoverYoung  0
-		stripeZones     2.39837
+		stripeZones     2.3984
 		stripeFluct     0
 		stripeTwist     0.3015
-		cycloneMagn     14.7619
-		cycloneFreq     1.12698
-		cycloneDensity  0.453247
+		cycloneMagn     11.45
+		cycloneFreq     1.127
+		cycloneDensity  0.36641
 		cycloneOctaves  2
-		colorSea       (0.010, 0.050, 0.390, 1.000)
-		colorShelf     (0.150, 0.480, 0.460, 1.000)
-		colorBeach     (0.820, 0.730, 0.570, 0.000)
-		colorDesert    (0.420, 0.360, 0.220, 0.000)
-		colorLowland   (0.220, 0.230, 0.220, 0.000)
-		colorUpland    (0.570, 0.540, 0.420, 0.000)
-		colorRock      (0.100, 0.100, 0.100, 0.000)
-		colorSnow      (1.000, 1.000, 1.000, 1.308)
-		colorLowPlants (0.100, 0.160, 0.070, 0.000)
-		colorUpPlants  (0.090, 0.110, 0.040, 0.000)
 		BumpHeight      20
-		BumpOffset      19.0857
+		BumpOffset      19.086
 		DiffMapAlpha   "Water"
 		SpecBrightWater 0.65
 		SpecBrightIce   0.85
-		SpecularPower   55
-		Hapke           0.927059
+		RoughnessWater  0.39877
+		RoughnessIce    0.39877
+		SpecularScale   1
+		RoughnessBias   0.5
+		Hapke           0.92706
 		SpotBright      4
 		SpotWidth       0.05
 		DayAmbient      0.07
 	}
 
-	Clouds
-	{
-		Height          5.83789
-		Velocity        73.7016
-		BumpHeight      5.83813
-		Hapke           0.2
-		SpotBright      2
-		SpotWidth       0.15
-		DayAmbient      2
-		mainFreq        1.2015
-		mainOctaves     10
-		Coverage        0.281905
-		stripeZones     2.39837
-		stripeFluct     0
-		stripeTwist     0.3015
-	}
-
 	Ocean
 	{
-		Height          19.0857
+		Depth           17
 		Hapke           0
 		SpotBright      2
 		SpotWidth       0.15
 		DayAmbient      2
+		ModulateBright  1
+	}
+
+	Clouds
+	{
+		Height          11.112
+		Velocity        73.702
+		BumpHeight      5.8381
+		Hapke           0.2
+		SpotBright      2
+		SpotWidth       0.15
+		DayAmbient      2
+		ModulateBright  1
+		mainFreq        0.75573
+		mainOctaves     10
+		Coverage        0.45802
+		stripeZones     2.3984
+		stripeFluct     0
+		stripeTwist     0.3015
 	}
 
 	NoLava          true
@@ -330,42 +327,46 @@ Planet	"Mon Calamari/Dac/Calamari/Mon Cala"
 	{
 		Model          "Earth"
 		Height          80.291
-		Density         1.68999
-		Pressure        1.20872
-		Greenhouse      18.1074
+		Density         1.69
+		Pressure        1.2087
+		Greenhouse      18.107
 		Bright          10
 		Opacity         1
-		SkyLight        3.33333
+		SkyLight        3.3333
 		Hue             0
 		Saturation      1
 
 		Composition
 		{
-			N2    	58.7169
-			O2    	37.6107
-			Ar    	2.4317
-			CO2   	0.5479
-			H2O   	0.53828
-			Ne    	0.15441
+			N2        	58.717
+			O2        	37.611
+			Ar        	2.4317
+			CO2       	0.5479
+			H2O       	0.53828
+			Ne        	0.15441
 		}
 	}
 
 	Aurora
 	{
-		Height      62.4332
-		NorthLat    63.3354
-		NorthLon    72.7421
-		NorthRadius 1061.51
-		NorthWidth  199.617
-		NorthRings  5
-		NorthBright 0.3
+		Height         62.433
+		NorthLat       63.335
+		NorthLon       72.742
+		NorthRadius    1061.5
+		NorthWidth     199.62
+		NorthRings     5
+		NorthBright    0.3
+		NorthFlashFreq 76.779
+		NorthMoveSpeed 1.0081
 		NorthParticles 50000
-		SouthLat    -49.2776
-		SouthLon    256.474
-		SouthRadius 1164.78
-		SouthWidth  314.246
-		SouthRings  5
-		SouthBright 0.3
+		SouthLat       -49.278
+		SouthLon       180
+		SouthRadius    1164.8
+		SouthWidth     314.25
+		SouthRings     5
+		SouthBright    0.3
+		SouthFlashFreq 80.356
+		SouthMoveSpeed 0.59069
 		SouthParticles 50000
 		TopColor    (1.000 1.000 1.000)
 		BottomColor (0.000 1.000 0.000)
@@ -380,8 +381,8 @@ Planet	"Mon Calamari/Dac/Calamari/Mon Cala"
 	Orbit
 	{
 		RefPlane        "Equator"
-		SemiMajorAxis   1.27813
-		Period          1.09008
+		Period          0.9541096
+		SemiMajorAxis   1.17020459
 		Eccentricity    0.0079415
 		Inclination     269.084
 		AscendingNode   160.285
@@ -389,7 +390,6 @@ Planet	"Mon Calamari/Dac/Calamari/Mon Cala"
 		MeanAnomaly     137.891
 	}
 }
-
 
 
 Moon	"Dac's Moon"
@@ -409,7 +409,7 @@ Moon	"Dac's Moon"
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.799 0.760 0.723)
 
 	Surface
@@ -530,9 +530,6 @@ Moon	"Dac's Moon"
 	}
 }
 
-
-
-
 DwarfPlanet	"Iceberg I"
 {
 	ParentBody     "Daca"
@@ -550,7 +547,7 @@ DwarfPlanet	"Iceberg I"
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
-	Brightness      2
+	//Brightness      2
 	Color          (0.832 0.750 0.674)
 
 	Surface
@@ -669,7 +666,7 @@ DwarfPlanet	"Iceberg I"
 
 
 
-DwarfMoon	"Iceberg I.D1"
+DwarfMoon	"Iceberg I 1"
 {
 	ParentBody     "Iceberg I"
 	Class	       "Asteroid"
@@ -684,7 +681,7 @@ DwarfMoon	"Iceberg I.D1"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.626 0.620 0.619)
 
 	Surface
@@ -775,8 +772,6 @@ DwarfMoon	"Iceberg I.D1"
 	}
 }
 
-
-
 Planet	"Iceberg II"
 {
 	ParentBody     "Daca"
@@ -794,7 +789,7 @@ Planet	"Iceberg II"
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
-	Brightness      2
+	//Brightness      2
 	Color          (0.796 0.709 0.681)
 
 	Surface
@@ -911,9 +906,6 @@ Planet	"Iceberg II"
 	}
 }
 
-
-
-
 Planet	"Mon Eron"
 {
 	ParentBody     "Daca"
@@ -931,7 +923,7 @@ Planet	"Mon Eron"
 
 	AlbedoBond      0.359103
 	AlbedoGeom      0.310924
-	Brightness      2
+	//Brightness      2
 	Color          (0.704 0.637 0.574)
 
 	Life
@@ -1134,7 +1126,7 @@ Planet	"Mon Eron"
 		FrontBright     0.673016
 		BackBright      0.822736
 		Density         0.556095
-		Brightness      1
+		//Brightness      1
 	}
 
 	NoAccretionDisk true
@@ -1154,10 +1146,7 @@ Planet	"Mon Eron"
 	}
 }
 
-
-
-
-Moon	"Mon Eron.1"
+Moon	"Mon Eron 1"
 {
 	ParentBody     "Mon Eron"
 	Class	       "IceWorld"
@@ -1174,7 +1163,7 @@ Moon	"Mon Eron.1"
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
-	Brightness      2
+	//Brightness      2
 	Color          (0.637 0.558 0.504)
 
 	Surface
@@ -1292,9 +1281,7 @@ Moon	"Mon Eron.1"
 }
 
 
-
-
-DwarfMoon	"Mon Eron.D1"
+DwarfMoon	"Mon Eron 2"
 {
 	ParentBody     "Mon Eron"
 	Class	       "Asteroid"
@@ -1309,7 +1296,7 @@ DwarfMoon	"Mon Eron.D1"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.479 0.473 0.467)
 
 	Surface
@@ -1401,11 +1388,6 @@ DwarfMoon	"Mon Eron.D1"
 	}
 }
 
-
-
-
-
-
 Planet	"Sep Elopon"
 {
 	ParentBody     "Daca"
@@ -1423,7 +1405,7 @@ Planet	"Sep Elopon"
 
 	AlbedoBond      0.507769
 	AlbedoGeom      0.609323
-	Brightness      2
+	//Brightness      2
 
 	Surface
 	{
@@ -1544,7 +1526,7 @@ Planet	"Sep Elopon"
 		FrontBright     0.952511
 		BackBright      0.85574
 		Density         0.944909
-		Brightness      1
+		//Brightness      1
 	}
 
 	NoAccretionDisk true
@@ -1566,7 +1548,7 @@ Planet	"Sep Elopon"
 
 
 
-Moon	"Sep Elopon.1"
+Moon	"Sep Elopon 1"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Desert"
@@ -1583,7 +1565,7 @@ Moon	"Sep Elopon.1"
 
 	AlbedoBond      0.368676
 	AlbedoGeom      0.442411
-	Brightness      2
+	//Brightness      2
 	Color          (0.489 0.482 0.478)
 
 	Surface
@@ -1758,7 +1740,7 @@ Moon	"Sep Elopon.1"
 
 
 
-Moon	"Sep Elopon.2"
+Moon	"Sep Elopon 2"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Desert"
@@ -1775,7 +1757,7 @@ Moon	"Sep Elopon.2"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      2
+	//Brightness      2
 	Color          (0.709 0.704 0.700)
 
 	Surface
@@ -1942,7 +1924,7 @@ Moon	"Sep Elopon.2"
 
 
 
-Moon	"Sep Elopon.3"
+Moon	"Sep Elopon 3"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Selena"
@@ -1957,7 +1939,7 @@ Moon	"Sep Elopon.3"
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.601 0.595 0.592)
 
 	Surface
@@ -2093,7 +2075,7 @@ Moon	"Sep Elopon.3"
 
 
 
-DwarfMoon	"Sep Elopon.D1"
+DwarfMoon	"Sep Elopon 4"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -2108,7 +2090,7 @@ DwarfMoon	"Sep Elopon.D1"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.478 0.474 0.473)
 
 	Surface
@@ -2202,7 +2184,7 @@ DwarfMoon	"Sep Elopon.D1"
 
 
 
-DwarfMoon	"Sep Elopon.D2"
+DwarfMoon	"Sep Elopon 5"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -2217,7 +2199,7 @@ DwarfMoon	"Sep Elopon.D2"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.609 0.605 0.600)
 
 	Surface
@@ -2311,7 +2293,7 @@ DwarfMoon	"Sep Elopon.D2"
 
 
 
-DwarfMoon	"Sep Elopon.D3"
+DwarfMoon	"Sep Elopon 6"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -2326,7 +2308,7 @@ DwarfMoon	"Sep Elopon.D3"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.545 0.541 0.540)
 
 	Surface
@@ -2420,7 +2402,7 @@ DwarfMoon	"Sep Elopon.D3"
 
 
 
-DwarfMoon	"Sep Elopon.D4"
+DwarfMoon	"Sep Elopon 7"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -2435,7 +2417,7 @@ DwarfMoon	"Sep Elopon.D4"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.683 0.600 0.499)
 
 	Surface
@@ -2529,7 +2511,7 @@ DwarfMoon	"Sep Elopon.D4"
 
 
 
-DwarfMoon	"Sep Elopon.D5"
+DwarfMoon	"Sep Elopon 8"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -2544,7 +2526,7 @@ DwarfMoon	"Sep Elopon.D5"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.676 0.572 0.479)
 
 	Surface
@@ -2638,7 +2620,7 @@ DwarfMoon	"Sep Elopon.D5"
 
 
 
-DwarfMoon	"Sep Elopon.D6"
+DwarfMoon	"Sep Elopon 9"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -2653,7 +2635,7 @@ DwarfMoon	"Sep Elopon.D6"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.756 0.707 0.654)
 
 	Surface
@@ -2747,7 +2729,7 @@ DwarfMoon	"Sep Elopon.D6"
 
 
 
-DwarfMoon	"Sep Elopon.D7"
+DwarfMoon	"Sep Elopon 10"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -2762,7 +2744,7 @@ DwarfMoon	"Sep Elopon.D7"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.437 0.433 0.427)
 
 	Surface
@@ -2856,7 +2838,7 @@ DwarfMoon	"Sep Elopon.D7"
 
 
 
-DwarfMoon	"Sep Elopon.D8"
+DwarfMoon	"Sep Elopon 11"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -2871,7 +2853,7 @@ DwarfMoon	"Sep Elopon.D8"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.620 0.587 0.524)
 
 	Surface
@@ -2965,7 +2947,7 @@ DwarfMoon	"Sep Elopon.D8"
 
 
 
-DwarfMoon	"Sep Elopon.D9"
+DwarfMoon	"Sep Elopon 12"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -2980,7 +2962,7 @@ DwarfMoon	"Sep Elopon.D9"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.569 0.561 0.558)
 
 	Surface
@@ -3074,7 +3056,7 @@ DwarfMoon	"Sep Elopon.D9"
 
 
 
-DwarfMoon	"Sep Elopon.D10"
+DwarfMoon	"Sep Elopon 13"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -3089,7 +3071,7 @@ DwarfMoon	"Sep Elopon.D10"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.490 0.404 0.345)
 
 	Surface
@@ -3183,7 +3165,7 @@ DwarfMoon	"Sep Elopon.D10"
 
 
 
-DwarfMoon	"Sep Elopon.D11"
+DwarfMoon	"Sep Elopon 14"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -3198,7 +3180,7 @@ DwarfMoon	"Sep Elopon.D11"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.649 0.645 0.641)
 
 	Surface
@@ -3292,7 +3274,7 @@ DwarfMoon	"Sep Elopon.D11"
 
 
 
-DwarfMoon	"Sep Elopon.D12"
+DwarfMoon	"Sep Elopon 15"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -3307,7 +3289,7 @@ DwarfMoon	"Sep Elopon.D12"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.731 0.634 0.577)
 
 	Surface
@@ -3401,7 +3383,7 @@ DwarfMoon	"Sep Elopon.D12"
 
 
 
-DwarfMoon	"Sep Elopon.D13"
+DwarfMoon	"Sep Elopon 16"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -3416,7 +3398,7 @@ DwarfMoon	"Sep Elopon.D13"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.533 0.530 0.529)
 
 	Surface
@@ -3510,7 +3492,7 @@ DwarfMoon	"Sep Elopon.D13"
 
 
 
-DwarfMoon	"Sep Elopon.D14"
+DwarfMoon	"Sep Elopon 17"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -3525,7 +3507,7 @@ DwarfMoon	"Sep Elopon.D14"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.651 0.645 0.643)
 
 	Surface
@@ -3619,7 +3601,7 @@ DwarfMoon	"Sep Elopon.D14"
 
 
 
-DwarfMoon	"Sep Elopon.D15"
+DwarfMoon	"Sep Elopon 18"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -3634,7 +3616,7 @@ DwarfMoon	"Sep Elopon.D15"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.729 0.678 0.654)
 
 	Surface
@@ -3728,7 +3710,7 @@ DwarfMoon	"Sep Elopon.D15"
 
 
 
-DwarfMoon	"Sep Elopon.D16"
+DwarfMoon	"Sep Elopon 19"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -3743,7 +3725,7 @@ DwarfMoon	"Sep Elopon.D16"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.540 0.530 0.526)
 
 	Surface
@@ -3837,7 +3819,7 @@ DwarfMoon	"Sep Elopon.D16"
 
 
 
-DwarfMoon	"Sep Elopon.D17"
+DwarfMoon	"Sep Elopon 20"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -3852,7 +3834,7 @@ DwarfMoon	"Sep Elopon.D17"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.763 0.718 0.645)
 
 	Surface
@@ -3946,7 +3928,7 @@ DwarfMoon	"Sep Elopon.D17"
 
 
 
-DwarfMoon	"Sep Elopon.D18"
+DwarfMoon	"Sep Elopon 21"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -3961,7 +3943,7 @@ DwarfMoon	"Sep Elopon.D18"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.466 0.463 0.461)
 
 	Surface
@@ -4055,7 +4037,7 @@ DwarfMoon	"Sep Elopon.D18"
 
 
 
-DwarfMoon	"Sep Elopon.D19"
+DwarfMoon	"Sep Elopon 22"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -4070,7 +4052,7 @@ DwarfMoon	"Sep Elopon.D19"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.810 0.789 0.755)
 
 	Surface
@@ -4164,7 +4146,7 @@ DwarfMoon	"Sep Elopon.D19"
 
 
 
-DwarfMoon	"Sep Elopon.D20"
+DwarfMoon	"Sep Elopon 23"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -4179,7 +4161,7 @@ DwarfMoon	"Sep Elopon.D20"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.696 0.663 0.624)
 
 	Surface
@@ -4273,7 +4255,7 @@ DwarfMoon	"Sep Elopon.D20"
 
 
 
-DwarfMoon	"Sep Elopon.D21"
+DwarfMoon	"Sep Elopon 24"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -4288,7 +4270,7 @@ DwarfMoon	"Sep Elopon.D21"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.844 0.806 0.738)
 
 	Surface
@@ -4382,7 +4364,7 @@ DwarfMoon	"Sep Elopon.D21"
 
 
 
-DwarfMoon	"Sep Elopon.D22"
+DwarfMoon	"Sep Elopon 25"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -4397,7 +4379,7 @@ DwarfMoon	"Sep Elopon.D22"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.525 0.521 0.519)
 
 	Surface
@@ -4491,7 +4473,7 @@ DwarfMoon	"Sep Elopon.D22"
 
 
 
-DwarfMoon	"Sep Elopon.D23"
+DwarfMoon	"Sep Elopon 26"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -4506,7 +4488,7 @@ DwarfMoon	"Sep Elopon.D23"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.520 0.428 0.312)
 
 	Surface
@@ -4600,7 +4582,7 @@ DwarfMoon	"Sep Elopon.D23"
 
 
 
-DwarfMoon	"Sep Elopon.D24"
+DwarfMoon	"Sep Elopon 27"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -4615,7 +4597,7 @@ DwarfMoon	"Sep Elopon.D24"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.644 0.642 0.639)
 
 	Surface
@@ -4709,7 +4691,7 @@ DwarfMoon	"Sep Elopon.D24"
 
 
 
-DwarfMoon	"Sep Elopon.D25"
+DwarfMoon	"Sep Elopon 28"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -4724,7 +4706,7 @@ DwarfMoon	"Sep Elopon.D25"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.557 0.483 0.452)
 
 	Surface
@@ -4818,7 +4800,7 @@ DwarfMoon	"Sep Elopon.D25"
 
 
 
-DwarfMoon	"Sep Elopon.D26"
+DwarfMoon	"Sep Elopon 29"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -4833,7 +4815,7 @@ DwarfMoon	"Sep Elopon.D26"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.634 0.506 0.359)
 
 	Surface
@@ -4927,7 +4909,7 @@ DwarfMoon	"Sep Elopon.D26"
 
 
 
-DwarfMoon	"Sep Elopon.D27"
+DwarfMoon	"Sep Elopon 30"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -4942,7 +4924,7 @@ DwarfMoon	"Sep Elopon.D27"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.627 0.516 0.473)
 
 	Surface
@@ -5036,7 +5018,7 @@ DwarfMoon	"Sep Elopon.D27"
 
 
 
-DwarfMoon	"Sep Elopon.D28"
+DwarfMoon	"Sep Elopon 31"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -5051,7 +5033,7 @@ DwarfMoon	"Sep Elopon.D28"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.520 0.518 0.514)
 
 	Surface
@@ -5145,7 +5127,7 @@ DwarfMoon	"Sep Elopon.D28"
 
 
 
-DwarfMoon	"Sep Elopon.D29"
+DwarfMoon	"Sep Elopon 32"
 {
 	ParentBody     "Sep Elopon"
 	Class	       "Asteroid"
@@ -5160,7 +5142,7 @@ DwarfMoon	"Sep Elopon.D29"
 
 	AlbedoBond      0.2
 	AlbedoGeom      0.24
-	Brightness      3.5
+	//Brightness      3.5
 	Color          (0.621 0.618 0.614)
 
 	Surface
@@ -5272,7 +5254,7 @@ DwarfPlanet	"Iceberg III"
 	SlopeParam      4.54948
 	AlbedoBond      0.05
 	AlbedoGeom      0.06
-	Brightness      1
+	//Brightness      1
 	Color          (0.754 0.751 0.750)
 
 	Surface
@@ -5392,7 +5374,7 @@ Planet	"Iceberg IV"
 
 	AlbedoBond      0.3
 	AlbedoGeom      0.36
-	Brightness      2
+	//Brightness      2
 	Color          (0.633 0.507 0.273)
 
 	Surface
