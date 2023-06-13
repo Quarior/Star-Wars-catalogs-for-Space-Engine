@@ -16,7 +16,7 @@ Planet	"Bruss"
 	{
 		Epoch          2454762
 		//Period         0.591632     // Orbital period in years 
-		SemiMajorAxis  1.19216
+		SemiMajorAxis  2.324
 		Inclination    0.1
 		Eccentricity   0.03
 		ArgOfPericen   9.2
@@ -29,7 +29,7 @@ Barycenter	"Boz Pity-Mourn"
 	Orbit
 	{
 		//SemiMajorAxis   1.4612
-		Period          2.1237443	// 778 local days
+		Period          4.8845610958904	// 778 local days
 		Eccentricity    0.005
 		Inclination     0.0
 		AscendingNode   0
@@ -193,7 +193,7 @@ Planet    "Boz Pity"
 		Height          80
 		Density         1.83
 		Pressure        1.2
-		Greenhouse      18
+		Greenhouse      26.0197
 		Bright          10
 		Opacity         1
 		SkyLight        1
@@ -310,7 +310,7 @@ Planet	"Pine"
 	{
 		Epoch          2454762
 		//Period         4.3202     // Orbital period in years 
-		SemiMajorAxis  2.4081
+		SemiMajorAxis  4.616
 		Inclination    0.1
 		Eccentricity   0.03
 		ArgOfPericen   9.2
@@ -334,7 +334,7 @@ Planet	"Nyss"
 	{
 		Epoch          2454762
 		//Period         7.322     // Orbital period in years 
-		SemiMajorAxis  3.4225
+		SemiMajorAxis  6.913
 		Inclination    0.1
 		Eccentricity   0.03
 		ArgOfPericen   9.2
