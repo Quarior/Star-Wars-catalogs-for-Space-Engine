@@ -67,7 +67,7 @@ Star "Darlo/Dagobah system" // Star name / system name
     RA         0.08730845770723648
     Dec        24.583739989211512
     Dist       383005413.98945737
-    Class      "K4 V" // Yellow
+    Class      "G7 V" // Yellow
 }
 
 // https://starwars.fandom.com/wiki/Dagu
