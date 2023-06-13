@@ -174,7 +174,7 @@ Planet	"Iridonia/Iridonia System 1"
 		Height          223.46
 		Density         1e-09
 		Pressure        1.8828
-		Greenhouse      34.351
+		Greenhouse      59.542
 		Bright          5.4962
 		Opacity         0.25397
 		SkyLight        4.5238
