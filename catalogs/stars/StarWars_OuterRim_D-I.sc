@@ -2517,7 +2517,7 @@ Star "Ea/Geonosis system" // Star name / system name
     RA         0.0872365176220923
     Dec        24.584363518682345
     Dist       383007620.33495957
-    Class      "K4 V" // Yellow-white
+    Class      "G8 V" // Yellow-white
 }
 
 // http://starwars.wikia.com/wiki/Gerrenthum
