@@ -340,7 +340,7 @@ Star "Dina/Dantooine system" // Star name / system name
     RA         0.08733285339797794
     Dec        24.587127676539467
     Dist       383008795.8982658
-    Class      "K0 V" // Yellow-white
+    Class      "G2 V" // Yellow-white
 }
 
 // https://starwars.fandom.com/wiki/Dar%27Or
